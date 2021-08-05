@@ -1,0 +1,1288 @@
+1	00:03:06.549	'27123197': ping failed
+1	00:03:07.609	'27123197': connect failed [Connection échouée]
+1	03:13:19.067	MQL5.community: authorization failed
+1	03:13:19.787	MQL5.community: authorization failed
+0	03:13:25.546	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	03:13:44.299	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	03:13:50.278	'27123197': previous successful authorization performed from 154.126.112.132
+0	03:14:57.443	'27123197': auto connecting to a better access point Access Point #4 (ping is 397.33 ms)
+0	03:14:59.635	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 397.33 ms)
+0	03:15:08.686	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 397.33 ms)
+0	03:15:10.526	'27123197': previous successful authorization performed from 197.149.38.88
+2	03:15:11.980	Custom indicator #P4L CandleTime CADCHF,H1: loaded successfully
+2	03:15:11.995	Custom indicator TURBO PLUS+ CADCHF,H1: loaded successfully
+2	03:15:12.004	Custom indicator ALERT SIGNAL CADCHF,H1: loaded successfully
+2	03:15:12.014	Custom indicator Trend Trading\TrendTradingCloud CADCHF,H1: loaded successfully
+2	03:15:12.024	Custom indicator RSI Divergence Levels CADCHF,H1: loaded successfully
+2	03:15:12.033	Custom indicator MACD_Volumes-2 CADCHF,H1: loaded successfully
+2	03:15:12.040	Custom indicator Trend Trading\CloudSignalLines CADCHF,H1: loaded successfully
+2	03:15:12.186	Custom indicator MBFX Timing CADCHF,H1: loaded successfully
+0	03:16:52.610	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 397.33 ms)
+0	03:17:04.611	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 397.33 ms)
+0	03:17:06.277	'27123197': previous successful authorization performed from 197.149.38.88
+0	03:45:27.253	'27123197': modify order #65135186 sell 0.10 EURGBP at 0.87312 sl: 0.88262 tp: 0.87035 -> sl: 0.88262 tp: 0.87124
+0	03:45:33.087	'27123197': order #65135186 sell 0.10 EURGBP at 0.87312 was modified -> sl: 0.88262 tp: 0.87124
+0	03:45:36.519	'27123197': modify order #65135186 sell 0.10 EURGBP at 0.87312 sl: 0.88262 tp: 0.87124 -> sl: 0.87773 tp: 0.87124
+0	03:45:37.959	'27123197': order #65135186 sell 0.10 EURGBP at 0.87312 was modified -> sl: 0.87773 tp: 0.87124
+0	03:46:07.307	'27123197': modify order #65107604 buy 0.10 CADCHF at 0.69408 sl: 0.67986 tp: 0.69518 -> sl: 0.68747 tp: 0.69518
+0	03:46:13.248	'27123197': order #65107604 buy 0.10 CADCHF at 0.69408 was modified -> sl: 0.68747 tp: 0.69518
+2	04:09:30.517	Expert Admiral - Connect GBPCAD,M5: loaded successfully
+2	04:09:54.939	Custom indicator MBFX Timing EURAUD,H1: removed
+2	04:09:54.962	Custom indicator #P4L CandleTime EURAUD,H1: removed
+2	04:09:54.964	Custom indicator TURBO PLUS+ EURAUD,H1: removed
+2	04:09:54.966	Custom indicator ALERT SIGNAL EURAUD,H1: removed
+2	04:09:54.969	Custom indicator TrendTradingCloud EURAUD,H1: removed
+2	04:09:54.974	Custom indicator RSI Divergence Levels EURAUD,H1: removed
+2	04:09:54.978	Custom indicator MACD_Volumes-2 EURAUD,H1: removed
+2	04:09:54.981	Custom indicator CloudSignalLines EURAUD,H1: removed
+2	04:10:24.543	Expert Admiral - Mini Terminal AUDJPY,H1: removed
+2	04:10:36.197	Custom indicator MBFX Timing AUDJPY,H1: removed
+2	04:10:40.709	Custom indicator MBFX Timing AUDJPY,M30: loaded successfully
+2	04:11:34.292	Expert Admiral - Mini Terminal GBPUSD,M15: removed
+2	04:12:40.949	Custom indicator MBFX Timing GBPUSD,M15: removed
+2	04:12:40.961	Custom indicator #P4L CandleTime GBPUSD,M15: removed
+2	04:12:40.963	Custom indicator TURBO PLUS+ GBPUSD,M15: removed
+2	04:12:40.965	Custom indicator ALERT SIGNAL GBPUSD,M15: removed
+2	04:12:40.966	Custom indicator TrendTradingCloud GBPUSD,M15: removed
+2	04:12:40.971	Custom indicator RSI Divergence Levels GBPUSD,M15: removed
+2	04:12:40.973	Custom indicator MACD_Volumes-2 GBPUSD,M15: removed
+2	04:12:40.974	Custom indicator CloudSignalLines GBPUSD,M15: removed
+2	04:13:05.721	Custom indicator MBFX Timing EURAUD,H1: removed
+2	04:13:05.728	Custom indicator #P4L CandleTime EURAUD,H1: removed
+2	04:13:05.732	Custom indicator TURBO PLUS+ EURAUD,H1: removed
+2	04:13:05.736	Custom indicator ALERT SIGNAL EURAUD,H1: removed
+2	04:13:05.738	Custom indicator TrendTradingCloud EURAUD,H1: removed
+2	04:13:05.740	Custom indicator RSI Divergence Levels EURAUD,H1: removed
+2	04:13:05.742	Custom indicator MACD_Volumes-2 EURAUD,H1: removed
+2	04:13:05.743	Custom indicator CloudSignalLines EURAUD,H1: removed
+2	04:13:16.966	Custom indicator MBFX Timing EURCAD,H1: removed
+2	04:13:16.976	Custom indicator #P4L CandleTime EURCAD,H1: removed
+2	04:13:16.978	Custom indicator TURBO PLUS+ EURCAD,H1: removed
+2	04:13:16.979	Custom indicator ALERT SIGNAL EURCAD,H1: removed
+2	04:13:16.980	Custom indicator TrendTradingCloud EURCAD,H1: removed
+2	04:13:16.982	Custom indicator RSI Divergence Levels EURCAD,H1: removed
+2	04:13:16.984	Custom indicator MACD_Volumes-2 EURCAD,H1: removed
+2	04:13:16.985	Custom indicator CloudSignalLines EURCAD,H1: removed
+2	04:13:25.806	Custom indicator MBFX Timing CHFJPY,H1: removed
+2	04:13:25.817	Custom indicator #P4L CandleTime CHFJPY,H1: removed
+2	04:13:25.819	Custom indicator TURBO PLUS+ CHFJPY,H1: removed
+2	04:13:25.821	Custom indicator ALERT SIGNAL CHFJPY,H1: removed
+2	04:13:25.823	Custom indicator TrendTradingCloud CHFJPY,H1: removed
+2	04:13:25.825	Custom indicator RSI Divergence Levels CHFJPY,H1: removed
+2	04:13:25.827	Custom indicator MACD_Volumes-2 CHFJPY,H1: removed
+2	04:13:25.829	Custom indicator CloudSignalLines CHFJPY,H1: removed
+2	04:13:29.498	Custom indicator MBFX Timing WTI,H1: removed
+2	04:13:29.503	Custom indicator #P4L CandleTime WTI,H1: removed
+2	04:13:29.505	Custom indicator TURBO PLUS+ WTI,H1: removed
+2	04:13:29.506	Custom indicator ALERT SIGNAL WTI,H1: removed
+2	04:13:29.508	Custom indicator TrendTradingCloud WTI,H1: removed
+2	04:13:29.510	Custom indicator RSI Divergence Levels WTI,H1: removed
+2	04:13:29.513	Custom indicator MACD_Volumes-2 WTI,H1: removed
+2	04:13:29.515	Custom indicator CloudSignalLines WTI,H1: removed
+2	04:13:35.117	Custom indicator MBFX Timing CADCHF,H1: removed
+2	04:13:35.126	Custom indicator #P4L CandleTime CADCHF,H1: removed
+2	04:13:35.129	Custom indicator TURBO PLUS+ CADCHF,H1: removed
+2	04:13:35.131	Custom indicator ALERT SIGNAL CADCHF,H1: removed
+2	04:13:35.132	Custom indicator TrendTradingCloud CADCHF,H1: removed
+2	04:13:35.134	Custom indicator RSI Divergence Levels CADCHF,H1: removed
+2	04:13:35.135	Custom indicator MACD_Volumes-2 CADCHF,H1: removed
+2	04:13:35.137	Custom indicator CloudSignalLines CADCHF,H1: removed
+2	04:16:34.064	Custom indicator #P4L CandleTime EURAUD,H1: loaded successfully
+2	04:16:34.073	Custom indicator TURBO PLUS+ EURAUD,H1: loaded successfully
+2	04:16:34.084	Custom indicator ALERT SIGNAL EURAUD,H1: loaded successfully
+2	04:16:34.098	Custom indicator Trend Trading\TrendTradingCloud EURAUD,H1: loaded successfully
+2	04:16:34.108	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	04:16:34.119	Custom indicator MACD_Volumes-2 EURAUD,H1: loaded successfully
+2	04:16:34.126	Custom indicator Trend Trading\CloudSignalLines EURAUD,H1: loaded successfully
+2	04:16:34.308	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+0	04:35:52.381	'27123197': order buy market 0.10 AUDJPY sl: 0.000 tp: 0.000
+0	04:35:53.503	'27123197': order was opened : #65179041 buy 0.10 AUDJPY at 69.182 sl: 0.000 tp: 0.000
+0	04:36:06.971	'27123197': modify order #65179041 buy 0.10 AUDJPY at 69.182 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 69.296
+0	04:36:08.051	'27123197': order #65179041 buy 0.10 AUDJPY at 69.182 was modified -> sl: 0.000 tp: 69.296
+0	04:36:18.864	'27123197': modify order #65179041 buy 0.10 AUDJPY at 69.182 sl: 0.000 tp: 69.296 -> sl: 68.849 tp: 69.296
+0	04:36:22.011	'27123197': order #65179041 buy 0.10 AUDJPY at 69.182 was modified -> sl: 68.849 tp: 69.296
+0	04:37:05.758	'27123197': modify order #65135186 sell 0.10 EURGBP at 0.87312 sl: 0.87773 tp: 0.87124 -> sl: 0.87773 tp: 0.87177
+0	04:37:07.122	'27123197': order #65135186 sell 0.10 EURGBP at 0.87312 was modified -> sl: 0.87773 tp: 0.87177
+2	05:13:35.289	Custom indicator MBFX Timing GBPCAD,M5: removed
+2	05:13:35.431	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+2	05:50:03.467	Expert Admiral - Mini Terminal [DJI30],M15: removed
+2	05:52:29.749	Custom indicator #P4L CandleTime CADJPY,H1: loaded successfully
+2	05:52:29.763	Custom indicator TURBO PLUS+ CADJPY,H1: loaded successfully
+2	05:52:29.773	Custom indicator ALERT SIGNAL CADJPY,H1: loaded successfully
+2	05:52:29.783	Custom indicator Trend Trading\TrendTradingCloud CADJPY,H1: loaded successfully
+2	05:52:29.794	Custom indicator RSI Divergence Levels CADJPY,H1: loaded successfully
+2	05:52:29.807	Custom indicator MACD_Volumes-2 CADJPY,H1: loaded successfully
+2	05:52:29.814	Custom indicator Trend Trading\CloudSignalLines CADJPY,H1: loaded successfully
+2	05:52:29.989	Custom indicator MBFX Timing CADJPY,H1: loaded successfully
+0	05:53:03.148	'27123197': order sell market 0.10 CADJPY sl: 0.000 tp: 0.000
+0	05:53:04.177	'27123197': order was opened : #65179633 sell 0.10 CADJPY at 76.369 sl: 0.000 tp: 0.000
+0	05:53:53.460	'27123197': modify order #65179633 sell 0.10 CADJPY at 76.369 sl: 0.000 tp: 0.000 -> sl: 77.275 tp: 75.944
+0	05:53:56.078	'27123197': order #65179633 sell 0.10 CADJPY at 76.369 was modified -> sl: 77.275 tp: 75.944
+2	05:56:53.807	Custom indicator #P4L CandleTime USDCHF,H1: loaded successfully
+2	05:56:53.816	Custom indicator TURBO PLUS+ USDCHF,H1: loaded successfully
+2	05:56:53.826	Custom indicator ALERT SIGNAL USDCHF,H1: loaded successfully
+2	05:56:53.835	Custom indicator Trend Trading\TrendTradingCloud USDCHF,H1: loaded successfully
+2	05:56:53.846	Custom indicator RSI Divergence Levels USDCHF,H1: loaded successfully
+2	05:56:53.857	Custom indicator MACD_Volumes-2 USDCHF,H1: loaded successfully
+2	05:56:53.864	Custom indicator Trend Trading\CloudSignalLines USDCHF,H1: loaded successfully
+2	05:56:54.033	Custom indicator MBFX Timing USDCHF,H1: loaded successfully
+0	05:57:14.091	'27123197': order sell market 0.10 USDCHF sl: 0.00000 tp: 0.00000
+0	05:57:15.083	'27123197': order was opened : #65179674 sell 0.10 USDCHF at 0.97373 sl: 0.00000 tp: 0.00000
+0	05:58:35.734	'27123197': modify order #65179674 sell 0.10 USDCHF at 0.97373 sl: 0.00000 tp: 0.00000 -> sl: 0.98428 tp: 0.97150
+0	05:58:36.458	'27123197': order #65179674 sell 0.10 USDCHF at 0.97373 was modified -> sl: 0.98428 tp: 0.97150
+2	05:58:58.187	Custom indicator MBFX Timing USDCHF,H1: removed
+2	05:58:58.285	Custom indicator MBFX Timing USDCHF,M15: loaded successfully
+2	05:59:16.482	Custom indicator MBFX Timing CADJPY,H1: removed
+2	05:59:16.581	Custom indicator MBFX Timing CADJPY,M15: loaded successfully
+2	05:59:22.518	Custom indicator MBFX Timing EURAUD,H1: removed
+2	05:59:22.633	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	06:00:57.746	Custom indicator MBFX Timing EURGBP,H1: removed
+2	06:00:59.748	Custom indicator MBFX Timing EURGBP,M15: loaded successfully
+2	06:01:26.344	Custom indicator MBFX Timing CADCHF,M30: removed
+2	06:01:26.357	Custom indicator #P4L CandleTime CADCHF,M30: removed
+2	06:01:26.359	Custom indicator TURBO PLUS+ CADCHF,M30: removed
+2	06:01:26.361	Custom indicator ALERT SIGNAL CADCHF,M30: removed
+2	06:01:26.362	Custom indicator TrendTradingCloud CADCHF,M30: removed
+2	06:01:26.364	Custom indicator RSI Divergence Levels CADCHF,M30: removed
+2	06:01:26.366	Custom indicator MACD_Volumes-2 CADCHF,M30: removed
+2	06:01:26.369	Custom indicator CloudSignalLines CADCHF,M30: removed
+2	06:01:26.430	Custom indicator #P4L CandleTime CADCHF,M30: loaded successfully
+2	06:01:26.438	Custom indicator TURBO PLUS+ CADCHF,M30: loaded successfully
+2	06:01:26.448	Custom indicator ALERT SIGNAL CADCHF,M30: loaded successfully
+2	06:01:26.458	Custom indicator Trend Trading\TrendTradingCloud CADCHF,M30: loaded successfully
+2	06:01:26.469	Custom indicator RSI Divergence Levels CADCHF,M30: loaded successfully
+2	06:01:26.478	Custom indicator MACD_Volumes-2 CADCHF,M30: loaded successfully
+2	06:01:26.485	Custom indicator Trend Trading\CloudSignalLines CADCHF,M30: loaded successfully
+2	06:01:26.641	Custom indicator MBFX Timing CADCHF,M30: loaded successfully
+2	06:01:29.393	Custom indicator MBFX Timing CADCHF,M30: removed
+2	06:01:32.946	Custom indicator MBFX Timing AUDCAD,H1: removed
+2	06:01:36.569	Custom indicator MBFX Timing AUDJPY,M30: removed
+2	06:01:36.681	Custom indicator MBFX Timing AUDJPY,M15: loaded successfully
+2	06:01:40.203	Custom indicator MBFX Timing WTI,H1: removed
+2	06:01:40.305	Custom indicator MBFX Timing WTI,M15: loaded successfully
+2	06:01:44.477	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+2	06:01:45.856	Custom indicator MBFX Timing AUDCAD,M15: loaded successfully
+2	06:02:14.639	Custom indicator MBFX Timing [NQ100],M30: removed
+2	06:02:14.747	Custom indicator MBFX Timing [NQ100],M15: loaded successfully
+2	06:02:19.007	Custom indicator MBFX Timing [DAX30],M30: removed
+2	06:02:19.116	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+2	06:04:48.524	Custom indicator MBFX Timing EURGBP,M15: removed
+2	06:04:54.296	Custom indicator MBFX Timing EURGBP,M30: loaded successfully
+2	06:04:54.429	Custom indicator MBFX Timing EURGBP,M30: removed
+2	06:04:54.523	Custom indicator MBFX Timing EURGBP,H1: loaded successfully
+2	06:04:59.173	Custom indicator MBFX Timing EURGBP,H1: removed
+2	06:05:00.389	Custom indicator MBFX Timing EURGBP,H4: loaded successfully
+2	06:05:07.101	Custom indicator MBFX Timing EURGBP,H4: removed
+2	06:05:07.197	Custom indicator MBFX Timing EURGBP,H1: loaded successfully
+2	06:05:11.884	Custom indicator MBFX Timing EURGBP,H1: removed
+2	06:05:11.981	Custom indicator MBFX Timing EURGBP,M30: loaded successfully
+2	06:05:18.651	Custom indicator MBFX Timing EURGBP,M30: removed
+2	06:05:18.752	Custom indicator MBFX Timing EURGBP,M15: loaded successfully
+0	06:05:26.215	'27123197': modify order #65135186 sell 0.10 EURGBP at 0.87312 sl: 0.87773 tp: 0.87177 -> sl: 0.87773 tp: 0.87261
+0	06:05:30.013	'27123197': order #65135186 sell 0.10 EURGBP at 0.87312 was modified -> sl: 0.87773 tp: 0.87261
+2	06:20:06.361	Expert Admiral - Mini Terminal AUDJPY,M15: loaded successfully
+0	06:20:40.129	'27123197': close order #65179041 buy 0.10 AUDJPY at 69.182 sl: 68.849 tp: 69.296 at price 0.000
+0	06:20:40.603	'27123197': order #65179041 buy 0.10 AUDJPY at 69.182 sl: 68.849 tp: 69.296 closed at price 69.048
+0	06:20:40.603	'27123197': order sell market 0.10 AUDJPY sl: 69.296 tp: 68.849
+0	06:20:41.490	Trades: use hosting service to speed up the execution - 2.02 ms via 'MQL5 London 11 (MQL5.community)' instead of 397.33 ms
+0	06:20:41.490	'27123197': order was opened : #65179901 sell 0.10 AUDJPY at 69.049 sl: 69.296 tp: 68.849
+0	06:36:56.891	'27123197': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	06:36:57.450	'27123197': order was opened : #65180056 sell 0.10 [DJI30] at 23864.44 sl: 0.00 tp: 0.00
+0	06:37:10.387	'27123197': modify order #65180056 sell 0.10 [DJI30] at 23864.44 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 23792.96
+0	06:37:10.654	'27123197': order #65180056 sell 0.10 [DJI30] at 23864.44 was modified -> sl: 0.00 tp: 23792.96
+0	06:37:25.228	'27123197': modify order #65180056 sell 0.10 [DJI30] at 23864.44 sl: 0.00 tp: 23792.96 -> sl: 0.00 tp: 23808.79
+0	06:37:25.492	'27123197': order #65180056 sell 0.10 [DJI30] at 23864.44 was modified -> sl: 0.00 tp: 23808.79
+0	06:37:39.906	'27123197': modify order #65180056 sell 0.10 [DJI30] at 23864.44 sl: 0.00 tp: 23808.79 -> sl: 24001.98 tp: 23808.79
+0	06:37:40.193	'27123197': order #65180056 sell 0.10 [DJI30] at 23864.44 was modified -> sl: 24001.98 tp: 23808.79
+0	06:39:34.498	'27123197': modify order #65135186 sell 0.10 EURGBP at 0.87312 sl: 0.87773 tp: 0.87261 -> sl: 0.87773 tp: 0.87321
+0	06:39:34.783	'27123197': order #65135186 sell 0.10 EURGBP at 0.87312 was modified -> sl: 0.87773 tp: 0.87321
+0	06:44:38.922	'27123197': modify order #65180056 sell 0.10 [DJI30] at 23864.44 sl: 24001.98 tp: 23808.79 -> sl: 24001.98 tp: 23807.76
+0	06:44:39.176	'27123197': order #65180056 sell 0.10 [DJI30] at 23864.44 was modified -> sl: 24001.98 tp: 23807.76
+2	06:47:06.213	Custom indicator MBFX Timing [DJI30],M15: removed
+2	06:47:08.256	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	06:51:59.425	Custom indicator MBFX Timing [DAX30],M15: removed
+2	06:51:59.454	Expert Admiral - Mini Terminal [DAX30],M15: removed
+2	06:51:59.455	Custom indicator #P4L CandleTime [DAX30],M15: removed
+2	06:51:59.457	Custom indicator TURBO PLUS+ [DAX30],M15: removed
+2	06:51:59.458	Custom indicator ALERT SIGNAL [DAX30],M15: removed
+2	06:51:59.460	Custom indicator TrendTradingCloud [DAX30],M15: removed
+2	06:51:59.461	Custom indicator RSI Divergence Levels [DAX30],M15: removed
+2	06:51:59.463	Custom indicator MACD_Volumes-2 [DAX30],M15: removed
+2	06:51:59.465	Custom indicator CloudSignalLines [DAX30],M15: removed
+2	06:51:59.529	Custom indicator #P4L CandleTime [DAX30],M15: loaded successfully
+2	06:51:59.537	Custom indicator TURBO PLUS+ [DAX30],M15: loaded successfully
+2	06:51:59.549	Custom indicator ALERT SIGNAL [DAX30],M15: loaded successfully
+2	06:51:59.558	Custom indicator Trend Trading\TrendTradingCloud [DAX30],M15: loaded successfully
+2	06:51:59.570	Custom indicator RSI Divergence Levels [DAX30],M15: loaded successfully
+2	06:51:59.579	Custom indicator MACD_Volumes-2 [DAX30],M15: loaded successfully
+2	06:51:59.586	Custom indicator Trend Trading\CloudSignalLines [DAX30],M15: loaded successfully
+2	06:51:59.754	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+2	06:52:06.854	Custom indicator MBFX Timing [NQ100],M15: removed
+2	06:52:06.859	Custom indicator #P4L CandleTime [NQ100],M15: removed
+2	06:52:06.862	Custom indicator TURBO PLUS+ [NQ100],M15: removed
+2	06:52:06.863	Custom indicator ALERT SIGNAL [NQ100],M15: removed
+2	06:52:06.865	Custom indicator TrendTradingCloud [NQ100],M15: removed
+2	06:52:06.867	Custom indicator RSI Divergence Levels [NQ100],M15: removed
+2	06:52:06.868	Custom indicator MACD_Volumes-2 [NQ100],M15: removed
+2	06:52:06.869	Custom indicator CloudSignalLines [NQ100],M15: removed
+2	06:52:06.931	Custom indicator #P4L CandleTime [NQ100],M15: loaded successfully
+2	06:52:06.939	Custom indicator TURBO PLUS+ [NQ100],M15: loaded successfully
+2	06:52:06.948	Custom indicator ALERT SIGNAL [NQ100],M15: loaded successfully
+2	06:52:06.957	Custom indicator Trend Trading\TrendTradingCloud [NQ100],M15: loaded successfully
+2	06:52:06.967	Custom indicator RSI Divergence Levels [NQ100],M15: loaded successfully
+2	06:52:06.976	Custom indicator MACD_Volumes-2 [NQ100],M15: loaded successfully
+2	06:52:06.982	Custom indicator Trend Trading\CloudSignalLines [NQ100],M15: loaded successfully
+2	06:52:07.142	Custom indicator MBFX Timing [NQ100],M15: loaded successfully
+2	06:52:13.096	Custom indicator MBFX Timing WTI,M15: removed
+2	06:52:13.102	Custom indicator #P4L CandleTime WTI,M15: removed
+2	06:52:13.104	Custom indicator TURBO PLUS+ WTI,M15: removed
+2	06:52:13.106	Custom indicator ALERT SIGNAL WTI,M15: removed
+2	06:52:13.108	Custom indicator TrendTradingCloud WTI,M15: removed
+2	06:52:13.110	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	06:52:13.112	Custom indicator MACD_Volumes-2 WTI,M15: removed
+2	06:52:13.113	Custom indicator CloudSignalLines WTI,M15: removed
+2	06:52:13.175	Custom indicator #P4L CandleTime WTI,M15: loaded successfully
+2	06:52:13.182	Custom indicator TURBO PLUS+ WTI,M15: loaded successfully
+2	06:52:13.191	Custom indicator ALERT SIGNAL WTI,M15: loaded successfully
+2	06:52:13.199	Custom indicator Trend Trading\TrendTradingCloud WTI,M15: loaded successfully
+2	06:52:13.210	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	06:52:13.219	Custom indicator MACD_Volumes-2 WTI,M15: loaded successfully
+2	06:52:13.226	Custom indicator Trend Trading\CloudSignalLines WTI,M15: loaded successfully
+2	06:52:13.385	Custom indicator MBFX Timing WTI,M15: loaded successfully
+2	06:52:20.524	Custom indicator MBFX Timing AUDJPY,M15: removed
+2	06:52:20.545	Expert Admiral - Mini Terminal AUDJPY,M15: removed
+2	06:52:20.546	Custom indicator #P4L CandleTime AUDJPY,M15: removed
+2	06:52:20.548	Custom indicator TURBO PLUS+ AUDJPY,M15: removed
+2	06:52:20.550	Custom indicator ALERT SIGNAL AUDJPY,M15: removed
+2	06:52:20.551	Custom indicator TrendTradingCloud AUDJPY,M15: removed
+2	06:52:20.553	Custom indicator RSI Divergence Levels AUDJPY,M15: removed
+2	06:52:20.554	Custom indicator MACD_Volumes-2 AUDJPY,M15: removed
+2	06:52:20.556	Custom indicator CloudSignalLines AUDJPY,M15: removed
+2	06:52:20.617	Custom indicator #P4L CandleTime AUDJPY,M15: loaded successfully
+2	06:52:20.626	Custom indicator TURBO PLUS+ AUDJPY,M15: loaded successfully
+2	06:52:20.634	Custom indicator ALERT SIGNAL AUDJPY,M15: loaded successfully
+2	06:52:20.642	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,M15: loaded successfully
+2	06:52:20.651	Custom indicator RSI Divergence Levels AUDJPY,M15: loaded successfully
+2	06:52:20.660	Custom indicator MACD_Volumes-2 AUDJPY,M15: loaded successfully
+2	06:52:20.667	Custom indicator Trend Trading\CloudSignalLines AUDJPY,M15: loaded successfully
+2	06:52:20.830	Custom indicator MBFX Timing AUDJPY,M15: loaded successfully
+2	06:52:28.521	Custom indicator MBFX Timing AUDCAD,M15: removed
+2	06:52:28.526	Custom indicator #P4L CandleTime AUDCAD,M15: removed
+2	06:52:28.528	Custom indicator TURBO PLUS+ AUDCAD,M15: removed
+2	06:52:28.529	Custom indicator ALERT SIGNAL AUDCAD,M15: removed
+2	06:52:28.531	Custom indicator TrendTradingCloud AUDCAD,M15: removed
+2	06:52:28.533	Custom indicator RSI Divergence Levels AUDCAD,M15: removed
+2	06:52:28.534	Custom indicator MACD_Volumes-2 AUDCAD,M15: removed
+2	06:52:28.536	Custom indicator CloudSignalLines AUDCAD,M15: removed
+2	06:52:28.598	Custom indicator #P4L CandleTime AUDCAD,M15: loaded successfully
+2	06:52:28.605	Custom indicator TURBO PLUS+ AUDCAD,M15: loaded successfully
+2	06:52:28.613	Custom indicator ALERT SIGNAL AUDCAD,M15: loaded successfully
+2	06:52:28.621	Custom indicator Trend Trading\TrendTradingCloud AUDCAD,M15: loaded successfully
+2	06:52:28.630	Custom indicator RSI Divergence Levels AUDCAD,M15: loaded successfully
+2	06:52:28.638	Custom indicator MACD_Volumes-2 AUDCAD,M15: loaded successfully
+2	06:52:28.646	Custom indicator Trend Trading\CloudSignalLines AUDCAD,M15: loaded successfully
+2	06:52:28.808	Custom indicator MBFX Timing AUDCAD,M15: loaded successfully
+2	06:52:39.036	Custom indicator MBFX Timing CADCHF,M15: removed
+2	06:52:39.041	Custom indicator #P4L CandleTime CADCHF,M15: removed
+2	06:52:39.043	Custom indicator TURBO PLUS+ CADCHF,M15: removed
+2	06:52:39.044	Custom indicator ALERT SIGNAL CADCHF,M15: removed
+2	06:52:39.045	Custom indicator TrendTradingCloud CADCHF,M15: removed
+2	06:52:39.047	Custom indicator RSI Divergence Levels CADCHF,M15: removed
+2	06:52:39.048	Custom indicator MACD_Volumes-2 CADCHF,M15: removed
+2	06:52:39.049	Custom indicator CloudSignalLines CADCHF,M15: removed
+2	06:52:39.114	Custom indicator #P4L CandleTime CADCHF,M15: loaded successfully
+2	06:52:39.121	Custom indicator TURBO PLUS+ CADCHF,M15: loaded successfully
+2	06:52:39.130	Custom indicator ALERT SIGNAL CADCHF,M15: loaded successfully
+2	06:52:39.137	Custom indicator Trend Trading\TrendTradingCloud CADCHF,M15: loaded successfully
+2	06:52:39.146	Custom indicator RSI Divergence Levels CADCHF,M15: loaded successfully
+2	06:52:39.154	Custom indicator MACD_Volumes-2 CADCHF,M15: loaded successfully
+2	06:52:39.161	Custom indicator Trend Trading\CloudSignalLines CADCHF,M15: loaded successfully
+2	06:52:39.316	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+2	06:52:45.812	Custom indicator MBFX Timing EURGBP,M15: removed
+2	06:52:45.818	Custom indicator #P4L CandleTime EURGBP,M15: removed
+2	06:52:45.820	Custom indicator TURBO PLUS+ EURGBP,M15: removed
+2	06:52:45.822	Custom indicator ALERT SIGNAL EURGBP,M15: removed
+2	06:52:45.824	Custom indicator TrendTradingCloud EURGBP,M15: removed
+2	06:52:45.825	Custom indicator RSI Divergence Levels EURGBP,M15: removed
+2	06:52:45.827	Custom indicator MACD_Volumes-2 EURGBP,M15: removed
+2	06:52:45.829	Custom indicator CloudSignalLines EURGBP,M15: removed
+2	06:52:45.889	Custom indicator #P4L CandleTime EURGBP,M15: loaded successfully
+2	06:52:45.896	Custom indicator TURBO PLUS+ EURGBP,M15: loaded successfully
+2	06:52:45.904	Custom indicator ALERT SIGNAL EURGBP,M15: loaded successfully
+2	06:52:45.912	Custom indicator Trend Trading\TrendTradingCloud EURGBP,M15: loaded successfully
+2	06:52:45.920	Custom indicator RSI Divergence Levels EURGBP,M15: loaded successfully
+2	06:52:45.929	Custom indicator MACD_Volumes-2 EURGBP,M15: loaded successfully
+2	06:52:45.935	Custom indicator Trend Trading\CloudSignalLines EURGBP,M15: loaded successfully
+2	06:52:46.104	Custom indicator MBFX Timing EURGBP,M15: loaded successfully
+2	06:52:58.229	Custom indicator MBFX Timing EURAUD,M15: removed
+2	06:52:58.237	Custom indicator #P4L CandleTime EURAUD,M15: removed
+2	06:52:58.239	Custom indicator TURBO PLUS+ EURAUD,M15: removed
+2	06:52:58.241	Custom indicator ALERT SIGNAL EURAUD,M15: removed
+2	06:52:58.242	Custom indicator TrendTradingCloud EURAUD,M15: removed
+2	06:52:58.244	Custom indicator RSI Divergence Levels EURAUD,M15: removed
+2	06:52:58.245	Custom indicator MACD_Volumes-2 EURAUD,M15: removed
+2	06:52:58.247	Custom indicator CloudSignalLines EURAUD,M15: removed
+2	06:52:58.309	Custom indicator #P4L CandleTime EURAUD,M15: loaded successfully
+2	06:52:58.316	Custom indicator TURBO PLUS+ EURAUD,M15: loaded successfully
+2	06:52:58.323	Custom indicator ALERT SIGNAL EURAUD,M15: loaded successfully
+2	06:52:58.331	Custom indicator Trend Trading\TrendTradingCloud EURAUD,M15: loaded successfully
+2	06:52:58.341	Custom indicator RSI Divergence Levels EURAUD,M15: loaded successfully
+2	06:52:58.350	Custom indicator MACD_Volumes-2 EURAUD,M15: loaded successfully
+2	06:52:58.357	Custom indicator Trend Trading\CloudSignalLines EURAUD,M15: loaded successfully
+2	06:52:58.521	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	06:53:04.405	Custom indicator MBFX Timing CADJPY,M15: removed
+2	06:53:04.411	Custom indicator #P4L CandleTime CADJPY,M15: removed
+2	06:53:04.413	Custom indicator TURBO PLUS+ CADJPY,M15: removed
+2	06:53:04.415	Custom indicator ALERT SIGNAL CADJPY,M15: removed
+2	06:53:04.417	Custom indicator TrendTradingCloud CADJPY,M15: removed
+2	06:53:04.418	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	06:53:04.419	Custom indicator MACD_Volumes-2 CADJPY,M15: removed
+2	06:53:04.421	Custom indicator CloudSignalLines CADJPY,M15: removed
+2	06:53:04.484	Custom indicator #P4L CandleTime CADJPY,M15: loaded successfully
+2	06:53:04.491	Custom indicator TURBO PLUS+ CADJPY,M15: loaded successfully
+2	06:53:04.498	Custom indicator ALERT SIGNAL CADJPY,M15: loaded successfully
+2	06:53:04.506	Custom indicator Trend Trading\TrendTradingCloud CADJPY,M15: loaded successfully
+2	06:53:04.515	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	06:53:04.523	Custom indicator MACD_Volumes-2 CADJPY,M15: loaded successfully
+2	06:53:04.530	Custom indicator Trend Trading\CloudSignalLines CADJPY,M15: loaded successfully
+2	06:53:04.685	Custom indicator MBFX Timing CADJPY,M15: loaded successfully
+2	06:53:11.472	Custom indicator MBFX Timing USDCHF,M15: removed
+2	06:53:11.478	Custom indicator #P4L CandleTime USDCHF,M15: removed
+2	06:53:11.479	Custom indicator TURBO PLUS+ USDCHF,M15: removed
+2	06:53:11.480	Custom indicator ALERT SIGNAL USDCHF,M15: removed
+2	06:53:11.482	Custom indicator TrendTradingCloud USDCHF,M15: removed
+2	06:53:11.483	Custom indicator RSI Divergence Levels USDCHF,M15: removed
+2	06:53:11.485	Custom indicator MACD_Volumes-2 USDCHF,M15: removed
+2	06:53:11.486	Custom indicator CloudSignalLines USDCHF,M15: removed
+2	06:53:11.548	Custom indicator #P4L CandleTime USDCHF,M15: loaded successfully
+2	06:53:11.555	Custom indicator TURBO PLUS+ USDCHF,M15: loaded successfully
+2	06:53:11.565	Custom indicator ALERT SIGNAL USDCHF,M15: loaded successfully
+2	06:53:11.573	Custom indicator Trend Trading\TrendTradingCloud USDCHF,M15: loaded successfully
+2	06:53:11.582	Custom indicator RSI Divergence Levels USDCHF,M15: loaded successfully
+2	06:53:11.593	Custom indicator MACD_Volumes-2 USDCHF,M15: loaded successfully
+2	06:53:11.600	Custom indicator Trend Trading\CloudSignalLines USDCHF,M15: loaded successfully
+2	06:53:11.759	Custom indicator MBFX Timing USDCHF,M15: loaded successfully
+2	06:53:22.721	Custom indicator MBFX Timing USDCHF,M15: removed
+2	06:53:22.724	Custom indicator #P4L CandleTime USDCHF,M15: removed
+2	06:53:22.726	Custom indicator TURBO PLUS+ USDCHF,M15: removed
+2	06:53:22.727	Custom indicator ALERT SIGNAL USDCHF,M15: removed
+2	06:53:22.728	Custom indicator TrendTradingCloud USDCHF,M15: removed
+2	06:53:22.731	Custom indicator RSI Divergence Levels USDCHF,M15: removed
+2	06:53:22.732	Custom indicator MACD_Volumes-2 USDCHF,M15: removed
+2	06:53:22.734	Custom indicator CloudSignalLines USDCHF,M15: removed
+2	06:53:22.796	Custom indicator #P4L CandleTime USDCHF,M15: loaded successfully
+2	06:53:22.804	Custom indicator TURBO PLUS+ USDCHF,M15: loaded successfully
+2	06:53:22.811	Custom indicator ALERT SIGNAL USDCHF,M15: loaded successfully
+2	06:53:22.820	Custom indicator Trend Trading\TrendTradingCloud USDCHF,M15: loaded successfully
+2	06:53:22.829	Custom indicator RSI Divergence Levels USDCHF,M15: loaded successfully
+2	06:53:22.837	Custom indicator MACD_Volumes-2 USDCHF,M15: loaded successfully
+2	06:53:22.844	Custom indicator Trend Trading\CloudSignalLines USDCHF,M15: loaded successfully
+2	06:53:23.001	Custom indicator MBFX Timing USDCHF,M15: loaded successfully
+2	06:54:04.981	Custom indicator MBFX Timing CADCHF,M15: removed
+2	06:54:04.984	Custom indicator #P4L CandleTime CADCHF,M15: removed
+2	06:54:04.985	Custom indicator TURBO PLUS+ CADCHF,M15: removed
+2	06:54:04.987	Custom indicator ALERT SIGNAL CADCHF,M15: removed
+2	06:54:04.988	Custom indicator TrendTradingCloud CADCHF,M15: removed
+2	06:54:04.989	Custom indicator RSI Divergence Levels CADCHF,M15: removed
+2	06:54:04.991	Custom indicator MACD_Volumes-2 CADCHF,M15: removed
+2	06:54:04.992	Custom indicator CloudSignalLines CADCHF,M15: removed
+2	06:54:05.054	Custom indicator #P4L CandleTime CADCHF,M15: loaded successfully
+2	06:54:05.061	Custom indicator TURBO PLUS+ CADCHF,M15: loaded successfully
+2	06:54:05.069	Custom indicator ALERT SIGNAL CADCHF,M15: loaded successfully
+2	06:54:05.079	Custom indicator Trend Trading\TrendTradingCloud CADCHF,M15: loaded successfully
+2	06:54:05.087	Custom indicator RSI Divergence Levels CADCHF,M15: loaded successfully
+2	06:54:05.095	Custom indicator MACD_Volumes-2 CADCHF,M15: loaded successfully
+2	06:54:05.102	Custom indicator Trend Trading\CloudSignalLines CADCHF,M15: loaded successfully
+2	06:54:05.257	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+0	07:08:42.336	'27123197': modify order #65179901 sell 0.10 AUDJPY at 69.049 sl: 69.296 tp: 68.849 -> sl: 69.296 tp: 69.011
+0	07:08:42.649	'27123197': order #65179901 sell 0.10 AUDJPY at 69.049 was modified -> sl: 69.296 tp: 69.011
+0	07:30:05.712	'27123197': order #65180056 sell 0.10 [DJI30] at 23864.44 closed due stop-loss at price 24003.04
+0	07:30:42.129	'27123197': order #65135186 sell 0.10 EURGBP at 0.87312 closed due take-profit at price 0.87312
+0	07:34:35.113	'27123197': close order #65179901 sell 0.10 AUDJPY at 69.049 sl: 69.296 tp: 69.011 at price 0.000
+0	07:34:35.485	'27123197': order #65179901 sell 0.10 AUDJPY at 69.049 sl: 69.296 tp: 69.011 closed at price 69.153
+2	07:41:18.499	Custom indicator #P4L CandleTime AUDCHF,H1: loaded successfully
+2	07:41:18.511	Custom indicator TURBO PLUS+ AUDCHF,H1: loaded successfully
+2	07:41:18.520	Custom indicator ALERT SIGNAL AUDCHF,H1: loaded successfully
+2	07:41:18.529	Custom indicator Trend Trading\TrendTradingCloud AUDCHF,H1: loaded successfully
+2	07:41:18.538	Custom indicator RSI Divergence Levels AUDCHF,H1: loaded successfully
+2	07:41:18.547	Custom indicator MACD_Volumes-2 AUDCHF,H1: loaded successfully
+2	07:41:18.554	Custom indicator Trend Trading\CloudSignalLines AUDCHF,H1: loaded successfully
+2	07:41:18.714	Custom indicator MBFX Timing AUDCHF,H1: loaded successfully
+0	07:42:52.319	'27123197': order buy market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	07:42:53.046	'27123197': order was opened : #65180937 buy 0.10 [NQ100] at 8884.71 sl: 0.00 tp: 0.00
+0	07:43:25.673	'27123197': modify order #65180937 buy 0.10 [NQ100] at 8884.71 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 8904.82
+0	07:43:27.018	'27123197': order #65180937 buy 0.10 [NQ100] at 8884.71 was modified -> sl: 0.00 tp: 8904.82
+0	07:43:57.230	'27123197': modify order #65180937 buy 0.10 [NQ100] at 8884.71 sl: 0.00 tp: 8904.82 -> sl: 8855.91 tp: 8904.82
+0	07:43:57.918	'27123197': order #65180937 buy 0.10 [NQ100] at 8884.71 was modified -> sl: 8855.91 tp: 8904.82
+2	07:57:48.743	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	07:57:48.751	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	07:57:48.760	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	07:57:48.769	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	07:57:48.779	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	07:57:48.788	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	07:57:48.796	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	07:57:48.957	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+0	07:57:52.966	'27123197': order buy market 0.10 GBPCAD sl: 0.00000 tp: 0.00000
+0	07:57:53.774	'27123197': order was opened : #65181260 buy 0.10 GBPCAD at 1.74809 sl: 0.00000 tp: 0.00000
+0	07:58:03.792	'27123197': modify order #65181260 buy 0.10 GBPCAD at 1.74809 sl: 0.00000 tp: 0.00000 -> sl: 1.74212 tp: 0.00000
+0	07:58:05.407	'27123197': order #65181260 buy 0.10 GBPCAD at 1.74809 was modified -> sl: 1.74212 tp: 0.00000
+2	07:58:06.348	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	07:58:06.446	Custom indicator MBFX Timing GBPCAD,M15: loaded successfully
+0	07:58:22.267	'27123197': modify order #65181260 buy 0.10 GBPCAD at 1.74809 sl: 1.74212 tp: 0.00000 -> sl: 1.74212 tp: 1.74996
+0	07:58:26.598	'27123197': order #65181260 buy 0.10 GBPCAD at 1.74809 was modified -> sl: 1.74212 tp: 1.74996
+0	08:06:22.599	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 554.96 ms)
+0	08:06:32.055	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 554.96 ms)
+0	08:06:33.630	'27123197': previous successful authorization performed from 197.149.38.88
+0	08:07:02.792	'27123197': auto connecting to a better access point Access Point #4 (ping is 201.37 ms)
+0	08:07:04.062	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 201.37 ms)
+0	08:07:13.910	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 201.37 ms)
+0	08:07:14.990	'27123197': previous successful authorization performed from 197.149.38.88
+2	08:09:41.244	Custom indicator #P4L CandleTime EURJPY,H1: loaded successfully
+2	08:09:41.252	Custom indicator TURBO PLUS+ EURJPY,H1: loaded successfully
+2	08:09:41.261	Custom indicator ALERT SIGNAL EURJPY,H1: loaded successfully
+2	08:09:41.270	Custom indicator Trend Trading\TrendTradingCloud EURJPY,H1: loaded successfully
+2	08:09:41.281	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	08:09:41.290	Custom indicator MACD_Volumes-2 EURJPY,H1: loaded successfully
+2	08:09:41.298	Custom indicator Trend Trading\CloudSignalLines EURJPY,H1: loaded successfully
+2	08:09:41.487	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+0	08:29:40.966	'27123197': close order #65179674 sell 0.10 USDCHF at 0.97373 sl: 0.98428 tp: 0.97150 at price 0.00000
+0	08:29:41.428	'27123197': order #65179674 sell 0.10 USDCHF at 0.97373 sl: 0.98428 tp: 0.97150 closed at price 0.97220
+0	08:29:51.133	'27123197': order sell market 0.10 USDCHF sl: 0.00000 tp: 0.00000
+0	08:29:51.917	'27123197': order was opened : #65181940 sell 0.10 USDCHF at 0.97195 sl: 0.00000 tp: 0.00000
+0	08:30:12.084	'27123197': modify order #65181940 sell 0.10 USDCHF at 0.97195 sl: 0.00000 tp: 0.00000 -> sl: 0.97275 tp: 0.00000
+0	08:30:12.364	'27123197': order #65181940 sell 0.10 USDCHF at 0.97195 was modified -> sl: 0.97275 tp: 0.00000
+0	08:42:08.071	'27123197': close order #65181260 buy 0.10 GBPCAD at 1.74809 sl: 1.74212 tp: 1.74996 at price 0.00000
+0	08:42:10.225	'27123197': order #65181260 buy 0.10 GBPCAD at 1.74809 sl: 1.74212 tp: 1.74996 closed at price 1.74896
+0	08:43:31.244	'27123197': order #65180937 buy 0.10 [NQ100] at 8884.71 closed due take-profit at price 8904.94
+0	08:44:05.815	'27123197': close order #65181940 sell 0.10 USDCHF at 0.97195 sl: 0.97275 tp: 0.00000 at price 0.00000
+0	08:44:06.253	'27123197': order #65181940 sell 0.10 USDCHF at 0.97195 sl: 0.97275 tp: 0.00000 closed at price 0.97232
+2	09:03:54.030	Custom indicator MBFX Timing CADJPY,M15: removed
+2	09:03:54.159	Custom indicator MBFX Timing CADJPY,M30: loaded successfully
+2	09:04:01.325	Custom indicator MBFX Timing CADJPY,M30: removed
+2	09:04:01.426	Custom indicator MBFX Timing CADJPY,H1: loaded successfully
+2	09:04:05.976	Custom indicator MBFX Timing CADJPY,H1: removed
+2	09:04:06.082	Custom indicator MBFX Timing CADJPY,H4: loaded successfully
+2	09:04:15.982	Custom indicator MBFX Timing CADJPY,H4: removed
+2	09:04:16.098	Custom indicator MBFX Timing CADJPY,H1: loaded successfully
+2	09:04:26.739	Custom indicator MBFX Timing CADJPY,H1: removed
+2	09:04:26.841	Custom indicator MBFX Timing CADJPY,M30: loaded successfully
+2	09:05:21.285	Custom indicator MBFX Timing EURJPY,H1: removed
+2	09:05:21.402	Custom indicator MBFX Timing EURJPY,M5: loaded successfully
+2	09:05:30.353	Custom indicator MBFX Timing EURJPY,M5: removed
+2	09:05:32.661	Custom indicator MBFX Timing EURJPY,M15: loaded successfully
+2	09:06:59.770	Custom indicator MBFX Timing EURJPY,M15: removed
+2	09:06:59.871	Custom indicator MBFX Timing EURJPY,M30: loaded successfully
+2	09:07:03.834	Custom indicator MBFX Timing EURJPY,M30: removed
+2	09:07:03.931	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+2	09:07:08.356	Custom indicator MBFX Timing EURJPY,H1: removed
+2	09:07:10.267	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+2	09:11:02.533	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	09:11:02.554	Custom indicator MBFX Timing GBPAUD,H1: removed
+2	09:11:02.564	Custom indicator MBFX Timing [DJI30],M15: removed
+2	09:11:02.574	Custom indicator MBFX Timing [DAX30],M15: removed
+2	09:11:02.587	Custom indicator MBFX Timing [NQ100],M15: removed
+2	09:11:02.597	Custom indicator MBFX Timing AUDJPY,M15: removed
+2	09:11:02.611	Custom indicator MBFX Timing WTI,M15: removed
+2	09:11:02.622	Custom indicator MBFX Timing AUDCAD,M15: removed
+2	09:11:02.635	Custom indicator MBFX Timing CADCHF,M15: removed
+2	09:11:02.646	Custom indicator MBFX Timing EURGBP,M15: removed
+2	09:11:02.656	Custom indicator MBFX Timing EURAUD,M15: removed
+2	09:11:02.664	Custom indicator MBFX Timing CADJPY,M30: removed
+2	09:11:02.669	Custom indicator MBFX Timing USDCHF,M15: removed
+2	09:11:02.684	Custom indicator MBFX Timing AUDCHF,H1: removed
+2	09:11:02.695	Custom indicator MBFX Timing GBPCAD,M15: removed
+2	09:11:02.706	Custom indicator MBFX Timing EURJPY,H1: removed
+2	09:11:02.999	Expert Admiral - Connect GBPCAD,H1: removed
+2	09:11:05.233	Custom indicator #P4L CandleTime GBPCAD,H1: removed
+2	09:11:05.235	Custom indicator TURBO PLUS+ GBPCAD,H1: removed
+2	09:11:05.237	Custom indicator ALERT SIGNAL GBPCAD,H1: removed
+2	09:11:05.240	Custom indicator TrendTradingCloud GBPCAD,H1: removed
+2	09:11:05.242	Custom indicator RSI Divergence Levels GBPCAD,H1: removed
+2	09:11:05.244	Custom indicator MACD_Volumes-2 GBPCAD,H1: removed
+2	09:11:05.247	Custom indicator CloudSignalLines GBPCAD,H1: removed
+2	09:11:05.253	Expert Admiral - Trade Terminal GBPAUD,H1: removed
+2	09:11:05.369	Custom indicator #P4L CandleTime GBPAUD,H1: removed
+2	09:11:05.372	Custom indicator TURBO PLUS+ GBPAUD,H1: removed
+2	09:11:05.376	Custom indicator ALERT SIGNAL GBPAUD,H1: removed
+2	09:11:05.380	Custom indicator TrendTradingCloud GBPAUD,H1: removed
+2	09:11:05.383	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	09:11:05.386	Custom indicator MACD_Volumes-2 GBPAUD,H1: removed
+2	09:11:05.389	Custom indicator CloudSignalLines GBPAUD,H1: removed
+2	09:11:05.397	Custom indicator #P4L CandleTime [DJI30],M15: removed
+2	09:11:05.399	Custom indicator TURBO PLUS+ [DJI30],M15: removed
+2	09:11:05.402	Custom indicator ALERT SIGNAL [DJI30],M15: removed
+2	09:11:05.404	Custom indicator TrendTradingCloud [DJI30],M15: removed
+2	09:11:05.407	Custom indicator RSI Divergence Levels [DJI30],M15: removed
+2	09:11:05.412	Custom indicator MACD_Volumes-2 [DJI30],M15: removed
+2	09:11:05.415	Custom indicator CloudSignalLines [DJI30],M15: removed
+2	09:11:05.421	Custom indicator #P4L CandleTime [DAX30],M15: removed
+2	09:11:05.424	Custom indicator TURBO PLUS+ [DAX30],M15: removed
+2	09:11:05.426	Custom indicator ALERT SIGNAL [DAX30],M15: removed
+2	09:11:05.430	Custom indicator TrendTradingCloud [DAX30],M15: removed
+2	09:11:05.433	Custom indicator RSI Divergence Levels [DAX30],M15: removed
+2	09:11:05.435	Custom indicator MACD_Volumes-2 [DAX30],M15: removed
+2	09:11:05.438	Custom indicator CloudSignalLines [DAX30],M15: removed
+2	09:11:05.446	Custom indicator #P4L CandleTime [NQ100],M15: removed
+2	09:11:05.450	Custom indicator TURBO PLUS+ [NQ100],M15: removed
+2	09:11:05.453	Custom indicator ALERT SIGNAL [NQ100],M15: removed
+2	09:11:05.456	Custom indicator TrendTradingCloud [NQ100],M15: removed
+2	09:11:05.462	Custom indicator RSI Divergence Levels [NQ100],M15: removed
+2	09:11:05.464	Custom indicator MACD_Volumes-2 [NQ100],M15: removed
+2	09:11:05.467	Custom indicator CloudSignalLines [NQ100],M15: removed
+2	09:11:05.471	Custom indicator #P4L CandleTime AUDJPY,M15: removed
+2	09:11:05.473	Custom indicator TURBO PLUS+ AUDJPY,M15: removed
+2	09:11:05.476	Custom indicator ALERT SIGNAL AUDJPY,M15: removed
+2	09:11:05.479	Custom indicator TrendTradingCloud AUDJPY,M15: removed
+2	09:11:05.481	Custom indicator RSI Divergence Levels AUDJPY,M15: removed
+2	09:11:05.484	Custom indicator MACD_Volumes-2 AUDJPY,M15: removed
+2	09:11:05.486	Custom indicator CloudSignalLines AUDJPY,M15: removed
+2	09:11:05.497	Custom indicator #P4L CandleTime WTI,M15: removed
+2	09:11:05.501	Custom indicator TURBO PLUS+ WTI,M15: removed
+2	09:11:05.503	Custom indicator ALERT SIGNAL WTI,M15: removed
+2	09:11:05.505	Custom indicator TrendTradingCloud WTI,M15: removed
+2	09:11:05.508	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	09:11:05.511	Custom indicator MACD_Volumes-2 WTI,M15: removed
+2	09:11:05.516	Custom indicator CloudSignalLines WTI,M15: removed
+2	09:11:05.519	Custom indicator #P4L CandleTime AUDCAD,M15: removed
+2	09:11:05.522	Custom indicator TURBO PLUS+ AUDCAD,M15: removed
+2	09:11:05.524	Custom indicator ALERT SIGNAL AUDCAD,M15: removed
+2	09:11:05.529	Custom indicator TrendTradingCloud AUDCAD,M15: removed
+2	09:11:05.533	Custom indicator RSI Divergence Levels AUDCAD,M15: removed
+2	09:11:05.536	Custom indicator MACD_Volumes-2 AUDCAD,M15: removed
+2	09:11:05.538	Custom indicator CloudSignalLines AUDCAD,M15: removed
+2	09:11:05.542	Custom indicator #P4L CandleTime CADCHF,M15: removed
+2	09:11:05.546	Custom indicator TURBO PLUS+ CADCHF,M15: removed
+2	09:11:05.549	Custom indicator ALERT SIGNAL CADCHF,M15: removed
+2	09:11:05.551	Custom indicator TrendTradingCloud CADCHF,M15: removed
+2	09:11:05.555	Custom indicator RSI Divergence Levels CADCHF,M15: removed
+2	09:11:05.557	Custom indicator MACD_Volumes-2 CADCHF,M15: removed
+2	09:11:05.561	Custom indicator CloudSignalLines CADCHF,M15: removed
+2	09:11:05.566	Custom indicator #P4L CandleTime EURGBP,M15: removed
+2	09:11:05.569	Custom indicator TURBO PLUS+ EURGBP,M15: removed
+2	09:11:05.571	Custom indicator ALERT SIGNAL EURGBP,M15: removed
+2	09:11:05.573	Custom indicator TrendTradingCloud EURGBP,M15: removed
+2	09:11:05.575	Custom indicator RSI Divergence Levels EURGBP,M15: removed
+2	09:11:05.577	Custom indicator MACD_Volumes-2 EURGBP,M15: removed
+2	09:11:05.579	Custom indicator CloudSignalLines EURGBP,M15: removed
+2	09:11:05.584	Custom indicator #P4L CandleTime EURAUD,M15: removed
+2	09:11:05.586	Custom indicator TURBO PLUS+ EURAUD,M15: removed
+2	09:11:05.589	Custom indicator ALERT SIGNAL EURAUD,M15: removed
+2	09:11:05.593	Custom indicator TrendTradingCloud EURAUD,M15: removed
+2	09:11:05.596	Custom indicator RSI Divergence Levels EURAUD,M15: removed
+2	09:11:05.600	Custom indicator MACD_Volumes-2 EURAUD,M15: removed
+2	09:11:05.604	Custom indicator CloudSignalLines EURAUD,M15: removed
+2	09:11:05.613	Custom indicator #P4L CandleTime CADJPY,M30: removed
+2	09:11:05.616	Custom indicator TURBO PLUS+ CADJPY,M30: removed
+2	09:11:05.619	Custom indicator ALERT SIGNAL CADJPY,M30: removed
+2	09:11:05.622	Custom indicator TrendTradingCloud CADJPY,M30: removed
+2	09:11:05.625	Custom indicator RSI Divergence Levels CADJPY,M30: removed
+2	09:11:05.629	Custom indicator MACD_Volumes-2 CADJPY,M30: removed
+2	09:11:05.632	Custom indicator CloudSignalLines CADJPY,M30: removed
+2	09:11:05.636	Custom indicator #P4L CandleTime USDCHF,M15: removed
+2	09:11:05.638	Custom indicator TURBO PLUS+ USDCHF,M15: removed
+2	09:11:05.640	Custom indicator ALERT SIGNAL USDCHF,M15: removed
+2	09:11:05.643	Custom indicator TrendTradingCloud USDCHF,M15: removed
+2	09:11:05.647	Custom indicator RSI Divergence Levels USDCHF,M15: removed
+2	09:11:05.650	Custom indicator MACD_Volumes-2 USDCHF,M15: removed
+2	09:11:05.652	Custom indicator CloudSignalLines USDCHF,M15: removed
+2	09:11:05.658	Custom indicator #P4L CandleTime AUDCHF,H1: removed
+2	09:11:05.662	Custom indicator TURBO PLUS+ AUDCHF,H1: removed
+2	09:11:05.664	Custom indicator ALERT SIGNAL AUDCHF,H1: removed
+2	09:11:05.666	Custom indicator TrendTradingCloud AUDCHF,H1: removed
+2	09:11:05.669	Custom indicator RSI Divergence Levels AUDCHF,H1: removed
+2	09:11:05.672	Custom indicator MACD_Volumes-2 AUDCHF,H1: removed
+2	09:11:05.675	Custom indicator CloudSignalLines AUDCHF,H1: removed
+2	09:11:05.680	Custom indicator #P4L CandleTime GBPCAD,M15: removed
+2	09:11:05.683	Custom indicator TURBO PLUS+ GBPCAD,M15: removed
+2	09:11:05.685	Custom indicator ALERT SIGNAL GBPCAD,M15: removed
+2	09:11:05.687	Custom indicator TrendTradingCloud GBPCAD,M15: removed
+2	09:11:05.689	Custom indicator RSI Divergence Levels GBPCAD,M15: removed
+2	09:11:05.691	Custom indicator MACD_Volumes-2 GBPCAD,M15: removed
+2	09:11:05.694	Custom indicator CloudSignalLines GBPCAD,M15: removed
+2	09:11:05.705	Custom indicator #P4L CandleTime EURJPY,H1: removed
+2	09:11:05.708	Custom indicator TURBO PLUS+ EURJPY,H1: removed
+2	09:11:05.709	Custom indicator ALERT SIGNAL EURJPY,H1: removed
+2	09:11:05.712	Custom indicator TrendTradingCloud EURJPY,H1: removed
+2	09:11:05.714	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	09:11:05.716	Custom indicator MACD_Volumes-2 EURJPY,H1: removed
+2	09:11:05.718	Custom indicator CloudSignalLines EURJPY,H1: removed
+0	09:11:06.069	Admiral Markets build 1260 stopped
+0	09:12:36.420	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	09:12:36.421	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1140 / 8014 Mb, Disk: 91 / 237 Gb, GMT+3
+0	09:12:36.421	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	09:12:38.315	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	09:12:38.322	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	09:12:38.330	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	09:12:38.338	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	09:12:38.347	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	09:12:38.355	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	09:12:38.361	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	09:12:38.372	Expert Admiral - Connect GBPCAD,H1: loaded successfully
+2	09:12:38.529	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+2	09:12:38.620	Custom indicator #P4L CandleTime GBPAUD,H1: loaded successfully
+2	09:12:38.626	Custom indicator TURBO PLUS+ GBPAUD,H1: loaded successfully
+2	09:12:38.634	Custom indicator ALERT SIGNAL GBPAUD,H1: loaded successfully
+2	09:12:38.642	Custom indicator Trend Trading\TrendTradingCloud GBPAUD,H1: loaded successfully
+2	09:12:38.651	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	09:12:38.658	Custom indicator MACD_Volumes-2 GBPAUD,H1: loaded successfully
+2	09:12:38.665	Custom indicator Trend Trading\CloudSignalLines GBPAUD,H1: loaded successfully
+2	09:12:38.676	Expert Admiral - Trade Terminal GBPAUD,H1: loaded successfully
+2	09:12:38.845	Custom indicator MBFX Timing GBPAUD,H1: loaded successfully
+2	09:12:38.942	Custom indicator #P4L CandleTime [DJI30],M15: loaded successfully
+2	09:12:38.948	Custom indicator TURBO PLUS+ [DJI30],M15: loaded successfully
+2	09:12:38.957	Custom indicator ALERT SIGNAL [DJI30],M15: loaded successfully
+2	09:12:38.964	Custom indicator Trend Trading\TrendTradingCloud [DJI30],M15: loaded successfully
+2	09:12:38.973	Custom indicator RSI Divergence Levels [DJI30],M15: loaded successfully
+2	09:12:38.981	Custom indicator MACD_Volumes-2 [DJI30],M15: loaded successfully
+2	09:12:38.988	Custom indicator Trend Trading\CloudSignalLines [DJI30],M15: loaded successfully
+2	09:12:39.145	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	09:12:39.246	Custom indicator #P4L CandleTime [DAX30],M15: loaded successfully
+2	09:12:39.253	Custom indicator TURBO PLUS+ [DAX30],M15: loaded successfully
+2	09:12:39.261	Custom indicator ALERT SIGNAL [DAX30],M15: loaded successfully
+2	09:12:39.269	Custom indicator Trend Trading\TrendTradingCloud [DAX30],M15: loaded successfully
+2	09:12:39.277	Custom indicator RSI Divergence Levels [DAX30],M15: loaded successfully
+2	09:12:39.286	Custom indicator MACD_Volumes-2 [DAX30],M15: loaded successfully
+2	09:12:39.292	Custom indicator Trend Trading\CloudSignalLines [DAX30],M15: loaded successfully
+2	09:12:39.447	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+2	09:12:39.546	Custom indicator #P4L CandleTime [NQ100],M15: loaded successfully
+2	09:12:39.554	Custom indicator TURBO PLUS+ [NQ100],M15: loaded successfully
+2	09:12:39.561	Custom indicator ALERT SIGNAL [NQ100],M15: loaded successfully
+2	09:12:39.568	Custom indicator Trend Trading\TrendTradingCloud [NQ100],M15: loaded successfully
+2	09:12:39.577	Custom indicator RSI Divergence Levels [NQ100],M15: loaded successfully
+2	09:12:39.585	Custom indicator MACD_Volumes-2 [NQ100],M15: loaded successfully
+2	09:12:39.591	Custom indicator Trend Trading\CloudSignalLines [NQ100],M15: loaded successfully
+2	09:12:39.750	Custom indicator MBFX Timing [NQ100],M15: loaded successfully
+2	09:12:39.849	Custom indicator #P4L CandleTime AUDJPY,M15: loaded successfully
+2	09:12:39.856	Custom indicator TURBO PLUS+ AUDJPY,M15: loaded successfully
+2	09:12:39.864	Custom indicator ALERT SIGNAL AUDJPY,M15: loaded successfully
+2	09:12:39.872	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,M15: loaded successfully
+2	09:12:39.880	Custom indicator RSI Divergence Levels AUDJPY,M15: loaded successfully
+2	09:12:39.888	Custom indicator MACD_Volumes-2 AUDJPY,M15: loaded successfully
+2	09:12:39.894	Custom indicator Trend Trading\CloudSignalLines AUDJPY,M15: loaded successfully
+2	09:12:40.049	Custom indicator MBFX Timing AUDJPY,M15: loaded successfully
+2	09:12:40.147	Custom indicator #P4L CandleTime WTI,M15: loaded successfully
+2	09:12:40.153	Custom indicator TURBO PLUS+ WTI,M15: loaded successfully
+2	09:12:40.161	Custom indicator ALERT SIGNAL WTI,M15: loaded successfully
+2	09:12:40.169	Custom indicator Trend Trading\TrendTradingCloud WTI,M15: loaded successfully
+2	09:12:40.177	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	09:12:40.185	Custom indicator MACD_Volumes-2 WTI,M15: loaded successfully
+2	09:12:40.192	Custom indicator Trend Trading\CloudSignalLines WTI,M15: loaded successfully
+2	09:12:40.344	Custom indicator MBFX Timing WTI,M15: loaded successfully
+2	09:12:40.444	Custom indicator #P4L CandleTime AUDCAD,M15: loaded successfully
+2	09:12:40.450	Custom indicator TURBO PLUS+ AUDCAD,M15: loaded successfully
+2	09:12:40.458	Custom indicator ALERT SIGNAL AUDCAD,M15: loaded successfully
+2	09:12:40.467	Custom indicator Trend Trading\TrendTradingCloud AUDCAD,M15: loaded successfully
+2	09:12:40.475	Custom indicator RSI Divergence Levels AUDCAD,M15: loaded successfully
+2	09:12:40.483	Custom indicator MACD_Volumes-2 AUDCAD,M15: loaded successfully
+2	09:12:40.490	Custom indicator Trend Trading\CloudSignalLines AUDCAD,M15: loaded successfully
+2	09:12:40.646	Custom indicator MBFX Timing AUDCAD,M15: loaded successfully
+2	09:12:40.749	Custom indicator #P4L CandleTime CADCHF,M15: loaded successfully
+2	09:12:40.756	Custom indicator TURBO PLUS+ CADCHF,M15: loaded successfully
+2	09:12:40.763	Custom indicator ALERT SIGNAL CADCHF,M15: loaded successfully
+2	09:12:40.772	Custom indicator Trend Trading\TrendTradingCloud CADCHF,M15: loaded successfully
+2	09:12:40.780	Custom indicator RSI Divergence Levels CADCHF,M15: loaded successfully
+2	09:12:40.788	Custom indicator MACD_Volumes-2 CADCHF,M15: loaded successfully
+2	09:12:40.794	Custom indicator Trend Trading\CloudSignalLines CADCHF,M15: loaded successfully
+2	09:12:40.949	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+2	09:12:41.046	Custom indicator #P4L CandleTime EURGBP,M15: loaded successfully
+2	09:12:41.054	Custom indicator TURBO PLUS+ EURGBP,M15: loaded successfully
+2	09:12:41.061	Custom indicator ALERT SIGNAL EURGBP,M15: loaded successfully
+2	09:12:41.069	Custom indicator Trend Trading\TrendTradingCloud EURGBP,M15: loaded successfully
+2	09:12:41.078	Custom indicator RSI Divergence Levels EURGBP,M15: loaded successfully
+2	09:12:41.086	Custom indicator MACD_Volumes-2 EURGBP,M15: loaded successfully
+2	09:12:41.092	Custom indicator Trend Trading\CloudSignalLines EURGBP,M15: loaded successfully
+2	09:12:41.248	Custom indicator MBFX Timing EURGBP,M15: loaded successfully
+2	09:12:41.347	Custom indicator #P4L CandleTime EURAUD,M15: loaded successfully
+2	09:12:41.354	Custom indicator TURBO PLUS+ EURAUD,M15: loaded successfully
+2	09:12:41.361	Custom indicator ALERT SIGNAL EURAUD,M15: loaded successfully
+2	09:12:41.369	Custom indicator Trend Trading\TrendTradingCloud EURAUD,M15: loaded successfully
+2	09:12:41.377	Custom indicator RSI Divergence Levels EURAUD,M15: loaded successfully
+2	09:12:41.384	Custom indicator MACD_Volumes-2 EURAUD,M15: loaded successfully
+2	09:12:41.391	Custom indicator Trend Trading\CloudSignalLines EURAUD,M15: loaded successfully
+2	09:12:41.545	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	09:12:41.645	Custom indicator #P4L CandleTime CADJPY,M30: loaded successfully
+2	09:12:41.652	Custom indicator TURBO PLUS+ CADJPY,M30: loaded successfully
+2	09:12:41.660	Custom indicator ALERT SIGNAL CADJPY,M30: loaded successfully
+2	09:12:41.667	Custom indicator Trend Trading\TrendTradingCloud CADJPY,M30: loaded successfully
+2	09:12:41.676	Custom indicator RSI Divergence Levels CADJPY,M30: loaded successfully
+2	09:12:41.684	Custom indicator MACD_Volumes-2 CADJPY,M30: loaded successfully
+2	09:12:41.690	Custom indicator Trend Trading\CloudSignalLines CADJPY,M30: loaded successfully
+2	09:12:41.854	Custom indicator MBFX Timing CADJPY,M30: loaded successfully
+2	09:12:41.955	Custom indicator #P4L CandleTime USDCHF,M15: loaded successfully
+2	09:12:41.962	Custom indicator TURBO PLUS+ USDCHF,M15: loaded successfully
+2	09:12:41.970	Custom indicator ALERT SIGNAL USDCHF,M15: loaded successfully
+2	09:12:41.977	Custom indicator Trend Trading\TrendTradingCloud USDCHF,M15: loaded successfully
+2	09:12:41.986	Custom indicator RSI Divergence Levels USDCHF,M15: loaded successfully
+2	09:12:41.993	Custom indicator MACD_Volumes-2 USDCHF,M15: loaded successfully
+2	09:12:42.000	Custom indicator Trend Trading\CloudSignalLines USDCHF,M15: loaded successfully
+2	09:12:42.155	Custom indicator MBFX Timing USDCHF,M15: loaded successfully
+2	09:12:42.258	Custom indicator #P4L CandleTime AUDCHF,H1: loaded successfully
+2	09:12:42.265	Custom indicator TURBO PLUS+ AUDCHF,H1: loaded successfully
+2	09:12:42.272	Custom indicator ALERT SIGNAL AUDCHF,H1: loaded successfully
+2	09:12:42.281	Custom indicator Trend Trading\TrendTradingCloud AUDCHF,H1: loaded successfully
+2	09:12:42.289	Custom indicator RSI Divergence Levels AUDCHF,H1: loaded successfully
+2	09:12:42.297	Custom indicator MACD_Volumes-2 AUDCHF,H1: loaded successfully
+2	09:12:42.303	Custom indicator Trend Trading\CloudSignalLines AUDCHF,H1: loaded successfully
+2	09:12:42.471	Custom indicator MBFX Timing AUDCHF,H1: loaded successfully
+2	09:12:42.573	Custom indicator #P4L CandleTime GBPCAD,M15: loaded successfully
+2	09:12:42.580	Custom indicator TURBO PLUS+ GBPCAD,M15: loaded successfully
+2	09:12:42.588	Custom indicator ALERT SIGNAL GBPCAD,M15: loaded successfully
+2	09:12:42.595	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,M15: loaded successfully
+2	09:12:42.604	Custom indicator RSI Divergence Levels GBPCAD,M15: loaded successfully
+2	09:12:42.611	Custom indicator MACD_Volumes-2 GBPCAD,M15: loaded successfully
+2	09:12:42.618	Custom indicator Trend Trading\CloudSignalLines GBPCAD,M15: loaded successfully
+2	09:12:42.783	Custom indicator MBFX Timing GBPCAD,M15: loaded successfully
+2	09:12:42.898	Custom indicator #P4L CandleTime EURJPY,H1: loaded successfully
+2	09:12:42.906	Custom indicator TURBO PLUS+ EURJPY,H1: loaded successfully
+2	09:12:42.915	Custom indicator ALERT SIGNAL EURJPY,H1: loaded successfully
+2	09:12:42.923	Custom indicator Trend Trading\TrendTradingCloud EURJPY,H1: loaded successfully
+2	09:12:42.933	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	09:12:42.942	Custom indicator MACD_Volumes-2 EURJPY,H1: loaded successfully
+2	09:12:42.948	Custom indicator Trend Trading\CloudSignalLines EURJPY,H1: loaded successfully
+2	09:12:43.107	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+0	09:12:44.705	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 201.37 ms)
+0	09:12:50.058	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 201.37 ms)
+0	09:12:51.199	'27123197': previous successful authorization performed from 197.149.38.88
+0	09:13:06.330	'27123197': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	09:13:07.169	'27123197': order was opened : #65184336 sell 0.10 [DAX30] at 10566.28 sl: 0.00 tp: 0.00
+0	09:13:13.084	'27123197': modify order #65184336 sell 0.10 [DAX30] at 10566.28 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 10528.18
+0	09:13:14.922	'27123197': order #65184336 sell 0.10 [DAX30] at 10566.28 was modified -> sl: 0.00 tp: 10528.18
+0	09:13:28.929	'27123197': modify order #65184336 sell 0.10 [DAX30] at 10566.28 sl: 0.00 tp: 10528.18 -> sl: 10652.37 tp: 10528.18
+0	09:13:29.697	'27123197': ping to current access point Access Point #4 is 226.97 ms
+0	09:13:29.700	'27123197': order #65184336 sell 0.10 [DAX30] at 10566.28 was modified -> sl: 10652.37 tp: 10528.18
+0	09:13:39.822	'27123197': modify order #65184336 sell 0.10 [DAX30] at 10566.28 sl: 10652.37 tp: 10528.18 -> sl: 10665.38 tp: 10528.18
+0	09:13:40.633	'27123197': order #65184336 sell 0.10 [DAX30] at 10566.28 was modified -> sl: 10665.38 tp: 10528.18
+2	09:15:19.326	Custom indicator #P4L CandleTime EURAUD,H1: loaded successfully
+2	09:15:19.337	Custom indicator TURBO PLUS+ EURAUD,H1: loaded successfully
+2	09:15:19.347	Custom indicator ALERT SIGNAL EURAUD,H1: loaded successfully
+2	09:15:19.358	Custom indicator Trend Trading\TrendTradingCloud EURAUD,H1: loaded successfully
+2	09:15:19.367	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	09:15:19.378	Custom indicator MACD_Volumes-2 EURAUD,H1: loaded successfully
+2	09:15:19.386	Custom indicator Trend Trading\CloudSignalLines EURAUD,H1: loaded successfully
+2	09:15:19.594	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+2	09:15:21.822	Custom indicator MBFX Timing EURAUD,H1: removed
+2	09:15:21.938	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	10:09:17.663	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	10:09:17.687	Expert Admiral - Connect GBPCAD,H1: removed
+2	10:09:17.694	Custom indicator #P4L CandleTime GBPCAD,H1: removed
+2	10:09:17.702	Custom indicator TURBO PLUS+ GBPCAD,H1: removed
+2	10:09:17.711	Custom indicator ALERT SIGNAL GBPCAD,H1: removed
+2	10:09:17.719	Custom indicator TrendTradingCloud GBPCAD,H1: removed
+2	10:09:17.732	Custom indicator RSI Divergence Levels GBPCAD,H1: removed
+2	10:09:17.743	Custom indicator MACD_Volumes-2 GBPCAD,H1: removed
+2	10:09:17.753	Custom indicator CloudSignalLines GBPCAD,H1: removed
+2	10:09:39.549	Custom indicator MBFX Timing GBPAUD,H1: removed
+2	10:09:39.562	Expert Admiral - Trade Terminal GBPAUD,H1: removed
+2	10:09:39.563	Custom indicator #P4L CandleTime GBPAUD,H1: removed
+2	10:09:39.566	Custom indicator TURBO PLUS+ GBPAUD,H1: removed
+2	10:09:39.568	Custom indicator ALERT SIGNAL GBPAUD,H1: removed
+2	10:09:39.571	Custom indicator TrendTradingCloud GBPAUD,H1: removed
+2	10:09:39.574	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	10:09:39.576	Custom indicator MACD_Volumes-2 GBPAUD,H1: removed
+2	10:09:39.579	Custom indicator CloudSignalLines GBPAUD,H1: removed
+0	10:11:54.681	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 210.15 ms)
+0	10:11:57.992	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 210.15 ms)
+0	10:11:59.425	'23853581': previous successful authorization performed from 41.188.54.86
+0	10:12:27.352	'23853581': ping to current access point Access Point #6 is 224.97 ms
+2	10:13:05.808	Custom indicator #P4L CandleTime AUDJPY,H1: loaded successfully
+2	10:13:05.824	Custom indicator TURBO PLUS+ AUDJPY,H1: loaded successfully
+2	10:13:05.841	Custom indicator ALERT SIGNAL AUDJPY,H1: loaded successfully
+2	10:13:05.859	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,H1: loaded successfully
+2	10:13:05.878	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+2	10:13:05.901	Custom indicator MACD_Volumes-2 AUDJPY,H1: loaded successfully
+2	10:13:05.923	Custom indicator Trend Trading\CloudSignalLines AUDJPY,H1: loaded successfully
+2	10:13:06.295	Custom indicator MBFX Timing AUDJPY,H1: loaded successfully
+0	10:13:43.494	'23853581': close order #177350929 buy 0.10 AUDCHF at 0.61425 sl: 0.61074 tp: 0.63000 at price 0.00000
+0	10:13:44.283	'23853581': order #177350929 buy 0.10 AUDCHF at 0.61425 sl: 0.61074 tp: 0.63000 closed at price 0.62832
+0	10:13:47.603	'23853581': order buy market 0.10 AUDJPY sl: 0.000 tp: 0.000
+0	10:13:48.406	'23853581': order was opened : #177725293 buy 0.10 AUDJPY at 69.219 sl: 0.000 tp: 0.000
+0	10:14:55.568	'23853581': modify order #177725293 buy 0.10 AUDJPY at 69.219 sl: 0.000 tp: 0.000 -> sl: 68.600 tp: 69.500
+0	10:14:56.343	'23853581': order #177725293 buy 0.10 AUDJPY at 69.219 was modified -> sl: 68.600 tp: 69.500
+0	10:15:26.080	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 226.97 ms)
+0	10:15:36.278	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 226.97 ms)
+0	10:15:37.382	'27123197': previous successful authorization performed from 197.149.38.88
+0	10:15:48.687	'27123197': order sell market 0.10 AUDCAD sl: 0.00000 tp: 0.00000
+0	10:15:49.142	'27123197': order was opened : #65187589 sell 0.10 AUDCAD at 0.90696 sl: 0.00000 tp: 0.00000
+0	10:15:58.784	'27123197': modify order #65187589 sell 0.10 AUDCAD at 0.90696 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.90622
+0	10:15:59.476	'27123197': order #65187589 sell 0.10 AUDCAD at 0.90696 was modified -> sl: 0.00000 tp: 0.90622
+0	10:16:03.698	'27123197': ping to current access point Access Point #4 is 208.73 ms
+0	10:16:13.952	'27123197': modify order #65187589 sell 0.10 AUDCAD at 0.90696 sl: 0.00000 tp: 0.90622 -> sl: 0.90955 tp: 0.90622
+0	10:16:14.902	'27123197': order #65187589 sell 0.10 AUDCAD at 0.90696 was modified -> sl: 0.90955 tp: 0.90622
+0	10:16:26.377	'27123197': modify order #65187589 sell 0.10 AUDCAD at 0.90696 sl: 0.90955 tp: 0.90622 -> sl: 0.91152 tp: 0.90622
+0	10:16:26.955	'27123197': order #65187589 sell 0.10 AUDCAD at 0.90696 was modified -> sl: 0.91152 tp: 0.90622
+2	10:18:15.390	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	10:18:15.406	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	10:18:15.428	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	10:18:15.451	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	10:18:15.479	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	10:18:15.506	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	10:18:15.527	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	10:18:15.880	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+0	10:18:46.017	'27123197': order sell market 0.10 GBPCAD sl: 0.00000 tp: 0.00000
+0	10:18:48.115	'27123197': order was opened : #65187869 sell 0.10 GBPCAD at 1.74669 sl: 0.00000 tp: 0.00000
+0	10:19:46.096	'27123197': modify order #65187869 sell 0.10 GBPCAD at 1.74669 sl: 0.00000 tp: 0.00000 -> sl: 1.75500 tp: 1.73350
+0	10:19:46.653	'27123197': order #65187869 sell 0.10 GBPCAD at 1.74669 was modified -> sl: 1.75500 tp: 1.73350
+2	10:29:09.347	Custom indicator #P4L CandleTime GBPUSD,H1: loaded successfully
+2	10:29:09.363	Custom indicator TURBO PLUS+ GBPUSD,H1: loaded successfully
+2	10:29:09.379	Custom indicator ALERT SIGNAL GBPUSD,H1: loaded successfully
+2	10:29:09.394	Custom indicator Trend Trading\TrendTradingCloud GBPUSD,H1: loaded successfully
+2	10:29:09.410	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	10:29:09.425	Custom indicator MACD_Volumes-2 GBPUSD,H1: loaded successfully
+2	10:29:09.439	Custom indicator Trend Trading\CloudSignalLines GBPUSD,H1: loaded successfully
+2	10:29:09.835	Custom indicator MBFX Timing GBPUSD,H1: loaded successfully
+3	10:36:26.101	Accounts: timeout on stop
+2	10:49:00.328	Custom indicator MBFX Timing [DJI30],M15: removed
+2	10:49:00.648	Custom indicator MBFX Timing [DJI30],M1: loaded successfully
+0	10:49:23.221	'27123197': close order #65184336 sell 0.10 [DAX30] at 10566.28 sl: 10665.38 tp: 10528.18 at price 0.00
+0	10:49:24.083	'27123197': order #65184336 sell 0.10 [DAX30] at 10566.28 sl: 10665.38 tp: 10528.18 closed at price 10610.94
+0	10:52:10.547	'27123197': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	10:52:11.663	'27123197': order was opened : #65189622 buy 0.50 [DAX30] at 10597.08 sl: 0.00 tp: 0.00
+0	10:53:22.454	'27123197': modify order #65189622 buy 0.50 [DAX30] at 10597.08 sl: 0.00 tp: 0.00 -> sl: 10580.00 tp: 10610.00
+0	10:53:22.988	'27123197': order #65189622 buy 0.50 [DAX30] at 10597.08 was modified -> sl: 10580.00 tp: 10610.00
+2	10:55:02.659	Custom indicator MBFX Timing CADCHF,M15: removed
+2	10:55:02.972	Custom indicator MBFX Timing CADCHF,M30: loaded successfully
+2	10:55:08.087	Custom indicator MBFX Timing CADCHF,M30: removed
+2	10:55:08.284	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+0	11:00:44.291	'27123197': order #65189622 buy 0.50 [DAX30] at 10597.08 closed due stop-loss at price 10579.99
+1	11:02:21.759	'27123197': datacenter connecting failed [6]
+0	11:02:24.544	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 255.28 ms)
+0	11:03:36.143	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:03:44.119	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 318.20 ms)
+0	11:04:45.944	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:04:48.808	'27123197': auto connecting to a better access point Access Point #8 (ping is 860.73 ms)
+0	11:05:27.561	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 226.51 ms)
+0	11:05:51.192	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 226.51 ms)
+0	11:06:15.360	'27123197': previous successful authorization performed from 197.149.38.88
+0	11:16:40.439	'27123197': order #65187589 sell 0.10 AUDCAD at 0.90696 closed due take-profit at price 0.90621
+1	11:19:45.814	'27123197': datacenter connecting failed [6]
+1	11:20:06.994	'27123197': connect failed [Connection échouée]
+0	11:20:22.726	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:21:24.766	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:21:34.842	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+1	11:22:15.410	'27123197': datacenter connecting failed [6]
+0	11:22:17.991	'27123197': previous successful authorization performed from 197.149.38.88
+0	11:22:38.333	'27123197': ping to current access point Access Point #4 is 572.77 ms
+0	11:25:10.132	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 326.27 ms)
+0	11:25:17.556	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 326.27 ms)
+0	11:25:18.667	'27123197': previous successful authorization performed from 197.149.38.88
+1	11:25:40.927	MQL5.community: authorization failed
+0	11:27:56.470	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 326.27 ms)
+0	11:29:00.964	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:29:09.629	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 648.58 ms)
+0	11:29:38.033	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 648.58 ms)
+0	11:29:41.935	'27123197': previous successful authorization performed from 197.149.38.88
+1	11:30:15.684	MQL5.community: authorization failed
+1	11:33:17.760	'27123197': datacenter connecting failed [6]
+0	11:33:31.367	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 679.84 ms)
+0	11:34:51.187	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 1140.00 ms)
+0	11:35:53.416	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:36:00.736	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 651.34 ms)
+0	11:37:01.620	'27123197': login datacenter on AdmiralMarkets-Live
+1	11:37:06.977	'27123197': connect failed [Connection échouée]
+0	11:37:14.873	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:38:17.148	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:38:24.469	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	11:38:29.670	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	11:38:31.766	'27123197': previous successful authorization performed from 197.149.38.88
+0	11:38:58.433	'27123197': ping to current access point Access Point #4 is 249.39 ms
+1	11:39:30.468	'27123197': datacenter connecting failed [6]
+0	11:39:31.255	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 214.06 ms)
+0	11:39:37.239	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 214.06 ms)
+0	11:39:37.806	'27123197': previous successful authorization performed from 197.149.38.88
+2	11:40:05.146	Custom indicator MBFX Timing EURJPY,H1: removed
+2	11:40:05.254	Custom indicator MBFX Timing EURJPY,M15: loaded successfully
+2	11:40:13.252	Custom indicator MBFX Timing AUDJPY,H1: removed
+2	11:40:13.359	Custom indicator MBFX Timing AUDJPY,M15: loaded successfully
+2	11:40:22.749	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	11:40:22.858	Custom indicator MBFX Timing GBPCAD,M15: loaded successfully
+2	11:40:27.766	Custom indicator MBFX Timing GBPUSD,H1: removed
+2	11:40:27.873	Custom indicator MBFX Timing GBPUSD,M15: loaded successfully
+1	11:45:17.714	'27123197': ping failed
+1	11:45:17.716	'27123197': datacenter connecting failed [6]
+0	11:45:19.353	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 230.40 ms)
+0	11:45:28.050	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 230.40 ms)
+0	11:45:33.491	'27123197': previous successful authorization performed from 197.149.38.88
+1	11:49:33.730	'27123197': ping failed
+0	11:49:36.433	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 230.40 ms)
+0	11:50:22.947	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 230.40 ms)
+0	11:50:25.413	'27123197': previous successful authorization performed from 197.149.38.88
+0	11:53:52.276	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:53:56.089	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 254.90 ms)
+0	11:54:58.352	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:55:07.843	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 596.65 ms)
+0	11:56:02.920	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 596.65 ms)
+0	11:56:17.329	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 1644.52 ms)
+0	11:57:21.857	'27123197': login datacenter on AdmiralMarkets-Live
+1	11:57:28.710	'27123197': connect failed [Connection échouée]
+0	11:57:39.920	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:58:44.703	'27123197': login datacenter on AdmiralMarkets-Live
+0	11:58:59.484	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	11:59:33.721	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	11:59:36.751	'27123197': previous successful authorization performed from 197.149.38.88
+0	12:00:34.827	'27123197': ping to current access point Access Point #4 is 540.49 ms
+1	12:10:01.752	'27123197': datacenter connecting failed [6]
+0	12:10:03.024	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 376.81 ms)
+0	12:10:32.795	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 376.81 ms)
+0	12:10:35.235	'27123197': previous successful authorization performed from 197.149.38.88
+1	12:15:44.750	'27123197': datacenter connecting failed [6]
+0	12:15:50.054	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 3270.47 ms)
+1	12:17:11.754	'27123197': datacenter connecting failed [6]
+0	12:17:23.194	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 766.83 ms)
+0	12:18:24.861	'27123197': login datacenter on AdmiralMarkets-Live
+0	12:18:34.683	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 860.25 ms)
+0	12:19:35.996	'27123197': login datacenter on AdmiralMarkets-Live
+0	12:19:41.422	'27123197': auto connecting to a better access point Access Point #3 (ping is 279.21 ms)
+0	12:19:44.940	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 279.21 ms)
+0	12:20:51.674	'27123197': login datacenter on AdmiralMarkets-Live
+0	12:21:00.593	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 477.69 ms)
+0	12:21:10.846	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 477.69 ms)
+0	12:21:11.404	'27123197': previous successful authorization performed from 197.149.38.88
+2	13:43:38.262	Expert Admiral - Connect AUDJPY,M15: loaded successfully
+0	14:38:20.044	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 477.69 ms)
+0	14:38:25.294	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 477.69 ms)
+0	14:38:26.551	'27123197': previous successful authorization performed from 197.149.38.88
+0	14:38:41.409	'27123197': auto connecting to a better access point Access Point #4 (ping is 200.01 ms)
+0	14:38:42.239	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 200.01 ms)
+0	14:38:44.307	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 200.01 ms)
+0	14:38:44.900	'27123197': previous successful authorization performed from 197.149.38.88
+2	14:39:35.015	Custom indicator MBFX Timing CADCHF,M15: removed
+2	14:39:35.824	Custom indicator MBFX Timing CADCHF,Daily: loaded successfully
+2	14:39:48.336	Custom indicator MBFX Timing CADCHF,Daily: removed
+2	14:39:48.469	Custom indicator MBFX Timing CADCHF,H4: loaded successfully
+2	14:39:51.695	Custom indicator MBFX Timing CADCHF,H4: removed
+2	14:39:51.819	Custom indicator MBFX Timing CADCHF,H1: loaded successfully
+2	14:39:56.578	Custom indicator MBFX Timing CADCHF,H1: removed
+2	14:39:56.716	Custom indicator MBFX Timing CADCHF,M30: loaded successfully
+2	14:39:59.358	Custom indicator MBFX Timing CADCHF,M30: removed
+2	14:39:59.487	Custom indicator MBFX Timing CADCHF,H1: loaded successfully
+2	14:40:21.082	Custom indicator MBFX Timing CADCHF,H1: removed
+2	14:40:21.200	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+0	14:40:38.623	'27123197': close order #65107604 buy 0.10 CADCHF at 0.69408 sl: 0.68747 tp: 0.69518 at price 0.00000
+0	14:40:39.058	'27123197': order #65107604 buy 0.10 CADCHF at 0.69408 sl: 0.68747 tp: 0.69518 closed at price 0.69215
+0	14:58:25.985	'27123197': order sell market 0.10 USDCHF sl: 0.00000 tp: 0.00000
+0	14:58:26.392	'27123197': order was opened : #65201550 sell 0.10 USDCHF at 0.97286 sl: 0.00000 tp: 0.00000
+0	14:58:36.715	'27123197': modify order #65201550 sell 0.10 USDCHF at 0.97286 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.97164
+0	14:58:37.063	'27123197': order #65201550 sell 0.10 USDCHF at 0.97286 was modified -> sl: 0.00000 tp: 0.97164
+0	14:58:46.291	'27123197': modify order #65201550 sell 0.10 USDCHF at 0.97286 sl: 0.00000 tp: 0.97164 -> sl: 0.97560 tp: 0.97164
+0	14:58:46.595	'27123197': order #65201550 sell 0.10 USDCHF at 0.97286 was modified -> sl: 0.97560 tp: 0.97164
+1	15:03:07.753	'27123197': connect failed [Connection échouée]
+0	16:04:01.809	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	16:04:05.555	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	16:04:06.384	'27123197': previous successful authorization performed from 154.126.9.91
+0	16:04:33.984	'27123197': auto connecting to a better access point Access Point #4 (ping is 240.80 ms)
+0	16:04:35.635	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 240.80 ms)
+0	16:04:43.485	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 240.80 ms)
+0	16:04:45.664	'27123197': previous successful authorization performed from 154.126.9.139
+1	16:09:04.480	'27123197': ping failed
+1	16:09:04.482	'27123197': datacenter connecting failed [6]
+1	16:10:06.752	'27123197': connect failed [Connection échouée]
+0	18:58:22.568	System to be shutdown, request for close Admiral Markets
+3	18:58:25.756	Main pumping: timeout on stop
+3	18:58:28.771	Main pumping: timeout on stop
+0	19:06:10.740	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	19:06:10.740	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 2878 / 8014 Mb, Disk: 90 / 237 Gb, GMT+3
+0	19:06:10.740	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	19:06:12.383	Custom indicator #P4L CandleTime [DJI30],M15: loaded successfully
+2	19:06:12.383	Custom indicator TURBO PLUS+ [DJI30],M15: loaded successfully
+2	19:06:12.399	Custom indicator ALERT SIGNAL [DJI30],M15: loaded successfully
+2	19:06:12.399	Custom indicator Trend Trading\TrendTradingCloud [DJI30],M15: loaded successfully
+2	19:06:12.421	Custom indicator RSI Divergence Levels [DJI30],M15: loaded successfully
+2	19:06:12.421	Custom indicator MACD_Volumes-2 [DJI30],M15: loaded successfully
+2	19:06:12.421	Custom indicator Trend Trading\CloudSignalLines [DJI30],M15: loaded successfully
+2	19:06:12.584	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	19:06:12.669	Custom indicator #P4L CandleTime [DAX30],M15: loaded successfully
+2	19:06:12.669	Custom indicator TURBO PLUS+ [DAX30],M15: loaded successfully
+2	19:06:12.684	Custom indicator ALERT SIGNAL [DAX30],M15: loaded successfully
+2	19:06:12.684	Custom indicator Trend Trading\TrendTradingCloud [DAX30],M15: loaded successfully
+2	19:06:12.700	Custom indicator RSI Divergence Levels [DAX30],M15: loaded successfully
+2	19:06:12.700	Custom indicator MACD_Volumes-2 [DAX30],M15: loaded successfully
+2	19:06:12.715	Custom indicator Trend Trading\CloudSignalLines [DAX30],M15: loaded successfully
+2	19:06:12.875	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+2	19:06:12.960	Custom indicator #P4L CandleTime [NQ100],M15: loaded successfully
+2	19:06:12.975	Custom indicator TURBO PLUS+ [NQ100],M15: loaded successfully
+2	19:06:12.975	Custom indicator ALERT SIGNAL [NQ100],M15: loaded successfully
+2	19:06:12.991	Custom indicator Trend Trading\TrendTradingCloud [NQ100],M15: loaded successfully
+2	19:06:12.991	Custom indicator RSI Divergence Levels [NQ100],M15: loaded successfully
+2	19:06:13.007	Custom indicator MACD_Volumes-2 [NQ100],M15: loaded successfully
+2	19:06:13.013	Custom indicator Trend Trading\CloudSignalLines [NQ100],M15: loaded successfully
+2	19:06:13.157	Custom indicator MBFX Timing [NQ100],M15: loaded successfully
+2	19:06:13.257	Custom indicator #P4L CandleTime AUDJPY,M15: loaded successfully
+2	19:06:13.257	Custom indicator TURBO PLUS+ AUDJPY,M15: loaded successfully
+2	19:06:13.273	Custom indicator ALERT SIGNAL AUDJPY,M15: loaded successfully
+2	19:06:13.273	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,M15: loaded successfully
+2	19:06:13.288	Custom indicator RSI Divergence Levels AUDJPY,M15: loaded successfully
+2	19:06:13.295	Custom indicator MACD_Volumes-2 AUDJPY,M15: loaded successfully
+2	19:06:13.295	Custom indicator Trend Trading\CloudSignalLines AUDJPY,M15: loaded successfully
+2	19:06:13.311	Expert Admiral - Connect AUDJPY,M15: loaded successfully
+2	19:06:13.458	Custom indicator MBFX Timing AUDJPY,M15: loaded successfully
+2	19:06:13.542	Custom indicator #P4L CandleTime WTI,M15: loaded successfully
+2	19:06:13.558	Custom indicator TURBO PLUS+ WTI,M15: loaded successfully
+2	19:06:13.558	Custom indicator ALERT SIGNAL WTI,M15: loaded successfully
+2	19:06:13.574	Custom indicator Trend Trading\TrendTradingCloud WTI,M15: loaded successfully
+2	19:06:13.574	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	19:06:13.589	Custom indicator MACD_Volumes-2 WTI,M15: loaded successfully
+2	19:06:13.596	Custom indicator Trend Trading\CloudSignalLines WTI,M15: loaded successfully
+2	19:06:13.743	Custom indicator MBFX Timing WTI,M15: loaded successfully
+2	19:06:13.843	Custom indicator #P4L CandleTime AUDCAD,M15: loaded successfully
+2	19:06:13.843	Custom indicator TURBO PLUS+ AUDCAD,M15: loaded successfully
+2	19:06:13.859	Custom indicator ALERT SIGNAL AUDCAD,M15: loaded successfully
+2	19:06:13.859	Custom indicator Trend Trading\TrendTradingCloud AUDCAD,M15: loaded successfully
+2	19:06:13.874	Custom indicator RSI Divergence Levels AUDCAD,M15: loaded successfully
+2	19:06:13.874	Custom indicator MACD_Volumes-2 AUDCAD,M15: loaded successfully
+2	19:06:13.890	Custom indicator Trend Trading\CloudSignalLines AUDCAD,M15: loaded successfully
+2	19:06:14.028	Custom indicator MBFX Timing AUDCAD,M15: loaded successfully
+2	19:06:14.113	Custom indicator #P4L CandleTime CADCHF,M15: loaded successfully
+2	19:06:14.128	Custom indicator TURBO PLUS+ CADCHF,M15: loaded successfully
+2	19:06:14.128	Custom indicator ALERT SIGNAL CADCHF,M15: loaded successfully
+2	19:06:14.144	Custom indicator Trend Trading\TrendTradingCloud CADCHF,M15: loaded successfully
+2	19:06:14.144	Custom indicator RSI Divergence Levels CADCHF,M15: loaded successfully
+2	19:06:14.160	Custom indicator MACD_Volumes-2 CADCHF,M15: loaded successfully
+2	19:06:14.160	Custom indicator Trend Trading\CloudSignalLines CADCHF,M15: loaded successfully
+2	19:06:14.313	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+2	19:06:14.398	Custom indicator #P4L CandleTime EURGBP,M15: loaded successfully
+2	19:06:14.413	Custom indicator TURBO PLUS+ EURGBP,M15: loaded successfully
+2	19:06:14.413	Custom indicator ALERT SIGNAL EURGBP,M15: loaded successfully
+2	19:06:14.429	Custom indicator Trend Trading\TrendTradingCloud EURGBP,M15: loaded successfully
+2	19:06:14.429	Custom indicator RSI Divergence Levels EURGBP,M15: loaded successfully
+2	19:06:14.445	Custom indicator MACD_Volumes-2 EURGBP,M15: loaded successfully
+2	19:06:14.445	Custom indicator Trend Trading\CloudSignalLines EURGBP,M15: loaded successfully
+2	19:06:14.598	Custom indicator MBFX Timing EURGBP,M15: loaded successfully
+2	19:06:14.692	Custom indicator #P4L CandleTime EURAUD,M15: loaded successfully
+2	19:06:14.698	Custom indicator TURBO PLUS+ EURAUD,M15: loaded successfully
+2	19:06:14.698	Custom indicator ALERT SIGNAL EURAUD,M15: loaded successfully
+2	19:06:14.714	Custom indicator Trend Trading\TrendTradingCloud EURAUD,M15: loaded successfully
+2	19:06:14.714	Custom indicator RSI Divergence Levels EURAUD,M15: loaded successfully
+2	19:06:14.730	Custom indicator MACD_Volumes-2 EURAUD,M15: loaded successfully
+2	19:06:14.730	Custom indicator Trend Trading\CloudSignalLines EURAUD,M15: loaded successfully
+2	19:06:14.892	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	19:06:14.982	Custom indicator #P4L CandleTime CADJPY,M30: loaded successfully
+2	19:06:14.982	Custom indicator TURBO PLUS+ CADJPY,M30: loaded successfully
+2	19:06:14.997	Custom indicator ALERT SIGNAL CADJPY,M30: loaded successfully
+2	19:06:14.997	Custom indicator Trend Trading\TrendTradingCloud CADJPY,M30: loaded successfully
+2	19:06:15.013	Custom indicator RSI Divergence Levels CADJPY,M30: loaded successfully
+2	19:06:15.019	Custom indicator MACD_Volumes-2 CADJPY,M30: loaded successfully
+2	19:06:15.019	Custom indicator Trend Trading\CloudSignalLines CADJPY,M30: loaded successfully
+2	19:06:15.166	Custom indicator MBFX Timing CADJPY,M30: loaded successfully
+2	19:06:15.267	Custom indicator #P4L CandleTime USDCHF,M15: loaded successfully
+2	19:06:15.282	Custom indicator TURBO PLUS+ USDCHF,M15: loaded successfully
+2	19:06:15.282	Custom indicator ALERT SIGNAL USDCHF,M15: loaded successfully
+2	19:06:15.298	Custom indicator Trend Trading\TrendTradingCloud USDCHF,M15: loaded successfully
+2	19:06:15.298	Custom indicator RSI Divergence Levels USDCHF,M15: loaded successfully
+2	19:06:15.314	Custom indicator MACD_Volumes-2 USDCHF,M15: loaded successfully
+2	19:06:15.320	Custom indicator Trend Trading\CloudSignalLines USDCHF,M15: loaded successfully
+2	19:06:15.464	Custom indicator MBFX Timing USDCHF,M15: loaded successfully
+2	19:06:15.549	Custom indicator #P4L CandleTime AUDCHF,H1: loaded successfully
+2	19:06:15.564	Custom indicator TURBO PLUS+ AUDCHF,H1: loaded successfully
+2	19:06:15.564	Custom indicator ALERT SIGNAL AUDCHF,H1: loaded successfully
+2	19:06:15.580	Custom indicator Trend Trading\TrendTradingCloud AUDCHF,H1: loaded successfully
+2	19:06:15.580	Custom indicator RSI Divergence Levels AUDCHF,H1: loaded successfully
+2	19:06:15.596	Custom indicator MACD_Volumes-2 AUDCHF,H1: loaded successfully
+2	19:06:15.604	Custom indicator Trend Trading\CloudSignalLines AUDCHF,H1: loaded successfully
+2	19:06:15.754	Custom indicator MBFX Timing AUDCHF,H1: loaded successfully
+2	19:06:15.846	Custom indicator #P4L CandleTime GBPCAD,M15: loaded successfully
+2	19:06:15.846	Custom indicator TURBO PLUS+ GBPCAD,M15: loaded successfully
+2	19:06:15.862	Custom indicator ALERT SIGNAL GBPCAD,M15: loaded successfully
+2	19:06:15.862	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,M15: loaded successfully
+2	19:06:15.878	Custom indicator RSI Divergence Levels GBPCAD,M15: loaded successfully
+2	19:06:15.878	Custom indicator MACD_Volumes-2 GBPCAD,M15: loaded successfully
+2	19:06:15.893	Custom indicator Trend Trading\CloudSignalLines GBPCAD,M15: loaded successfully
+2	19:06:16.034	Custom indicator MBFX Timing GBPCAD,M15: loaded successfully
+2	19:06:16.143	Custom indicator #P4L CandleTime EURJPY,H1: loaded successfully
+2	19:06:16.143	Custom indicator TURBO PLUS+ EURJPY,H1: loaded successfully
+2	19:06:16.159	Custom indicator ALERT SIGNAL EURJPY,H1: loaded successfully
+2	19:06:16.159	Custom indicator Trend Trading\TrendTradingCloud EURJPY,H1: loaded successfully
+2	19:06:16.174	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	19:06:16.174	Custom indicator MACD_Volumes-2 EURJPY,H1: loaded successfully
+2	19:06:16.174	Custom indicator Trend Trading\CloudSignalLines EURJPY,H1: loaded successfully
+2	19:06:16.346	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+2	19:06:16.456	Custom indicator #P4L CandleTime EURAUD,M15: loaded successfully
+2	19:06:16.456	Custom indicator TURBO PLUS+ EURAUD,M15: loaded successfully
+2	19:06:16.456	Custom indicator ALERT SIGNAL EURAUD,M15: loaded successfully
+2	19:06:16.471	Custom indicator Trend Trading\TrendTradingCloud EURAUD,M15: loaded successfully
+2	19:06:16.471	Custom indicator RSI Divergence Levels EURAUD,M15: loaded successfully
+2	19:06:16.487	Custom indicator MACD_Volumes-2 EURAUD,M15: loaded successfully
+2	19:06:16.487	Custom indicator Trend Trading\CloudSignalLines EURAUD,M15: loaded successfully
+2	19:06:16.643	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	19:06:16.737	Custom indicator #P4L CandleTime AUDJPY,H1: loaded successfully
+2	19:06:16.737	Custom indicator TURBO PLUS+ AUDJPY,H1: loaded successfully
+2	19:06:16.752	Custom indicator ALERT SIGNAL AUDJPY,H1: loaded successfully
+2	19:06:16.752	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,H1: loaded successfully
+2	19:06:16.768	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+2	19:06:16.768	Custom indicator MACD_Volumes-2 AUDJPY,H1: loaded successfully
+2	19:06:16.784	Custom indicator Trend Trading\CloudSignalLines AUDJPY,H1: loaded successfully
+2	19:06:16.940	Custom indicator MBFX Timing AUDJPY,H1: loaded successfully
+2	19:06:17.034	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	19:06:17.034	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	19:06:17.049	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	19:06:17.049	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	19:06:17.065	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	19:06:17.065	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	19:06:17.080	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	19:06:17.221	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+2	19:06:17.330	Custom indicator #P4L CandleTime GBPUSD,H1: loaded successfully
+2	19:06:17.330	Custom indicator TURBO PLUS+ GBPUSD,H1: loaded successfully
+2	19:06:17.346	Custom indicator ALERT SIGNAL GBPUSD,H1: loaded successfully
+2	19:06:17.346	Custom indicator Trend Trading\TrendTradingCloud GBPUSD,H1: loaded successfully
+2	19:06:17.362	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	19:06:17.362	Custom indicator MACD_Volumes-2 GBPUSD,H1: loaded successfully
+2	19:06:17.377	Custom indicator Trend Trading\CloudSignalLines GBPUSD,H1: loaded successfully
+2	19:06:17.518	Custom indicator MBFX Timing GBPUSD,H1: loaded successfully
+0	19:06:23.319	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 240.80 ms)
+1	19:06:39.815	MQL Base: failed connect to server
+0	19:07:14.432	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 240.80 ms)
+0	19:07:28.135	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 240.80 ms)
+1	19:07:43.439	MQL5.community: authorization failed
+0	19:07:45.412	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 240.80 ms)
+0	19:07:51.076	'27123197': previous successful authorization performed from 154.126.9.231
+1	19:08:19.541	MQL5.community: authorization failed
+0	19:08:52.306	'27123197': auto connecting to a better access point Access Point #8 (ping is 2349.95 ms)
+1	19:09:51.308	'27123197': connect failed [Connection échouée]
+3	19:10:50.406	Main pumping: timeout on stop
+3	19:10:53.407	Main pumping: timeout on stop
+3	19:10:56.413	Main pumping: timeout on stop
+2	19:10:56.413	Custom indicator MBFX Timing [DJI30],M15: removed
+2	19:10:56.413	Custom indicator MBFX Timing [DAX30],M15: removed
+2	19:10:56.413	Custom indicator MBFX Timing [NQ100],M15: removed
+2	19:10:56.413	Custom indicator MBFX Timing AUDJPY,M15: removed
+2	19:10:56.429	Custom indicator MBFX Timing WTI,M15: removed
+2	19:10:56.429	Custom indicator MBFX Timing AUDCAD,M15: removed
+2	19:10:56.429	Custom indicator MBFX Timing CADCHF,M15: removed
+2	19:10:56.429	Custom indicator MBFX Timing EURGBP,M15: removed
+2	19:10:56.429	Custom indicator MBFX Timing EURAUD,M15: removed
+2	19:10:56.429	Custom indicator MBFX Timing CADJPY,M30: removed
+2	19:10:56.444	Custom indicator MBFX Timing USDCHF,M15: removed
+2	19:10:56.444	Custom indicator MBFX Timing AUDCHF,H1: removed
+2	19:10:56.444	Custom indicator MBFX Timing GBPCAD,M15: removed
+2	19:10:56.444	Custom indicator MBFX Timing EURJPY,H1: removed
+2	19:10:56.444	Custom indicator MBFX Timing EURAUD,M15: removed
+2	19:10:56.444	Custom indicator MBFX Timing AUDJPY,H1: removed
+2	19:10:56.460	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	19:10:56.460	Custom indicator MBFX Timing GBPUSD,H1: removed
+2	19:10:56.585	Custom indicator #P4L CandleTime [DJI30],M15: removed
+2	19:10:56.585	Custom indicator TURBO PLUS+ [DJI30],M15: removed
+2	19:10:56.585	Custom indicator ALERT SIGNAL [DJI30],M15: removed
+2	19:10:56.585	Custom indicator TrendTradingCloud [DJI30],M15: removed
+2	19:10:56.585	Custom indicator RSI Divergence Levels [DJI30],M15: removed
+2	19:10:56.585	Custom indicator MACD_Volumes-2 [DJI30],M15: removed
+2	19:10:56.601	Custom indicator CloudSignalLines [DJI30],M15: removed
+2	19:10:56.601	Custom indicator #P4L CandleTime [DAX30],M15: removed
+2	19:10:56.601	Custom indicator TURBO PLUS+ [DAX30],M15: removed
+2	19:10:56.601	Custom indicator ALERT SIGNAL [DAX30],M15: removed
+2	19:10:56.601	Custom indicator TrendTradingCloud [DAX30],M15: removed
+2	19:10:56.601	Custom indicator RSI Divergence Levels [DAX30],M15: removed
+2	19:10:56.601	Custom indicator MACD_Volumes-2 [DAX30],M15: removed
+2	19:10:56.601	Custom indicator CloudSignalLines [DAX30],M15: removed
+2	19:10:56.616	Custom indicator #P4L CandleTime [NQ100],M15: removed
+2	19:10:56.616	Custom indicator TURBO PLUS+ [NQ100],M15: removed
+2	19:10:56.616	Custom indicator ALERT SIGNAL [NQ100],M15: removed
+2	19:10:56.616	Custom indicator TrendTradingCloud [NQ100],M15: removed
+2	19:10:56.616	Custom indicator RSI Divergence Levels [NQ100],M15: removed
+2	19:10:56.616	Custom indicator MACD_Volumes-2 [NQ100],M15: removed
+2	19:10:56.616	Custom indicator CloudSignalLines [NQ100],M15: removed
+2	19:10:56.616	Expert Admiral - Connect AUDJPY,M15: removed
+2	19:10:56.632	Custom indicator #P4L CandleTime AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator TURBO PLUS+ AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator ALERT SIGNAL AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator TrendTradingCloud AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator RSI Divergence Levels AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator MACD_Volumes-2 AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator CloudSignalLines AUDJPY,M15: removed
+2	19:10:56.648	Custom indicator #P4L CandleTime WTI,M15: removed
+2	19:10:56.648	Custom indicator TURBO PLUS+ WTI,M15: removed
+2	19:10:56.648	Custom indicator ALERT SIGNAL WTI,M15: removed
+2	19:10:56.648	Custom indicator TrendTradingCloud WTI,M15: removed
+2	19:10:56.663	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	19:10:56.663	Custom indicator MACD_Volumes-2 WTI,M15: removed
+2	19:10:56.663	Custom indicator CloudSignalLines WTI,M15: removed
+2	19:10:56.679	Custom indicator #P4L CandleTime AUDCAD,M15: removed
+2	19:10:56.679	Custom indicator TURBO PLUS+ AUDCAD,M15: removed
+2	19:10:56.679	Custom indicator ALERT SIGNAL AUDCAD,M15: removed
+2	19:10:56.679	Custom indicator TrendTradingCloud AUDCAD,M15: removed
+2	19:10:56.679	Custom indicator RSI Divergence Levels AUDCAD,M15: removed
+2	19:10:56.679	Custom indicator MACD_Volumes-2 AUDCAD,M15: removed
+2	19:10:56.694	Custom indicator CloudSignalLines AUDCAD,M15: removed
+2	19:10:56.694	Custom indicator #P4L CandleTime CADCHF,M15: removed
+2	19:10:56.694	Custom indicator TURBO PLUS+ CADCHF,M15: removed
+2	19:10:56.694	Custom indicator ALERT SIGNAL CADCHF,M15: removed
+2	19:10:56.694	Custom indicator TrendTradingCloud CADCHF,M15: removed
+2	19:10:56.694	Custom indicator RSI Divergence Levels CADCHF,M15: removed
+2	19:10:56.694	Custom indicator MACD_Volumes-2 CADCHF,M15: removed
+2	19:10:56.694	Custom indicator CloudSignalLines CADCHF,M15: removed
+2	19:10:56.710	Custom indicator #P4L CandleTime EURGBP,M15: removed
+2	19:10:56.710	Custom indicator TURBO PLUS+ EURGBP,M15: removed
+2	19:10:56.710	Custom indicator ALERT SIGNAL EURGBP,M15: removed
+2	19:10:56.710	Custom indicator TrendTradingCloud EURGBP,M15: removed
+2	19:10:56.710	Custom indicator RSI Divergence Levels EURGBP,M15: removed
+2	19:10:56.710	Custom indicator MACD_Volumes-2 EURGBP,M15: removed
+2	19:10:56.710	Custom indicator CloudSignalLines EURGBP,M15: removed
+2	19:10:56.710	Custom indicator #P4L CandleTime EURAUD,M15: removed
+2	19:10:56.726	Custom indicator TURBO PLUS+ EURAUD,M15: removed
+2	19:10:56.726	Custom indicator ALERT SIGNAL EURAUD,M15: removed
+2	19:10:56.726	Custom indicator TrendTradingCloud EURAUD,M15: removed
+2	19:10:56.726	Custom indicator RSI Divergence Levels EURAUD,M15: removed
+2	19:10:56.726	Custom indicator MACD_Volumes-2 EURAUD,M15: removed
+2	19:10:56.726	Custom indicator CloudSignalLines EURAUD,M15: removed
+2	19:10:56.726	Custom indicator #P4L CandleTime CADJPY,M30: removed
+2	19:10:56.726	Custom indicator TURBO PLUS+ CADJPY,M30: removed
+2	19:10:56.741	Custom indicator ALERT SIGNAL CADJPY,M30: removed
+2	19:10:56.741	Custom indicator TrendTradingCloud CADJPY,M30: removed
+2	19:10:56.741	Custom indicator RSI Divergence Levels CADJPY,M30: removed
+2	19:10:56.741	Custom indicator MACD_Volumes-2 CADJPY,M30: removed
+2	19:10:56.741	Custom indicator CloudSignalLines CADJPY,M30: removed
+2	19:10:56.741	Custom indicator #P4L CandleTime USDCHF,M15: removed
+2	19:10:56.741	Custom indicator TURBO PLUS+ USDCHF,M15: removed
+2	19:10:56.741	Custom indicator ALERT SIGNAL USDCHF,M15: removed
+2	19:10:56.741	Custom indicator TrendTradingCloud USDCHF,M15: removed
+2	19:10:56.741	Custom indicator RSI Divergence Levels USDCHF,M15: removed
+2	19:10:56.757	Custom indicator MACD_Volumes-2 USDCHF,M15: removed
+2	19:10:56.757	Custom indicator CloudSignalLines USDCHF,M15: removed
+2	19:10:56.757	Custom indicator #P4L CandleTime AUDCHF,H1: removed
+2	19:10:56.757	Custom indicator TURBO PLUS+ AUDCHF,H1: removed
+2	19:10:56.757	Custom indicator ALERT SIGNAL AUDCHF,H1: removed
+2	19:10:56.757	Custom indicator TrendTradingCloud AUDCHF,H1: removed
+2	19:10:56.757	Custom indicator RSI Divergence Levels AUDCHF,H1: removed
+2	19:10:56.757	Custom indicator MACD_Volumes-2 AUDCHF,H1: removed
+2	19:10:56.757	Custom indicator CloudSignalLines AUDCHF,H1: removed
+2	19:10:56.773	Custom indicator #P4L CandleTime GBPCAD,M15: removed
+2	19:10:56.773	Custom indicator TURBO PLUS+ GBPCAD,M15: removed
+2	19:10:56.773	Custom indicator ALERT SIGNAL GBPCAD,M15: removed
+2	19:10:56.773	Custom indicator TrendTradingCloud GBPCAD,M15: removed
+2	19:10:56.773	Custom indicator RSI Divergence Levels GBPCAD,M15: removed
+2	19:10:56.773	Custom indicator MACD_Volumes-2 GBPCAD,M15: removed
+2	19:10:56.773	Custom indicator CloudSignalLines GBPCAD,M15: removed
+2	19:10:56.788	Custom indicator #P4L CandleTime EURJPY,H1: removed
+2	19:10:56.804	Custom indicator TURBO PLUS+ EURJPY,H1: removed
+2	19:10:56.804	Custom indicator ALERT SIGNAL EURJPY,H1: removed
+2	19:10:56.804	Custom indicator TrendTradingCloud EURJPY,H1: removed
+2	19:10:56.804	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	19:10:56.804	Custom indicator MACD_Volumes-2 EURJPY,H1: removed
+2	19:10:56.804	Custom indicator CloudSignalLines EURJPY,H1: removed
+2	19:10:56.819	Custom indicator #P4L CandleTime EURAUD,M15: removed
+2	19:10:56.819	Custom indicator TURBO PLUS+ EURAUD,M15: removed
+2	19:10:56.819	Custom indicator ALERT SIGNAL EURAUD,M15: removed
+2	19:10:56.819	Custom indicator TrendTradingCloud EURAUD,M15: removed
+2	19:10:56.819	Custom indicator RSI Divergence Levels EURAUD,M15: removed
+2	19:10:56.819	Custom indicator MACD_Volumes-2 EURAUD,M15: removed
+2	19:10:56.835	Custom indicator CloudSignalLines EURAUD,M15: removed
+2	19:10:56.835	Custom indicator #P4L CandleTime AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator TURBO PLUS+ AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator ALERT SIGNAL AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator TrendTradingCloud AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator RSI Divergence Levels AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator MACD_Volumes-2 AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator CloudSignalLines AUDJPY,H1: removed
+2	19:10:56.835	Custom indicator #P4L CandleTime GBPCAD,H1: removed
+2	19:10:56.851	Custom indicator TURBO PLUS+ GBPCAD,H1: removed
+2	19:10:56.851	Custom indicator ALERT SIGNAL GBPCAD,H1: removed
+2	19:10:56.851	Custom indicator TrendTradingCloud GBPCAD,H1: removed
+2	19:10:56.851	Custom indicator RSI Divergence Levels GBPCAD,H1: removed
+2	19:10:56.851	Custom indicator MACD_Volumes-2 GBPCAD,H1: removed
+2	19:10:56.851	Custom indicator CloudSignalLines GBPCAD,H1: removed
+2	19:10:56.866	Custom indicator #P4L CandleTime GBPUSD,H1: removed
+2	19:10:56.866	Custom indicator TURBO PLUS+ GBPUSD,H1: removed
+2	19:10:56.866	Custom indicator ALERT SIGNAL GBPUSD,H1: removed
+2	19:10:56.866	Custom indicator TrendTradingCloud GBPUSD,H1: removed
+2	19:10:56.866	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	19:10:56.866	Custom indicator MACD_Volumes-2 GBPUSD,H1: removed
+2	19:10:56.866	Custom indicator CloudSignalLines GBPUSD,H1: removed
+0	19:10:57.085	Admiral Markets build 1260 stopped

@@ -1,0 +1,882 @@
+0	11:35:40.121	Admiral Markets build 1280 started (Admiral Markets Group AS)
+0	11:35:40.121	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 698 / 8014 Mb, Disk: 7 / 237 Gb, GMT+3
+0	11:35:40.121	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	11:35:48.823	Custom indicator AIMS Levels V2 [CAC40],M15: loaded successfully
+2	11:35:48.914	Custom indicator AIMS Entry Alert V1 [CAC40],M15: loaded successfully
+2	11:35:48.921	Custom indicator CandleTimer [CAC40],M15: loaded successfully
+2	11:35:49.038	Custom indicator #Signal_Bars_v6 [CAC40],M15: loaded successfully
+2	11:35:49.101	Custom indicator TrendEnvelopes_v1 [CAC40],M15: loaded successfully
+2	11:35:49.129	Custom indicator guppy_multiple_moving_averages [CAC40],M15: loaded successfully
+2	11:35:49.160	Custom indicator wedges [CAC40],M15: loaded successfully
+2	11:35:49.382	Custom indicator AIMS AO V.2.1 [CAC40],M15: loaded successfully
+2	11:35:49.397	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: loaded successfully
+2	11:35:49.407	Custom indicator RSI Divergence Levels [CAC40],M15: loaded successfully
+2	11:35:49.437	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: loaded successfully
+2	11:35:49.760	Custom indicator CandleTimer [DAX30],H1: loaded successfully
+2	11:35:49.951	Custom indicator AIMS Levels V2 NZDJPY,Daily: loaded successfully
+2	11:35:50.070	Custom indicator AIMS Entry Alert V1 NZDJPY,Daily: loaded successfully
+2	11:35:50.081	Custom indicator CandleTimer NZDJPY,Daily: loaded successfully
+2	11:35:50.185	Custom indicator #Signal_Bars_v6 NZDJPY,Daily: loaded successfully
+2	11:35:50.202	Custom indicator TrendEnvelopes_v1 NZDJPY,Daily: loaded successfully
+2	11:35:50.211	Custom indicator guppy_multiple_moving_averages NZDJPY,Daily: loaded successfully
+2	11:35:50.232	Custom indicator wedges NZDJPY,Daily: loaded successfully
+2	11:35:50.333	Custom indicator AIMS AO V.2.1 NZDJPY,Daily: loaded successfully
+2	11:35:50.346	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,Daily: loaded successfully
+2	11:35:50.363	Custom indicator RSI Divergence Levels NZDJPY,Daily: loaded successfully
+2	11:35:50.388	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,Daily: loaded successfully
+2	11:35:50.473	Expert Admiral - Mini Terminal NZDJPY,Daily: loaded successfully
+2	11:35:51.079	Custom indicator AIMS Levels V2 EURNZD,M30: loaded successfully
+2	11:35:51.217	Custom indicator AIMS Entry Alert V1 EURNZD,M30: loaded successfully
+2	11:35:51.227	Custom indicator CandleTimer EURNZD,M30: loaded successfully
+2	11:35:51.317	Custom indicator #Signal_Bars_v6 EURNZD,M30: loaded successfully
+2	11:35:51.327	Custom indicator TrendEnvelopes_v1 EURNZD,M30: loaded successfully
+2	11:35:51.337	Custom indicator guppy_multiple_moving_averages EURNZD,M30: loaded successfully
+2	11:35:51.347	Custom indicator wedges EURNZD,M30: loaded successfully
+2	11:35:51.507	Custom indicator AIMS AO V.2.1 EURNZD,M30: loaded successfully
+2	11:35:51.526	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M30: loaded successfully
+2	11:35:51.546	Custom indicator RSI Divergence Levels EURNZD,M30: loaded successfully
+2	11:35:51.576	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M30: loaded successfully
+2	11:35:52.348	Custom indicator AIMS Levels V2 GOLD,M15: loaded successfully
+2	11:35:52.453	Custom indicator AIMS Entry Alert V1 GOLD,M15: loaded successfully
+2	11:35:52.470	Custom indicator CandleTimer GOLD,M15: loaded successfully
+2	11:35:52.568	Custom indicator #Signal_Bars_v6 GOLD,M15: loaded successfully
+2	11:35:52.578	Custom indicator TrendEnvelopes_v1 GOLD,M15: loaded successfully
+2	11:35:52.580	Custom indicator guppy_multiple_moving_averages GOLD,M15: loaded successfully
+2	11:35:52.600	Custom indicator wedges GOLD,M15: loaded successfully
+2	11:35:52.776	Custom indicator AIMS AO V.2.1 GOLD,M15: loaded successfully
+2	11:35:52.797	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: loaded successfully
+2	11:35:52.817	Custom indicator RSI Divergence Levels GOLD,M15: loaded successfully
+2	11:35:52.836	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: loaded successfully
+2	11:35:53.550	Custom indicator CandleTimer GBPUSD,Daily: loaded successfully
+2	11:35:53.781	Custom indicator AIMS Levels V2 GBPAUD,Daily: loaded successfully
+2	11:35:53.963	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: loaded successfully
+2	11:35:53.982	Custom indicator CandleTimer GBPAUD,Daily: loaded successfully
+2	11:35:54.119	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: loaded successfully
+2	11:35:54.134	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: loaded successfully
+2	11:35:54.149	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: loaded successfully
+2	11:35:54.168	Custom indicator wedges GBPAUD,Daily: loaded successfully
+2	11:35:54.379	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: loaded successfully
+2	11:35:54.402	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: loaded successfully
+2	11:35:54.432	Custom indicator RSI Divergence Levels GBPAUD,Daily: loaded successfully
+2	11:35:54.457	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: loaded successfully
+2	11:35:54.486	Expert Admiral - Mini Terminal GBPAUD,Daily: loaded successfully
+2	11:35:55.029	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	11:35:55.113	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	11:35:55.122	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	11:35:55.217	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	11:35:55.247	Custom indicator TrendEnvelopes_v1 CADJPY,M15: loaded successfully
+2	11:35:55.268	Custom indicator guppy_multiple_moving_averages CADJPY,M15: loaded successfully
+2	11:35:55.300	Custom indicator wedges CADJPY,M15: loaded successfully
+2	11:35:55.457	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	11:35:55.467	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	11:35:55.488	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	11:35:55.507	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: loaded successfully
+2	11:35:55.537	Expert Admiral - Mini Terminal CADJPY,M15: loaded successfully
+2	11:35:56.252	Custom indicator AIMS Levels V2 USDCAD,M15: loaded successfully
+2	11:35:56.395	Custom indicator AIMS Entry Alert V1 USDCAD,M15: loaded successfully
+2	11:35:56.402	Custom indicator CandleTimer USDCAD,M15: loaded successfully
+2	11:35:56.483	Custom indicator #Signal_Bars_v6 USDCAD,M15: loaded successfully
+2	11:35:56.493	Custom indicator TrendEnvelopes_v1 USDCAD,M15: loaded successfully
+2	11:35:56.503	Custom indicator guppy_multiple_moving_averages USDCAD,M15: loaded successfully
+2	11:35:56.512	Custom indicator wedges USDCAD,M15: loaded successfully
+2	11:35:56.641	Custom indicator AIMS AO V.2.1 USDCAD,M15: loaded successfully
+2	11:35:56.662	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: loaded successfully
+2	11:35:56.681	Custom indicator RSI Divergence Levels USDCAD,M15: loaded successfully
+2	11:35:56.701	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: loaded successfully
+2	11:35:56.741	Expert Admiral - Mini Terminal USDCAD,M15: loaded successfully
+2	11:35:57.482	Custom indicator AIMS Levels V2 NZDCAD,M15: loaded successfully
+2	11:35:57.596	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: loaded successfully
+2	11:35:57.606	Custom indicator CandleTimer NZDCAD,M15: loaded successfully
+2	11:35:57.700	Custom indicator #Signal_Bars_v6 NZDCAD,M15: loaded successfully
+2	11:35:57.718	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: loaded successfully
+2	11:35:57.729	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: loaded successfully
+2	11:35:57.740	Custom indicator wedges NZDCAD,M15: loaded successfully
+2	11:35:57.822	Custom indicator AIMS AO V.2.1 NZDCAD,M15: loaded successfully
+2	11:35:57.831	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: loaded successfully
+2	11:35:57.842	Custom indicator RSI Divergence Levels NZDCAD,M15: loaded successfully
+2	11:35:57.853	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: loaded successfully
+2	11:35:57.873	Expert Admiral - Mini Terminal NZDCAD,M15: loaded successfully
+2	11:35:58.685	Custom indicator AIMS Levels V2 WTI,M15: loaded successfully
+2	11:35:58.797	Custom indicator AIMS Entry Alert V1 WTI,M15: loaded successfully
+2	11:35:58.810	Custom indicator CandleTimer WTI,M15: loaded successfully
+2	11:35:58.914	Custom indicator #Signal_Bars_v6 WTI,M15: loaded successfully
+2	11:35:58.923	Custom indicator TrendEnvelopes_v1 WTI,M15: loaded successfully
+2	11:35:58.937	Custom indicator guppy_multiple_moving_averages WTI,M15: loaded successfully
+2	11:35:58.946	Custom indicator wedges WTI,M15: loaded successfully
+2	11:35:59.054	Custom indicator AIMS AO V.2.1 WTI,M15: loaded successfully
+2	11:35:59.072	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: loaded successfully
+2	11:35:59.092	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	11:35:59.113	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: loaded successfully
+2	11:35:59.942	Custom indicator AIMS Levels V2 GBPNZD,M15: loaded successfully
+2	11:36:00.050	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: loaded successfully
+2	11:36:00.062	Custom indicator CandleTimer GBPNZD,M15: loaded successfully
+2	11:36:00.178	Custom indicator #Signal_Bars_v6 GBPNZD,M15: loaded successfully
+2	11:36:00.187	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: loaded successfully
+2	11:36:00.197	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: loaded successfully
+2	11:36:00.208	Custom indicator wedges GBPNZD,M15: loaded successfully
+2	11:36:00.309	Custom indicator AIMS AO V.2.1 GBPNZD,M15: loaded successfully
+2	11:36:00.327	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: loaded successfully
+2	11:36:00.342	Custom indicator RSI Divergence Levels GBPNZD,M15: loaded successfully
+2	11:36:00.358	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: loaded successfully
+2	11:36:01.382	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	11:36:01.521	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	11:36:01.532	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	11:36:01.693	Custom indicator #Signal_Bars_v6 EURNZD,H1: loaded successfully
+2	11:36:01.713	Custom indicator TrendEnvelopes_v1 EURNZD,H1: loaded successfully
+2	11:36:01.733	Custom indicator guppy_multiple_moving_averages EURNZD,H1: loaded successfully
+2	11:36:01.751	Custom indicator wedges EURNZD,H1: loaded successfully
+2	11:36:01.870	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	11:36:01.879	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: loaded successfully
+2	11:36:01.887	Custom indicator RSI Divergence Levels EURNZD,H1: loaded successfully
+2	11:36:01.898	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: loaded successfully
+2	11:36:02.227	Custom indicator CandleTimer [NQ100],Daily: loaded successfully
+2	11:36:02.253	Expert Admiral - Mini Terminal [NQ100],Daily: loaded successfully
+2	11:36:02.391	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	11:36:02.472	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	11:36:02.482	Custom indicator CandleTimer GBPJPY,H1: loaded successfully
+2	11:36:02.623	Custom indicator #Signal_Bars_v6 GBPJPY,H1: loaded successfully
+2	11:36:02.641	Custom indicator TrendEnvelopes_v1 GBPJPY,H1: loaded successfully
+2	11:36:02.662	Custom indicator guppy_multiple_moving_averages GBPJPY,H1: loaded successfully
+2	11:36:02.682	Custom indicator wedges GBPJPY,H1: loaded successfully
+2	11:36:02.761	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	11:36:02.771	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	11:36:02.783	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	11:36:02.792	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,H1: loaded successfully
+2	11:36:03.414	Custom indicator AIMS Levels V2 EURAUD,H1: loaded successfully
+2	11:36:03.505	Custom indicator AIMS Entry Alert V1 EURAUD,H1: loaded successfully
+2	11:36:03.505	Custom indicator CandleTimer EURAUD,H1: loaded successfully
+2	11:36:03.597	Custom indicator #Signal_Bars_v6 EURAUD,H1: loaded successfully
+2	11:36:03.607	Custom indicator TrendEnvelopes_v1 EURAUD,H1: loaded successfully
+2	11:36:03.617	Custom indicator guppy_multiple_moving_averages EURAUD,H1: loaded successfully
+2	11:36:03.628	Custom indicator wedges EURAUD,H1: loaded successfully
+2	11:36:03.732	Custom indicator AIMS AO V.2.1 EURAUD,H1: loaded successfully
+2	11:36:03.745	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: loaded successfully
+2	11:36:03.759	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	11:36:03.774	Custom indicator JoeChalhoub_FXForecasterV1 EURAUD,H1: loaded successfully
+2	11:36:04.393	Custom indicator AIMS Levels V2 USDCHF,H1: loaded successfully
+2	11:36:04.514	Custom indicator AIMS Entry Alert V1 USDCHF,H1: loaded successfully
+2	11:36:04.516	Custom indicator CandleTimer USDCHF,H1: loaded successfully
+2	11:36:04.629	Custom indicator #Signal_Bars_v6 USDCHF,H1: loaded successfully
+2	11:36:04.646	Custom indicator TrendEnvelopes_v1 USDCHF,H1: loaded successfully
+2	11:36:04.659	Custom indicator guppy_multiple_moving_averages USDCHF,H1: loaded successfully
+2	11:36:04.669	Custom indicator wedges USDCHF,H1: loaded successfully
+2	11:36:04.771	Custom indicator AIMS AO V.2.1 USDCHF,H1: loaded successfully
+2	11:36:04.783	Custom indicator IVT_MACD_ZERO_LAG USDCHF,H1: loaded successfully
+2	11:36:04.795	Custom indicator RSI Divergence Levels USDCHF,H1: loaded successfully
+2	11:36:04.809	Custom indicator JoeChalhoub_FXForecasterV1 USDCHF,H1: loaded successfully
+2	11:36:05.531	Custom indicator AIMS Levels V2 NZDUSD,H1: loaded successfully
+2	11:36:05.622	Custom indicator AIMS Entry Alert V1 NZDUSD,H1: loaded successfully
+2	11:36:05.632	Custom indicator CandleTimer NZDUSD,H1: loaded successfully
+2	11:36:05.748	Custom indicator #Signal_Bars_v6 NZDUSD,H1: loaded successfully
+2	11:36:05.758	Custom indicator TrendEnvelopes_v1 NZDUSD,H1: loaded successfully
+2	11:36:05.780	Custom indicator wedges NZDUSD,H1: loaded successfully
+2	11:36:05.895	Custom indicator AIMS AO V.2.1 NZDUSD,H1: loaded successfully
+2	11:36:05.905	Custom indicator IVT_MACD_ZERO_LAG NZDUSD,H1: loaded successfully
+2	11:36:05.915	Custom indicator RSI Divergence Levels NZDUSD,H1: loaded successfully
+2	11:36:05.925	Custom indicator JoeChalhoub_FXForecasterV1 NZDUSD,H1: loaded successfully
+2	11:36:06.312	Custom indicator CandleTimer [NQ100],H1: loaded successfully
+2	11:36:06.536	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	11:36:06.627	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	11:36:06.637	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	11:36:06.721	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	11:36:06.724	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	11:36:06.734	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	11:36:06.743	Custom indicator wedges [DJI30],M1: loaded successfully
+2	11:36:06.840	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	11:36:06.848	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	11:36:06.859	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	11:36:06.868	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	11:36:08.847	Custom indicator AIMS Levels V2 ETHUSD,H1: loaded successfully
+2	11:36:08.962	Custom indicator AIMS Entry Alert V1 ETHUSD,H1: loaded successfully
+2	11:36:08.970	Custom indicator CandleTimer ETHUSD,H1: loaded successfully
+2	11:36:09.065	Custom indicator #Signal_Bars_v6 ETHUSD,H1: loaded successfully
+2	11:36:09.082	Custom indicator TrendEnvelopes_v1 ETHUSD,H1: loaded successfully
+2	11:36:09.103	Custom indicator guppy_multiple_moving_averages ETHUSD,H1: loaded successfully
+2	11:36:09.137	Custom indicator wedges ETHUSD,H1: loaded successfully
+2	11:36:09.243	Custom indicator AIMS AO V.2.1 ETHUSD,H1: loaded successfully
+2	11:36:09.254	Custom indicator IVT_MACD_ZERO_LAG ETHUSD,H1: loaded successfully
+2	11:36:09.264	Custom indicator RSI Divergence Levels ETHUSD,H1: loaded successfully
+2	11:36:09.273	Custom indicator JoeChalhoub_FXForecasterV1 ETHUSD,H1: loaded successfully
+2	11:36:09.294	Expert Admiral - Mini Terminal ETHUSD,H1: loaded successfully
+2	11:36:09.998	Custom indicator AIMS Levels V2 EURJPY,H1: loaded successfully
+2	11:36:10.146	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	11:36:10.156	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	11:36:10.247	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	11:36:10.250	Custom indicator TrendEnvelopes_v1 EURJPY,H1: loaded successfully
+2	11:36:10.260	Custom indicator guppy_multiple_moving_averages EURJPY,H1: loaded successfully
+2	11:36:10.269	Custom indicator wedges EURJPY,H1: loaded successfully
+2	11:36:10.394	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	11:36:10.415	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+2	11:36:10.436	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	11:36:10.465	Custom indicator JoeChalhoub_FXForecasterV1 EURJPY,H1: loaded successfully
+0	11:36:11.918	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	11:36:16.531	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: 209.46 ms)
+0	11:36:19.970	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 209.46 ms)
+0	11:36:21.185	'23929927': previous successful authorization performed from 154.126.113.9
+0	11:36:34.083	'23929927': auto connecting to a better access point Access Point #4 (ping is 259.05 ms)
+0	11:36:35.313	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 259.05 ms)
+0	11:36:39.380	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 259.05 ms)
+0	11:36:40.252	'23929927': previous successful authorization performed from 154.126.12.122
+0	11:36:56.982	Notifications: 'Classical RSI bullish divergence on:  EURAUD' sent to 'A37163A9'
+2	11:40:07.013	Custom indicator CandleTimer GBPUSD,Daily: removed
+2	11:40:07.091	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,Daily: loaded successfully
+2	11:40:07.293	Custom indicator Entry GBPUSD,Daily: loaded successfully
+2	11:40:07.490	Custom indicator Trend GBPUSD,Daily: loaded successfully
+2	11:40:07.541	Custom indicator Admiral Pivot GBPUSD,Daily: loaded successfully
+2	11:40:07.564	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,Daily: loaded successfully
+2	11:40:07.589	Custom indicator RSI Divergence Levels GBPUSD,Daily: loaded successfully
+2	11:40:16.588	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,Daily: removed
+2	11:40:16.588	Custom indicator Entry GBPUSD,Daily: removed
+2	11:40:16.588	Custom indicator Trend GBPUSD,Daily: removed
+2	11:40:16.588	Custom indicator Admiral Pivot GBPUSD,Daily: removed
+2	11:40:16.597	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,Daily: removed
+2	11:40:16.600	Custom indicator RSI Divergence Levels GBPUSD,Daily: removed
+2	11:40:16.722	Custom indicator AIMS Levels V2 GBPUSD,Daily: loaded successfully
+2	11:40:16.822	Custom indicator AIMS Entry Alert V1 GBPUSD,Daily: loaded successfully
+2	11:40:16.828	Custom indicator CandleTimer GBPUSD,Daily: loaded successfully
+2	11:40:16.950	Custom indicator #Signal_Bars_v6 GBPUSD,Daily: loaded successfully
+2	11:40:16.964	Custom indicator TrendEnvelopes_v1 GBPUSD,Daily: loaded successfully
+2	11:40:16.981	Custom indicator guppy_multiple_moving_averages GBPUSD,Daily: loaded successfully
+2	11:40:16.998	Custom indicator wedges GBPUSD,Daily: loaded successfully
+2	11:40:17.205	Custom indicator AIMS AO V.2.1 GBPUSD,Daily: loaded successfully
+2	11:40:17.223	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,Daily: loaded successfully
+2	11:40:17.240	Custom indicator RSI Divergence Levels GBPUSD,Daily: loaded successfully
+2	11:40:17.307	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,Daily: loaded successfully
+0	11:43:25.642	'23929927': order sell market 0.02 GBPUSD sl: 0.00000 tp: 0.00000
+0	11:43:26.142	'23929927': order was opened : #191221217 sell 0.02 GBPUSD at 1.32769 sl: 0.00000 tp: 0.00000
+0	11:43:28.776	Notifications: 'order opened #191221217 sell 0.02 GBPUSD at 1.32769' sent to 'A37163A9'
+0	11:44:14.307	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 0.00000 tp: 0.00000 -> sl: 1.33003 tp: 1.32020
+0	11:44:14.697	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.33003 tp: 1.32020
+0	11:44:15.886	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.33003 tp: 1.32020' sent to 'A37163A9'
+0	11:45:39.892	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 1.33003 tp: 1.32020 -> sl: 1.33003 tp: 1.31819
+0	11:45:40.283	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.33003 tp: 1.31819
+0	11:45:41.299	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 1.33003 tp: 1.32020 -> sl: 1.33003 tp: 1.31819' sent to 'A37163A9'
+0	11:47:27.928	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 1.33003 tp: 1.31819 -> sl: 1.33002 tp: 1.31819
+0	11:47:30.689	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.33002 tp: 1.31819
+0	11:47:31.942	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 1.33003 tp: 1.31819 -> sl: 1.33002 tp: 1.31819' sent to 'A37163A9'
+0	11:48:23.800	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 1.33002 tp: 1.31819 -> sl: 1.33002 tp: 1.31644
+0	11:48:24.222	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.33002 tp: 1.31644
+0	11:48:25.303	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 1.33002 tp: 1.31819 -> sl: 1.33002 tp: 1.31644' sent to 'A37163A9'
+0	11:48:37.493	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 1.33002 tp: 1.31644 -> sl: 1.33002 tp: 1.31653
+0	11:48:38.229	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.33002 tp: 1.31653
+0	11:48:39.271	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 1.33002 tp: 1.31644 -> sl: 1.33002 tp: 1.31653' sent to 'A37163A9'
+0	11:49:53.490	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 1.33002 tp: 1.31653 -> sl: 1.32976 tp: 1.31653
+0	11:49:53.884	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.32976 tp: 1.31653
+0	11:49:54.984	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 1.33002 tp: 1.31653 -> sl: 1.32976 tp: 1.31653' sent to 'A37163A9'
+0	12:00:05.862	Notifications: 'Classical RSI bullish divergence on:  USDCAD' sent to 'A37163A9'
+0	12:15:02.198	Notifications: 'Classical RSI bearish divergence on:  NZDCAD' sent to 'A37163A9'
+0	12:16:01.023	'23929927': order buy market 0.10 WTI sl: 0.00 tp: 0.00
+1	12:16:01.435	'23929927': order buy 0.10 WTI opening at market sl: 0.00 tp: 0.00 failed [Trade is disabled]
+0	12:16:03.693	'23929927': order buy market 0.10 WTI sl: 0.00 tp: 0.00
+1	12:16:04.102	'23929927': order buy 0.10 WTI opening at market sl: 0.00 tp: 0.00 failed [Trade is disabled]
+2	12:17:35.172	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	12:17:35.385	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	12:17:35.411	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	12:17:35.614	Custom indicator #Signal_Bars_v6 GOLD,H1: loaded successfully
+2	12:17:35.700	Custom indicator TrendEnvelopes_v1 GOLD,H1: loaded successfully
+2	12:17:35.732	Custom indicator guppy_multiple_moving_averages GOLD,H1: loaded successfully
+2	12:17:35.766	Custom indicator wedges GOLD,H1: loaded successfully
+2	12:17:35.918	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	12:17:35.975	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	12:17:35.999	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	12:17:36.032	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,H1: loaded successfully
+0	12:47:00.415	'23929927': modify order #191221217 sell 0.02 GBPUSD at 1.32769 sl: 1.32976 tp: 1.31653 -> sl: 1.33036 tp: 1.31653
+0	12:47:01.838	'23929927': order #191221217 sell 0.02 GBPUSD at 1.32769 was modified -> sl: 1.33036 tp: 1.31653
+0	12:47:03.153	Notifications: 'order #191221217 sell 0.02 GBPUSD at 1.32769 modified: sl: 1.32976 tp: 1.31653 -> sl: 1.33036 tp: 1.31653' sent to 'A37163A9'
+0	13:17:03.137	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+1	13:17:25.687	'23929927': ping failed
+1	13:17:28.077	'23929927': ping failed
+1	13:17:32.287	'23929927': connect failed [Connection échouée]
+1	17:43:17.159	MQL5.community: authorization failed
+0	17:43:33.436	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 259.05 ms)
+1	17:43:46.873	'23929927': datacenter connecting failed [6]
+0	17:43:55.737	'23929927': previous successful authorization performed from 154.126.12.123
+0	17:44:46.573	'23929927': auto connecting to a better access point Access Point #2 (ping is 3111.78 ms)
+1	17:44:46.785	'23929927': connect failed [Connection échouée]
+0	17:46:04.272	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	17:46:13.721	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+1	17:47:32.394	'23929927': datacenter connecting failed [6]
+0	17:47:42.817	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+1	17:47:59.182	'23929927': datacenter connecting failed [6]
+0	17:48:01.025	'23929927': ping to current access point Access Point #1 is n/a
+0	17:48:02.358	'23929927': previous successful authorization performed from 154.120.182.119
+0	17:51:22.137	Notifications: 'Classical RSI bullish divergence on:  CADJPY' sent to 'A37163A9'
+1	17:51:47.224	'23929927': connect failed [Connection échouée]
+0	17:51:55.887	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: 1628.33 ms)
+0	17:52:09.370	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 1628.33 ms)
+0	17:52:13.029	'23929927': previous successful authorization performed from 154.120.182.119
+1	19:00:47.287	Notifications: failed send request [0] receive response failed [12002]
+1	19:00:47.287	Notifications: 'Classical RSI bullish divergence on:  CADJPY' not sent to 'A37163A9'
+1	19:12:33.873	'23929927': datacenter connecting failed [6]
+0	19:12:37.362	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 2344.64 ms)
+0	19:12:43.309	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 2344.64 ms)
+0	19:12:46.275	'23929927': previous successful authorization performed from 154.120.182.119
+0	19:13:19.055	'23929927': auto connecting to a better access point Access Point #4 (ping is 495.22 ms)
+0	19:13:20.981	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 495.22 ms)
+0	19:13:28.253	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 495.22 ms)
+0	19:13:31.232	'23929927': previous successful authorization performed from 154.120.182.119
+1	19:33:16.747	'23929927': datacenter connecting failed [6]
+0	19:33:18.636	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 562.75 ms)
+0	19:33:50.273	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 562.75 ms)
+0	19:33:51.184	'23929927': previous successful authorization performed from 154.120.182.119
+1	19:41:53.760	'23929927': datacenter connecting failed [6]
+1	19:42:14.829	'23929927': connect failed [Connection échouée]
+0	19:44:26.398	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: n/a)
+0	19:44:29.358	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: n/a)
+0	19:44:30.524	'23929927': previous successful authorization performed from 154.120.182.119
+1	19:44:49.822	'23929927': ping failed
+1	19:44:49.824	'23929927': datacenter connecting failed [6]
+0	19:44:53.698	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	19:44:57.385	'23929927': ping to current access point Access Point #2 is 384.56 ms
+1	19:44:57.429	'23929927': datacenter connecting failed [6]
+0	19:45:04.759	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: 384.56 ms)
+0	19:45:10.825	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 384.56 ms)
+0	19:45:11.982	'23929927': previous successful authorization performed from 95.168.164.194
+1	19:47:46.306	'23929927': datacenter connecting failed [6]
+0	19:48:13.173	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 1083.46 ms)
+0	19:48:26.154	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 1083.46 ms)
+0	19:48:28.346	'23929927': previous successful authorization performed from 154.120.182.119
+0	19:58:09.638	Notifications: 'Classical RSI bullish divergence on:  CADJPY' sent to 'A37163A9'
+0	19:58:43.083	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+1	20:03:42.308	'23929927': datacenter connecting failed [6]
+1	20:03:47.248	'23929927': connect failed [Connection échouée]
+0	20:04:08.460	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:04:31.710	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:04:33.258	'23929927': previous successful authorization performed from 154.120.182.119
+0	20:05:30.307	'23929927': ping to current access point Access Point #2 is 433.81 ms
+1	20:06:01.308	'23929927': connect failed [Connection échouée]
+0	20:32:59.381	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: n/a)
+0	20:33:01.077	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: n/a)
+0	20:33:01.652	'23929927': previous successful authorization performed from 154.120.182.119
+0	20:33:13.513	'23929927': ping to current access point Access Point #3 is 231.71 ms
+1	20:33:21.716	'23929927': ping failed
+1	20:33:43.233	'23929927': connect failed [Connection échouée]
+0	20:33:49.026	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 231.71 ms)
+0	20:33:51.403	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 231.71 ms)
+0	20:33:52.039	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:37:17.636	'23929927': datacenter connecting failed [6]
+0	20:37:18.410	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:37:22.312	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:37:24.580	'23929927': previous successful authorization performed from 197.149.27.90
+0	20:38:09.659	'23929927': ping to current access point Access Point #2 is 213.50 ms
+1	20:39:56.635	'23929927': datacenter connecting failed [6]
+0	20:39:57.569	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 229.35 ms)
+0	20:40:10.392	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 229.35 ms)
+0	20:40:11.500	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:42:51.636	'23929927': datacenter connecting failed [6]
+0	20:42:52.478	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 239.30 ms)
+0	20:42:57.683	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 239.30 ms)
+0	20:42:58.309	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:46:56.177	'23929927': datacenter connecting failed [6]
+0	20:46:57.060	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 263.53 ms)
+0	20:47:09.292	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 263.53 ms)
+0	20:47:13.132	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:49:15.830	'23929927': datacenter connecting failed [6]
+0	20:49:19.953	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 267.97 ms)
+0	20:49:22.595	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 267.97 ms)
+0	20:49:23.199	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:50:02.869	'23929927': ping failed
+1	20:50:02.870	'23929927': datacenter connecting failed [6]
+1	20:50:02.952	'23929927': connect failed [Connection échouée]
+0	20:50:08.750	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:50:13.143	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:50:13.883	'23929927': previous successful authorization performed from 197.149.27.90
+0	20:50:37.581	'23929927': ping to current access point Access Point #2 is 268.43 ms
+1	20:52:39.636	'23929927': datacenter connecting failed [6]
+0	20:52:40.518	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 240.45 ms)
+0	20:53:00.967	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 240.45 ms)
+0	20:53:50.818	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:54:19.635	'23929927': datacenter connecting failed [6]
+0	20:54:20.361	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 245.17 ms)
+0	20:54:33.186	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 245.17 ms)
+0	20:54:34.439	'23929927': previous successful authorization performed from 197.149.27.90
+1	20:57:41.635	'23929927': datacenter connecting failed [6]
+0	20:57:42.974	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 260.38 ms)
+0	20:57:57.456	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 260.38 ms)
+0	20:58:05.531	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:00:21.187	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:00:23.086	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 275.75 ms)
+0	21:00:32.058	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 275.75 ms)
+0	21:00:32.718	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:00:34.825	Notifications: 'Classical RSI bearish divergence on:  GOLD' sent to 'A37163A9'
+1	21:01:02.790	'23929927': datacenter connecting failed [6]
+1	21:01:02.864	'23929927': connect failed [Connection échouée]
+0	21:01:08.703	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:01:11.412	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:01:13.218	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:01:37.642	'23929927': ping to current access point Access Point #2 is 223.55 ms
+0	21:02:35.477	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 207.26 ms)
+0	21:02:40.758	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 207.26 ms)
+0	21:02:41.426	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:04:33.636	'23929927': datacenter connecting failed [6]
+0	21:04:34.618	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 237.13 ms)
+0	21:05:03.681	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 237.13 ms)
+0	21:05:04.299	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:07:10.635	'23929927': datacenter connecting failed [6]
+0	21:07:11.404	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 273.19 ms)
+0	21:07:14.912	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 273.19 ms)
+0	21:07:15.750	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:09:36.802	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:09:38.426	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 292.06 ms)
+0	21:09:41.410	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 292.06 ms)
+0	21:09:44.318	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:11:41.637	'23929927': datacenter connecting failed [6]
+1	21:11:41.722	'23929927': connect failed [Connection échouée]
+0	21:11:48.161	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:11:52.256	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:11:54.164	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:12:18.916	'23929927': ping to current access point Access Point #2 is 218.17 ms
+1	21:13:40.636	'23929927': datacenter connecting failed [6]
+0	21:13:42.039	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 241.76 ms)
+0	21:13:45.367	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 241.76 ms)
+0	21:13:46.097	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:14:20.966	'23929927': datacenter connecting failed [6]
+0	21:14:22.074	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 264.67 ms)
+0	21:14:41.365	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 264.67 ms)
+0	21:14:44.167	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:16:30.635	'23929927': datacenter connecting failed [6]
+0	21:16:31.382	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 279.51 ms)
+0	21:16:33.355	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 279.51 ms)
+0	21:16:33.956	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:18:28.639	'23929927': datacenter connecting failed [6]
+0	21:18:29.867	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 283.62 ms)
+0	21:19:29.648	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 283.62 ms)
+0	21:19:30.482	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:21:04.262	'23929927': login datacenter on AdmiralMarkets-Demo
+1	21:21:07.728	'23929927': connect failed [Connection échouée]
+0	21:21:13.695	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:21:16.323	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:21:17.719	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:21:51.668	'23929927': ping to current access point Access Point #2 is 368.33 ms
+0	21:23:26.180	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:23:27.359	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 237.97 ms)
+0	21:24:28.080	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:24:35.153	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 267.32 ms)
+0	21:24:39.026	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 267.32 ms)
+0	21:24:40.149	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:24:58.022	'23929927': ping to current access point Access Point #1 is 253.91 ms
+1	21:25:23.389	'23929927': datacenter connecting failed [6]
+0	21:25:24.466	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 226.69 ms)
+0	21:25:28.290	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 226.69 ms)
+0	21:25:28.907	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:26:08.571	'23929927': ping failed
+1	21:26:08.573	'23929927': datacenter connecting failed [6]
+0	21:26:09.425	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 228.91 ms)
+0	21:26:22.087	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 228.91 ms)
+0	21:26:31.801	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:27:57.099	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:27:58.389	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 319.43 ms)
+0	21:28:05.788	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 319.43 ms)
+0	21:28:06.836	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:29:06.462	'23929927': ping failed
+1	21:29:06.464	'23929927': datacenter connecting failed [6]
+0	21:29:07.448	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: 230.17 ms)
+0	21:30:08.595	'23929927': login datacenter on AdmiralMarkets-Demo
+1	21:30:14.269	'23929927': connect failed [Connection échouée]
+0	21:30:20.235	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:30:26.038	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:30:26.772	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:31:01.554	'23929927': ping to current access point Access Point #2 is 242.58 ms
+1	21:31:22.758	'23929927': datacenter connecting failed [6]
+0	21:31:24.196	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 220.79 ms)
+0	21:31:26.381	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 220.79 ms)
+0	21:31:27.527	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:33:10.202	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:33:11.577	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 231.78 ms)
+0	21:33:15.868	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 231.78 ms)
+0	21:33:17.173	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:35:18.145	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:35:19.860	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 241.50 ms)
+0	21:35:23.609	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 241.50 ms)
+0	21:35:24.790	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:35:59.792	'23929927': datacenter connecting failed [6]
+0	21:36:00.626	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 254.70 ms)
+0	21:36:03.908	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 254.70 ms)
+0	21:36:04.561	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:38:47.636	'23929927': datacenter connecting failed [6]
+1	21:38:47.703	'23929927': connect failed [Connection échouée]
+0	21:38:53.574	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:39:54.150	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:40:01.513	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	21:40:08.387	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	21:40:09.710	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:40:27.537	'23929927': ping to current access point Access Point #1 is 331.82 ms
+1	21:42:30.635	'23929927': datacenter connecting failed [6]
+0	21:42:32.160	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 231.32 ms)
+0	21:42:36.416	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 231.32 ms)
+0	21:42:38.516	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:44:54.136	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:44:55.289	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 268.03 ms)
+0	21:44:58.643	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 268.03 ms)
+0	21:44:59.214	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:46:19.637	'23929927': datacenter connecting failed [6]
+0	21:46:20.465	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: 247.67 ms)
+0	21:46:24.966	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 247.67 ms)
+0	21:46:25.566	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:46:59.506	'23929927': datacenter connecting failed [6]
+1	21:46:59.578	'23929927': connect failed [Connection échouée]
+0	21:47:05.414	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:47:18.212	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	21:47:23.532	'23929927': previous successful authorization performed from 197.149.27.90
+0	21:47:57.571	'23929927': ping to current access point Access Point #2 is 235.74 ms
+1	21:52:39.854	'23929927': ping failed
+0	21:52:40.463	'23929927': login datacenter on AdmiralMarkets-Demo
+0	21:52:53.145	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 240.63 ms)
+0	21:53:00.852	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 240.63 ms)
+0	21:53:01.914	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:58:37.635	'23929927': datacenter connecting failed [6]
+0	21:58:38.474	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 242.78 ms)
+0	21:58:40.270	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 242.78 ms)
+0	21:58:41.227	'23929927': previous successful authorization performed from 197.149.27.90
+1	21:59:57.636	'23929927': datacenter connecting failed [6]
+0	21:59:59.296	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 237.89 ms)
+0	22:00:02.248	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 237.89 ms)
+0	22:00:03.431	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:00:37.787	'23929927': datacenter connecting failed [6]
+0	22:00:38.651	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 296.17 ms)
+0	22:00:51.431	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 296.17 ms)
+0	22:00:52.025	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:03:30.636	'23929927': datacenter connecting failed [6]
+1	22:03:30.706	'23929927': connect failed [Connection échouée]
+0	22:03:36.563	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:03:51.862	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:03:52.538	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:04:10.643	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	22:04:26.397	'23929927': ping to current access point Access Point #2 is 209.99 ms
+1	22:04:37.455	'23929927': datacenter connecting failed [6]
+0	22:04:38.275	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 232.75 ms)
+0	22:04:41.280	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 232.75 ms)
+0	22:04:42.300	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:05:48.636	'23929927': datacenter connecting failed [6]
+0	22:05:49.637	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 253.47 ms)
+0	22:05:56.304	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 253.47 ms)
+0	22:06:00.111	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:09:53.637	'23929927': datacenter connecting failed [6]
+0	22:09:54.590	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 258.99 ms)
+0	22:10:04.099	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 258.99 ms)
+0	22:10:04.715	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:12:49.058	'23929927': login datacenter on AdmiralMarkets-Demo
+0	22:12:51.263	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 316.19 ms)
+0	22:13:03.534	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 316.19 ms)
+0	22:13:04.771	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:14:04.461	'23929927': ping failed
+1	22:14:04.463	'23929927': datacenter connecting failed [6]
+1	22:14:04.537	'23929927': connect failed [Connection échouée]
+0	22:14:29.500	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:15:35.595	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	22:15:41.283	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	22:15:42.389	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:16:22.025	'23929927': ping failed
+1	22:16:22.026	'23929927': datacenter connecting failed [6]
+0	22:16:23.008	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: n/a)
+0	22:16:24.620	'23929927': ping to current access point Access Point #3 is 315.06 ms
+0	22:16:26.475	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 315.06 ms)
+0	22:16:27.727	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:17:06.791	'23929927': ping failed
+1	22:17:06.792	'23929927': datacenter connecting failed [6]
+0	22:17:07.621	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 228.96 ms)
+0	22:17:11.065	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 228.96 ms)
+0	22:17:12.686	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:20:16.275	'23929927': login datacenter on AdmiralMarkets-Demo
+0	22:20:18.285	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 232.19 ms)
+0	22:20:21.036	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 232.19 ms)
+0	22:20:21.647	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:23:21.461	'23929927': ping failed
+0	22:23:22.038	'23929927': login datacenter on AdmiralMarkets-Demo
+0	22:23:24.287	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 267.03 ms)
+0	22:23:37.573	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 267.03 ms)
+0	22:23:46.700	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:25:07.635	'23929927': datacenter connecting failed [6]
+0	22:25:08.511	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: 267.28 ms)
+0	22:25:32.348	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 267.28 ms)
+0	22:25:33.140	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:25:37.483	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+1	22:27:38.635	'23929927': datacenter connecting failed [6]
+1	22:27:38.720	'23929927': connect failed [Connection échouée]
+0	22:27:45.330	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:27:54.279	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:27:56.155	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:28:27.625	'23929927': ping to current access point Access Point #2 is 214.44 ms
+1	22:28:33.938	'23929927': datacenter connecting failed [6]
+0	22:28:34.754	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 217.55 ms)
+0	22:28:39.279	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 217.55 ms)
+0	22:28:40.403	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:30:09.110	'23929927': login datacenter on AdmiralMarkets-Demo
+0	22:30:10.901	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 238.65 ms)
+0	22:30:15.493	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 238.65 ms)
+0	22:30:16.211	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:30:20.218	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+1	22:33:52.635	'23929927': datacenter connecting failed [6]
+0	22:33:53.592	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 236.25 ms)
+0	22:33:57.005	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 236.25 ms)
+0	22:33:59.017	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:38:40.539	'23929927': ping failed
+1	22:38:40.541	'23929927': datacenter connecting failed [6]
+0	22:38:41.408	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 262.63 ms)
+0	22:39:42.200	'23929927': login datacenter on AdmiralMarkets-Demo
+1	22:39:48.639	'23929927': connect failed [Connection échouée]
+0	22:39:54.485	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:40:08.908	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:40:24.872	'23929927': ping to current access point Access Point #2 is 220.03 ms
+0	22:40:31.576	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:41:38.635	'23929927': datacenter connecting failed [6]
+0	22:41:39.414	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 223.45 ms)
+0	22:41:43.401	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 223.45 ms)
+0	22:41:44.614	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:41:45.907	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+1	22:44:34.638	'23929927': datacenter connecting failed [6]
+0	22:44:35.869	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 237.43 ms)
+0	22:44:38.824	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 237.43 ms)
+0	22:44:47.319	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:46:50.636	'23929927': datacenter connecting failed [6]
+0	22:46:51.412	'23929927': login on AdmiralMarkets-Demo through Access Point #1 (ping: 252.87 ms)
+0	22:46:54.129	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 252.87 ms)
+0	22:46:55.326	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:48:36.167	'23929927': login datacenter on AdmiralMarkets-Demo
+0	22:48:37.241	'23929927': login on AdmiralMarkets-Demo through Access Point #3 (ping: 290.40 ms)
+0	22:48:39.933	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 290.40 ms)
+0	22:48:40.527	'23929927': previous successful authorization performed from 197.149.27.90
+1	22:49:56.638	'23929927': datacenter connecting failed [6]
+1	22:49:56.708	'23929927': connect failed [Connection échouée]
+0	22:50:03.665	'23929927': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:50:07.303	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	22:50:09.208	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:50:29.625	'23929927': ping to current access point Access Point #2 is 225.37 ms
+1	22:51:16.635	'23929927': datacenter connecting failed [6]
+0	22:51:17.998	'23929927': login on AdmiralMarkets-Demo through Access Point #6 (ping: 211.94 ms)
+0	22:51:55.417	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 211.94 ms)
+0	22:51:58.643	'23929927': previous successful authorization performed from 197.149.27.90
+0	22:53:54.101	'23929927': login datacenter on AdmiralMarkets-Demo
+0	22:53:56.905	'23929927': login on AdmiralMarkets-Demo through Access Point #4 (ping: 219.29 ms)
+0	22:53:59.063	'23929927': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 219.29 ms)
+0	22:53:59.682	'23929927': previous successful authorization performed from 197.149.27.90
+2	22:54:12.712	Custom indicator AIMS Levels V2 [CAC40],M15: removed
+2	22:54:12.724	Custom indicator AIMS Entry Alert V1 [CAC40],M15: removed
+2	22:54:12.728	Custom indicator CandleTimer [CAC40],M15: removed
+2	22:54:12.745	Custom indicator #Signal_Bars_v6 [CAC40],M15: removed
+2	22:54:12.747	Custom indicator TrendEnvelopes_v1 [CAC40],M15: removed
+2	22:54:12.762	Custom indicator guppy_multiple_moving_averages [CAC40],M15: removed
+2	22:54:12.813	Custom indicator wedges [CAC40],M15: removed
+2	22:54:12.813	Custom indicator AIMS AO V.2.1 [CAC40],M15: removed
+2	22:54:12.816	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: removed
+2	22:54:12.822	Custom indicator RSI Divergence Levels [CAC40],M15: removed
+2	22:54:12.826	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: removed
+2	22:54:12.840	Custom indicator CandleTimer [DAX30],H1: removed
+2	22:54:12.937	Expert Admiral - Mini Terminal NZDJPY,Daily: removed
+2	22:54:17.054	Custom indicator AIMS Levels V2 NZDJPY,Daily: removed
+2	22:54:17.088	Custom indicator AIMS Entry Alert V1 NZDJPY,Daily: removed
+2	22:54:17.096	Custom indicator CandleTimer NZDJPY,Daily: removed
+2	22:54:17.110	Custom indicator #Signal_Bars_v6 NZDJPY,Daily: removed
+2	22:54:17.111	Custom indicator TrendEnvelopes_v1 NZDJPY,Daily: removed
+2	22:54:17.112	Custom indicator guppy_multiple_moving_averages NZDJPY,Daily: removed
+2	22:54:17.168	Custom indicator wedges NZDJPY,Daily: removed
+2	22:54:17.168	Custom indicator AIMS AO V.2.1 NZDJPY,Daily: removed
+2	22:54:17.169	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,Daily: removed
+2	22:54:17.185	Custom indicator RSI Divergence Levels NZDJPY,Daily: removed
+2	22:54:17.201	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,Daily: removed
+2	22:54:17.204	Custom indicator AIMS Levels V2 EURNZD,M30: removed
+2	22:54:17.205	Custom indicator AIMS Entry Alert V1 EURNZD,M30: removed
+2	22:54:17.212	Custom indicator CandleTimer EURNZD,M30: removed
+2	22:54:17.212	Custom indicator #Signal_Bars_v6 EURNZD,M30: removed
+2	22:54:17.214	Custom indicator TrendEnvelopes_v1 EURNZD,M30: removed
+2	22:54:17.215	Custom indicator guppy_multiple_moving_averages EURNZD,M30: removed
+2	22:54:17.224	Custom indicator wedges EURNZD,M30: removed
+2	22:54:17.224	Custom indicator AIMS AO V.2.1 EURNZD,M30: removed
+2	22:54:17.226	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M30: removed
+2	22:54:17.227	Custom indicator RSI Divergence Levels EURNZD,M30: removed
+2	22:54:17.235	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M30: removed
+2	22:54:17.238	Custom indicator AIMS Levels V2 GOLD,M15: removed
+2	22:54:17.238	Custom indicator AIMS Entry Alert V1 GOLD,M15: removed
+2	22:54:17.240	Custom indicator CandleTimer GOLD,M15: removed
+2	22:54:17.240	Custom indicator #Signal_Bars_v6 GOLD,M15: removed
+2	22:54:17.241	Custom indicator TrendEnvelopes_v1 GOLD,M15: removed
+2	22:54:17.242	Custom indicator guppy_multiple_moving_averages GOLD,M15: removed
+2	22:54:17.257	Custom indicator wedges GOLD,M15: removed
+2	22:54:17.258	Custom indicator AIMS AO V.2.1 GOLD,M15: removed
+2	22:54:17.260	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: removed
+2	22:54:17.261	Custom indicator RSI Divergence Levels GOLD,M15: removed
+2	22:54:17.269	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: removed
+2	22:54:17.295	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	22:54:17.319	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	22:54:17.320	Custom indicator CandleTimer GBPUSD,H1: removed
+2	22:54:17.320	Custom indicator #Signal_Bars_v6 GBPUSD,H1: removed
+2	22:54:17.322	Custom indicator TrendEnvelopes_v1 GBPUSD,H1: removed
+2	22:54:17.323	Custom indicator guppy_multiple_moving_averages GBPUSD,H1: removed
+2	22:54:17.324	Custom indicator wedges GBPUSD,H1: removed
+2	22:54:17.324	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	22:54:17.326	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	22:54:17.327	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	22:54:17.328	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H1: removed
+2	22:54:17.366	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	22:54:18.309	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	22:54:18.309	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	22:54:18.310	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	22:54:18.362	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	22:54:18.363	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	22:54:18.365	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	22:54:18.402	Custom indicator wedges GBPAUD,Daily: removed
+2	22:54:18.402	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	22:54:18.404	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	22:54:18.406	Custom indicator RSI Divergence Levels GBPAUD,Daily: removed
+2	22:54:18.413	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	22:54:18.424	Expert Admiral - Mini Terminal CADJPY,M15: removed
+2	22:54:18.952	Custom indicator AIMS Levels V2 CADJPY,M15: removed
+2	22:54:18.952	Custom indicator AIMS Entry Alert V1 CADJPY,M15: removed
+2	22:54:18.953	Custom indicator CandleTimer CADJPY,M15: removed
+2	22:54:18.953	Custom indicator #Signal_Bars_v6 CADJPY,M15: removed
+2	22:54:18.960	Custom indicator TrendEnvelopes_v1 CADJPY,M15: removed
+2	22:54:18.962	Custom indicator guppy_multiple_moving_averages CADJPY,M15: removed
+2	22:54:18.979	Custom indicator wedges CADJPY,M15: removed
+2	22:54:18.980	Custom indicator AIMS AO V.2.1 CADJPY,M15: removed
+2	22:54:18.982	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: removed
+2	22:54:18.983	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	22:54:18.985	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: removed
+2	22:54:18.991	Expert Admiral - Mini Terminal USDCAD,M15: removed
+2	22:54:19.581	Custom indicator AIMS Levels V2 USDCAD,M15: removed
+2	22:54:19.582	Custom indicator AIMS Entry Alert V1 USDCAD,M15: removed
+2	22:54:19.585	Custom indicator CandleTimer USDCAD,M15: removed
+2	22:54:19.585	Custom indicator #Signal_Bars_v6 USDCAD,M15: removed
+2	22:54:19.588	Custom indicator TrendEnvelopes_v1 USDCAD,M15: removed
+2	22:54:19.591	Custom indicator guppy_multiple_moving_averages USDCAD,M15: removed
+2	22:54:19.603	Custom indicator wedges USDCAD,M15: removed
+2	22:54:19.611	Custom indicator AIMS AO V.2.1 USDCAD,M15: removed
+2	22:54:19.614	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: removed
+2	22:54:19.616	Custom indicator RSI Divergence Levels USDCAD,M15: removed
+2	22:54:19.619	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: removed
+2	22:54:19.694	Expert Admiral - Mini Terminal NZDCAD,M15: removed
+2	22:54:19.938	Custom indicator AIMS Levels V2 NZDCAD,M15: removed
+2	22:54:19.964	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: removed
+2	22:54:19.965	Custom indicator CandleTimer NZDCAD,M15: removed
+2	22:54:19.965	Custom indicator #Signal_Bars_v6 NZDCAD,M15: removed
+2	22:54:19.967	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: removed
+2	22:54:19.968	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: removed
+2	22:54:19.969	Custom indicator wedges NZDCAD,M15: removed
+2	22:54:19.970	Custom indicator AIMS AO V.2.1 NZDCAD,M15: removed
+2	22:54:19.971	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: removed
+2	22:54:19.972	Custom indicator RSI Divergence Levels NZDCAD,M15: removed
+2	22:54:19.974	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: removed
+2	22:54:19.990	Custom indicator AIMS Levels V2 WTI,M15: removed
+2	22:54:19.990	Custom indicator AIMS Entry Alert V1 WTI,M15: removed
+2	22:54:19.992	Custom indicator CandleTimer WTI,M15: removed
+2	22:54:19.992	Custom indicator #Signal_Bars_v6 WTI,M15: removed
+2	22:54:19.993	Custom indicator TrendEnvelopes_v1 WTI,M15: removed
+2	22:54:20.003	Custom indicator guppy_multiple_moving_averages WTI,M15: removed
+2	22:54:20.005	Custom indicator wedges WTI,M15: removed
+2	22:54:20.005	Custom indicator AIMS AO V.2.1 WTI,M15: removed
+2	22:54:20.006	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: removed
+2	22:54:20.039	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	22:54:20.041	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: removed
+2	22:54:20.044	Custom indicator AIMS Levels V2 GBPNZD,M15: removed
+2	22:54:20.080	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: removed
+2	22:54:20.108	Custom indicator CandleTimer GBPNZD,M15: removed
+2	22:54:20.108	Custom indicator #Signal_Bars_v6 GBPNZD,M15: removed
+2	22:54:20.110	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: removed
+2	22:54:20.110	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: removed
+2	22:54:20.112	Custom indicator wedges GBPNZD,M15: removed
+2	22:54:20.112	Custom indicator AIMS AO V.2.1 GBPNZD,M15: removed
+2	22:54:20.114	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: removed
+2	22:54:20.115	Custom indicator RSI Divergence Levels GBPNZD,M15: removed
+2	22:54:20.116	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: removed
+2	22:54:20.120	Custom indicator AIMS Levels V2 EURNZD,H1: removed
+2	22:54:20.120	Custom indicator AIMS Entry Alert V1 EURNZD,H1: removed
+2	22:54:20.122	Custom indicator CandleTimer EURNZD,H1: removed
+2	22:54:20.122	Custom indicator #Signal_Bars_v6 EURNZD,H1: removed
+2	22:54:20.123	Custom indicator TrendEnvelopes_v1 EURNZD,H1: removed
+2	22:54:20.125	Custom indicator guppy_multiple_moving_averages EURNZD,H1: removed
+2	22:54:20.126	Custom indicator wedges EURNZD,H1: removed
+2	22:54:20.126	Custom indicator AIMS AO V.2.1 EURNZD,H1: removed
+2	22:54:20.127	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: removed
+2	22:54:20.129	Custom indicator RSI Divergence Levels EURNZD,H1: removed
+2	22:54:20.131	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: removed
+2	22:54:20.146	Expert Admiral - Mini Terminal [NQ100],Daily: removed
+2	22:54:20.366	Custom indicator CandleTimer [NQ100],Daily: removed
+2	22:54:20.367	Custom indicator AIMS Levels V2 GBPJPY,H1: removed
+2	22:54:20.367	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: removed
+2	22:54:20.369	Custom indicator CandleTimer GBPJPY,H1: removed
+2	22:54:20.369	Custom indicator #Signal_Bars_v6 GBPJPY,H1: removed
+2	22:54:20.370	Custom indicator TrendEnvelopes_v1 GBPJPY,H1: removed
+2	22:54:20.371	Custom indicator guppy_multiple_moving_averages GBPJPY,H1: removed
+2	22:54:20.373	Custom indicator wedges GBPJPY,H1: removed
+2	22:54:20.373	Custom indicator AIMS AO V.2.1 GBPJPY,H1: removed
+2	22:54:20.374	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: removed
+2	22:54:20.376	Custom indicator RSI Divergence Levels GBPJPY,H1: removed
+2	22:54:20.377	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,H1: removed
+2	22:54:20.380	Custom indicator AIMS Levels V2 EURAUD,H1: removed
+2	22:54:20.380	Custom indicator AIMS Entry Alert V1 EURAUD,H1: removed
+2	22:54:20.381	Custom indicator CandleTimer EURAUD,H1: removed
+2	22:54:20.381	Custom indicator #Signal_Bars_v6 EURAUD,H1: removed
+2	22:54:20.383	Custom indicator TrendEnvelopes_v1 EURAUD,H1: removed
+2	22:54:20.384	Custom indicator guppy_multiple_moving_averages EURAUD,H1: removed
+2	22:54:20.385	Custom indicator wedges EURAUD,H1: removed
+2	22:54:20.386	Custom indicator AIMS AO V.2.1 EURAUD,H1: removed
+2	22:54:20.387	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: removed
+2	22:54:20.388	Custom indicator RSI Divergence Levels EURAUD,H1: removed
+2	22:54:20.389	Custom indicator JoeChalhoub_FXForecasterV1 EURAUD,H1: removed
+2	22:54:20.392	Custom indicator AIMS Levels V2 USDCHF,H1: removed
+2	22:54:20.392	Custom indicator AIMS Entry Alert V1 USDCHF,H1: removed
+2	22:54:20.394	Custom indicator CandleTimer USDCHF,H1: removed
+2	22:54:20.394	Custom indicator #Signal_Bars_v6 USDCHF,H1: removed
+2	22:54:20.395	Custom indicator TrendEnvelopes_v1 USDCHF,H1: removed
+2	22:54:20.397	Custom indicator guppy_multiple_moving_averages USDCHF,H1: removed
+2	22:54:20.398	Custom indicator wedges USDCHF,H1: removed
+2	22:54:20.399	Custom indicator AIMS AO V.2.1 USDCHF,H1: removed
+2	22:54:20.400	Custom indicator IVT_MACD_ZERO_LAG USDCHF,H1: removed
+2	22:54:20.401	Custom indicator RSI Divergence Levels USDCHF,H1: removed
+2	22:54:20.403	Custom indicator JoeChalhoub_FXForecasterV1 USDCHF,H1: removed
+2	22:54:20.406	Custom indicator AIMS Levels V2 NZDUSD,H1: removed
+2	22:54:20.406	Custom indicator AIMS Entry Alert V1 NZDUSD,H1: removed
+2	22:54:20.408	Custom indicator CandleTimer NZDUSD,H1: removed
+2	22:54:20.408	Custom indicator #Signal_Bars_v6 NZDUSD,H1: removed
+2	22:54:20.409	Custom indicator TrendEnvelopes_v1 NZDUSD,H1: removed
+2	22:54:20.410	Custom indicator wedges NZDUSD,H1: removed
+2	22:54:20.410	Custom indicator AIMS AO V.2.1 NZDUSD,H1: removed
+2	22:54:20.412	Custom indicator IVT_MACD_ZERO_LAG NZDUSD,H1: removed
+2	22:54:20.413	Custom indicator RSI Divergence Levels NZDUSD,H1: removed
+2	22:54:20.415	Custom indicator JoeChalhoub_FXForecasterV1 NZDUSD,H1: removed
+2	22:54:20.444	Custom indicator CandleTimer [NQ100],H1: removed
+2	22:54:20.446	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	22:54:20.446	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	22:54:20.448	Custom indicator CandleTimer [DJI30],M1: removed
+2	22:54:20.448	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	22:54:20.449	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	22:54:20.451	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	22:54:20.453	Custom indicator wedges [DJI30],M1: removed
+2	22:54:20.453	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	22:54:20.479	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	22:54:20.481	Custom indicator RSI Divergence Levels [DJI30],M1: removed
+2	22:54:20.483	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	22:54:20.488	Expert Admiral - Mini Terminal ETHUSD,H1: removed
+2	22:54:21.125	Custom indicator AIMS Levels V2 ETHUSD,H1: removed
+2	22:54:21.154	Custom indicator AIMS Entry Alert V1 ETHUSD,H1: removed
+2	22:54:21.156	Custom indicator CandleTimer ETHUSD,H1: removed
+2	22:54:21.156	Custom indicator #Signal_Bars_v6 ETHUSD,H1: removed
+2	22:54:21.158	Custom indicator TrendEnvelopes_v1 ETHUSD,H1: removed
+2	22:54:21.159	Custom indicator guppy_multiple_moving_averages ETHUSD,H1: removed
+2	22:54:21.161	Custom indicator wedges ETHUSD,H1: removed
+2	22:54:21.161	Custom indicator AIMS AO V.2.1 ETHUSD,H1: removed
+2	22:54:21.163	Custom indicator IVT_MACD_ZERO_LAG ETHUSD,H1: removed
+2	22:54:21.164	Custom indicator RSI Divergence Levels ETHUSD,H1: removed
+2	22:54:21.165	Custom indicator JoeChalhoub_FXForecasterV1 ETHUSD,H1: removed
+2	22:54:21.168	Custom indicator AIMS Levels V2 EURJPY,H1: removed
+2	22:54:21.169	Custom indicator AIMS Entry Alert V1 EURJPY,H1: removed
+2	22:54:21.170	Custom indicator CandleTimer EURJPY,H1: removed
+2	22:54:21.170	Custom indicator #Signal_Bars_v6 EURJPY,H1: removed
+2	22:54:21.171	Custom indicator TrendEnvelopes_v1 EURJPY,H1: removed
+2	22:54:21.172	Custom indicator guppy_multiple_moving_averages EURJPY,H1: removed
+2	22:54:21.174	Custom indicator wedges EURJPY,H1: removed
+2	22:54:21.174	Custom indicator AIMS AO V.2.1 EURJPY,H1: removed
+2	22:54:21.175	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: removed
+2	22:54:21.177	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	22:54:21.179	Custom indicator JoeChalhoub_FXForecasterV1 EURJPY,H1: removed
+2	22:54:21.277	Custom indicator AIMS Levels V2 GOLD,H1: removed
+2	22:54:21.277	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	22:54:21.446	Custom indicator CandleTimer GOLD,H1: removed
+2	22:54:21.475	Custom indicator #Signal_Bars_v6 GOLD,H1: removed
+2	22:54:21.480	Custom indicator TrendEnvelopes_v1 GOLD,H1: removed
+2	22:54:21.484	Custom indicator guppy_multiple_moving_averages GOLD,H1: removed
+2	22:54:21.488	Custom indicator wedges GOLD,H1: removed
+2	22:54:21.489	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+2	22:54:21.491	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	22:54:21.508	Custom indicator RSI Divergence Levels GOLD,H1: removed
+2	22:54:21.510	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,H1: removed
+0	22:54:24.542	Admiral Markets build 1280 stopped

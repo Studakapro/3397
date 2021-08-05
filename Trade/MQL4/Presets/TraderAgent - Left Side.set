@@ -1,0 +1,127 @@
+_____Product_name_______= ..:: IceFX TraderAgent PRO ::..
+CC1______________________========== License settings =========
+PassKey=
+CC2______________________========== Common settings =========
+MagicNumber=0
+CommentForOrder=IceFX.TraderAgent
+OrderSlippage=2
+CC3______________________========== Money management =========
+RiskPercent=1.00000000
+LOT=0.00000000
+CC4______________________========== SL / TP settings =========
+StopLoss=40.00000000
+TakeProfit=80.00000000
+UsePreDefinedSLTPLines=0
+CC4.1= TrailingType: 0 - disabled; 1 - classic (fix); 2 - ATR; 3 - EMA; 4- PSAR; 5 - HighLow
+TrailingType=1
+TrailingParam1=25.00000000
+TrailingParam2=0.00000000
+TrailingAlways=0
+CC4.2= TrailingStopAt: 0 - after BreakEventAt; x - after x pips
+TrailingStopAt=0.00000000
+CC5______________________========== Break Even settings =========
+BreakEvenAt=0.00000000
+BreakEvenPips=0.00000000
+CC6______________________========== Partial Close settings =========
+QuickPartialClose=50.00000000
+PartialClosePos1=0.00000000
+PartialClosePercent1=50.00000000
+PartialClosePos2=0.00000000
+PartialClosePercent2=50.00000000
+PartialClosePos3=0.00000000
+PartialClosePercent3=50.00000000
+CC13_____________________========== Trendline handling =========
+UseTrendLines=0
+UseChannels=0
+TrueTLSupport=0
+OppositeTrendLineOrder=0
+OpenAfterCandleClose=0
+DeleteTrendLinesAfterOpen=1
+TrendLinesOCOMode=0
+CC19_____________________========== Pending line handling =========
+UsePendingLines=0
+PendingLineColor=16436871
+PendingOCOMode=0
+QuickPendingDistance=20.00000000
+CC20_____________________========== Auto Close-All settings =======
+AutoCloseAllProfitMoney=0.00000000
+AutoCloseAllProfitPercent=0.00000000
+AutoCloseAllLossMoney=0.00000000
+AutoCloseAllLossPercent=0.00000000
+CC15_____________________========== Grid feature settings =========
+GridStep=20.00000000
+GridMaxOrderCount=10
+GridLotMode=0.00000000
+GridLotMultiplier=1.60000000
+GridReCalculateSLTP=1
+AutoGridMode=0
+CC7______________________========== Visual settings =========
+DrawPriceLabel=1
+BackgroundOpacity=0
+PanelBackground=2958105
+CC7.1____________________========== Control line settings =========
+ShowControlLineLabels=1
+ControlLineOffset=-100
+ControlLineLabelColor=0
+StopLossColor=255
+TakeProfitColor=3329330
+PartialCloseColor=42495
+BreakEvenColor=16436871
+PreDefinedSLLineColor=16711935
+PreDefinedTPLineColor=7451452
+CC8______________________========== Account Panel settings =========
+ShowAccountPanel=1
+AccountPanelX=200
+AccountPanelY=25
+AveragePriceLineColor=9470064
+CC9______________________========== Control Panel settings =========
+ShowControlPanel=1
+ControlPanelX=25
+ControlPanelY=25
+CC10_____________________========== Order list settings =========
+ShowOrderListPanel=1
+OrderListPanelX=25
+OrderListPanelY=420
+CC8.1= 0 - Side by order list, 1 - Bottom of order list
+PropertiesPanelPos=0
+CC11_____________________========== Profit Panel settings =========
+ShowProfitPanel=1
+ProfitPanelX=200
+ProfitPanelY=220
+CC16_____________________========== Dashboard Panel settings =========
+ShowDashboard=1
+DashboardX=25
+DashboardY=200
+DashboardSpreadRedValue=3.00000000
+Dashboard_ShowPriceMeter=1
+Dashboard_ShowSemaphore=0
+Dashboard_SemaphoreCurrentTF=0
+Dashboard_MAPeriod=14
+Dashboard_MAMode=1
+Dashboard_MAPrice=0
+Dashboard_CCIPeriod=14
+Dashboard_CCIPrice=5
+Dashboard_RSIPeriod=14
+Dashboard_RSIPrice=5
+Dashboard_StochKPeriod=8
+Dashboard_StockDPeriod=3
+Dashboard_StochSlowing=3
+Dashboard_StochMode=1
+Dashboard_StochPrice=0
+CC12_____________________========== Notifications =========
+ShowNotifications=1
+CC14_____________________========== Extra features =========
+StealthMode=0
+DontAllowOrderOpenMaxSpread=0.00000000
+ShowPivotPoints=1
+ShowNextCandleTime=1
+NextCandleTimeTextColor=16777215
+ShowSentinelAlerts=1
+ConfirmActions=0
+CC21_____________________========== Screenshots =========
+MakeScreenShots=0
+ScreenShotFolder=TraderAgent ScreenShots
+CC17_____________________======== Backtest settings =========
+BackTestTime=50
+ScreenShotInBacktest=0
+PauseBTEveryCandles=0

@@ -1,0 +1,112 @@
+
+2020-05-07 11:52:56.2657|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 11:52:56.2937|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+
+2020-05-07 20:34:00.8135|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 20:34:00.8359|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+
+2020-05-07 20:39:07.4336|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 20:39:07.4515|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+
+2020-05-07 21:50:27.9689|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 21:50:28.0001|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+
+2020-05-07 21:56:55.9157|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 21:56:55.9505|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+
+2020-05-07 21:59:32.7519|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 21:59:32.7958|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+
+2020-05-07 22:17:38.9877|Error| Error in UpdateService.LoadResources()
+
+2020-05-07 22:17:39.0185|Error| Newtonsoft.Json.JsonSerializationException: Error converting value "You don't have access for API." to type 'System.Collections.Generic.Dictionary`2[System.String,System.String]'. Path '', line 1, position 32. ---> System.ArgumentException: Could not cast or convert from System.String to System.Collections.Generic.Dictionary`2[System.String,System.String].
+   à Newtonsoft.Json.Utilities.ConvertUtils.EnsureTypeAssignable(Object value, Type initialType, Type targetType)
+   à Newtonsoft.Json.Utilities.ConvertUtils.ConvertOrCast(Object initialValue, CultureInfo culture, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)

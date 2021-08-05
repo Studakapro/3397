@@ -1,0 +1,826 @@
+0	05:49:51.726	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	05:49:51.726	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 810 / 8014 Mb, Disk: 39 / 237 Gb, GMT+3
+0	05:49:51.726	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	05:49:55.459	Custom indicator AIMS Levels V2 US30,M1: loaded successfully
+2	05:49:55.537	Custom indicator AIMS Entry Alert V1 US30,M1: loaded successfully
+2	05:49:55.544	Custom indicator CandleTimer US30,M1: loaded successfully
+2	05:49:55.624	Custom indicator #Signal_Bars_v6 US30,M1: loaded successfully
+2	05:49:55.635	Custom indicator TrendEnvelopes_v1 US30,M1: loaded successfully
+2	05:49:55.710	Custom indicator AIMS AO V.2.1 US30,M1: loaded successfully
+2	05:49:55.721	Custom indicator IVT_MACD_ZERO_LAG US30,M1: loaded successfully
+2	05:49:55.730	Custom indicator RSI Divergence Levels US30,M1: loaded successfully
+2	05:49:55.742	Custom indicator JoeChalhoub_FXForecasterV1 US30,M1: loaded successfully
+2	05:49:56.042	Custom indicator AIMS Levels V2 DE30,M5: loaded successfully
+2	05:49:56.122	Custom indicator AIMS Entry Alert V1 DE30,M5: loaded successfully
+2	05:49:56.128	Custom indicator CandleTimer DE30,M5: loaded successfully
+2	05:49:56.206	Custom indicator #Signal_Bars_v6 DE30,M5: loaded successfully
+2	05:49:56.216	Custom indicator TrendEnvelopes_v1 DE30,M5: loaded successfully
+2	05:49:56.291	Custom indicator AIMS AO V.2.1 DE30,M5: loaded successfully
+2	05:49:56.303	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: loaded successfully
+2	05:49:56.311	Custom indicator RSI Divergence Levels DE30,M5: loaded successfully
+2	05:49:56.323	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M5: loaded successfully
+2	05:49:56.539	Custom indicator AIMS Levels V2 FR40,M1: loaded successfully
+2	05:49:56.616	Custom indicator AIMS Entry Alert V1 FR40,M1: loaded successfully
+2	05:49:56.623	Custom indicator CandleTimer FR40,M1: loaded successfully
+2	05:49:56.699	Custom indicator #Signal_Bars_v6 FR40,M1: loaded successfully
+2	05:49:56.707	Custom indicator TrendEnvelopes_v1 FR40,M1: loaded successfully
+2	05:49:56.784	Custom indicator AIMS AO V.2.1 FR40,M1: loaded successfully
+2	05:49:56.792	Custom indicator IVT_MACD_ZERO_LAG FR40,M1: loaded successfully
+2	05:49:56.804	Custom indicator RSI Divergence Levels FR40,M1: loaded successfully
+2	05:49:56.816	Custom indicator JoeChalhoub_FXForecasterV1 FR40,M1: loaded successfully
+2	05:49:56.833	Expert Admiral - Mini Terminal FR40,M1: loaded successfully
+2	05:49:57.120	Custom indicator AIMS Levels V2 USTEC,M1: loaded successfully
+2	05:49:57.195	Custom indicator AIMS Entry Alert V1 USTEC,M1: loaded successfully
+2	05:49:57.205	Custom indicator CandleTimer USTEC,M1: loaded successfully
+2	05:49:57.284	Custom indicator #Signal_Bars_v6 USTEC,M1: loaded successfully
+2	05:49:57.292	Custom indicator TrendEnvelopes_v1 USTEC,M1: loaded successfully
+2	05:49:57.370	Custom indicator AIMS AO V.2.1 USTEC,M1: loaded successfully
+2	05:49:57.380	Custom indicator IVT_MACD_ZERO_LAG USTEC,M1: loaded successfully
+2	05:49:57.390	Custom indicator RSI Divergence Levels USTEC,M1: loaded successfully
+2	05:49:57.402	Custom indicator JoeChalhoub_FXForecasterV1 USTEC,M1: loaded successfully
+2	05:49:57.677	Custom indicator AIMS Levels V2 USOIL,M1: loaded successfully
+2	05:49:57.754	Custom indicator AIMS Entry Alert V1 USOIL,M1: loaded successfully
+2	05:49:57.762	Custom indicator CandleTimer USOIL,M1: loaded successfully
+2	05:49:57.839	Custom indicator #Signal_Bars_v6 USOIL,M1: loaded successfully
+2	05:49:57.849	Custom indicator TrendEnvelopes_v1 USOIL,M1: loaded successfully
+2	05:49:57.926	Custom indicator AIMS AO V.2.1 USOIL,M1: loaded successfully
+2	05:49:57.937	Custom indicator IVT_MACD_ZERO_LAG USOIL,M1: loaded successfully
+2	05:49:57.948	Custom indicator RSI Divergence Levels USOIL,M1: loaded successfully
+2	05:49:57.958	Custom indicator JoeChalhoub_FXForecasterV1 USOIL,M1: loaded successfully
+2	05:49:57.974	Expert Admiral - Mini Terminal USOIL,M1: loaded successfully
+2	05:49:58.266	Custom indicator AIMS Levels V2 XAUUSD,M1: loaded successfully
+2	05:49:58.345	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: loaded successfully
+2	05:49:58.355	Custom indicator CandleTimer XAUUSD,M1: loaded successfully
+2	05:49:58.433	Custom indicator #Signal_Bars_v6 XAUUSD,M1: loaded successfully
+2	05:49:58.441	Custom indicator TrendEnvelopes_v1 XAUUSD,M1: loaded successfully
+2	05:49:58.518	Custom indicator AIMS AO V.2.1 XAUUSD,M1: loaded successfully
+2	05:49:58.527	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: loaded successfully
+2	05:49:58.539	Custom indicator RSI Divergence Levels XAUUSD,M1: loaded successfully
+2	05:49:58.551	Custom indicator JoeChalhoub_FXForecasterV1 XAUUSD,M1: loaded successfully
+2	05:49:58.841	Custom indicator AIMS Levels V2 EURUSD,H4: loaded successfully
+2	05:49:58.917	Custom indicator AIMS Entry Alert V1 EURUSD,H4: loaded successfully
+2	05:49:58.923	Custom indicator CandleTimer EURUSD,H4: loaded successfully
+2	05:49:59.001	Custom indicator #Signal_Bars_v6 EURUSD,H4: loaded successfully
+2	05:49:59.010	Custom indicator TrendEnvelopes_v1 EURUSD,H4: loaded successfully
+2	05:49:59.088	Custom indicator AIMS AO V.2.1 EURUSD,H4: loaded successfully
+2	05:49:59.098	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H4: loaded successfully
+2	05:49:59.107	Custom indicator RSI Divergence Levels EURUSD,H4: loaded successfully
+2	05:49:59.119	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H4: loaded successfully
+2	05:49:59.384	Custom indicator AIMS Levels V2 AUDJPY,H1: loaded successfully
+2	05:49:59.459	Custom indicator AIMS Entry Alert V1 AUDJPY,H1: loaded successfully
+2	05:49:59.469	Custom indicator CandleTimer AUDJPY,H1: loaded successfully
+2	05:49:59.545	Custom indicator #Signal_Bars_v6 AUDJPY,H1: loaded successfully
+2	05:49:59.555	Custom indicator TrendEnvelopes_v1 AUDJPY,H1: loaded successfully
+2	05:49:59.632	Custom indicator AIMS AO V.2.1 AUDJPY,H1: loaded successfully
+2	05:49:59.640	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H1: loaded successfully
+2	05:49:59.651	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+2	05:49:59.664	Custom indicator JoeChalhoub_FXForecasterV1 AUDJPY,H1: loaded successfully
+2	05:49:59.870	Custom indicator AIMS Levels V2 GBPUSD,H4: loaded successfully
+2	05:49:59.949	Custom indicator AIMS Entry Alert V1 GBPUSD,H4: loaded successfully
+2	05:49:59.956	Custom indicator CandleTimer GBPUSD,H4: loaded successfully
+2	05:50:00.034	Custom indicator #Signal_Bars_v6 GBPUSD,H4: loaded successfully
+2	05:50:00.043	Custom indicator TrendEnvelopes_v1 GBPUSD,H4: loaded successfully
+2	05:50:00.121	Custom indicator AIMS AO V.2.1 GBPUSD,H4: loaded successfully
+2	05:50:00.133	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H4: loaded successfully
+2	05:50:00.141	Custom indicator RSI Divergence Levels GBPUSD,H4: loaded successfully
+2	05:50:00.154	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H4: loaded successfully
+2	05:50:00.421	Custom indicator AIMS Levels V2 CADJPY,H1: loaded successfully
+2	05:50:00.500	Custom indicator AIMS Entry Alert V1 CADJPY,H1: loaded successfully
+2	05:50:00.506	Custom indicator CandleTimer CADJPY,H1: loaded successfully
+2	05:50:00.585	Custom indicator #Signal_Bars_v6 CADJPY,H1: loaded successfully
+2	05:50:00.595	Custom indicator TrendEnvelopes_v1 CADJPY,H1: loaded successfully
+2	05:50:00.671	Custom indicator AIMS AO V.2.1 CADJPY,H1: loaded successfully
+2	05:50:00.683	Custom indicator IVT_MACD_ZERO_LAG CADJPY,H1: loaded successfully
+2	05:50:00.691	Custom indicator RSI Divergence Levels CADJPY,H1: loaded successfully
+2	05:50:00.703	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,H1: loaded successfully
+2	05:50:00.904	Custom indicator AIMS Levels V2 AUDCAD,M1: loaded successfully
+2	05:50:00.983	Custom indicator AIMS Entry Alert V1 AUDCAD,M1: loaded successfully
+2	05:50:00.989	Custom indicator CandleTimer AUDCAD,M1: loaded successfully
+2	05:50:01.067	Custom indicator #Signal_Bars_v6 AUDCAD,M1: loaded successfully
+2	05:50:01.075	Custom indicator TrendEnvelopes_v1 AUDCAD,M1: loaded successfully
+2	05:50:01.153	Custom indicator AIMS AO V.2.1 AUDCAD,M1: loaded successfully
+2	05:50:01.165	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,M1: loaded successfully
+2	05:50:01.173	Custom indicator RSI Divergence Levels AUDCAD,M1: loaded successfully
+2	05:50:01.185	Custom indicator JoeChalhoub_FXForecasterV1 AUDCAD,M1: loaded successfully
+2	05:50:01.482	Custom indicator AIMS Levels V2 EURJPY,M1: loaded successfully
+2	05:50:01.560	Custom indicator AIMS Entry Alert V1 EURJPY,M1: loaded successfully
+2	05:50:01.568	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	05:50:01.648	Custom indicator #Signal_Bars_v6 EURJPY,M1: loaded successfully
+2	05:50:01.727	Custom indicator AIMS AO V.2.1 EURJPY,M1: loaded successfully
+2	05:50:01.736	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M1: loaded successfully
+2	05:50:01.748	Custom indicator RSI Divergence Levels EURJPY,M1: loaded successfully
+2	05:50:01.996	Custom indicator AIMS Levels V2 GBPJPY,M1: loaded successfully
+2	05:50:02.071	Custom indicator AIMS Entry Alert V1 GBPJPY,M1: loaded successfully
+2	05:50:02.081	Custom indicator CandleTimer GBPJPY,M1: loaded successfully
+2	05:50:02.160	Custom indicator #Signal_Bars_v6 GBPJPY,M1: loaded successfully
+2	05:50:02.170	Custom indicator TrendEnvelopes_v1 GBPJPY,M1: loaded successfully
+2	05:50:02.247	Custom indicator AIMS AO V.2.1 GBPJPY,M1: loaded successfully
+2	05:50:02.254	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,M1: loaded successfully
+2	05:50:02.266	Custom indicator RSI Divergence Levels GBPJPY,M1: loaded successfully
+2	05:50:02.276	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,M1: loaded successfully
+2	05:50:02.569	Custom indicator AIMS Levels V2 USDCAD,M5: loaded successfully
+2	05:50:02.647	Custom indicator AIMS Entry Alert V1 USDCAD,M5: loaded successfully
+2	05:50:02.653	Custom indicator CandleTimer USDCAD,M5: loaded successfully
+2	05:50:02.731	Custom indicator #Signal_Bars_v6 USDCAD,M5: loaded successfully
+2	05:50:02.739	Custom indicator TrendEnvelopes_v1 USDCAD,M5: loaded successfully
+2	05:50:02.816	Custom indicator AIMS AO V.2.1 USDCAD,M5: loaded successfully
+2	05:50:02.827	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M5: loaded successfully
+2	05:50:02.836	Custom indicator RSI Divergence Levels USDCAD,M5: loaded successfully
+2	05:50:02.848	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M5: loaded successfully
+2	05:50:03.064	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	05:50:03.147	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	05:50:03.154	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	05:50:03.232	Custom indicator #Signal_Bars_v6 EURNZD,H1: loaded successfully
+2	05:50:03.314	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	05:50:03.322	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: loaded successfully
+2	05:50:03.334	Custom indicator RSI Divergence Levels EURNZD,H1: loaded successfully
+2	05:50:03.498	Custom indicator AIMS Levels V2 EURCAD,H1: loaded successfully
+2	05:50:03.578	Custom indicator AIMS Entry Alert V1 EURCAD,H1: loaded successfully
+2	05:50:03.584	Custom indicator CandleTimer EURCAD,H1: loaded successfully
+2	05:50:03.663	Custom indicator #Signal_Bars_v6 EURCAD,H1: loaded successfully
+2	05:50:03.739	Custom indicator AIMS AO V.2.1 EURCAD,H1: loaded successfully
+2	05:50:03.750	Custom indicator IVT_MACD_ZERO_LAG EURCAD,H1: loaded successfully
+2	05:50:03.761	Custom indicator RSI Divergence Levels EURCAD,H1: loaded successfully
+2	05:50:03.926	Custom indicator AIMS Levels V2 AUDUSD,M1: loaded successfully
+2	05:50:04.003	Custom indicator AIMS Entry Alert V1 AUDUSD,M1: loaded successfully
+2	05:50:04.012	Custom indicator CandleTimer AUDUSD,M1: loaded successfully
+2	05:50:04.087	Custom indicator #Signal_Bars_v6 AUDUSD,M1: loaded successfully
+2	05:50:04.098	Custom indicator TrendEnvelopes_v1 AUDUSD,M1: loaded successfully
+2	05:50:04.181	Custom indicator AIMS AO V.2.1 AUDUSD,M1: loaded successfully
+2	05:50:04.193	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,M1: loaded successfully
+2	05:50:04.203	Custom indicator RSI Divergence Levels AUDUSD,M1: loaded successfully
+2	05:50:04.456	Custom indicator AIMS Levels V2 GBPCAD,M30: loaded successfully
+2	05:50:04.532	Custom indicator AIMS Entry Alert V1 GBPCAD,M30: loaded successfully
+2	05:50:04.541	Custom indicator CandleTimer GBPCAD,M30: loaded successfully
+2	05:50:04.616	Custom indicator #Signal_Bars_v6 GBPCAD,M30: loaded successfully
+2	05:50:04.627	Custom indicator TrendEnvelopes_v1 GBPCAD,M30: loaded successfully
+2	05:50:04.701	Custom indicator AIMS AO V.2.1 GBPCAD,M30: loaded successfully
+2	05:50:04.712	Custom indicator IVT_MACD_ZERO_LAG GBPCAD,M30: loaded successfully
+2	05:50:04.721	Custom indicator RSI Divergence Levels GBPCAD,M30: loaded successfully
+2	05:50:04.733	Custom indicator JoeChalhoub_FXForecasterV1 GBPCAD,M30: loaded successfully
+2	05:50:04.949	Custom indicator AIMS Levels V2 NZDJPY,H4: loaded successfully
+2	05:50:05.027	Custom indicator AIMS Entry Alert V1 NZDJPY,H4: loaded successfully
+2	05:50:05.033	Custom indicator CandleTimer NZDJPY,H4: loaded successfully
+2	05:50:05.112	Custom indicator #Signal_Bars_v6 NZDJPY,H4: loaded successfully
+2	05:50:05.120	Custom indicator TrendEnvelopes_v1 NZDJPY,H4: loaded successfully
+2	05:50:05.199	Custom indicator AIMS AO V.2.1 NZDJPY,H4: loaded successfully
+2	05:50:05.211	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,H4: loaded successfully
+2	05:50:05.220	Custom indicator RSI Divergence Levels NZDJPY,H4: loaded successfully
+2	05:50:05.232	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,H4: loaded successfully
+2	05:50:05.435	Custom indicator AIMS Levels V2 USDCHF,H4: loaded successfully
+2	05:50:05.514	Custom indicator AIMS Entry Alert V1 USDCHF,H4: loaded successfully
+2	05:50:05.521	Custom indicator CandleTimer USDCHF,H4: loaded successfully
+2	05:50:05.597	Custom indicator #Signal_Bars_v6 USDCHF,H4: loaded successfully
+2	05:50:05.674	Custom indicator AIMS AO V.2.1 USDCHF,H4: loaded successfully
+2	05:50:05.684	Custom indicator IVT_MACD_ZERO_LAG USDCHF,H4: loaded successfully
+2	05:50:05.695	Custom indicator RSI Divergence Levels USDCHF,H4: loaded successfully
+2	05:50:05.900	Custom indicator AIMS Levels V2 EURJPY,H1: loaded successfully
+2	05:50:05.980	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	05:50:05.987	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	05:50:06.069	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	05:50:06.154	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	05:50:06.166	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+2	05:50:06.178	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	05:50:06.351	Custom indicator AIMS Levels V2 EURCHF,M5: loaded successfully
+2	05:50:06.438	Custom indicator AIMS Entry Alert V1 EURCHF,M5: loaded successfully
+2	05:50:06.448	Custom indicator CandleTimer EURCHF,M5: loaded successfully
+2	05:50:06.534	Custom indicator #Signal_Bars_v6 EURCHF,M5: loaded successfully
+2	05:50:06.546	Custom indicator TrendEnvelopes_v1 EURCHF,M5: loaded successfully
+2	05:50:06.640	Custom indicator AIMS AO V.2.1 EURCHF,M5: loaded successfully
+2	05:50:06.653	Custom indicator IVT_MACD_ZERO_LAG EURCHF,M5: loaded successfully
+2	05:50:06.668	Custom indicator RSI Divergence Levels EURCHF,M5: loaded successfully
+2	05:50:06.682	Custom indicator JoeChalhoub_FXForecasterV1 EURCHF,M5: loaded successfully
+2	05:50:06.938	Custom indicator AIMS Levels V2 USDJPY,H1: loaded successfully
+2	05:50:07.029	Custom indicator AIMS Entry Alert V1 USDJPY,H1: loaded successfully
+2	05:50:07.038	Custom indicator CandleTimer USDJPY,H1: loaded successfully
+2	05:50:07.134	Custom indicator #Signal_Bars_v6 USDJPY,H1: loaded successfully
+2	05:50:07.225	Custom indicator AIMS AO V.2.1 USDJPY,H1: loaded successfully
+2	05:50:07.235	Custom indicator IVT_MACD_ZERO_LAG USDJPY,H1: loaded successfully
+2	05:50:07.247	Custom indicator RSI Divergence Levels USDJPY,H1: loaded successfully
+2	05:50:07.448	Custom indicator AIMS Levels V2 GBPCAD,H1: loaded successfully
+2	05:50:07.532	Custom indicator AIMS Entry Alert V1 GBPCAD,H1: loaded successfully
+2	05:50:07.543	Custom indicator CandleTimer GBPCAD,H1: loaded successfully
+2	05:50:07.633	Custom indicator #Signal_Bars_v6 GBPCAD,H1: loaded successfully
+2	05:50:07.728	Custom indicator AIMS AO V.2.1 GBPCAD,H1: loaded successfully
+2	05:50:07.740	Custom indicator IVT_MACD_ZERO_LAG GBPCAD,H1: loaded successfully
+2	05:50:07.750	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	05:50:07.932	Custom indicator AIMS Levels V2 EURGBP,H1: loaded successfully
+2	05:50:08.020	Custom indicator AIMS Entry Alert V1 EURGBP,H1: loaded successfully
+2	05:50:08.030	Custom indicator CandleTimer EURGBP,H1: loaded successfully
+2	05:50:08.115	Custom indicator #Signal_Bars_v6 EURGBP,H1: loaded successfully
+2	05:50:08.204	Custom indicator AIMS AO V.2.1 EURGBP,H1: loaded successfully
+2	05:50:08.216	Custom indicator IVT_MACD_ZERO_LAG EURGBP,H1: loaded successfully
+2	05:50:08.228	Custom indicator RSI Divergence Levels EURGBP,H1: loaded successfully
+2	05:50:08.416	Custom indicator AIMS Levels V2 CHFJPY,M1: loaded successfully
+2	05:50:08.503	Custom indicator AIMS Entry Alert V1 CHFJPY,M1: loaded successfully
+2	05:50:08.513	Custom indicator CandleTimer CHFJPY,M1: loaded successfully
+2	05:50:08.601	Custom indicator #Signal_Bars_v6 CHFJPY,M1: loaded successfully
+2	05:50:08.688	Custom indicator AIMS AO V.2.1 CHFJPY,M1: loaded successfully
+2	05:50:08.698	Custom indicator IVT_MACD_ZERO_LAG CHFJPY,M1: loaded successfully
+2	05:50:08.709	Custom indicator RSI Divergence Levels CHFJPY,M1: loaded successfully
+2	05:50:08.965	Custom indicator AIMS Levels V2 GBPCHF,H1: loaded successfully
+2	05:50:09.050	Custom indicator AIMS Entry Alert V1 GBPCHF,H1: loaded successfully
+2	05:50:09.060	Custom indicator CandleTimer GBPCHF,H1: loaded successfully
+2	05:50:09.145	Custom indicator #Signal_Bars_v6 GBPCHF,H1: loaded successfully
+2	05:50:09.156	Custom indicator TrendEnvelopes_v1 GBPCHF,H1: loaded successfully
+2	05:50:09.241	Custom indicator AIMS AO V.2.1 GBPCHF,H1: loaded successfully
+2	05:50:09.251	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,H1: loaded successfully
+2	05:50:09.263	Custom indicator RSI Divergence Levels GBPCHF,H1: loaded successfully
+2	05:50:09.276	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,H1: loaded successfully
+2	05:50:09.508	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	05:50:09.597	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	05:50:09.608	Custom indicator CandleTimer GBPAUD,H1: loaded successfully
+2	05:50:09.695	Custom indicator #Signal_Bars_v6 GBPAUD,H1: loaded successfully
+2	05:50:09.707	Custom indicator TrendEnvelopes_v1 GBPAUD,H1: loaded successfully
+2	05:50:09.793	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	05:50:09.804	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	05:50:09.814	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	05:50:09.827	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,H1: loaded successfully
+2	05:50:10.082	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	05:50:10.167	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	05:50:10.177	Custom indicator CandleTimer GBPNZD,H1: loaded successfully
+2	05:50:10.262	Custom indicator #Signal_Bars_v6 GBPNZD,H1: loaded successfully
+2	05:50:10.274	Custom indicator TrendEnvelopes_v1 GBPNZD,H1: loaded successfully
+2	05:50:10.361	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	05:50:10.373	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	05:50:10.383	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+2	05:50:10.397	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,H1: loaded successfully
+2	05:50:10.837	Custom indicator AIMS Levels V2 EURGBP,H4: loaded successfully
+2	05:50:10.948	Custom indicator AIMS Entry Alert V1 EURGBP,H4: loaded successfully
+2	05:50:10.960	Custom indicator CandleTimer EURGBP,H4: loaded successfully
+2	05:50:11.077	Custom indicator #Signal_Bars_v6 EURGBP,H4: loaded successfully
+2	05:50:11.092	Custom indicator TrendEnvelopes_v1 EURGBP,H4: loaded successfully
+2	05:50:11.199	Custom indicator AIMS AO V.2.1 EURGBP,H4: loaded successfully
+2	05:50:11.212	Custom indicator IVT_MACD_ZERO_LAG EURGBP,H4: loaded successfully
+2	05:50:11.225	Custom indicator RSI Divergence Levels EURGBP,H4: loaded successfully
+2	05:50:11.240	Custom indicator JoeChalhoub_FXForecasterV1 EURGBP,H4: loaded successfully
+2	05:50:11.486	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	05:50:11.581	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	05:50:11.592	Custom indicator CandleTimer GBPAUD,H1: loaded successfully
+2	05:50:11.679	Custom indicator #Signal_Bars_v6 GBPAUD,H1: loaded successfully
+2	05:50:11.691	Custom indicator TrendEnvelopes_v1 GBPAUD,H1: loaded successfully
+2	05:50:11.778	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	05:50:11.790	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	05:50:11.800	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	05:50:11.813	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,H1: loaded successfully
+2	05:50:12.026	Custom indicator AIMS Levels V2 EURAUD,H1: loaded successfully
+2	05:50:12.112	Custom indicator AIMS Entry Alert V1 EURAUD,H1: loaded successfully
+2	05:50:12.122	Custom indicator CandleTimer EURAUD,H1: loaded successfully
+2	05:50:12.214	Custom indicator #Signal_Bars_v6 EURAUD,H1: loaded successfully
+2	05:50:12.227	Custom indicator TrendEnvelopes_v1 EURAUD,H1: loaded successfully
+2	05:50:12.313	Custom indicator AIMS AO V.2.1 EURAUD,H1: loaded successfully
+2	05:50:12.325	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: loaded successfully
+2	05:50:12.337	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	05:50:12.347	Custom indicator JoeChalhoub_FXForecasterV1 EURAUD,H1: loaded successfully
+2	05:50:12.577	Custom indicator AIMS Levels V2 EURGBP,M5: loaded successfully
+2	05:50:12.662	Custom indicator AIMS Entry Alert V1 EURGBP,M5: loaded successfully
+2	05:50:12.672	Custom indicator CandleTimer EURGBP,M5: loaded successfully
+2	05:50:12.756	Custom indicator #Signal_Bars_v6 EURGBP,M5: loaded successfully
+2	05:50:12.766	Custom indicator TrendEnvelopes_v1 EURGBP,M5: loaded successfully
+2	05:50:12.853	Custom indicator AIMS AO V.2.1 EURGBP,M5: loaded successfully
+2	05:50:12.862	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M5: loaded successfully
+2	05:50:12.874	Custom indicator RSI Divergence Levels EURGBP,M5: loaded successfully
+2	05:50:12.886	Custom indicator JoeChalhoub_FXForecasterV1 EURGBP,M5: loaded successfully
+2	05:50:13.111	Custom indicator AIMS Levels V2 NZDUSD,H1: loaded successfully
+2	05:50:13.196	Custom indicator AIMS Entry Alert V1 NZDUSD,H1: loaded successfully
+2	05:50:13.207	Custom indicator CandleTimer NZDUSD,H1: loaded successfully
+2	05:50:13.291	Custom indicator #Signal_Bars_v6 NZDUSD,H1: loaded successfully
+2	05:50:13.304	Custom indicator TrendEnvelopes_v1 NZDUSD,H1: loaded successfully
+2	05:50:13.394	Custom indicator AIMS AO V.2.1 NZDUSD,H1: loaded successfully
+2	05:50:13.408	Custom indicator IVT_MACD_ZERO_LAG NZDUSD,H1: loaded successfully
+2	05:50:13.420	Custom indicator RSI Divergence Levels NZDUSD,H1: loaded successfully
+2	05:50:13.431	Custom indicator JoeChalhoub_FXForecasterV1 NZDUSD,H1: loaded successfully
+2	05:50:13.673	Custom indicator AIMS Levels V2 FB,M1: loaded successfully
+2	05:50:13.761	Custom indicator AIMS Entry Alert V1 FB,M1: loaded successfully
+2	05:50:13.772	Custom indicator CandleTimer FB,M1: loaded successfully
+2	05:50:13.859	Custom indicator #Signal_Bars_v6 FB,M1: loaded successfully
+2	05:50:13.872	Custom indicator TrendEnvelopes_v1 FB,M1: loaded successfully
+2	05:50:13.959	Custom indicator AIMS AO V.2.1 FB,M1: loaded successfully
+2	05:50:13.971	Custom indicator IVT_MACD_ZERO_LAG FB,M1: loaded successfully
+2	05:50:13.982	Custom indicator RSI Divergence Levels FB,M1: loaded successfully
+2	05:50:13.994	Custom indicator JoeChalhoub_FXForecasterV1 FB,M1: loaded successfully
+2	05:50:14.215	Custom indicator AIMS Levels V2 NZDJPY,H4: loaded successfully
+2	05:50:14.304	Custom indicator AIMS Entry Alert V1 NZDJPY,H4: loaded successfully
+2	05:50:14.312	Custom indicator CandleTimer NZDJPY,H4: loaded successfully
+2	05:50:14.399	Custom indicator #Signal_Bars_v6 NZDJPY,H4: loaded successfully
+2	05:50:14.410	Custom indicator TrendEnvelopes_v1 NZDJPY,H4: loaded successfully
+2	05:50:14.499	Custom indicator AIMS AO V.2.1 NZDJPY,H4: loaded successfully
+2	05:50:14.510	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,H4: loaded successfully
+2	05:50:14.522	Custom indicator RSI Divergence Levels NZDJPY,H4: loaded successfully
+2	05:50:14.534	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,H4: loaded successfully
+2	05:50:14.773	Custom indicator AIMS Levels V2 XAUAUD,H1: loaded successfully
+2	05:50:14.860	Custom indicator AIMS Entry Alert V1 XAUAUD,H1: loaded successfully
+2	05:50:14.871	Custom indicator CandleTimer XAUAUD,H1: loaded successfully
+2	05:50:14.957	Custom indicator #Signal_Bars_v6 XAUAUD,H1: loaded successfully
+2	05:50:14.968	Custom indicator TrendEnvelopes_v1 XAUAUD,H1: loaded successfully
+2	05:50:15.054	Custom indicator AIMS AO V.2.1 XAUAUD,H1: loaded successfully
+2	05:50:15.064	Custom indicator IVT_MACD_ZERO_LAG XAUAUD,H1: loaded successfully
+2	05:50:15.076	Custom indicator RSI Divergence Levels XAUAUD,H1: loaded successfully
+2	05:50:15.089	Custom indicator JoeChalhoub_FXForecasterV1 XAUAUD,H1: loaded successfully
+2	05:50:15.309	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	05:50:15.396	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	05:50:15.407	Custom indicator CandleTimer USDCAD,H1: loaded successfully
+2	05:50:15.492	Custom indicator #Signal_Bars_v6 USDCAD,H1: loaded successfully
+2	05:50:15.504	Custom indicator TrendEnvelopes_v1 USDCAD,H1: loaded successfully
+2	05:50:15.588	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	05:50:15.599	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	05:50:15.610	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	05:50:15.622	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,H1: loaded successfully
+2	05:50:15.836	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	05:50:15.922	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	05:50:15.929	Custom indicator CandleTimer GBPNZD,H1: loaded successfully
+2	05:50:16.014	Custom indicator #Signal_Bars_v6 GBPNZD,H1: loaded successfully
+2	05:50:16.025	Custom indicator TrendEnvelopes_v1 GBPNZD,H1: loaded successfully
+2	05:50:16.107	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	05:50:16.120	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	05:50:16.131	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+2	05:50:16.142	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,H1: loaded successfully
+2	05:50:16.355	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	05:50:16.440	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	05:50:16.450	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	05:50:16.532	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	05:50:16.542	Custom indicator TrendEnvelopes_v1 GBPUSD,H1: loaded successfully
+2	05:50:16.624	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	05:50:16.636	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	05:50:16.647	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	05:50:16.659	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H1: loaded successfully
+2	05:50:16.899	Custom indicator AIMS Levels V2 DE30,M5: loaded successfully
+2	05:50:16.989	Custom indicator AIMS Entry Alert V1 DE30,M5: loaded successfully
+2	05:50:16.999	Custom indicator CandleTimer DE30,M5: loaded successfully
+2	05:50:17.082	Custom indicator #Signal_Bars_v6 DE30,M5: loaded successfully
+2	05:50:17.092	Custom indicator TrendEnvelopes_v1 DE30,M5: loaded successfully
+2	05:50:17.176	Custom indicator AIMS AO V.2.1 DE30,M5: loaded successfully
+2	05:50:17.187	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: loaded successfully
+2	05:50:17.199	Custom indicator RSI Divergence Levels DE30,M5: loaded successfully
+2	05:50:17.210	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M5: loaded successfully
+1	05:50:28.446	Notifications: failed send request [0] notify.mql5.net:443 failed
+1	05:50:28.446	Notifications: 'Classical RSI bearish divergence on:  DE30' not sent to 'A37163A9'
+0	05:50:30.980	'14109544': login on Exness-Real4 through DC00 (ping: 235.44 ms)
+0	05:50:33.363	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 235.44 ms)
+0	05:50:33.941	'14109544': previous successful authorization performed from 154.126.12.45
+0	05:50:51.751	'14109544': ping to current access point DC00 is 207.15 ms
+1	05:51:12.445	Notifications: failed send request [0] notify.mql5.net:443 failed
+1	05:51:12.445	Notifications: 'Classical RSI bearish divergence on:  DE30' not sent to 'A37163A9'
+1	05:52:00.449	'23875089': connect failed [Compte bloqué]
+2	05:52:17.263	Custom indicator AIMS Levels V2 US30,M1: removed
+2	05:52:17.266	Custom indicator AIMS Entry Alert V1 US30,M1: removed
+2	05:52:17.270	Custom indicator CandleTimer US30,M1: removed
+2	05:52:17.270	Custom indicator #Signal_Bars_v6 US30,M1: removed
+2	05:52:17.273	Custom indicator TrendEnvelopes_v1 US30,M1: removed
+2	05:52:17.274	Custom indicator AIMS AO V.2.1 US30,M1: removed
+2	05:52:17.276	Custom indicator IVT_MACD_ZERO_LAG US30,M1: removed
+2	05:52:17.279	Custom indicator RSI Divergence Levels US30,M1: removed
+2	05:52:17.285	Custom indicator JoeChalhoub_FXForecasterV1 US30,M1: removed
+2	05:52:17.334	Custom indicator AIMS Levels V2 DE30,M5: removed
+2	05:52:17.334	Custom indicator AIMS Entry Alert V1 DE30,M5: removed
+2	05:52:17.337	Custom indicator CandleTimer DE30,M5: removed
+2	05:52:17.337	Custom indicator #Signal_Bars_v6 DE30,M5: removed
+2	05:52:17.339	Custom indicator TrendEnvelopes_v1 DE30,M5: removed
+2	05:52:17.339	Custom indicator AIMS AO V.2.1 DE30,M5: removed
+2	05:52:17.341	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: removed
+2	05:52:17.343	Custom indicator RSI Divergence Levels DE30,M5: removed
+2	05:52:17.345	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M5: removed
+2	05:52:17.390	Custom indicator AIMS Levels V2 GBPAUD,H1: removed
+2	05:52:17.390	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: removed
+2	05:52:17.392	Custom indicator CandleTimer GBPAUD,H1: removed
+2	05:52:17.392	Custom indicator #Signal_Bars_v6 GBPAUD,H1: removed
+2	05:52:17.394	Custom indicator TrendEnvelopes_v1 GBPAUD,H1: removed
+2	05:52:17.394	Custom indicator AIMS AO V.2.1 GBPAUD,H1: removed
+2	05:52:17.396	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	05:52:17.400	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	05:52:17.403	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,H1: removed
+2	05:52:17.437	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	05:52:17.437	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	05:52:17.439	Custom indicator CandleTimer GBPNZD,H1: removed
+2	05:52:17.439	Custom indicator #Signal_Bars_v6 GBPNZD,H1: removed
+2	05:52:17.441	Custom indicator TrendEnvelopes_v1 GBPNZD,H1: removed
+2	05:52:17.442	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	05:52:17.443	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	05:52:17.445	Custom indicator RSI Divergence Levels GBPNZD,H1: removed
+2	05:52:17.449	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,H1: removed
+2	05:52:17.479	Custom indicator AIMS Levels V2 USDCAD,M5: removed
+2	05:52:17.479	Custom indicator AIMS Entry Alert V1 USDCAD,M5: removed
+2	05:52:17.483	Custom indicator CandleTimer USDCAD,M5: removed
+2	05:52:17.483	Custom indicator #Signal_Bars_v6 USDCAD,M5: removed
+2	05:52:17.486	Custom indicator TrendEnvelopes_v1 USDCAD,M5: removed
+2	05:52:17.486	Custom indicator AIMS AO V.2.1 USDCAD,M5: removed
+2	05:52:17.488	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M5: removed
+2	05:52:17.490	Custom indicator RSI Divergence Levels USDCAD,M5: removed
+2	05:52:17.491	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M5: removed
+2	05:52:17.525	Custom indicator AIMS Levels V2 FR40,M1: removed
+2	05:52:17.525	Custom indicator AIMS Entry Alert V1 FR40,M1: removed
+2	05:52:17.527	Custom indicator CandleTimer FR40,M1: removed
+2	05:52:17.527	Custom indicator #Signal_Bars_v6 FR40,M1: removed
+2	05:52:17.531	Custom indicator TrendEnvelopes_v1 FR40,M1: removed
+2	05:52:17.533	Custom indicator AIMS AO V.2.1 FR40,M1: removed
+2	05:52:17.535	Custom indicator IVT_MACD_ZERO_LAG FR40,M1: removed
+2	05:52:17.537	Custom indicator RSI Divergence Levels FR40,M1: removed
+2	05:52:17.540	Custom indicator JoeChalhoub_FXForecasterV1 FR40,M1: removed
+2	05:52:17.578	Custom indicator AIMS Levels V2 USTEC,M1: removed
+2	05:52:17.578	Custom indicator AIMS Entry Alert V1 USTEC,M1: removed
+2	05:52:17.582	Custom indicator CandleTimer USTEC,M1: removed
+2	05:52:17.583	Custom indicator #Signal_Bars_v6 USTEC,M1: removed
+2	05:52:17.586	Custom indicator TrendEnvelopes_v1 USTEC,M1: removed
+2	05:52:17.586	Custom indicator AIMS AO V.2.1 USTEC,M1: removed
+2	05:52:17.588	Custom indicator IVT_MACD_ZERO_LAG USTEC,M1: removed
+2	05:52:17.590	Custom indicator RSI Divergence Levels USTEC,M1: removed
+2	05:52:17.592	Custom indicator JoeChalhoub_FXForecasterV1 USTEC,M1: removed
+2	05:52:17.626	Custom indicator AIMS Levels V2 USOIL,M1: removed
+2	05:52:17.626	Custom indicator AIMS Entry Alert V1 USOIL,M1: removed
+2	05:52:17.629	Custom indicator CandleTimer USOIL,M1: removed
+2	05:52:17.629	Custom indicator #Signal_Bars_v6 USOIL,M1: removed
+2	05:52:17.634	Custom indicator TrendEnvelopes_v1 USOIL,M1: removed
+2	05:52:17.635	Custom indicator AIMS AO V.2.1 USOIL,M1: removed
+2	05:52:17.637	Custom indicator IVT_MACD_ZERO_LAG USOIL,M1: removed
+2	05:52:17.639	Custom indicator RSI Divergence Levels USOIL,M1: removed
+2	05:52:17.642	Custom indicator JoeChalhoub_FXForecasterV1 USOIL,M1: removed
+2	05:52:17.677	Custom indicator AIMS Levels V2 XAUUSD,M1: removed
+2	05:52:17.677	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: removed
+2	05:52:17.680	Custom indicator CandleTimer XAUUSD,M1: removed
+2	05:52:17.682	Custom indicator #Signal_Bars_v6 XAUUSD,M1: removed
+2	05:52:17.685	Custom indicator TrendEnvelopes_v1 XAUUSD,M1: removed
+2	05:52:17.685	Custom indicator AIMS AO V.2.1 XAUUSD,M1: removed
+2	05:52:17.688	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: removed
+2	05:52:17.690	Custom indicator RSI Divergence Levels XAUUSD,M1: removed
+2	05:52:17.692	Custom indicator JoeChalhoub_FXForecasterV1 XAUUSD,M1: removed
+2	05:52:17.728	Custom indicator AIMS Levels V2 EURUSD,H4: removed
+2	05:52:17.728	Custom indicator AIMS Entry Alert V1 EURUSD,H4: removed
+2	05:52:17.732	Custom indicator CandleTimer EURUSD,H4: removed
+2	05:52:17.733	Custom indicator #Signal_Bars_v6 EURUSD,H4: removed
+2	05:52:17.736	Custom indicator TrendEnvelopes_v1 EURUSD,H4: removed
+2	05:52:17.736	Custom indicator AIMS AO V.2.1 EURUSD,H4: removed
+2	05:52:17.738	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H4: removed
+2	05:52:17.740	Custom indicator RSI Divergence Levels EURUSD,H4: removed
+2	05:52:17.743	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H4: removed
+2	05:52:17.776	Custom indicator AIMS Levels V2 AUDJPY,H1: removed
+2	05:52:17.776	Custom indicator AIMS Entry Alert V1 AUDJPY,H1: removed
+2	05:52:17.778	Custom indicator CandleTimer AUDJPY,H1: removed
+2	05:52:17.778	Custom indicator #Signal_Bars_v6 AUDJPY,H1: removed
+2	05:52:17.783	Custom indicator TrendEnvelopes_v1 AUDJPY,H1: removed
+2	05:52:17.784	Custom indicator AIMS AO V.2.1 AUDJPY,H1: removed
+2	05:52:17.786	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H1: removed
+2	05:52:17.789	Custom indicator RSI Divergence Levels AUDJPY,H1: removed
+2	05:52:17.791	Custom indicator JoeChalhoub_FXForecasterV1 AUDJPY,H1: removed
+2	05:52:17.823	Custom indicator AIMS Levels V2 GBPUSD,H4: removed
+2	05:52:17.823	Custom indicator AIMS Entry Alert V1 GBPUSD,H4: removed
+2	05:52:17.825	Custom indicator CandleTimer GBPUSD,H4: removed
+2	05:52:17.825	Custom indicator #Signal_Bars_v6 GBPUSD,H4: removed
+2	05:52:17.827	Custom indicator TrendEnvelopes_v1 GBPUSD,H4: removed
+2	05:52:17.827	Custom indicator AIMS AO V.2.1 GBPUSD,H4: removed
+2	05:52:17.829	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H4: removed
+2	05:52:17.834	Custom indicator RSI Divergence Levels GBPUSD,H4: removed
+2	05:52:17.837	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H4: removed
+2	05:52:17.894	Custom indicator AIMS Levels V2 AUDCAD,M1: removed
+2	05:52:17.894	Custom indicator AIMS Entry Alert V1 AUDCAD,M1: removed
+2	05:52:17.898	Custom indicator CandleTimer AUDCAD,M1: removed
+2	05:52:17.900	Custom indicator #Signal_Bars_v6 AUDCAD,M1: removed
+2	05:52:17.902	Custom indicator TrendEnvelopes_v1 AUDCAD,M1: removed
+2	05:52:17.902	Custom indicator AIMS AO V.2.1 AUDCAD,M1: removed
+2	05:52:17.904	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,M1: removed
+2	05:52:17.906	Custom indicator RSI Divergence Levels AUDCAD,M1: removed
+2	05:52:17.909	Custom indicator JoeChalhoub_FXForecasterV1 AUDCAD,M1: removed
+2	05:52:17.942	Custom indicator AIMS Levels V2 EURJPY,M1: removed
+2	05:52:17.942	Custom indicator AIMS Entry Alert V1 EURJPY,M1: removed
+2	05:52:17.944	Custom indicator CandleTimer EURJPY,M1: removed
+2	05:52:17.945	Custom indicator #Signal_Bars_v6 EURJPY,M1: removed
+2	05:52:17.945	Custom indicator AIMS AO V.2.1 EURJPY,M1: removed
+2	05:52:17.949	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M1: removed
+2	05:52:17.952	Custom indicator RSI Divergence Levels EURJPY,M1: removed
+2	05:52:17.981	Custom indicator AIMS Levels V2 GBPJPY,M1: removed
+2	05:52:17.982	Custom indicator AIMS Entry Alert V1 GBPJPY,M1: removed
+2	05:52:17.985	Custom indicator CandleTimer GBPJPY,M1: removed
+2	05:52:17.985	Custom indicator #Signal_Bars_v6 GBPJPY,M1: removed
+2	05:52:17.987	Custom indicator TrendEnvelopes_v1 GBPJPY,M1: removed
+2	05:52:17.987	Custom indicator AIMS AO V.2.1 GBPJPY,M1: removed
+2	05:52:17.990	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,M1: removed
+2	05:52:17.992	Custom indicator RSI Divergence Levels GBPJPY,M1: removed
+2	05:52:17.994	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,M1: removed
+2	05:52:18.026	Custom indicator AIMS Levels V2 EURNZD,H1: removed
+2	05:52:18.026	Custom indicator AIMS Entry Alert V1 EURNZD,H1: removed
+2	05:52:18.028	Custom indicator CandleTimer EURNZD,H1: removed
+2	05:52:18.028	Custom indicator #Signal_Bars_v6 EURNZD,H1: removed
+2	05:52:18.028	Custom indicator AIMS AO V.2.1 EURNZD,H1: removed
+2	05:52:18.032	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: removed
+2	05:52:18.035	Custom indicator RSI Divergence Levels EURNZD,H1: removed
+2	05:52:18.060	Custom indicator AIMS Levels V2 EURCAD,H1: removed
+2	05:52:18.060	Custom indicator AIMS Entry Alert V1 EURCAD,H1: removed
+2	05:52:18.064	Custom indicator CandleTimer EURCAD,H1: removed
+2	05:52:18.066	Custom indicator #Signal_Bars_v6 EURCAD,H1: removed
+2	05:52:18.067	Custom indicator AIMS AO V.2.1 EURCAD,H1: removed
+2	05:52:18.069	Custom indicator IVT_MACD_ZERO_LAG EURCAD,H1: removed
+2	05:52:18.071	Custom indicator RSI Divergence Levels EURCAD,H1: removed
+2	05:52:18.100	Custom indicator AIMS Levels V2 AUDUSD,M1: removed
+2	05:52:18.100	Custom indicator AIMS Entry Alert V1 AUDUSD,M1: removed
+2	05:52:18.102	Custom indicator CandleTimer AUDUSD,M1: removed
+2	05:52:18.103	Custom indicator #Signal_Bars_v6 AUDUSD,M1: removed
+2	05:52:18.105	Custom indicator TrendEnvelopes_v1 AUDUSD,M1: removed
+2	05:52:18.105	Custom indicator AIMS AO V.2.1 AUDUSD,M1: removed
+2	05:52:18.107	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,M1: removed
+2	05:52:18.109	Custom indicator RSI Divergence Levels AUDUSD,M1: removed
+2	05:52:18.138	Custom indicator AIMS Levels V2 GBPCAD,M30: removed
+2	05:52:18.138	Custom indicator AIMS Entry Alert V1 GBPCAD,M30: removed
+2	05:52:18.140	Custom indicator CandleTimer GBPCAD,M30: removed
+2	05:52:18.140	Custom indicator #Signal_Bars_v6 GBPCAD,M30: removed
+2	05:52:18.142	Custom indicator TrendEnvelopes_v1 GBPCAD,M30: removed
+2	05:52:18.142	Custom indicator AIMS AO V.2.1 GBPCAD,M30: removed
+2	05:52:18.144	Custom indicator IVT_MACD_ZERO_LAG GBPCAD,M30: removed
+2	05:52:18.146	Custom indicator RSI Divergence Levels GBPCAD,M30: removed
+2	05:52:18.151	Custom indicator JoeChalhoub_FXForecasterV1 GBPCAD,M30: removed
+2	05:52:18.176	Custom indicator AIMS Levels V2 NZDJPY,H4: removed
+2	05:52:18.176	Custom indicator AIMS Entry Alert V1 NZDJPY,H4: removed
+2	05:52:18.178	Custom indicator CandleTimer NZDJPY,H4: removed
+2	05:52:18.178	Custom indicator #Signal_Bars_v6 NZDJPY,H4: removed
+2	05:52:18.180	Custom indicator TrendEnvelopes_v1 NZDJPY,H4: removed
+2	05:52:18.181	Custom indicator AIMS AO V.2.1 NZDJPY,H4: removed
+2	05:52:18.184	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,H4: removed
+2	05:52:18.186	Custom indicator RSI Divergence Levels NZDJPY,H4: removed
+2	05:52:18.188	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,H4: removed
+2	05:52:18.217	Custom indicator AIMS Levels V2 USDCHF,H4: removed
+2	05:52:18.218	Custom indicator AIMS Entry Alert V1 USDCHF,H4: removed
+2	05:52:18.220	Custom indicator CandleTimer USDCHF,H4: removed
+2	05:52:18.220	Custom indicator #Signal_Bars_v6 USDCHF,H4: removed
+2	05:52:18.220	Custom indicator AIMS AO V.2.1 USDCHF,H4: removed
+2	05:52:18.222	Custom indicator IVT_MACD_ZERO_LAG USDCHF,H4: removed
+2	05:52:18.224	Custom indicator RSI Divergence Levels USDCHF,H4: removed
+2	05:52:18.254	Custom indicator AIMS Levels V2 EURJPY,H1: removed
+2	05:52:18.254	Custom indicator AIMS Entry Alert V1 EURJPY,H1: removed
+2	05:52:18.256	Custom indicator CandleTimer EURJPY,H1: removed
+2	05:52:18.256	Custom indicator #Signal_Bars_v6 EURJPY,H1: removed
+2	05:52:18.256	Custom indicator AIMS AO V.2.1 EURJPY,H1: removed
+2	05:52:18.258	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: removed
+2	05:52:18.260	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	05:52:18.289	Custom indicator AIMS Levels V2 EURCHF,M5: removed
+2	05:52:18.290	Custom indicator AIMS Entry Alert V1 EURCHF,M5: removed
+2	05:52:18.292	Custom indicator CandleTimer EURCHF,M5: removed
+2	05:52:18.292	Custom indicator #Signal_Bars_v6 EURCHF,M5: removed
+2	05:52:18.293	Custom indicator TrendEnvelopes_v1 EURCHF,M5: removed
+2	05:52:18.294	Custom indicator AIMS AO V.2.1 EURCHF,M5: removed
+2	05:52:18.297	Custom indicator IVT_MACD_ZERO_LAG EURCHF,M5: removed
+2	05:52:18.301	Custom indicator RSI Divergence Levels EURCHF,M5: removed
+2	05:52:18.303	Custom indicator JoeChalhoub_FXForecasterV1 EURCHF,M5: removed
+2	05:52:18.333	Custom indicator AIMS Levels V2 USDJPY,H1: removed
+2	05:52:18.334	Custom indicator AIMS Entry Alert V1 USDJPY,H1: removed
+2	05:52:18.336	Custom indicator CandleTimer USDJPY,H1: removed
+2	05:52:18.336	Custom indicator #Signal_Bars_v6 USDJPY,H1: removed
+2	05:52:18.336	Custom indicator AIMS AO V.2.1 USDJPY,H1: removed
+2	05:52:18.338	Custom indicator IVT_MACD_ZERO_LAG USDJPY,H1: removed
+2	05:52:18.339	Custom indicator RSI Divergence Levels USDJPY,H1: removed
+2	05:52:18.367	Custom indicator AIMS Levels V2 GBPCAD,H1: removed
+2	05:52:18.367	Custom indicator AIMS Entry Alert V1 GBPCAD,H1: removed
+2	05:52:18.369	Custom indicator CandleTimer GBPCAD,H1: removed
+2	05:52:18.369	Custom indicator #Signal_Bars_v6 GBPCAD,H1: removed
+2	05:52:18.369	Custom indicator AIMS AO V.2.1 GBPCAD,H1: removed
+2	05:52:18.371	Custom indicator IVT_MACD_ZERO_LAG GBPCAD,H1: removed
+2	05:52:18.373	Custom indicator RSI Divergence Levels GBPCAD,H1: removed
+2	05:52:18.400	Custom indicator AIMS Levels V2 EURGBP,H1: removed
+2	05:52:18.400	Custom indicator AIMS Entry Alert V1 EURGBP,H1: removed
+2	05:52:18.402	Custom indicator CandleTimer EURGBP,H1: removed
+2	05:52:18.402	Custom indicator #Signal_Bars_v6 EURGBP,H1: removed
+2	05:52:18.403	Custom indicator AIMS AO V.2.1 EURGBP,H1: removed
+2	05:52:18.404	Custom indicator IVT_MACD_ZERO_LAG EURGBP,H1: removed
+2	05:52:18.407	Custom indicator RSI Divergence Levels EURGBP,H1: removed
+2	05:52:18.434	Custom indicator AIMS Levels V2 CHFJPY,M1: removed
+2	05:52:18.434	Custom indicator AIMS Entry Alert V1 CHFJPY,M1: removed
+2	05:52:18.436	Custom indicator CandleTimer CHFJPY,M1: removed
+2	05:52:18.437	Custom indicator #Signal_Bars_v6 CHFJPY,M1: removed
+2	05:52:18.437	Custom indicator AIMS AO V.2.1 CHFJPY,M1: removed
+2	05:52:18.438	Custom indicator IVT_MACD_ZERO_LAG CHFJPY,M1: removed
+2	05:52:18.440	Custom indicator RSI Divergence Levels CHFJPY,M1: removed
+2	05:52:18.469	Custom indicator AIMS Levels V2 GBPCHF,H1: removed
+2	05:52:18.469	Custom indicator AIMS Entry Alert V1 GBPCHF,H1: removed
+2	05:52:18.471	Custom indicator CandleTimer GBPCHF,H1: removed
+2	05:52:18.471	Custom indicator #Signal_Bars_v6 GBPCHF,H1: removed
+2	05:52:18.473	Custom indicator TrendEnvelopes_v1 GBPCHF,H1: removed
+2	05:52:18.473	Custom indicator AIMS AO V.2.1 GBPCHF,H1: removed
+2	05:52:18.475	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,H1: removed
+2	05:52:18.477	Custom indicator RSI Divergence Levels GBPCHF,H1: removed
+2	05:52:18.480	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,H1: removed
+2	05:52:18.505	Custom indicator AIMS Levels V2 EURGBP,H4: removed
+2	05:52:18.505	Custom indicator AIMS Entry Alert V1 EURGBP,H4: removed
+2	05:52:18.507	Custom indicator CandleTimer EURGBP,H4: removed
+2	05:52:18.507	Custom indicator #Signal_Bars_v6 EURGBP,H4: removed
+2	05:52:18.509	Custom indicator TrendEnvelopes_v1 EURGBP,H4: removed
+2	05:52:18.509	Custom indicator AIMS AO V.2.1 EURGBP,H4: removed
+2	05:52:18.511	Custom indicator IVT_MACD_ZERO_LAG EURGBP,H4: removed
+2	05:52:18.515	Custom indicator RSI Divergence Levels EURGBP,H4: removed
+2	05:52:18.518	Custom indicator JoeChalhoub_FXForecasterV1 EURGBP,H4: removed
+2	05:52:18.541	Custom indicator AIMS Levels V2 EURAUD,H1: removed
+2	05:52:18.541	Custom indicator AIMS Entry Alert V1 EURAUD,H1: removed
+2	05:52:18.543	Custom indicator CandleTimer EURAUD,H1: removed
+2	05:52:18.543	Custom indicator #Signal_Bars_v6 EURAUD,H1: removed
+2	05:52:18.545	Custom indicator TrendEnvelopes_v1 EURAUD,H1: removed
+2	05:52:18.545	Custom indicator AIMS AO V.2.1 EURAUD,H1: removed
+2	05:52:18.548	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: removed
+2	05:52:18.551	Custom indicator RSI Divergence Levels EURAUD,H1: removed
+2	05:52:18.553	Custom indicator JoeChalhoub_FXForecasterV1 EURAUD,H1: removed
+2	05:52:18.577	Custom indicator AIMS Levels V2 EURGBP,M5: removed
+2	05:52:18.577	Custom indicator AIMS Entry Alert V1 EURGBP,M5: removed
+2	05:52:18.579	Custom indicator CandleTimer EURGBP,M5: removed
+2	05:52:18.579	Custom indicator #Signal_Bars_v6 EURGBP,M5: removed
+2	05:52:18.583	Custom indicator TrendEnvelopes_v1 EURGBP,M5: removed
+2	05:52:18.583	Custom indicator AIMS AO V.2.1 EURGBP,M5: removed
+2	05:52:18.586	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M5: removed
+2	05:52:18.588	Custom indicator RSI Divergence Levels EURGBP,M5: removed
+2	05:52:18.590	Custom indicator JoeChalhoub_FXForecasterV1 EURGBP,M5: removed
+2	05:52:18.613	Custom indicator AIMS Levels V2 NZDUSD,H1: removed
+2	05:52:18.614	Custom indicator AIMS Entry Alert V1 NZDUSD,H1: removed
+2	05:52:18.617	Custom indicator CandleTimer NZDUSD,H1: removed
+2	05:52:18.617	Custom indicator #Signal_Bars_v6 NZDUSD,H1: removed
+2	05:52:18.618	Custom indicator TrendEnvelopes_v1 NZDUSD,H1: removed
+2	05:52:18.618	Custom indicator AIMS AO V.2.1 NZDUSD,H1: removed
+2	05:52:18.620	Custom indicator IVT_MACD_ZERO_LAG NZDUSD,H1: removed
+2	05:52:18.622	Custom indicator RSI Divergence Levels NZDUSD,H1: removed
+2	05:52:18.624	Custom indicator JoeChalhoub_FXForecasterV1 NZDUSD,H1: removed
+2	05:52:18.649	Custom indicator AIMS Levels V2 FB,M1: removed
+2	05:52:18.649	Custom indicator AIMS Entry Alert V1 FB,M1: removed
+2	05:52:18.652	Custom indicator CandleTimer FB,M1: removed
+2	05:52:18.652	Custom indicator #Signal_Bars_v6 FB,M1: removed
+2	05:52:18.654	Custom indicator TrendEnvelopes_v1 FB,M1: removed
+2	05:52:18.654	Custom indicator AIMS AO V.2.1 FB,M1: removed
+2	05:52:18.655	Custom indicator IVT_MACD_ZERO_LAG FB,M1: removed
+2	05:52:18.657	Custom indicator RSI Divergence Levels FB,M1: removed
+2	05:52:18.659	Custom indicator JoeChalhoub_FXForecasterV1 FB,M1: removed
+2	05:52:18.684	Custom indicator AIMS Levels V2 XAUAUD,H1: removed
+2	05:52:18.684	Custom indicator AIMS Entry Alert V1 XAUAUD,H1: removed
+2	05:52:18.686	Custom indicator CandleTimer XAUAUD,H1: removed
+2	05:52:18.686	Custom indicator #Signal_Bars_v6 XAUAUD,H1: removed
+2	05:52:18.688	Custom indicator TrendEnvelopes_v1 XAUAUD,H1: removed
+2	05:52:18.688	Custom indicator AIMS AO V.2.1 XAUAUD,H1: removed
+2	05:52:18.689	Custom indicator IVT_MACD_ZERO_LAG XAUAUD,H1: removed
+2	05:52:18.691	Custom indicator RSI Divergence Levels XAUAUD,H1: removed
+2	05:52:18.693	Custom indicator JoeChalhoub_FXForecasterV1 XAUAUD,H1: removed
+2	05:52:18.718	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	05:52:18.718	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	05:52:18.720	Custom indicator CandleTimer USDCAD,H1: removed
+2	05:52:18.720	Custom indicator #Signal_Bars_v6 USDCAD,H1: removed
+2	05:52:18.722	Custom indicator TrendEnvelopes_v1 USDCAD,H1: removed
+2	05:52:18.722	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	05:52:18.723	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	05:52:18.725	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	05:52:18.727	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,H1: removed
+2	05:52:18.750	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	05:52:18.750	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	05:52:18.752	Custom indicator CandleTimer GBPUSD,H1: removed
+2	05:52:18.752	Custom indicator #Signal_Bars_v6 GBPUSD,H1: removed
+2	05:52:18.754	Custom indicator TrendEnvelopes_v1 GBPUSD,H1: removed
+2	05:52:18.754	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	05:52:18.756	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	05:52:18.758	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	05:52:18.760	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H1: removed
+2	05:52:18.778	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	05:52:18.778	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	05:52:18.782	Custom indicator CandleTimer GBPNZD,H1: removed
+2	05:52:18.782	Custom indicator #Signal_Bars_v6 GBPNZD,H1: removed
+2	05:52:18.784	Custom indicator TrendEnvelopes_v1 GBPNZD,H1: removed
+2	05:52:18.784	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	05:52:18.786	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	05:52:18.788	Custom indicator RSI Divergence Levels GBPNZD,H1: removed
+2	05:52:18.790	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,H1: removed
+2	05:52:18.814	Custom indicator AIMS Levels V2 GBPAUD,H1: removed
+2	05:52:18.814	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: removed
+2	05:52:18.817	Custom indicator CandleTimer GBPAUD,H1: removed
+2	05:52:18.817	Custom indicator #Signal_Bars_v6 GBPAUD,H1: removed
+2	05:52:18.819	Custom indicator TrendEnvelopes_v1 GBPAUD,H1: removed
+2	05:52:18.819	Custom indicator AIMS AO V.2.1 GBPAUD,H1: removed
+2	05:52:18.821	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	05:52:18.823	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	05:52:18.826	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,H1: removed
+2	05:52:18.850	Custom indicator AIMS Levels V2 NZDJPY,H4: removed
+2	05:52:18.850	Custom indicator AIMS Entry Alert V1 NZDJPY,H4: removed
+2	05:52:18.852	Custom indicator CandleTimer NZDJPY,H4: removed
+2	05:52:18.853	Custom indicator #Signal_Bars_v6 NZDJPY,H4: removed
+2	05:52:18.854	Custom indicator TrendEnvelopes_v1 NZDJPY,H4: removed
+2	05:52:18.854	Custom indicator AIMS AO V.2.1 NZDJPY,H4: removed
+2	05:52:18.856	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,H4: removed
+2	05:52:18.858	Custom indicator RSI Divergence Levels NZDJPY,H4: removed
+2	05:52:18.860	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,H4: removed
+2	05:52:18.883	Custom indicator AIMS Levels V2 CADJPY,H1: removed
+2	05:52:18.883	Custom indicator AIMS Entry Alert V1 CADJPY,H1: removed
+2	05:52:18.885	Custom indicator CandleTimer CADJPY,H1: removed
+2	05:52:18.885	Custom indicator #Signal_Bars_v6 CADJPY,H1: removed
+2	05:52:18.887	Custom indicator TrendEnvelopes_v1 CADJPY,H1: removed
+2	05:52:18.888	Custom indicator AIMS AO V.2.1 CADJPY,H1: removed
+2	05:52:18.889	Custom indicator IVT_MACD_ZERO_LAG CADJPY,H1: removed
+2	05:52:18.891	Custom indicator RSI Divergence Levels CADJPY,H1: removed
+2	05:52:18.893	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,H1: removed
+2	05:52:18.906	Custom indicator AIMS Levels V2 DE30,M5: removed
+2	05:52:18.907	Custom indicator AIMS Entry Alert V1 DE30,M5: removed
+2	05:52:18.909	Custom indicator CandleTimer DE30,M5: removed
+2	05:52:18.909	Custom indicator #Signal_Bars_v6 DE30,M5: removed
+2	05:52:18.919	Custom indicator TrendEnvelopes_v1 DE30,M5: removed
+2	05:52:18.920	Custom indicator AIMS AO V.2.1 DE30,M5: removed
+2	05:52:18.922	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: removed
+2	05:52:18.923	Custom indicator RSI Divergence Levels DE30,M5: removed
+2	05:52:18.925	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M5: removed
+2	05:52:19.346	Custom indicator AIMS Levels V2 DE30,M1: loaded successfully
+2	05:52:19.443	Custom indicator AIMS Entry Alert V1 DE30,M1: loaded successfully
+2	05:52:19.454	Custom indicator CandleTimer DE30,M1: loaded successfully
+2	05:52:19.542	Custom indicator #Signal_Bars_v6 DE30,M1: loaded successfully
+2	05:52:19.554	Custom indicator TrendEnvelopes_v1 DE30,M1: loaded successfully
+2	05:52:19.642	Custom indicator AIMS AO V.2.1 DE30,M1: loaded successfully
+2	05:52:19.654	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: loaded successfully
+2	05:52:19.666	Custom indicator RSI Divergence Levels DE30,M1: loaded successfully
+2	05:52:19.676	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M1: loaded successfully
+2	05:52:19.694	Expert Admiral - Mini Terminal DE30,M1: loaded successfully
+2	05:52:19.882	Custom indicator AIMS Levels V2 DE30,M5: loaded successfully
+2	05:52:19.969	Custom indicator AIMS Entry Alert V1 DE30,M5: loaded successfully
+2	05:52:19.976	Custom indicator CandleTimer DE30,M5: loaded successfully
+2	05:52:20.058	Custom indicator #Signal_Bars_v6 DE30,M5: loaded successfully
+2	05:52:20.070	Custom indicator TrendEnvelopes_v1 DE30,M5: loaded successfully
+2	05:52:20.153	Custom indicator AIMS AO V.2.1 DE30,M5: loaded successfully
+2	05:52:20.165	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: loaded successfully
+2	05:52:20.174	Custom indicator RSI Divergence Levels DE30,M5: loaded successfully
+2	05:52:20.187	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M5: loaded successfully
+2	05:52:27.016	Custom indicator AIMS Levels V2 DE30,M1: removed
+2	05:52:27.016	Custom indicator AIMS Entry Alert V1 DE30,M1: removed
+2	05:52:27.018	Custom indicator CandleTimer DE30,M1: removed
+2	05:52:27.018	Custom indicator #Signal_Bars_v6 DE30,M1: removed
+2	05:52:27.020	Custom indicator TrendEnvelopes_v1 DE30,M1: removed
+2	05:52:27.020	Custom indicator AIMS AO V.2.1 DE30,M1: removed
+2	05:52:27.022	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: removed
+2	05:52:27.026	Custom indicator RSI Divergence Levels DE30,M1: removed
+2	05:52:27.028	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M1: removed
+2	05:52:28.529	Custom indicator AIMS Levels V2 DE30,M5: removed
+2	05:52:28.529	Custom indicator AIMS Entry Alert V1 DE30,M5: removed
+2	05:52:28.531	Custom indicator CandleTimer DE30,M5: removed
+2	05:52:28.531	Custom indicator #Signal_Bars_v6 DE30,M5: removed
+2	05:52:28.533	Custom indicator TrendEnvelopes_v1 DE30,M5: removed
+2	05:52:28.533	Custom indicator AIMS AO V.2.1 DE30,M5: removed
+2	05:52:28.534	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: removed
+2	05:52:28.536	Custom indicator RSI Divergence Levels DE30,M5: removed
+2	05:52:28.540	Custom indicator JoeChalhoub_FXForecasterV1 DE30,M5: removed
+1	17:50:45.996	MQL5.community: authorization failed
+1	17:50:55.508	MQL5.community: authorization failed
+1	17:55:55.541	MQL5.community: authorization failed
+1	18:00:55.765	MQL5.community: authorization failed
+1	18:05:55.786	MQL5.community: authorization failed
+1	18:10:56.014	MQL5.community: authorization failed
+1	18:15:55.263	MQL5.community: authorization failed
+1	18:20:55.464	MQL5.community: authorization failed
+1	18:25:55.469	MQL5.community: authorization failed
+1	18:30:55.511	MQL5.community: authorization failed
+1	18:35:55.543	MQL5.community: authorization failed
+1	18:40:55.124	MQL5.community: authorization failed
+1	18:45:55.285	MQL5.community: authorization failed
+1	18:50:55.289	MQL5.community: authorization failed
+1	18:55:55.277	MQL5.community: authorization failed
+1	19:00:55.298	MQL5.community: authorization failed
+1	19:05:55.308	MQL5.community: authorization failed
+1	19:10:55.417	MQL5.community: authorization failed
+1	19:15:55.575	MQL5.community: authorization failed
+1	19:20:55.639	MQL5.community: authorization failed
+1	19:25:55.669	MQL5.community: authorization failed
+1	19:30:55.686	MQL5.community: authorization failed
+1	19:35:55.682	MQL5.community: authorization failed
+1	19:40:55.688	MQL5.community: authorization failed
+1	19:45:55.682	MQL5.community: authorization failed
+1	19:50:55.691	MQL5.community: authorization failed
+1	19:55:55.681	MQL5.community: authorization failed
+1	20:00:55.766	MQL5.community: authorization failed
+1	20:05:55.764	MQL5.community: authorization failed
+1	20:10:55.764	MQL5.community: authorization failed
+1	20:15:55.760	MQL5.community: authorization failed
+1	20:20:55.767	MQL5.community: authorization failed
+1	20:25:55.760	MQL5.community: authorization failed
+1	20:30:55.766	MQL5.community: authorization failed
+1	20:35:55.759	MQL5.community: authorization failed
+1	20:40:55.768	MQL5.community: authorization failed
+1	20:45:55.758	MQL5.community: authorization failed
+1	20:50:55.759	MQL5.community: authorization failed
+1	20:55:55.769	MQL5.community: authorization failed
+1	21:00:55.764	MQL5.community: authorization failed
+1	21:05:55.762	MQL5.community: authorization failed
+1	21:10:55.766	MQL5.community: authorization failed
+1	21:15:55.760	MQL5.community: authorization failed
+1	21:20:55.762	MQL5.community: authorization failed
+1	21:25:55.761	MQL5.community: authorization failed
+1	21:30:55.761	MQL5.community: authorization failed
+1	21:35:55.763	MQL5.community: authorization failed
+1	21:40:55.761	MQL5.community: authorization failed
+1	21:45:55.760	MQL5.community: authorization failed
+1	21:50:55.765	MQL5.community: authorization failed
+1	21:55:55.762	MQL5.community: authorization failed
+1	22:00:55.762	MQL5.community: authorization failed
+1	22:05:55.760	MQL5.community: authorization failed
+1	22:10:55.762	MQL5.community: authorization failed
+1	22:15:55.761	MQL5.community: authorization failed
+1	22:20:55.760	MQL5.community: authorization failed
+1	22:25:55.763	MQL5.community: authorization failed
+1	22:30:55.766	MQL5.community: authorization failed
+1	22:35:55.762	MQL5.community: authorization failed
+1	22:40:55.762	MQL5.community: authorization failed
+1	22:45:55.761	MQL5.community: authorization failed
+1	22:50:55.761	MQL5.community: authorization failed
+1	22:55:55.762	MQL5.community: authorization failed
+1	23:00:55.761	MQL5.community: authorization failed
+1	23:05:55.766	MQL5.community: authorization failed
+1	23:10:55.766	MQL5.community: authorization failed
+1	23:15:55.760	MQL5.community: authorization failed
+1	23:20:55.761	MQL5.community: authorization failed
+1	23:25:55.762	MQL5.community: authorization failed
+1	23:30:55.766	MQL5.community: authorization failed
+1	23:35:55.760	MQL5.community: authorization failed
+1	23:40:55.766	MQL5.community: authorization failed
+1	23:45:55.762	MQL5.community: authorization failed
+1	23:50:55.761	MQL5.community: authorization failed
+1	23:55:55.760	MQL5.community: authorization failed

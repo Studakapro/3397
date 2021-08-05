@@ -1,0 +1,181 @@
+0	07:03:33.042	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	07:03:33.042	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1054 / 8014 Mb, Disk: 105 / 237 Gb, GMT+3
+0	07:03:33.042	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+0	07:03:35.121	'23836281': login on AdmiralMarkets-Demo through Access Point #6 (ping: 224.43 ms)
+0	07:03:37.358	'23836281': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 224.43 ms)
+0	07:03:38.269	'23836281': previous successful authorization performed from 197.149.28.96
+0	07:03:56.957	'23836281': ping to current access point Access Point #6 is 221.06 ms
+0	07:04:27.619	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 221.06 ms)
+0	07:04:29.718	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 221.06 ms)
+2	07:21:36.080	Custom indicator Agims GBPCHF,M1: loaded successfully
+0	07:22:37.577	HistoryCenter: synchronize 'GBPCHF1'
+0	07:22:42.102	HistoryCenter: 2063 bars imported in 'GBPCHF1'
+2	07:23:58.438	Custom indicator Agims EURUSD,M1: loaded successfully
+2	07:27:00.421	Custom indicator Agims USDCHF,M1: loaded successfully
+0	07:27:25.116	'23842653': one click trading has been enabled
+1	07:27:33.924	'23842653': order sell 1.00 USDCHF opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:27:33.924	'23842653': order #0 sell 1.00 USDCHF at 0.00000 failed [Not enough money]
+1	07:27:51.782	'23842653': order buy 0.10 USDCHF opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:27:51.782	'23842653': order #0 buy 0.10 USDCHF at 0.00000 failed [Not enough money]
+0	07:28:01.348	'23842653': order buy market 0.01 USDCHF sl: 0.00000 tp: 0.00000
+0	07:28:01.696	'23842653': order was opened : #174895266 buy 0.01 USDCHF at 0.96149 sl: 0.00000 tp: 0.00000
+0	07:28:24.472	'23842653': modify order #174895266 buy 0.01 USDCHF at 0.96149 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.96195
+0	07:28:24.787	'23842653': order #174895266 buy 0.01 USDCHF at 0.96149 was modified -> sl: 0.00000 tp: 0.96195
+2	07:40:00.243	Custom indicator Agims GBPUSD,H4: loaded successfully
+1	07:40:10.776	'23842653': order sell 1.00 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:40:10.776	'23842653': order #0 sell 1.00 GBPUSD at 0.00000 failed [Not enough money]
+1	07:40:13.285	'23842653': order sell 1.00 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:40:13.285	'23842653': order #0 sell 1.00 GBPUSD at 0.00000 failed [Not enough money]
+1	07:40:20.391	'23842653': order sell 0.50 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:40:20.391	'23842653': order #0 sell 0.50 GBPUSD at 0.00000 failed [Not enough money]
+1	07:40:28.537	'23842653': order sell 0.10 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:40:28.537	'23842653': order #0 sell 0.10 GBPUSD at 0.00000 failed [Not enough money]
+1	07:40:35.769	'23842653': order sell 0.09 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:40:35.769	'23842653': order #0 sell 0.09 GBPUSD at 0.00000 failed [Not enough money]
+0	07:40:42.950	'23842653': order sell market 0.05 GBPUSD sl: 0.00000 tp: 0.00000
+0	07:40:43.504	'23842653': order was opened : #174896202 sell 0.05 GBPUSD at 1.23809 sl: 0.00000 tp: 0.00000
+0	07:41:15.279	'23842653': modify order #174896202 sell 0.05 GBPUSD at 1.23809 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.22850
+0	07:41:15.575	'23842653': order #174896202 sell 0.05 GBPUSD at 1.23809 was modified -> sl: 0.00000 tp: 1.22850
+0	07:41:42.370	'23842653': modify order #174896202 sell 0.05 GBPUSD at 1.23809 sl: 0.00000 tp: 1.22850 -> sl: 0.00000 tp: 1.23796
+0	07:41:42.674	'23842653': order #174896202 sell 0.05 GBPUSD at 1.23809 was modified -> sl: 0.00000 tp: 1.23796
+0	07:42:16.668	'23842653': close order #174896202 sell 0.05 GBPUSD at 1.23809 sl: 0.00000 tp: 1.23796 at price 0.00000
+0	07:42:17.641	'23842653': close order #174895266 buy 0.01 USDCHF at 0.96149 sl: 0.00000 tp: 0.96195 at price 0.00000
+0	07:42:18.077	'23842653': order #174896202 sell 0.05 GBPUSD at 1.23809 sl: 0.00000 tp: 1.23796 closed at price 1.23821
+0	07:42:19.343	'23842653': order #174895266 buy 0.01 USDCHF at 0.96149 sl: 0.00000 tp: 0.96195 closed at price 0.96135
+2	07:42:48.550	Custom indicator Agims USDJPY,M1: loaded successfully
+1	07:45:26.040	'23842653': order buy 1.00 USDJPY opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+1	07:45:26.040	'23842653': order #0 buy 1.00 USDJPY at 0.000 failed [Not enough money]
+0	07:45:33.262	'23842653': order buy market 0.06 USDJPY sl: 0.000 tp: 0.000
+0	07:45:33.593	'23842653': order was opened : #174896594 buy 0.06 USDJPY at 107.729 sl: 0.000 tp: 0.000
+0	07:45:46.541	'23842653': modify order #174896594 buy 0.06 USDJPY at 107.729 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 107.776
+0	07:45:46.850	'23842653': order #174896594 buy 0.06 USDJPY at 107.729 was modified -> sl: 0.000 tp: 107.776
+2	07:46:41.955	Custom indicator Agims [DAX30],M1: loaded successfully
+2	07:50:46.275	Custom indicator Agims USDJPY,M1: removed
+2	07:50:46.284	Custom indicator Agims USDJPY,M1: loaded successfully
+2	07:51:01.162	Custom indicator Agims [DAX30],M1: removed
+2	07:51:01.172	Custom indicator Agims [DAX30],M1: loaded successfully
+2	07:52:59.664	Custom indicator Agims USDCAD,M1: loaded successfully
+2	07:54:48.396	Custom indicator Agims BTCUSD,H1: loaded successfully
+2	07:55:50.306	Custom indicator Agims GBPUSD,M1: removed
+2	07:55:50.314	Custom indicator Agims GBPUSD,M1: loaded successfully
+0	08:00:00.138	'23842653': order #174896594 buy 0.06 USDJPY at 107.729 closed due take-profit at price 107.778
+2	08:03:01.989	Custom indicator CandleTimer EURUSD,M1: loaded successfully
+2	08:03:32.240	Custom indicator Asia2 V4.0 EURUSD,M1: loaded successfully
+0	08:05:05.091	'23842653': order buy market 0.06 USDJPY sl: 0.000 tp: 0.000
+0	08:05:08.719	'23842653': order was opened : #174898283 buy 0.06 USDJPY at 107.761 sl: 0.000 tp: 0.000
+1	08:05:18.962	'23842653': order buy 1.00 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:05:18.962	'23842653': order #0 buy 1.00 EURUSD at 0.00000 failed [Not enough money]
+1	08:05:24.806	'23842653': order buy 0.07 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:05:24.806	'23842653': order #0 buy 0.07 EURUSD at 0.00000 failed [Not enough money]
+1	08:05:30.194	'23842653': order buy 0.06 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:05:30.194	'23842653': order #0 buy 0.06 EURUSD at 0.00000 failed [Not enough money]
+1	08:05:36.075	'23842653': order buy 0.05 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:05:36.075	'23842653': order #0 buy 0.05 EURUSD at 0.00000 failed [Not enough money]
+0	08:05:43.185	'23842653': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	08:05:43.646	'23842653': order was opened : #174898331 buy 0.01 EURUSD at 1.10201 sl: 0.00000 tp: 0.00000
+0	08:05:53.164	'23842653': modify order #174898331 buy 0.01 EURUSD at 1.10201 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.10305
+0	08:05:55.814	'23842653': order #174898331 buy 0.01 EURUSD at 1.10201 was modified -> sl: 0.00000 tp: 1.10305
+0	08:09:17.152	'23842653': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+1	08:09:17.443	'23842653': order sell 0.10 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	08:09:44.231	'23842653': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+1	08:09:44.713	'23842653': order sell 1.00 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	08:09:46.530	'23842653': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+1	08:09:46.896	'23842653': order sell 1.00 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+2	08:11:35.461	Custom indicator Asia2 V4.0 GBPCHF,M1: loaded successfully
+2	08:11:46.289	Custom indicator Asia2 V4.0 USDCHF,M1: loaded successfully
+2	08:11:55.978	Custom indicator Asia2 V4.0 GBPUSD,M1: loaded successfully
+2	08:12:01.576	Custom indicator Asia2 V4.0 USDJPY,M1: loaded successfully
+2	08:12:06.913	Custom indicator Asia2 V4.0 [DAX30],M1: loaded successfully
+2	08:12:14.128	Custom indicator Asia2 V4.0 USDCAD,M1: loaded successfully
+2	08:12:51.694	Custom indicator Asia2 V4.0 BTCUSD,M1: loaded successfully
+2	08:15:21.964	Custom indicator i-Sessions EURUSD,M1: loaded successfully
+0	08:15:59.453	HistoryCenter: synchronize 'EURUSD1'
+0	08:16:08.381	HistoryCenter: 2100 bars imported in 'EURUSD1'
+0	08:23:15.299	'23842653': order buy market 0.10 BTCUSD sl: 0.00 tp: 0.00
+1	08:23:15.590	'23842653': order buy 0.10 BTCUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	08:35:27.077	'23842653': order #174898331 buy 0.01 EURUSD at 1.10201 closed due take-profit at price 1.10307
+1	08:51:02.975	'23842653': order sell 0.06 USDCAD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:51:02.975	'23842653': order #0 sell 0.06 USDCAD at 0.00000 failed [Not enough money]
+1	08:51:10.116	'23842653': order sell 0.01 USDCAD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:51:10.116	'23842653': order #0 sell 0.01 USDCAD at 0.00000 failed [Not enough money]
+1	08:51:11.516	'23842653': order sell 0.01 USDCAD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:51:11.516	'23842653': order #0 sell 0.01 USDCAD at 0.00000 failed [Not enough money]
+1	08:51:11.854	'23842653': order sell 0.01 USDCAD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:51:11.855	'23842653': order #0 sell 0.01 USDCAD at 0.00000 failed [Not enough money]
+1	08:53:08.121	'23842653': order buy 0.05 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	08:53:08.121	'23842653': order #0 buy 0.05 GBPUSD at 0.00000 failed [Not enough money]
+2	09:00:54.512	Custom indicator Agims EURNZD,H1: loaded successfully
+1	09:01:47.895	'23842653': order buy 0.10 EURNZD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	09:01:47.895	'23842653': order #0 buy 0.10 EURNZD at 0.00000 failed [Not enough money]
+1	09:01:58.864	'23842653': order buy 0.01 EURNZD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	09:01:58.864	'23842653': order #0 buy 0.01 EURNZD at 0.00000 failed [Not enough money]
+0	09:02:15.044	'23842653': close order #174898283 buy 0.06 USDJPY at 107.761 sl: 0.000 tp: 0.000 at price 0.000
+0	09:02:15.426	'23842653': order #174898283 buy 0.06 USDJPY at 107.761 sl: 0.000 tp: 0.000 closed at price 107.317
+0	09:02:17.691	'23842653': order buy market 0.01 EURNZD sl: 0.00000 tp: 0.00000
+0	09:02:18.035	'23842653': order was opened : #174904405 buy 0.01 EURNZD at 1.85363 sl: 0.00000 tp: 0.00000
+0	09:02:54.093	'23842653': modify order #174904405 buy 0.01 EURNZD at 1.85363 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.86000
+0	09:02:54.376	'23842653': order #174904405 buy 0.01 EURNZD at 1.85363 was modified -> sl: 0.00000 tp: 1.86000
+1	09:47:22.214	'23842653': ping failed
+1	09:47:23.710	'23842653': connect failed [Connection échouée]
+0	10:01:54.876	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 221.06 ms)
+0	10:01:57.153	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 221.06 ms)
+0	10:01:57.930	'23842653': previous successful authorization performed from 197.149.28.96
+0	10:02:09.850	'23842653': ping to current access point Access Point #6 is 268.57 ms
+1	10:04:25.189	'23842653': connect failed [Connection échouée]
+0	12:04:00.319	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 268.57 ms)
+0	12:04:02.929	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 268.57 ms)
+0	12:04:04.000	'23842653': previous successful authorization performed from 154.126.11.218
+0	12:04:14.800	'23842653': auto connecting to a better access point Access Point #3 (ping is 280.75 ms)
+0	12:04:15.763	'23842653': login on AdmiralMarkets-Demo through Access Point #3 (ping: 280.75 ms)
+0	12:04:18.370	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 280.75 ms)
+0	12:04:19.199	'23842653': previous successful authorization performed from 154.126.11.218
+0	12:05:47.555	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 277.86 ms)
+0	12:05:50.032	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 277.86 ms)
+0	12:05:50.779	'23842653': previous successful authorization performed from 154.126.12.73
+1	12:06:51.001	'23842653': ping failed
+0	12:06:53.259	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 277.86 ms)
+0	12:06:56.743	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 277.86 ms)
+0	12:06:57.755	'23842653': previous successful authorization performed from 154.126.11.218
+1	13:07:57.736	'23842653': ping failed
+1	13:07:59.266	'23842653': connect failed [Connection échouée]
+0	13:08:05.687	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	13:08:09.010	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	13:08:17.282	'23842653': previous successful authorization performed from 154.126.11.218
+0	13:09:22.387	'23842653': auto connecting to a better access point Access Point #1 (ping is 249.99 ms)
+0	13:09:33.982	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 249.99 ms)
+0	13:09:55.499	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 249.99 ms)
+0	13:09:57.216	'23842653': previous successful authorization performed from 197.149.28.96
+0	13:11:27.760	'23842653': order buy market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	13:12:38.609	'23842653': login on AdmiralMarkets-Demo through Access Point #3 (ping: 394.61 ms)
+0	13:12:42.749	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 394.61 ms)
+0	13:12:45.964	'23842653': previous successful authorization performed from 197.149.28.96
+0	13:13:23.605	'23842653': modify order #174947211 buy 0.10 [DAX30] at 9643.40 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 9645.25
+0	13:13:24.192	'23842653': order #174947211 buy 0.10 [DAX30] at 9643.40 was modified -> sl: 0.00 tp: 9645.25
+0	13:16:13.587	'23842653': order sell market 0.01 USDCAD sl: 0.00000 tp: 0.00000
+0	13:16:15.023	'23842653': order was opened : #174947879 sell 0.01 USDCAD at 1.42469 sl: 0.00000 tp: 0.00000
+0	13:16:28.761	'23842653': modify order #174947879 sell 0.01 USDCAD at 1.42469 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42430
+0	13:16:30.114	'23842653': order #174947879 sell 0.01 USDCAD at 1.42469 was modified -> sl: 0.00000 tp: 1.42430
+0	13:17:44.959	'23842653': order #174947879 sell 0.01 USDCAD at 1.42469 closed due take-profit at price 1.42430
+2	13:20:59.076	Custom indicator CandleTimer GBPCHF,M1: loaded successfully
+2	13:21:11.082	Custom indicator CandleTimer GBPCHF,M1: loaded successfully
+2	13:21:20.456	Custom indicator CandleTimer GBPCHF,M1: removed
+2	13:22:03.205	Custom indicator Agims AUDCAD,M1: loaded successfully
+2	13:22:07.585	Custom indicator Agims AUDJPY,H1: loaded successfully
+0	13:48:08.101	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: 546.84 ms)
+0	13:48:59.171	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 546.84 ms)
+0	13:49:01.087	'23842653': previous successful authorization performed from 197.149.28.96
+0	14:10:12.060	'23842653': close order #174947211 buy 0.10 [DAX30] at 9643.40 sl: 0.00 tp: 9645.25 at price 0.00
+0	14:10:12.801	'23842653': order #174947211 buy 0.10 [DAX30] at 9643.40 sl: 0.00 tp: 9645.25 closed at price 9543.85
+0	14:10:51.950	'23842653': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	14:10:53.000	'23842653': order was opened : #174955090 sell 0.10 [DAX30] at 9544.35 sl: 0.00 tp: 0.00
+0	14:11:51.297	'23842653': modify order #174955090 sell 0.10 [DAX30] at 9544.35 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 9318.00
+0	14:11:51.613	'23842653': order #174955090 sell 0.10 [DAX30] at 9544.35 was modified -> sl: 0.00 tp: 9318.00
+0	14:12:39.698	'23842653': modify order #174955090 sell 0.10 [DAX30] at 9544.35 sl: 0.00 tp: 9318.00 -> sl: 0.00 tp: 8518.00
+0	14:12:40.069	'23842653': order #174955090 sell 0.10 [DAX30] at 9544.35 was modified -> sl: 0.00 tp: 8518.00
+0	14:16:44.398	'23842653': modify order #174955090 sell 0.10 [DAX30] at 9544.35 sl: 0.00 tp: 8518.00 -> sl: 0.00 tp: 9318.00
+0	14:16:44.761	'23842653': order #174955090 sell 0.10 [DAX30] at 9544.35 was modified -> sl: 0.00 tp: 9318.00
+0	14:19:03.764	'23842653': order sell market 0.01 USDCAD sl: 0.00000 tp: 0.00000
+0	14:19:04.691	'23842653': order was opened : #174956334 sell 0.01 USDCAD at 1.42539 sl: 0.00000 tp: 0.00000
+0	14:25:18.821	'23842653': order sell market 0.01 AUDCAD sl: 0.00000 tp: 0.00000
+0	14:25:20.541	'23842653': order was opened : #174957210 sell 0.01 AUDCAD at 0.86476 sl: 0.00000 tp: 0.00000
+1	15:12:54.267	'23842653': connect failed [Connection échouée]

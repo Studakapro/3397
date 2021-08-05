@@ -1,0 +1,828 @@
+0	13:34:47.767	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	13:34:47.767	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1689 / 8014 Mb, Disk: 11 / 237 Gb, GMT+3
+0	13:34:47.767	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	13:34:56.315	Custom indicator CandleTimer EURUSD,Daily: loaded successfully
+2	13:34:56.710	Custom indicator AIMS Levels V2 [CAC40],M15: loaded successfully
+2	13:34:56.859	Custom indicator AIMS Entry Alert V1 [CAC40],M15: loaded successfully
+2	13:34:56.871	Custom indicator CandleTimer [CAC40],M15: loaded successfully
+2	13:34:56.980	Custom indicator #Signal_Bars_v6 [CAC40],M15: loaded successfully
+2	13:34:56.996	Custom indicator TrendEnvelopes_v1 [CAC40],M15: loaded successfully
+2	13:34:57.014	Custom indicator guppy_multiple_moving_averages [CAC40],M15: loaded successfully
+2	13:34:57.035	Custom indicator wedges [CAC40],M15: loaded successfully
+2	13:34:57.197	Custom indicator AIMS AO V.2.1 [CAC40],M15: loaded successfully
+2	13:34:57.212	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: loaded successfully
+2	13:34:57.227	Custom indicator RSI Divergence Levels [CAC40],M15: loaded successfully
+2	13:34:57.242	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: loaded successfully
+2	13:34:57.861	Custom indicator CandleTimer [DAX30],Daily: loaded successfully
+2	13:34:57.886	Expert Admiral - Mini Terminal [DAX30],Daily: loaded successfully
+2	13:34:57.941	Custom indicator CandleTimer [DJI30],Daily: loaded successfully
+2	13:34:58.007	Custom indicator CandleTimer AUDUSD,Daily: loaded successfully
+2	13:34:58.039	Expert Admiral - Mini Terminal AUDUSD,Daily: loaded successfully
+2	13:34:58.149	Custom indicator CandleTimer NZDJPY,Daily: loaded successfully
+2	13:34:58.414	Custom indicator AIMS Levels V2 EURNZD,M15: loaded successfully
+2	13:34:58.642	Custom indicator AIMS Entry Alert V1 EURNZD,M15: loaded successfully
+2	13:34:58.670	Custom indicator CandleTimer EURNZD,M15: loaded successfully
+2	13:34:58.882	Custom indicator #Signal_Bars_v6 EURNZD,M15: loaded successfully
+2	13:34:58.899	Custom indicator TrendEnvelopes_v1 EURNZD,M15: loaded successfully
+2	13:34:58.911	Custom indicator guppy_multiple_moving_averages EURNZD,M15: loaded successfully
+2	13:34:58.926	Custom indicator wedges EURNZD,M15: loaded successfully
+2	13:34:59.042	Custom indicator AIMS AO V.2.1 EURNZD,M15: loaded successfully
+2	13:34:59.060	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M15: loaded successfully
+2	13:34:59.083	Custom indicator RSI Divergence Levels EURNZD,M15: loaded successfully
+2	13:34:59.102	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M15: loaded successfully
+2	13:34:59.126	Expert Admiral - Mini Terminal EURNZD,M15: loaded successfully
+2	13:35:00.238	Custom indicator AIMS Levels V2 GOLD,M15: loaded successfully
+2	13:35:00.366	Custom indicator AIMS Entry Alert V1 GOLD,M15: loaded successfully
+2	13:35:00.379	Custom indicator CandleTimer GOLD,M15: loaded successfully
+2	13:35:00.509	Custom indicator #Signal_Bars_v6 GOLD,M15: loaded successfully
+2	13:35:00.525	Custom indicator TrendEnvelopes_v1 GOLD,M15: loaded successfully
+2	13:35:00.540	Custom indicator guppy_multiple_moving_averages GOLD,M15: loaded successfully
+2	13:35:00.557	Custom indicator wedges GOLD,M15: loaded successfully
+2	13:35:00.701	Custom indicator AIMS AO V.2.1 GOLD,M15: loaded successfully
+2	13:35:00.718	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: loaded successfully
+2	13:35:00.734	Custom indicator RSI Divergence Levels GOLD,M15: loaded successfully
+2	13:35:00.749	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: loaded successfully
+2	13:35:01.318	Custom indicator CandleTimer GBPUSD,Daily: loaded successfully
+2	13:35:01.378	Custom indicator CandleTimer USDJPY,Daily: loaded successfully
+2	13:35:01.549	Custom indicator AIMS Levels V2 GBPAUD,Daily: loaded successfully
+2	13:35:01.680	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: loaded successfully
+2	13:35:01.694	Custom indicator CandleTimer GBPAUD,Daily: loaded successfully
+2	13:35:01.797	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: loaded successfully
+2	13:35:01.810	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: loaded successfully
+2	13:35:01.823	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: loaded successfully
+2	13:35:01.839	Custom indicator wedges GBPAUD,Daily: loaded successfully
+2	13:35:01.967	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: loaded successfully
+2	13:35:01.981	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: loaded successfully
+2	13:35:01.994	Custom indicator RSI Divergence Levels GBPAUD,Daily: loaded successfully
+2	13:35:02.008	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: loaded successfully
+2	13:35:02.031	Expert Admiral - Mini Terminal GBPAUD,Daily: loaded successfully
+2	13:35:02.680	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	13:35:02.773	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	13:35:02.782	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	13:35:02.876	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	13:35:02.888	Custom indicator TrendEnvelopes_v1 CADJPY,M15: loaded successfully
+2	13:35:02.899	Custom indicator guppy_multiple_moving_averages CADJPY,M15: loaded successfully
+2	13:35:02.911	Custom indicator wedges CADJPY,M15: loaded successfully
+2	13:35:03.011	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	13:35:03.031	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	13:35:03.057	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	13:35:03.084	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: loaded successfully
+2	13:35:03.121	Expert Admiral - Mini Terminal CADJPY,M15: loaded successfully
+2	13:35:04.244	Custom indicator AIMS Levels V2 GBPCHF,M15: loaded successfully
+2	13:35:04.445	Custom indicator AIMS Entry Alert V1 GBPCHF,M15: loaded successfully
+2	13:35:04.465	Custom indicator CandleTimer GBPCHF,M15: loaded successfully
+2	13:35:04.667	Custom indicator #Signal_Bars_v6 GBPCHF,M15: loaded successfully
+2	13:35:04.693	Custom indicator TrendEnvelopes_v1 GBPCHF,M15: loaded successfully
+2	13:35:04.716	Custom indicator guppy_multiple_moving_averages GBPCHF,M15: loaded successfully
+2	13:35:04.742	Custom indicator wedges GBPCHF,M15: loaded successfully
+2	13:35:04.949	Custom indicator AIMS AO V.2.1 GBPCHF,M15: loaded successfully
+2	13:35:04.974	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M15: loaded successfully
+2	13:35:05.000	Custom indicator RSI Divergence Levels GBPCHF,M15: loaded successfully
+2	13:35:05.028	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,M15: loaded successfully
+2	13:35:06.039	Custom indicator AIMS Levels V2 USDCAD,M15: loaded successfully
+2	13:35:06.241	Custom indicator AIMS Entry Alert V1 USDCAD,M15: loaded successfully
+2	13:35:06.260	Custom indicator CandleTimer USDCAD,M15: loaded successfully
+2	13:35:06.474	Custom indicator #Signal_Bars_v6 USDCAD,M15: loaded successfully
+2	13:35:06.498	Custom indicator TrendEnvelopes_v1 USDCAD,M15: loaded successfully
+2	13:35:06.521	Custom indicator guppy_multiple_moving_averages USDCAD,M15: loaded successfully
+2	13:35:06.547	Custom indicator wedges USDCAD,M15: loaded successfully
+2	13:35:06.746	Custom indicator AIMS AO V.2.1 USDCAD,M15: loaded successfully
+2	13:35:06.771	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: loaded successfully
+2	13:35:06.797	Custom indicator RSI Divergence Levels USDCAD,M15: loaded successfully
+2	13:35:06.822	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: loaded successfully
+2	13:35:06.867	Expert Admiral - Mini Terminal USDCAD,M15: loaded successfully
+2	13:35:07.943	Custom indicator AIMS Levels V2 NZDCAD,M15: loaded successfully
+2	13:35:08.141	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: loaded successfully
+2	13:35:08.161	Custom indicator CandleTimer NZDCAD,M15: loaded successfully
+2	13:35:08.361	Custom indicator #Signal_Bars_v6 NZDCAD,M15: loaded successfully
+2	13:35:08.387	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: loaded successfully
+2	13:35:08.410	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: loaded successfully
+2	13:35:08.437	Custom indicator wedges NZDCAD,M15: loaded successfully
+2	13:35:08.637	Custom indicator AIMS AO V.2.1 NZDCAD,M15: loaded successfully
+2	13:35:08.663	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: loaded successfully
+2	13:35:08.689	Custom indicator RSI Divergence Levels NZDCAD,M15: loaded successfully
+2	13:35:08.716	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: loaded successfully
+2	13:35:08.754	Expert Admiral - Mini Terminal NZDCAD,M15: loaded successfully
+2	13:35:09.795	Custom indicator AIMS Levels V2 WTI,M15: loaded successfully
+2	13:35:09.991	Custom indicator AIMS Entry Alert V1 WTI,M15: loaded successfully
+2	13:35:10.008	Custom indicator CandleTimer WTI,M15: loaded successfully
+2	13:35:10.213	Custom indicator #Signal_Bars_v6 WTI,M15: loaded successfully
+2	13:35:10.238	Custom indicator TrendEnvelopes_v1 WTI,M15: loaded successfully
+2	13:35:10.263	Custom indicator guppy_multiple_moving_averages WTI,M15: loaded successfully
+2	13:35:10.289	Custom indicator wedges WTI,M15: loaded successfully
+2	13:35:10.508	Custom indicator AIMS AO V.2.1 WTI,M15: loaded successfully
+2	13:35:10.534	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: loaded successfully
+2	13:35:10.560	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	13:35:10.588	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: loaded successfully
+2	13:35:11.466	Custom indicator AIMS Levels V2 GBPNZD,M15: loaded successfully
+2	13:35:11.674	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: loaded successfully
+2	13:35:11.695	Custom indicator CandleTimer GBPNZD,M15: loaded successfully
+2	13:35:11.903	Custom indicator #Signal_Bars_v6 GBPNZD,M15: loaded successfully
+2	13:35:11.929	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: loaded successfully
+2	13:35:11.952	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: loaded successfully
+2	13:35:11.977	Custom indicator wedges GBPNZD,M15: loaded successfully
+2	13:35:12.179	Custom indicator AIMS AO V.2.1 GBPNZD,M15: loaded successfully
+2	13:35:12.204	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: loaded successfully
+2	13:35:12.230	Custom indicator RSI Divergence Levels GBPNZD,M15: loaded successfully
+2	13:35:12.252	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: loaded successfully
+2	13:35:13.258	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	13:35:13.455	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	13:35:13.469	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	13:35:13.651	Custom indicator #Signal_Bars_v6 EURNZD,H1: loaded successfully
+2	13:35:13.678	Custom indicator TrendEnvelopes_v1 EURNZD,H1: loaded successfully
+2	13:35:13.701	Custom indicator guppy_multiple_moving_averages EURNZD,H1: loaded successfully
+2	13:35:13.729	Custom indicator wedges EURNZD,H1: loaded successfully
+2	13:35:13.940	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	13:35:13.969	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: loaded successfully
+2	13:35:13.996	Custom indicator RSI Divergence Levels EURNZD,H1: loaded successfully
+2	13:35:14.023	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: loaded successfully
+2	13:35:14.629	Custom indicator CandleTimer [NQ100],Daily: loaded successfully
+2	13:35:14.663	Expert Admiral - Mini Terminal [NQ100],Daily: loaded successfully
+0	13:35:21.208	LiveUpdate: updater - started for 'C:\Program Files (x86)\Admiral Markets MT4'
+0	13:35:21.210	LiveUpdate: updater - start admin updater
+1	13:35:24.373	'23904412': connect failed [Connection échouée]
+0	13:35:31.999	'23904412': login on AdmiralMarkets-Demo through Access Point #6 (ping: 208.63 ms)
+3	13:35:38.319	Main pumping: timeout on stop
+0	13:35:38.722	Notifications: 'Classical RSI bearish divergence on:  GBPCHF' sent to 'A37163A9'
+1	13:35:39.904	'23904412': datacenter connecting failed [6]
+2	13:35:40.969	Custom indicator CandleTimer EURUSD,Daily: removed
+2	13:35:40.974	Custom indicator AIMS Levels V2 [CAC40],M15: removed
+2	13:35:40.974	Custom indicator AIMS Entry Alert V1 [CAC40],M15: removed
+2	13:35:40.977	Custom indicator CandleTimer [CAC40],M15: removed
+2	13:35:40.977	Custom indicator #Signal_Bars_v6 [CAC40],M15: removed
+2	13:35:40.979	Custom indicator TrendEnvelopes_v1 [CAC40],M15: removed
+2	13:35:40.983	Custom indicator guppy_multiple_moving_averages [CAC40],M15: removed
+2	13:35:40.987	Custom indicator wedges [CAC40],M15: removed
+2	13:35:40.987	Custom indicator AIMS AO V.2.1 [CAC40],M15: removed
+2	13:35:40.990	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: removed
+2	13:35:40.993	Custom indicator RSI Divergence Levels [CAC40],M15: removed
+2	13:35:40.996	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: removed
+2	13:35:41.002	Expert Admiral - Mini Terminal [DAX30],Daily: removed
+2	13:35:41.008	Custom indicator CandleTimer [DAX30],Daily: removed
+2	13:35:41.015	Custom indicator CandleTimer [DJI30],Daily: removed
+2	13:35:41.021	Expert Admiral - Mini Terminal AUDUSD,Daily: removed
+2	13:35:41.025	Custom indicator CandleTimer AUDUSD,Daily: removed
+2	13:35:41.033	Custom indicator CandleTimer NZDJPY,Daily: removed
+2	13:35:41.038	Expert Admiral - Mini Terminal EURNZD,M15: removed
+2	13:35:41.040	Custom indicator AIMS Levels V2 EURNZD,M15: removed
+2	13:35:41.040	Custom indicator AIMS Entry Alert V1 EURNZD,M15: removed
+2	13:35:41.042	Custom indicator CandleTimer EURNZD,M15: removed
+2	13:35:41.042	Custom indicator #Signal_Bars_v6 EURNZD,M15: removed
+2	13:35:41.046	Custom indicator TrendEnvelopes_v1 EURNZD,M15: removed
+2	13:35:41.050	Custom indicator guppy_multiple_moving_averages EURNZD,M15: removed
+2	13:35:41.054	Custom indicator wedges EURNZD,M15: removed
+2	13:35:41.055	Custom indicator AIMS AO V.2.1 EURNZD,M15: removed
+2	13:35:41.057	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M15: removed
+2	13:35:41.060	Custom indicator RSI Divergence Levels EURNZD,M15: removed
+2	13:35:41.063	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M15: removed
+2	13:35:41.069	Custom indicator AIMS Levels V2 GOLD,M15: removed
+2	13:35:41.069	Custom indicator AIMS Entry Alert V1 GOLD,M15: removed
+2	13:35:41.073	Custom indicator CandleTimer GOLD,M15: removed
+2	13:35:41.073	Custom indicator #Signal_Bars_v6 GOLD,M15: removed
+2	13:35:41.077	Custom indicator TrendEnvelopes_v1 GOLD,M15: removed
+2	13:35:41.082	Custom indicator guppy_multiple_moving_averages GOLD,M15: removed
+2	13:35:41.087	Custom indicator wedges GOLD,M15: removed
+2	13:35:41.087	Custom indicator AIMS AO V.2.1 GOLD,M15: removed
+2	13:35:41.092	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: removed
+2	13:35:41.096	Custom indicator RSI Divergence Levels GOLD,M15: removed
+2	13:35:41.102	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: removed
+2	13:35:41.114	Custom indicator CandleTimer GBPUSD,Daily: removed
+2	13:35:41.125	Custom indicator CandleTimer USDJPY,Daily: removed
+2	13:35:41.132	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	13:35:41.135	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	13:35:41.135	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	13:35:41.138	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	13:35:41.138	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	13:35:41.141	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	13:35:41.143	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	13:35:41.146	Custom indicator wedges GBPAUD,Daily: removed
+2	13:35:41.147	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	13:35:41.152	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	13:35:41.155	Custom indicator RSI Divergence Levels GBPAUD,Daily: removed
+2	13:35:41.159	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	13:35:41.166	Expert Admiral - Mini Terminal CADJPY,M15: removed
+2	13:35:41.168	Custom indicator AIMS Levels V2 CADJPY,M15: removed
+2	13:35:41.168	Custom indicator AIMS Entry Alert V1 CADJPY,M15: removed
+2	13:35:41.170	Custom indicator CandleTimer CADJPY,M15: removed
+2	13:35:41.170	Custom indicator #Signal_Bars_v6 CADJPY,M15: removed
+2	13:35:41.173	Custom indicator TrendEnvelopes_v1 CADJPY,M15: removed
+2	13:35:41.175	Custom indicator guppy_multiple_moving_averages CADJPY,M15: removed
+2	13:35:41.178	Custom indicator wedges CADJPY,M15: removed
+2	13:35:41.178	Custom indicator AIMS AO V.2.1 CADJPY,M15: removed
+2	13:35:41.181	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: removed
+2	13:35:41.183	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	13:35:41.186	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: removed
+2	13:35:41.191	Custom indicator AIMS Levels V2 GBPCHF,M15: removed
+2	13:35:41.191	Custom indicator AIMS Entry Alert V1 GBPCHF,M15: removed
+2	13:35:41.193	Custom indicator CandleTimer GBPCHF,M15: removed
+2	13:35:41.194	Custom indicator #Signal_Bars_v6 GBPCHF,M15: removed
+2	13:35:41.196	Custom indicator TrendEnvelopes_v1 GBPCHF,M15: removed
+2	13:35:41.199	Custom indicator guppy_multiple_moving_averages GBPCHF,M15: removed
+2	13:35:41.202	Custom indicator wedges GBPCHF,M15: removed
+2	13:35:41.202	Custom indicator AIMS AO V.2.1 GBPCHF,M15: removed
+2	13:35:41.205	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M15: removed
+2	13:35:41.207	Custom indicator RSI Divergence Levels GBPCHF,M15: removed
+2	13:35:41.210	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,M15: removed
+2	13:35:41.216	Expert Admiral - Mini Terminal USDCAD,M15: removed
+2	13:35:41.217	Custom indicator AIMS Levels V2 USDCAD,M15: removed
+2	13:35:41.217	Custom indicator AIMS Entry Alert V1 USDCAD,M15: removed
+2	13:35:41.220	Custom indicator CandleTimer USDCAD,M15: removed
+2	13:35:41.220	Custom indicator #Signal_Bars_v6 USDCAD,M15: removed
+2	13:35:41.222	Custom indicator TrendEnvelopes_v1 USDCAD,M15: removed
+2	13:35:41.225	Custom indicator guppy_multiple_moving_averages USDCAD,M15: removed
+2	13:35:41.228	Custom indicator wedges USDCAD,M15: removed
+2	13:35:41.228	Custom indicator AIMS AO V.2.1 USDCAD,M15: removed
+2	13:35:41.230	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: removed
+2	13:35:41.233	Custom indicator RSI Divergence Levels USDCAD,M15: removed
+2	13:35:41.236	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: removed
+2	13:35:41.241	Expert Admiral - Mini Terminal NZDCAD,M15: removed
+2	13:35:41.242	Custom indicator AIMS Levels V2 NZDCAD,M15: removed
+2	13:35:41.242	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: removed
+2	13:35:41.244	Custom indicator CandleTimer NZDCAD,M15: removed
+2	13:35:41.244	Custom indicator #Signal_Bars_v6 NZDCAD,M15: removed
+2	13:35:41.247	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: removed
+2	13:35:41.249	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: removed
+2	13:35:41.252	Custom indicator wedges NZDCAD,M15: removed
+2	13:35:41.252	Custom indicator AIMS AO V.2.1 NZDCAD,M15: removed
+2	13:35:41.255	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: removed
+2	13:35:41.258	Custom indicator RSI Divergence Levels NZDCAD,M15: removed
+2	13:35:41.261	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: removed
+2	13:35:41.267	Custom indicator AIMS Levels V2 WTI,M15: removed
+2	13:35:41.267	Custom indicator AIMS Entry Alert V1 WTI,M15: removed
+2	13:35:41.269	Custom indicator CandleTimer WTI,M15: removed
+2	13:35:41.269	Custom indicator #Signal_Bars_v6 WTI,M15: removed
+2	13:35:41.271	Custom indicator TrendEnvelopes_v1 WTI,M15: removed
+2	13:35:41.274	Custom indicator guppy_multiple_moving_averages WTI,M15: removed
+2	13:35:41.276	Custom indicator wedges WTI,M15: removed
+2	13:35:41.276	Custom indicator AIMS AO V.2.1 WTI,M15: removed
+2	13:35:41.279	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: removed
+2	13:35:41.281	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	13:35:41.284	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: removed
+2	13:35:41.288	Custom indicator AIMS Levels V2 GBPNZD,M15: removed
+2	13:35:41.288	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: removed
+2	13:35:41.290	Custom indicator CandleTimer GBPNZD,M15: removed
+2	13:35:41.290	Custom indicator #Signal_Bars_v6 GBPNZD,M15: removed
+2	13:35:41.292	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: removed
+2	13:35:41.294	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: removed
+2	13:35:41.297	Custom indicator wedges GBPNZD,M15: removed
+2	13:35:41.297	Custom indicator AIMS AO V.2.1 GBPNZD,M15: removed
+2	13:35:41.299	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: removed
+2	13:35:41.302	Custom indicator RSI Divergence Levels GBPNZD,M15: removed
+2	13:35:41.304	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: removed
+2	13:35:41.308	Custom indicator AIMS Levels V2 EURNZD,H1: removed
+2	13:35:41.308	Custom indicator AIMS Entry Alert V1 EURNZD,H1: removed
+2	13:35:41.310	Custom indicator CandleTimer EURNZD,H1: removed
+2	13:35:41.310	Custom indicator #Signal_Bars_v6 EURNZD,H1: removed
+2	13:35:41.312	Custom indicator TrendEnvelopes_v1 EURNZD,H1: removed
+2	13:35:41.314	Custom indicator guppy_multiple_moving_averages EURNZD,H1: removed
+2	13:35:41.317	Custom indicator wedges EURNZD,H1: removed
+2	13:35:41.317	Custom indicator AIMS AO V.2.1 EURNZD,H1: removed
+2	13:35:41.319	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: removed
+2	13:35:41.321	Custom indicator RSI Divergence Levels EURNZD,H1: removed
+2	13:35:41.323	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: removed
+2	13:35:41.332	Expert Admiral - Mini Terminal [NQ100],Daily: removed
+2	13:35:41.336	Custom indicator CandleTimer [NQ100],Daily: removed
+0	13:35:41.660	'23904412': auto connecting to a better access point Access Point #4 (ping is 283.34 ms)
+1	13:35:41.689	MQL5.community: authorization failed
+0	13:35:41.943	Admiral Markets build 1260 stopped
+0	13:35:34.208	LiveUpdate: admin updater - started for 'C:\Program Files (x86)\Admiral Markets MT4'
+0	13:35:34.215	LiveUpdate: admin updater - try to close terminal
+0	13:35:44.963	LiveUpdate: admin updater - files update started
+0	13:35:45.029	LiveUpdate: copied from 'C:\Users\SRIE\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files (x86)\Admiral Markets MT4\metaeditor.exe'
+0	13:35:45.058	LiveUpdate: copied from 'C:\Users\SRIE\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files (x86)\Admiral Markets MT4\terminal.exe'
+0	13:35:45.058	LiveUpdate: admin updater - files update finished
+0	13:35:45.058	LiveUpdate: admin updater - clean obsolete data
+0	13:35:45.058	LiveUpdate: admin updater - finished for 'C:\Program Files (x86)\Admiral Markets MT4'
+0	13:35:45.082	LiveUpdate: updater - start terminal
+0	13:35:48.373	LiveUpdate: updater - finished for 'C:\Program Files (x86)\Admiral Markets MT4'
+0	13:35:52.107	LiveUpdate: update C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4\MQL4 folder started
+0	13:35:52.420	LiveUpdate: update C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4\MQL4 folder finished
+0	13:35:52.771	Admiral Markets build 1280 started (Admiral Markets Group AS)
+0	13:35:52.771	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1632 / 8014 Mb, Disk: 11 / 237 Gb, GMT+3
+0	13:35:52.771	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+0	13:35:56.869	Sources recompilation started
+0	13:36:37.321	Sources recompilation finished (28 compiled in 40484 msec)
+2	13:36:38.925	Custom indicator CandleTimer EURUSD,Daily: loaded successfully
+2	13:36:39.155	Custom indicator AIMS Levels V2 [CAC40],M15: loaded successfully
+2	13:36:39.343	Custom indicator AIMS Entry Alert V1 [CAC40],M15: loaded successfully
+2	13:36:39.361	Custom indicator CandleTimer [CAC40],M15: loaded successfully
+2	13:36:39.549	Custom indicator #Signal_Bars_v6 [CAC40],M15: loaded successfully
+2	13:36:39.574	Custom indicator TrendEnvelopes_v1 [CAC40],M15: loaded successfully
+2	13:36:39.593	Custom indicator guppy_multiple_moving_averages [CAC40],M15: loaded successfully
+2	13:36:39.616	Custom indicator wedges [CAC40],M15: loaded successfully
+2	13:36:39.815	Custom indicator AIMS AO V.2.1 [CAC40],M15: loaded successfully
+2	13:36:39.839	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: loaded successfully
+2	13:36:39.864	Custom indicator RSI Divergence Levels [CAC40],M15: loaded successfully
+2	13:36:39.891	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: loaded successfully
+2	13:36:40.399	Custom indicator CandleTimer [DAX30],Daily: loaded successfully
+2	13:36:40.438	Expert Admiral - Mini Terminal [DAX30],Daily: loaded successfully
+2	13:36:40.497	Custom indicator CandleTimer [DJI30],Daily: loaded successfully
+2	13:36:40.556	Custom indicator CandleTimer AUDUSD,Daily: loaded successfully
+2	13:36:40.592	Expert Admiral - Mini Terminal AUDUSD,Daily: loaded successfully
+2	13:36:40.650	Custom indicator CandleTimer NZDJPY,Daily: loaded successfully
+2	13:36:40.878	Custom indicator AIMS Levels V2 EURNZD,M15: loaded successfully
+2	13:36:41.065	Custom indicator AIMS Entry Alert V1 EURNZD,M15: loaded successfully
+2	13:36:41.083	Custom indicator CandleTimer EURNZD,M15: loaded successfully
+2	13:36:41.269	Custom indicator #Signal_Bars_v6 EURNZD,M15: loaded successfully
+2	13:36:41.291	Custom indicator TrendEnvelopes_v1 EURNZD,M15: loaded successfully
+2	13:36:41.311	Custom indicator guppy_multiple_moving_averages EURNZD,M15: loaded successfully
+2	13:36:41.334	Custom indicator wedges EURNZD,M15: loaded successfully
+2	13:36:41.521	Custom indicator AIMS AO V.2.1 EURNZD,M15: loaded successfully
+2	13:36:41.543	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M15: loaded successfully
+2	13:36:41.566	Custom indicator RSI Divergence Levels EURNZD,M15: loaded successfully
+2	13:36:41.591	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M15: loaded successfully
+2	13:36:41.629	Expert Admiral - Mini Terminal EURNZD,M15: loaded successfully
+2	13:36:42.505	Custom indicator AIMS Levels V2 GOLD,M15: loaded successfully
+2	13:36:42.693	Custom indicator AIMS Entry Alert V1 GOLD,M15: loaded successfully
+2	13:36:42.711	Custom indicator CandleTimer GOLD,M15: loaded successfully
+2	13:36:42.898	Custom indicator #Signal_Bars_v6 GOLD,M15: loaded successfully
+2	13:36:42.919	Custom indicator TrendEnvelopes_v1 GOLD,M15: loaded successfully
+2	13:36:42.940	Custom indicator guppy_multiple_moving_averages GOLD,M15: loaded successfully
+2	13:36:42.963	Custom indicator wedges GOLD,M15: loaded successfully
+2	13:36:43.151	Custom indicator AIMS AO V.2.1 GOLD,M15: loaded successfully
+2	13:36:43.173	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: loaded successfully
+2	13:36:43.196	Custom indicator RSI Divergence Levels GOLD,M15: loaded successfully
+2	13:36:43.221	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: loaded successfully
+2	13:36:43.844	Custom indicator CandleTimer GBPUSD,Daily: loaded successfully
+2	13:36:43.898	Custom indicator CandleTimer USDJPY,Daily: loaded successfully
+2	13:36:44.132	Custom indicator AIMS Levels V2 GBPAUD,Daily: loaded successfully
+2	13:36:44.332	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: loaded successfully
+2	13:36:44.351	Custom indicator CandleTimer GBPAUD,Daily: loaded successfully
+2	13:36:44.548	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: loaded successfully
+2	13:36:44.571	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: loaded successfully
+2	13:36:44.592	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: loaded successfully
+2	13:36:44.615	Custom indicator wedges GBPAUD,Daily: loaded successfully
+2	13:36:44.803	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: loaded successfully
+2	13:36:44.825	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: loaded successfully
+2	13:36:44.848	Custom indicator RSI Divergence Levels GBPAUD,Daily: loaded successfully
+2	13:36:44.873	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: loaded successfully
+2	13:36:44.911	Expert Admiral - Mini Terminal GBPAUD,Daily: loaded successfully
+2	13:36:45.551	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	13:36:45.738	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	13:36:45.756	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	13:36:45.944	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	13:36:45.966	Custom indicator TrendEnvelopes_v1 CADJPY,M15: loaded successfully
+2	13:36:45.986	Custom indicator guppy_multiple_moving_averages CADJPY,M15: loaded successfully
+2	13:36:46.009	Custom indicator wedges CADJPY,M15: loaded successfully
+2	13:36:46.197	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	13:36:46.219	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	13:36:46.243	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	13:36:46.267	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: loaded successfully
+2	13:36:46.306	Expert Admiral - Mini Terminal CADJPY,M15: loaded successfully
+2	13:36:47.175	Custom indicator AIMS Levels V2 GBPCHF,M15: loaded successfully
+2	13:36:47.364	Custom indicator AIMS Entry Alert V1 GBPCHF,M15: loaded successfully
+2	13:36:47.381	Custom indicator CandleTimer GBPCHF,M15: loaded successfully
+2	13:36:47.578	Custom indicator #Signal_Bars_v6 GBPCHF,M15: loaded successfully
+2	13:36:47.599	Custom indicator TrendEnvelopes_v1 GBPCHF,M15: loaded successfully
+2	13:36:47.620	Custom indicator guppy_multiple_moving_averages GBPCHF,M15: loaded successfully
+2	13:36:47.643	Custom indicator wedges GBPCHF,M15: loaded successfully
+2	13:36:47.830	Custom indicator AIMS AO V.2.1 GBPCHF,M15: loaded successfully
+2	13:36:47.850	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M15: loaded successfully
+2	13:36:47.874	Custom indicator RSI Divergence Levels GBPCHF,M15: loaded successfully
+2	13:36:47.897	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,M15: loaded successfully
+2	13:36:48.796	Custom indicator AIMS Levels V2 USDCAD,M15: loaded successfully
+2	13:36:49.003	Custom indicator AIMS Entry Alert V1 USDCAD,M15: loaded successfully
+2	13:36:49.022	Custom indicator CandleTimer USDCAD,M15: loaded successfully
+2	13:36:49.216	Custom indicator #Signal_Bars_v6 USDCAD,M15: loaded successfully
+2	13:36:49.238	Custom indicator TrendEnvelopes_v1 USDCAD,M15: loaded successfully
+2	13:36:49.258	Custom indicator guppy_multiple_moving_averages USDCAD,M15: loaded successfully
+2	13:36:49.281	Custom indicator wedges USDCAD,M15: loaded successfully
+2	13:36:49.471	Custom indicator AIMS AO V.2.1 USDCAD,M15: loaded successfully
+2	13:36:49.493	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: loaded successfully
+2	13:36:49.515	Custom indicator RSI Divergence Levels USDCAD,M15: loaded successfully
+2	13:36:49.540	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: loaded successfully
+2	13:36:49.579	Expert Admiral - Mini Terminal USDCAD,M15: loaded successfully
+2	13:36:50.424	Custom indicator AIMS Levels V2 NZDCAD,M15: loaded successfully
+2	13:36:50.605	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: loaded successfully
+2	13:36:50.623	Custom indicator CandleTimer NZDCAD,M15: loaded successfully
+2	13:36:50.811	Custom indicator #Signal_Bars_v6 NZDCAD,M15: loaded successfully
+2	13:36:50.833	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: loaded successfully
+2	13:36:50.853	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: loaded successfully
+2	13:36:50.875	Custom indicator wedges NZDCAD,M15: loaded successfully
+2	13:36:51.064	Custom indicator AIMS AO V.2.1 NZDCAD,M15: loaded successfully
+2	13:36:51.084	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: loaded successfully
+2	13:36:51.108	Custom indicator RSI Divergence Levels NZDCAD,M15: loaded successfully
+2	13:36:51.132	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: loaded successfully
+2	13:36:51.170	Expert Admiral - Mini Terminal NZDCAD,M15: loaded successfully
+2	13:36:52.018	Custom indicator AIMS Levels V2 WTI,M15: loaded successfully
+2	13:36:52.206	Custom indicator AIMS Entry Alert V1 WTI,M15: loaded successfully
+2	13:36:52.225	Custom indicator CandleTimer WTI,M15: loaded successfully
+2	13:36:52.410	Custom indicator #Signal_Bars_v6 WTI,M15: loaded successfully
+2	13:36:52.432	Custom indicator TrendEnvelopes_v1 WTI,M15: loaded successfully
+2	13:36:52.452	Custom indicator guppy_multiple_moving_averages WTI,M15: loaded successfully
+2	13:36:52.475	Custom indicator wedges WTI,M15: loaded successfully
+2	13:36:52.663	Custom indicator AIMS AO V.2.1 WTI,M15: loaded successfully
+2	13:36:52.685	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: loaded successfully
+2	13:36:52.708	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	13:36:52.733	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: loaded successfully
+2	13:36:53.591	Custom indicator AIMS Levels V2 GBPNZD,M15: loaded successfully
+2	13:36:53.782	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: loaded successfully
+2	13:36:53.800	Custom indicator CandleTimer GBPNZD,M15: loaded successfully
+2	13:36:53.988	Custom indicator #Signal_Bars_v6 GBPNZD,M15: loaded successfully
+2	13:36:54.010	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: loaded successfully
+2	13:36:54.029	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: loaded successfully
+2	13:36:54.052	Custom indicator wedges GBPNZD,M15: loaded successfully
+2	13:36:54.243	Custom indicator AIMS AO V.2.1 GBPNZD,M15: loaded successfully
+2	13:36:54.265	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: loaded successfully
+2	13:36:54.288	Custom indicator RSI Divergence Levels GBPNZD,M15: loaded successfully
+2	13:36:54.313	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: loaded successfully
+2	13:36:55.180	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	13:36:55.368	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	13:36:55.385	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	13:36:55.571	Custom indicator #Signal_Bars_v6 EURNZD,H1: loaded successfully
+2	13:36:55.593	Custom indicator TrendEnvelopes_v1 EURNZD,H1: loaded successfully
+2	13:36:55.613	Custom indicator guppy_multiple_moving_averages EURNZD,H1: loaded successfully
+2	13:36:55.635	Custom indicator wedges EURNZD,H1: loaded successfully
+2	13:36:55.824	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	13:36:55.846	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: loaded successfully
+2	13:36:55.869	Custom indicator RSI Divergence Levels EURNZD,H1: loaded successfully
+2	13:36:55.893	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: loaded successfully
+2	13:36:56.420	Custom indicator CandleTimer [NQ100],Daily: loaded successfully
+2	13:36:56.458	Expert Admiral - Mini Terminal [NQ100],Daily: loaded successfully
+0	13:36:56.803	Notifications: 'Classical RSI bearish divergence on:  GBPCHF' sent to 'A37163A9'
+0	13:37:00.205	'23904412': login on AdmiralMarkets-Demo through Access Point #4 (ping: 283.34 ms)
+0	13:37:08.766	'23904412': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 283.34 ms)
+0	13:37:09.604	'23904412': previous successful authorization performed from 154.120.155.163
+0	13:37:26.218	Notifications: 'Classical RSI bearish divergence on:  GBPNZD' sent to 'A37163A9'
+2	13:37:48.020	Expert Admiral - Mini Terminal EURUSD,Daily: loaded successfully
+1	14:01:59.794	'23904412': ping failed
+1	14:01:59.796	'23904412': datacenter connecting failed [6]
+1	14:02:00.594	'23904412': connect failed [Connection échouée]
+0	14:02:32.908	'23904412': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	14:02:35.563	'23904412': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	14:02:36.719	'23904412': previous successful authorization performed from 154.120.155.163
+0	14:02:46.062	'23904412': ping to current access point Access Point #2 is 242.90 ms
+0	14:05:30.201	Notifications: 'order opened #188380704 buy 0.10 GBPJPY at 137.549 sl: 137.232' sent to 'A37163A9'
+2	14:10:55.453	Expert Admiral - Mini Terminal EURUSD,Daily: removed
+2	14:10:55.568	Custom indicator CandleTimer EURUSD,Daily: removed
+2	14:10:55.572	Custom indicator AIMS Levels V2 [CAC40],M15: removed
+2	14:10:55.572	Custom indicator AIMS Entry Alert V1 [CAC40],M15: removed
+2	14:10:55.578	Custom indicator CandleTimer [CAC40],M15: removed
+2	14:10:55.578	Custom indicator #Signal_Bars_v6 [CAC40],M15: removed
+2	14:10:55.582	Custom indicator TrendEnvelopes_v1 [CAC40],M15: removed
+2	14:10:55.584	Custom indicator guppy_multiple_moving_averages [CAC40],M15: removed
+2	14:10:55.589	Custom indicator wedges [CAC40],M15: removed
+2	14:10:55.589	Custom indicator AIMS AO V.2.1 [CAC40],M15: removed
+2	14:10:55.594	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: removed
+2	14:10:55.598	Custom indicator RSI Divergence Levels [CAC40],M15: removed
+2	14:10:55.604	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: removed
+2	14:10:55.616	Expert Admiral - Mini Terminal [DAX30],Daily: removed
+2	14:10:55.683	Custom indicator CandleTimer [DAX30],Daily: removed
+2	14:10:55.689	Custom indicator CandleTimer [DJI30],Daily: removed
+2	14:10:55.715	Expert Admiral - Mini Terminal AUDUSD,Daily: removed
+2	14:10:55.792	Custom indicator CandleTimer AUDUSD,Daily: removed
+2	14:10:55.800	Custom indicator CandleTimer NZDJPY,Daily: removed
+2	14:10:55.806	Expert Admiral - Mini Terminal EURNZD,M15: removed
+2	14:10:55.870	Custom indicator AIMS Levels V2 EURNZD,M15: removed
+2	14:10:55.870	Custom indicator AIMS Entry Alert V1 EURNZD,M15: removed
+2	14:10:55.873	Custom indicator CandleTimer EURNZD,M15: removed
+2	14:10:55.873	Custom indicator #Signal_Bars_v6 EURNZD,M15: removed
+2	14:10:55.875	Custom indicator TrendEnvelopes_v1 EURNZD,M15: removed
+2	14:10:55.878	Custom indicator guppy_multiple_moving_averages EURNZD,M15: removed
+2	14:10:55.882	Custom indicator wedges EURNZD,M15: removed
+2	14:10:55.882	Custom indicator AIMS AO V.2.1 EURNZD,M15: removed
+2	14:10:55.884	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M15: removed
+2	14:10:55.887	Custom indicator RSI Divergence Levels EURNZD,M15: removed
+2	14:10:55.890	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M15: removed
+2	14:10:55.896	Custom indicator AIMS Levels V2 GOLD,M15: removed
+2	14:10:55.897	Custom indicator AIMS Entry Alert V1 GOLD,M15: removed
+2	14:10:55.899	Custom indicator CandleTimer GOLD,M15: removed
+2	14:10:55.899	Custom indicator #Signal_Bars_v6 GOLD,M15: removed
+2	14:10:55.902	Custom indicator TrendEnvelopes_v1 GOLD,M15: removed
+2	14:10:55.906	Custom indicator guppy_multiple_moving_averages GOLD,M15: removed
+2	14:10:55.910	Custom indicator wedges GOLD,M15: removed
+2	14:10:55.911	Custom indicator AIMS AO V.2.1 GOLD,M15: removed
+2	14:10:55.914	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: removed
+2	14:10:55.918	Custom indicator RSI Divergence Levels GOLD,M15: removed
+2	14:10:55.922	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: removed
+2	14:10:55.933	Custom indicator CandleTimer GBPUSD,Daily: removed
+2	14:10:55.942	Custom indicator CandleTimer USDJPY,Daily: removed
+2	14:10:55.947	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	14:10:56.020	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	14:10:56.020	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	14:10:56.023	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	14:10:56.023	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	14:10:56.026	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	14:10:56.028	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	14:10:56.031	Custom indicator wedges GBPAUD,Daily: removed
+2	14:10:56.031	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	14:10:56.035	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	14:10:56.039	Custom indicator RSI Divergence Levels GBPAUD,Daily: removed
+2	14:10:56.043	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	14:10:56.054	Expert Admiral - Mini Terminal CADJPY,M15: removed
+2	14:10:56.130	Custom indicator AIMS Levels V2 CADJPY,M15: removed
+2	14:10:56.130	Custom indicator AIMS Entry Alert V1 CADJPY,M15: removed
+2	14:10:56.133	Custom indicator CandleTimer CADJPY,M15: removed
+2	14:10:56.133	Custom indicator #Signal_Bars_v6 CADJPY,M15: removed
+2	14:10:56.135	Custom indicator TrendEnvelopes_v1 CADJPY,M15: removed
+2	14:10:56.137	Custom indicator guppy_multiple_moving_averages CADJPY,M15: removed
+2	14:10:56.141	Custom indicator wedges CADJPY,M15: removed
+2	14:10:56.141	Custom indicator AIMS AO V.2.1 CADJPY,M15: removed
+2	14:10:56.144	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: removed
+2	14:10:56.146	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	14:10:56.150	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: removed
+2	14:10:56.156	Custom indicator AIMS Levels V2 GBPCHF,M15: removed
+2	14:10:56.157	Custom indicator AIMS Entry Alert V1 GBPCHF,M15: removed
+2	14:10:56.159	Custom indicator CandleTimer GBPCHF,M15: removed
+2	14:10:56.159	Custom indicator #Signal_Bars_v6 GBPCHF,M15: removed
+2	14:10:56.161	Custom indicator TrendEnvelopes_v1 GBPCHF,M15: removed
+2	14:10:56.165	Custom indicator guppy_multiple_moving_averages GBPCHF,M15: removed
+2	14:10:56.168	Custom indicator wedges GBPCHF,M15: removed
+2	14:10:56.168	Custom indicator AIMS AO V.2.1 GBPCHF,M15: removed
+2	14:10:56.171	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M15: removed
+2	14:10:56.173	Custom indicator RSI Divergence Levels GBPCHF,M15: removed
+2	14:10:56.176	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,M15: removed
+2	14:10:56.184	Expert Admiral - Mini Terminal USDCAD,M15: removed
+2	14:10:56.257	Custom indicator AIMS Levels V2 USDCAD,M15: removed
+2	14:10:56.257	Custom indicator AIMS Entry Alert V1 USDCAD,M15: removed
+2	14:10:56.259	Custom indicator CandleTimer USDCAD,M15: removed
+2	14:10:56.260	Custom indicator #Signal_Bars_v6 USDCAD,M15: removed
+2	14:10:56.262	Custom indicator TrendEnvelopes_v1 USDCAD,M15: removed
+2	14:10:56.265	Custom indicator guppy_multiple_moving_averages USDCAD,M15: removed
+2	14:10:56.268	Custom indicator wedges USDCAD,M15: removed
+2	14:10:56.269	Custom indicator AIMS AO V.2.1 USDCAD,M15: removed
+2	14:10:56.273	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: removed
+2	14:10:56.277	Custom indicator RSI Divergence Levels USDCAD,M15: removed
+2	14:10:56.281	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: removed
+2	14:10:56.291	Expert Admiral - Mini Terminal NZDCAD,M15: removed
+2	14:10:56.363	Custom indicator AIMS Levels V2 NZDCAD,M15: removed
+2	14:10:56.363	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: removed
+2	14:10:56.367	Custom indicator CandleTimer NZDCAD,M15: removed
+2	14:10:56.369	Custom indicator #Signal_Bars_v6 NZDCAD,M15: removed
+2	14:10:56.373	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: removed
+2	14:10:56.376	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: removed
+2	14:10:56.381	Custom indicator wedges NZDCAD,M15: removed
+2	14:10:56.381	Custom indicator AIMS AO V.2.1 NZDCAD,M15: removed
+2	14:10:56.385	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: removed
+2	14:10:56.389	Custom indicator RSI Divergence Levels NZDCAD,M15: removed
+2	14:10:56.393	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: removed
+2	14:10:56.403	Custom indicator AIMS Levels V2 WTI,M15: removed
+2	14:10:56.403	Custom indicator AIMS Entry Alert V1 WTI,M15: removed
+2	14:10:56.408	Custom indicator CandleTimer WTI,M15: removed
+2	14:10:56.408	Custom indicator #Signal_Bars_v6 WTI,M15: removed
+2	14:10:56.412	Custom indicator TrendEnvelopes_v1 WTI,M15: removed
+2	14:10:56.416	Custom indicator guppy_multiple_moving_averages WTI,M15: removed
+2	14:10:56.420	Custom indicator wedges WTI,M15: removed
+2	14:10:56.420	Custom indicator AIMS AO V.2.1 WTI,M15: removed
+2	14:10:56.425	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: removed
+2	14:10:56.429	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	14:10:56.433	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: removed
+2	14:10:56.439	Custom indicator AIMS Levels V2 GBPNZD,M15: removed
+2	14:10:56.439	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: removed
+2	14:10:56.443	Custom indicator CandleTimer GBPNZD,M15: removed
+2	14:10:56.443	Custom indicator #Signal_Bars_v6 GBPNZD,M15: removed
+2	14:10:56.447	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: removed
+2	14:10:56.450	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: removed
+2	14:10:56.456	Custom indicator wedges GBPNZD,M15: removed
+2	14:10:56.457	Custom indicator AIMS AO V.2.1 GBPNZD,M15: removed
+2	14:10:56.461	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: removed
+2	14:10:56.466	Custom indicator RSI Divergence Levels GBPNZD,M15: removed
+2	14:10:56.470	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: removed
+2	14:10:56.480	Custom indicator AIMS Levels V2 EURNZD,H1: removed
+2	14:10:56.480	Custom indicator AIMS Entry Alert V1 EURNZD,H1: removed
+2	14:10:56.482	Custom indicator CandleTimer EURNZD,H1: removed
+2	14:10:56.482	Custom indicator #Signal_Bars_v6 EURNZD,H1: removed
+2	14:10:56.484	Custom indicator TrendEnvelopes_v1 EURNZD,H1: removed
+2	14:10:56.487	Custom indicator guppy_multiple_moving_averages EURNZD,H1: removed
+2	14:10:56.490	Custom indicator wedges EURNZD,H1: removed
+2	14:10:56.490	Custom indicator AIMS AO V.2.1 EURNZD,H1: removed
+2	14:10:56.494	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: removed
+2	14:10:56.496	Custom indicator RSI Divergence Levels EURNZD,H1: removed
+2	14:10:56.501	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: removed
+2	14:10:56.512	Expert Admiral - Mini Terminal [NQ100],Daily: removed
+2	14:10:56.570	Custom indicator CandleTimer [NQ100],Daily: removed
+0	14:10:57.397	Admiral Markets build 1280 stopped
+0	15:28:49.947	Admiral Markets build 1280 started (Admiral Markets Group AS)
+0	15:28:49.947	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1637 / 8014 Mb, Disk: 11 / 237 Gb, GMT+3
+0	15:28:49.947	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	15:28:54.493	Custom indicator CandleTimer EURUSD,Daily: loaded successfully
+2	15:28:54.519	Expert Admiral - Mini Terminal EURUSD,Daily: loaded successfully
+2	15:28:54.822	Custom indicator AIMS Levels V2 [CAC40],M15: loaded successfully
+2	15:28:54.904	Custom indicator AIMS Entry Alert V1 [CAC40],M15: loaded successfully
+2	15:28:54.911	Custom indicator CandleTimer [CAC40],M15: loaded successfully
+2	15:28:55.003	Custom indicator #Signal_Bars_v6 [CAC40],M15: loaded successfully
+2	15:28:55.015	Custom indicator TrendEnvelopes_v1 [CAC40],M15: loaded successfully
+2	15:28:55.026	Custom indicator guppy_multiple_moving_averages [CAC40],M15: loaded successfully
+2	15:28:55.037	Custom indicator wedges [CAC40],M15: loaded successfully
+2	15:28:55.121	Custom indicator AIMS AO V.2.1 [CAC40],M15: loaded successfully
+2	15:28:55.131	Custom indicator IVT_MACD_ZERO_LAG [CAC40],M15: loaded successfully
+2	15:28:55.141	Custom indicator RSI Divergence Levels [CAC40],M15: loaded successfully
+2	15:28:55.153	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],M15: loaded successfully
+2	15:28:55.566	Custom indicator CandleTimer [DAX30],Daily: loaded successfully
+2	15:28:55.585	Expert Admiral - Mini Terminal [DAX30],Daily: loaded successfully
+2	15:28:55.644	Custom indicator CandleTimer [DJI30],Daily: loaded successfully
+2	15:28:55.683	Custom indicator CandleTimer AUDUSD,Daily: loaded successfully
+2	15:28:55.703	Expert Admiral - Mini Terminal AUDUSD,Daily: loaded successfully
+2	15:28:55.743	Custom indicator CandleTimer NZDJPY,Daily: loaded successfully
+2	15:28:55.863	Custom indicator AIMS Levels V2 EURNZD,M15: loaded successfully
+2	15:28:55.949	Custom indicator AIMS Entry Alert V1 EURNZD,M15: loaded successfully
+2	15:28:55.958	Custom indicator CandleTimer EURNZD,M15: loaded successfully
+2	15:28:56.041	Custom indicator #Signal_Bars_v6 EURNZD,M15: loaded successfully
+2	15:28:56.052	Custom indicator TrendEnvelopes_v1 EURNZD,M15: loaded successfully
+2	15:28:56.061	Custom indicator guppy_multiple_moving_averages EURNZD,M15: loaded successfully
+2	15:28:56.070	Custom indicator wedges EURNZD,M15: loaded successfully
+2	15:28:56.156	Custom indicator AIMS AO V.2.1 EURNZD,M15: loaded successfully
+2	15:28:56.166	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M15: loaded successfully
+2	15:28:56.177	Custom indicator RSI Divergence Levels EURNZD,M15: loaded successfully
+2	15:28:56.188	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,M15: loaded successfully
+2	15:28:56.206	Expert Admiral - Mini Terminal EURNZD,M15: loaded successfully
+2	15:28:56.710	Custom indicator AIMS Levels V2 GOLD,M15: loaded successfully
+2	15:28:56.790	Custom indicator AIMS Entry Alert V1 GOLD,M15: loaded successfully
+2	15:28:56.798	Custom indicator CandleTimer GOLD,M15: loaded successfully
+2	15:28:56.875	Custom indicator #Signal_Bars_v6 GOLD,M15: loaded successfully
+2	15:28:56.884	Custom indicator TrendEnvelopes_v1 GOLD,M15: loaded successfully
+2	15:28:56.893	Custom indicator guppy_multiple_moving_averages GOLD,M15: loaded successfully
+2	15:28:56.902	Custom indicator wedges GOLD,M15: loaded successfully
+2	15:28:56.979	Custom indicator AIMS AO V.2.1 GOLD,M15: loaded successfully
+2	15:28:56.988	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: loaded successfully
+2	15:28:56.998	Custom indicator RSI Divergence Levels GOLD,M15: loaded successfully
+2	15:28:57.008	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,M15: loaded successfully
+2	15:28:57.327	Custom indicator CandleTimer GBPUSD,Daily: loaded successfully
+2	15:28:57.360	Custom indicator CandleTimer USDJPY,Daily: loaded successfully
+2	15:28:57.473	Custom indicator AIMS Levels V2 GBPAUD,Daily: loaded successfully
+2	15:28:57.552	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: loaded successfully
+2	15:28:57.559	Custom indicator CandleTimer GBPAUD,Daily: loaded successfully
+2	15:28:57.636	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: loaded successfully
+2	15:28:57.645	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: loaded successfully
+2	15:28:57.654	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: loaded successfully
+2	15:28:57.663	Custom indicator wedges GBPAUD,Daily: loaded successfully
+2	15:28:57.741	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: loaded successfully
+2	15:28:57.750	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: loaded successfully
+2	15:28:57.761	Custom indicator RSI Divergence Levels GBPAUD,Daily: loaded successfully
+2	15:28:57.771	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: loaded successfully
+2	15:28:57.788	Expert Admiral - Mini Terminal GBPAUD,Daily: loaded successfully
+2	15:28:58.228	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	15:28:58.310	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	15:28:58.327	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	15:28:58.507	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	15:28:58.528	Custom indicator TrendEnvelopes_v1 CADJPY,M15: loaded successfully
+2	15:28:58.548	Custom indicator guppy_multiple_moving_averages CADJPY,M15: loaded successfully
+2	15:28:58.570	Custom indicator wedges CADJPY,M15: loaded successfully
+2	15:28:58.755	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	15:28:58.776	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	15:28:58.799	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	15:28:58.823	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M15: loaded successfully
+2	15:28:58.860	Expert Admiral - Mini Terminal CADJPY,M15: loaded successfully
+2	15:28:59.842	Custom indicator AIMS Levels V2 GBPCHF,M15: loaded successfully
+2	15:29:00.034	Custom indicator AIMS Entry Alert V1 GBPCHF,M15: loaded successfully
+2	15:29:00.052	Custom indicator CandleTimer GBPCHF,M15: loaded successfully
+2	15:29:00.240	Custom indicator #Signal_Bars_v6 GBPCHF,M15: loaded successfully
+2	15:29:00.261	Custom indicator TrendEnvelopes_v1 GBPCHF,M15: loaded successfully
+2	15:29:00.281	Custom indicator guppy_multiple_moving_averages GBPCHF,M15: loaded successfully
+2	15:29:00.308	Custom indicator wedges GBPCHF,M15: loaded successfully
+2	15:29:00.488	Custom indicator AIMS AO V.2.1 GBPCHF,M15: loaded successfully
+2	15:29:00.507	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M15: loaded successfully
+2	15:29:00.530	Custom indicator RSI Divergence Levels GBPCHF,M15: loaded successfully
+2	15:29:00.555	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,M15: loaded successfully
+2	15:29:01.558	Custom indicator AIMS Levels V2 USDCAD,M15: loaded successfully
+2	15:29:01.747	Custom indicator AIMS Entry Alert V1 USDCAD,M15: loaded successfully
+2	15:29:01.765	Custom indicator CandleTimer USDCAD,M15: loaded successfully
+2	15:29:01.953	Custom indicator #Signal_Bars_v6 USDCAD,M15: loaded successfully
+2	15:29:01.975	Custom indicator TrendEnvelopes_v1 USDCAD,M15: loaded successfully
+2	15:29:01.995	Custom indicator guppy_multiple_moving_averages USDCAD,M15: loaded successfully
+2	15:29:02.018	Custom indicator wedges USDCAD,M15: loaded successfully
+2	15:29:02.207	Custom indicator AIMS AO V.2.1 USDCAD,M15: loaded successfully
+2	15:29:02.229	Custom indicator IVT_MACD_ZERO_LAG USDCAD,M15: loaded successfully
+2	15:29:02.252	Custom indicator RSI Divergence Levels USDCAD,M15: loaded successfully
+2	15:29:02.277	Custom indicator JoeChalhoub_FXForecasterV1 USDCAD,M15: loaded successfully
+2	15:29:02.315	Expert Admiral - Mini Terminal USDCAD,M15: loaded successfully
+2	15:29:03.301	Custom indicator AIMS Levels V2 NZDCAD,M15: loaded successfully
+2	15:29:03.492	Custom indicator AIMS Entry Alert V1 NZDCAD,M15: loaded successfully
+2	15:29:03.510	Custom indicator CandleTimer NZDCAD,M15: loaded successfully
+2	15:29:03.711	Custom indicator #Signal_Bars_v6 NZDCAD,M15: loaded successfully
+2	15:29:03.733	Custom indicator TrendEnvelopes_v1 NZDCAD,M15: loaded successfully
+2	15:29:03.753	Custom indicator guppy_multiple_moving_averages NZDCAD,M15: loaded successfully
+2	15:29:03.775	Custom indicator wedges NZDCAD,M15: loaded successfully
+2	15:29:03.966	Custom indicator AIMS AO V.2.1 NZDCAD,M15: loaded successfully
+2	15:29:03.988	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,M15: loaded successfully
+2	15:29:04.011	Custom indicator RSI Divergence Levels NZDCAD,M15: loaded successfully
+2	15:29:04.034	Custom indicator JoeChalhoub_FXForecasterV1 NZDCAD,M15: loaded successfully
+2	15:29:04.064	Expert Admiral - Mini Terminal NZDCAD,M15: loaded successfully
+2	15:29:05.054	Custom indicator AIMS Levels V2 WTI,M15: loaded successfully
+2	15:29:05.243	Custom indicator AIMS Entry Alert V1 WTI,M15: loaded successfully
+2	15:29:05.260	Custom indicator CandleTimer WTI,M15: loaded successfully
+2	15:29:05.448	Custom indicator #Signal_Bars_v6 WTI,M15: loaded successfully
+2	15:29:05.470	Custom indicator TrendEnvelopes_v1 WTI,M15: loaded successfully
+2	15:29:05.490	Custom indicator guppy_multiple_moving_averages WTI,M15: loaded successfully
+2	15:29:05.513	Custom indicator wedges WTI,M15: loaded successfully
+2	15:29:05.701	Custom indicator AIMS AO V.2.1 WTI,M15: loaded successfully
+2	15:29:05.723	Custom indicator IVT_MACD_ZERO_LAG WTI,M15: loaded successfully
+2	15:29:05.746	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	15:29:05.774	Custom indicator JoeChalhoub_FXForecasterV1 WTI,M15: loaded successfully
+2	15:29:06.659	Custom indicator AIMS Levels V2 GBPNZD,M15: loaded successfully
+2	15:29:06.844	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: loaded successfully
+2	15:29:06.858	Custom indicator CandleTimer GBPNZD,M15: loaded successfully
+2	15:29:07.046	Custom indicator #Signal_Bars_v6 GBPNZD,M15: loaded successfully
+2	15:29:07.068	Custom indicator TrendEnvelopes_v1 GBPNZD,M15: loaded successfully
+2	15:29:07.089	Custom indicator guppy_multiple_moving_averages GBPNZD,M15: loaded successfully
+2	15:29:07.110	Custom indicator wedges GBPNZD,M15: loaded successfully
+2	15:29:07.285	Custom indicator AIMS AO V.2.1 GBPNZD,M15: loaded successfully
+2	15:29:07.307	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: loaded successfully
+2	15:29:07.331	Custom indicator RSI Divergence Levels GBPNZD,M15: loaded successfully
+2	15:29:07.354	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,M15: loaded successfully
+2	15:29:08.321	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	15:29:08.511	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	15:29:08.529	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	15:29:08.711	Custom indicator #Signal_Bars_v6 EURNZD,H1: loaded successfully
+2	15:29:08.733	Custom indicator TrendEnvelopes_v1 EURNZD,H1: loaded successfully
+2	15:29:08.754	Custom indicator guppy_multiple_moving_averages EURNZD,H1: loaded successfully
+2	15:29:08.777	Custom indicator wedges EURNZD,H1: loaded successfully
+2	15:29:08.958	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	15:29:08.980	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: loaded successfully
+2	15:29:09.006	Custom indicator RSI Divergence Levels EURNZD,H1: loaded successfully
+2	15:29:09.031	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,H1: loaded successfully
+2	15:29:09.594	Custom indicator CandleTimer [NQ100],Daily: loaded successfully
+2	15:29:09.634	Expert Admiral - Mini Terminal [NQ100],Daily: loaded successfully
+0	15:29:13.399	'23904412': login on AdmiralMarkets-Demo through Access Point #2 (ping: 242.90 ms)
+0	15:29:21.645	'23904412': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 242.90 ms)
+0	15:29:24.305	'23904412': previous successful authorization performed from 154.120.155.163
+0	15:29:55.737	'23904412': auto connecting to a better access point Access Point #6 (ping is 427.57 ms)
+0	15:29:57.749	'23904412': login on AdmiralMarkets-Demo through Access Point #6 (ping: 427.57 ms)
+0	15:30:05.782	'23904412': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 427.57 ms)
+0	15:30:08.436	'23904412': previous successful authorization performed from 41.74.210.89
+0	15:34:19.730	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.72756
+0	15:34:20.419	'23904412': order #187749442 buy 0.20 AUDUSD at 0.71044 was modified -> sl: 0.00000 tp: 0.72756
+0	15:34:25.216	Notifications: 'order #187749442 buy 0.20 AUDUSD at 0.71044 modified: sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.72756' sent to 'A37163A9'
+0	15:34:27.222	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.00000 tp: 0.72756 -> sl: 0.69767 tp: 0.72756
+0	15:34:27.783	'23904412': order #187749442 buy 0.20 AUDUSD at 0.71044 was modified -> sl: 0.69767 tp: 0.72756
+0	15:34:29.674	Notifications: 'order #187749442 buy 0.20 AUDUSD at 0.71044 modified: sl: 0.00000 tp: 0.72756 -> sl: 0.69767 tp: 0.72756' sent to 'A37163A9'
+0	15:35:22.778	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.69767 tp: 0.72756 -> sl: 0.71118 tp: 0.72756
+0	15:35:35.217	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.69767 tp: 0.72756 -> sl: 0.71233 tp: 0.72756
+1	15:35:41.760	'23904412': datacenter connecting failed [6]
+1	15:35:44.300	'23904412': connect failed [Connection échouée]
+0	15:35:50.488	'23904412': login on AdmiralMarkets-Demo through Access Point #4 (ping: 497.72 ms)
+0	15:36:01.795	'23904412': login on AdmiralMarkets-Demo through Access Point #2 (ping: 326.39 ms)
+0	15:36:18.302	'23904412': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 326.39 ms)
+0	15:36:21.166	'23904412': previous successful authorization performed from 41.74.210.89
+0	15:36:33.572	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.69767 tp: 0.72756 -> sl: 0.71061 tp: 0.72756
+0	15:36:34.094	'23904412': order #187749442 buy 0.20 AUDUSD at 0.71044 was modified -> sl: 0.71061 tp: 0.72756
+0	15:36:35.686	Notifications: 'order #187749442 buy 0.20 AUDUSD at 0.71044 modified: sl: 0.69767 tp: 0.72756 -> sl: 0.71061 tp: 0.72756' sent to 'A37163A9'
+0	15:37:33.258	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.71061 tp: 0.72756 -> sl: 0.71463 tp: 0.72756
+0	15:37:36.684	'23904412': order #187749442 buy 0.20 AUDUSD at 0.71044 was modified -> sl: 0.71463 tp: 0.72756
+0	15:37:41.876	Notifications: 'order #187749442 buy 0.20 AUDUSD at 0.71044 modified: sl: 0.71061 tp: 0.72756 -> sl: 0.71463 tp: 0.72756' sent to 'A37163A9'
+0	15:38:09.042	'23904412': modify order #187749442 buy 0.20 AUDUSD at 0.71044 sl: 0.71463 tp: 0.72756 -> sl: 0.71262 tp: 0.72756
+0	15:38:37.462	'23904412': order #187749442 buy 0.20 AUDUSD at 0.71044 was modified -> sl: 0.71262 tp: 0.72756
+0	15:38:46.367	Notifications: 'order #187749442 buy 0.20 AUDUSD at 0.71044 modified: sl: 0.71463 tp: 0.72756 -> sl: 0.71262 tp: 0.72756' sent to 'A37163A9'
+2	15:39:40.864	Expert Admiral - Mini Terminal [DAX30],M5: removed
+2	15:39:40.869	Custom indicator CandleTimer [DAX30],M5: removed
+2	15:39:41.084	Custom indicator AIMS Levels V2 [DAX30],M5: loaded successfully
+2	15:39:41.349	Custom indicator AIMS Entry Alert V1 [DAX30],M5: loaded successfully
+2	15:39:41.379	Custom indicator CandleTimer [DAX30],M5: loaded successfully
+2	15:39:41.690	Custom indicator #Signal_Bars_v6 [DAX30],M5: loaded successfully
+2	15:39:41.728	Custom indicator TrendEnvelopes_v1 [DAX30],M5: loaded successfully
+2	15:39:41.765	Custom indicator guppy_multiple_moving_averages [DAX30],M5: loaded successfully
+2	15:39:41.807	Custom indicator wedges [DAX30],M5: loaded successfully
+2	15:39:42.129	Custom indicator AIMS AO V.2.1 [DAX30],M5: loaded successfully
+2	15:39:42.145	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M5: loaded successfully
+2	15:39:42.163	Custom indicator RSI Divergence Levels [DAX30],M5: loaded successfully
+2	15:39:42.189	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M5: loaded successfully
+2	15:41:29.444	Custom indicator CandleTimer [DJI30],M5: removed
+2	15:41:29.733	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	15:41:30.072	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	15:41:30.102	Custom indicator CandleTimer [DJI30],M5: loaded successfully
+2	15:41:30.447	Custom indicator #Signal_Bars_v6 [DJI30],M5: loaded successfully
+2	15:41:30.489	Custom indicator TrendEnvelopes_v1 [DJI30],M5: loaded successfully
+2	15:41:30.530	Custom indicator guppy_multiple_moving_averages [DJI30],M5: loaded successfully
+2	15:41:30.568	Custom indicator wedges [DJI30],M5: loaded successfully
+2	15:41:30.898	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	15:41:30.937	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: loaded successfully
+2	15:41:30.975	Custom indicator RSI Divergence Levels [DJI30],M5: loaded successfully
+2	15:41:31.023	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M5: loaded successfully
+2	15:43:16.281	Expert Admiral - Trade Terminal [DJI30],M5: loaded successfully
+2	15:43:24.386	Expert Admiral - Trade Terminal [DJI30],M5: removed
+2	15:43:24.388	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	15:43:24.388	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	15:43:24.392	Custom indicator CandleTimer [DJI30],M5: removed
+2	15:43:24.392	Custom indicator #Signal_Bars_v6 [DJI30],M5: removed
+2	15:43:24.395	Custom indicator TrendEnvelopes_v1 [DJI30],M5: removed
+2	15:43:24.398	Custom indicator guppy_multiple_moving_averages [DJI30],M5: removed
+2	15:43:24.400	Custom indicator wedges [DJI30],M5: removed
+2	15:43:24.400	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	15:43:24.402	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: removed
+2	15:43:24.405	Custom indicator RSI Divergence Levels [DJI30],M5: removed
+2	15:43:24.408	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M5: removed
+2	15:43:28.996	Expert Admiral - Mini Terminal [DAX30],M5: loaded successfully
+2	15:48:54.126	Expert Admiral - Mini Terminal [DAX30],M5: removed
+2	15:48:54.127	Custom indicator AIMS Levels V2 [DAX30],M5: removed
+2	15:48:54.127	Custom indicator AIMS Entry Alert V1 [DAX30],M5: removed
+2	15:48:54.129	Custom indicator CandleTimer [DAX30],M5: removed
+2	15:48:54.130	Custom indicator #Signal_Bars_v6 [DAX30],M5: removed
+2	15:48:54.132	Custom indicator TrendEnvelopes_v1 [DAX30],M5: removed
+2	15:48:54.137	Custom indicator guppy_multiple_moving_averages [DAX30],M5: removed
+2	15:48:54.140	Custom indicator wedges [DAX30],M5: removed
+2	15:48:54.141	Custom indicator AIMS AO V.2.1 [DAX30],M5: removed
+2	15:48:54.144	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M5: removed
+2	15:48:54.147	Custom indicator RSI Divergence Levels [DAX30],M5: removed
+2	15:48:54.150	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M5: removed
+2	15:48:54.223	Custom indicator CandleTimer [DAX30],M5: loaded successfully
+2	15:57:05.975	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	15:57:06.074	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	15:57:06.083	Custom indicator CandleTimer GBPJPY,H1: loaded successfully
+2	15:57:06.178	Custom indicator #Signal_Bars_v6 GBPJPY,H1: loaded successfully
+2	15:57:06.194	Custom indicator TrendEnvelopes_v1 GBPJPY,H1: loaded successfully
+2	15:57:06.208	Custom indicator guppy_multiple_moving_averages GBPJPY,H1: loaded successfully
+2	15:57:06.223	Custom indicator wedges GBPJPY,H1: loaded successfully
+2	15:57:06.418	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	15:57:06.440	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	15:57:06.453	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	15:57:06.471	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,H1: loaded successfully

@@ -1,0 +1,132 @@
+2021.05.31; 06:35:17; SET   ; INFO   ; ###########################################################################
+2021.05.31; 06:35:17; SET   ; INFO   ; Expert:                        TraderAgent [GER30.cash] - 1300050632
+2021.05.31; 06:35:17; SET   ; INFO   ; Symbol:                        GER30.cash
+2021.05.31; 06:35:17; SET   ; INFO   ; Period:                        M15
+2021.05.31; 06:35:17; SET   ; INFO   ; Account Company:               FF Trader S.R.O.
+2021.05.31; 06:35:17; SET   ; INFO   ; Account Currency:              USD
+2021.05.31; 06:35:17; SET   ; INFO   ; Account Leverage:              100
+2021.05.31; 06:35:17; SET   ; INFO   ; Account Server:                FTMO-Server2
+2021.05.31; 06:35:17; SET   ; INFO   ; Expert Enabled:                True
+2021.05.31; 06:35:17; SET   ; INFO   ; Trade Allowed                  True
+2021.05.31; 06:35:17; SET   ; INFO   ; Dll Allowed                    True
+2021.05.31; 06:35:17; SET   ; INFO   ; Demo:                          True
+2021.05.31; 06:35:17; SET   ; INFO   ; Testing:                       False
+2021.05.31; 06:35:17; SET   ; INFO   ;  
+2021.05.31; 06:35:17; SET   ; INFO   ; Digits:                        2
+2021.05.31; 06:35:17; SET   ; INFO   ; Spread:                        230.0
+2021.05.31; 06:35:17; SET   ; INFO   ; Point:                         0.01000000
+2021.05.31; 06:35:17; SET   ; INFO   ; Stop level:                    0.0
+2021.05.31; 06:35:17; SET   ; INFO   ; Lot size:                      10
+2021.05.31; 06:35:17; SET   ; INFO   ; Minimum LOT:                   0.01000
+2021.05.31; 06:35:17; SET   ; INFO   ; Maximum LOT:                   1000
+2021.05.31; 06:35:17; SET   ; INFO   ; Lot step:                      0.010
+2021.05.31; 06:35:17; SET   ; INFO   ; Lot cost (init):               0.00
+2021.05.31; 06:35:17; SET   ; INFO   ; Lot cost (req):                3775.31
+2021.05.31; 06:35:17; SET   ; INFO   ; Lot cost (maintenance):        0.00
+2021.05.31; 06:35:17; SET   ; INFO   ; Lot cost (hedged):             0.00
+2021.05.31; 06:35:17; SET   ; INFO   ; Tick value:                    0.12199000
+2021.05.31; 06:35:17; SET   ; INFO   ; Tick size:                     0.01000000
+2021.05.31; 06:35:17; SET   ; INFO   ; ###########################################################################
+2021.05.31; 06:35:17; SET   ; INFO   ; Log level:                     TRACE  
+2021.05.31; 06:35:17; NORMAL; TRACE  ; Pip multiplier (auto): 100, Digits: 2
+2021.05.31; 06:35:17; NORMAL; INFO   ; Product version: v2.6.0 Build 360
+2021.05.31; 06:35:17; NORMAL; INFO   ; IceLock DLL version: 2.6.0.313
+2021.05.31; 06:35:17; NORMAL; INFO   ; IceLock fingerprint: 2C7D41D7E5A7E0904B17A8A2EE182960FFBA3C3E
+2021.05.31; 06:35:18; NORMAL; SUCCESS; ***************************************************************************
+2021.05.31; 06:35:18; NORMAL; SUCCESS; *** Your COMPUTER ID: 934FDE03ABE08E0ED58DEE86C1DE299D626B9484
+2021.05.31; 06:35:18; NORMAL; SUCCESS; ***************************************************************************
+2021.05.31; 06:35:18; NORMAL; TRACE  ; Delete predefined lines...
+2021.05.31; 06:35:18; NORMAL; TRACE  ; #5981240: NO global SL, and NO chart line SL, reset from OrderStopLoss: 15534.23
+2021.05.31; 06:35:18; NORMAL; TRACE  ; #5981240: NO global TP, and NO chart line TP, set the default TakeProfit
+2021.05.31; 06:35:19; ORDER ; INFO   ; Modify order! Ticket #5981240:  Type: SELL, LOT: 0.11, OpenPrice: 15478.35, ClosePrice: 15473.65, Pips: 470.0, SL: 15534.23 (5588.0), TP: 15398.35 (8000.0), Magic: 0, Comment: , Swap: 0.00, Commission: -0.21, OpenTime: 2021.05.31 05:58:32
+2021.05.31; 06:37:16; NORMAL; TRACE  ; Toolbar 'Show/hide control lines' state changed to Off
+2021.05.31; 06:37:18; NORMAL; TRACE  ; #5981240: Chart SL line deleted! Create again. Global price: 15534.23
+2021.05.31; 06:37:18; NORMAL; TRACE  ; Toolbar 'Show/hide control lines' state changed to On
+2021.05.31; 06:37:21; NORMAL; TRACE  ; Toolbar 'Show/hide control lines' state changed to Off
+2021.05.31; 06:37:23; NORMAL; TRACE  ; #5981240: Chart SL line deleted! Create again. Global price: 15534.23
+2021.05.31; 06:37:23; NORMAL; TRACE  ; Toolbar 'Show/hide control lines' state changed to On
+2021.05.31; 06:39:05; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to Off
+2021.05.31; 06:39:17; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to On
+2021.05.31; 06:40:20; NORMAL; TRACE  ; Toolbar 'Use trend lines' state changed to On
+2021.05.31; 06:40:21; NORMAL; TRACE  ; Toolbar 'Use trend lines' state changed to Off
+2021.05.31; 06:40:24; NORMAL; TRACE  ; Toolbar 'Use trend lines' state changed to On
+2021.05.31; 06:40:34; NORMAL; TRACE  ; Toolbar 'Use channels' state changed to On
+2021.05.31; 06:40:38; NORMAL; TRACE  ; Toolbar 'Open opposite orders' state changed to On
+2021.05.31; 06:40:39; NORMAL; TRACE  ; Toolbar 'Open after new candle' state changed to On
+2021.05.31; 06:40:40; NORMAL; TRACE  ; Toolbar 'OCO mode' state changed to On
+2021.05.31; 06:40:43; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to On
+2021.05.31; 06:40:51; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to Off
+2021.05.31; 06:40:52; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to On
+2021.05.31; 06:41:05; NORMAL; TRACE  ; Toolbar 'Delete trend line after open' state changed to Off
+2021.05.31; 06:41:06; NORMAL; TRACE  ; Toolbar 'OCO mode' state changed to Off
+2021.05.31; 06:41:07; NORMAL; TRACE  ; Toolbar 'Open after new candle' state changed to Off
+2021.05.31; 06:41:09; NORMAL; TRACE  ; Toolbar 'Open opposite orders' state changed to Off
+2021.05.31; 06:41:10; NORMAL; TRACE  ; Toolbar 'Use channels' state changed to Off
+2021.05.31; 06:41:11; NORMAL; TRACE  ; Toolbar 'Use trend lines' state changed to Off
+2021.05.31; 06:41:15; NORMAL; TRACE  ; Toolbar 'Make screenshots' state changed to On
+2021.05.31; 06:41:17; NORMAL; TRACE  ; Toolbar 'Make screenshots' state changed to Off
+2021.05.31; 06:41:19; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to Off
+2021.05.31; 06:41:21; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to On
+2021.05.31; 06:41:22; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to Off
+2021.05.31; 06:42:43; NORMAL; TRACE  ; Pressed button: Breakeven
+2021.05.31; 06:42:43; NORMAL; INFO   ; #5981240: Break-even...
+2021.05.31; 06:42:43; ORDER ; INFO   ; Modify order! Ticket #5981240:  Type: SELL, LOT: 0.11, OpenPrice: 15478.35, ClosePrice: 15474.15, Pips: 420.0, SL: 15478.35 (0.0), TP: 15398.35 (8000.0), Magic: 0, Comment: , Swap: 0.00, Commission: -0.21, OpenTime: 2021.05.31 05:58:32
+2021.05.31; 06:42:55; NORMAL; TRACE  ; #5981240: Order StopLoss changed! OrderStopLoss: 15531.21, Global price: 15478.35
+2021.05.31; 06:43:10; NORMAL; TRACE  ; #5981240: Order StopLoss changed! OrderStopLoss: 15546.69, Global price: 15531.21
+2021.05.31; 06:43:47; NORMAL; TRACE  ; #5981240: Order StopLoss changed! OrderStopLoss: 15536.88, Global price: 15546.69
+2021.05.31; 06:43:58; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to On
+2021.05.31; 06:44:06; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to Off
+2021.05.31; 06:44:08; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to On
+2021.05.31; 06:44:11; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to Off
+2021.05.31; 06:47:36; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to Off
+2021.05.31; 06:47:38; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to On
+2021.05.31; 06:47:40; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to Off
+2021.05.31; 06:47:41; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to On
+2021.05.31; 06:48:46; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to On
+2021.05.31; 06:49:45; NORMAL; TRACE  ; Toolbar 'Use predefined TP & SL' state changed to Off
+2021.05.31; 06:52:36; SET   ; INFO   ; ###########################################################################
+2021.05.31; 06:52:36; SET   ; INFO   ; Expert:                        TraderAgent [GER30.cash] - 1300050632
+2021.05.31; 06:52:36; SET   ; INFO   ; Symbol:                        GER30.cash
+2021.05.31; 06:52:36; SET   ; INFO   ; Period:                        M15
+2021.05.31; 06:52:36; SET   ; INFO   ; Account Company:               FF Trader S.R.O.
+2021.05.31; 06:52:36; SET   ; INFO   ; Account Currency:              USD
+2021.05.31; 06:52:36; SET   ; INFO   ; Account Leverage:              100
+2021.05.31; 06:52:36; SET   ; INFO   ; Account Server:                FTMO-Server2
+2021.05.31; 06:52:36; SET   ; INFO   ; Expert Enabled:                True
+2021.05.31; 06:52:36; SET   ; INFO   ; Trade Allowed                  True
+2021.05.31; 06:52:36; SET   ; INFO   ; Dll Allowed                    True
+2021.05.31; 06:52:36; SET   ; INFO   ; Demo:                          True
+2021.05.31; 06:52:36; SET   ; INFO   ; Testing:                       False
+2021.05.31; 06:52:36; SET   ; INFO   ;  
+2021.05.31; 06:52:36; SET   ; INFO   ; Digits:                        2
+2021.05.31; 06:52:36; SET   ; INFO   ; Spread:                        230.0
+2021.05.31; 06:52:36; SET   ; INFO   ; Point:                         0.01000000
+2021.05.31; 06:52:36; SET   ; INFO   ; Stop level:                    0.0
+2021.05.31; 06:52:36; SET   ; INFO   ; Lot size:                      10
+2021.05.31; 06:52:36; SET   ; INFO   ; Minimum LOT:                   0.01000
+2021.05.31; 06:52:36; SET   ; INFO   ; Maximum LOT:                   1000
+2021.05.31; 06:52:36; SET   ; INFO   ; Lot step:                      0.010
+2021.05.31; 06:52:37; SET   ; INFO   ; Lot cost (init):               0.00
+2021.05.31; 06:52:37; SET   ; INFO   ; Lot cost (req):                3776.14
+2021.05.31; 06:52:37; SET   ; INFO   ; Lot cost (maintenance):        0.00
+2021.05.31; 06:52:37; SET   ; INFO   ; Lot cost (hedged):             0.00
+2021.05.31; 06:52:37; SET   ; INFO   ; Tick value:                    0.12198600
+2021.05.31; 06:52:37; SET   ; INFO   ; Tick size:                     0.01000000
+2021.05.31; 06:52:37; SET   ; INFO   ; ###########################################################################
+2021.05.31; 06:52:37; SET   ; INFO   ; Log level:                     TRACE  
+2021.05.31; 06:52:37; NORMAL; TRACE  ; Pip multiplier (auto): 100, Digits: 2
+2021.05.31; 06:52:37; NORMAL; INFO   ; Product version: v2.6.0 Build 360
+2021.05.31; 06:52:37; NORMAL; INFO   ; IceLock DLL version: 2.6.0.313
+2021.05.31; 06:52:37; NORMAL; INFO   ; IceLock fingerprint: 2C7D41D7E5A7E0904B17A8A2EE182960FFBA3C3E
+2021.05.31; 06:52:37; NORMAL; SUCCESS; ***************************************************************************
+2021.05.31; 06:52:37; NORMAL; SUCCESS; *** Your COMPUTER ID: 934FDE03ABE08E0ED58DEE86C1DE299D626B9484
+2021.05.31; 06:52:37; NORMAL; SUCCESS; ***************************************************************************
+2021.05.31; 06:55:20; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to Off
+2021.05.31; 06:55:34; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to On
+2021.05.31; 06:58:54; NORMAL; TRACE  ; #5981240: Chart SL line moved! Line price: 15542.19, Global price: 15536.88
+2021.05.31; 06:58:54; ORDER ; INFO   ; Modify order! Ticket #5981240:  Type: SELL, LOT: 0.11, OpenPrice: 15478.35, ClosePrice: 15478.65, Pips: 30.0, SL: 15542.19 (6384.0), TP: 15398.35 (8000.0), Magic: 0, Comment: , Swap: 0.00, Commission: -0.21, OpenTime: 2021.05.31 05:58:32
+2021.05.31; 06:59:03; NORMAL; TRACE  ; Toolbar 'Show/hide windows' state changed to Off
+2021.05.31; 06:59:18; NORMAL; TRACE  ; #5981240: Chart SL line moved! Line price: 15538.43, Global price: 15542.19
+2021.05.31; 06:59:19; ORDER ; INFO   ; Modify order! Ticket #5981240:  Type: SELL, LOT: 0.11, OpenPrice: 15478.35, ClosePrice: 15478.65, Pips: 30.0, SL: 15538.43 (6008.0), TP: 15398.35 (8000.0), Magic: 0, Comment: , Swap: 0.00, Commission: -0.21, OpenTime: 2021.05.31 05:58:32
+2021.05.31; 06:59:27; NORMAL; TRACE  ; #5981240: Chart SL line moved! Line price: 15532.78, Global price: 15538.43
+2021.05.31; 06:59:27; ORDER ; INFO   ; Modify order! Ticket #5981240:  Type: SELL, LOT: 0.11, OpenPrice: 15478.35, ClosePrice: 15477.65, Pips: 70.0, SL: 15532.78 (5443.0), TP: 15398.35 (8000.0), Magic: 0, Comment: , Swap: 0.00, Commission: -0.21, OpenTime: 2021.05.31 05:58:32

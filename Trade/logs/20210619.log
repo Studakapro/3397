@@ -1,0 +1,577 @@
+1	00:03:09.792	'1300074430': connect failed [Connection échouée]
+0	00:04:12.790	'1300074430': login on FTMO-Server2 through DC 1 (ping: n/a)
+0	00:04:22.860	'1300074430': login datacenter on FTMO-Server2 through DC 1 (ping: n/a)
+0	00:04:23.460	'1300074430': previous successful authorization performed from 41.63.136.209
+0	00:04:55.893	'1300074430': auto connecting to a better access point DC 4 (ping is 224.02 ms)
+1	00:05:17.498	'1300074430': connect failed [Connection échouée]
+0	00:05:23.334	'1300074430': login on FTMO-Server2 through DC 3 (ping: 221.65 ms)
+0	00:05:25.280	'1300074430': login datacenter on FTMO-Server2 through DC 3 (ping: 221.65 ms)
+0	00:05:25.866	'1300074430': previous successful authorization performed from 41.63.136.209
+0	05:46:13.666	HistoryCenter: synchronize 'BTCUSD5'
+0	05:46:34.714	HistoryCenter: synchronize 'BTCUSD5'
+0	05:46:36.704	'1300074430': ping to current access point DC 3 is 214.86 ms
+0	05:46:36.864	HistoryCenter: 10960 bars imported in 'BTCUSD5'
+2	07:34:53.845	Custom indicator AIMS Entry Alert V1 GER30.cash,M5: removed
+2	07:34:53.869	Custom indicator CandleTimer GER30.cash,M5: removed
+2	07:34:53.943	Custom indicator #Signal_Bars_v6 GER30.cash,M5: removed
+2	07:34:53.947	Custom indicator TrendEnvelopes_v1 GER30.cash,M5: removed
+2	07:34:53.978	Custom indicator wedges GER30.cash,M5: removed
+2	07:34:54.018	Custom indicator Admiral Pivot GER30.cash,M5: removed
+2	07:34:54.044	Custom indicator AutoTrendChannel GER30.cash,M5: removed
+2	07:34:54.050	Custom indicator FRZ Channel Auto Plotter GER30.cash,M5: removed
+2	07:34:54.059	Custom indicator Forex Uranus direction GER30.cash,M5: removed
+2	07:34:54.069	Custom indicator aVSA clasters GER30.cash,M5: removed
+2	07:34:54.073	Custom indicator aVSA Golden Zone GER30.cash,M5: removed
+2	07:34:54.076	Custom indicator breakout-zones GER30.cash,M5: removed
+2	07:34:54.108	Custom indicator SL&TP Values GER30.cash,M5: removed
+2	07:34:54.114	Custom indicator PositionSizeCalculator GER30.cash,M5: removed
+2	07:34:54.139	Custom indicator DaVinci Truly News Indicator 2.3.95 GER30.cash,M5: removed
+2	07:34:54.139	Custom indicator AIMS AO V.2.1 GER30.cash,M5: removed
+2	07:34:54.151	Custom indicator IVT_MACD_ZERO_LAG GER30.cash,M5: removed
+2	07:34:54.188	Custom indicator RSI Divergence Levels GER30.cash,M5: removed
+2	07:34:54.229	Custom indicator RenkoMaker_Confirm GER30.cash,M5: removed
+2	07:34:54.283	Custom indicator FRZ Forex Market Session Indicator GER30.cash,M5: removed
+2	07:34:54.306	Custom indicator AIMS Entry Alert V1 US30.cash,Weekly: removed
+2	07:34:54.336	Custom indicator CandleTimer US30.cash,Weekly: removed
+2	07:34:54.347	Custom indicator #Signal_Bars_v6 US30.cash,Weekly: removed
+2	07:34:54.381	Custom indicator TrendEnvelopes_v1 US30.cash,Weekly: removed
+2	07:34:54.394	Custom indicator wedges US30.cash,Weekly: removed
+2	07:34:54.396	Custom indicator Admiral Pivot US30.cash,Weekly: removed
+2	07:34:54.415	Custom indicator AutoTrendChannel US30.cash,Weekly: removed
+2	07:34:54.416	Custom indicator FRZ Channel Auto Plotter US30.cash,Weekly: removed
+2	07:34:54.417	Custom indicator Forex Uranus direction US30.cash,Weekly: removed
+2	07:34:54.418	Custom indicator aVSA clasters US30.cash,Weekly: removed
+2	07:34:54.420	Custom indicator aVSA Golden Zone US30.cash,Weekly: removed
+2	07:34:54.421	Custom indicator breakout-zones US30.cash,Weekly: removed
+2	07:34:54.423	Custom indicator SL&TP Values US30.cash,Weekly: removed
+2	07:34:54.438	Custom indicator PositionSizeCalculator US30.cash,Weekly: removed
+2	07:34:54.471	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,Weekly: removed
+2	07:34:54.471	Custom indicator AIMS AO V.2.1 US30.cash,Weekly: removed
+2	07:34:54.484	Custom indicator IVT_MACD_ZERO_LAG US30.cash,Weekly: removed
+2	07:34:54.485	Custom indicator RSI Divergence Levels US30.cash,Weekly: removed
+2	07:34:54.486	Custom indicator RenkoMaker_Confirm US30.cash,Weekly: removed
+2	07:34:54.487	Custom indicator FRZ Forex Market Session Indicator US30.cash,Weekly: removed
+2	07:34:54.517	Custom indicator AIMS Entry Alert V1 XAUUSD,H1: removed
+2	07:34:54.522	Custom indicator CandleTimer XAUUSD,H1: removed
+2	07:34:54.552	Custom indicator #Signal_Bars_v6 XAUUSD,H1: removed
+2	07:34:54.560	Custom indicator TrendEnvelopes_v1 XAUUSD,H1: removed
+2	07:34:54.582	Custom indicator wedges XAUUSD,H1: removed
+2	07:34:54.599	Custom indicator Admiral Pivot XAUUSD,H1: removed
+2	07:34:54.600	Custom indicator AutoTrendChannel XAUUSD,H1: removed
+2	07:34:54.601	Custom indicator FRZ Channel Auto Plotter XAUUSD,H1: removed
+2	07:34:54.602	Custom indicator Forex Uranus direction XAUUSD,H1: removed
+2	07:34:54.608	Custom indicator aVSA clasters XAUUSD,H1: removed
+2	07:34:54.609	Custom indicator aVSA Golden Zone XAUUSD,H1: removed
+2	07:34:54.615	Custom indicator breakout-zones XAUUSD,H1: removed
+2	07:34:54.622	Custom indicator SL&TP Values XAUUSD,H1: removed
+2	07:34:54.624	Custom indicator PositionSizeCalculator XAUUSD,H1: removed
+2	07:34:54.625	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,H1: removed
+2	07:34:54.625	Custom indicator AIMS AO V.2.1 XAUUSD,H1: removed
+2	07:34:54.637	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,H1: removed
+2	07:34:54.646	Custom indicator RSI Divergence Levels XAUUSD,H1: removed
+2	07:34:54.647	Custom indicator RenkoMaker_Confirm XAUUSD,H1: removed
+2	07:34:54.649	Custom indicator FRZ Forex Market Session Indicator XAUUSD,H1: removed
+2	07:34:54.675	Custom indicator AIMS Entry Alert V1 USOIL.cash,M15: removed
+2	07:34:54.677	Custom indicator CandleTimer USOIL.cash,M15: removed
+2	07:34:54.677	Custom indicator #Signal_Bars_v6 USOIL.cash,M15: removed
+2	07:34:54.678	Custom indicator TrendEnvelopes_v1 USOIL.cash,M15: removed
+2	07:34:54.680	Custom indicator wedges USOIL.cash,M15: removed
+2	07:34:54.698	Custom indicator Admiral Pivot USOIL.cash,M15: removed
+2	07:34:54.699	Custom indicator AutoTrendChannel USOIL.cash,M15: removed
+2	07:34:54.701	Custom indicator FRZ Channel Auto Plotter USOIL.cash,M15: removed
+2	07:34:54.702	Custom indicator Forex Uranus direction USOIL.cash,M15: removed
+2	07:34:54.718	Custom indicator aVSA clasters USOIL.cash,M15: removed
+2	07:34:54.720	Custom indicator aVSA Golden Zone USOIL.cash,M15: removed
+2	07:34:54.721	Custom indicator breakout-zones USOIL.cash,M15: removed
+2	07:34:54.723	Custom indicator SL&TP Values USOIL.cash,M15: removed
+2	07:34:54.724	Custom indicator PositionSizeCalculator USOIL.cash,M15: removed
+2	07:34:54.725	Custom indicator DaVinci Truly News Indicator 2.3.95 USOIL.cash,M15: removed
+2	07:34:54.725	Custom indicator AIMS AO V.2.1 USOIL.cash,M15: removed
+2	07:34:54.740	Custom indicator IVT_MACD_ZERO_LAG USOIL.cash,M15: removed
+2	07:34:54.755	Custom indicator RSI Divergence Levels USOIL.cash,M15: removed
+2	07:34:54.757	Custom indicator RenkoMaker_Confirm USOIL.cash,M15: removed
+2	07:34:54.758	Custom indicator FRZ Forex Market Session Indicator USOIL.cash,M15: removed
+2	07:34:54.760	Custom indicator AIMS Entry Alert V1 FRA40.cash,M15: removed
+2	07:34:54.762	Custom indicator CandleTimer FRA40.cash,M15: removed
+2	07:34:54.762	Custom indicator #Signal_Bars_v6 FRA40.cash,M15: removed
+2	07:34:54.763	Custom indicator TrendEnvelopes_v1 FRA40.cash,M15: removed
+2	07:34:54.772	Custom indicator wedges FRA40.cash,M15: removed
+2	07:34:54.776	Custom indicator Admiral Pivot FRA40.cash,M15: removed
+2	07:34:54.777	Custom indicator AutoTrendChannel FRA40.cash,M15: removed
+2	07:34:54.778	Custom indicator FRZ Channel Auto Plotter FRA40.cash,M15: removed
+2	07:34:54.779	Custom indicator FRZ News Indicator MT4 FRA40.cash,M15: removed
+2	07:34:54.781	Custom indicator Forex Uranus direction FRA40.cash,M15: removed
+2	07:34:54.781	Custom indicator aVSA clasters FRA40.cash,M15: removed
+2	07:34:54.783	Custom indicator aVSA Golden Zone FRA40.cash,M15: removed
+2	07:34:54.784	Custom indicator breakout-zones FRA40.cash,M15: removed
+2	07:34:54.801	Custom indicator SL&TP Values FRA40.cash,M15: removed
+2	07:34:54.825	Custom indicator PositionSizeCalculator FRA40.cash,M15: removed
+2	07:34:54.825	Custom indicator AIMS AO V.2.1 FRA40.cash,M15: removed
+2	07:34:54.827	Custom indicator IVT_MACD_ZERO_LAG FRA40.cash,M15: removed
+2	07:34:54.852	Custom indicator RSI Divergence Levels FRA40.cash,M15: removed
+2	07:34:54.853	Custom indicator RenkoMaker_Confirm FRA40.cash,M15: removed
+2	07:34:54.855	Custom indicator FRZ Forex Market Session Indicator FRA40.cash,M15: removed
+2	07:34:54.857	Custom indicator AIMS Levels V2 US500.cash,H1: removed
+2	07:34:54.882	Custom indicator AIMS Entry Alert V1 US500.cash,H1: removed
+2	07:34:54.884	Custom indicator CandleTimer US500.cash,H1: removed
+2	07:34:54.904	Custom indicator #Signal_Bars_v6 US500.cash,H1: removed
+2	07:34:54.905	Custom indicator TrendEnvelopes_v1 US500.cash,H1: removed
+2	07:34:54.907	Custom indicator guppy_multiple_moving_averages US500.cash,H1: removed
+2	07:34:54.909	Custom indicator wedges US500.cash,H1: removed
+2	07:34:54.910	Custom indicator Admiral Pivot US500.cash,H1: removed
+2	07:34:54.911	Custom indicator AutoTrendChannel US500.cash,H1: removed
+2	07:34:54.924	Custom indicator FRZ Channel Auto Plotter US500.cash,H1: removed
+2	07:34:54.925	Custom indicator FRZ News Indicator MT4 US500.cash,H1: removed
+2	07:34:54.926	Custom indicator Forex Uranus direction US500.cash,H1: removed
+2	07:34:54.926	Custom indicator aVSA clasters US500.cash,H1: removed
+2	07:34:54.929	Custom indicator aVSA Golden Zone US500.cash,H1: removed
+2	07:34:54.930	Custom indicator breakout-zones US500.cash,H1: removed
+2	07:34:54.931	Custom indicator SL&TP Values US500.cash,H1: removed
+2	07:34:54.931	Custom indicator AIMS AO V.2.1 US500.cash,H1: removed
+2	07:34:54.932	Custom indicator IVT_MACD_ZERO_LAG US500.cash,H1: removed
+2	07:34:54.933	Custom indicator RSI Divergence Levels US500.cash,H1: removed
+2	07:34:54.935	Custom indicator FRZ Forex Market Session Indicator US500.cash,H1: removed
+2	07:34:54.978	Custom indicator AIMS Entry Alert V1 BTCUSD,H1: removed
+2	07:34:54.980	Custom indicator CandleTimer BTCUSD,H1: removed
+2	07:34:54.980	Custom indicator #Signal_Bars_v6 BTCUSD,H1: removed
+2	07:34:54.981	Custom indicator TrendEnvelopes_v1 BTCUSD,H1: removed
+2	07:34:54.982	Custom indicator wedges BTCUSD,H1: removed
+2	07:34:54.983	Custom indicator Admiral Pivot BTCUSD,H1: removed
+2	07:34:54.985	Custom indicator AutoTrendChannel BTCUSD,H1: removed
+2	07:34:54.986	Custom indicator FRZ Channel Auto Plotter BTCUSD,H1: removed
+2	07:34:54.988	Custom indicator Forex Uranus direction BTCUSD,H1: removed
+2	07:34:54.989	Custom indicator aVSA clasters BTCUSD,H1: removed
+2	07:34:55.008	Custom indicator aVSA Golden Zone BTCUSD,H1: removed
+2	07:34:55.009	Custom indicator breakout-zones BTCUSD,H1: removed
+2	07:34:55.010	Custom indicator SL&TP Values BTCUSD,H1: removed
+2	07:34:55.012	Custom indicator PositionSizeCalculator BTCUSD,H1: removed
+2	07:34:55.013	Custom indicator DaVinci Truly News Indicator 2.3.95 BTCUSD,H1: removed
+2	07:34:55.013	Custom indicator AIMS AO V.2.1 BTCUSD,H1: removed
+2	07:34:55.015	Custom indicator IVT_MACD_ZERO_LAG BTCUSD,H1: removed
+2	07:34:55.016	Custom indicator RSI Divergence Levels BTCUSD,H1: removed
+2	07:34:55.018	Custom indicator RenkoMaker_Confirm BTCUSD,H1: removed
+2	07:34:55.019	Custom indicator FRZ Forex Market Session Indicator BTCUSD,H1: removed
+2	07:34:55.021	Custom indicator AIMS Entry Alert V1 UK100.cash,H1: removed
+2	07:34:55.023	Custom indicator CandleTimer UK100.cash,H1: removed
+2	07:34:55.039	Custom indicator #Signal_Bars_v6 UK100.cash,H1: removed
+2	07:34:55.042	Custom indicator TrendEnvelopes_v1 UK100.cash,H1: removed
+2	07:34:55.044	Custom indicator wedges UK100.cash,H1: removed
+2	07:34:55.045	Custom indicator Admiral Pivot UK100.cash,H1: removed
+2	07:34:55.046	Custom indicator AutoTrendChannel UK100.cash,H1: removed
+2	07:34:55.047	Custom indicator FRZ Channel Auto Plotter UK100.cash,H1: removed
+2	07:34:55.049	Custom indicator FRZ News Indicator MT4 UK100.cash,H1: removed
+2	07:34:55.049	Custom indicator Forex Uranus direction UK100.cash,H1: removed
+2	07:34:55.049	Custom indicator aVSA clasters UK100.cash,H1: removed
+2	07:34:55.051	Custom indicator aVSA Golden Zone UK100.cash,H1: removed
+2	07:34:55.053	Custom indicator breakout-zones UK100.cash,H1: removed
+2	07:34:55.055	Custom indicator SL&TP Values UK100.cash,H1: removed
+2	07:34:55.056	Custom indicator PositionSizeCalculator UK100.cash,H1: removed
+2	07:34:55.056	Custom indicator AIMS AO V.2.1 UK100.cash,H1: removed
+2	07:34:55.058	Custom indicator IVT_MACD_ZERO_LAG UK100.cash,H1: removed
+2	07:34:55.059	Custom indicator RSI Divergence Levels UK100.cash,H1: removed
+2	07:34:55.060	Custom indicator RenkoMaker_Confirm UK100.cash,H1: removed
+2	07:34:55.061	Custom indicator FRZ Forex Market Session Indicator UK100.cash,H1: removed
+2	07:34:55.064	Custom indicator AIMS Entry Alert V1 JP225.cash,H1: removed
+2	07:34:55.065	Custom indicator CandleTimer JP225.cash,H1: removed
+2	07:34:55.066	Custom indicator #Signal_Bars_v6 JP225.cash,H1: removed
+2	07:34:55.067	Custom indicator TrendEnvelopes_v1 JP225.cash,H1: removed
+2	07:34:55.068	Custom indicator wedges JP225.cash,H1: removed
+2	07:34:55.070	Custom indicator Admiral Pivot JP225.cash,H1: removed
+2	07:34:55.072	Custom indicator AutoTrendChannel JP225.cash,H1: removed
+2	07:34:55.075	Custom indicator FRZ Channel Auto Plotter JP225.cash,H1: removed
+2	07:34:55.077	Custom indicator FRZ News Indicator MT4 JP225.cash,H1: removed
+2	07:34:55.078	Custom indicator Forex Uranus direction JP225.cash,H1: removed
+2	07:34:55.078	Custom indicator aVSA clasters JP225.cash,H1: removed
+2	07:34:55.080	Custom indicator aVSA Golden Zone JP225.cash,H1: removed
+2	07:34:55.082	Custom indicator breakout-zones JP225.cash,H1: removed
+2	07:34:55.083	Custom indicator SL&TP Values JP225.cash,H1: removed
+2	07:34:55.085	Custom indicator PositionSizeCalculator JP225.cash,H1: removed
+2	07:34:55.085	Custom indicator AIMS AO V.2.1 JP225.cash,H1: removed
+2	07:34:55.086	Custom indicator IVT_MACD_ZERO_LAG JP225.cash,H1: removed
+2	07:34:55.088	Custom indicator RSI Divergence Levels JP225.cash,H1: removed
+2	07:34:55.089	Custom indicator RenkoMaker_Confirm JP225.cash,H1: removed
+2	07:34:55.090	Custom indicator FRZ Forex Market Session Indicator JP225.cash,H1: removed
+2	07:34:55.092	Custom indicator AIMS Entry Alert V1 US500.cash,H1: removed
+2	07:34:55.093	Custom indicator CandleTimer US500.cash,H1: removed
+2	07:34:55.093	Custom indicator #Signal_Bars_v6 US500.cash,H1: removed
+2	07:34:55.094	Custom indicator TrendEnvelopes_v1 US500.cash,H1: removed
+2	07:34:55.096	Custom indicator wedges US500.cash,H1: removed
+2	07:34:55.097	Custom indicator Admiral Pivot US500.cash,H1: removed
+2	07:34:55.098	Custom indicator AutoTrendChannel US500.cash,H1: removed
+2	07:34:55.099	Custom indicator FRZ Channel Auto Plotter US500.cash,H1: removed
+2	07:34:55.101	Custom indicator FRZ News Indicator MT4 US500.cash,H1: removed
+2	07:34:55.102	Custom indicator Forex Uranus direction US500.cash,H1: removed
+2	07:34:55.102	Custom indicator aVSA clasters US500.cash,H1: removed
+2	07:34:55.107	Custom indicator aVSA Golden Zone US500.cash,H1: removed
+2	07:34:55.109	Custom indicator breakout-zones US500.cash,H1: removed
+2	07:34:55.110	Custom indicator SL&TP Values US500.cash,H1: removed
+2	07:34:55.112	Custom indicator PositionSizeCalculator US500.cash,H1: removed
+2	07:34:55.112	Custom indicator AIMS AO V.2.1 US500.cash,H1: removed
+2	07:34:55.150	Custom indicator IVT_MACD_ZERO_LAG US500.cash,H1: removed
+2	07:34:55.152	Custom indicator RSI Divergence Levels US500.cash,H1: removed
+2	07:34:55.153	Custom indicator RenkoMaker_Confirm US500.cash,H1: removed
+2	07:34:55.155	Custom indicator FRZ Forex Market Session Indicator US500.cash,H1: removed
+2	07:34:55.157	Custom indicator AIMS Entry Alert V1 XAGUSD,H1: removed
+2	07:34:55.178	Custom indicator CandleTimer XAGUSD,H1: removed
+2	07:34:55.179	Custom indicator #Signal_Bars_v6 XAGUSD,H1: removed
+2	07:34:55.180	Custom indicator TrendEnvelopes_v1 XAGUSD,H1: removed
+2	07:34:55.182	Custom indicator wedges XAGUSD,H1: removed
+2	07:34:55.183	Custom indicator Admiral Pivot XAGUSD,H1: removed
+2	07:34:55.184	Custom indicator AutoTrendChannel XAGUSD,H1: removed
+2	07:34:55.185	Custom indicator FRZ Channel Auto Plotter XAGUSD,H1: removed
+2	07:34:55.187	Custom indicator FRZ News Indicator MT4 XAGUSD,H1: removed
+2	07:34:55.188	Custom indicator Forex Uranus direction XAGUSD,H1: removed
+2	07:34:55.188	Custom indicator aVSA clasters XAGUSD,H1: removed
+2	07:34:55.191	Custom indicator aVSA Golden Zone XAGUSD,H1: removed
+2	07:34:55.192	Custom indicator breakout-zones XAGUSD,H1: removed
+2	07:34:55.193	Custom indicator SL&TP Values XAGUSD,H1: removed
+2	07:34:55.195	Custom indicator PositionSizeCalculator XAGUSD,H1: removed
+2	07:34:55.195	Custom indicator AIMS AO V.2.1 XAGUSD,H1: removed
+2	07:34:55.196	Custom indicator IVT_MACD_ZERO_LAG XAGUSD,H1: removed
+2	07:34:55.198	Custom indicator RSI Divergence Levels XAGUSD,H1: removed
+2	07:34:55.199	Custom indicator RenkoMaker_Confirm XAGUSD,H1: removed
+2	07:34:55.234	Custom indicator FRZ Forex Market Session Indicator XAGUSD,H1: removed
+2	07:34:55.237	Custom indicator AIMS Entry Alert V1 UKOIL.cash,H1: removed
+2	07:34:55.240	Custom indicator CandleTimer UKOIL.cash,H1: removed
+2	07:34:55.282	Custom indicator #Signal_Bars_v6 UKOIL.cash,H1: removed
+2	07:34:55.284	Custom indicator TrendEnvelopes_v1 UKOIL.cash,H1: removed
+2	07:34:55.285	Custom indicator wedges UKOIL.cash,H1: removed
+2	07:34:55.287	Custom indicator Admiral Pivot UKOIL.cash,H1: removed
+2	07:34:55.288	Custom indicator AutoTrendChannel UKOIL.cash,H1: removed
+2	07:34:55.289	Custom indicator FRZ Channel Auto Plotter UKOIL.cash,H1: removed
+2	07:34:55.290	Custom indicator FRZ News Indicator MT4 UKOIL.cash,H1: removed
+2	07:34:55.292	Custom indicator Forex Uranus direction UKOIL.cash,H1: removed
+2	07:34:55.292	Custom indicator aVSA clasters UKOIL.cash,H1: removed
+2	07:34:55.293	Custom indicator aVSA Golden Zone UKOIL.cash,H1: removed
+2	07:34:55.294	Custom indicator breakout-zones UKOIL.cash,H1: removed
+2	07:34:55.296	Custom indicator SL&TP Values UKOIL.cash,H1: removed
+2	07:34:55.297	Custom indicator PositionSizeCalculator UKOIL.cash,H1: removed
+2	07:34:55.297	Custom indicator AIMS AO V.2.1 UKOIL.cash,H1: removed
+2	07:34:55.299	Custom indicator IVT_MACD_ZERO_LAG UKOIL.cash,H1: removed
+2	07:34:55.300	Custom indicator RSI Divergence Levels UKOIL.cash,H1: removed
+2	07:34:55.301	Custom indicator RenkoMaker_Confirm UKOIL.cash,H1: removed
+2	07:34:55.303	Custom indicator FRZ Forex Market Session Indicator UKOIL.cash,H1: removed
+2	07:34:55.305	Custom indicator AIMS Entry Alert V1 US100.cash,M15: removed
+2	07:34:55.307	Custom indicator CandleTimer US100.cash,M15: removed
+2	07:34:55.307	Custom indicator #Signal_Bars_v6 US100.cash,M15: removed
+2	07:34:55.308	Custom indicator TrendEnvelopes_v1 US100.cash,M15: removed
+2	07:34:55.309	Custom indicator wedges US100.cash,M15: removed
+2	07:34:55.311	Custom indicator Admiral Pivot US100.cash,M15: removed
+2	07:34:55.312	Custom indicator AutoTrendChannel US100.cash,M15: removed
+2	07:34:55.313	Custom indicator FRZ Channel Auto Plotter US100.cash,M15: removed
+2	07:34:55.314	Custom indicator Forex Uranus direction US100.cash,M15: removed
+2	07:34:55.332	Custom indicator aVSA clasters US100.cash,M15: removed
+2	07:34:55.334	Custom indicator aVSA Golden Zone US100.cash,M15: removed
+2	07:34:55.334	Custom indicator breakout-zones US100.cash,M15: removed
+2	07:34:55.336	Custom indicator SL&TP Values US100.cash,M15: removed
+2	07:34:55.337	Custom indicator PositionSizeCalculator US100.cash,M15: removed
+2	07:34:55.338	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M15: removed
+2	07:34:55.338	Custom indicator AIMS AO V.2.1 US100.cash,M15: removed
+2	07:34:55.340	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M15: removed
+2	07:34:55.341	Custom indicator RSI Divergence Levels US100.cash,M15: removed
+2	07:34:55.342	Custom indicator RenkoMaker_Confirm US100.cash,M15: removed
+2	07:34:55.343	Custom indicator FRZ Forex Market Session Indicator US100.cash,M15: removed
+2	07:34:55.354	Custom indicator AIMS Entry Alert V1 EURUSD,H1: removed
+2	07:34:55.359	Custom indicator CandleTimer EURUSD,H1: removed
+2	07:34:55.367	Custom indicator #Signal_Bars_v6 EURUSD,H1: removed
+2	07:34:55.368	Custom indicator TrendEnvelopes_v1 EURUSD,H1: removed
+2	07:34:55.381	Custom indicator wedges EURUSD,H1: removed
+2	07:34:55.382	Custom indicator Admiral Pivot EURUSD,H1: removed
+2	07:34:55.383	Custom indicator AutoTrendChannel EURUSD,H1: removed
+2	07:34:55.385	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: removed
+2	07:34:55.386	Custom indicator Forex Uranus direction EURUSD,H1: removed
+2	07:34:55.386	Custom indicator aVSA clasters EURUSD,H1: removed
+2	07:34:55.388	Custom indicator aVSA Golden Zone EURUSD,H1: removed
+2	07:34:55.390	Custom indicator breakout-zones EURUSD,H1: removed
+2	07:34:55.391	Custom indicator SL&TP Values EURUSD,H1: removed
+2	07:34:55.392	Custom indicator PositionSizeCalculator EURUSD,H1: removed
+2	07:34:55.394	Custom indicator DaVinci Truly News Indicator 2.3.95 EURUSD,H1: removed
+2	07:34:55.394	Custom indicator AIMS AO V.2.1 EURUSD,H1: removed
+2	07:34:55.395	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: removed
+2	07:34:55.397	Custom indicator RSI Divergence Levels EURUSD,H1: removed
+2	07:34:55.398	Custom indicator RenkoMaker_Confirm EURUSD,H1: removed
+2	07:34:55.399	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: removed
+0	07:34:57.704	Admiral Markets build 1335 stopped
+0	08:56:43.749	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	08:56:43.749	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 2689 / 8014 Mb, Disk: 63 / 197 Gb, GMT+3
+0	08:56:43.749	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	08:56:49.915	Custom indicator AIMS Entry Alert V1 GER30.cash,M5: loaded successfully
+2	08:56:49.924	Custom indicator CandleTimer GER30.cash,M5: loaded successfully
+2	08:56:50.010	Custom indicator #Signal_Bars_v6 GER30.cash,M5: loaded successfully
+2	08:56:50.019	Custom indicator TrendEnvelopes_v1 GER30.cash,M5: loaded successfully
+2	08:56:50.028	Custom indicator wedges GER30.cash,M5: loaded successfully
+2	08:56:50.037	Custom indicator Admiral Pivot GER30.cash,M5: loaded successfully
+2	08:56:50.045	Custom indicator AutoTrendChannel GER30.cash,M5: loaded successfully
+2	08:56:50.054	Custom indicator FRZ Channel Auto Plotter GER30.cash,M5: loaded successfully
+2	08:56:50.063	Custom indicator Forex Uranus direction GER30.cash,M5: loaded successfully
+2	08:56:50.143	Custom indicator aVSA\aVSA clasters GER30.cash,M5: loaded successfully
+2	08:56:50.159	Custom indicator aVSA\aVSA Golden Zone GER30.cash,M5: loaded successfully
+2	08:56:50.168	Custom indicator breakout-zones\breakout-zones GER30.cash,M5: loaded successfully
+2	08:56:50.177	Custom indicator breakout-zones\SL&TP Values GER30.cash,M5: loaded successfully
+2	08:56:50.192	Custom indicator PositionSizeCalculator GER30.cash,M5: loaded successfully
+2	08:56:50.203	Custom indicator DaVinci Truly News Indicator 2.3.95 GER30.cash,M5: loaded successfully
+2	08:56:50.284	Custom indicator AIMS AO V.2.1 GER30.cash,M5: loaded successfully
+2	08:56:50.292	Custom indicator IVT_MACD_ZERO_LAG GER30.cash,M5: loaded successfully
+2	08:56:50.302	Custom indicator RSI Divergence Levels GER30.cash,M5: loaded successfully
+2	08:56:50.309	Custom indicator RenkoMaker_Confirm GER30.cash,M5: loaded successfully
+2	08:56:50.317	Custom indicator FRZ Forex Market Session Indicator GER30.cash,M5: loaded successfully
+2	08:56:52.577	Custom indicator AIMS Entry Alert V1 US30.cash,Weekly: loaded successfully
+2	08:56:52.585	Custom indicator CandleTimer US30.cash,Weekly: loaded successfully
+2	08:56:52.675	Custom indicator #Signal_Bars_v6 US30.cash,Weekly: loaded successfully
+2	08:56:52.685	Custom indicator TrendEnvelopes_v1 US30.cash,Weekly: loaded successfully
+2	08:56:52.694	Custom indicator wedges US30.cash,Weekly: loaded successfully
+2	08:56:52.703	Custom indicator Admiral Pivot US30.cash,Weekly: loaded successfully
+2	08:56:52.712	Custom indicator AutoTrendChannel US30.cash,Weekly: loaded successfully
+2	08:56:52.721	Custom indicator FRZ Channel Auto Plotter US30.cash,Weekly: loaded successfully
+2	08:56:52.730	Custom indicator Forex Uranus direction US30.cash,Weekly: loaded successfully
+2	08:56:52.811	Custom indicator aVSA\aVSA clasters US30.cash,Weekly: loaded successfully
+2	08:56:52.828	Custom indicator aVSA\aVSA Golden Zone US30.cash,Weekly: loaded successfully
+2	08:56:52.837	Custom indicator breakout-zones\breakout-zones US30.cash,Weekly: loaded successfully
+2	08:56:52.845	Custom indicator breakout-zones\SL&TP Values US30.cash,Weekly: loaded successfully
+2	08:56:52.860	Custom indicator PositionSizeCalculator US30.cash,Weekly: loaded successfully
+2	08:56:52.870	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,Weekly: loaded successfully
+2	08:56:52.946	Custom indicator AIMS AO V.2.1 US30.cash,Weekly: loaded successfully
+2	08:56:52.954	Custom indicator IVT_MACD_ZERO_LAG US30.cash,Weekly: loaded successfully
+2	08:56:52.962	Custom indicator RSI Divergence Levels US30.cash,Weekly: loaded successfully
+2	08:56:52.969	Custom indicator RenkoMaker_Confirm US30.cash,Weekly: loaded successfully
+2	08:56:52.977	Custom indicator FRZ Forex Market Session Indicator US30.cash,Weekly: loaded successfully
+2	08:56:53.468	Custom indicator AIMS Entry Alert V1 XAUUSD,H1: loaded successfully
+2	08:56:53.477	Custom indicator CandleTimer XAUUSD,H1: loaded successfully
+2	08:56:53.558	Custom indicator #Signal_Bars_v6 XAUUSD,H1: loaded successfully
+2	08:56:53.567	Custom indicator TrendEnvelopes_v1 XAUUSD,H1: loaded successfully
+2	08:56:53.576	Custom indicator wedges XAUUSD,H1: loaded successfully
+2	08:56:53.585	Custom indicator Admiral Pivot XAUUSD,H1: loaded successfully
+2	08:56:53.596	Custom indicator AutoTrendChannel XAUUSD,H1: loaded successfully
+2	08:56:53.605	Custom indicator FRZ Channel Auto Plotter XAUUSD,H1: loaded successfully
+2	08:56:53.613	Custom indicator Forex Uranus direction XAUUSD,H1: loaded successfully
+2	08:56:53.694	Custom indicator aVSA\aVSA clasters XAUUSD,H1: loaded successfully
+2	08:56:53.711	Custom indicator aVSA\aVSA Golden Zone XAUUSD,H1: loaded successfully
+2	08:56:53.720	Custom indicator breakout-zones\breakout-zones XAUUSD,H1: loaded successfully
+2	08:56:53.728	Custom indicator breakout-zones\SL&TP Values XAUUSD,H1: loaded successfully
+2	08:56:53.743	Custom indicator PositionSizeCalculator XAUUSD,H1: loaded successfully
+2	08:56:53.753	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,H1: loaded successfully
+2	08:56:53.827	Custom indicator AIMS AO V.2.1 XAUUSD,H1: loaded successfully
+2	08:56:53.836	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,H1: loaded successfully
+2	08:56:53.844	Custom indicator RSI Divergence Levels XAUUSD,H1: loaded successfully
+2	08:56:53.851	Custom indicator RenkoMaker_Confirm XAUUSD,H1: loaded successfully
+2	08:56:53.859	Custom indicator FRZ Forex Market Session Indicator XAUUSD,H1: loaded successfully
+2	08:56:54.605	Custom indicator AIMS Entry Alert V1 USOIL.cash,M15: loaded successfully
+2	08:56:54.611	Custom indicator CandleTimer USOIL.cash,M15: loaded successfully
+2	08:56:54.683	Custom indicator #Signal_Bars_v6 USOIL.cash,M15: loaded successfully
+2	08:56:54.691	Custom indicator TrendEnvelopes_v1 USOIL.cash,M15: loaded successfully
+2	08:56:54.699	Custom indicator wedges USOIL.cash,M15: loaded successfully
+2	08:56:54.707	Custom indicator Admiral Pivot USOIL.cash,M15: loaded successfully
+2	08:56:54.714	Custom indicator AutoTrendChannel USOIL.cash,M15: loaded successfully
+2	08:56:54.722	Custom indicator FRZ Channel Auto Plotter USOIL.cash,M15: loaded successfully
+2	08:56:54.729	Custom indicator Forex Uranus direction USOIL.cash,M15: loaded successfully
+2	08:56:54.800	Custom indicator aVSA\aVSA clasters USOIL.cash,M15: loaded successfully
+2	08:56:54.815	Custom indicator aVSA\aVSA Golden Zone USOIL.cash,M15: loaded successfully
+2	08:56:54.823	Custom indicator breakout-zones\breakout-zones USOIL.cash,M15: loaded successfully
+2	08:56:54.830	Custom indicator breakout-zones\SL&TP Values USOIL.cash,M15: loaded successfully
+2	08:56:54.844	Custom indicator PositionSizeCalculator USOIL.cash,M15: loaded successfully
+2	08:56:54.853	Custom indicator DaVinci Truly News Indicator 2.3.95 USOIL.cash,M15: loaded successfully
+2	08:56:54.923	Custom indicator AIMS AO V.2.1 USOIL.cash,M15: loaded successfully
+2	08:56:54.931	Custom indicator IVT_MACD_ZERO_LAG USOIL.cash,M15: loaded successfully
+2	08:56:54.938	Custom indicator RSI Divergence Levels USOIL.cash,M15: loaded successfully
+2	08:56:54.945	Custom indicator RenkoMaker_Confirm USOIL.cash,M15: loaded successfully
+2	08:56:54.952	Custom indicator FRZ Forex Market Session Indicator USOIL.cash,M15: loaded successfully
+2	08:56:55.766	Custom indicator AIMS Entry Alert V1 FRA40.cash,M15: loaded successfully
+2	08:56:55.773	Custom indicator CandleTimer FRA40.cash,M15: loaded successfully
+2	08:56:55.856	Custom indicator #Signal_Bars_v6 FRA40.cash,M15: loaded successfully
+2	08:56:55.864	Custom indicator TrendEnvelopes_v1 FRA40.cash,M15: loaded successfully
+2	08:56:55.873	Custom indicator wedges FRA40.cash,M15: loaded successfully
+2	08:56:55.881	Custom indicator Admiral Pivot FRA40.cash,M15: loaded successfully
+2	08:56:55.889	Custom indicator AutoTrendChannel FRA40.cash,M15: loaded successfully
+2	08:56:55.897	Custom indicator FRZ Channel Auto Plotter FRA40.cash,M15: loaded successfully
+2	08:56:55.906	Custom indicator FRZ News Indicator MT4 FRA40.cash,M15: loaded successfully
+2	08:56:55.915	Custom indicator Forex Uranus direction FRA40.cash,M15: loaded successfully
+2	08:56:55.992	Custom indicator aVSA\aVSA clasters FRA40.cash,M15: loaded successfully
+2	08:56:56.007	Custom indicator aVSA\aVSA Golden Zone FRA40.cash,M15: loaded successfully
+2	08:56:56.015	Custom indicator breakout-zones\breakout-zones FRA40.cash,M15: loaded successfully
+2	08:56:56.023	Custom indicator breakout-zones\SL&TP Values FRA40.cash,M15: loaded successfully
+2	08:56:56.038	Custom indicator PositionSizeCalculator FRA40.cash,M15: loaded successfully
+2	08:56:56.110	Custom indicator AIMS AO V.2.1 FRA40.cash,M15: loaded successfully
+2	08:56:56.118	Custom indicator IVT_MACD_ZERO_LAG FRA40.cash,M15: loaded successfully
+2	08:56:56.126	Custom indicator RSI Divergence Levels FRA40.cash,M15: loaded successfully
+2	08:56:56.133	Custom indicator RenkoMaker_Confirm FRA40.cash,M15: loaded successfully
+2	08:56:56.140	Custom indicator FRZ Forex Market Session Indicator FRA40.cash,M15: loaded successfully
+2	08:56:58.164	Custom indicator AIMS Levels V2 US500.cash,H1: loaded successfully
+2	08:56:58.232	Custom indicator AIMS Entry Alert V1 US500.cash,H1: loaded successfully
+2	08:56:58.237	Custom indicator CandleTimer US500.cash,H1: loaded successfully
+2	08:56:58.302	Custom indicator #Signal_Bars_v6 US500.cash,H1: loaded successfully
+2	08:56:58.310	Custom indicator TrendEnvelopes_v1 US500.cash,H1: loaded successfully
+2	08:56:58.318	Custom indicator guppy_multiple_moving_averages US500.cash,H1: loaded successfully
+2	08:56:58.326	Custom indicator wedges US500.cash,H1: loaded successfully
+2	08:56:58.333	Custom indicator Admiral Pivot US500.cash,H1: loaded successfully
+2	08:56:58.339	Custom indicator AutoTrendChannel US500.cash,H1: loaded successfully
+2	08:56:58.347	Custom indicator FRZ Channel Auto Plotter US500.cash,H1: loaded successfully
+2	08:56:58.357	Custom indicator FRZ News Indicator MT4 US500.cash,H1: loaded successfully
+2	08:56:58.364	Custom indicator Forex Uranus direction US500.cash,H1: loaded successfully
+2	08:56:58.428	Custom indicator aVSA\aVSA clasters US500.cash,H1: loaded successfully
+2	08:56:58.443	Custom indicator aVSA\aVSA Golden Zone US500.cash,H1: loaded successfully
+2	08:56:58.451	Custom indicator breakout-zones\breakout-zones US500.cash,H1: loaded successfully
+2	08:56:58.458	Custom indicator breakout-zones\SL&TP Values US500.cash,H1: loaded successfully
+2	08:56:58.526	Custom indicator AIMS AO V.2.1 US500.cash,H1: loaded successfully
+2	08:56:58.534	Custom indicator IVT_MACD_ZERO_LAG US500.cash,H1: loaded successfully
+2	08:56:58.541	Custom indicator RSI Divergence Levels US500.cash,H1: loaded successfully
+2	08:56:58.549	Custom indicator FRZ Forex Market Session Indicator US500.cash,H1: loaded successfully
+2	08:56:59.091	Custom indicator AIMS Entry Alert V1 BTCUSD,H1: loaded successfully
+2	08:56:59.098	Custom indicator CandleTimer BTCUSD,H1: loaded successfully
+2	08:56:59.181	Custom indicator #Signal_Bars_v6 BTCUSD,H1: loaded successfully
+2	08:56:59.191	Custom indicator TrendEnvelopes_v1 BTCUSD,H1: loaded successfully
+2	08:56:59.199	Custom indicator wedges BTCUSD,H1: loaded successfully
+2	08:56:59.208	Custom indicator Admiral Pivot BTCUSD,H1: loaded successfully
+2	08:56:59.216	Custom indicator AutoTrendChannel BTCUSD,H1: loaded successfully
+2	08:56:59.225	Custom indicator FRZ Channel Auto Plotter BTCUSD,H1: loaded successfully
+2	08:56:59.235	Custom indicator Forex Uranus direction BTCUSD,H1: loaded successfully
+2	08:56:59.326	Custom indicator aVSA\aVSA clasters BTCUSD,H1: loaded successfully
+2	08:56:59.349	Custom indicator aVSA\aVSA Golden Zone BTCUSD,H1: loaded successfully
+2	08:56:59.361	Custom indicator breakout-zones\breakout-zones BTCUSD,H1: loaded successfully
+2	08:56:59.370	Custom indicator breakout-zones\SL&TP Values BTCUSD,H1: loaded successfully
+2	08:56:59.393	Custom indicator PositionSizeCalculator BTCUSD,H1: loaded successfully
+2	08:56:59.408	Custom indicator DaVinci Truly News Indicator 2.3.95 BTCUSD,H1: loaded successfully
+2	08:56:59.505	Custom indicator AIMS AO V.2.1 BTCUSD,H1: loaded successfully
+2	08:56:59.514	Custom indicator IVT_MACD_ZERO_LAG BTCUSD,H1: loaded successfully
+2	08:56:59.524	Custom indicator RSI Divergence Levels BTCUSD,H1: loaded successfully
+2	08:56:59.532	Custom indicator RenkoMaker_Confirm BTCUSD,H1: loaded successfully
+2	08:56:59.541	Custom indicator FRZ Forex Market Session Indicator BTCUSD,H1: loaded successfully
+2	08:57:00.347	Custom indicator AIMS Entry Alert V1 UK100.cash,H1: loaded successfully
+2	08:57:00.354	Custom indicator CandleTimer UK100.cash,H1: loaded successfully
+2	08:57:00.447	Custom indicator #Signal_Bars_v6 UK100.cash,H1: loaded successfully
+2	08:57:00.457	Custom indicator TrendEnvelopes_v1 UK100.cash,H1: loaded successfully
+2	08:57:00.467	Custom indicator wedges UK100.cash,H1: loaded successfully
+2	08:57:00.477	Custom indicator Admiral Pivot UK100.cash,H1: loaded successfully
+2	08:57:00.487	Custom indicator AutoTrendChannel UK100.cash,H1: loaded successfully
+2	08:57:00.497	Custom indicator FRZ Channel Auto Plotter UK100.cash,H1: loaded successfully
+2	08:57:00.508	Custom indicator FRZ News Indicator MT4 UK100.cash,H1: loaded successfully
+2	08:57:00.518	Custom indicator Forex Uranus direction UK100.cash,H1: loaded successfully
+2	08:57:00.609	Custom indicator aVSA\aVSA clasters UK100.cash,H1: loaded successfully
+2	08:57:00.628	Custom indicator aVSA\aVSA Golden Zone UK100.cash,H1: loaded successfully
+2	08:57:00.638	Custom indicator breakout-zones\breakout-zones UK100.cash,H1: loaded successfully
+2	08:57:00.648	Custom indicator breakout-zones\SL&TP Values UK100.cash,H1: loaded successfully
+2	08:57:00.665	Custom indicator PositionSizeCalculator UK100.cash,H1: loaded successfully
+2	08:57:00.757	Custom indicator AIMS AO V.2.1 UK100.cash,H1: loaded successfully
+2	08:57:00.766	Custom indicator IVT_MACD_ZERO_LAG UK100.cash,H1: loaded successfully
+2	08:57:00.776	Custom indicator RSI Divergence Levels UK100.cash,H1: loaded successfully
+2	08:57:00.785	Custom indicator RenkoMaker_Confirm UK100.cash,H1: loaded successfully
+2	08:57:00.794	Custom indicator FRZ Forex Market Session Indicator UK100.cash,H1: loaded successfully
+2	08:57:01.634	Custom indicator AIMS Entry Alert V1 JP225.cash,H1: loaded successfully
+2	08:57:01.643	Custom indicator CandleTimer JP225.cash,H1: loaded successfully
+2	08:57:01.732	Custom indicator #Signal_Bars_v6 JP225.cash,H1: loaded successfully
+2	08:57:01.741	Custom indicator TrendEnvelopes_v1 JP225.cash,H1: loaded successfully
+2	08:57:01.751	Custom indicator wedges JP225.cash,H1: loaded successfully
+2	08:57:01.761	Custom indicator Admiral Pivot JP225.cash,H1: loaded successfully
+2	08:57:01.771	Custom indicator AutoTrendChannel JP225.cash,H1: loaded successfully
+2	08:57:01.780	Custom indicator FRZ Channel Auto Plotter JP225.cash,H1: loaded successfully
+2	08:57:01.791	Custom indicator FRZ News Indicator MT4 JP225.cash,H1: loaded successfully
+2	08:57:01.802	Custom indicator Forex Uranus direction JP225.cash,H1: loaded successfully
+2	08:57:01.892	Custom indicator aVSA\aVSA clasters JP225.cash,H1: loaded successfully
+2	08:57:01.911	Custom indicator aVSA\aVSA Golden Zone JP225.cash,H1: loaded successfully
+2	08:57:01.921	Custom indicator breakout-zones\breakout-zones JP225.cash,H1: loaded successfully
+2	08:57:01.930	Custom indicator breakout-zones\SL&TP Values JP225.cash,H1: loaded successfully
+2	08:57:01.947	Custom indicator PositionSizeCalculator JP225.cash,H1: loaded successfully
+2	08:57:02.034	Custom indicator AIMS AO V.2.1 JP225.cash,H1: loaded successfully
+2	08:57:02.043	Custom indicator IVT_MACD_ZERO_LAG JP225.cash,H1: loaded successfully
+2	08:57:02.053	Custom indicator RSI Divergence Levels JP225.cash,H1: loaded successfully
+2	08:57:02.062	Custom indicator RenkoMaker_Confirm JP225.cash,H1: loaded successfully
+2	08:57:02.073	Custom indicator FRZ Forex Market Session Indicator JP225.cash,H1: loaded successfully
+2	08:57:02.936	Custom indicator AIMS Entry Alert V1 US500.cash,H1: loaded successfully
+2	08:57:02.943	Custom indicator CandleTimer US500.cash,H1: loaded successfully
+2	08:57:03.021	Custom indicator #Signal_Bars_v6 US500.cash,H1: loaded successfully
+2	08:57:03.029	Custom indicator TrendEnvelopes_v1 US500.cash,H1: loaded successfully
+2	08:57:03.038	Custom indicator wedges US500.cash,H1: loaded successfully
+2	08:57:03.046	Custom indicator Admiral Pivot US500.cash,H1: loaded successfully
+2	08:57:03.054	Custom indicator AutoTrendChannel US500.cash,H1: loaded successfully
+2	08:57:03.063	Custom indicator FRZ Channel Auto Plotter US500.cash,H1: loaded successfully
+2	08:57:03.072	Custom indicator FRZ News Indicator MT4 US500.cash,H1: loaded successfully
+2	08:57:03.081	Custom indicator Forex Uranus direction US500.cash,H1: loaded successfully
+2	08:57:03.156	Custom indicator aVSA\aVSA clasters US500.cash,H1: loaded successfully
+2	08:57:03.172	Custom indicator aVSA\aVSA Golden Zone US500.cash,H1: loaded successfully
+2	08:57:03.180	Custom indicator breakout-zones\breakout-zones US500.cash,H1: loaded successfully
+2	08:57:03.188	Custom indicator breakout-zones\SL&TP Values US500.cash,H1: loaded successfully
+2	08:57:03.202	Custom indicator PositionSizeCalculator US500.cash,H1: loaded successfully
+2	08:57:03.275	Custom indicator AIMS AO V.2.1 US500.cash,H1: loaded successfully
+2	08:57:03.283	Custom indicator IVT_MACD_ZERO_LAG US500.cash,H1: loaded successfully
+2	08:57:03.291	Custom indicator RSI Divergence Levels US500.cash,H1: loaded successfully
+2	08:57:03.297	Custom indicator RenkoMaker_Confirm US500.cash,H1: loaded successfully
+2	08:57:03.305	Custom indicator FRZ Forex Market Session Indicator US500.cash,H1: loaded successfully
+2	08:57:03.978	Custom indicator AIMS Entry Alert V1 XAGUSD,H1: loaded successfully
+2	08:57:03.984	Custom indicator CandleTimer XAGUSD,H1: loaded successfully
+2	08:57:04.056	Custom indicator #Signal_Bars_v6 XAGUSD,H1: loaded successfully
+2	08:57:04.064	Custom indicator TrendEnvelopes_v1 XAGUSD,H1: loaded successfully
+2	08:57:04.072	Custom indicator wedges XAGUSD,H1: loaded successfully
+2	08:57:04.078	Custom indicator Admiral Pivot XAGUSD,H1: loaded successfully
+2	08:57:04.086	Custom indicator AutoTrendChannel XAGUSD,H1: loaded successfully
+2	08:57:04.093	Custom indicator FRZ Channel Auto Plotter XAGUSD,H1: loaded successfully
+2	08:57:04.102	Custom indicator FRZ News Indicator MT4 XAGUSD,H1: loaded successfully
+2	08:57:04.110	Custom indicator Forex Uranus direction XAGUSD,H1: loaded successfully
+2	08:57:04.181	Custom indicator aVSA\aVSA clasters XAGUSD,H1: loaded successfully
+2	08:57:04.195	Custom indicator aVSA\aVSA Golden Zone XAGUSD,H1: loaded successfully
+2	08:57:04.203	Custom indicator breakout-zones\breakout-zones XAGUSD,H1: loaded successfully
+2	08:57:04.210	Custom indicator breakout-zones\SL&TP Values XAGUSD,H1: loaded successfully
+2	08:57:04.224	Custom indicator PositionSizeCalculator XAGUSD,H1: loaded successfully
+2	08:57:04.294	Custom indicator AIMS AO V.2.1 XAGUSD,H1: loaded successfully
+2	08:57:04.302	Custom indicator IVT_MACD_ZERO_LAG XAGUSD,H1: loaded successfully
+2	08:57:04.309	Custom indicator RSI Divergence Levels XAGUSD,H1: loaded successfully
+2	08:57:04.316	Custom indicator RenkoMaker_Confirm XAGUSD,H1: loaded successfully
+2	08:57:04.323	Custom indicator FRZ Forex Market Session Indicator XAGUSD,H1: loaded successfully
+2	08:57:05.065	Custom indicator AIMS Entry Alert V1 UKOIL.cash,H1: loaded successfully
+2	08:57:05.071	Custom indicator CandleTimer UKOIL.cash,H1: loaded successfully
+2	08:57:05.145	Custom indicator #Signal_Bars_v6 UKOIL.cash,H1: loaded successfully
+2	08:57:05.153	Custom indicator TrendEnvelopes_v1 UKOIL.cash,H1: loaded successfully
+2	08:57:05.160	Custom indicator wedges UKOIL.cash,H1: loaded successfully
+2	08:57:05.168	Custom indicator Admiral Pivot UKOIL.cash,H1: loaded successfully
+2	08:57:05.175	Custom indicator AutoTrendChannel UKOIL.cash,H1: loaded successfully
+2	08:57:05.183	Custom indicator FRZ Channel Auto Plotter UKOIL.cash,H1: loaded successfully
+2	08:57:05.192	Custom indicator FRZ News Indicator MT4 UKOIL.cash,H1: loaded successfully
+2	08:57:05.201	Custom indicator Forex Uranus direction UKOIL.cash,H1: loaded successfully
+2	08:57:05.273	Custom indicator aVSA\aVSA clasters UKOIL.cash,H1: loaded successfully
+2	08:57:05.288	Custom indicator aVSA\aVSA Golden Zone UKOIL.cash,H1: loaded successfully
+2	08:57:05.296	Custom indicator breakout-zones\breakout-zones UKOIL.cash,H1: loaded successfully
+2	08:57:05.304	Custom indicator breakout-zones\SL&TP Values UKOIL.cash,H1: loaded successfully
+2	08:57:05.319	Custom indicator PositionSizeCalculator UKOIL.cash,H1: loaded successfully
+2	08:57:05.390	Custom indicator AIMS AO V.2.1 UKOIL.cash,H1: loaded successfully
+2	08:57:05.398	Custom indicator IVT_MACD_ZERO_LAG UKOIL.cash,H1: loaded successfully
+2	08:57:05.406	Custom indicator RSI Divergence Levels UKOIL.cash,H1: loaded successfully
+2	08:57:05.412	Custom indicator RenkoMaker_Confirm UKOIL.cash,H1: loaded successfully
+2	08:57:05.419	Custom indicator FRZ Forex Market Session Indicator UKOIL.cash,H1: loaded successfully
+2	08:57:06.170	Custom indicator AIMS Entry Alert V1 US100.cash,M15: loaded successfully
+2	08:57:06.177	Custom indicator CandleTimer US100.cash,M15: loaded successfully
+2	08:57:06.250	Custom indicator #Signal_Bars_v6 US100.cash,M15: loaded successfully
+2	08:57:06.258	Custom indicator TrendEnvelopes_v1 US100.cash,M15: loaded successfully
+2	08:57:06.266	Custom indicator wedges US100.cash,M15: loaded successfully
+2	08:57:06.274	Custom indicator Admiral Pivot US100.cash,M15: loaded successfully
+2	08:57:06.281	Custom indicator AutoTrendChannel US100.cash,M15: loaded successfully
+2	08:57:06.289	Custom indicator FRZ Channel Auto Plotter US100.cash,M15: loaded successfully
+2	08:57:06.297	Custom indicator Forex Uranus direction US100.cash,M15: loaded successfully
+2	08:57:06.370	Custom indicator aVSA\aVSA clasters US100.cash,M15: loaded successfully
+2	08:57:06.385	Custom indicator aVSA\aVSA Golden Zone US100.cash,M15: loaded successfully
+2	08:57:06.393	Custom indicator breakout-zones\breakout-zones US100.cash,M15: loaded successfully
+2	08:57:06.401	Custom indicator breakout-zones\SL&TP Values US100.cash,M15: loaded successfully
+2	08:57:06.415	Custom indicator PositionSizeCalculator US100.cash,M15: loaded successfully
+2	08:57:06.424	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M15: loaded successfully
+2	08:57:06.496	Custom indicator AIMS AO V.2.1 US100.cash,M15: loaded successfully
+2	08:57:06.503	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M15: loaded successfully
+2	08:57:06.511	Custom indicator RSI Divergence Levels US100.cash,M15: loaded successfully
+2	08:57:06.517	Custom indicator RenkoMaker_Confirm US100.cash,M15: loaded successfully
+2	08:57:06.525	Custom indicator FRZ Forex Market Session Indicator US100.cash,M15: loaded successfully
+2	08:57:07.554	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	08:57:07.561	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	08:57:07.633	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	08:57:07.640	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	08:57:07.648	Custom indicator wedges EURUSD,H1: loaded successfully
+2	08:57:07.656	Custom indicator Admiral Pivot EURUSD,H1: loaded successfully
+2	08:57:07.664	Custom indicator AutoTrendChannel EURUSD,H1: loaded successfully
+2	08:57:07.671	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: loaded successfully
+2	08:57:07.679	Custom indicator Forex Uranus direction EURUSD,H1: loaded successfully
+2	08:57:07.750	Custom indicator aVSA\aVSA clasters EURUSD,H1: loaded successfully
+2	08:57:07.765	Custom indicator aVSA\aVSA Golden Zone EURUSD,H1: loaded successfully
+2	08:57:07.773	Custom indicator breakout-zones\breakout-zones EURUSD,H1: loaded successfully
+2	08:57:07.781	Custom indicator breakout-zones\SL&TP Values EURUSD,H1: loaded successfully
+2	08:57:07.794	Custom indicator PositionSizeCalculator EURUSD,H1: loaded successfully
+2	08:57:07.803	Custom indicator DaVinci Truly News Indicator 2.3.95 EURUSD,H1: loaded successfully
+2	08:57:07.874	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	08:57:07.882	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	08:57:07.890	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	08:57:07.896	Custom indicator RenkoMaker_Confirm EURUSD,H1: loaded successfully
+2	08:57:07.904	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: loaded successfully

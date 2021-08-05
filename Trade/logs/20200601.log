@@ -1,0 +1,2576 @@
+0	00:21:28.309	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	00:21:28.309	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 3059 / 8014 Mb, Disk: 46 / 237 Gb, GMT+3
+0	00:21:28.309	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	00:21:30.444	Custom indicator b-clock modified AUDUSD,M30: loaded successfully
+2	00:21:30.509	Custom indicator AutoTrendChannel AUDUSD,M30: loaded successfully
+2	00:21:30.570	Custom indicator phoenix AUDUSD,M30: loaded successfully
+2	00:21:30.582	Custom indicator FuturoTI AUDUSD,M30: loaded successfully
+2	00:21:30.765	Custom indicator MACD Candles v4 AUDCHF,H1: loaded successfully
+2	00:21:30.780	Custom indicator Dolly Graphics v14 AUDCHF,H1: loaded successfully
+2	00:21:31.034	Custom indicator MACD Candles v4 CADCHF,H1: loaded successfully
+2	00:21:31.050	Custom indicator Dolly Graphics v14 CADCHF,H1: loaded successfully
+2	00:21:31.329	Custom indicator MACD Candles v4 CHFJPY,H1: loaded successfully
+2	00:21:31.337	Custom indicator Dolly Graphics v14 CHFJPY,H1: loaded successfully
+2	00:21:31.562	Custom indicator b-clock modified EURUSD,M1: loaded successfully
+2	00:21:31.624	Custom indicator AutoTrendChannel EURUSD,M1: loaded successfully
+2	00:21:31.671	Custom indicator phoenix EURUSD,M1: loaded successfully
+2	00:21:31.687	Custom indicator FuturoTI EURUSD,M1: loaded successfully
+2	00:21:31.931	Custom indicator MACD Candles v4 EURAUD,M1: loaded successfully
+2	00:21:31.941	Custom indicator Dolly Graphics v14 EURAUD,M1: loaded successfully
+2	00:21:31.950	Custom indicator FuturoTI EURAUD,M1: loaded successfully
+2	00:21:32.303	Custom indicator MACD Candles v4 EURGBP,H1: loaded successfully
+2	00:21:32.312	Custom indicator Dolly Graphics v14 EURGBP,H1: loaded successfully
+2	00:21:32.529	Custom indicator b-clock modified BTCUSD,M5: loaded successfully
+2	00:21:32.591	Custom indicator AutoTrendChannel BTCUSD,M5: loaded successfully
+2	00:21:32.654	Custom indicator phoenix BTCUSD,M5: loaded successfully
+2	00:21:32.668	Custom indicator FuturoTI BTCUSD,M5: loaded successfully
+2	00:21:32.808	Custom indicator FuturoTI EURCAD,M1: loaded successfully
+2	00:21:33.021	Custom indicator AIMS Levels V2 EURJPY,M1: loaded successfully
+2	00:21:33.096	Custom indicator AIMS Entry Alert V1 EURJPY,M1: loaded successfully
+2	00:21:33.152	Custom indicator AIMS AO V.2.1 EURJPY,M1: loaded successfully
+2	00:21:33.308	Custom indicator MACD Candles v4 GBPUSD,H1: loaded successfully
+2	00:21:33.308	Custom indicator Dolly Graphics v14 GBPUSD,H1: loaded successfully
+0	00:21:35.181	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 246.79 ms)
+0	00:21:37.441	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 246.79 ms)
+0	00:21:38.035	'23875089': previous successful authorization performed from 154.126.9.18
+0	00:21:47.514	'23875089': ping to current access point Access Point #4 is 208.30 ms
+0	00:26:23.480	'23875089': close order #181052406 sell 40.00 #BNP at 30.730 sl: 0.000 tp: 0.000 at price 0.000
+1	00:26:23.902	'23875089': order #181052406 sell 40.00 #BNP closing at 0.000 failed [Market is closed]
+0	00:27:26.311	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 212.71 ms)
+0	00:27:29.201	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 212.71 ms)
+0	00:27:29.762	'27123197': previous successful authorization performed from 197.149.36.160
+1	00:27:49.369	'27123197': datacenter connecting failed [6]
+0	00:27:50.342	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 230.88 ms)
+0	00:27:50.392	'27123197': auto connecting to a better access point Access Point #6 (ping is 228.30 ms)
+0	00:27:56.543	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 228.30 ms)
+0	00:27:58.934	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 228.30 ms)
+0	00:27:59.551	'27123197': previous successful authorization performed from 197.149.36.160
+2	00:30:08.765	Custom indicator b-clock modified AUDUSD,H1: removed
+2	00:30:08.765	Custom indicator AutoTrendChannel AUDUSD,H1: removed
+2	00:30:08.765	Custom indicator phoenix AUDUSD,H1: removed
+2	00:30:08.765	Custom indicator FuturoTI AUDUSD,H1: removed
+2	00:30:08.781	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	00:30:08.850	Custom indicator Entry AUDUSD,H1: loaded successfully
+2	00:30:08.912	Custom indicator Trend AUDUSD,H1: loaded successfully
+2	00:30:08.912	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	00:30:53.173	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	00:30:53.173	Custom indicator Entry AUDUSD,H1: removed
+2	00:30:53.173	Custom indicator Trend AUDUSD,H1: removed
+2	00:30:53.173	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	00:30:53.251	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	00:30:53.298	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	00:30:53.361	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	00:31:47.426	Custom indicator AIMS Levels V2 AUDUSD,M1: removed
+2	00:31:47.426	Custom indicator AIMS Entry Alert V1 AUDUSD,M1: removed
+2	00:31:47.426	Custom indicator AIMS AO V.2.1 AUDUSD,M1: removed
+2	00:31:47.504	Custom indicator MACD Candles v4 AUDUSD,M1: loaded successfully
+2	00:31:47.504	Custom indicator Dolly Graphics v14 AUDUSD,M1: loaded successfully
+2	00:32:11.389	Custom indicator MACD Candles v4 AUDUSD,H1: removed
+2	00:32:11.389	Custom indicator Dolly Graphics v14 AUDUSD,H1: removed
+2	00:32:11.452	Custom indicator b-clock modified AUDUSD,H1: loaded successfully
+2	00:32:11.514	Custom indicator AutoTrendChannel AUDUSD,H1: loaded successfully
+2	00:32:11.577	Custom indicator phoenix AUDUSD,H1: loaded successfully
+2	00:32:11.577	Custom indicator FuturoTI AUDUSD,H1: loaded successfully
+2	00:32:36.774	Custom indicator b-clock modified AUDUSD,H1: removed
+2	00:32:36.774	Custom indicator AutoTrendChannel AUDUSD,H1: removed
+2	00:32:36.774	Custom indicator phoenix AUDUSD,H1: removed
+2	00:32:36.774	Custom indicator FuturoTI AUDUSD,H1: removed
+2	00:32:36.852	Custom indicator BBand Stop Alert AUDUSD,H1: loaded successfully
+2	00:32:36.899	Custom indicator DMark_Breakout AUDUSD,H1: loaded successfully
+0	00:33:07.475	'27123197': modify order #66559017 sell 0.10 AUDUSD at 0.66183 sl: 0.66988 tp: 0.64569 -> sl: 0.66988 tp: 0.66139
+0	00:33:08.553	'27123197': order #66559017 sell 0.10 AUDUSD at 0.66183 was modified -> sl: 0.66988 tp: 0.66139
+2	00:33:26.181	Custom indicator BBand Stop Alert AUDUSD,H1: removed
+2	00:33:26.181	Custom indicator DMark_Breakout AUDUSD,H1: removed
+2	00:33:26.243	Custom indicator StochCandles AUDUSD,H1: loaded successfully
+2	00:33:26.306	Custom indicator PRICE AUDUSD,H1: loaded successfully
+2	00:33:26.352	Custom indicator ADX_MA AUDUSD,H1: loaded successfully
+2	00:33:26.415	Custom indicator Trend_Channel AUDUSD,H1: loaded successfully
+2	00:33:26.477	Custom indicator Wave Arrows AUDUSD,H1: loaded successfully
+2	00:33:26.540	Custom indicator SupportResistance Areas AUDUSD,H1: loaded successfully
+2	00:33:26.587	Custom indicator SupportResistance Levels AUDUSD,H1: loaded successfully
+2	00:33:26.649	Custom indicator TrendFilter2 AUDUSD,H1: loaded successfully
+2	00:35:44.554	Custom indicator StochCandles AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator PRICE AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator ADX_MA AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator Trend_Channel AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator Wave Arrows AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator SupportResistance Areas AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator SupportResistance Levels AUDUSD,M5: removed
+2	00:35:44.554	Custom indicator TrendFilter2 AUDUSD,M5: removed
+2	00:35:44.569	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,M5: loaded successfully
+2	00:35:44.632	Custom indicator Entry AUDUSD,M5: loaded successfully
+2	00:35:44.694	Custom indicator Trend AUDUSD,M5: loaded successfully
+2	00:35:44.694	Custom indicator Admiral Pivot AUDUSD,M5: loaded successfully
+2	00:35:44.710	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,M5: loaded successfully
+2	00:35:44.710	Custom indicator RSI Divergence Levels AUDUSD,M5: loaded successfully
+2	00:37:03.054	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,M15: removed
+2	00:37:03.054	Custom indicator Entry AUDUSD,M15: removed
+2	00:37:03.054	Custom indicator Trend AUDUSD,M15: removed
+2	00:37:03.054	Custom indicator Admiral Pivot AUDUSD,M15: removed
+2	00:37:03.054	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,M15: removed
+2	00:37:03.054	Custom indicator RSI Divergence Levels AUDUSD,M15: removed
+2	00:37:03.132	Custom indicator b-clock modified AUDUSD,M15: loaded successfully
+2	00:37:03.179	Custom indicator AutoTrendChannel AUDUSD,M15: loaded successfully
+2	00:37:03.241	Custom indicator phoenix AUDUSD,M15: loaded successfully
+2	00:37:33.026	Custom indicator b-clock modified AUDUSD,M15: removed
+2	00:37:33.026	Custom indicator AutoTrendChannel AUDUSD,M15: removed
+2	00:37:33.026	Custom indicator phoenix AUDUSD,M15: removed
+2	00:37:33.089	Custom indicator Time zone Trading AUDUSD,M15: loaded successfully
+2	00:37:33.151	Custom indicator Bars2 AUDUSD,M15: loaded successfully
+2	00:37:33.214	Custom indicator Pivot Lines 2 AUDUSD,M15: loaded successfully
+2	00:37:33.261	Custom indicator Fractals Arrows AUDUSD,M15: loaded successfully
+2	00:37:33.339	Custom indicator Trend_Line_MA AUDUSD,M15: loaded successfully
+2	00:37:33.401	Custom indicator Trend_Filter AUDUSD,M15: loaded successfully
+2	00:37:33.464	Custom indicator bb-squeeze AUDUSD,M15: loaded successfully
+2	00:38:14.125	Custom indicator Time zone Trading AUDUSD,M15: removed
+2	00:38:14.125	Custom indicator Bars2 AUDUSD,M15: removed
+2	00:38:14.125	Custom indicator Pivot Lines 2 AUDUSD,M15: removed
+2	00:38:14.125	Custom indicator Fractals Arrows AUDUSD,M15: removed
+2	00:38:14.125	Custom indicator Trend_Line_MA AUDUSD,M15: removed
+2	00:38:14.125	Custom indicator Trend_Filter AUDUSD,M15: removed
+2	00:38:14.125	Custom indicator bb-squeeze AUDUSD,M15: removed
+2	00:38:14.202	Custom indicator Time zone Trading AUDUSD,M15: loaded successfully
+2	00:38:14.249	Custom indicator Bars2 AUDUSD,M15: loaded successfully
+2	00:38:14.312	Custom indicator Pivot Lines 2 AUDUSD,M15: loaded successfully
+2	00:38:14.374	Custom indicator Fractals Arrows AUDUSD,M15: loaded successfully
+2	00:38:14.437	Custom indicator Trend_Line_MA AUDUSD,M15: loaded successfully
+2	00:38:14.484	Custom indicator Trend_Filter AUDUSD,M15: loaded successfully
+2	00:38:14.546	Custom indicator bb-squeeze AUDUSD,M15: loaded successfully
+2	00:38:19.857	Custom indicator Time zone Trading AUDUSD,M15: removed
+2	00:38:19.857	Custom indicator Bars2 AUDUSD,M15: removed
+2	00:38:19.857	Custom indicator Pivot Lines 2 AUDUSD,M15: removed
+2	00:38:19.857	Custom indicator Fractals Arrows AUDUSD,M15: removed
+2	00:38:19.857	Custom indicator Trend_Line_MA AUDUSD,M15: removed
+2	00:38:19.857	Custom indicator Trend_Filter AUDUSD,M15: removed
+2	00:38:19.857	Custom indicator bb-squeeze AUDUSD,M15: removed
+2	00:38:19.873	Custom indicator HeikenAshi_DM AUDUSD,M15: loaded successfully
+2	00:38:19.873	Custom indicator DM_DSR AUDUSD,M15: loaded successfully
+2	00:38:19.889	Custom indicator LJ_SIG AUDUSD,M15: loaded successfully
+2	00:38:19.904	Custom indicator #MarketPrice _v1_4 AUDUSD,M15: loaded successfully
+2	00:38:19.904	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,M15: loaded successfully
+2	00:38:19.920	Custom indicator LJ_SYNERGY_ID AUDUSD,M15: loaded successfully
+2	00:38:19.920	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,M15: loaded successfully
+2	00:38:19.935	Custom indicator DM_Volatility AUDUSD,M15: loaded successfully
+2	00:38:19.935	Custom indicator DM_RangeFactor AUDUSD,M15: loaded successfully
+2	00:38:19.951	Custom indicator DM_Continuation AUDUSD,M15: loaded successfully
+2	00:38:19.951	Custom indicator Status Monitor V1.2 AUDUSD,M15: loaded successfully
+2	00:39:19.676	Custom indicator HeikenAshi_DM AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator DM_DSR AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator LJ_SIG AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator #MarketPrice _v1_4 AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator CandleCountdown AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator LJ_SYNERGY_ID AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator DM_Volatility AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator DM_RangeFactor AUDUSD,M1: removed
+2	00:39:19.676	Custom indicator DM_Continuation AUDUSD,M1: removed
+2	00:39:19.691	Custom indicator Status Monitor V1.2 AUDUSD,M1: removed
+2	00:39:19.707	Custom indicator HeikenAshi_DM AUDUSD,M1: loaded successfully
+2	00:39:19.707	Custom indicator SynergyInd AUDUSD,M1: loaded successfully
+2	00:39:19.723	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,M1: loaded successfully
+2	00:39:19.723	Custom indicator Traders_Dynamic_Index AUDUSD,M1: loaded successfully
+2	00:39:19.738	Custom indicator Chaikin's Volatility_Kalenzo AUDUSD,M1: loaded successfully
+2	00:40:05.415	Custom indicator HeikenAshi_DM AUDUSD,M1: removed
+2	00:40:05.415	Custom indicator SynergyInd AUDUSD,M1: removed
+2	00:40:05.415	Custom indicator CandleCountdown AUDUSD,M1: removed
+2	00:40:05.415	Custom indicator Traders_Dynamic_Index AUDUSD,M1: removed
+2	00:40:05.415	Custom indicator Chaikin's Volatility_Kalenzo AUDUSD,M1: removed
+2	00:40:05.431	Custom indicator #LURCH_SRv5 AUDUSD,M1: loaded successfully
+2	00:40:05.431	Custom indicator Schaff Trend Cycle AUDUSD,M1: loaded successfully
+2	00:40:05.446	Custom indicator CCI AUDUSD,M1: loaded successfully
+2	00:40:05.446	Custom indicator Schaff Trend Cycle AUDUSD,M1: loaded successfully
+2	00:40:28.878	Custom indicator #LURCH_SRv5 AUDUSD,M1: removed
+2	00:40:28.878	Custom indicator Schaff Trend Cycle AUDUSD,M1: removed
+2	00:40:28.878	Custom indicator CCI AUDUSD,M1: removed
+2	00:40:28.878	Custom indicator Schaff Trend Cycle AUDUSD,M1: removed
+2	00:40:28.894	Custom indicator rsi chart bars AUDUSD,M1: loaded successfully
+2	00:40:28.956	Custom indicator PBF_2EMA_Color AUDUSD,M1: loaded successfully
+2	00:40:28.956	Custom indicator vertex_mod_3.01 alerts + arrows AUDUSD,M1: loaded successfully
+0	00:40:46.468	'27123197': close order #66559017 sell 0.10 AUDUSD at 0.66183 sl: 0.66988 tp: 0.66139 at price 0.00000
+0	00:40:46.968	'27123197': order #66559017 sell 0.10 AUDUSD at 0.66183 sl: 0.66988 tp: 0.66139 closed at price 0.66658
+2	00:41:13.844	Custom indicator rsi chart bars AUDUSD,M1: removed
+2	00:41:13.844	Custom indicator PBF_2EMA_Color AUDUSD,M1: removed
+2	00:41:13.844	Custom indicator vertex_mod_3.01 alerts + arrows AUDUSD,M1: removed
+2	00:41:13.859	Custom indicator rsi chart bars AUDUSD,M1: loaded successfully
+2	00:41:13.859	Custom indicator sell zone fibs AUDUSD,M1: loaded successfully
+2	00:41:13.875	Custom indicator buy zone fibs AUDUSD,M1: loaded successfully
+2	00:41:13.875	Custom indicator CCI AUDUSD,M1: loaded successfully
+2	00:41:41.535	Custom indicator rsi chart bars AUDUSD,M1: removed
+2	00:41:41.535	Custom indicator sell zone fibs AUDUSD,M1: removed
+2	00:41:41.535	Custom indicator buy zone fibs AUDUSD,M1: removed
+2	00:41:41.535	Custom indicator CCI AUDUSD,M1: removed
+2	00:41:41.598	Custom indicator AIMS Levels V2 AUDUSD,M1: loaded successfully
+2	00:41:41.660	Custom indicator AIMS Entry Alert V1 AUDUSD,M1: loaded successfully
+2	00:41:41.723	Custom indicator AIMS AO V.2.1 AUDUSD,M1: loaded successfully
+2	00:42:03.672	Custom indicator AIMS Levels V2 AUDUSD,M1: removed
+2	00:42:03.672	Custom indicator AIMS Entry Alert V1 AUDUSD,M1: removed
+2	00:42:03.672	Custom indicator AIMS AO V.2.1 AUDUSD,M1: removed
+2	00:42:03.734	Custom indicator b-clock modified AUDUSD,M1: loaded successfully
+2	00:42:03.797	Custom indicator AutoTrendChannel AUDUSD,M1: loaded successfully
+2	00:42:03.859	Custom indicator phoenix AUDUSD,M1: loaded successfully
+2	00:42:03.875	Custom indicator FuturoTI AUDUSD,M1: loaded successfully
+2	00:42:13.310	Custom indicator b-clock modified AUDUSD,M1: removed
+2	00:42:13.310	Custom indicator AutoTrendChannel AUDUSD,M1: removed
+2	00:42:13.310	Custom indicator phoenix AUDUSD,M1: removed
+2	00:42:13.310	Custom indicator FuturoTI AUDUSD,M1: removed
+2	00:42:13.373	Custom indicator MACD Candles v4 AUDUSD,M1: loaded successfully
+2	00:42:13.388	Custom indicator Dolly Graphics v14 AUDUSD,M1: loaded successfully
+2	00:42:47.099	Custom indicator MACD Candles v4 AUDUSD,M1: removed
+2	00:42:47.099	Custom indicator Dolly Graphics v14 AUDUSD,M1: removed
+2	00:42:47.177	Custom indicator AIMS Levels V2 AUDUSD,M1: loaded successfully
+2	00:42:47.224	Custom indicator AIMS Entry Alert V1 AUDUSD,M1: loaded successfully
+2	00:42:47.287	Custom indicator AIMS AO V.2.1 AUDUSD,M1: loaded successfully
+2	00:43:01.596	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	00:43:10.422	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	00:43:13.187	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	00:43:36.134	Custom indicator #P4L CandleTime AUDUSD,H1: loaded successfully
+2	00:43:36.134	Custom indicator TURBO PLUS+ AUDUSD,H1: loaded successfully
+2	00:43:36.150	Custom indicator ALERT SIGNAL AUDUSD,H1: loaded successfully
+2	00:43:36.166	Custom indicator Trend Trading\TrendTradingCloud AUDUSD,H1: loaded successfully
+2	00:43:36.166	Custom indicator Admiral Donchian AUDUSD,H1: loaded successfully
+2	00:43:36.181	Custom indicator Admiral High-Low AUDUSD,H1: loaded successfully
+2	00:43:36.181	Custom indicator Admiral Keltner AUDUSD,H1: loaded successfully
+2	00:43:36.197	Custom indicator Admiral Pivot AUDUSD,H1: loaded successfully
+2	00:43:36.213	Custom indicator Admiral Symbol Info AUDUSD,H1: loaded successfully
+2	00:43:36.213	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	00:43:36.228	Custom indicator MACD_Volumes-2 AUDUSD,H1: loaded successfully
+2	00:43:36.228	Custom indicator Trend Trading\CloudSignalLines AUDUSD,H1: loaded successfully
+2	00:43:36.541	Custom indicator MBFX Timing AUDUSD,H1: loaded successfully
+2	00:45:15.176	Custom indicator MBFX Timing AUDUSD,H1: removed
+2	00:45:15.176	Custom indicator #P4L CandleTime AUDUSD,H1: removed
+2	00:45:15.176	Custom indicator TURBO PLUS+ AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator ALERT SIGNAL AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator TrendTradingCloud AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator Admiral Donchian AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator Admiral High-Low AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator Admiral Keltner AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator Admiral Pivot AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator Admiral Symbol Info AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator MACD_Volumes-2 AUDUSD,H1: removed
+2	00:45:15.191	Custom indicator CloudSignalLines AUDUSD,H1: removed
+2	00:45:15.222	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	00:45:15.285	Custom indicator #P4L CandleTime AUDUSD,H1: loaded successfully
+2	00:45:15.285	Custom indicator TURBO PLUS+ AUDUSD,H1: loaded successfully
+2	00:45:15.285	Custom indicator ALERT SIGNAL AUDUSD,H1: loaded successfully
+2	00:45:15.301	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	00:45:15.301	Custom indicator MACD_Volumes-2 AUDUSD,H1: loaded successfully
+2	00:45:15.441	Custom indicator MBFX Timing AUDUSD,H1: loaded successfully
+2	00:45:23.346	Custom indicator MBFX Timing AUDUSD,H1: removed
+2	00:45:23.346	Custom indicator CandleTimer AUDUSD,H1: removed
+2	00:45:23.346	Custom indicator #P4L CandleTime AUDUSD,H1: removed
+2	00:45:23.346	Custom indicator TURBO PLUS+ AUDUSD,H1: removed
+2	00:45:23.361	Custom indicator ALERT SIGNAL AUDUSD,H1: removed
+2	00:45:23.361	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	00:45:23.361	Custom indicator MACD_Volumes-2 AUDUSD,H1: removed
+2	00:45:23.361	Custom indicator !!ZeusArrow-SNR-1 AUDUSD,H1: loaded successfully
+2	00:45:23.377	Custom indicator !!ZeusArrow-SNR-2 AUDUSD,H1: loaded successfully
+2	00:45:23.392	Custom indicator !!ZeusArrow-CurrencyPair AUDUSD,H1: loaded successfully
+2	00:45:23.392	Custom indicator !!ZeusArrow-Reversal AUDUSD,H1: loaded successfully
+2	00:45:23.408	Custom indicator !!ZeusArrowPremium AUDUSD,H1: loaded successfully
+2	00:45:23.424	Custom indicator !!ZeusArrowV1.1 AUDUSD,H1: loaded successfully
+2	00:45:51.573	Custom indicator !!ZeusArrow-SNR-1 AUDUSD,H1: removed
+2	00:45:51.573	Custom indicator !!ZeusArrow-SNR-2 AUDUSD,H1: removed
+2	00:45:51.589	Custom indicator !!ZeusArrow-CurrencyPair AUDUSD,H1: removed
+2	00:45:51.589	Custom indicator !!ZeusArrow-Reversal AUDUSD,H1: removed
+2	00:45:51.589	Custom indicator !!ZeusArrowPremium AUDUSD,H1: removed
+2	00:45:51.589	Custom indicator !!ZeusArrowV1.1 AUDUSD,H1: removed
+2	00:45:51.651	Custom indicator i-Sessions AUDUSD,H1: loaded successfully
+2	00:45:51.667	Custom indicator P4L CandleTime AUDUSD,H1: loaded successfully
+2	00:45:51.667	Custom indicator ssc AUDUSD,H1: loaded successfully
+2	00:45:51.683	Custom indicator Stochastic AUDUSD,H1: loaded successfully
+2	00:45:51.698	Custom indicator VCustom3 AUDUSD,H1: loaded successfully
+2	00:46:11.006	Custom indicator i-Sessions AUDUSD,H1: removed
+2	00:46:11.006	Custom indicator P4L CandleTime AUDUSD,H1: removed
+2	00:46:11.006	Custom indicator ssc AUDUSD,H1: removed
+2	00:46:11.006	Custom indicator Stochastic AUDUSD,H1: removed
+2	00:46:11.006	Custom indicator VCustom3 AUDUSD,H1: removed
+2	00:46:11.022	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	00:46:11.037	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	00:46:16.489	Custom indicator CandleTimer AUDUSD,H1: removed
+2	00:46:16.489	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	00:46:16.505	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	00:46:16.520	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	00:46:16.536	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,H1: loaded successfully
+2	00:46:23.316	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,H1: removed
+2	00:46:23.316	Custom indicator CandleTimer AUDUSD,H1: removed
+2	00:46:23.316	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	00:46:33.938	Custom indicator ABT 60 Sec Trend Trending\TrendIdentifier AUDUSD,H1: loaded successfully
+2	00:46:33.954	Custom indicator ABT 60 Sec Trend Trending\CandleCountdown AUDUSD,H1: loaded successfully
+2	00:46:33.954	Custom indicator ABT 60 Sec Trend Trending\adx AUDUSD,H1: loaded successfully
+2	00:46:33.969	Custom indicator ABT 60 Sec Trend Trending\adx AUDUSD,H1: loaded successfully
+2	00:46:42.077	Custom indicator TrendIdentifier AUDUSD,H1: removed
+2	00:46:42.077	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	00:46:42.077	Custom indicator adx AUDUSD,H1: removed
+2	00:46:42.077	Custom indicator adx AUDUSD,H1: removed
+2	00:46:42.093	Custom indicator Admiral Donchian AUDUSD,H1: loaded successfully
+2	00:46:42.093	Custom indicator Admiral High-Low AUDUSD,H1: loaded successfully
+2	00:46:42.108	Custom indicator Admiral Keltner AUDUSD,H1: loaded successfully
+2	00:46:42.108	Custom indicator Admiral Pivot AUDUSD,H1: loaded successfully
+2	00:46:42.124	Custom indicator Admiral Symbol Info AUDUSD,H1: loaded successfully
+2	00:46:42.186	Custom indicator #P4L CandleTime AUDUSD,H1: loaded successfully
+2	00:46:42.202	Expert Admiral - Mini Terminal AUDUSD,H1: loaded successfully
+2	00:47:02.041	Expert Admiral - Mini Terminal AUDUSD,H1: removed
+2	00:47:02.041	Custom indicator Admiral Donchian AUDUSD,H1: removed
+2	00:47:02.041	Custom indicator Admiral High-Low AUDUSD,H1: removed
+2	00:47:02.041	Custom indicator Admiral Keltner AUDUSD,H1: removed
+2	00:47:02.041	Custom indicator Admiral Pivot AUDUSD,H1: removed
+2	00:47:02.041	Custom indicator Admiral Symbol Info AUDUSD,H1: removed
+2	00:47:02.041	Custom indicator #P4L CandleTime AUDUSD,H1: removed
+2	00:47:06.759	Custom indicator Asia2 V4.0 AUDUSD,H1: loaded successfully
+2	00:47:06.759	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	00:47:06.774	Custom indicator Asia Premium AUDUSD,H1: loaded successfully
+2	00:47:14.429	Custom indicator Asia2 V4.0 AUDUSD,H1: removed
+2	00:47:14.429	Custom indicator CandleTimer AUDUSD,H1: removed
+2	00:47:14.429	Custom indicator Asia Premium AUDUSD,H1: removed
+2	00:47:23.781	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	00:47:23.843	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	00:47:23.906	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	00:47:41.027	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	00:47:41.027	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	00:47:41.027	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	00:47:41.089	Custom indicator #P4L CandleTime AUDUSD,H1: loaded successfully
+2	00:47:41.105	Custom indicator TURBO PLUS+ AUDUSD,H1: loaded successfully
+2	00:47:41.105	Custom indicator ALERT SIGNAL AUDUSD,H1: loaded successfully
+2	00:47:41.214	Custom indicator MBFX Timing AUDUSD,H1: loaded successfully
+2	00:47:46.697	Custom indicator MBFX Timing AUDUSD,H1: removed
+2	00:47:46.697	Custom indicator #P4L CandleTime AUDUSD,H1: removed
+2	00:47:46.697	Custom indicator TURBO PLUS+ AUDUSD,H1: removed
+2	00:47:46.697	Custom indicator ALERT SIGNAL AUDUSD,H1: removed
+2	00:47:46.713	Custom indicator Agims AUDUSD,H1: loaded successfully
+2	00:47:58.054	Custom indicator Agims AUDUSD,H1: removed
+2	00:48:09.848	Custom indicator Signal Crocodile Indicator\Crocodile indicatorv2 AUDUSD,H1: loaded successfully
+2	00:48:09.864	Custom indicator Signal Crocodile Indicator\Crocodile indicator v2 AUDUSD,H1: loaded successfully
+2	00:48:09.926	Custom indicator Signal Crocodile Indicator\Crocodile indicator  AUDUSD,H1: loaded successfully
+2	00:48:21.642	Custom indicator Crocodile indicatorv2 AUDUSD,H1: removed
+2	00:48:21.642	Custom indicator Crocodile indicator v2 AUDUSD,H1: removed
+2	00:48:21.642	Custom indicator Crocodile indicator  AUDUSD,H1: removed
+2	00:48:21.705	Custom indicator Signal Crocodile Indicator\Crocodile indicatorv2 AUDUSD,H1: loaded successfully
+2	00:48:21.720	Custom indicator Signal Crocodile Indicator\Crocodile indicator v2 AUDUSD,H1: loaded successfully
+2	00:48:21.783	Custom indicator Signal Crocodile Indicator\Crocodile indicator  AUDUSD,H1: loaded successfully
+2	00:48:27.578	Custom indicator Crocodile indicatorv2 AUDUSD,H1: removed
+2	00:48:27.578	Custom indicator Crocodile indicator v2 AUDUSD,H1: removed
+2	00:48:27.578	Custom indicator Crocodile indicator  AUDUSD,H1: removed
+2	00:48:27.594	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	00:48:27.610	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	00:48:27.610	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	00:48:27.625	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	00:48:27.625	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	00:48:27.641	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	00:48:27.641	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	00:48:27.657	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	00:48:27.657	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	00:48:27.672	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	00:48:45.059	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator DM_DSR AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	00:48:45.059	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	00:48:45.074	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	00:48:45.074	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	00:48:45.074	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	00:48:45.090	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	00:48:45.090	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	00:48:45.106	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	00:48:45.106	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	00:48:45.121	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	00:48:45.121	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	00:48:45.137	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	00:48:45.137	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	00:48:45.152	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	00:48:45.152	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	00:49:12.559	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	00:49:12.559	Custom indicator DM_DSR AUDUSD,H1: removed
+2	00:49:12.559	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	00:49:12.559	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	00:49:12.559	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	00:49:12.559	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	00:49:12.574	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	00:49:12.574	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	00:49:12.574	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	00:49:12.574	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	00:49:12.574	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	00:49:12.574	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	00:49:12.590	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	00:49:12.590	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	00:49:12.606	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	00:49:12.606	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	00:49:12.621	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	00:49:12.621	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	00:49:12.637	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	00:49:12.637	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	00:49:12.653	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	00:49:29.195	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator DM_DSR AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	00:49:29.195	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	00:49:29.211	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	00:49:29.211	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	00:49:29.211	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	00:49:29.227	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	00:49:29.227	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	00:49:29.242	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	00:49:29.242	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	00:49:29.258	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	00:49:29.258	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	00:49:29.274	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	00:49:29.274	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	00:49:29.289	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	00:49:29.289	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	00:49:44.880	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator DM_DSR AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	00:49:44.895	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	00:49:44.911	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	00:49:44.911	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	00:49:44.973	Custom indicator #P4L CandleTime AUDUSD,H1: loaded successfully
+2	00:49:44.973	Custom indicator TURBO PLUS+ AUDUSD,H1: loaded successfully
+2	00:49:44.989	Custom indicator ALERT SIGNAL AUDUSD,H1: loaded successfully
+2	00:49:44.989	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	00:49:45.004	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,H1: loaded successfully
+2	00:49:45.129	Custom indicator MBFX Timing AUDUSD,H1: loaded successfully
+2	00:49:53.331	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,H1: removed
+2	00:50:10.170	Custom indicator MBFX Timing AUDUSD,H1: removed
+2	00:50:10.170	Custom indicator CandleTimer AUDUSD,H1: removed
+2	00:50:10.170	Custom indicator #P4L CandleTime AUDUSD,H1: removed
+2	00:50:10.170	Custom indicator TURBO PLUS+ AUDUSD,H1: removed
+2	00:50:10.186	Custom indicator ALERT SIGNAL AUDUSD,H1: removed
+2	00:50:10.186	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	00:50:10.217	Custom indicator HOLY GRAIL 1.6 AUDUSD,H1: loaded successfully
+2	00:50:19.137	Custom indicator HOLY GRAIL 1.6 AUDUSD,H1: removed
+2	00:50:19.137	Custom indicator Agims AUDUSD,H1: loaded successfully
+2	00:50:19.152	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	00:50:19.168	Custom indicator Asia2 V4.0 AUDUSD,H1: loaded successfully
+2	00:50:19.231	Custom indicator i-Sessions AUDUSD,H1: loaded successfully
+2	00:50:30.509	Custom indicator Agims AUDUSD,H1: removed
+2	00:50:30.509	Custom indicator CandleTimer AUDUSD,H1: removed
+2	00:50:30.509	Custom indicator Asia2 V4.0 AUDUSD,H1: removed
+2	00:50:30.509	Custom indicator i-Sessions AUDUSD,H1: removed
+2	00:50:30.556	Custom indicator RSBot_V7 AUDUSD,H1: loaded successfully
+2	00:50:49.661	Custom indicator RSBot_V7 AUDUSD,H1: removed
+2	00:50:49.677	Custom indicator LondonSniperArrows AUDUSD,H1: loaded successfully
+2	00:51:08.532	Custom indicator LondonSniperArrows AUDUSD,H1: removed
+2	00:51:08.594	Custom indicator HolyCandleTime AUDUSD,H1: loaded successfully
+2	00:51:08.656	Custom indicator USAIN-BOLT AUDUSD,H1: loaded successfully
+2	00:51:22.419	Custom indicator HolyCandleTime AUDUSD,H1: removed
+2	00:51:22.419	Custom indicator USAIN-BOLT AUDUSD,H1: removed
+2	00:51:22.481	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	00:51:22.544	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	00:51:22.606	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	00:51:42.321	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	00:52:09.908	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	00:52:36.827	Custom indicator b-clock modified AUDNZD,M1: loaded successfully
+2	00:52:36.889	Custom indicator AutoTrendChannel AUDNZD,M1: loaded successfully
+2	00:52:36.952	Custom indicator phoenix AUDNZD,M1: loaded successfully
+2	00:52:36.952	Custom indicator FuturoTI AUDNZD,M1: loaded successfully
+2	00:53:11.421	Custom indicator b-clock modified AUDNZD,M1: removed
+2	00:53:11.421	Custom indicator AutoTrendChannel AUDNZD,M1: removed
+2	00:53:11.421	Custom indicator phoenix AUDNZD,M1: removed
+2	00:53:11.421	Custom indicator FuturoTI AUDNZD,M1: removed
+2	00:53:11.484	Custom indicator MACD Candles v4 AUDNZD,M1: loaded successfully
+2	00:53:11.499	Custom indicator Dolly Graphics v14 AUDNZD,M1: loaded successfully
+2	00:53:41.680	Custom indicator Dolly Graphics v14 AUDUSD,H1: loaded successfully
+2	00:54:44.478	Custom indicator MACD Candles v4 AUDNZD,M1: removed
+0	00:55:16.033	HistoryCenter: synchronize 'AUDUSD15'
+0	00:55:17.064	HistoryCenter: 2 bars imported in 'AUDUSD15'
+2	00:56:48.152	Custom indicator Dolly Graphics v14 AUDNZD,M30: removed
+2	00:56:48.214	Custom indicator MACD Candles v4 AUDNZD,M30: loaded successfully
+2	00:56:48.230	Custom indicator Dolly Graphics v14 AUDNZD,M30: loaded successfully
+0	00:57:05.788	HistoryCenter: synchronize 'GBPUSD60'
+0	00:57:06.678	HistoryCenter: 2 bars imported in 'GBPUSD60'
+2	01:30:27.660	Custom indicator MACD Candles v4 GBPAUD,H1: loaded successfully
+2	01:30:27.674	Custom indicator Dolly Graphics v14 GBPAUD,H1: loaded successfully
+2	01:30:55.059	Custom indicator MACD Candles v4 GBPAUD,H1: removed
+2	01:30:55.059	Custom indicator Dolly Graphics v14 GBPAUD,H1: removed
+2	01:30:55.075	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	01:30:55.137	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	01:30:55.200	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	01:30:55.215	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	01:31:06.826	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	01:31:06.826	Custom indicator Entry GBPAUD,H1: removed
+2	01:31:06.826	Custom indicator Trend GBPAUD,H1: removed
+2	01:31:06.828	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	01:31:06.882	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	01:31:06.944	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	01:31:07.007	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	01:31:17.285	Custom indicator AIMS Levels V2 GBPAUD,H1: removed
+2	01:31:17.285	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: removed
+2	01:31:17.285	Custom indicator AIMS AO V.2.1 GBPAUD,H1: removed
+2	01:31:17.353	Custom indicator b-clock modified GBPAUD,H1: loaded successfully
+2	01:31:17.418	Custom indicator AutoTrendChannel GBPAUD,H1: loaded successfully
+2	01:31:17.482	Custom indicator phoenix GBPAUD,H1: loaded successfully
+2	01:31:17.492	Custom indicator FuturoTI GBPAUD,H1: loaded successfully
+2	01:31:31.853	Custom indicator b-clock modified GBPAUD,H1: removed
+2	01:31:31.854	Custom indicator AutoTrendChannel GBPAUD,H1: removed
+2	01:31:31.854	Custom indicator phoenix GBPAUD,H1: removed
+2	01:31:31.856	Custom indicator FuturoTI GBPAUD,H1: removed
+2	01:31:31.924	Custom indicator BBand Stop Alert GBPAUD,H1: loaded successfully
+2	01:31:31.990	Custom indicator DMark_Breakout GBPAUD,H1: loaded successfully
+2	01:31:39.125	Custom indicator BBand Stop Alert GBPAUD,H1: removed
+2	01:31:39.125	Custom indicator DMark_Breakout GBPAUD,H1: removed
+2	01:31:39.195	Custom indicator StochCandles GBPAUD,H1: loaded successfully
+2	01:31:39.273	Custom indicator PRICE GBPAUD,H1: loaded successfully
+2	01:31:39.339	Custom indicator ADX_MA GBPAUD,H1: loaded successfully
+2	01:31:39.405	Custom indicator Trend_Channel GBPAUD,H1: loaded successfully
+2	01:31:39.471	Custom indicator Wave Arrows GBPAUD,H1: loaded successfully
+2	01:31:39.537	Custom indicator SupportResistance Areas GBPAUD,H1: loaded successfully
+2	01:31:39.603	Custom indicator SupportResistance Levels GBPAUD,H1: loaded successfully
+2	01:31:39.668	Custom indicator TrendFilter2 GBPAUD,H1: loaded successfully
+2	01:51:41.254	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	01:51:41.323	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	01:51:41.389	Custom indicator Trend GBPJPY,H1: loaded successfully
+2	01:51:41.398	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	01:51:57.408	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	01:51:57.408	Custom indicator Entry GBPJPY,H1: removed
+2	01:51:57.408	Custom indicator Trend GBPJPY,H1: removed
+2	01:51:57.411	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: removed
+2	01:51:57.484	Custom indicator MACD Candles v4 GBPJPY,H1: loaded successfully
+2	01:51:57.496	Custom indicator Dolly Graphics v14 GBPJPY,H1: loaded successfully
+2	01:52:34.048	Custom indicator MACD Candles v4 GBPJPY,H1: removed
+2	01:52:34.049	Custom indicator Dolly Graphics v14 GBPJPY,H1: removed
+2	01:52:34.116	Custom indicator MACD Candles v4 GBPJPY,H1: loaded successfully
+2	01:52:34.127	Custom indicator Dolly Graphics v14 GBPJPY,H1: loaded successfully
+2	01:52:43.843	Custom indicator MACD Candles v4 GBPJPY,H1: removed
+2	01:52:43.845	Custom indicator Dolly Graphics v14 GBPJPY,H1: removed
+2	01:52:43.914	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	01:52:43.981	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	01:52:44.047	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	01:52:58.708	Custom indicator AIMS Levels V2 GBPJPY,H1: removed
+2	01:52:58.708	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: removed
+2	01:52:58.708	Custom indicator AIMS AO V.2.1 GBPJPY,H1: removed
+2	01:52:58.778	Custom indicator b-clock modified GBPJPY,H1: loaded successfully
+2	01:52:58.841	Custom indicator AutoTrendChannel GBPJPY,H1: loaded successfully
+2	01:52:58.909	Custom indicator phoenix GBPJPY,H1: loaded successfully
+2	01:52:58.920	Custom indicator FuturoTI GBPJPY,H1: loaded successfully
+2	01:53:38.545	Custom indicator b-clock modified GBPJPY,M15: removed
+2	01:53:38.545	Custom indicator AutoTrendChannel GBPJPY,M15: removed
+2	01:53:38.545	Custom indicator phoenix GBPJPY,M15: removed
+2	01:53:38.547	Custom indicator FuturoTI GBPJPY,M15: removed
+2	01:53:38.614	Custom indicator BBand Stop Alert GBPJPY,M15: loaded successfully
+2	01:53:38.679	Custom indicator DMark_Breakout GBPJPY,M15: loaded successfully
+2	01:53:53.106	Custom indicator BBand Stop Alert GBPJPY,M15: removed
+2	01:53:53.106	Custom indicator DMark_Breakout GBPJPY,M15: removed
+2	01:53:53.176	Custom indicator StochCandles GBPJPY,M15: loaded successfully
+2	01:53:53.248	Custom indicator PRICE GBPJPY,M15: loaded successfully
+2	01:53:53.312	Custom indicator ADX_MA GBPJPY,M15: loaded successfully
+2	01:53:53.373	Custom indicator Trend_Channel GBPJPY,M15: loaded successfully
+2	01:53:53.436	Custom indicator Wave Arrows GBPJPY,M15: loaded successfully
+2	01:53:53.498	Custom indicator SupportResistance Areas GBPJPY,M15: loaded successfully
+2	01:53:53.562	Custom indicator SupportResistance Levels GBPJPY,M15: loaded successfully
+2	01:53:53.627	Custom indicator TrendFilter2 GBPJPY,M15: loaded successfully
+0	01:56:52.681	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 208.30 ms)
+0	01:56:54.908	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 208.30 ms)
+0	01:56:55.532	'23875089': previous successful authorization performed from 197.149.36.160
+0	01:56:59.665	'23875089': close order #181052406 sell 40.00 #BNP at 30.730 sl: 0.000 tp: 0.000 at price 0.000
+1	01:57:00.201	'23875089': order #181052406 sell 40.00 #BNP closing at 0.000 failed [Market is closed]
+0	01:57:15.382	'23875089': close order #181052406 sell 40.00 #BNP at 30.730 sl: 0.000 tp: 0.000 at price 0.000
+0	01:57:15.862	'23875089': auto connecting to a better access point Access Point #1 (ping is 255.87 ms)
+1	01:57:15.872	'23875089': order #181052406 sell 40.00 #BNP closing at 0.000 failed [Market is closed]
+0	01:57:16.993	'23875089': login on AdmiralMarkets-Demo through Access Point #1 (ping: 255.87 ms)
+0	01:57:20.075	'23875089': close order #181051907 sell 10.00 #BNP at 30.830 sl: 0.000 tp: 0.000 at price 0.000
+0	01:57:20.136	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 255.87 ms)
+0	01:57:22.558	'23875089': previous successful authorization performed from 197.149.36.160
+2	02:06:43.914	Custom indicator b-clock modified EURUSD,M1: removed
+2	02:06:43.918	Custom indicator AutoTrendChannel EURUSD,M1: removed
+2	02:06:43.918	Custom indicator phoenix EURUSD,M1: removed
+2	02:06:43.920	Custom indicator FuturoTI EURUSD,M1: removed
+2	02:06:43.988	Custom indicator MACD Candles v4 EURUSD,M1: loaded successfully
+2	02:06:44.001	Custom indicator Dolly Graphics v14 EURUSD,M1: loaded successfully
+0	02:08:28.443	'23875089': close order #181051092 buy 0.20 #BNP at 30.820 sl: 0.000 tp: 0.000 at price 0.000
+1	02:08:28.889	'23875089': order #181051092 buy 0.20 #BNP closing at 0.000 failed [Market is closed]
+2	02:08:40.356	Custom indicator MACD Candles v4 EURUSD,M5: removed
+2	02:08:40.358	Custom indicator Dolly Graphics v14 EURUSD,M5: removed
+2	02:08:40.432	Custom indicator AIMS Levels V2 EURUSD,M5: loaded successfully
+2	02:08:40.498	Custom indicator AIMS Entry Alert V1 EURUSD,M5: loaded successfully
+2	02:08:40.570	Custom indicator AIMS AO V.2.1 EURUSD,M5: loaded successfully
+0	02:09:07.410	'23875089': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	02:09:07.895	'23875089': order was opened : #181557206 buy 0.10 EURUSD at 1.11151 sl: 0.00000 tp: 0.00000
+2	02:09:19.239	Custom indicator AIMS Levels V2 EURUSD,M5: removed
+2	02:09:19.239	Custom indicator AIMS Entry Alert V1 EURUSD,M5: removed
+2	02:09:19.239	Custom indicator AIMS AO V.2.1 EURUSD,M5: removed
+2	02:09:19.309	Custom indicator b-clock modified EURUSD,M5: loaded successfully
+2	02:09:19.375	Custom indicator AutoTrendChannel EURUSD,M5: loaded successfully
+2	02:09:19.443	Custom indicator phoenix EURUSD,M5: loaded successfully
+2	02:09:19.455	Custom indicator FuturoTI EURUSD,M5: loaded successfully
+0	02:09:44.334	'23875089': modify order #181557206 buy 0.10 EURUSD at 1.11151 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11189
+0	02:09:44.831	'23875089': order #181557206 buy 0.10 EURUSD at 1.11151 was modified -> sl: 0.00000 tp: 1.11189
+0	02:15:18.592	'23875089': login on AdmiralMarkets-Demo through Access Point #1 (ping: 255.87 ms)
+0	02:15:20.712	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 255.87 ms)
+0	02:15:21.391	'23875089': previous successful authorization performed from 197.149.36.160
+2	02:16:38.609	Custom indicator b-clock modified EURUSD,M5: removed
+2	02:16:38.613	Custom indicator AutoTrendChannel EURUSD,M5: removed
+2	02:16:38.613	Custom indicator phoenix EURUSD,M5: removed
+2	02:16:38.614	Custom indicator FuturoTI EURUSD,M5: removed
+2	02:16:38.631	Custom indicator $-ForecastCityIntradayIndicator EURUSD,M5: loaded successfully
+2	02:16:38.698	Custom indicator Entry EURUSD,M5: loaded successfully
+2	02:16:38.768	Custom indicator Trend EURUSD,M5: loaded successfully
+2	02:16:38.777	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M5: loaded successfully
+2	02:16:52.184	Custom indicator $-ForecastCityIntradayIndicator EURUSD,M5: removed
+2	02:16:52.184	Custom indicator Entry EURUSD,M5: removed
+2	02:16:52.184	Custom indicator Trend EURUSD,M5: removed
+2	02:16:52.185	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M5: removed
+2	02:16:52.263	Custom indicator BBand Stop Alert EURUSD,M5: loaded successfully
+2	02:16:52.330	Custom indicator DMark_Breakout EURUSD,M5: loaded successfully
+2	02:17:12.414	Custom indicator BBand Stop Alert EURUSD,M5: removed
+2	02:17:12.415	Custom indicator DMark_Breakout EURUSD,M5: removed
+2	02:17:12.486	Custom indicator StochCandles EURUSD,M5: loaded successfully
+2	02:17:12.552	Custom indicator PRICE EURUSD,M5: loaded successfully
+2	02:17:12.618	Custom indicator ADX_MA EURUSD,M5: loaded successfully
+2	02:17:12.686	Custom indicator Trend_Channel EURUSD,M5: loaded successfully
+2	02:17:12.752	Custom indicator Wave Arrows EURUSD,M5: loaded successfully
+2	02:17:12.815	Custom indicator SupportResistance Areas EURUSD,M5: loaded successfully
+2	02:17:12.881	Custom indicator SupportResistance Levels EURUSD,M5: loaded successfully
+2	02:17:12.947	Custom indicator TrendFilter2 EURUSD,M5: loaded successfully
+0	02:17:57.284	'23875089': pending order buy limit 0.10 EURUSD at 1.11070 sl: 0.00000 tp: 0.00000
+0	02:17:57.996	'23875089': order was opened : #181557691 buy limit 0.10 EURUSD at 1.11070 sl: 0.00000 tp: 0.00000
+1	02:18:19.568	'23875089': modification of pending order #181557691 buy limit 0.10 EURUSD at 1.11070 sl: 0.00000 tp: 0.00000 -> price: 1.11274 sl: 0.00000 tp: 0.00000 failed [Invalid S/L or T/P]
+0	02:18:30.391	'23875089': delete pending order #181557691 buy limit 0.10 EURUSD at 1.11070 sl: 0.00000 tp: 0.00000
+0	02:18:31.145	'23875089': pending order #181557691 was deleted
+2	02:19:16.947	Custom indicator StochCandles EURUSD,M5: removed
+2	02:19:16.947	Custom indicator PRICE EURUSD,M5: removed
+2	02:19:16.947	Custom indicator ADX_MA EURUSD,M5: removed
+2	02:19:16.947	Custom indicator Trend_Channel EURUSD,M5: removed
+2	02:19:16.947	Custom indicator Wave Arrows EURUSD,M5: removed
+2	02:19:16.947	Custom indicator SupportResistance Areas EURUSD,M5: removed
+2	02:19:16.947	Custom indicator SupportResistance Levels EURUSD,M5: removed
+2	02:19:16.949	Custom indicator TrendFilter2 EURUSD,M5: removed
+2	02:19:17.014	Custom indicator b-clock modified EURUSD,M5: loaded successfully
+2	02:19:17.079	Custom indicator AutoTrendChannel EURUSD,M5: loaded successfully
+2	02:19:17.150	Custom indicator phoenix EURUSD,M5: loaded successfully
+2	02:19:17.161	Custom indicator FuturoTI EURUSD,M5: loaded successfully
+0	02:22:43.830	'23875089': order buy market 0.20 EURJPY sl: 0.000 tp: 0.000
+0	02:22:44.288	'23875089': order was opened : #181557998 buy 0.20 EURJPY at 119.718 sl: 0.000 tp: 0.000
+1	02:33:49.409	'23875089': modification of order #181557998 buy 0.20 EURJPY at 119.718 sl: 0.000 tp: 0.000 -> sl: 119.716 tp: 0.000 failed [Invalid S/L or T/P]
+1	02:33:55.208	'23875089': modification of order #181557998 buy 0.20 EURJPY at 119.718 sl: 0.000 tp: 0.000 -> sl: 119.699 tp: 0.000 failed [Invalid S/L or T/P]
+0	02:34:00.598	'23875089': modify order #181557998 buy 0.20 EURJPY at 119.718 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 119.726
+0	02:34:00.921	'23875089': order #181557998 buy 0.20 EURJPY at 119.718 was modified -> sl: 0.000 tp: 119.726
+0	02:34:03.810	'23875089': modify order #181557998 buy 0.20 EURJPY at 119.718 sl: 0.000 tp: 119.726 -> sl: 0.000 tp: 119.712
+0	02:34:04.155	'23875089': order #181557998 buy 0.20 EURJPY at 119.718 was modified -> sl: 0.000 tp: 119.712
+0	02:34:17.756	'23875089': modify order #181557998 buy 0.20 EURJPY at 119.718 sl: 0.000 tp: 119.712 -> sl: 0.000 tp: 119.719
+0	02:34:18.603	'23875089': order #181557998 buy 0.20 EURJPY at 119.718 was modified -> sl: 0.000 tp: 119.719
+0	02:48:54.235	'23875089': order #181557998 buy 0.20 EURJPY at 119.718 closed due take-profit at price 119.719
+0	02:53:40.228	'23875089': order #181557206 buy 0.10 EURUSD at 1.11151 closed due take-profit at price 1.11189
+2	03:51:20.632	Custom indicator StochCandles GBPAUD,H1: removed
+2	03:51:20.650	Custom indicator PRICE GBPAUD,H1: removed
+2	03:51:20.650	Custom indicator ADX_MA GBPAUD,H1: removed
+2	03:51:20.666	Custom indicator Trend_Channel GBPAUD,H1: removed
+2	03:51:20.682	Custom indicator Wave Arrows GBPAUD,H1: removed
+2	03:51:20.682	Custom indicator SupportResistance Areas GBPAUD,H1: removed
+2	03:51:20.707	Custom indicator SupportResistance Levels GBPAUD,H1: removed
+2	03:51:20.732	Custom indicator TrendFilter2 GBPAUD,H1: removed
+2	03:51:20.801	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	03:51:20.882	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	03:51:20.949	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	03:51:32.633	Custom indicator AIMS Levels V2 GBPAUD,H1: removed
+2	03:51:32.633	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: removed
+2	03:51:32.633	Custom indicator AIMS AO V.2.1 GBPAUD,H1: removed
+2	03:51:32.703	Custom indicator MACD Candles v4 GBPAUD,H1: loaded successfully
+2	03:51:32.716	Custom indicator Dolly Graphics v14 GBPAUD,H1: loaded successfully
+2	03:51:59.889	Custom indicator MACD Candles v4 GBPAUD,H1: removed
+2	03:51:59.891	Custom indicator Dolly Graphics v14 GBPAUD,H1: removed
+2	03:51:59.926	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	03:51:59.994	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	03:52:00.065	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	03:52:00.109	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	03:52:17.747	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	03:52:17.747	Custom indicator Entry GBPAUD,H1: removed
+2	03:52:17.747	Custom indicator Trend GBPAUD,H1: removed
+2	03:52:17.748	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	03:52:17.829	Custom indicator b-clock modified GBPAUD,H1: loaded successfully
+2	03:52:17.896	Custom indicator AutoTrendChannel GBPAUD,H1: loaded successfully
+2	03:52:17.962	Custom indicator phoenix GBPAUD,H1: loaded successfully
+2	03:52:17.975	Custom indicator FuturoTI GBPAUD,H1: loaded successfully
+0	03:53:04.828	'23875089': order buy market 0.20 GBPAUD sl: 0.00000 tp: 0.00000
+0	03:53:05.207	'23875089': order was opened : #181563234 buy 0.20 GBPAUD at 1.84976 sl: 0.00000 tp: 0.00000
+0	03:53:43.068	'23875089': modify order #181563234 buy 0.20 GBPAUD at 1.84976 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.85037
+0	03:53:43.389	'23875089': order #181563234 buy 0.20 GBPAUD at 1.84976 was modified -> sl: 0.00000 tp: 1.85037
+0	03:53:57.523	'23875089': modify order #181563234 buy 0.20 GBPAUD at 1.84976 sl: 0.00000 tp: 1.85037 -> sl: 1.84797 tp: 1.85037
+0	03:53:57.864	'23875089': order #181563234 buy 0.20 GBPAUD at 1.84976 was modified -> sl: 1.84797 tp: 1.85037
+0	04:01:53.376	'23875089': order #181563234 buy 0.20 GBPAUD at 1.84976 closed due take-profit at price 1.85037
+2	04:54:17.891	Custom indicator b-clock modified GBPAUD,H1: removed
+2	04:54:17.954	Custom indicator AutoTrendChannel GBPAUD,H1: removed
+2	04:54:17.954	Custom indicator phoenix GBPAUD,H1: removed
+2	04:54:17.958	Custom indicator FuturoTI GBPAUD,H1: removed
+2	04:54:18.044	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	04:54:18.111	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	04:54:18.179	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	04:54:30.444	Custom indicator AIMS Levels V2 GBPAUD,H1: removed
+2	04:54:30.444	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: removed
+2	04:54:30.444	Custom indicator AIMS AO V.2.1 GBPAUD,H1: removed
+2	04:54:30.514	Custom indicator MACD Candles v4 GBPAUD,H1: loaded successfully
+2	04:54:30.642	Custom indicator Dolly Graphics v14 GBPAUD,H1: loaded successfully
+2	04:54:46.213	Custom indicator MACD Candles v4 GBPAUD,H1: removed
+2	04:54:46.214	Custom indicator Dolly Graphics v14 GBPAUD,H1: removed
+2	04:54:46.263	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	04:54:46.332	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	04:54:46.400	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	04:54:46.410	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	04:55:20.688	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	04:55:20.688	Custom indicator Entry GBPAUD,H1: removed
+2	04:55:20.701	Custom indicator Trend GBPAUD,H1: removed
+2	04:55:20.704	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	04:55:20.789	Custom indicator b-clock modified GBPAUD,H1: loaded successfully
+2	04:55:20.854	Custom indicator AutoTrendChannel GBPAUD,H1: loaded successfully
+2	04:55:20.922	Custom indicator phoenix GBPAUD,H1: loaded successfully
+2	04:55:20.952	Custom indicator FuturoTI GBPAUD,H1: loaded successfully
+2	04:55:28.545	Custom indicator b-clock modified GBPAUD,H1: removed
+2	04:55:28.547	Custom indicator AutoTrendChannel GBPAUD,H1: removed
+2	04:55:28.547	Custom indicator phoenix GBPAUD,H1: removed
+2	04:55:28.548	Custom indicator FuturoTI GBPAUD,H1: removed
+2	04:55:28.630	Custom indicator BBand Stop Alert GBPAUD,H1: loaded successfully
+2	04:55:28.698	Custom indicator DMark_Breakout GBPAUD,H1: loaded successfully
+2	04:55:49.440	Custom indicator BBand Stop Alert GBPAUD,H1: removed
+2	04:55:49.440	Custom indicator DMark_Breakout GBPAUD,H1: removed
+2	04:55:49.510	Custom indicator StochCandles GBPAUD,H1: loaded successfully
+2	04:55:49.578	Custom indicator PRICE GBPAUD,H1: loaded successfully
+2	04:55:49.646	Custom indicator ADX_MA GBPAUD,H1: loaded successfully
+2	04:55:49.731	Custom indicator Trend_Channel GBPAUD,H1: loaded successfully
+2	04:55:49.797	Custom indicator Wave Arrows GBPAUD,H1: loaded successfully
+2	04:55:49.886	Custom indicator SupportResistance Areas GBPAUD,H1: loaded successfully
+2	04:55:49.959	Custom indicator SupportResistance Levels GBPAUD,H1: loaded successfully
+2	04:55:50.048	Custom indicator TrendFilter2 GBPAUD,H1: loaded successfully
+2	04:56:12.287	Custom indicator StochCandles GBPAUD,H1: removed
+2	04:56:12.287	Custom indicator PRICE GBPAUD,H1: removed
+2	04:56:12.287	Custom indicator ADX_MA GBPAUD,H1: removed
+2	04:56:12.287	Custom indicator Trend_Channel GBPAUD,H1: removed
+2	04:56:12.287	Custom indicator Wave Arrows GBPAUD,H1: removed
+2	04:56:12.287	Custom indicator SupportResistance Areas GBPAUD,H1: removed
+2	04:56:12.287	Custom indicator SupportResistance Levels GBPAUD,H1: removed
+2	04:56:12.288	Custom indicator TrendFilter2 GBPAUD,H1: removed
+2	04:56:12.361	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	04:56:12.426	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	04:56:12.492	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	04:56:12.540	Custom indicator Admiral Pivot GBPAUD,H1: loaded successfully
+2	04:56:12.548	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	04:56:12.583	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	04:56:35.737	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	04:56:35.737	Custom indicator Entry GBPAUD,H1: removed
+2	04:56:35.737	Custom indicator Trend GBPAUD,H1: removed
+2	04:56:35.752	Custom indicator Admiral Pivot GBPAUD,H1: removed
+2	04:56:35.754	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	04:56:35.757	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	04:56:35.827	Custom indicator b-clock modified GBPAUD,H1: loaded successfully
+2	04:56:35.893	Custom indicator AutoTrendChannel GBPAUD,H1: loaded successfully
+2	04:56:35.960	Custom indicator phoenix GBPAUD,H1: loaded successfully
+2	04:56:44.323	Custom indicator b-clock modified GBPAUD,H1: removed
+2	04:56:44.323	Custom indicator AutoTrendChannel GBPAUD,H1: removed
+2	04:56:44.323	Custom indicator phoenix GBPAUD,H1: removed
+2	04:56:44.397	Custom indicator Time zone Trading GBPAUD,H1: loaded successfully
+2	04:56:44.484	Custom indicator Bars2 GBPAUD,H1: loaded successfully
+2	04:56:44.566	Custom indicator Pivot Lines 2 GBPAUD,H1: loaded successfully
+2	04:56:44.633	Custom indicator Fractals Arrows GBPAUD,H1: loaded successfully
+2	04:56:44.699	Custom indicator Trend_Line_MA GBPAUD,H1: loaded successfully
+2	04:56:44.778	Custom indicator Trend_Filter GBPAUD,H1: loaded successfully
+2	04:56:44.845	Custom indicator bb-squeeze GBPAUD,H1: loaded successfully
+2	04:57:12.389	Custom indicator Time zone Trading GBPAUD,H1: removed
+2	04:57:12.389	Custom indicator Bars2 GBPAUD,H1: removed
+2	04:57:12.389	Custom indicator Pivot Lines 2 GBPAUD,H1: removed
+2	04:57:12.389	Custom indicator Fractals Arrows GBPAUD,H1: removed
+2	04:57:12.410	Custom indicator Trend_Line_MA GBPAUD,H1: removed
+2	04:57:12.410	Custom indicator Trend_Filter GBPAUD,H1: removed
+2	04:57:12.410	Custom indicator bb-squeeze GBPAUD,H1: removed
+2	04:57:12.427	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	04:57:12.437	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	04:57:12.447	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	04:57:12.458	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	04:57:12.482	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	04:57:12.493	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	04:57:12.502	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	04:57:12.509	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	04:57:12.520	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	04:57:12.529	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	04:57:12.538	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+2	04:57:28.968	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	04:57:28.970	Custom indicator DM_DSR GBPAUD,H1: removed
+2	04:57:28.972	Custom indicator LJ_SIG GBPAUD,H1: removed
+2	04:57:28.974	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: removed
+2	04:57:28.976	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	04:57:28.978	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: removed
+2	04:57:28.981	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: removed
+2	04:57:28.984	Custom indicator DM_Volatility GBPAUD,H1: removed
+2	04:57:28.986	Custom indicator DM_RangeFactor GBPAUD,H1: removed
+2	04:57:28.989	Custom indicator DM_Continuation GBPAUD,H1: removed
+2	04:57:28.991	Custom indicator Status Monitor V1.2 GBPAUD,H1: removed
+2	04:57:29.027	Custom indicator rsi chart bars GBPAUD,H1: loaded successfully
+2	04:57:29.050	Custom indicator sell zone fibs GBPAUD,H1: loaded successfully
+2	04:57:29.063	Custom indicator buy zone fibs GBPAUD,H1: loaded successfully
+2	04:57:29.078	Custom indicator CCI GBPAUD,H1: loaded successfully
+1	05:19:26.900	'23875089': ping failed
+0	05:19:27.475	'23875089': login datacenter on AdmiralMarkets-Demo
+0	05:19:29.144	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 260.58 ms)
+0	05:19:31.389	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 260.58 ms)
+0	05:19:31.917	'23875089': previous successful authorization performed from 197.149.36.160
+0	05:19:47.876	'23875089': auto connecting to a better access point Access Point #6 (ping is 215.57 ms)
+0	05:19:49.135	'23875089': login on AdmiralMarkets-Demo through Access Point #6 (ping: 215.57 ms)
+0	05:19:51.847	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 215.57 ms)
+0	05:19:52.810	'23875089': previous successful authorization performed from 197.149.36.160
+2	05:21:17.133	Custom indicator rsi chart bars GBPAUD,H1: removed
+2	05:21:17.135	Custom indicator sell zone fibs GBPAUD,H1: removed
+2	05:21:17.136	Custom indicator buy zone fibs GBPAUD,H1: removed
+2	05:21:17.139	Custom indicator CCI GBPAUD,H1: removed
+2	05:21:17.212	Custom indicator StochCandles GBPAUD,H1: loaded successfully
+2	05:21:17.284	Custom indicator PRICE GBPAUD,H1: loaded successfully
+2	05:21:17.353	Custom indicator ADX_MA GBPAUD,H1: loaded successfully
+2	05:21:17.465	Custom indicator Trend_Channel GBPAUD,H1: loaded successfully
+2	05:21:17.544	Custom indicator Wave Arrows GBPAUD,H1: loaded successfully
+2	05:21:17.613	Custom indicator SupportResistance Areas GBPAUD,H1: loaded successfully
+2	05:21:17.680	Custom indicator SupportResistance Levels GBPAUD,H1: loaded successfully
+2	05:21:17.751	Custom indicator TrendFilter2 GBPAUD,H1: loaded successfully
+1	05:21:52.151	'23875089': ping failed
+1	05:21:52.153	'23875089': datacenter connecting failed [6]
+0	05:21:52.950	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 216.00 ms)
+0	05:21:55.198	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 216.00 ms)
+0	05:21:55.794	'23875089': previous successful authorization performed from 197.149.36.160
+0	05:25:59.533	HistoryCenter: synchronize 'GBPAUD60'
+0	05:26:08.419	HistoryCenter: 3047 bars imported in 'GBPAUD60'
+0	05:26:11.042	'23875089': login on AdmiralMarkets-Demo through Access Point #2 (ping: 213.42 ms)
+0	05:26:39.282	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 213.42 ms)
+0	05:26:39.830	'23875089': previous successful authorization performed from 197.149.36.160
+2	05:45:19.687	Custom indicator MACD Candles v4 AUDCHF,H1: removed
+2	05:45:19.719	Custom indicator Dolly Graphics v14 AUDCHF,H1: removed
+2	05:45:19.807	Custom indicator AIMS Levels V2 AUDCHF,H1: loaded successfully
+2	05:45:19.908	Custom indicator AIMS Entry Alert V1 AUDCHF,H1: loaded successfully
+2	05:45:19.984	Custom indicator AIMS AO V.2.1 AUDCHF,H1: loaded successfully
+2	05:46:03.223	Custom indicator AIMS Levels V2 AUDCHF,H1: removed
+2	05:46:03.223	Custom indicator AIMS Entry Alert V1 AUDCHF,H1: removed
+2	05:46:03.223	Custom indicator AIMS AO V.2.1 AUDCHF,H1: removed
+2	05:46:03.343	Custom indicator MACD Candles v4 AUDCHF,H1: loaded successfully
+2	05:46:03.466	Custom indicator Dolly Graphics v14 AUDCHF,H1: loaded successfully
+2	05:46:10.157	Custom indicator MACD Candles v4 AUDCHF,H1: removed
+2	05:46:10.159	Custom indicator Dolly Graphics v14 AUDCHF,H1: removed
+2	05:46:10.206	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: loaded successfully
+2	05:46:10.307	Custom indicator Entry AUDCHF,H1: loaded successfully
+2	05:46:10.467	Custom indicator Trend AUDCHF,H1: loaded successfully
+2	05:46:10.494	Custom indicator IVT_MACD_ZERO_LAG AUDCHF,H1: loaded successfully
+2	05:46:45.506	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: removed
+2	05:46:45.506	Custom indicator Entry AUDCHF,H1: removed
+2	05:46:45.506	Custom indicator Trend AUDCHF,H1: removed
+2	05:46:45.509	Custom indicator IVT_MACD_ZERO_LAG AUDCHF,H1: removed
+2	05:46:45.649	Custom indicator b-clock modified AUDCHF,H1: loaded successfully
+2	05:46:45.750	Custom indicator AutoTrendChannel AUDCHF,H1: loaded successfully
+2	05:46:45.842	Custom indicator phoenix AUDCHF,H1: loaded successfully
+2	05:46:45.858	Custom indicator FuturoTI AUDCHF,H1: loaded successfully
+0	05:46:58.306	'23875089': order sell market 0.20 AUDCHF sl: 0.00000 tp: 0.00000
+0	05:47:43.464	'23875089': order was opened : #181569286 sell 0.20 AUDCHF at 0.64685 sl: 0.00000 tp: 0.00000
+0	05:48:10.405	'23875089': modify order #181569286 sell 0.20 AUDCHF at 0.64685 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.64597
+0	05:48:10.996	'23875089': order #181569286 sell 0.20 AUDCHF at 0.64685 was modified -> sl: 0.00000 tp: 0.64597
+0	05:48:23.339	'23875089': modify order #181569286 sell 0.20 AUDCHF at 0.64685 sl: 0.00000 tp: 0.64597 -> sl: 0.64725 tp: 0.64597
+0	05:48:24.128	'23875089': order #181569286 sell 0.20 AUDCHF at 0.64685 was modified -> sl: 0.64725 tp: 0.64597
+0	05:48:32.888	'23875089': modify order #181569286 sell 0.20 AUDCHF at 0.64685 sl: 0.64725 tp: 0.64597 -> sl: 0.64781 tp: 0.64597
+0	05:48:33.191	'23875089': order #181569286 sell 0.20 AUDCHF at 0.64685 was modified -> sl: 0.64781 tp: 0.64597
+0	05:48:37.950	'23875089': modify order #181569286 sell 0.20 AUDCHF at 0.64685 sl: 0.64781 tp: 0.64597 -> sl: 0.64807 tp: 0.64597
+0	05:48:38.290	'23875089': order #181569286 sell 0.20 AUDCHF at 0.64685 was modified -> sl: 0.64807 tp: 0.64597
+0	05:53:55.733	'23875089': order sell market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	05:53:56.119	'23875089': order was opened : #181569453 sell 0.10 EURUSD at 1.11376 sl: 0.00000 tp: 0.00000
+0	05:54:15.805	'23875089': modify order #181569453 sell 0.10 EURUSD at 1.11376 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11285
+0	05:54:16.637	'23875089': order #181569453 sell 0.10 EURUSD at 1.11376 was modified -> sl: 0.00000 tp: 1.11285
+2	05:54:43.922	Custom indicator b-clock modified EURUSD,M5: removed
+2	05:54:43.933	Custom indicator AutoTrendChannel EURUSD,M5: removed
+2	05:54:43.933	Custom indicator phoenix EURUSD,M5: removed
+2	05:54:43.941	Custom indicator FuturoTI EURUSD,M5: removed
+2	05:54:44.010	Custom indicator MACD Candles v4 EURUSD,M5: loaded successfully
+2	05:54:44.020	Custom indicator Dolly Graphics v14 EURUSD,M5: loaded successfully
+0	06:47:03.344	'23875089': order #181569286 sell 0.20 AUDCHF at 0.64685 closed due take-profit at price 0.64597
+2	06:49:31.996	Custom indicator MACD Candles v4 EURUSD,M15: removed
+2	06:49:31.998	Custom indicator Dolly Graphics v14 EURUSD,M15: removed
+2	06:49:32.065	Custom indicator b-clock modified EURUSD,M15: loaded successfully
+2	06:49:32.129	Custom indicator AutoTrendChannel EURUSD,M15: loaded successfully
+2	06:49:32.192	Custom indicator phoenix EURUSD,M15: loaded successfully
+2	06:49:32.204	Custom indicator FuturoTI EURUSD,M15: loaded successfully
+0	07:44:16.098	'23875089': close order #181569453 sell 0.10 EURUSD at 1.11376 sl: 0.00000 tp: 1.11285 at price 0.00000
+0	07:44:16.492	'23875089': order #181569453 sell 0.10 EURUSD at 1.11376 sl: 0.00000 tp: 1.11285 closed at price 1.11347
+2	07:44:30.187	Custom indicator b-clock modified EURUSD,M15: removed
+2	07:44:30.187	Custom indicator AutoTrendChannel EURUSD,M15: removed
+2	07:44:30.187	Custom indicator phoenix EURUSD,M15: removed
+2	07:44:30.190	Custom indicator FuturoTI EURUSD,M15: removed
+2	07:44:30.260	Custom indicator AIMS Levels V2 EURUSD,M15: loaded successfully
+2	07:44:30.436	Custom indicator AIMS Entry Alert V1 EURUSD,M15: loaded successfully
+2	07:44:30.498	Custom indicator AIMS AO V.2.1 EURUSD,M15: loaded successfully
+2	07:44:49.990	Custom indicator AIMS Levels V2 EURUSD,M15: removed
+2	07:44:49.990	Custom indicator AIMS Entry Alert V1 EURUSD,M15: removed
+2	07:44:49.990	Custom indicator AIMS AO V.2.1 EURUSD,M15: removed
+2	07:44:50.059	Custom indicator MACD Candles v4 EURUSD,M15: loaded successfully
+2	07:44:50.166	Custom indicator Dolly Graphics v14 EURUSD,M15: loaded successfully
+2	07:46:24.549	Custom indicator MACD Candles v4 EURUSD,M5: removed
+2	07:46:24.551	Custom indicator Dolly Graphics v14 EURUSD,M5: removed
+2	07:46:24.681	Custom indicator $-ForecastCityIntradayIndicator EURUSD,M5: loaded successfully
+2	07:46:24.748	Custom indicator Entry EURUSD,M5: loaded successfully
+2	07:46:24.810	Custom indicator Trend EURUSD,M5: loaded successfully
+2	07:46:24.822	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M5: loaded successfully
+2	08:04:43.131	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	08:04:43.199	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	08:04:43.265	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	08:05:12.297	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	08:05:12.297	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	08:05:12.297	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	08:05:12.398	Custom indicator MACD Candles v4 USDCAD,H1: loaded successfully
+2	08:05:12.412	Custom indicator Dolly Graphics v14 USDCAD,H1: loaded successfully
+2	08:06:35.230	Custom indicator MACD Candles v4 USDCAD,H1: removed
+2	08:06:35.231	Custom indicator Dolly Graphics v14 USDCAD,H1: removed
+2	08:06:35.276	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	08:06:35.343	Custom indicator Entry USDCAD,H1: loaded successfully
+2	08:06:35.408	Custom indicator Trend USDCAD,H1: loaded successfully
+2	08:06:35.416	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	08:07:10.607	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	08:07:10.607	Custom indicator Entry USDCAD,H1: removed
+2	08:07:10.607	Custom indicator Trend USDCAD,H1: removed
+2	08:07:10.609	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	08:07:10.676	Custom indicator b-clock modified USDCAD,H1: loaded successfully
+2	08:07:10.743	Custom indicator AutoTrendChannel USDCAD,H1: loaded successfully
+2	08:07:10.811	Custom indicator phoenix USDCAD,H1: loaded successfully
+2	08:07:10.846	Custom indicator FuturoTI USDCAD,H1: loaded successfully
+2	08:07:45.377	Custom indicator b-clock modified USDCAD,H1: removed
+2	08:07:45.378	Custom indicator AutoTrendChannel USDCAD,H1: removed
+2	08:07:45.378	Custom indicator phoenix USDCAD,H1: removed
+2	08:07:45.380	Custom indicator FuturoTI USDCAD,H1: removed
+2	08:07:45.502	Custom indicator BBand Stop Alert USDCAD,H1: loaded successfully
+2	08:07:45.586	Custom indicator DMark_Breakout USDCAD,H1: loaded successfully
+2	08:08:13.880	Custom indicator BBand Stop Alert USDCAD,H1: removed
+2	08:08:13.880	Custom indicator DMark_Breakout USDCAD,H1: removed
+2	08:08:13.948	Custom indicator StochCandles USDCAD,H1: loaded successfully
+2	08:08:14.015	Custom indicator PRICE USDCAD,H1: loaded successfully
+2	08:08:14.082	Custom indicator ADX_MA USDCAD,H1: loaded successfully
+2	08:08:14.147	Custom indicator Trend_Channel USDCAD,H1: loaded successfully
+2	08:08:14.211	Custom indicator Wave Arrows USDCAD,H1: loaded successfully
+2	08:08:14.286	Custom indicator SupportResistance Areas USDCAD,H1: loaded successfully
+2	08:08:14.439	Custom indicator SupportResistance Levels USDCAD,H1: loaded successfully
+2	08:08:14.517	Custom indicator TrendFilter2 USDCAD,H1: loaded successfully
+2	08:08:50.133	Custom indicator StochCandles USDCAD,H1: removed
+2	08:08:50.133	Custom indicator PRICE USDCAD,H1: removed
+2	08:08:50.133	Custom indicator ADX_MA USDCAD,H1: removed
+2	08:08:50.133	Custom indicator Trend_Channel USDCAD,H1: removed
+2	08:08:50.133	Custom indicator Wave Arrows USDCAD,H1: removed
+2	08:08:50.133	Custom indicator SupportResistance Areas USDCAD,H1: removed
+2	08:08:50.142	Custom indicator SupportResistance Levels USDCAD,H1: removed
+2	08:08:50.142	Custom indicator TrendFilter2 USDCAD,H1: removed
+2	08:08:50.167	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	08:08:50.233	Custom indicator Entry USDCAD,H1: loaded successfully
+2	08:08:50.297	Custom indicator Trend USDCAD,H1: loaded successfully
+2	08:08:50.305	Custom indicator Admiral Pivot USDCAD,H1: loaded successfully
+2	08:08:50.313	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	08:08:50.323	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	08:09:26.585	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	08:09:26.585	Custom indicator Entry USDCAD,H1: removed
+2	08:09:26.585	Custom indicator Trend USDCAD,H1: removed
+2	08:09:26.588	Custom indicator Admiral Pivot USDCAD,H1: removed
+2	08:09:26.589	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	08:09:26.591	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	08:09:26.659	Custom indicator b-clock modified USDCAD,H1: loaded successfully
+2	08:09:26.722	Custom indicator AutoTrendChannel USDCAD,H1: loaded successfully
+2	08:09:26.789	Custom indicator phoenix USDCAD,H1: loaded successfully
+2	08:09:44.098	Custom indicator b-clock modified USDCAD,H1: removed
+2	08:09:44.099	Custom indicator AutoTrendChannel USDCAD,H1: removed
+2	08:09:44.099	Custom indicator phoenix USDCAD,H1: removed
+2	08:09:44.170	Custom indicator Time zone Trading USDCAD,H1: loaded successfully
+2	08:09:44.232	Custom indicator Bars2 USDCAD,H1: loaded successfully
+2	08:09:44.294	Custom indicator Pivot Lines 2 USDCAD,H1: loaded successfully
+2	08:09:44.356	Custom indicator Fractals Arrows USDCAD,H1: loaded successfully
+2	08:09:44.418	Custom indicator Trend_Line_MA USDCAD,H1: loaded successfully
+2	08:09:44.481	Custom indicator Trend_Filter USDCAD,H1: loaded successfully
+2	08:09:44.545	Custom indicator bb-squeeze USDCAD,H1: loaded successfully
+2	08:10:15.705	Custom indicator Time zone Trading USDCAD,H1: removed
+2	08:10:15.705	Custom indicator Bars2 USDCAD,H1: removed
+2	08:10:15.705	Custom indicator Pivot Lines 2 USDCAD,H1: removed
+2	08:10:15.705	Custom indicator Fractals Arrows USDCAD,H1: removed
+2	08:10:15.705	Custom indicator Trend_Line_MA USDCAD,H1: removed
+2	08:10:15.705	Custom indicator Trend_Filter USDCAD,H1: removed
+2	08:10:15.705	Custom indicator bb-squeeze USDCAD,H1: removed
+2	08:10:15.716	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	08:10:15.725	Custom indicator DM_DSR USDCAD,H1: loaded successfully
+2	08:10:15.734	Custom indicator LJ_SIG USDCAD,H1: loaded successfully
+2	08:10:15.746	Custom indicator #MarketPrice _v1_4 USDCAD,H1: loaded successfully
+2	08:10:15.755	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	08:10:15.764	Custom indicator LJ_SYNERGY_ID USDCAD,H1: loaded successfully
+2	08:10:15.796	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: loaded successfully
+2	08:10:15.805	Custom indicator DM_Volatility USDCAD,H1: loaded successfully
+2	08:10:15.816	Custom indicator DM_RangeFactor USDCAD,H1: loaded successfully
+2	08:10:15.824	Custom indicator DM_Continuation USDCAD,H1: loaded successfully
+2	08:10:15.832	Custom indicator Status Monitor V1.2 USDCAD,H1: loaded successfully
+2	08:10:41.274	Custom indicator HeikenAshi_DM USDCAD,H1: removed
+2	08:10:41.276	Custom indicator DM_DSR USDCAD,H1: removed
+2	08:10:41.277	Custom indicator LJ_SIG USDCAD,H1: removed
+2	08:10:41.280	Custom indicator #MarketPrice _v1_4 USDCAD,H1: removed
+2	08:10:41.281	Custom indicator CandleCountdown USDCAD,H1: removed
+2	08:10:41.283	Custom indicator LJ_SYNERGY_ID USDCAD,H1: removed
+2	08:10:41.284	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: removed
+2	08:10:41.285	Custom indicator DM_Volatility USDCAD,H1: removed
+2	08:10:41.287	Custom indicator DM_RangeFactor USDCAD,H1: removed
+2	08:10:41.289	Custom indicator DM_Continuation USDCAD,H1: removed
+2	08:10:41.290	Custom indicator Status Monitor V1.2 USDCAD,H1: removed
+2	08:10:41.301	Custom indicator #LURCH_SRv5 USDCAD,H1: loaded successfully
+2	08:10:41.312	Custom indicator Schaff Trend Cycle USDCAD,H1: loaded successfully
+2	08:10:41.349	Custom indicator CCI USDCAD,H1: loaded successfully
+2	08:10:41.358	Custom indicator Schaff Trend Cycle USDCAD,H1: loaded successfully
+2	08:10:54.603	Custom indicator #LURCH_SRv5 USDCAD,H1: removed
+2	08:10:54.604	Custom indicator Schaff Trend Cycle USDCAD,H1: removed
+2	08:10:54.606	Custom indicator CCI USDCAD,H1: removed
+2	08:10:54.608	Custom indicator Schaff Trend Cycle USDCAD,H1: removed
+2	08:10:54.620	Custom indicator rsi chart bars USDCAD,H1: loaded successfully
+2	08:10:54.629	Custom indicator sell zone fibs USDCAD,H1: loaded successfully
+2	08:10:54.639	Custom indicator buy zone fibs USDCAD,H1: loaded successfully
+2	08:10:54.647	Custom indicator CCI USDCAD,H1: loaded successfully
+2	08:11:19.542	Custom indicator rsi chart bars USDCAD,H1: removed
+2	08:11:19.543	Custom indicator sell zone fibs USDCAD,H1: removed
+2	08:11:19.545	Custom indicator buy zone fibs USDCAD,H1: removed
+2	08:11:19.546	Custom indicator CCI USDCAD,H1: removed
+2	08:11:19.557	Custom indicator rsi chart bars USDCAD,H1: loaded successfully
+2	08:11:19.622	Custom indicator PBF_2EMA_Color USDCAD,H1: loaded successfully
+2	08:11:19.631	Custom indicator vertex_mod_3.01 alerts + arrows USDCAD,H1: loaded successfully
+2	08:12:08.273	Custom indicator rsi chart bars USDCAD,H1: removed
+2	08:12:08.273	Custom indicator PBF_2EMA_Color USDCAD,H1: removed
+2	08:12:08.275	Custom indicator vertex_mod_3.01 alerts + arrows USDCAD,H1: removed
+2	08:12:08.345	Custom indicator b-clock modified USDCAD,H1: loaded successfully
+2	08:12:08.410	Custom indicator AutoTrendChannel USDCAD,H1: loaded successfully
+2	08:12:08.471	Custom indicator phoenix USDCAD,H1: loaded successfully
+2	08:12:08.481	Custom indicator FuturoTI USDCAD,H1: loaded successfully
+2	08:13:38.405	Custom indicator b-clock modified USDCAD,Daily: removed
+2	08:13:38.406	Custom indicator AutoTrendChannel USDCAD,Daily: removed
+2	08:13:38.406	Custom indicator phoenix USDCAD,Daily: removed
+2	08:13:38.449	Custom indicator FuturoTI USDCAD,Daily: removed
+2	08:13:38.458	Custom indicator rsi chart bars USDCAD,Daily: loaded successfully
+2	08:13:38.467	Custom indicator sell zone fibs USDCAD,Daily: loaded successfully
+2	08:13:38.475	Custom indicator buy zone fibs USDCAD,Daily: loaded successfully
+2	08:13:38.482	Custom indicator CCI USDCAD,Daily: loaded successfully
+2	08:15:46.659	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	08:15:46.720	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	08:15:46.780	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	08:15:59.798	Custom indicator AIMS Levels V2 GOLD,H1: removed
+2	08:15:59.798	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	08:15:59.798	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+2	08:15:59.866	Custom indicator MACD Candles v4 GOLD,H1: loaded successfully
+2	08:15:59.877	Custom indicator Dolly Graphics v14 GOLD,H1: loaded successfully
+2	08:16:39.452	Custom indicator MACD Candles v4 GOLD,M15: removed
+2	08:16:39.453	Custom indicator Dolly Graphics v14 GOLD,M15: removed
+2	08:16:39.520	Custom indicator AIMS Levels V2 GOLD,M15: loaded successfully
+2	08:16:39.583	Custom indicator AIMS Entry Alert V1 GOLD,M15: loaded successfully
+2	08:16:39.642	Custom indicator AIMS AO V.2.1 GOLD,M15: loaded successfully
+2	08:16:44.624	Custom indicator AIMS Levels V2 GOLD,M15: removed
+2	08:16:44.624	Custom indicator AIMS Entry Alert V1 GOLD,M15: removed
+2	08:16:44.624	Custom indicator AIMS AO V.2.1 GOLD,M15: removed
+2	08:16:44.695	Custom indicator MACD Candles v4 GOLD,M15: loaded successfully
+2	08:16:44.705	Custom indicator Dolly Graphics v14 GOLD,M15: loaded successfully
+2	08:17:06.357	Custom indicator MACD Candles v4 GOLD,M15: removed
+2	08:17:06.358	Custom indicator Dolly Graphics v14 GOLD,M15: removed
+2	08:17:06.415	Custom indicator $-ForecastCityIntradayIndicator GOLD,M15: loaded successfully
+2	08:17:06.479	Custom indicator Entry GOLD,M15: loaded successfully
+2	08:17:06.541	Custom indicator Trend GOLD,M15: loaded successfully
+2	08:17:06.549	Custom indicator IVT_MACD_ZERO_LAG GOLD,M15: loaded successfully
+2	08:17:40.775	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: removed
+2	08:17:40.775	Custom indicator Entry GOLD,H1: removed
+2	08:17:40.775	Custom indicator Trend GOLD,H1: removed
+2	08:17:40.779	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	08:17:40.947	Custom indicator MACD Candles v4 GOLD,H1: loaded successfully
+2	08:17:40.972	Custom indicator Dolly Graphics v14 GOLD,H1: loaded successfully
+2	08:17:56.233	Custom indicator MACD Candles v4 GOLD,H1: removed
+2	08:17:56.235	Custom indicator Dolly Graphics v14 GOLD,H1: removed
+2	08:17:56.300	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	08:17:56.361	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	08:17:56.422	Custom indicator phoenix GOLD,H1: loaded successfully
+2	08:17:56.431	Custom indicator FuturoTI GOLD,H1: loaded successfully
+2	08:18:31.506	Custom indicator b-clock modified GOLD,H1: removed
+2	08:18:31.506	Custom indicator AutoTrendChannel GOLD,H1: removed
+2	08:18:31.506	Custom indicator phoenix GOLD,H1: removed
+2	08:18:31.508	Custom indicator FuturoTI GOLD,H1: removed
+2	08:18:31.573	Custom indicator BBand Stop Alert GOLD,H1: loaded successfully
+2	08:18:31.632	Custom indicator DMark_Breakout GOLD,H1: loaded successfully
+2	08:18:43.217	Custom indicator BBand Stop Alert GOLD,H1: removed
+2	08:18:43.217	Custom indicator DMark_Breakout GOLD,H1: removed
+2	08:18:43.284	Custom indicator StochCandles GOLD,H1: loaded successfully
+2	08:18:43.348	Custom indicator PRICE GOLD,H1: loaded successfully
+2	08:18:43.413	Custom indicator ADX_MA GOLD,H1: loaded successfully
+2	08:18:43.477	Custom indicator Trend_Channel GOLD,H1: loaded successfully
+2	08:18:43.541	Custom indicator Wave Arrows GOLD,H1: loaded successfully
+2	08:18:43.604	Custom indicator SupportResistance Areas GOLD,H1: loaded successfully
+2	08:18:43.668	Custom indicator SupportResistance Levels GOLD,H1: loaded successfully
+2	08:18:43.731	Custom indicator TrendFilter2 GOLD,H1: loaded successfully
+2	08:19:17.515	Custom indicator StochCandles GOLD,H1: removed
+2	08:19:17.515	Custom indicator PRICE GOLD,H1: removed
+2	08:19:17.515	Custom indicator ADX_MA GOLD,H1: removed
+2	08:19:17.515	Custom indicator Trend_Channel GOLD,H1: removed
+2	08:19:17.515	Custom indicator Wave Arrows GOLD,H1: removed
+2	08:19:17.515	Custom indicator SupportResistance Areas GOLD,H1: removed
+2	08:19:17.515	Custom indicator SupportResistance Levels GOLD,H1: removed
+2	08:19:17.515	Custom indicator TrendFilter2 GOLD,H1: removed
+2	08:19:17.526	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: loaded successfully
+2	08:19:17.594	Custom indicator Entry GOLD,H1: loaded successfully
+2	08:19:17.655	Custom indicator Trend GOLD,H1: loaded successfully
+2	08:19:17.663	Custom indicator Admiral Pivot GOLD,H1: loaded successfully
+2	08:19:17.671	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	08:19:17.679	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	08:19:29.218	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: removed
+2	08:19:29.218	Custom indicator Entry GOLD,H1: removed
+2	08:19:29.218	Custom indicator Trend GOLD,H1: removed
+2	08:19:29.220	Custom indicator Admiral Pivot GOLD,H1: removed
+2	08:19:29.222	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	08:19:29.223	Custom indicator RSI Divergence Levels GOLD,H1: removed
+2	08:19:29.285	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	08:19:29.349	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	08:19:29.410	Custom indicator phoenix GOLD,H1: loaded successfully
+2	08:19:42.948	Custom indicator b-clock modified GOLD,H1: removed
+2	08:19:42.949	Custom indicator AutoTrendChannel GOLD,H1: removed
+2	08:19:42.949	Custom indicator phoenix GOLD,H1: removed
+2	08:19:43.016	Custom indicator Time zone Trading GOLD,H1: loaded successfully
+2	08:19:43.075	Custom indicator Bars2 GOLD,H1: loaded successfully
+2	08:19:43.136	Custom indicator Pivot Lines 2 GOLD,H1: loaded successfully
+2	08:19:43.195	Custom indicator Fractals Arrows GOLD,H1: loaded successfully
+2	08:19:43.256	Custom indicator Trend_Line_MA GOLD,H1: loaded successfully
+2	08:19:43.317	Custom indicator Trend_Filter GOLD,H1: loaded successfully
+2	08:19:43.380	Custom indicator bb-squeeze GOLD,H1: loaded successfully
+2	08:20:25.030	Custom indicator Time zone Trading GOLD,H1: removed
+2	08:20:25.030	Custom indicator Bars2 GOLD,H1: removed
+2	08:20:25.030	Custom indicator Pivot Lines 2 GOLD,H1: removed
+2	08:20:25.030	Custom indicator Fractals Arrows GOLD,H1: removed
+2	08:20:25.030	Custom indicator Trend_Line_MA GOLD,H1: removed
+2	08:20:25.030	Custom indicator Trend_Filter GOLD,H1: removed
+2	08:20:25.030	Custom indicator bb-squeeze GOLD,H1: removed
+2	08:20:25.040	Custom indicator HeikenAshi_DM GOLD,H1: loaded successfully
+2	08:20:25.050	Custom indicator DM_DSR GOLD,H1: loaded successfully
+2	08:20:25.058	Custom indicator LJ_SIG GOLD,H1: loaded successfully
+2	08:20:25.067	Custom indicator #MarketPrice _v1_4 GOLD,H1: loaded successfully
+2	08:20:25.094	Custom indicator ABT 5M 15M\CandleCountdown GOLD,H1: loaded successfully
+2	08:20:25.101	Custom indicator LJ_SYNERGY_ID GOLD,H1: loaded successfully
+2	08:20:25.109	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: loaded successfully
+2	08:20:25.117	Custom indicator DM_Volatility GOLD,H1: loaded successfully
+2	08:20:25.124	Custom indicator DM_RangeFactor GOLD,H1: loaded successfully
+2	08:20:25.131	Custom indicator DM_Continuation GOLD,H1: loaded successfully
+2	08:20:25.138	Custom indicator Status Monitor V1.2 GOLD,H1: loaded successfully
+2	08:20:44.916	Custom indicator HeikenAshi_DM GOLD,H1: removed
+2	08:20:44.917	Custom indicator DM_DSR GOLD,H1: removed
+2	08:20:44.919	Custom indicator LJ_SIG GOLD,H1: removed
+2	08:20:44.920	Custom indicator #MarketPrice _v1_4 GOLD,H1: removed
+2	08:20:44.922	Custom indicator CandleCountdown GOLD,H1: removed
+2	08:20:44.923	Custom indicator LJ_SYNERGY_ID GOLD,H1: removed
+2	08:20:44.925	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: removed
+2	08:20:44.926	Custom indicator DM_Volatility GOLD,H1: removed
+2	08:20:44.928	Custom indicator DM_RangeFactor GOLD,H1: removed
+2	08:20:44.929	Custom indicator DM_Continuation GOLD,H1: removed
+2	08:20:44.930	Custom indicator Status Monitor V1.2 GOLD,H1: removed
+2	08:20:44.938	Custom indicator #LURCH_SRv5 GOLD,H1: loaded successfully
+2	08:20:44.946	Custom indicator Schaff Trend Cycle GOLD,H1: loaded successfully
+2	08:20:44.954	Custom indicator CCI GOLD,H1: loaded successfully
+2	08:20:44.965	Custom indicator Schaff Trend Cycle GOLD,H1: loaded successfully
+2	08:20:55.040	Custom indicator #LURCH_SRv5 GOLD,H1: removed
+2	08:20:55.042	Custom indicator Schaff Trend Cycle GOLD,H1: removed
+2	08:20:55.044	Custom indicator CCI GOLD,H1: removed
+2	08:20:55.045	Custom indicator Schaff Trend Cycle GOLD,H1: removed
+2	08:20:55.055	Custom indicator rsi chart bars GOLD,H1: loaded successfully
+2	08:20:55.063	Custom indicator sell zone fibs GOLD,H1: loaded successfully
+2	08:20:55.071	Custom indicator buy zone fibs GOLD,H1: loaded successfully
+2	08:20:55.079	Custom indicator CCI GOLD,H1: loaded successfully
+2	08:22:26.721	Custom indicator MACD Candles v4 GBPUSD,H1: removed
+2	08:22:26.796	Custom indicator Dolly Graphics v14 GBPUSD,H1: removed
+2	08:22:26.875	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	08:22:26.950	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	08:22:27.023	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	08:22:39.040	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	08:22:39.040	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	08:22:39.040	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	08:22:39.128	Custom indicator MACD Candles v4 GBPUSD,H1: loaded successfully
+2	08:22:39.144	Custom indicator Dolly Graphics v14 GBPUSD,H1: loaded successfully
+2	08:25:31.775	Custom indicator MACD Candles v4 GBPUSD,H1: removed
+2	08:25:31.777	Custom indicator Dolly Graphics v14 GBPUSD,H1: removed
+2	08:25:31.829	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	08:25:31.892	Custom indicator Entry GBPUSD,H1: loaded successfully
+2	08:25:31.954	Custom indicator Trend GBPUSD,H1: loaded successfully
+2	08:25:31.962	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+0	08:26:00.145	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 228.30 ms)
+0	08:26:02.762	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 228.30 ms)
+0	08:26:03.340	'27123197': previous successful authorization performed from 197.149.36.160
+0	08:26:19.196	'27123197': auto connecting to a better access point Access Point #3 (ping is 229.94 ms)
+0	08:26:20.056	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 229.94 ms)
+0	08:26:22.171	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 229.94 ms)
+0	08:26:22.726	'27123197': previous successful authorization performed from 197.149.36.160
+2	08:28:22.187	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	08:28:22.187	Custom indicator Entry GBPUSD,H1: removed
+2	08:28:22.187	Custom indicator Trend GBPUSD,H1: removed
+2	08:28:22.188	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	08:28:22.255	Custom indicator b-clock modified GBPUSD,H1: loaded successfully
+2	08:28:22.316	Custom indicator AutoTrendChannel GBPUSD,H1: loaded successfully
+2	08:28:22.377	Custom indicator phoenix GBPUSD,H1: loaded successfully
+2	08:28:22.388	Custom indicator FuturoTI GBPUSD,H1: loaded successfully
+2	08:29:04.135	Custom indicator $-ForecastCityIntradayIndicator EURUSD,M1: removed
+2	08:29:04.135	Custom indicator Entry EURUSD,M1: removed
+2	08:29:04.135	Custom indicator Trend EURUSD,M1: removed
+2	08:29:04.137	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M1: removed
+2	08:29:04.201	Custom indicator b-clock modified EURUSD,M1: loaded successfully
+2	08:29:04.261	Custom indicator AutoTrendChannel EURUSD,M1: loaded successfully
+2	08:29:04.322	Custom indicator phoenix EURUSD,M1: loaded successfully
+2	08:29:04.331	Custom indicator FuturoTI EURUSD,M1: loaded successfully
+2	08:31:21.616	Custom indicator b-clock modified GBPUSD,M30: removed
+2	08:31:21.617	Custom indicator AutoTrendChannel GBPUSD,M30: removed
+2	08:31:21.617	Custom indicator phoenix GBPUSD,M30: removed
+2	08:31:21.619	Custom indicator FuturoTI GBPUSD,M30: removed
+2	08:31:21.690	Custom indicator BBand Stop Alert GBPUSD,M30: loaded successfully
+2	08:31:21.756	Custom indicator DMark_Breakout GBPUSD,M30: loaded successfully
+2	08:31:54.162	Custom indicator BBand Stop Alert GBPUSD,M5: removed
+2	08:31:54.162	Custom indicator DMark_Breakout GBPUSD,M5: removed
+2	08:31:54.228	Custom indicator StochCandles GBPUSD,M5: loaded successfully
+2	08:31:54.289	Custom indicator PRICE GBPUSD,M5: loaded successfully
+2	08:31:54.348	Custom indicator ADX_MA GBPUSD,M5: loaded successfully
+2	08:31:54.409	Custom indicator Trend_Channel GBPUSD,M5: loaded successfully
+2	08:31:54.472	Custom indicator Wave Arrows GBPUSD,M5: loaded successfully
+2	08:31:54.534	Custom indicator SupportResistance Areas GBPUSD,M5: loaded successfully
+2	08:31:54.595	Custom indicator SupportResistance Levels GBPUSD,M5: loaded successfully
+2	08:31:54.657	Custom indicator TrendFilter2 GBPUSD,M5: loaded successfully
+2	08:33:01.820	Custom indicator StochCandles GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator PRICE GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator ADX_MA GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator Trend_Channel GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator Wave Arrows GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator SupportResistance Areas GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator SupportResistance Levels GBPUSD,H1: removed
+2	08:33:01.820	Custom indicator TrendFilter2 GBPUSD,H1: removed
+2	08:33:01.835	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	08:33:01.900	Custom indicator Entry GBPUSD,H1: loaded successfully
+2	08:33:01.961	Custom indicator Trend GBPUSD,H1: loaded successfully
+2	08:33:01.970	Custom indicator Admiral Pivot GBPUSD,H1: loaded successfully
+2	08:33:01.978	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	08:33:01.988	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	08:33:15.773	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	08:33:15.773	Custom indicator Entry GBPUSD,H1: removed
+2	08:33:15.773	Custom indicator Trend GBPUSD,H1: removed
+2	08:33:15.775	Custom indicator Admiral Pivot GBPUSD,H1: removed
+2	08:33:15.777	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	08:33:15.779	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	08:33:15.846	Custom indicator b-clock modified GBPUSD,H1: loaded successfully
+2	08:33:15.906	Custom indicator AutoTrendChannel GBPUSD,H1: loaded successfully
+2	08:33:15.965	Custom indicator phoenix GBPUSD,H1: loaded successfully
+2	08:33:24.854	Custom indicator b-clock modified GBPUSD,H1: removed
+2	08:33:24.854	Custom indicator AutoTrendChannel GBPUSD,H1: removed
+2	08:33:24.854	Custom indicator phoenix GBPUSD,H1: removed
+2	08:33:24.923	Custom indicator Time zone Trading GBPUSD,H1: loaded successfully
+2	08:33:24.986	Custom indicator Bars2 GBPUSD,H1: loaded successfully
+2	08:33:25.046	Custom indicator Pivot Lines 2 GBPUSD,H1: loaded successfully
+2	08:33:25.110	Custom indicator Fractals Arrows GBPUSD,H1: loaded successfully
+2	08:33:25.172	Custom indicator Trend_Line_MA GBPUSD,H1: loaded successfully
+2	08:33:25.235	Custom indicator Trend_Filter GBPUSD,H1: loaded successfully
+2	08:33:25.299	Custom indicator bb-squeeze GBPUSD,H1: loaded successfully
+2	08:33:36.927	Custom indicator Time zone Trading GBPUSD,H1: removed
+2	08:33:36.927	Custom indicator Bars2 GBPUSD,H1: removed
+2	08:33:36.927	Custom indicator Pivot Lines 2 GBPUSD,H1: removed
+2	08:33:36.928	Custom indicator Fractals Arrows GBPUSD,H1: removed
+2	08:33:36.928	Custom indicator Trend_Line_MA GBPUSD,H1: removed
+2	08:33:36.928	Custom indicator Trend_Filter GBPUSD,H1: removed
+2	08:33:36.928	Custom indicator bb-squeeze GBPUSD,H1: removed
+2	08:33:36.937	Custom indicator HeikenAshi_DM GBPUSD,H1: loaded successfully
+2	08:33:36.946	Custom indicator DM_DSR GBPUSD,H1: loaded successfully
+2	08:33:36.953	Custom indicator LJ_SIG GBPUSD,H1: loaded successfully
+2	08:33:36.963	Custom indicator #MarketPrice _v1_4 GBPUSD,H1: loaded successfully
+2	08:33:36.973	Custom indicator ABT 5M 15M\CandleCountdown GBPUSD,H1: loaded successfully
+2	08:33:36.981	Custom indicator LJ_SYNERGY_ID GBPUSD,H1: loaded successfully
+2	08:33:36.990	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPUSD,H1: loaded successfully
+2	08:33:36.999	Custom indicator DM_Volatility GBPUSD,H1: loaded successfully
+2	08:33:37.007	Custom indicator DM_RangeFactor GBPUSD,H1: loaded successfully
+2	08:33:37.015	Custom indicator DM_Continuation GBPUSD,H1: loaded successfully
+2	08:33:37.023	Custom indicator Status Monitor V1.2 GBPUSD,H1: loaded successfully
+2	08:33:56.715	Custom indicator HeikenAshi_DM GBPUSD,H1: removed
+2	08:33:56.716	Custom indicator DM_DSR GBPUSD,H1: removed
+2	08:33:56.718	Custom indicator LJ_SIG GBPUSD,H1: removed
+2	08:33:56.719	Custom indicator #MarketPrice _v1_4 GBPUSD,H1: removed
+2	08:33:56.720	Custom indicator CandleCountdown GBPUSD,H1: removed
+2	08:33:56.722	Custom indicator LJ_SYNERGY_ID GBPUSD,H1: removed
+2	08:33:56.723	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPUSD,H1: removed
+2	08:33:56.725	Custom indicator DM_Volatility GBPUSD,H1: removed
+2	08:33:56.726	Custom indicator DM_RangeFactor GBPUSD,H1: removed
+2	08:33:56.728	Custom indicator DM_Continuation GBPUSD,H1: removed
+2	08:33:56.729	Custom indicator Status Monitor V1.2 GBPUSD,H1: removed
+2	08:33:56.738	Custom indicator #LURCH_SRv5 GBPUSD,H1: loaded successfully
+2	08:33:56.748	Custom indicator Schaff Trend Cycle GBPUSD,H1: loaded successfully
+2	08:33:56.756	Custom indicator CCI GBPUSD,H1: loaded successfully
+2	08:33:56.764	Custom indicator Schaff Trend Cycle GBPUSD,H1: loaded successfully
+2	08:34:30.600	Custom indicator #LURCH_SRv5 GBPUSD,H1: removed
+2	08:34:30.601	Custom indicator Schaff Trend Cycle GBPUSD,H1: removed
+2	08:34:30.602	Custom indicator CCI GBPUSD,H1: removed
+2	08:34:30.604	Custom indicator Schaff Trend Cycle GBPUSD,H1: removed
+2	08:34:30.623	Custom indicator HeikenAshi_DM GBPUSD,H1: loaded successfully
+2	08:34:30.633	Custom indicator SynergyInd GBPUSD,H1: loaded successfully
+2	08:34:30.641	Custom indicator ABT 5M 15M\CandleCountdown GBPUSD,H1: loaded successfully
+2	08:34:30.649	Custom indicator Traders_Dynamic_Index GBPUSD,H1: loaded successfully
+2	08:34:30.658	Custom indicator Chaikin's Volatility_Kalenzo GBPUSD,H1: loaded successfully
+2	08:34:42.584	Custom indicator HeikenAshi_DM GBPUSD,H1: removed
+2	08:34:42.586	Custom indicator SynergyInd GBPUSD,H1: removed
+2	08:34:42.588	Custom indicator CandleCountdown GBPUSD,H1: removed
+2	08:34:42.589	Custom indicator Traders_Dynamic_Index GBPUSD,H1: removed
+2	08:34:42.590	Custom indicator Chaikin's Volatility_Kalenzo GBPUSD,H1: removed
+2	08:34:42.601	Custom indicator rsi chart bars GBPUSD,H1: loaded successfully
+2	08:34:42.610	Custom indicator sell zone fibs GBPUSD,H1: loaded successfully
+2	08:34:42.618	Custom indicator buy zone fibs GBPUSD,H1: loaded successfully
+2	08:34:42.627	Custom indicator CCI GBPUSD,H1: loaded successfully
+2	08:34:55.516	Custom indicator rsi chart bars GBPUSD,H1: removed
+2	08:34:55.517	Custom indicator sell zone fibs GBPUSD,H1: removed
+2	08:34:55.519	Custom indicator buy zone fibs GBPUSD,H1: removed
+2	08:34:55.520	Custom indicator CCI GBPUSD,H1: removed
+2	08:34:55.530	Custom indicator rsi chart bars GBPUSD,H1: loaded successfully
+2	08:34:55.596	Custom indicator PBF_2EMA_Color GBPUSD,H1: loaded successfully
+2	08:34:55.603	Custom indicator vertex_mod_3.01 alerts + arrows GBPUSD,H1: loaded successfully
+2	08:35:08.534	Custom indicator rsi chart bars GBPUSD,H1: removed
+2	08:35:08.534	Custom indicator PBF_2EMA_Color GBPUSD,H1: removed
+2	08:35:08.536	Custom indicator vertex_mod_3.01 alerts + arrows GBPUSD,H1: removed
+2	08:35:08.601	Custom indicator MACD Candles v4 GBPUSD,H1: loaded successfully
+2	08:35:08.610	Custom indicator Dolly Graphics v14 GBPUSD,H1: loaded successfully
+2	08:35:22.289	Custom indicator MACD Candles v4 GBPUSD,H1: removed
+2	08:35:22.291	Custom indicator Dolly Graphics v14 GBPUSD,H1: removed
+2	08:35:22.355	Custom indicator StochCandles GBPUSD,H1: loaded successfully
+2	08:35:22.416	Custom indicator PRICE GBPUSD,H1: loaded successfully
+2	08:35:22.478	Custom indicator ADX_MA GBPUSD,H1: loaded successfully
+2	08:35:22.539	Custom indicator Trend_Channel GBPUSD,H1: loaded successfully
+2	08:35:22.604	Custom indicator Wave Arrows GBPUSD,H1: loaded successfully
+2	08:35:22.668	Custom indicator SupportResistance Areas GBPUSD,H1: loaded successfully
+2	08:35:22.728	Custom indicator SupportResistance Levels GBPUSD,H1: loaded successfully
+2	08:35:22.789	Custom indicator TrendFilter2 GBPUSD,H1: loaded successfully
+0	08:38:20.569	'27123197': pending order buy limit 0.10 GBPUSD at 1.23690 sl: 1.23142 tp: 1.24630
+0	08:38:20.872	'27123197': order was opened : #66689924 buy limit 0.10 GBPUSD at 1.23690 sl: 1.23142 tp: 1.24630
+2	08:38:34.303	Custom indicator StochCandles GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator PRICE GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator ADX_MA GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator Trend_Channel GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator Wave Arrows GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator SupportResistance Areas GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator SupportResistance Levels GBPUSD,H1: removed
+2	08:38:34.303	Custom indicator TrendFilter2 GBPUSD,H1: removed
+2	08:38:34.369	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	08:38:34.430	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	08:38:34.489	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	08:50:11.108	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	08:50:11.173	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	08:50:11.238	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	08:51:29.072	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	08:51:29.072	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	08:51:29.072	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	08:51:29.143	Custom indicator MACD Candles v4 GBPNZD,H1: loaded successfully
+2	08:51:29.152	Custom indicator Dolly Graphics v14 GBPNZD,H1: loaded successfully
+2	08:51:54.963	Custom indicator MACD Candles v4 GBPNZD,H1: removed
+2	08:51:54.965	Custom indicator Dolly Graphics v14 GBPNZD,H1: removed
+2	08:51:54.977	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: loaded successfully
+2	08:51:55.045	Custom indicator Entry GBPNZD,H1: loaded successfully
+2	08:51:55.105	Custom indicator Trend GBPNZD,H1: loaded successfully
+2	08:51:55.113	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	08:52:08.567	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: removed
+2	08:52:08.567	Custom indicator Entry GBPNZD,H1: removed
+2	08:52:08.567	Custom indicator Trend GBPNZD,H1: removed
+2	08:52:08.568	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	08:52:08.634	Custom indicator b-clock modified GBPNZD,H1: loaded successfully
+2	08:52:08.695	Custom indicator AutoTrendChannel GBPNZD,H1: loaded successfully
+2	08:52:08.756	Custom indicator phoenix GBPNZD,H1: loaded successfully
+2	08:52:08.765	Custom indicator FuturoTI GBPNZD,H1: loaded successfully
+2	08:52:35.966	Custom indicator b-clock modified GBPNZD,H1: removed
+2	08:52:35.966	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	08:52:35.966	Custom indicator phoenix GBPNZD,H1: removed
+2	08:52:35.968	Custom indicator FuturoTI GBPNZD,H1: removed
+2	08:52:36.039	Custom indicator BBand Stop Alert GBPNZD,H1: loaded successfully
+2	08:52:36.107	Custom indicator DMark_Breakout GBPNZD,H1: loaded successfully
+2	08:52:57.044	Custom indicator BBand Stop Alert GBPNZD,H1: removed
+2	08:52:57.044	Custom indicator DMark_Breakout GBPNZD,H1: removed
+2	08:52:57.112	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	08:52:57.177	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	08:52:57.244	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	08:52:57.312	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	08:52:57.376	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	08:52:57.441	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	08:52:57.506	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	08:52:57.571	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+2	08:53:25.138	Custom indicator StochCandles GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator PRICE GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator ADX_MA GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	08:53:25.138	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	08:53:25.153	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: loaded successfully
+2	08:53:25.219	Custom indicator Entry GBPNZD,H1: loaded successfully
+2	08:53:25.280	Custom indicator Trend GBPNZD,H1: loaded successfully
+2	08:53:25.288	Custom indicator Admiral Pivot GBPNZD,H1: loaded successfully
+2	08:53:25.296	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	08:53:25.304	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+2	08:53:44.508	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: removed
+2	08:53:44.508	Custom indicator Entry GBPNZD,H1: removed
+2	08:53:44.508	Custom indicator Trend GBPNZD,H1: removed
+2	08:53:44.510	Custom indicator Admiral Pivot GBPNZD,H1: removed
+2	08:53:44.512	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	08:53:44.513	Custom indicator RSI Divergence Levels GBPNZD,H1: removed
+2	08:53:44.581	Custom indicator b-clock modified GBPNZD,H1: loaded successfully
+2	08:53:44.643	Custom indicator AutoTrendChannel GBPNZD,H1: loaded successfully
+2	08:53:44.703	Custom indicator phoenix GBPNZD,H1: loaded successfully
+2	08:53:52.228	Custom indicator b-clock modified GBPNZD,H1: removed
+2	08:53:52.228	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	08:53:52.228	Custom indicator phoenix GBPNZD,H1: removed
+2	08:53:52.297	Custom indicator Time zone Trading GBPNZD,H1: loaded successfully
+2	08:53:52.363	Custom indicator Bars2 GBPNZD,H1: loaded successfully
+2	08:53:52.430	Custom indicator Pivot Lines 2 GBPNZD,H1: loaded successfully
+2	08:53:52.495	Custom indicator Fractals Arrows GBPNZD,H1: loaded successfully
+2	08:53:52.560	Custom indicator Trend_Line_MA GBPNZD,H1: loaded successfully
+2	08:53:52.621	Custom indicator Trend_Filter GBPNZD,H1: loaded successfully
+2	08:53:52.681	Custom indicator bb-squeeze GBPNZD,H1: loaded successfully
+2	08:54:02.460	Custom indicator Time zone Trading GBPNZD,H1: removed
+2	08:54:02.460	Custom indicator Bars2 GBPNZD,H1: removed
+2	08:54:02.460	Custom indicator Pivot Lines 2 GBPNZD,H1: removed
+2	08:54:02.460	Custom indicator Fractals Arrows GBPNZD,H1: removed
+2	08:54:02.460	Custom indicator Trend_Line_MA GBPNZD,H1: removed
+2	08:54:02.460	Custom indicator Trend_Filter GBPNZD,H1: removed
+2	08:54:02.460	Custom indicator bb-squeeze GBPNZD,H1: removed
+2	08:54:02.471	Custom indicator HeikenAshi_DM GBPNZD,H1: loaded successfully
+2	08:54:02.480	Custom indicator DM_DSR GBPNZD,H1: loaded successfully
+2	08:54:02.488	Custom indicator LJ_SIG GBPNZD,H1: loaded successfully
+2	08:54:02.496	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: loaded successfully
+2	08:54:02.505	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	08:54:02.512	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: loaded successfully
+2	08:54:02.521	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: loaded successfully
+2	08:54:02.528	Custom indicator DM_Volatility GBPNZD,H1: loaded successfully
+2	08:54:02.536	Custom indicator DM_RangeFactor GBPNZD,H1: loaded successfully
+2	08:54:02.543	Custom indicator DM_Continuation GBPNZD,H1: loaded successfully
+2	08:54:02.550	Custom indicator Status Monitor V1.2 GBPNZD,H1: loaded successfully
+2	08:54:37.877	Custom indicator HeikenAshi_DM GBPNZD,H1: removed
+2	08:54:37.879	Custom indicator DM_DSR GBPNZD,H1: removed
+2	08:54:37.880	Custom indicator LJ_SIG GBPNZD,H1: removed
+2	08:54:37.881	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: removed
+2	08:54:37.883	Custom indicator CandleCountdown GBPNZD,H1: removed
+2	08:54:37.884	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: removed
+2	08:54:37.886	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: removed
+2	08:54:37.888	Custom indicator DM_Volatility GBPNZD,H1: removed
+2	08:54:37.889	Custom indicator DM_RangeFactor GBPNZD,H1: removed
+2	08:54:37.890	Custom indicator DM_Continuation GBPNZD,H1: removed
+2	08:54:37.892	Custom indicator Status Monitor V1.2 GBPNZD,H1: removed
+2	08:54:37.908	Custom indicator HeikenAshi_DM GBPNZD,H1: loaded successfully
+2	08:54:37.916	Custom indicator SynergyInd GBPNZD,H1: loaded successfully
+2	08:54:37.924	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	08:54:37.932	Custom indicator Traders_Dynamic_Index GBPNZD,H1: loaded successfully
+2	08:54:37.939	Custom indicator Chaikin's Volatility_Kalenzo GBPNZD,H1: loaded successfully
+2	08:54:45.137	Custom indicator HeikenAshi_DM GBPNZD,H1: removed
+2	08:54:45.138	Custom indicator SynergyInd GBPNZD,H1: removed
+2	08:54:45.140	Custom indicator CandleCountdown GBPNZD,H1: removed
+2	08:54:45.141	Custom indicator Traders_Dynamic_Index GBPNZD,H1: removed
+2	08:54:45.142	Custom indicator Chaikin's Volatility_Kalenzo GBPNZD,H1: removed
+2	08:54:45.151	Custom indicator #LURCH_SRv5 GBPNZD,H1: loaded successfully
+2	08:54:45.159	Custom indicator Schaff Trend Cycle GBPNZD,H1: loaded successfully
+2	08:54:45.167	Custom indicator CCI GBPNZD,H1: loaded successfully
+2	08:54:45.175	Custom indicator Schaff Trend Cycle GBPNZD,H1: loaded successfully
+2	08:54:52.523	Custom indicator #LURCH_SRv5 GBPNZD,H1: removed
+2	08:54:52.525	Custom indicator Schaff Trend Cycle GBPNZD,H1: removed
+2	08:54:52.527	Custom indicator CCI GBPNZD,H1: removed
+2	08:54:52.529	Custom indicator Schaff Trend Cycle GBPNZD,H1: removed
+2	08:54:52.539	Custom indicator rsi chart bars GBPNZD,H1: loaded successfully
+2	08:54:52.547	Custom indicator sell zone fibs GBPNZD,H1: loaded successfully
+2	08:54:52.555	Custom indicator buy zone fibs GBPNZD,H1: loaded successfully
+2	08:54:52.563	Custom indicator CCI GBPNZD,H1: loaded successfully
+2	08:55:01.521	Custom indicator rsi chart bars GBPNZD,H1: removed
+2	08:55:01.522	Custom indicator sell zone fibs GBPNZD,H1: removed
+2	08:55:01.523	Custom indicator buy zone fibs GBPNZD,H1: removed
+2	08:55:01.525	Custom indicator CCI GBPNZD,H1: removed
+2	08:55:01.533	Custom indicator rsi chart bars GBPNZD,H1: loaded successfully
+2	08:55:01.597	Custom indicator PBF_2EMA_Color GBPNZD,H1: loaded successfully
+2	08:55:01.604	Custom indicator vertex_mod_3.01 alerts + arrows GBPNZD,H1: loaded successfully
+2	08:55:10.728	Custom indicator rsi chart bars GBPNZD,H1: removed
+2	08:55:10.728	Custom indicator PBF_2EMA_Color GBPNZD,H1: removed
+2	08:55:10.730	Custom indicator vertex_mod_3.01 alerts + arrows GBPNZD,H1: removed
+2	08:55:10.793	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	08:55:10.856	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	08:55:10.916	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	08:55:10.976	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	08:55:11.039	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	08:55:11.098	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	08:55:11.156	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	08:55:11.217	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+0	08:55:26.901	'27123197': order sell market 0.10 GBPNZD sl: 0.00000 tp: 0.00000
+0	08:55:27.350	'27123197': order was opened : #66690180 sell 0.10 GBPNZD at 1.98253 sl: 0.00000 tp: 0.00000
+0	08:56:21.132	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 0.00000 tp: 0.00000 -> sl: 1.98510 tp: 1.97820
+0	08:56:21.421	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98510 tp: 1.97820
+2	08:58:50.161	Custom indicator StochCandles GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator PRICE GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator ADX_MA GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator Trend_Channel GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator Wave Arrows GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator SupportResistance Areas GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator SupportResistance Levels GBPJPY,H1: removed
+2	08:58:50.161	Custom indicator TrendFilter2 GBPJPY,H1: removed
+2	08:58:50.174	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	08:58:50.241	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	08:58:50.309	Custom indicator Trend GBPJPY,H1: loaded successfully
+2	08:58:50.319	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	08:59:48.777	Custom indicator StochCandles GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator PRICE GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator ADX_MA GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	08:59:48.777	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	08:59:48.786	Custom indicator rsi chart bars GBPNZD,H1: loaded successfully
+2	08:59:48.793	Custom indicator sell zone fibs GBPNZD,H1: loaded successfully
+2	08:59:48.802	Custom indicator buy zone fibs GBPNZD,H1: loaded successfully
+2	08:59:48.809	Custom indicator CCI GBPNZD,H1: loaded successfully
+2	09:00:14.180	Custom indicator rsi chart bars GBPNZD,H1: removed
+2	09:00:14.182	Custom indicator sell zone fibs GBPNZD,H1: removed
+2	09:00:14.183	Custom indicator buy zone fibs GBPNZD,H1: removed
+2	09:00:14.185	Custom indicator CCI GBPNZD,H1: removed
+2	09:00:14.259	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	09:00:14.327	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	09:00:14.388	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	09:00:14.452	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	09:00:14.515	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	09:00:14.577	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	09:00:14.640	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	09:00:14.701	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+0	09:00:25.234	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98510 tp: 1.97820 -> sl: 1.98675 tp: 1.97820
+0	09:00:33.648	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98510 tp: 1.97820 -> sl: 1.98694 tp: 1.97820
+0	09:00:41.083	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98510 tp: 1.97820 -> sl: 1.99072 tp: 1.97820
+0	09:00:57.717	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98510 tp: 1.97820 -> sl: 1.98700 tp: 1.97820
+0	09:01:31.411	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98675 tp: 1.97820
+0	09:01:31.411	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98694 tp: 1.97820
+0	09:01:31.411	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.99072 tp: 1.97820
+0	09:01:51.085	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98700 tp: 1.97820
+0	09:04:16.562	'27123197': pending order buy limit 0.10 GBPJPY at 132.250 sl: 131.550 tp: 132.961
+0	09:04:16.919	'27123197': order was opened : #66690553 buy limit 0.10 GBPJPY at 132.250 sl: 131.550 tp: 132.961
+2	09:04:45.389	Custom indicator StochCandles GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator PRICE GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator ADX_MA GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	09:04:45.389	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	09:04:45.456	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	09:04:45.517	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	09:04:45.578	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	09:04:52.893	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	09:04:52.893	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	09:04:52.893	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	09:04:52.959	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	09:04:53.021	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	09:04:53.082	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	09:04:53.144	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	09:04:53.207	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	09:04:53.267	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	09:04:53.328	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	09:04:53.388	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+0	09:08:04.195	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 229.94 ms)
+0	09:08:05.369	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 229.94 ms)
+0	09:08:07.569	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 229.94 ms)
+0	09:08:08.168	'27123197': previous successful authorization performed from 197.149.36.160
+2	09:15:50.027	Custom indicator StochCandles GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator PRICE GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator ADX_MA GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	09:15:50.027	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	09:15:50.092	Custom indicator b-clock modified GBPNZD,H1: loaded successfully
+2	09:15:50.152	Custom indicator AutoTrendChannel GBPNZD,H1: loaded successfully
+2	09:15:50.212	Custom indicator phoenix GBPNZD,H1: loaded successfully
+2	09:15:50.221	Custom indicator FuturoTI GBPNZD,H1: loaded successfully
+2	09:16:34.660	Custom indicator b-clock modified GBPNZD,H1: removed
+2	09:16:34.660	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	09:16:34.660	Custom indicator phoenix GBPNZD,H1: removed
+2	09:16:34.662	Custom indicator FuturoTI GBPNZD,H1: removed
+2	09:16:34.670	Custom indicator rsi chart bars GBPNZD,H1: loaded successfully
+2	09:16:34.679	Custom indicator sell zone fibs GBPNZD,H1: loaded successfully
+2	09:16:34.687	Custom indicator buy zone fibs GBPNZD,H1: loaded successfully
+2	09:16:34.695	Custom indicator CCI GBPNZD,H1: loaded successfully
+2	09:16:46.804	Custom indicator rsi chart bars GBPNZD,H1: removed
+2	09:16:46.805	Custom indicator sell zone fibs GBPNZD,H1: removed
+2	09:16:46.807	Custom indicator buy zone fibs GBPNZD,H1: removed
+2	09:16:46.808	Custom indicator CCI GBPNZD,H1: removed
+2	09:16:46.878	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	09:16:46.939	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	09:16:47.000	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	09:16:47.065	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	09:16:47.130	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	09:16:47.191	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	09:16:47.252	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	09:16:47.315	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+2	09:17:36.272	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	09:27:30.021	Custom indicator MACD Candles v4 EURAUD,H1: removed
+2	09:27:30.122	Custom indicator Dolly Graphics v14 EURAUD,H1: removed
+2	09:27:30.127	Custom indicator FuturoTI EURAUD,H1: removed
+2	09:27:30.221	Custom indicator AIMS Levels V2 EURAUD,H1: loaded successfully
+2	09:27:30.284	Custom indicator AIMS Entry Alert V1 EURAUD,H1: loaded successfully
+2	09:27:30.346	Custom indicator AIMS AO V.2.1 EURAUD,H1: loaded successfully
+2	09:28:55.888	Custom indicator AIMS Levels V2 EURAUD,H1: removed
+2	09:28:55.888	Custom indicator AIMS Entry Alert V1 EURAUD,H1: removed
+2	09:28:55.888	Custom indicator AIMS AO V.2.1 EURAUD,H1: removed
+2	09:28:55.903	Custom indicator $-ForecastCityIntradayIndicator EURAUD,H1: loaded successfully
+2	09:28:55.967	Custom indicator Entry EURAUD,H1: loaded successfully
+2	09:28:56.029	Custom indicator Trend EURAUD,H1: loaded successfully
+2	09:28:56.038	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: loaded successfully
+2	09:29:08.292	Custom indicator $-ForecastCityIntradayIndicator EURAUD,H1: removed
+2	09:29:08.292	Custom indicator Entry EURAUD,H1: removed
+2	09:29:08.292	Custom indicator Trend EURAUD,H1: removed
+2	09:29:08.293	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: removed
+2	09:29:08.360	Custom indicator b-clock modified EURAUD,H1: loaded successfully
+2	09:29:08.422	Custom indicator AutoTrendChannel EURAUD,H1: loaded successfully
+2	09:29:08.483	Custom indicator phoenix EURAUD,H1: loaded successfully
+2	09:29:08.494	Custom indicator FuturoTI EURAUD,H1: loaded successfully
+0	09:51:48.546	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98700 tp: 1.97820 -> sl: 1.98818 tp: 1.97820
+0	09:51:48.858	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98818 tp: 1.97820
+0	10:12:04.151	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98818 tp: 1.97820 -> sl: 1.98818 tp: 1.98232
+0	10:12:04.466	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98818 tp: 1.98232
+0	10:20:39.989	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98818 tp: 1.98232 -> sl: 1.98818 tp: 1.98076
+0	10:20:40.278	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.98818 tp: 1.98076
+0	10:25:28.752	'27123197': modify order #66690180 sell 0.10 GBPNZD at 1.98253 sl: 1.98818 tp: 1.98076 -> sl: 1.99007 tp: 1.98076
+0	10:25:29.043	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 was modified -> sl: 1.99007 tp: 1.98076
+1	10:53:12.813	'27123197': ping failed
+0	10:53:13.463	'27123197': login datacenter on AdmiralMarkets-Live
+0	10:53:14.845	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 230.20 ms)
+0	10:53:18.205	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 230.20 ms)
+0	10:53:19.080	'27123197': previous successful authorization performed from 197.149.36.160
+0	10:53:43.193	'27123197': ping to current access point Access Point #6 is 211.79 ms
+2	10:54:43.521	Custom indicator rsi chart bars [DAX30],H1: loaded successfully
+2	10:54:43.533	Custom indicator sell zone fibs [DAX30],H1: loaded successfully
+2	10:54:43.543	Custom indicator buy zone fibs [DAX30],H1: loaded successfully
+2	10:54:43.552	Custom indicator CCI [DAX30],H1: loaded successfully
+2	10:56:07.579	Custom indicator rsi chart bars [DAX30],H1: removed
+2	10:56:07.581	Custom indicator sell zone fibs [DAX30],H1: removed
+2	10:56:07.582	Custom indicator buy zone fibs [DAX30],H1: removed
+2	10:56:07.584	Custom indicator CCI [DAX30],H1: removed
+2	10:56:07.602	Custom indicator $-ForecastCityIntradayIndicator [DAX30],H1: loaded successfully
+2	10:56:07.677	Custom indicator Entry [DAX30],H1: loaded successfully
+2	10:56:07.745	Custom indicator Trend [DAX30],H1: loaded successfully
+2	10:56:07.755	Custom indicator Admiral Pivot [DAX30],H1: loaded successfully
+2	10:56:07.765	Custom indicator IVT_MACD_ZERO_LAG [DAX30],H1: loaded successfully
+2	10:56:07.776	Custom indicator RSI Divergence Levels [DAX30],H1: loaded successfully
+2	10:57:31.424	Custom indicator ABT 5M 15M\CandleCountdown [DAX30],M15: loaded successfully
+0	11:03:51.527	'27123197': order sell market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	11:03:52.127	'27123197': order was opened : #66696807 sell 0.30 [DAX30] at 11773.60 sl: 0.00 tp: 0.00
+0	11:04:09.529	'27123197': modify order #66696807 sell 0.30 [DAX30] at 11773.60 sl: 0.00 tp: 0.00 -> sl: 11817.84 tp: 0.00
+0	11:04:09.855	'27123197': order #66696807 sell 0.30 [DAX30] at 11773.60 was modified -> sl: 11817.84 tp: 0.00
+0	11:04:19.161	'27123197': modify order #66696807 sell 0.30 [DAX30] at 11773.60 sl: 11817.84 tp: 0.00 -> sl: 11817.84 tp: 11738.21
+0	11:04:19.575	'27123197': order #66696807 sell 0.30 [DAX30] at 11773.60 was modified -> sl: 11817.84 tp: 11738.21
+0	11:04:23.298	'27123197': order sell market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	11:04:23.882	'27123197': order was opened : #66696839 sell 0.30 [DAX30] at 11776.35 sl: 0.00 tp: 0.00
+0	11:04:45.113	'27123197': order sell market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	11:04:45.970	'27123197': order was opened : #66696859 sell 0.30 [DAX30] at 11775.35 sl: 0.00 tp: 0.00
+0	11:06:03.095	'27123197': modify order #66696839 sell 0.30 [DAX30] at 11776.35 sl: 0.00 tp: 0.00 -> sl: 11817.00 tp: 11738.00
+0	11:06:03.405	'27123197': order #66696839 sell 0.30 [DAX30] at 11776.35 was modified -> sl: 11817.00 tp: 11738.00
+0	11:06:26.474	'27123197': modify order #66696859 sell 0.30 [DAX30] at 11775.35 sl: 0.00 tp: 0.00 -> sl: 11817.00 tp: 11738.00
+0	11:06:26.813	'27123197': order #66696859 sell 0.30 [DAX30] at 11775.35 was modified -> sl: 11817.00 tp: 11738.00
+0	11:07:49.836	'27123197': order #66696807 sell 0.30 [DAX30] at 11773.60 closed due take-profit at price 11728.15
+0	11:07:49.842	'27123197': order #66696859 sell 0.30 [DAX30] at 11775.35 closed due take-profit at price 11728.15
+0	11:07:51.689	'27123197': order #66696839 sell 0.30 [DAX30] at 11776.35 closed due take-profit at price 11737.40
+0	11:16:55.545	'27123197': order #66690180 sell 0.10 GBPNZD at 1.98253 closed due stop-loss at price 1.99011
+2	11:20:45.412	Custom indicator StochCandles GBPNZD,M5: removed
+2	11:20:45.438	Custom indicator PRICE GBPNZD,M5: removed
+2	11:20:45.438	Custom indicator ADX_MA GBPNZD,M5: removed
+2	11:20:45.438	Custom indicator Trend_Channel GBPNZD,M5: removed
+2	11:20:45.438	Custom indicator Wave Arrows GBPNZD,M5: removed
+2	11:20:45.438	Custom indicator SupportResistance Areas GBPNZD,M5: removed
+2	11:20:45.439	Custom indicator SupportResistance Levels GBPNZD,M5: removed
+2	11:20:45.440	Custom indicator CandleCountdown GBPNZD,M5: removed
+2	11:20:45.440	Custom indicator TrendFilter2 GBPNZD,M5: removed
+2	11:20:45.450	Custom indicator rsi chart bars GBPNZD,M5: loaded successfully
+2	11:20:45.458	Custom indicator sell zone fibs GBPNZD,M5: loaded successfully
+2	11:20:45.467	Custom indicator buy zone fibs GBPNZD,M5: loaded successfully
+2	11:20:45.476	Custom indicator CCI GBPNZD,M5: loaded successfully
+2	11:27:30.696	Custom indicator rsi chart bars GBPNZD,M5: removed
+2	11:27:30.698	Custom indicator sell zone fibs GBPNZD,M5: removed
+2	11:27:30.699	Custom indicator buy zone fibs GBPNZD,M5: removed
+2	11:27:30.700	Custom indicator CCI GBPNZD,M5: removed
+2	11:27:30.867	Custom indicator StochCandles GBPNZD,M5: loaded successfully
+2	11:27:30.936	Custom indicator PRICE GBPNZD,M5: loaded successfully
+2	11:27:31.002	Custom indicator ADX_MA GBPNZD,M5: loaded successfully
+2	11:27:31.071	Custom indicator Trend_Channel GBPNZD,M5: loaded successfully
+2	11:27:31.141	Custom indicator Wave Arrows GBPNZD,M5: loaded successfully
+2	11:27:31.214	Custom indicator SupportResistance Areas GBPNZD,M5: loaded successfully
+2	11:27:31.284	Custom indicator SupportResistance Levels GBPNZD,M5: loaded successfully
+2	11:27:31.361	Custom indicator TrendFilter2 GBPNZD,M5: loaded successfully
+2	11:30:28.242	Custom indicator StochCandles GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator PRICE GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator ADX_MA GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	11:30:28.242	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	11:30:28.364	Custom indicator b-clock modified GBPNZD,H1: loaded successfully
+2	11:30:28.437	Custom indicator AutoTrendChannel GBPNZD,H1: loaded successfully
+2	11:30:28.515	Custom indicator phoenix GBPNZD,H1: loaded successfully
+2	11:30:28.529	Custom indicator FuturoTI GBPNZD,H1: loaded successfully
+2	11:30:43.387	Custom indicator b-clock modified GBPNZD,H1: removed
+2	11:30:43.387	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	11:30:43.387	Custom indicator phoenix GBPNZD,H1: removed
+2	11:30:43.389	Custom indicator FuturoTI GBPNZD,H1: removed
+2	11:30:43.458	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	11:30:43.523	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	11:30:43.588	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	11:30:43.654	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	11:30:43.721	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	11:30:43.787	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	11:30:43.854	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	11:30:43.920	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+2	11:30:59.311	Custom indicator StochCandles GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator PRICE GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator ADX_MA GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	11:30:59.311	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	11:30:59.402	Custom indicator b-clock modified GBPNZD,H1: loaded successfully
+2	11:30:59.469	Custom indicator AutoTrendChannel GBPNZD,H1: loaded successfully
+2	11:30:59.535	Custom indicator phoenix GBPNZD,H1: loaded successfully
+2	11:30:59.546	Custom indicator FuturoTI GBPNZD,H1: loaded successfully
+2	11:36:01.200	Custom indicator b-clock modified GBPNZD,H1: removed
+2	11:36:01.200	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	11:36:01.200	Custom indicator phoenix GBPNZD,H1: removed
+2	11:36:01.202	Custom indicator FuturoTI GBPNZD,H1: removed
+2	11:36:01.276	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	11:36:01.371	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	11:36:01.445	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	11:40:19.839	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	11:40:19.839	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	11:40:19.839	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	11:40:19.908	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	11:40:19.971	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	11:40:20.037	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	11:40:20.103	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	11:40:20.166	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	11:40:20.230	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	11:40:20.296	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	11:40:20.360	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+2	11:41:26.290	Custom indicator StochCandles GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator PRICE GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator ADX_MA GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	11:41:26.290	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	11:41:26.358	Custom indicator b-clock modified GBPNZD,H1: loaded successfully
+2	11:41:26.424	Custom indicator AutoTrendChannel GBPNZD,H1: loaded successfully
+2	11:41:26.488	Custom indicator phoenix GBPNZD,H1: loaded successfully
+2	11:41:26.498	Custom indicator FuturoTI GBPNZD,H1: loaded successfully
+2	11:41:47.976	Custom indicator b-clock modified GBPNZD,H1: removed
+2	11:41:47.976	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	11:41:47.976	Custom indicator phoenix GBPNZD,H1: removed
+2	11:41:47.978	Custom indicator FuturoTI GBPNZD,H1: removed
+2	11:41:48.016	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: loaded successfully
+2	11:41:48.086	Custom indicator Entry GBPNZD,H1: loaded successfully
+2	11:41:48.158	Custom indicator Trend GBPNZD,H1: loaded successfully
+2	11:41:48.167	Custom indicator Admiral Pivot GBPNZD,H1: loaded successfully
+2	11:41:48.175	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	11:41:48.185	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+2	11:44:13.926	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: removed
+2	11:44:13.926	Custom indicator Entry GBPNZD,H1: removed
+2	11:44:13.926	Custom indicator Trend GBPNZD,H1: removed
+2	11:44:13.928	Custom indicator Admiral Pivot GBPNZD,H1: removed
+2	11:44:13.929	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	11:44:13.930	Custom indicator RSI Divergence Levels GBPNZD,H1: removed
+2	11:44:14.000	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	11:44:14.064	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	11:44:14.128	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	11:44:14.193	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	11:44:14.261	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	11:44:14.326	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	11:44:14.390	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	11:44:14.451	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+2	11:49:04.341	Custom indicator StochCandles GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator PRICE GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator ADX_MA GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator Trend_Channel GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator Wave Arrows GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator SupportResistance Areas GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator SupportResistance Levels GBPNZD,M1: removed
+2	11:49:04.341	Custom indicator TrendFilter2 GBPNZD,M1: removed
+2	11:49:04.412	Custom indicator AIMS Levels V2 GBPNZD,M1: loaded successfully
+2	11:49:04.478	Custom indicator AIMS Entry Alert V1 GBPNZD,M1: loaded successfully
+2	11:49:04.543	Custom indicator AIMS AO V.2.1 GBPNZD,M1: loaded successfully
+2	11:49:13.791	Custom indicator AIMS Levels V2 GBPNZD,M1: removed
+2	11:49:13.791	Custom indicator AIMS Entry Alert V1 GBPNZD,M1: removed
+2	11:49:13.791	Custom indicator AIMS AO V.2.1 GBPNZD,M1: removed
+2	11:49:13.864	Custom indicator MACD Candles v4 GBPNZD,M1: loaded successfully
+2	11:49:13.878	Custom indicator Dolly Graphics v14 GBPNZD,M1: loaded successfully
+2	11:49:27.822	Custom indicator MACD Candles v4 GBPNZD,M1: removed
+2	11:49:27.823	Custom indicator Dolly Graphics v14 GBPNZD,M1: removed
+2	11:49:27.838	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,M1: loaded successfully
+2	11:49:27.906	Custom indicator Entry GBPNZD,M1: loaded successfully
+2	11:49:27.972	Custom indicator Trend GBPNZD,M1: loaded successfully
+2	11:49:27.981	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M1: loaded successfully
+2	11:49:56.323	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,M1: removed
+2	11:49:56.323	Custom indicator Entry GBPNZD,M1: removed
+2	11:49:56.323	Custom indicator Trend GBPNZD,M1: removed
+2	11:49:56.325	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M1: removed
+2	11:49:56.395	Custom indicator b-clock modified GBPNZD,M1: loaded successfully
+2	11:49:56.463	Custom indicator AutoTrendChannel GBPNZD,M1: loaded successfully
+2	11:49:56.529	Custom indicator phoenix GBPNZD,M1: loaded successfully
+2	11:49:56.540	Custom indicator FuturoTI GBPNZD,M1: loaded successfully
+2	11:56:09.454	Custom indicator MACD Candles v4 AUDNZD,M30: removed
+2	11:56:09.501	Custom indicator Dolly Graphics v14 AUDNZD,M30: removed
+2	11:56:09.597	Custom indicator AIMS Levels V2 AUDNZD,M30: loaded successfully
+2	11:56:09.690	Custom indicator AIMS Entry Alert V1 AUDNZD,M30: loaded successfully
+2	11:56:09.787	Custom indicator AIMS AO V.2.1 AUDNZD,M30: loaded successfully
+2	11:56:18.267	Custom indicator AIMS Levels V2 AUDNZD,M30: removed
+2	11:56:18.267	Custom indicator AIMS Entry Alert V1 AUDNZD,M30: removed
+2	11:56:18.267	Custom indicator AIMS AO V.2.1 AUDNZD,M30: removed
+2	11:56:18.452	Custom indicator MACD Candles v4 AUDNZD,M30: loaded successfully
+2	11:56:18.475	Custom indicator Dolly Graphics v14 AUDNZD,M30: loaded successfully
+2	11:56:29.256	Custom indicator MACD Candles v4 AUDNZD,M30: removed
+2	11:56:29.257	Custom indicator Dolly Graphics v14 AUDNZD,M30: removed
+2	11:56:29.271	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,M30: loaded successfully
+2	11:56:29.342	Custom indicator Entry AUDNZD,M30: loaded successfully
+2	11:56:29.411	Custom indicator Trend AUDNZD,M30: loaded successfully
+2	11:56:29.419	Custom indicator IVT_MACD_ZERO_LAG AUDNZD,M30: loaded successfully
+2	11:56:47.270	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,M30: removed
+2	11:56:47.270	Custom indicator Entry AUDNZD,M30: removed
+2	11:56:47.270	Custom indicator Trend AUDNZD,M30: removed
+2	11:56:47.272	Custom indicator IVT_MACD_ZERO_LAG AUDNZD,M30: removed
+2	11:56:47.342	Custom indicator b-clock modified AUDNZD,M30: loaded successfully
+2	11:56:47.408	Custom indicator AutoTrendChannel AUDNZD,M30: loaded successfully
+2	11:56:47.475	Custom indicator phoenix AUDNZD,M30: loaded successfully
+2	11:56:47.485	Custom indicator FuturoTI AUDNZD,M30: loaded successfully
+2	11:57:25.140	Custom indicator b-clock modified AUDNZD,M30: removed
+2	11:57:25.140	Custom indicator AutoTrendChannel AUDNZD,M30: removed
+2	11:57:25.140	Custom indicator phoenix AUDNZD,M30: removed
+2	11:57:25.142	Custom indicator FuturoTI AUDNZD,M30: removed
+2	11:57:25.211	Custom indicator BBand Stop Alert AUDNZD,M30: loaded successfully
+2	11:57:25.281	Custom indicator DMark_Breakout AUDNZD,M30: loaded successfully
+2	11:57:50.443	Custom indicator b-clock modified GBPNZD,M1: removed
+2	11:57:50.443	Custom indicator AutoTrendChannel GBPNZD,M1: removed
+2	11:57:50.443	Custom indicator phoenix GBPNZD,M1: removed
+2	11:57:50.450	Custom indicator FuturoTI GBPNZD,M1: removed
+2	11:57:50.523	Custom indicator BBand Stop Alert GBPNZD,M1: loaded successfully
+2	11:57:50.598	Custom indicator DMark_Breakout GBPNZD,M1: loaded successfully
+2	11:58:08.401	Custom indicator BBand Stop Alert GBPNZD,M1: removed
+2	11:58:08.401	Custom indicator DMark_Breakout GBPNZD,M1: removed
+2	11:58:08.471	Custom indicator StochCandles GBPNZD,M1: loaded successfully
+2	11:58:08.534	Custom indicator PRICE GBPNZD,M1: loaded successfully
+2	11:58:08.599	Custom indicator ADX_MA GBPNZD,M1: loaded successfully
+2	11:58:08.668	Custom indicator Trend_Channel GBPNZD,M1: loaded successfully
+2	11:58:08.735	Custom indicator Wave Arrows GBPNZD,M1: loaded successfully
+2	11:58:08.800	Custom indicator SupportResistance Areas GBPNZD,M1: loaded successfully
+2	11:58:08.866	Custom indicator SupportResistance Levels GBPNZD,M1: loaded successfully
+2	11:58:08.929	Custom indicator TrendFilter2 GBPNZD,M1: loaded successfully
+2	12:01:23.528	Custom indicator rsi chart bars AUDCAD,M1: loaded successfully
+2	12:01:23.539	Custom indicator sell zone fibs AUDCAD,M1: loaded successfully
+2	12:01:23.550	Custom indicator buy zone fibs AUDCAD,M1: loaded successfully
+2	12:01:23.561	Custom indicator CCI AUDCAD,M1: loaded successfully
+2	12:07:04.462	Custom indicator b-clock modified EURUSD,H1: removed
+2	12:07:04.463	Custom indicator AutoTrendChannel EURUSD,H1: removed
+2	12:07:04.463	Custom indicator phoenix EURUSD,H1: removed
+2	12:07:04.465	Custom indicator FuturoTI EURUSD,H1: removed
+2	12:07:04.557	Custom indicator MACD Candles v4 EURUSD,H1: loaded successfully
+2	12:07:04.573	Custom indicator Dolly Graphics v14 EURUSD,H1: loaded successfully
+2	12:09:16.546	Custom indicator rsi chart bars USDCAD,H1: removed
+2	12:09:16.548	Custom indicator sell zone fibs USDCAD,H1: removed
+2	12:09:16.550	Custom indicator buy zone fibs USDCAD,H1: removed
+2	12:09:16.553	Custom indicator CCI USDCAD,H1: removed
+2	12:09:16.626	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	12:09:16.702	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	12:09:16.775	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	12:09:26.385	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	12:09:26.385	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	12:09:26.385	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	12:09:26.473	Custom indicator MACD Candles v4 USDCAD,H1: loaded successfully
+2	12:09:26.489	Custom indicator Dolly Graphics v14 USDCAD,H1: loaded successfully
+1	12:10:38.809	'27123197': datacenter connecting failed [6]
+1	12:10:39.032	'27123197': connect failed [Connection échouée]
+0	12:11:00.676	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 211.79 ms)
+0	12:11:12.221	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 211.79 ms)
+0	12:11:13.061	'27123197': previous successful authorization performed from 197.149.36.160
+0	12:11:28.760	'27123197': auto connecting to a better access point Access Point #5 (ping is 199.85 ms)
+0	12:11:30.377	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 199.85 ms)
+0	12:11:33.591	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 199.85 ms)
+0	12:11:34.244	'27123197': previous successful authorization performed from 197.149.36.160
+0	12:17:42.196	'27123197': order buy market 0.30 GBPAUD sl: 1.82700 tp: 1.88800
+0	12:17:42.874	'27123197': order was opened : #66702947 buy 0.30 GBPAUD at 1.84222 sl: 1.82700 tp: 1.88800
+0	12:18:42.870	'27123197': modify order #66702947 buy 0.30 GBPAUD at 1.84222 sl: 1.82700 tp: 1.88800 -> sl: 1.82700 tp: 1.84269
+0	12:18:43.320	'27123197': order #66702947 buy 0.30 GBPAUD at 1.84222 was modified -> sl: 1.82700 tp: 1.84269
+0	12:23:32.151	'27123197': modify order #66702947 buy 0.30 GBPAUD at 1.84222 sl: 1.82700 tp: 1.84269 -> sl: 1.82700 tp: 1.84232
+0	12:23:32.485	'27123197': order #66702947 buy 0.30 GBPAUD at 1.84222 was modified -> sl: 1.82700 tp: 1.84232
+0	12:29:37.535	'27123197': close order #66702947 buy 0.30 GBPAUD at 1.84222 sl: 1.82700 tp: 1.84232 at price 0.00000
+0	12:29:38.041	'27123197': order #66702947 buy 0.30 GBPAUD at 1.84222 sl: 1.82700 tp: 1.84232 closed at price 1.84180
+2	12:43:08.675	Custom indicator StochCandles GBPAUD,M15: removed
+2	12:43:08.676	Custom indicator PRICE GBPAUD,M15: removed
+2	12:43:08.710	Custom indicator ADX_MA GBPAUD,M15: removed
+2	12:43:08.729	Custom indicator Trend_Channel GBPAUD,M15: removed
+2	12:43:08.729	Custom indicator Wave Arrows GBPAUD,M15: removed
+2	12:43:08.729	Custom indicator SupportResistance Areas GBPAUD,M15: removed
+2	12:43:08.754	Custom indicator SupportResistance Levels GBPAUD,M15: removed
+2	12:43:08.763	Custom indicator TrendFilter2 GBPAUD,M15: removed
+2	12:43:08.866	Custom indicator AIMS Levels V2 GBPAUD,M15: loaded successfully
+2	12:43:08.949	Custom indicator AIMS Entry Alert V1 GBPAUD,M15: loaded successfully
+2	12:43:09.021	Custom indicator AIMS AO V.2.1 GBPAUD,M15: loaded successfully
+2	12:48:13.346	Custom indicator AIMS Levels V2 GBPAUD,M1: removed
+2	12:48:13.346	Custom indicator AIMS Entry Alert V1 GBPAUD,M1: removed
+2	12:48:13.346	Custom indicator AIMS AO V.2.1 GBPAUD,M1: removed
+2	12:48:13.425	Custom indicator MACD Candles v4 GBPAUD,M1: loaded successfully
+2	12:48:13.438	Custom indicator Dolly Graphics v14 GBPAUD,M1: loaded successfully
+2	12:48:34.212	Custom indicator MACD Candles v4 GBPAUD,H1: removed
+2	12:48:34.214	Custom indicator Dolly Graphics v14 GBPAUD,H1: removed
+2	12:48:34.230	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	12:48:34.309	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	12:48:34.378	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	12:48:34.387	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+0	12:48:48.428	'27123197': order buy market 0.10 GBPAUD sl: 1.82700 tp: 1.88800
+0	12:48:48.875	'27123197': order was opened : #66704724 buy 0.10 GBPAUD at 1.84147 sl: 1.82700 tp: 1.88800
+2	12:50:18.004	Custom indicator FuturoTI EURCAD,M1: removed
+2	12:50:18.075	Custom indicator AIMS Levels V2 EURCAD,M1: loaded successfully
+2	12:50:18.143	Custom indicator AIMS Entry Alert V1 EURCAD,M1: loaded successfully
+2	12:50:18.211	Custom indicator AIMS AO V.2.1 EURCAD,M1: loaded successfully
+2	12:53:19.954	Custom indicator MACD Candles v4 EURUSD,M1: removed
+2	12:53:19.957	Custom indicator Dolly Graphics v14 EURUSD,M1: removed
+2	12:53:20.031	Custom indicator $-ForecastCityIntradayIndicator EURUSD,M1: loaded successfully
+2	12:53:20.121	Custom indicator Entry EURUSD,M1: loaded successfully
+2	12:53:20.202	Custom indicator Trend EURUSD,M1: loaded successfully
+2	12:53:20.213	Custom indicator Admiral Pivot EURUSD,M1: loaded successfully
+2	12:53:20.224	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M1: loaded successfully
+2	12:53:20.263	Custom indicator RSI Divergence Levels EURUSD,M1: loaded successfully
+2	12:59:04.951	Custom indicator AIMS Entry Alert V1 AUDUSD,M15: removed
+2	12:59:04.966	Custom indicator Dolly Graphics v14 AUDUSD,M15: removed
+2	12:59:05.043	Custom indicator AIMS Levels V2 AUDUSD,M15: loaded successfully
+2	12:59:05.116	Custom indicator AIMS Entry Alert V1 AUDUSD,M15: loaded successfully
+2	12:59:05.188	Custom indicator AIMS AO V.2.1 AUDUSD,M15: loaded successfully
+2	12:59:28.697	Custom indicator AIMS Levels V2 AUDUSD,M15: removed
+2	12:59:28.697	Custom indicator AIMS Entry Alert V1 AUDUSD,M15: removed
+2	12:59:28.697	Custom indicator AIMS AO V.2.1 AUDUSD,M15: removed
+2	12:59:28.710	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,M15: loaded successfully
+2	12:59:28.876	Custom indicator Entry AUDUSD,M15: loaded successfully
+2	12:59:28.947	Custom indicator Trend AUDUSD,M15: loaded successfully
+2	12:59:28.955	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,M15: loaded successfully
+2	12:59:50.125	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,M15: removed
+2	12:59:50.125	Custom indicator Entry AUDUSD,M15: removed
+2	12:59:50.125	Custom indicator Trend AUDUSD,M15: removed
+2	12:59:50.127	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,M15: removed
+2	12:59:50.198	Custom indicator b-clock modified AUDUSD,M15: loaded successfully
+2	12:59:50.265	Custom indicator AutoTrendChannel AUDUSD,M15: loaded successfully
+2	12:59:50.332	Custom indicator phoenix AUDUSD,M15: loaded successfully
+2	12:59:50.442	Custom indicator FuturoTI AUDUSD,M15: loaded successfully
+2	13:09:16.168	Custom indicator b-clock modified AUDUSD,M15: removed
+2	13:09:16.169	Custom indicator AutoTrendChannel AUDUSD,M15: removed
+2	13:09:16.169	Custom indicator phoenix AUDUSD,M15: removed
+2	13:09:16.170	Custom indicator FuturoTI AUDUSD,M15: removed
+2	13:09:16.253	Custom indicator BBand Stop Alert AUDUSD,M15: loaded successfully
+2	13:09:16.328	Custom indicator DMark_Breakout AUDUSD,M15: loaded successfully
+2	13:09:44.092	Custom indicator BBand Stop Alert AUDUSD,M15: removed
+2	13:09:44.092	Custom indicator DMark_Breakout AUDUSD,M15: removed
+2	13:09:44.164	Custom indicator StochCandles AUDUSD,M15: loaded successfully
+2	13:09:44.229	Custom indicator PRICE AUDUSD,M15: loaded successfully
+2	13:09:44.294	Custom indicator ADX_MA AUDUSD,M15: loaded successfully
+2	13:09:44.362	Custom indicator Trend_Channel AUDUSD,M15: loaded successfully
+2	13:09:44.427	Custom indicator Wave Arrows AUDUSD,M15: loaded successfully
+2	13:09:44.494	Custom indicator SupportResistance Areas AUDUSD,M15: loaded successfully
+2	13:09:44.559	Custom indicator SupportResistance Levels AUDUSD,M15: loaded successfully
+2	13:09:44.626	Custom indicator TrendFilter2 AUDUSD,M15: loaded successfully
+2	13:13:04.260	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	13:13:04.305	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	13:13:04.306	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	13:13:04.329	Custom indicator rsi chart bars GBPUSD,H1: loaded successfully
+2	13:13:04.340	Custom indicator sell zone fibs GBPUSD,H1: loaded successfully
+2	13:13:04.351	Custom indicator buy zone fibs GBPUSD,H1: loaded successfully
+2	13:13:04.360	Custom indicator CCI GBPUSD,H1: loaded successfully
+2	13:19:55.797	Custom indicator StochCandles AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator PRICE AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator ADX_MA AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator Trend_Channel AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator Wave Arrows AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator SupportResistance Areas AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator SupportResistance Levels AUDUSD,H1: removed
+2	13:19:55.797	Custom indicator TrendFilter2 AUDUSD,H1: removed
+2	13:19:55.830	Custom indicator rsi chart bars AUDUSD,H1: loaded successfully
+2	13:19:55.839	Custom indicator sell zone fibs AUDUSD,H1: loaded successfully
+2	13:19:55.849	Custom indicator buy zone fibs AUDUSD,H1: loaded successfully
+2	13:19:55.859	Custom indicator CCI AUDUSD,H1: loaded successfully
+2	13:20:35.911	Custom indicator rsi chart bars AUDJPY,M1: loaded successfully
+2	13:20:35.921	Custom indicator sell zone fibs AUDJPY,M1: loaded successfully
+2	13:20:35.930	Custom indicator buy zone fibs AUDJPY,M1: loaded successfully
+2	13:20:35.937	Custom indicator CCI AUDJPY,M1: loaded successfully
+2	13:23:07.551	Custom indicator BBand Stop Alert AUDNZD,M30: removed
+2	13:23:07.551	Custom indicator DMark_Breakout AUDNZD,M30: removed
+2	13:23:07.564	Custom indicator rsi chart bars AUDNZD,M30: loaded successfully
+2	13:23:07.573	Custom indicator sell zone fibs AUDNZD,M30: loaded successfully
+2	13:23:07.582	Custom indicator buy zone fibs AUDNZD,M30: loaded successfully
+2	13:23:07.592	Custom indicator CCI AUDNZD,M30: loaded successfully
+0	14:16:09.240	'27123197': modify pending order #66689924 buy limit 0.10 GBPUSD at 1.23690 sl: 1.23142 tp: 1.24630 -> price: 1.23639 sl: 1.23091 tp: 1.24579
+0	14:16:09.608	'27123197': pending order #66689924 buy limit 0.10 GBPUSD was modified -> price: 1.23639 sl: 1.23091 tp: 1.24579
+0	14:23:09.990	'27123197': delete pending order #66689924 buy limit 0.10 GBPUSD at 1.23639 sl: 1.23091 tp: 1.24579
+0	14:23:10.403	'27123197': pending order #66689924 was deleted
+0	14:26:45.988	'27123197': login datacenter on AdmiralMarkets-Live
+0	14:26:52.748	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 214.55 ms)
+0	14:27:00.804	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 214.55 ms)
+0	14:27:03.823	'27123197': previous successful authorization performed from 197.149.36.160
+0	14:28:24.279	'27123197': ping to current access point Access Point #6 is 299.28 ms
+2	14:30:17.126	Custom indicator rsi chart bars AUDNZD,M15: removed
+2	14:30:17.128	Custom indicator sell zone fibs AUDNZD,M15: removed
+2	14:30:17.129	Custom indicator buy zone fibs AUDNZD,M15: removed
+2	14:30:17.176	Custom indicator CCI AUDNZD,M15: removed
+2	14:30:33.406	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	14:30:33.421	Custom indicator Entry GBPAUD,H1: removed
+2	14:30:33.421	Custom indicator Trend GBPAUD,H1: removed
+2	14:30:33.422	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	14:30:33.542	Custom indicator $-ForecastCityIntradayIndicator [DAX30],M15: removed
+2	14:30:33.583	Custom indicator Entry [DAX30],M15: removed
+2	14:30:33.622	Custom indicator Trend [DAX30],M15: removed
+2	14:30:33.632	Custom indicator Admiral Pivot [DAX30],M15: removed
+2	14:30:33.648	Custom indicator CandleCountdown [DAX30],M15: removed
+2	14:30:33.667	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M15: removed
+2	14:30:33.696	Custom indicator RSI Divergence Levels [DAX30],M15: removed
+2	14:30:33.737	Custom indicator rsi chart bars GBPUSD,H1: removed
+2	14:30:33.760	Custom indicator sell zone fibs GBPUSD,H1: removed
+2	14:30:33.763	Custom indicator buy zone fibs GBPUSD,H1: removed
+2	14:30:33.764	Custom indicator CCI GBPUSD,H1: removed
+2	14:30:33.898	Custom indicator rsi chart bars AUDJPY,M15: removed
+2	14:30:33.900	Custom indicator sell zone fibs AUDJPY,M15: removed
+2	14:30:33.918	Custom indicator buy zone fibs AUDJPY,M15: removed
+2	14:30:33.920	Custom indicator CCI AUDJPY,M15: removed
+2	14:30:33.957	Custom indicator rsi chart bars AUDCAD,M1: removed
+2	14:30:33.958	Custom indicator sell zone fibs AUDCAD,M1: removed
+2	14:30:33.960	Custom indicator buy zone fibs AUDCAD,M1: removed
+2	14:30:33.992	Custom indicator CCI AUDCAD,M1: removed
+2	14:30:34.040	Custom indicator rsi chart bars AUDUSD,H1: removed
+2	14:30:34.041	Custom indicator sell zone fibs AUDUSD,H1: removed
+2	14:30:34.043	Custom indicator buy zone fibs AUDUSD,H1: removed
+2	14:30:34.060	Custom indicator CCI AUDUSD,H1: removed
+2	14:30:34.232	Custom indicator b-clock modified EURAUD,M15: removed
+2	14:30:34.279	Custom indicator AutoTrendChannel EURAUD,M15: removed
+2	14:30:34.279	Custom indicator phoenix EURAUD,M15: removed
+2	14:30:34.325	Custom indicator FuturoTI EURAUD,M15: removed
+2	14:30:34.407	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	14:30:34.407	Custom indicator Entry GBPJPY,H1: removed
+2	14:30:34.430	Custom indicator Trend GBPJPY,H1: removed
+2	14:30:34.448	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: removed
+2	14:30:34.487	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H4: removed
+2	14:30:34.487	Custom indicator Entry EURUSD,H4: removed
+2	14:30:34.487	Custom indicator Trend EURUSD,H4: removed
+2	14:30:34.488	Custom indicator Admiral Pivot EURUSD,H4: removed
+2	14:30:34.490	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H4: removed
+2	14:30:34.492	Custom indicator RSI Divergence Levels EURUSD,H4: removed
+2	14:30:34.516	Custom indicator AIMS Levels V2 EURJPY,H1: removed
+2	14:30:34.516	Custom indicator AIMS Entry Alert V1 EURJPY,H1: removed
+2	14:30:34.521	Custom indicator AIMS AO V.2.1 EURJPY,H1: removed
+2	14:30:34.559	Custom indicator AIMS Levels V2 EURCAD,M1: removed
+2	14:30:34.559	Custom indicator AIMS Entry Alert V1 EURCAD,M1: removed
+2	14:30:34.559	Custom indicator AIMS AO V.2.1 EURCAD,M1: removed
+2	14:30:34.587	Custom indicator StochCandles GBPNZD,M1: removed
+2	14:30:34.587	Custom indicator PRICE GBPNZD,M1: removed
+2	14:30:34.654	Custom indicator ADX_MA GBPNZD,M1: removed
+2	14:30:34.654	Custom indicator Trend_Channel GBPNZD,M1: removed
+2	14:30:34.662	Custom indicator Wave Arrows GBPNZD,M1: removed
+2	14:30:34.662	Custom indicator SupportResistance Areas GBPNZD,M1: removed
+2	14:30:34.662	Custom indicator SupportResistance Levels GBPNZD,M1: removed
+2	14:30:34.662	Custom indicator TrendFilter2 GBPNZD,M1: removed
+2	14:30:34.737	Custom indicator rsi chart bars GOLD,H1: removed
+2	14:30:34.738	Custom indicator sell zone fibs GOLD,H1: removed
+2	14:30:34.752	Custom indicator buy zone fibs GOLD,H1: removed
+2	14:30:34.771	Custom indicator CCI GOLD,H1: removed
+2	14:30:34.823	Custom indicator MACD Candles v4 USDCAD,H1: removed
+2	14:30:34.825	Custom indicator Dolly Graphics v14 USDCAD,H1: removed
+2	14:30:34.879	Custom indicator MACD Candles v4 EURGBP,H1: removed
+2	14:30:34.888	Custom indicator Dolly Graphics v14 EURGBP,H1: removed
+2	14:30:34.916	Custom indicator b-clock modified AUDCHF,H1: removed
+2	14:30:34.937	Custom indicator AutoTrendChannel AUDCHF,H1: removed
+2	14:30:34.937	Custom indicator phoenix AUDCHF,H1: removed
+2	14:30:34.958	Custom indicator FuturoTI AUDCHF,H1: removed
+2	14:30:34.972	Custom indicator MACD Candles v4 CADCHF,H1: removed
+2	14:30:35.001	Custom indicator Dolly Graphics v14 CADCHF,H1: removed
+2	14:30:35.067	Custom indicator MACD Candles v4 CHFJPY,H1: removed
+2	14:30:35.069	Custom indicator Dolly Graphics v14 CHFJPY,H1: removed
+2	14:30:35.097	Custom indicator b-clock modified BTCUSD,M5: removed
+2	14:30:35.105	Custom indicator AutoTrendChannel BTCUSD,M5: removed
+2	14:30:35.105	Custom indicator phoenix BTCUSD,M5: removed
+2	14:30:35.153	Custom indicator FuturoTI BTCUSD,M5: removed
+2	14:30:35.528	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	14:30:35.780	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	14:30:35.866	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	14:30:35.930	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: loaded successfully
+2	14:30:35.991	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	14:30:36.132	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: loaded successfully
+2	14:30:36.267	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	14:30:36.403	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	14:30:36.786	Custom indicator $-ForecastCityIntradayIndicator USDCHF,H1: loaded successfully
+2	14:30:48.338	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	14:30:48.349	Custom indicator $-ForecastCityIntradayIndicator USDCHF,H1: removed
+2	14:30:48.358	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: removed
+2	14:30:48.369	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	14:30:48.377	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: removed
+2	14:30:48.390	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	14:30:48.399	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: removed
+2	14:30:48.408	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	14:30:48.413	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	14:30:48.446	Custom indicator CandleTimer GBPUSD,M1: loaded successfully
+2	14:30:48.466	Custom indicator RSI Divergence Levels GBPUSD,M1: loaded successfully
+2	14:31:21.136	Custom indicator rsi chart bars GBPAUD,H1: loaded successfully
+2	14:31:21.146	Custom indicator sell zone fibs GBPAUD,H1: loaded successfully
+2	14:31:21.157	Custom indicator buy zone fibs GBPAUD,H1: loaded successfully
+2	14:31:21.188	Custom indicator CCI GBPAUD,H1: loaded successfully
+2	14:32:38.123	Custom indicator rsi chart bars GBPAUD,H1: removed
+2	14:32:38.125	Custom indicator sell zone fibs GBPAUD,H1: removed
+2	14:32:38.129	Custom indicator buy zone fibs GBPAUD,H1: removed
+2	14:32:38.131	Custom indicator CCI GBPAUD,H1: removed
+2	14:32:38.315	Custom indicator StochCandles GBPAUD,H1: loaded successfully
+2	14:32:38.387	Custom indicator PRICE GBPAUD,H1: loaded successfully
+2	14:32:38.462	Custom indicator ADX_MA GBPAUD,H1: loaded successfully
+2	14:32:38.533	Custom indicator Trend_Channel GBPAUD,H1: loaded successfully
+2	14:32:38.604	Custom indicator Wave Arrows GBPAUD,H1: loaded successfully
+2	14:32:38.677	Custom indicator SupportResistance Areas GBPAUD,H1: loaded successfully
+2	14:32:38.749	Custom indicator SupportResistance Levels GBPAUD,H1: loaded successfully
+2	14:32:38.826	Custom indicator TrendFilter2 GBPAUD,H1: loaded successfully
+2	14:32:53.290	Custom indicator $-ForecastCityIntradayIndicator [DAX30],H1: loaded successfully
+2	14:32:53.364	Custom indicator Entry [DAX30],H1: loaded successfully
+2	14:32:53.435	Custom indicator Trend [DAX30],H1: loaded successfully
+2	14:32:53.445	Custom indicator IVT_MACD_ZERO_LAG [DAX30],H1: loaded successfully
+2	14:33:10.837	Custom indicator CandleTimer GBPUSD,M15: removed
+2	14:33:10.839	Custom indicator RSI Divergence Levels GBPUSD,M15: removed
+2	14:33:10.853	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,M15: loaded successfully
+2	14:33:10.923	Custom indicator Entry GBPUSD,M15: loaded successfully
+2	14:33:10.994	Custom indicator Trend GBPUSD,M15: loaded successfully
+2	14:33:11.006	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M15: loaded successfully
+2	14:33:32.834	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	14:33:32.966	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	14:33:33.051	Custom indicator phoenix GOLD,H1: loaded successfully
+0	14:34:09.312	'23875089': login on AdmiralMarkets-Demo through Access Point #2 (ping: 213.42 ms)
+0	14:34:15.898	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 213.42 ms)
+0	14:34:16.714	'23875089': previous successful authorization performed from 197.149.36.160
+0	14:34:24.554	'23875089': close order #181052406 sell 40.00 #BNP at 30.730 sl: 0.000 tp: 0.000 at price 0.000
+0	14:34:24.936	'23875089': order #181052406 sell 40.00 #BNP at 30.730 sl: 0.000 tp: 0.000 closed at price 33.520
+0	14:34:26.393	'23875089': close order #181051907 sell 10.00 #BNP at 30.830 sl: 0.000 tp: 0.000 at price 0.000
+0	14:34:26.798	'23875089': order #181051907 sell 10.00 #BNP at 30.830 sl: 0.000 tp: 0.000 closed at price 33.520
+0	14:34:27.870	'23875089': close order #181051816 sell 5.00 #BNP at 30.840 sl: 0.000 tp: 0.000 at price 0.000
+0	14:34:28.207	'23875089': auto connecting to a better access point Access Point #4 (ping is 218.62 ms)
+0	14:34:29.180	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 218.62 ms)
+0	14:34:30.940	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 218.62 ms)
+0	14:34:31.509	'23875089': previous successful authorization performed from 197.149.36.160
+0	14:34:33.822	'23875089': close order #181051133 sell 1.00 #BNP at 30.800 sl: 0.000 tp: 0.000 at price 0.000
+0	14:34:35.253	'23875089': close order #181051092 buy 0.20 #BNP at 30.820 sl: 0.000 tp: 0.000 at price 0.000
+0	14:34:35.420	'23875089': order #181051133 sell 1.00 #BNP at 30.800 sl: 0.000 tp: 0.000 closed at price 33.520
+0	14:34:37.037	'23875089': order #181051092 buy 0.20 #BNP at 30.820 sl: 0.000 tp: 0.000 closed at price 33.510
+0	14:38:19.872	'23875089': order sell market 0.10 GOLD sl: 0.000 tp: 0.000
+0	14:38:20.234	'23875089': order was opened : #181626676 sell 0.10 GOLD at 1732.180 sl: 0.000 tp: 0.000
+0	14:38:30.142	'23875089': modify order #181626676 sell 0.10 GOLD at 1732.180 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 1729.416
+0	14:38:30.422	'23875089': order #181626676 sell 0.10 GOLD at 1732.180 was modified -> sl: 0.000 tp: 1729.416
+0	14:38:37.675	'23875089': close order #181626676 sell 0.10 GOLD at 1732.180 sl: 0.000 tp: 1729.416 at price 0.000
+0	14:38:38.040	'23875089': order #181626676 sell 0.10 GOLD at 1732.180 sl: 0.000 tp: 1729.416 closed at price 1732.590
+0	14:38:50.375	'23875089': order buy market 0.05 GOLD sl: 0.000 tp: 0.000
+0	14:38:50.755	'23875089': order was opened : #181626714 buy 0.05 GOLD at 1732.690 sl: 0.000 tp: 0.000
+0	14:38:56.513	'23875089': modify order #181626714 buy 0.05 GOLD at 1732.690 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 1745.170
+0	14:38:56.972	'23875089': order #181626714 buy 0.05 GOLD at 1732.690 was modified -> sl: 0.000 tp: 1745.170
+0	14:39:01.178	'23875089': modify order #181626714 buy 0.05 GOLD at 1732.690 sl: 0.000 tp: 1745.170 -> sl: 0.000 tp: 1734.549
+0	14:39:01.466	'23875089': order #181626714 buy 0.05 GOLD at 1732.690 was modified -> sl: 0.000 tp: 1734.549
+0	14:43:57.081	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 299.28 ms)
+0	14:44:01.525	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 299.28 ms)
+0	14:44:02.566	'27123197': previous successful authorization performed from 197.149.36.160
+0	14:45:40.970	'27123197': order buy market 0.05 GOLD sl: 1726.500 tp: 0.000
+0	14:45:41.835	'27123197': order was opened : #66710110 buy 0.05 GOLD at 1734.130 sl: 1726.500 tp: 0.000
+0	14:46:36.736	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 218.62 ms)
+0	14:46:42.811	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 218.62 ms)
+0	14:46:43.466	'23875089': previous successful authorization performed from 197.149.36.160
+0	14:46:49.695	'23875089': close order #181626714 buy 0.05 GOLD at 1732.690 sl: 0.000 tp: 1734.549 at price 0.000
+0	14:46:50.124	'23875089': order #181626714 buy 0.05 GOLD at 1732.690 sl: 0.000 tp: 1734.549 closed at price 1733.780
+0	14:46:56.654	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 299.28 ms)
+0	14:47:02.916	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 299.28 ms)
+0	14:47:04.988	'27123197': previous successful authorization performed from 197.149.36.160
+1	14:56:48.996	'27123197': datacenter connecting failed [6]
+0	14:57:09.577	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 310.94 ms)
+0	14:58:17.008	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 479.36 ms)
+0	14:59:18.938	'27123197': login datacenter on AdmiralMarkets-Live
+0	14:59:25.793	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 512.15 ms)
+0	14:59:37.047	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 512.15 ms)
+0	14:59:42.468	'27123197': previous successful authorization performed from 197.149.36.160
+0	15:01:03.037	'27123197': ping to current access point Access Point #1 is 331.00 ms
+1	15:02:06.000	'27123197': datacenter connecting failed [6]
+0	15:02:07.662	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 257.48 ms)
+0	15:02:56.281	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 257.48 ms)
+0	15:02:58.172	'27123197': previous successful authorization performed from 197.149.36.160
+2	15:04:15.233	Custom indicator $-ForecastCityIntradayIndicator [DJI30],H1: loaded successfully
+2	15:04:15.327	Custom indicator Entry [DJI30],H1: loaded successfully
+2	15:04:15.421	Custom indicator Trend [DJI30],H1: loaded successfully
+2	15:04:15.441	Custom indicator Admiral Pivot [DJI30],H1: loaded successfully
+2	15:04:15.453	Custom indicator IVT_MACD_ZERO_LAG [DJI30],H1: loaded successfully
+2	15:04:15.463	Custom indicator RSI Divergence Levels [DJI30],H1: loaded successfully
+0	15:04:38.568	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:04:46.789	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 302.07 ms)
+1	15:05:32.468	'27123197': datacenter connecting failed [6]
+0	15:05:33.639	'27123197': previous successful authorization performed from 197.149.36.160
+2	15:09:09.065	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,M15: removed
+2	15:09:09.065	Custom indicator Entry GBPUSD,M15: removed
+2	15:09:09.065	Custom indicator Trend GBPUSD,M15: removed
+2	15:09:09.068	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M15: removed
+2	15:09:09.138	Custom indicator AIMS Levels V2 GBPUSD,M15: loaded successfully
+2	15:09:09.226	Custom indicator AIMS Entry Alert V1 GBPUSD,M15: loaded successfully
+2	15:09:09.290	Custom indicator AIMS AO V.2.1 GBPUSD,M15: loaded successfully
+2	15:16:06.196	Custom indicator b-clock modified GOLD,M15: removed
+2	15:16:06.197	Custom indicator AutoTrendChannel GOLD,M15: removed
+2	15:16:06.197	Custom indicator phoenix GOLD,M15: removed
+2	15:16:06.271	Custom indicator MACD Candles v4 GOLD,M15: loaded successfully
+2	15:16:06.283	Custom indicator Dolly Graphics v14 GOLD,M15: loaded successfully
+0	15:16:58.496	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 308.30 ms)
+0	15:17:15.425	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 308.30 ms)
+0	15:17:16.990	'27123197': previous successful authorization performed from 197.149.36.160
+2	15:17:28.042	Custom indicator MACD Candles v4 GOLD,H1: removed
+2	15:17:28.044	Custom indicator Dolly Graphics v14 GOLD,H1: removed
+2	15:17:28.058	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: loaded successfully
+2	15:17:28.126	Custom indicator Entry GOLD,H1: loaded successfully
+2	15:17:28.191	Custom indicator Trend GOLD,H1: loaded successfully
+2	15:17:28.199	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	15:18:10.100	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: removed
+2	15:18:10.100	Custom indicator Entry GOLD,H1: removed
+2	15:18:10.100	Custom indicator Trend GOLD,H1: removed
+2	15:18:10.102	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	15:18:10.177	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	15:18:10.250	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	15:18:10.323	Custom indicator phoenix GOLD,H1: loaded successfully
+2	15:18:10.354	Custom indicator FuturoTI GOLD,H1: loaded successfully
+1	15:18:26.998	'27123197': datacenter connecting failed [6]
+0	15:18:29.500	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 775.35 ms)
+2	15:18:37.305	Custom indicator b-clock modified GOLD,M30: removed
+2	15:18:37.305	Custom indicator AutoTrendChannel GOLD,M30: removed
+2	15:18:37.305	Custom indicator phoenix GOLD,M30: removed
+2	15:18:37.308	Custom indicator FuturoTI GOLD,M30: removed
+2	15:18:37.378	Custom indicator BBand Stop Alert GOLD,M30: loaded successfully
+2	15:18:37.445	Custom indicator DMark_Breakout GOLD,M30: loaded successfully
+1	15:19:33.568	'27123197': datacenter connecting failed [6]
+0	15:19:42.967	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 1071.52 ms)
+1	15:21:04.004	'27123197': datacenter connecting failed [6]
+1	15:21:09.579	'27123197': connect failed [Connection échouée]
+0	15:22:10.637	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+2	15:22:11.124	Custom indicator BBand Stop Alert GOLD,M30: removed
+2	15:22:11.124	Custom indicator DMark_Breakout GOLD,M30: removed
+2	15:22:11.220	Custom indicator StochCandles GOLD,M30: loaded successfully
+2	15:22:11.308	Custom indicator PRICE GOLD,M30: loaded successfully
+2	15:22:11.393	Custom indicator ADX_MA GOLD,M30: loaded successfully
+2	15:22:11.488	Custom indicator Trend_Channel GOLD,M30: loaded successfully
+2	15:22:11.572	Custom indicator Wave Arrows GOLD,M30: loaded successfully
+2	15:22:11.656	Custom indicator SupportResistance Areas GOLD,M30: loaded successfully
+2	15:22:11.745	Custom indicator SupportResistance Levels GOLD,M30: loaded successfully
+2	15:22:11.838	Custom indicator TrendFilter2 GOLD,M30: loaded successfully
+2	15:23:00.136	Custom indicator StochCandles GOLD,H1: removed
+2	15:23:00.136	Custom indicator PRICE GOLD,H1: removed
+2	15:23:00.136	Custom indicator ADX_MA GOLD,H1: removed
+2	15:23:00.136	Custom indicator Trend_Channel GOLD,H1: removed
+2	15:23:00.136	Custom indicator Wave Arrows GOLD,H1: removed
+2	15:23:00.136	Custom indicator SupportResistance Areas GOLD,H1: removed
+2	15:23:00.136	Custom indicator SupportResistance Levels GOLD,H1: removed
+2	15:23:00.136	Custom indicator TrendFilter2 GOLD,H1: removed
+2	15:23:00.245	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	15:23:00.348	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	15:23:00.446	Custom indicator phoenix GOLD,H1: loaded successfully
+0	15:23:15.012	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:23:23.973	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+2	15:23:38.636	Custom indicator b-clock modified GOLD,H1: removed
+2	15:23:38.636	Custom indicator AutoTrendChannel GOLD,H1: removed
+2	15:23:38.636	Custom indicator phoenix GOLD,H1: removed
+2	15:23:38.723	Custom indicator Time zone Trading GOLD,H1: loaded successfully
+2	15:23:38.801	Custom indicator Bars2 GOLD,H1: loaded successfully
+2	15:23:38.882	Custom indicator Pivot Lines 2 GOLD,H1: loaded successfully
+2	15:23:38.955	Custom indicator Fractals Arrows GOLD,H1: loaded successfully
+2	15:23:39.040	Custom indicator Trend_Line_MA GOLD,H1: loaded successfully
+2	15:23:39.118	Custom indicator Trend_Filter GOLD,H1: loaded successfully
+2	15:23:39.196	Custom indicator bb-squeeze GOLD,H1: loaded successfully
+0	15:24:08.219	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	15:24:09.918	'27123197': previous successful authorization performed from 197.149.36.160
+0	15:25:04.004	'27123197': ping to current access point Access Point #8 is 622.30 ms
+0	15:25:27.127	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:25:31.124	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 331.81 ms)
+2	15:25:46.474	Custom indicator rsi chart bars AUDUSD,H1: loaded successfully
+2	15:25:46.488	Custom indicator sell zone fibs AUDUSD,H1: loaded successfully
+2	15:25:46.498	Custom indicator buy zone fibs AUDUSD,H1: loaded successfully
+2	15:25:46.510	Custom indicator CCI AUDUSD,H1: loaded successfully
+0	15:26:33.766	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:26:54.074	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 513.66 ms)
+0	15:27:57.041	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:28:06.622	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 4370.70 ms)
+0	15:28:11.245	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 4370.70 ms)
+0	15:28:22.007	'27123197': ping to current access point Access Point #2 is n/a
+0	15:28:22.530	'27123197': previous successful authorization performed from 197.149.36.160
+0	15:29:38.690	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 226.02 ms)
+1	15:31:00.010	'27123197': datacenter connecting failed [6]
+0	15:31:08.666	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 309.50 ms)
+0	15:31:52.999	'27123197': ping to current access point Access Point #4 is 215.80 ms
+0	15:32:14.258	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:32:27.780	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 299.07 ms)
+0	15:33:29.012	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:33:40.236	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 656.09 ms)
+0	15:34:39.976	'27123197': ping to current access point Access Point #8 is 1764.13 ms
+0	15:34:45.800	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:35:03.653	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 294.01 ms)
+0	15:36:11.879	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:36:19.645	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 429.51 ms)
+0	15:37:23.089	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:37:36.041	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 541.81 ms)
+0	15:38:24.204	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 541.81 ms)
+0	15:38:27.302	'27123197': previous successful authorization performed from 197.149.36.160
+0	15:39:02.980	'27123197': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	15:39:10.341	'27123197': order was opened : #66712515 buy 0.50 [DAX30] at 11720.90 sl: 0.00 tp: 0.00
+0	15:40:02.327	'27123197': modify order #66712515 buy 0.50 [DAX30] at 11720.90 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 11804.70
+0	15:40:02.828	'27123197': order #66712515 buy 0.50 [DAX30] at 11720.90 was modified -> sl: 0.00 tp: 11804.70
+1	15:41:09.997	'27123197': datacenter connecting failed [6]
+0	15:41:12.853	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 589.76 ms)
+0	15:41:23.684	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 589.76 ms)
+0	15:41:27.521	'27123197': previous successful authorization performed from 197.149.36.160
+0	15:43:24.576	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 589.76 ms)
+0	15:44:07.254	'27123197': close order #66712515 buy 0.50 [DAX30] at 11720.90 sl: 0.00 tp: 11804.70 at price 0.00
+1	15:44:09.378	'27123197': datacenter connecting failed [6]
+0	15:44:18.148	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 308.97 ms)
+0	15:45:03.451	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 308.97 ms)
+0	15:45:06.499	'27123197': previous successful authorization performed from 197.149.36.160
+2	15:50:57.831	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	15:50:57.901	Custom indicator Entry EURUSD,H1: loaded successfully
+2	15:50:57.966	Custom indicator Trend EURUSD,H1: loaded successfully
+2	15:50:57.976	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+1	15:51:28.008	'27123197': datacenter connecting failed [6]
+0	15:51:31.920	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 589.76 ms)
+0	15:51:41.323	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 589.76 ms)
+0	15:51:44.677	'27123197': previous successful authorization performed from 154.126.9.239
+1	15:54:07.007	'27123197': datacenter connecting failed [6]
+0	15:54:09.403	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 773.87 ms)
+0	15:54:14.315	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 773.87 ms)
+0	15:54:15.736	'27123197': previous successful authorization performed from 197.149.36.160
+1	15:55:21.746	MQL5.community: authorization failed
+2	15:59:01.418	Custom indicator Time zone Trading GOLD,H1: removed
+2	15:59:01.418	Custom indicator Bars2 GOLD,H1: removed
+2	15:59:01.418	Custom indicator Pivot Lines 2 GOLD,H1: removed
+2	15:59:01.418	Custom indicator Fractals Arrows GOLD,H1: removed
+2	15:59:01.418	Custom indicator Trend_Line_MA GOLD,H1: removed
+2	15:59:01.418	Custom indicator Trend_Filter GOLD,H1: removed
+2	15:59:01.418	Custom indicator bb-squeeze GOLD,H1: removed
+2	15:59:01.432	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: loaded successfully
+2	15:59:01.496	Custom indicator Entry GOLD,H1: loaded successfully
+2	15:59:01.554	Custom indicator Trend GOLD,H1: loaded successfully
+2	15:59:01.564	Custom indicator Admiral Pivot GOLD,H1: loaded successfully
+2	15:59:01.571	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	15:59:01.580	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	16:01:06.768	Custom indicator StochCandles GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator PRICE GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator ADX_MA GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator Trend_Channel GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator Wave Arrows GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator SupportResistance Areas GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator SupportResistance Levels GBPAUD,H1: removed
+2	16:01:06.768	Custom indicator TrendFilter2 GBPAUD,H1: removed
+2	16:01:06.779	Custom indicator rsi chart bars GBPAUD,H1: loaded successfully
+2	16:01:06.788	Custom indicator sell zone fibs GBPAUD,H1: loaded successfully
+2	16:01:06.796	Custom indicator buy zone fibs GBPAUD,H1: loaded successfully
+2	16:01:06.804	Custom indicator CCI GBPAUD,H1: loaded successfully
+2	16:01:45.794	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: removed
+2	16:01:45.794	Custom indicator Entry GOLD,H1: removed
+2	16:01:45.794	Custom indicator Trend GOLD,H1: removed
+2	16:01:45.796	Custom indicator Admiral Pivot GOLD,H1: removed
+2	16:01:45.798	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	16:01:45.799	Custom indicator RSI Divergence Levels GOLD,H1: removed
+2	16:01:45.807	Custom indicator rsi chart bars GOLD,H1: loaded successfully
+2	16:01:45.816	Custom indicator sell zone fibs GOLD,H1: loaded successfully
+2	16:01:45.824	Custom indicator buy zone fibs GOLD,H1: loaded successfully
+2	16:01:45.832	Custom indicator CCI GOLD,H1: loaded successfully
+1	16:10:14.449	'27123197': datacenter connecting failed [6]
+1	16:10:35.526	'27123197': connect failed [Connection échouée]
+0	16:11:18.176	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	16:11:42.753	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	16:12:04.705	'27123197': previous successful authorization performed from 154.126.10.137
+1	16:13:03.539	MQL5.community: authorization failed
+0	16:13:25.953	'27123197': ping to current access point Access Point #8 is n/a
+1	16:13:27.799	'27123197': datacenter connecting failed [6]
+0	16:13:53.143	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 1115.31 ms)
+0	16:14:30.854	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 1115.31 ms)
+0	16:14:36.931	'27123197': previous successful authorization performed from 197.149.36.160
+1	16:17:29.792	'27123197': datacenter connecting failed [6]
+0	16:17:36.843	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 717.78 ms)
+0	16:18:40.074	'27123197': login datacenter on AdmiralMarkets-Live
+0	16:18:48.913	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 553.62 ms)
+0	16:19:54.200	'27123197': login datacenter on AdmiralMarkets-Live
+0	16:20:04.792	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 2188.31 ms)
+0	16:20:11.304	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 2188.31 ms)
+0	16:20:12.338	'27123197': previous successful authorization performed from 197.149.36.160
+0	16:20:31.575	'27123197': ping to current access point Access Point #1 is 648.83 ms
+2	16:27:37.493	Custom indicator rsi chart bars GBPAUD,H1: removed
+2	16:27:37.494	Custom indicator sell zone fibs GBPAUD,H1: removed
+2	16:27:37.496	Custom indicator buy zone fibs GBPAUD,H1: removed
+2	16:27:37.497	Custom indicator CCI GBPAUD,H1: removed
+2	16:27:37.580	Custom indicator b-clock modified GBPAUD,H1: loaded successfully
+2	16:27:37.653	Custom indicator AutoTrendChannel GBPAUD,H1: loaded successfully
+2	16:27:37.723	Custom indicator phoenix GBPAUD,H1: loaded successfully
+2	16:27:37.748	Custom indicator FuturoTI GBPAUD,H1: loaded successfully
+2	16:34:08.411	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	16:34:08.499	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	16:34:08.580	Custom indicator Trend GBPJPY,H1: loaded successfully
+2	16:34:08.590	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	17:02:12.864	Custom indicator rsi chart bars GOLD,H1: removed
+2	17:02:12.867	Custom indicator sell zone fibs GOLD,H1: removed
+2	17:02:12.870	Custom indicator buy zone fibs GOLD,H1: removed
+2	17:02:12.872	Custom indicator CCI GOLD,H1: removed
+2	17:02:12.959	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	17:02:13.156	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	17:02:13.236	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+0	17:06:52.124	'27123197': modify order #66710110 buy 0.05 GOLD at 1734.130 sl: 1726.500 tp: 0.000 -> sl: 1726.500 tp: 1734.229
+0	17:06:52.975	'27123197': order #66710110 buy 0.05 GOLD at 1734.130 was modified -> sl: 1726.500 tp: 1734.229
+0	17:11:27.428	'27123197': order #66710110 buy 0.05 GOLD at 1734.130 closed due take-profit at price 1734.230
+2	17:13:25.291	Custom indicator $-ForecastCityIntradayIndicator [DAX30],M1: removed
+2	17:13:25.291	Custom indicator Entry [DAX30],M1: removed
+2	17:13:25.291	Custom indicator Trend [DAX30],M1: removed
+2	17:13:25.293	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: removed
+2	17:13:25.364	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	17:13:25.431	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	17:13:25.498	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	17:17:35.744	Custom indicator $-ForecastCityIntradayIndicator [DJI30],M5: removed
+2	17:17:35.744	Custom indicator Entry [DJI30],M5: removed
+2	17:17:35.744	Custom indicator Trend [DJI30],M5: removed
+2	17:17:35.745	Custom indicator Admiral Pivot [DJI30],M5: removed
+2	17:17:35.747	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: removed
+2	17:17:35.750	Custom indicator RSI Divergence Levels [DJI30],M5: removed
+2	17:17:35.824	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	17:17:35.900	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	17:17:35.983	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+0	17:20:22.708	'27123197': order sell market 0.02 GOLD sl: 0.000 tp: 0.000
+0	17:20:23.307	'27123197': order was opened : #66724169 sell 0.02 GOLD at 1734.000 sl: 0.000 tp: 0.000
+2	17:21:20.558	Expert Admiral - Mini Terminal GOLD,M1: loaded successfully
+0	17:21:40.116	'27123197': modify order #66724169 sell 0.02 GOLD at 1734.000 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 1733.882
+0	17:21:40.449	'27123197': order #66724169 sell 0.02 GOLD at 1734.000 was modified -> sl: 0.000 tp: 1733.882
+0	17:25:12.212	'27123197': order #66724169 sell 0.02 GOLD at 1734.000 closed due take-profit at price 1733.790
+2	17:26:46.223	Custom indicator AIMS Levels V2 EURUSD,M15: loaded successfully
+2	17:26:46.288	Custom indicator AIMS Entry Alert V1 EURUSD,M15: loaded successfully
+2	17:26:46.351	Custom indicator AIMS AO V.2.1 EURUSD,M15: loaded successfully
+0	17:40:09.582	'27123197': order sell market 0.02 GOLD sl: 0.000 tp: 0.000
+0	17:40:10.018	'27123197': order was opened : #66726188 sell 0.02 GOLD at 1733.950 sl: 0.000 tp: 0.000
+2	17:44:21.417	Custom indicator ABT 5M 15M\CandleCountdown GOLD,M5: loaded successfully
+0	17:45:19.491	'27123197': order buy market 0.02 GOLD sl: 0.000 tp: 0.000
+0	17:45:20.044	Trades: use hosting service to speed up the execution - 2.02 ms via 'MQL5 London 11 (MQL5.community)' instead of 648.83 ms
+0	17:45:20.044	'27123197': order was opened : #66726616 buy 0.02 GOLD at 1734.460 sl: 0.000 tp: 0.000
+0	17:45:39.640	'27123197': modify order #66726188 sell 0.02 GOLD at 1733.950 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 1733.885
+0	17:45:39.975	'27123197': order #66726188 sell 0.02 GOLD at 1733.950 was modified -> sl: 0.000 tp: 1733.885
+0	17:48:14.990	'27123197': order sell market 0.60 [DJI30] sl: 0.00 tp: 0.00
+0	17:48:15.507	'27123197': order was opened : #66726855 sell 0.60 [DJI30] at 25451.89 sl: 0.00 tp: 0.00
+0	17:50:06.446	'27123197': close order #66726616 buy 0.02 GOLD at 1734.460 sl: 0.000 tp: 0.000 at price 0.000
+0	17:50:07.306	'27123197': order #66726616 buy 0.02 GOLD at 1734.460 sl: 0.000 tp: 0.000 closed at price 1735.050
+0	17:51:14.472	'27123197': modify order #66726855 sell 0.60 [DJI30] at 25451.89 sl: 0.00 tp: 0.00 -> sl: 25461.81 tp: 0.00
+0	17:51:14.801	'27123197': order #66726855 sell 0.60 [DJI30] at 25451.89 was modified -> sl: 25461.81 tp: 0.00
+0	17:51:26.192	'27123197': modify order #66726855 sell 0.60 [DJI30] at 25451.89 sl: 25461.81 tp: 0.00 -> sl: 25472.88 tp: 0.00
+0	17:51:26.518	'27123197': order #66726855 sell 0.60 [DJI30] at 25451.89 was modified -> sl: 25472.88 tp: 0.00
+0	17:51:51.361	'27123197': modify order #66726855 sell 0.60 [DJI30] at 25451.89 sl: 25472.88 tp: 0.00 -> sl: 25469.19 tp: 0.00
+0	17:51:51.677	'27123197': order #66726855 sell 0.60 [DJI30] at 25451.89 was modified -> sl: 25469.19 tp: 0.00
+0	17:56:02.327	'27123197': close order #66726855 sell 0.60 [DJI30] at 25451.89 sl: 25469.19 tp: 0.00 at price 0.00
+0	17:56:02.802	'27123197': order #66726855 sell 0.60 [DJI30] at 25451.89 sl: 25469.19 tp: 0.00 closed at price 25464.76
+0	17:58:06.444	'27123197': close order #66726188 sell 0.02 GOLD at 1733.950 sl: 0.000 tp: 1733.885 at price 0.000
+0	17:58:06.895	'27123197': order #66726188 sell 0.02 GOLD at 1733.950 sl: 0.000 tp: 1733.885 closed at price 1737.340
+0	17:58:11.905	'27123197': order buy market 0.02 GOLD sl: 0.000 tp: 0.000
+0	17:58:12.743	'27123197': order was opened : #66727629 buy 0.02 GOLD at 1737.350 sl: 0.000 tp: 0.000
+0	18:02:27.414	'27123197': order sell market 0.60 [DJI30] sl: 0.00 tp: 0.00
+0	18:02:28.006	'27123197': order was opened : #66728267 sell 0.60 [DJI30] at 25417.64 sl: 0.00 tp: 0.00
+0	18:02:45.232	'27123197': modify order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 0.00 tp: 0.00 -> sl: 25470.66 tp: 0.00
+0	18:02:45.552	'27123197': order #66728267 sell 0.60 [DJI30] at 25417.64 was modified -> sl: 25470.66 tp: 0.00
+0	18:08:23.685	'27123197': modify order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 25470.66 tp: 0.00 -> sl: 25416.78 tp: 0.00
+0	18:08:24.027	'27123197': order #66728267 sell 0.60 [DJI30] at 25417.64 was modified -> sl: 25416.78 tp: 0.00
+0	18:13:13.390	'27123197': modify order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 25416.78 tp: 0.00 -> sl: 25435.23 tp: 0.00
+0	18:13:14.127	'27123197': order #66728267 sell 0.60 [DJI30] at 25417.64 was modified -> sl: 25435.23 tp: 0.00
+0	18:21:07.157	'27123197': close order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 25435.23 tp: 0.00 at price 0.00
+0	18:21:21.965	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 263.22 ms)
+0	18:21:24.613	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 263.22 ms)
+0	18:21:25.471	'27123197': previous successful authorization performed from 197.149.36.160
+0	18:21:41.830	'27123197': auto connecting to a better access point Access Point #6 (ping is 210.49 ms)
+0	18:21:42.681	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 210.49 ms)
+0	18:21:46.036	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 210.49 ms)
+0	18:21:46.576	'27123197': previous successful authorization performed from 197.149.36.160
+0	18:23:24.850	'27123197': modify order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 25435.23 tp: 0.00 -> sl: 25445.57 tp: 0.00
+0	18:23:25.446	'27123197': order #66728267 sell 0.60 [DJI30] at 25417.64 was modified -> sl: 25445.57 tp: 0.00
+0	18:25:25.936	'27123197': close order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 25445.57 tp: 0.00 at price 0.00
+0	18:25:26.773	'27123197': order #66728267 sell 0.60 [DJI30] at 25417.64 sl: 25445.57 tp: 0.00 closed at price 25379.58
+2	18:37:54.811	Expert Admiral - Mini Terminal GOLD,M15: removed
+2	18:37:54.823	Custom indicator AIMS Levels V2 GOLD,M15: removed
+2	18:37:54.823	Custom indicator AIMS Entry Alert V1 GOLD,M15: removed
+2	18:37:54.842	Custom indicator CandleCountdown GOLD,M15: removed
+2	18:37:54.842	Custom indicator AIMS AO V.2.1 GOLD,M15: removed
+2	18:37:54.949	Custom indicator #P4L CandleTime GOLD,M15: loaded successfully
+2	18:37:54.960	Custom indicator TURBO PLUS+ GOLD,M15: loaded successfully
+2	18:37:54.979	Custom indicator ALERT SIGNAL GOLD,M15: loaded successfully
+2	18:37:54.989	Custom indicator Trend Trading\TrendTradingCloud GOLD,M15: loaded successfully
+2	18:37:54.999	Custom indicator Admiral Donchian GOLD,M15: loaded successfully
+2	18:37:55.010	Custom indicator Admiral High-Low GOLD,M15: loaded successfully
+2	18:37:55.020	Custom indicator Admiral Keltner GOLD,M15: loaded successfully
+2	18:37:55.029	Custom indicator Admiral Pivot GOLD,M15: loaded successfully
+2	18:37:55.043	Custom indicator Admiral Symbol Info GOLD,M15: loaded successfully
+2	18:37:55.053	Custom indicator RSI Divergence Levels GOLD,M15: loaded successfully
+2	18:37:55.063	Custom indicator MACD_Volumes-2 GOLD,M15: loaded successfully
+2	18:37:55.071	Custom indicator Trend Trading\CloudSignalLines GOLD,M15: loaded successfully
+2	18:37:55.375	Custom indicator MBFX Timing GOLD,M15: loaded successfully
+2	18:38:18.030	Custom indicator MBFX Timing GOLD,M15: removed
+2	18:38:18.155	Custom indicator #P4L CandleTime GOLD,M15: removed
+2	18:38:18.156	Custom indicator TURBO PLUS+ GOLD,M15: removed
+2	18:38:18.158	Custom indicator ALERT SIGNAL GOLD,M15: removed
+2	18:38:18.159	Custom indicator TrendTradingCloud GOLD,M15: removed
+2	18:38:18.160	Custom indicator Admiral Donchian GOLD,M15: removed
+2	18:38:18.162	Custom indicator Admiral High-Low GOLD,M15: removed
+2	18:38:18.163	Custom indicator Admiral Keltner GOLD,M15: removed
+2	18:38:18.164	Custom indicator Admiral Pivot GOLD,M15: removed
+2	18:38:18.166	Custom indicator Admiral Symbol Info GOLD,M15: removed
+2	18:38:18.167	Custom indicator RSI Divergence Levels GOLD,M15: removed
+2	18:38:18.168	Custom indicator MACD_Volumes-2 GOLD,M15: removed
+2	18:38:18.170	Custom indicator CloudSignalLines GOLD,M15: removed
+2	18:38:18.180	Custom indicator CandleTimer GOLD,M15: loaded successfully
+2	18:38:18.244	Custom indicator #P4L CandleTime GOLD,M15: loaded successfully
+2	18:38:18.250	Custom indicator TURBO PLUS+ GOLD,M15: loaded successfully
+2	18:38:18.257	Custom indicator ALERT SIGNAL GOLD,M15: loaded successfully
+2	18:38:18.265	Custom indicator RSI Divergence Levels GOLD,M15: loaded successfully
+2	18:38:18.273	Custom indicator MACD_Volumes-2 GOLD,M15: loaded successfully
+2	18:38:18.430	Custom indicator MBFX Timing GOLD,M15: loaded successfully
+2	18:38:34.199	Custom indicator MBFX Timing GOLD,M15: removed
+2	18:38:34.204	Custom indicator CandleTimer GOLD,M15: removed
+2	18:38:34.204	Custom indicator #P4L CandleTime GOLD,M15: removed
+2	18:38:34.205	Custom indicator TURBO PLUS+ GOLD,M15: removed
+2	18:38:34.207	Custom indicator ALERT SIGNAL GOLD,M15: removed
+2	18:38:34.208	Custom indicator RSI Divergence Levels GOLD,M15: removed
+2	18:38:34.211	Custom indicator MACD_Volumes-2 GOLD,M15: removed
+2	18:38:34.290	Custom indicator AIMS Levels V2 GOLD,M15: loaded successfully
+2	18:38:34.358	Custom indicator AIMS Entry Alert V1 GOLD,M15: loaded successfully
+2	18:38:34.427	Custom indicator AIMS AO V.2.1 GOLD,M15: loaded successfully
+0	18:46:04.622	'27123197': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	18:46:05.173	'27123197': order was opened : #66731253 buy 0.10 [DJI30] at 25422.84 sl: 0.00 tp: 0.00
+2	18:48:21.512	Custom indicator b-clock modified GBPAUD,M5: removed
+2	18:48:21.512	Custom indicator AutoTrendChannel GBPAUD,M5: removed
+2	18:48:21.512	Custom indicator phoenix GBPAUD,M5: removed
+2	18:48:21.516	Custom indicator FuturoTI GBPAUD,M5: removed
+2	18:48:21.530	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,M5: loaded successfully
+2	18:48:21.600	Custom indicator Entry GBPAUD,M5: loaded successfully
+2	18:48:21.666	Custom indicator Trend GBPAUD,M5: loaded successfully
+2	18:48:21.769	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,M5: loaded successfully
+0	18:58:22.066	'27123197': close order #66731253 buy 0.10 [DJI30] at 25422.84 sl: 0.00 tp: 0.00 at price 0.00
+0	18:58:22.572	'27123197': order #66731253 buy 0.10 [DJI30] at 25422.84 sl: 0.00 tp: 0.00 closed at price 25440.28
+2	19:46:28.233	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	19:46:28.307	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	19:46:28.379	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	19:52:04.322	Custom indicator AIMS Levels V2 EURNZD,H4: removed
+2	19:52:04.322	Custom indicator AIMS Entry Alert V1 EURNZD,H4: removed
+2	19:52:04.322	Custom indicator AIMS AO V.2.1 EURNZD,H4: removed
+2	19:52:04.337	Custom indicator rsi chart bars EURNZD,H4: loaded successfully
+2	19:52:04.350	Custom indicator sell zone fibs EURNZD,H4: loaded successfully
+2	19:52:04.363	Custom indicator buy zone fibs EURNZD,H4: loaded successfully
+2	19:52:04.375	Custom indicator CCI EURNZD,H4: loaded successfully
+2	19:52:16.923	Custom indicator rsi chart bars EURNZD,H4: removed
+2	19:52:16.924	Custom indicator sell zone fibs EURNZD,H4: removed
+2	19:52:16.926	Custom indicator buy zone fibs EURNZD,H4: removed
+2	19:52:16.928	Custom indicator CCI EURNZD,H4: removed
+2	19:52:16.939	Custom indicator rsi chart bars EURNZD,H4: loaded successfully
+2	19:52:17.022	Custom indicator PBF_2EMA_Color EURNZD,H4: loaded successfully
+2	19:52:17.031	Custom indicator vertex_mod_3.01 alerts + arrows EURNZD,H4: loaded successfully
+0	19:58:09.920	'27123197': close order #66727629 buy 0.02 GOLD at 1737.350 sl: 0.000 tp: 0.000 at price 0.000
+0	19:58:10.624	'27123197': order #66727629 buy 0.02 GOLD at 1737.350 sl: 0.000 tp: 0.000 closed at price 1738.980
+2	20:01:21.868	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H4: removed
+2	20:01:21.868	Custom indicator Entry GBPAUD,H4: removed
+2	20:01:21.868	Custom indicator Trend GBPAUD,H4: removed
+2	20:01:21.871	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H4: removed
+2	20:01:21.890	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H4: loaded successfully
+2	20:01:21.962	Custom indicator Entry GBPAUD,H4: loaded successfully
+2	20:01:22.037	Custom indicator Trend GBPAUD,H4: loaded successfully
+2	20:01:22.048	Custom indicator Admiral Pivot GBPAUD,H4: loaded successfully
+2	20:01:22.058	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H4: loaded successfully
+2	20:01:22.068	Custom indicator RSI Divergence Levels GBPAUD,H4: loaded successfully
+2	20:03:18.662	Custom indicator StochCandles GBPNZD,H1: loaded successfully
+2	20:03:18.736	Custom indicator PRICE GBPNZD,H1: loaded successfully
+2	20:03:18.818	Custom indicator ADX_MA GBPNZD,H1: loaded successfully
+2	20:03:18.897	Custom indicator Trend_Channel GBPNZD,H1: loaded successfully
+2	20:03:18.977	Custom indicator Wave Arrows GBPNZD,H1: loaded successfully
+2	20:03:19.048	Custom indicator SupportResistance Areas GBPNZD,H1: loaded successfully
+2	20:03:19.118	Custom indicator SupportResistance Levels GBPNZD,H1: loaded successfully
+2	20:03:19.185	Custom indicator TrendFilter2 GBPNZD,H1: loaded successfully
+0	20:25:29.813	'27123197': modify order #66704724 buy 0.10 GBPAUD at 1.84147 sl: 1.82700 tp: 1.88800 -> sl: 1.82700 tp: 1.84230
+0	20:25:30.194	'27123197': order #66704724 buy 0.10 GBPAUD at 1.84147 was modified -> sl: 1.82700 tp: 1.84230
+0	20:25:47.836	'27123197': modify order #66704724 buy 0.10 GBPAUD at 1.84147 sl: 1.82700 tp: 1.84230 -> sl: 1.82700 tp: 1.84174
+0	20:25:48.522	'27123197': order #66704724 buy 0.10 GBPAUD at 1.84147 was modified -> sl: 1.82700 tp: 1.84174

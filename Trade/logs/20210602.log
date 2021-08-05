@@ -1,0 +1,1693 @@
+1	00:03:25.752	'1300050632': connect failed [Connection échouée]
+0	00:04:12.349	'1300050632': login on FTMO-Server2 through DC 3 (ping: n/a)
+0	00:04:14.785	'1300050632': login datacenter on FTMO-Server2 through DC 3 (ping: n/a)
+0	00:04:15.770	'1300050632': previous successful authorization performed from 154.120.154.246
+0	00:04:39.376	'1300050632': auto connecting to a better access point DC 5 (ping is 247.21 ms)
+1	00:04:40.416	'1300050632': connect failed [Connection échouée]
+0	00:04:46.470	'1300050632': login on FTMO-Server2 through DC 1 (ping: 254.00 ms)
+0	00:04:51.201	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 254.00 ms)
+0	00:04:52.108	'1300050632': previous successful authorization performed from 154.120.154.246
+0	01:05:21.901	'1300050632': order #6162863 buy 0.10 GER30.cash at 15588.47 closed due stop-loss at price 15555.71
+0	04:25:43.827	'1300050632': order buy market 0.10 GER30.cash sl: 0.00 tp: 0.00
+0	04:25:44.441	'1300050632': order was opened : #6173242 buy 0.10 GER30.cash at 15591.95 sl: 0.00 tp: 0.00
+0	04:25:59.028	'1300050632': modify order #6173242 buy 0.10 GER30.cash at 15591.95 sl: 0.00 tp: 0.00 -> sl: 15517.50 tp: 0.00
+0	04:25:59.364	'1300050632': order #6173242 buy 0.10 GER30.cash at 15591.95 was modified -> sl: 15517.50 tp: 0.00
+2	07:26:40.808	Expert Admiral - Mini Terminal GER30.cash,M15: loaded successfully
+0	07:27:09.371	'1300050632': close order #6173242 buy 0.05 GER30.cash at 15591.95 sl: 15517.50 tp: 0.00 at price 0.00
+0	07:27:10.000	'1300050632': order #6173242 buy 0.05 GER30.cash at 15591.95 sl: 15517.50 tp: 0.00 closed at price 15577.65
+0	07:27:10.000	'1300050632': remainder of order #6173242 was opened : #6181778 buy 0.05 GER30.cash at 15591.95 sl: 15517.50 tp: 0.00
+0	07:53:56.148	'1300050632': pending order sell stop 0.03 GER30.cash at 15350.00 sl: 15695.00 tp: 14200.00
+0	07:53:56.554	'1300050632': order was opened : #6182842 sell stop 0.03 GER30.cash at 15350.00 sl: 15695.00 tp: 14200.00
+2	08:30:25.715	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	08:30:25.724	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	08:30:25.868	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	08:30:25.998	Custom indicator TrendEnvelopes_v1 EURJPY,H1: loaded successfully
+2	08:30:26.034	Custom indicator wedges EURJPY,H1: loaded successfully
+2	08:30:26.853	Custom indicator Admiral Pivot EURJPY,H1: loaded successfully
+2	08:30:26.999	Custom indicator AutoTrendChannel EURJPY,H1: loaded successfully
+2	08:30:27.473	Custom indicator FRZ Channel Auto Plotter EURJPY,H1: loaded successfully
+2	08:30:27.485	Custom indicator Forex Uranus direction EURJPY,H1: loaded successfully
+2	08:30:27.597	Custom indicator aVSA\aVSA clasters EURJPY,H1: loaded successfully
+2	08:30:27.648	Custom indicator aVSA\aVSA Golden Zone EURJPY,H1: loaded successfully
+2	08:30:27.713	Custom indicator breakout-zones\breakout-zones EURJPY,H1: loaded successfully
+2	08:30:27.806	Custom indicator breakout-zones\SL&TP Values EURJPY,H1: loaded successfully
+2	08:30:27.874	Custom indicator PositionSizeCalculator EURJPY,H1: loaded successfully
+2	08:30:27.920	Custom indicator DaVinci Truly News Indicator 2.3.95 EURJPY,H1: loaded successfully
+2	08:30:28.037	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	08:30:28.046	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+2	08:30:28.087	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	08:30:28.108	Custom indicator RenkoMaker_Confirm EURJPY,H1: loaded successfully
+2	08:30:28.148	Custom indicator FRZ Forex Market Session Indicator EURJPY,H1: loaded successfully
+0	08:30:59.698	'1300050632': order buy market 0.07 EURJPY sl: 0.000 tp: 0.000
+0	08:31:00.348	'1300050632': order was opened : #6184857 buy 0.07 EURJPY at 134.054 sl: 0.000 tp: 0.000
+0	08:31:09.719	'1300050632': modify order #6184857 buy 0.07 EURJPY at 134.054 sl: 0.000 tp: 0.000 -> sl: 133.644 tp: 0.000
+0	08:31:10.134	'1300050632': order #6184857 buy 0.07 EURJPY at 134.054 was modified -> sl: 133.644 tp: 0.000
+0	08:38:24.029	'1300050632': order buy market 0.04 GBPJPY sl: 0.000 tp: 0.000
+0	08:38:24.579	'1300050632': order was opened : #6185461 buy 0.04 GBPJPY at 155.247 sl: 0.000 tp: 0.000
+0	08:38:41.476	'1300050632': modify order #6185461 buy 0.04 GBPJPY at 155.247 sl: 0.000 tp: 0.000 -> sl: 154.643 tp: 157.365
+0	08:38:41.850	'1300050632': order #6185461 buy 0.04 GBPJPY at 155.247 was modified -> sl: 154.643 tp: 157.365
+0	12:01:09.987	'1300050632': login on FTMO-Server2 through DC 1 (ping: 254.00 ms)
+0	12:01:14.461	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 254.00 ms)
+0	12:01:15.676	'1300050632': previous successful authorization performed from 102.16.43.53
+0	12:12:04.924	'1300050632': auto connecting to a better access point DC 4 (ping is 293.19 ms)
+0	12:12:10.672	'1300050632': login on FTMO-Server2 through DC 4 (ping: 293.19 ms)
+0	12:12:13.062	'1300050632': login datacenter on FTMO-Server2 through DC 4 (ping: 293.19 ms)
+0	12:12:14.243	'1300050632': previous successful authorization performed from 102.16.43.53
+0	12:13:52.656	'1300050632': order #6196754 buy 0.10 US100.cash at 13651.75 closed due stop-loss at price 13625.45
+0	12:19:54.109	'1300050632': order buy market 0.20 US100.cash sl: 0.00 tp: 0.00
+0	12:19:54.761	'1300050632': order was opened : #6214659 buy 0.20 US100.cash at 13636.25 sl: 0.00 tp: 0.00
+0	12:20:06.182	'1300050632': modify order #6214659 buy 0.20 US100.cash at 13636.25 sl: 0.00 tp: 0.00 -> sl: 13620.90 tp: 0.00
+0	12:20:06.566	'1300050632': order #6214659 buy 0.20 US100.cash at 13636.25 was modified -> sl: 13620.90 tp: 0.00
+0	12:22:01.938	'1300050632': order buy market 0.77 XAUUSD sl: 0.00 tp: 0.00
+0	12:22:02.588	'1300050632': order was opened : #6214928 buy 0.77 XAUUSD at 1897.10 sl: 0.00 tp: 0.00
+0	12:22:33.501	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 0.00 tp: 0.00 -> sl: 1895.00 tp: 1910.00
+0	12:22:33.864	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1895.00 tp: 1910.00
+2	12:26:38.935	Expert Admiral - Mini Terminal XAUUSD,M1: removed
+0	12:27:28.784	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1895.00 tp: 1910.00 -> sl: 1895.94 tp: 1910.00
+0	12:27:29.139	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1895.94 tp: 1910.00
+0	12:27:35.883	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1895.94 tp: 1910.00 -> sl: 1895.87 tp: 1910.00
+0	12:27:36.239	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1895.87 tp: 1910.00
+0	12:28:26.038	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1895.87 tp: 1910.00 -> sl: 1894.99 tp: 1910.00
+0	12:28:26.416	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.99 tp: 1910.00
+0	12:35:51.171	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.99 tp: 1910.00 -> sl: 1894.94 tp: 1910.00
+0	12:35:51.632	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.94 tp: 1910.00
+2	13:01:21.500	Expert Admiral - Mini Terminal XAUUSD,M1: loaded successfully
+2	14:05:04.534	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	14:05:04.553	Custom indicator CandleTimer GBPAUD,H1: loaded successfully
+2	14:05:04.621	Custom indicator #Signal_Bars_v6 GBPAUD,H1: loaded successfully
+2	14:05:04.715	Custom indicator TrendEnvelopes_v1 GBPAUD,H1: loaded successfully
+2	14:05:04.794	Custom indicator wedges GBPAUD,H1: loaded successfully
+2	14:05:04.878	Custom indicator Admiral Pivot GBPAUD,H1: loaded successfully
+2	14:05:04.942	Custom indicator AutoTrendChannel GBPAUD,H1: loaded successfully
+2	14:05:05.011	Custom indicator FRZ Channel Auto Plotter GBPAUD,H1: loaded successfully
+2	14:05:05.031	Custom indicator Forex Uranus direction GBPAUD,H1: loaded successfully
+2	14:05:05.187	Custom indicator aVSA\aVSA clasters GBPAUD,H1: loaded successfully
+2	14:05:05.333	Custom indicator aVSA\aVSA Golden Zone GBPAUD,H1: loaded successfully
+2	14:05:05.385	Custom indicator breakout-zones\breakout-zones GBPAUD,H1: loaded successfully
+2	14:05:05.469	Custom indicator breakout-zones\SL&TP Values GBPAUD,H1: loaded successfully
+2	14:05:05.553	Custom indicator PositionSizeCalculator GBPAUD,H1: loaded successfully
+2	14:05:05.680	Custom indicator DaVinci Truly News Indicator 2.3.95 GBPAUD,H1: loaded successfully
+2	14:05:05.798	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	14:05:05.827	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	14:05:05.849	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	14:05:05.907	Custom indicator RenkoMaker_Confirm GBPAUD,H1: loaded successfully
+2	14:05:05.986	Custom indicator FRZ Forex Market Session Indicator GBPAUD,H1: loaded successfully
+0	14:05:49.900	'1300050632': order sell market 0.38 GBPAUD sl: 0.00000 tp: 0.00000
+0	14:05:50.637	'1300050632': order was opened : #6225321 sell 0.38 GBPAUD at 1.82894 sl: 0.00000 tp: 0.00000
+0	14:12:39.572	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.94 tp: 1910.00 -> sl: 1894.81 tp: 1910.00
+0	14:12:40.023	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.81 tp: 1910.00
+0	14:12:52.096	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.81 tp: 1910.00 -> sl: 1894.66 tp: 1910.00
+0	14:12:52.479	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.66 tp: 1910.00
+0	14:13:04.024	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.66 tp: 1910.00 -> sl: 1894.60 tp: 1910.00
+0	14:13:04.732	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.60 tp: 1910.00
+0	14:13:08.069	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.60 tp: 1910.00 -> sl: 1894.54 tp: 1910.00
+0	14:13:08.527	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.54 tp: 1910.00
+0	14:13:14.310	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.54 tp: 1910.00 -> sl: 1894.49 tp: 1910.00
+0	14:13:14.698	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.49 tp: 1910.00
+0	14:13:42.921	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.49 tp: 1910.00 -> sl: 1894.30 tp: 1910.00
+0	14:13:43.244	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1894.30 tp: 1910.00
+0	14:13:53.925	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1894.30 tp: 1910.00 -> sl: 1893.99 tp: 1910.00
+0	14:13:54.394	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1893.99 tp: 1910.00
+0	14:13:58.257	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1893.99 tp: 1910.00 -> sl: 1893.77 tp: 1910.00
+0	14:13:58.609	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1893.77 tp: 1910.00
+0	14:16:34.514	'1300050632': modify order #6214659 buy 0.20 US100.cash at 13636.25 sl: 13620.90 tp: 0.00 -> sl: 13635.95 tp: 0.00
+0	14:16:34.971	'1300050632': order #6214659 buy 0.20 US100.cash at 13636.25 was modified -> sl: 13635.95 tp: 0.00
+0	14:16:39.042	'1300050632': modify order #6214659 buy 0.20 US100.cash at 13636.25 sl: 13635.95 tp: 0.00 -> sl: 13656.46 tp: 0.00
+0	14:16:39.445	'1300050632': order #6214659 buy 0.20 US100.cash at 13636.25 was modified -> sl: 13656.46 tp: 0.00
+0	14:16:55.833	'1300050632': order #6214659 buy 0.20 US100.cash at 13636.25 closed due stop-loss at price 13655.20
+0	14:44:28.846	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1893.77 tp: 1910.00 -> sl: 1897.43 tp: 1910.00
+0	14:44:29.237	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1897.43 tp: 1910.00
+0	14:46:43.454	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1897.43 tp: 1910.00 -> sl: 1897.90 tp: 1910.00
+0	14:46:43.818	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1897.90 tp: 1910.00
+0	14:47:39.777	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1897.90 tp: 1910.00 -> sl: 1898.24 tp: 1910.00
+0	14:47:40.187	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1898.24 tp: 1910.00
+0	14:49:16.610	'1300050632': modify order #6214928 buy 0.77 XAUUSD at 1897.10 sl: 1898.24 tp: 1910.00 -> sl: 1898.46 tp: 1910.00
+0	14:49:17.008	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 was modified -> sl: 1898.46 tp: 1910.00
+0	14:49:24.127	'1300050632': order #6214928 buy 0.77 XAUUSD at 1897.10 closed due stop-loss at price 1898.37
+2	14:50:37.141	Expert Admiral - Mini Terminal XAUUSD,M1: removed
+2	14:50:37.159	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: removed
+2	14:50:37.177	Custom indicator CandleTimer XAUUSD,M1: removed
+2	14:50:37.203	Custom indicator #Signal_Bars_v6 XAUUSD,M1: removed
+2	14:50:37.243	Custom indicator TrendEnvelopes_v1 XAUUSD,M1: removed
+2	14:50:37.268	Custom indicator wedges XAUUSD,M1: removed
+2	14:50:37.272	Custom indicator Admiral Pivot XAUUSD,M1: removed
+2	14:50:37.276	Custom indicator AutoTrendChannel XAUUSD,M1: removed
+2	14:50:37.298	Custom indicator FRZ Channel Auto Plotter XAUUSD,M1: removed
+2	14:50:37.301	Custom indicator Forex Uranus direction XAUUSD,M1: removed
+2	14:50:37.444	Custom indicator aVSA clasters XAUUSD,M1: removed
+2	14:50:37.491	Custom indicator aVSA Golden Zone XAUUSD,M1: removed
+2	14:50:37.493	Custom indicator breakout-zones XAUUSD,M1: removed
+2	14:50:37.535	Custom indicator SL&TP Values XAUUSD,M1: removed
+2	14:50:37.538	Custom indicator PositionSizeCalculator XAUUSD,M1: removed
+2	14:50:37.569	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,M1: removed
+2	14:50:37.569	Custom indicator AIMS AO V.2.1 XAUUSD,M1: removed
+2	14:50:37.571	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: removed
+2	14:50:37.573	Custom indicator RSI Divergence Levels XAUUSD,M1: removed
+2	14:50:37.574	Custom indicator RenkoMaker_Confirm XAUUSD,M1: removed
+2	14:50:37.575	Custom indicator FRZ Forex Market Session Indicator XAUUSD,M1: removed
+2	14:50:37.649	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: loaded successfully
+2	14:50:37.655	Custom indicator CandleTimer XAUUSD,M1: loaded successfully
+2	14:50:37.723	Custom indicator #Signal_Bars_v6 XAUUSD,M1: loaded successfully
+2	14:50:37.731	Custom indicator TrendEnvelopes_v1 XAUUSD,M1: loaded successfully
+2	14:50:37.738	Custom indicator wedges XAUUSD,M1: loaded successfully
+2	14:50:37.744	Custom indicator Admiral Pivot XAUUSD,M1: loaded successfully
+2	14:50:37.751	Custom indicator AutoTrendChannel XAUUSD,M1: loaded successfully
+2	14:50:37.758	Custom indicator FRZ Channel Auto Plotter XAUUSD,M1: loaded successfully
+2	14:50:37.765	Custom indicator Forex Uranus direction XAUUSD,M1: loaded successfully
+2	14:50:37.851	Custom indicator aVSA\aVSA clasters XAUUSD,M1: loaded successfully
+2	14:50:37.865	Custom indicator aVSA\aVSA Golden Zone XAUUSD,M1: loaded successfully
+2	14:50:37.872	Custom indicator breakout-zones\breakout-zones XAUUSD,M1: loaded successfully
+2	14:50:37.880	Custom indicator breakout-zones\SL&TP Values XAUUSD,M1: loaded successfully
+2	14:50:37.894	Custom indicator PositionSizeCalculator XAUUSD,M1: loaded successfully
+2	14:50:37.919	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,M1: loaded successfully
+2	14:50:37.992	Custom indicator AIMS AO V.2.1 XAUUSD,M1: loaded successfully
+2	14:50:37.999	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: loaded successfully
+2	14:50:38.007	Custom indicator RSI Divergence Levels XAUUSD,M1: loaded successfully
+2	14:50:38.013	Custom indicator RenkoMaker_Confirm XAUUSD,M1: loaded successfully
+2	14:50:38.021	Custom indicator FRZ Forex Market Session Indicator XAUUSD,M1: loaded successfully
+0	14:52:13.996	'1300050632': order buy market 0.50 XAUUSD sl: 0.00 tp: 0.00
+0	14:52:14.529	'1300050632': order was opened : #6231585 buy 0.50 XAUUSD at 1898.88 sl: 0.00 tp: 0.00
+0	14:52:24.926	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 0.00 tp: 0.00 -> sl: 1898.20 tp: 0.00
+0	14:52:25.299	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1898.20 tp: 0.00
+0	14:52:46.038	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1898.20 tp: 0.00 -> sl: 1898.13 tp: 0.00
+0	14:52:46.406	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1898.13 tp: 0.00
+0	14:53:10.958	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1898.13 tp: 0.00 -> sl: 1897.99 tp: 0.00
+0	14:53:11.343	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1897.99 tp: 0.00
+0	14:53:16.549	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1897.99 tp: 0.00 -> sl: 1897.93 tp: 0.00
+0	14:53:17.197	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1897.93 tp: 0.00
+0	14:53:37.735	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1897.93 tp: 0.00 -> sl: 1897.96 tp: 0.00
+0	14:53:38.054	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1897.96 tp: 0.00
+0	14:54:37.699	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1897.96 tp: 0.00 -> sl: 1898.91 tp: 0.00
+0	14:54:38.117	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1898.91 tp: 0.00
+0	14:56:42.470	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1898.91 tp: 0.00 -> sl: 1899.52 tp: 0.00
+0	14:56:42.931	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1899.52 tp: 0.00
+0	14:57:07.361	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1899.52 tp: 0.00 -> sl: 1899.82 tp: 0.00
+0	14:57:07.747	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1899.82 tp: 0.00
+0	14:57:28.245	'1300050632': modify order #6231585 buy 0.50 XAUUSD at 1898.88 sl: 1899.82 tp: 0.00 -> sl: 1900.09 tp: 0.00
+0	14:57:28.545	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 was modified -> sl: 1900.09 tp: 0.00
+0	14:57:36.687	'1300050632': order #6231585 buy 0.50 XAUUSD at 1898.88 closed due stop-loss at price 1900.06
+0	15:01:24.293	'1300050632': order buy market 0.10 XAUUSD sl: 0.00 tp: 0.00
+0	15:01:24.797	'1300050632': order was opened : #6233340 buy 0.10 XAUUSD at 1901.87 sl: 0.00 tp: 0.00
+0	15:01:34.630	'1300050632': modify order #6233340 buy 0.10 XAUUSD at 1901.87 sl: 0.00 tp: 0.00 -> sl: 1900.81 tp: 0.00
+0	15:01:34.970	'1300050632': order #6233340 buy 0.10 XAUUSD at 1901.87 was modified -> sl: 1900.81 tp: 0.00
+0	15:01:43.988	'1300050632': modify order #6233340 buy 0.10 XAUUSD at 1901.87 sl: 1900.81 tp: 0.00 -> sl: 1901.95 tp: 0.00
+0	15:01:44.299	'1300050632': order #6233340 buy 0.10 XAUUSD at 1901.87 was modified -> sl: 1901.95 tp: 0.00
+0	15:02:08.897	'1300050632': modify order #6233340 buy 0.10 XAUUSD at 1901.87 sl: 1901.95 tp: 0.00 -> sl: 1902.22 tp: 0.00
+0	15:02:09.216	'1300050632': order #6233340 buy 0.10 XAUUSD at 1901.87 was modified -> sl: 1902.22 tp: 0.00
+0	15:03:34.678	'1300050632': modify order #6233340 buy 0.10 XAUUSD at 1901.87 sl: 1902.22 tp: 0.00 -> sl: 1902.38 tp: 0.00
+0	15:03:34.998	'1300050632': order #6233340 buy 0.10 XAUUSD at 1901.87 was modified -> sl: 1902.38 tp: 0.00
+0	15:03:37.226	'1300050632': order #6233340 buy 0.10 XAUUSD at 1901.87 closed due stop-loss at price 1902.35
+0	15:04:05.975	'1300050632': order sell market 0.10 XAUUSD sl: 0.00 tp: 0.00
+0	15:04:06.645	'1300050632': order was opened : #6233780 sell 0.10 XAUUSD at 1902.22 sl: 0.00 tp: 0.00
+0	15:04:14.377	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 0.00 tp: 0.00 -> sl: 1903.30 tp: 0.00
+0	15:04:14.832	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1903.30 tp: 0.00
+0	15:04:21.979	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1903.30 tp: 0.00 -> sl: 1903.18 tp: 0.00
+0	15:04:22.325	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1903.18 tp: 0.00
+0	15:04:27.687	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1903.18 tp: 0.00 -> sl: 1902.17 tp: 0.00
+0	15:04:28.089	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1902.17 tp: 0.00
+0	15:04:40.257	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1902.17 tp: 0.00 -> sl: 1902.60 tp: 0.00
+0	15:04:40.601	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1902.60 tp: 0.00
+0	15:05:02.575	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1902.60 tp: 0.00 -> sl: 1902.15 tp: 0.00
+0	15:05:03.016	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1902.15 tp: 0.00
+0	15:05:26.520	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1902.15 tp: 0.00 -> sl: 1902.60 tp: 1860.00
+0	15:05:26.874	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1902.60 tp: 1860.00
+0	15:05:33.342	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1902.60 tp: 1860.00 -> sl: 1902.17 tp: 1860.00
+0	15:05:33.684	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1902.17 tp: 1860.00
+0	15:05:36.217	'1300050632': modify order #6233780 sell 0.10 XAUUSD at 1902.22 sl: 1902.17 tp: 1860.00 -> sl: 1902.13 tp: 1860.00
+0	15:05:36.592	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 was modified -> sl: 1902.13 tp: 1860.00
+0	15:07:27.773	'1300050632': order #6233780 sell 0.10 XAUUSD at 1902.22 closed due stop-loss at price 1902.13
+0	15:08:19.192	'1300050632': modify order #6225321 sell 0.38 GBPAUD at 1.82894 sl: 0.00000 tp: 0.00000 -> sl: 1.83250 tp: 0.00000
+0	15:08:19.573	'1300050632': order #6225321 sell 0.38 GBPAUD at 1.82894 was modified -> sl: 1.83250 tp: 0.00000
+0	15:09:22.377	'1300050632': order buy market 0.10 XAUUSD sl: 0.00 tp: 0.00
+0	15:09:23.057	'1300050632': order was opened : #6234788 buy 0.10 XAUUSD at 1903.22 sl: 0.00 tp: 0.00
+0	15:09:36.700	'1300050632': modify order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 0.00 tp: 0.00 -> sl: 1902.09 tp: 0.00
+0	15:09:37.110	'1300050632': order #6234788 buy 0.10 XAUUSD at 1903.22 was modified -> sl: 1902.09 tp: 0.00
+0	15:09:40.989	'1300050632': modify order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 1902.09 tp: 0.00 -> sl: 1903.28 tp: 0.00
+0	15:09:41.463	'1300050632': order #6234788 buy 0.10 XAUUSD at 1903.22 was modified -> sl: 1903.28 tp: 0.00
+0	15:10:04.753	'1300050632': modify order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 1903.28 tp: 0.00 -> sl: 1903.35 tp: 0.00
+0	15:10:05.245	'1300050632': order #6234788 buy 0.10 XAUUSD at 1903.22 was modified -> sl: 1903.35 tp: 0.00
+0	15:10:12.930	'1300050632': modify order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 1903.35 tp: 0.00 -> sl: 1903.35 tp: 1906.00
+0	15:10:13.478	'1300050632': order #6234788 buy 0.10 XAUUSD at 1903.22 was modified -> sl: 1903.35 tp: 1906.00
+0	15:11:23.444	'1300050632': modify order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 1903.35 tp: 1906.00 -> sl: 1903.57 tp: 1906.00
+0	15:11:23.818	'1300050632': order #6234788 buy 0.10 XAUUSD at 1903.22 was modified -> sl: 1903.57 tp: 1906.00
+0	15:11:45.468	'1300050632': modify order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 1903.57 tp: 1906.00 -> sl: 1903.68 tp: 1906.00
+1	15:11:45.912	'1300050632': modification of order #6234788 buy 0.10 XAUUSD at 1903.22 sl: 1903.57 tp: 1906.00 -> sl: 1903.68 tp: 1906.00 failed [Invalid S/L or T/P]
+0	15:11:46.594	'1300050632': order #6234788 buy 0.10 XAUUSD at 1903.22 closed due stop-loss at price 1903.58
+0	15:12:19.388	'1300050632': order sell market 0.10 XAUUSD sl: 0.00 tp: 0.00
+0	15:12:20.035	'1300050632': order was opened : #6235341 sell 0.10 XAUUSD at 1903.57 sl: 0.00 tp: 0.00
+0	15:12:28.090	'1300050632': modify order #6235341 sell 0.10 XAUUSD at 1903.57 sl: 0.00 tp: 0.00 -> sl: 1904.47 tp: 0.00
+0	15:12:28.454	'1300050632': order #6235341 sell 0.10 XAUUSD at 1903.57 was modified -> sl: 1904.47 tp: 0.00
+1	15:13:05.349	'1300050632': modification of order #6235341 sell 0.10 XAUUSD at 1903.57 sl: 1904.47 tp: 0.00 -> sl: 1903.50 tp: 0.00 failed [Invalid S/L or T/P]
+1	15:17:48.252	'1300050632': modification of order #6235341 sell 0.10 XAUUSD at 1903.57 sl: 1904.47 tp: 0.00 -> sl: 1903.52 tp: 0.00 failed [Invalid S/L or T/P]
+1	15:19:03.768	'1300050632': modification of order #6235341 sell 0.10 XAUUSD at 1903.57 sl: 1904.47 tp: 0.00 -> sl: 1903.52 tp: 0.00 failed [Invalid S/L or T/P]
+0	15:19:18.166	'1300050632': order #6235341 sell 0.10 XAUUSD at 1903.57 closed due stop-loss at price 1904.60
+0	15:19:35.721	'1300050632': order sell market 0.20 XAUUSD sl: 0.00 tp: 0.00
+0	15:19:36.483	'1300050632': order was opened : #6236448 sell 0.20 XAUUSD at 1903.95 sl: 0.00 tp: 0.00
+0	15:19:53.651	'1300050632': modify order #6236448 sell 0.20 XAUUSD at 1903.95 sl: 0.00 tp: 0.00 -> sl: 1905.15 tp: 0.00
+0	15:19:54.114	'1300050632': order #6236448 sell 0.20 XAUUSD at 1903.95 was modified -> sl: 1905.15 tp: 0.00
+0	15:20:38.217	'1300050632': modify order #6236448 sell 0.20 XAUUSD at 1903.95 sl: 1905.15 tp: 0.00 -> sl: 1903.92 tp: 0.00
+0	15:20:38.913	'1300050632': order #6236448 sell 0.20 XAUUSD at 1903.95 was modified -> sl: 1903.92 tp: 0.00
+0	15:20:47.103	'1300050632': modify order #6236448 sell 0.20 XAUUSD at 1903.95 sl: 1903.92 tp: 0.00 -> sl: 1903.84 tp: 0.00
+0	15:20:47.465	'1300050632': order #6236448 sell 0.20 XAUUSD at 1903.95 was modified -> sl: 1903.84 tp: 0.00
+0	15:21:08.147	'1300050632': order #6236448 sell 0.20 XAUUSD at 1903.95 closed due stop-loss at price 1903.86
+0	15:21:43.792	'1300050632': order sell market 0.20 XAUUSD sl: 0.00 tp: 0.00
+0	15:21:44.491	'1300050632': order was opened : #6236771 sell 0.20 XAUUSD at 1903.46 sl: 0.00 tp: 0.00
+0	15:21:50.567	'1300050632': modify order #6236771 sell 0.20 XAUUSD at 1903.46 sl: 0.00 tp: 0.00 -> sl: 1904.31 tp: 0.00
+0	15:21:50.981	'1300050632': order #6236771 sell 0.20 XAUUSD at 1903.46 was modified -> sl: 1904.31 tp: 0.00
+1	15:23:44.319	'1300050632': modification of order #6236771 sell 0.20 XAUUSD at 1903.46 sl: 1904.31 tp: 0.00 -> sl: 1903.40 tp: 0.00 failed [Invalid S/L or T/P]
+0	15:23:53.474	'1300050632': order #6236771 sell 0.20 XAUUSD at 1903.46 closed due stop-loss at price 1904.30
+0	15:24:11.647	'1300050632': order sell market 0.30 XAUUSD sl: 0.00 tp: 0.00
+0	15:24:12.217	'1300050632': order was opened : #6237086 sell 0.30 XAUUSD at 1903.58 sl: 0.00 tp: 0.00
+0	15:24:26.890	'1300050632': modify order #6237086 sell 0.30 XAUUSD at 1903.58 sl: 0.00 tp: 0.00 -> sl: 1908.99 tp: 0.00
+0	15:24:27.249	'1300050632': order #6237086 sell 0.30 XAUUSD at 1903.58 was modified -> sl: 1908.99 tp: 0.00
+0	15:28:40.463	'1300050632': order sell market 0.30 XAUUSD sl: 0.00 tp: 0.00
+0	15:28:41.164	'1300050632': order was opened : #6237875 sell 0.30 XAUUSD at 1906.07 sl: 0.00 tp: 0.00
+0	15:28:49.126	'1300050632': modify order #6237875 sell 0.30 XAUUSD at 1906.07 sl: 0.00 tp: 0.00 -> sl: 1906.75 tp: 0.00
+0	15:28:49.514	'1300050632': order #6237875 sell 0.30 XAUUSD at 1906.07 was modified -> sl: 1906.75 tp: 0.00
+0	15:29:08.772	'1300050632': modify order #6237875 sell 0.30 XAUUSD at 1906.07 sl: 1906.75 tp: 0.00 -> sl: 1906.00 tp: 0.00
+0	15:29:09.124	'1300050632': order #6237875 sell 0.30 XAUUSD at 1906.07 was modified -> sl: 1906.00 tp: 0.00
+0	15:29:15.700	'1300050632': order #6237875 sell 0.30 XAUUSD at 1906.07 closed due stop-loss at price 1905.99
+0	15:29:42.813	'1300050632': order sell market 0.30 XAUUSD sl: 0.00 tp: 0.00
+0	15:29:43.454	'1300050632': order was opened : #6238157 sell 0.30 XAUUSD at 1906.45 sl: 0.00 tp: 0.00
+0	15:29:52.749	'1300050632': modify order #6238157 sell 0.30 XAUUSD at 1906.45 sl: 0.00 tp: 0.00 -> sl: 1907.25 tp: 0.00
+0	15:29:53.093	'1300050632': order #6238157 sell 0.30 XAUUSD at 1906.45 was modified -> sl: 1907.25 tp: 0.00
+0	15:30:08.519	'1300050632': modify order #6238157 sell 0.30 XAUUSD at 1906.45 sl: 1907.25 tp: 0.00 -> sl: 1907.50 tp: 0.00
+0	15:30:08.938	'1300050632': order #6238157 sell 0.30 XAUUSD at 1906.45 was modified -> sl: 1907.50 tp: 0.00
+0	15:30:56.079	'1300050632': modify order #6238157 sell 0.30 XAUUSD at 1906.45 sl: 1907.50 tp: 0.00 -> sl: 1906.39 tp: 0.00
+0	15:30:56.396	'1300050632': order #6238157 sell 0.30 XAUUSD at 1906.45 was modified -> sl: 1906.39 tp: 0.00
+0	15:31:12.548	'1300050632': modify order #6238157 sell 0.30 XAUUSD at 1906.45 sl: 1906.39 tp: 0.00 -> sl: 1906.10 tp: 0.00
+0	15:31:12.881	'1300050632': order #6238157 sell 0.30 XAUUSD at 1906.45 was modified -> sl: 1906.10 tp: 0.00
+0	15:32:05.421	'1300050632': modify order #6238157 sell 0.30 XAUUSD at 1906.45 sl: 1906.10 tp: 0.00 -> sl: 1905.81 tp: 0.00
+0	15:32:05.904	'1300050632': order #6238157 sell 0.30 XAUUSD at 1906.45 was modified -> sl: 1905.81 tp: 0.00
+0	15:32:48.347	'1300050632': order #6238157 sell 0.30 XAUUSD at 1906.45 closed due stop-loss at price 1905.84
+0	15:33:35.568	'1300050632': order sell market 0.30 XAUUSD sl: 0.00 tp: 0.00
+0	15:33:36.189	'1300050632': order was opened : #6238930 sell 0.30 XAUUSD at 1905.60 sl: 0.00 tp: 0.00
+0	15:33:49.744	'1300050632': modify order #6238930 sell 0.30 XAUUSD at 1905.60 sl: 0.00 tp: 0.00 -> sl: 1907.00 tp: 0.00
+0	15:33:50.132	'1300050632': order #6238930 sell 0.30 XAUUSD at 1905.60 was modified -> sl: 1907.00 tp: 0.00
+0	15:33:56.360	'1300050632': modify order #6238930 sell 0.30 XAUUSD at 1905.60 sl: 1907.00 tp: 0.00 -> sl: 1906.52 tp: 0.00
+0	15:33:56.771	'1300050632': order #6238930 sell 0.30 XAUUSD at 1905.60 was modified -> sl: 1906.52 tp: 0.00
+1	15:34:19.231	'1300050632': modification of order #6238930 sell 0.30 XAUUSD at 1905.60 sl: 1906.52 tp: 0.00 -> sl: 1905.52 tp: 0.00 failed [Invalid S/L or T/P]
+0	15:35:15.920	'1300050632': modify order #6238930 sell 0.30 XAUUSD at 1905.60 sl: 1906.52 tp: 0.00 -> sl: 1905.56 tp: 0.00
+0	15:35:16.305	'1300050632': order #6238930 sell 0.30 XAUUSD at 1905.60 was modified -> sl: 1905.56 tp: 0.00
+0	15:36:30.797	'1300050632': modify order #6238930 sell 0.30 XAUUSD at 1905.60 sl: 1905.56 tp: 0.00 -> sl: 1905.11 tp: 0.00
+0	15:36:31.161	'1300050632': order #6238930 sell 0.30 XAUUSD at 1905.60 was modified -> sl: 1905.11 tp: 0.00
+0	15:36:32.563	'1300050632': order #6238930 sell 0.30 XAUUSD at 1905.60 closed due stop-loss at price 1905.11
+0	15:36:38.317	'1300050632': order sell market 0.30 XAUUSD sl: 0.00 tp: 0.00
+0	15:36:39.065	'1300050632': order was opened : #6239349 sell 0.30 XAUUSD at 1904.96 sl: 0.00 tp: 0.00
+0	15:36:50.545	'1300050632': modify order #6239349 sell 0.30 XAUUSD at 1904.96 sl: 0.00 tp: 0.00 -> sl: 1905.88 tp: 0.00
+0	15:36:50.945	'1300050632': order #6239349 sell 0.30 XAUUSD at 1904.96 was modified -> sl: 1905.88 tp: 0.00
+0	15:37:38.958	'1300050632': modify order #6239349 sell 0.30 XAUUSD at 1904.96 sl: 1905.88 tp: 0.00 -> sl: 1904.92 tp: 0.00
+0	15:37:39.280	'1300050632': order #6239349 sell 0.30 XAUUSD at 1904.96 was modified -> sl: 1904.92 tp: 0.00
+0	15:37:39.775	'1300050632': order #6239349 sell 0.30 XAUUSD at 1904.96 closed due stop-loss at price 1905.03
+2	15:38:13.111	Expert Admiral - Mini Terminal XAUUSD,M1: loaded successfully
+0	15:38:41.351	'1300050632': close order #6237086 sell 0.15 XAUUSD at 1903.58 sl: 1908.99 tp: 0.00 at price 0.00
+0	15:38:41.915	'1300050632': order #6237086 sell 0.15 XAUUSD at 1903.58 sl: 1908.99 tp: 0.00 closed at price 1904.63
+0	15:38:41.915	'1300050632': remainder of order #6237086 was opened : #6239672 sell 0.15 XAUUSD at 1903.58 sl: 1908.99 tp: 0.00
+0	15:38:58.935	'1300050632': modify order #6239672 sell 0.15 XAUUSD at 1903.58 sl: 1908.99 tp: 0.00 -> sl: 1906.10 tp: 0.00
+0	15:39:00.044	'1300050632': order #6239672 sell 0.15 XAUUSD at 1903.58 was modified -> sl: 1906.10 tp: 0.00
+0	15:39:07.018	'1300050632': modify order #6239672 sell 0.15 XAUUSD at 1903.58 sl: 1906.10 tp: 0.00 -> sl: 1905.49 tp: 0.00
+0	15:39:07.345	'1300050632': order #6239672 sell 0.15 XAUUSD at 1903.58 was modified -> sl: 1905.49 tp: 0.00
+0	15:40:23.756	'1300050632': order #6239672 sell 0.15 XAUUSD at 1903.58 closed due stop-loss at price 1905.47
+0	15:41:58.085	'1300050632': order buy market 0.11 US30.cash sl: 0.00 tp: 0.00
+0	15:41:58.747	'1300050632': order was opened : #6239999 buy 0.11 US30.cash at 34630.70 sl: 0.00 tp: 0.00
+0	15:42:05.098	'1300050632': modify order #6239999 buy 0.11 US30.cash at 34630.70 sl: 0.00 tp: 0.00 -> sl: 34607.70 tp: 0.00
+0	15:42:05.451	'1300050632': order #6239999 buy 0.11 US30.cash at 34630.70 was modified -> sl: 34607.70 tp: 0.00
+0	15:42:46.169	'1300050632': order buy market 0.20 XAUUSD sl: 0.00 tp: 0.00
+0	15:42:46.799	'1300050632': order was opened : #6240109 buy 0.20 XAUUSD at 1905.99 sl: 0.00 tp: 0.00
+0	15:42:58.485	'1300050632': modify order #6240109 buy 0.20 XAUUSD at 1905.99 sl: 0.00 tp: 0.00 -> sl: 1904.05 tp: 0.00
+0	15:42:59.009	'1300050632': order #6240109 buy 0.20 XAUUSD at 1905.99 was modified -> sl: 1904.05 tp: 0.00
+0	15:44:07.703	'1300050632': modify order #6240109 buy 0.20 XAUUSD at 1905.99 sl: 1904.05 tp: 0.00 -> sl: 1904.05 tp: 1910.00
+0	15:44:08.080	'1300050632': order #6240109 buy 0.20 XAUUSD at 1905.99 was modified -> sl: 1904.05 tp: 1910.00
+0	15:46:29.149	'1300050632': order sell market 0.20 XAUUSD sl: 0.00 tp: 0.00
+0	15:46:29.761	'1300050632': order was opened : #6240630 sell 0.20 XAUUSD at 1904.64 sl: 0.00 tp: 0.00
+0	15:47:18.072	'1300050632': modify order #6240630 sell 0.20 XAUUSD at 1904.64 sl: 0.00 tp: 0.00 -> sl: 1907.12 tp: 0.00
+0	15:47:18.446	'1300050632': order #6240630 sell 0.20 XAUUSD at 1904.64 was modified -> sl: 1907.12 tp: 0.00
+0	15:47:55.576	'1300050632': modify order #6240630 sell 0.20 XAUUSD at 1904.64 sl: 1907.12 tp: 0.00 -> sl: 1906.32 tp: 0.00
+0	15:47:56.006	'1300050632': order #6240630 sell 0.20 XAUUSD at 1904.64 was modified -> sl: 1906.32 tp: 0.00
+0	15:49:09.038	'1300050632': close order #6240109 buy 0.10 XAUUSD at 1905.99 sl: 1904.05 tp: 1910.00 at price 0.00
+0	15:49:09.676	'1300050632': order #6240109 buy 0.10 XAUUSD at 1905.99 sl: 1904.05 tp: 1910.00 closed at price 1904.73
+0	15:49:09.676	'1300050632': remainder of order #6240109 was opened : #6241010 buy 0.10 XAUUSD at 1905.99 sl: 1904.05 tp: 1910.00
+0	15:49:23.115	'1300050632': close order #6241010 buy 0.10 XAUUSD at 1905.99 sl: 1904.05 tp: 1910.00 at price 0.00
+0	15:49:23.743	'1300050632': order #6241010 buy 0.10 XAUUSD at 1905.99 sl: 1904.05 tp: 1910.00 closed at price 1904.66
+0	15:50:04.379	'1300050632': modify order #6239999 buy 0.11 US30.cash at 34630.70 sl: 34607.70 tp: 0.00 -> sl: 34631.30 tp: 0.00
+0	15:50:04.757	'1300050632': order #6239999 buy 0.11 US30.cash at 34630.70 was modified -> sl: 34631.30 tp: 0.00
+0	15:50:21.904	'1300050632': modify order #6240630 sell 0.20 XAUUSD at 1904.64 sl: 1906.32 tp: 0.00 -> sl: 1904.59 tp: 0.00
+0	15:50:22.383	'1300050632': order #6240630 sell 0.20 XAUUSD at 1904.64 was modified -> sl: 1904.59 tp: 0.00
+0	15:50:49.915	'1300050632': close order #6185461 buy 0.04 GBPJPY at 155.247 sl: 154.643 tp: 157.365 at price 0.000
+0	15:50:50.517	'1300050632': order #6185461 buy 0.04 GBPJPY at 155.247 sl: 154.643 tp: 157.365 closed at price 155.423
+0	15:51:12.176	'1300050632': modify order #6239999 buy 0.11 US30.cash at 34630.70 sl: 34631.30 tp: 0.00 -> sl: 34637.69 tp: 0.00
+0	15:51:12.542	'1300050632': order #6239999 buy 0.11 US30.cash at 34630.70 was modified -> sl: 34637.69 tp: 0.00
+0	15:53:03.094	'1300050632': order #6240630 sell 0.20 XAUUSD at 1904.64 closed due stop-loss at price 1904.58
+0	15:54:33.140	'1300050632': order sell market 0.20 XAUUSD sl: 0.00 tp: 0.00
+0	15:54:33.736	'1300050632': order was opened : #6241636 sell 0.20 XAUUSD at 1904.10 sl: 0.00 tp: 0.00
+0	15:54:51.455	'1300050632': modify order #6241636 sell 0.20 XAUUSD at 1904.10 sl: 0.00 tp: 0.00 -> sl: 1904.93 tp: 0.00
+0	15:54:51.852	'1300050632': order #6241636 sell 0.20 XAUUSD at 1904.10 was modified -> sl: 1904.93 tp: 0.00
+0	15:55:35.248	'1300050632': modify order #6241636 sell 0.20 XAUUSD at 1904.10 sl: 1904.93 tp: 0.00 -> sl: 1904.08 tp: 0.00
+0	15:55:35.597	'1300050632': order #6241636 sell 0.20 XAUUSD at 1904.10 was modified -> sl: 1904.08 tp: 0.00
+0	15:57:27.434	'1300050632': order #6241636 sell 0.20 XAUUSD at 1904.10 closed due stop-loss at price 1904.13
+0	15:57:45.397	'1300050632': order sell market 0.20 XAUUSD sl: 0.00 tp: 0.00
+0	15:57:45.996	'1300050632': order was opened : #6242011 sell 0.20 XAUUSD at 1903.52 sl: 0.00 tp: 0.00
+0	15:58:05.838	'1300050632': modify order #6242011 sell 0.20 XAUUSD at 1903.52 sl: 0.00 tp: 0.00 -> sl: 1903.99 tp: 0.00
+0	15:58:06.224	'1300050632': order #6242011 sell 0.20 XAUUSD at 1903.52 was modified -> sl: 1903.99 tp: 0.00
+0	15:58:17.898	'1300050632': modify order #6242011 sell 0.20 XAUUSD at 1903.52 sl: 1903.99 tp: 0.00 -> sl: 1904.10 tp: 0.00
+0	15:58:18.257	'1300050632': order #6242011 sell 0.20 XAUUSD at 1903.52 was modified -> sl: 1904.10 tp: 0.00
+0	15:58:24.063	'1300050632': modify order #6242011 sell 0.20 XAUUSD at 1903.52 sl: 1904.10 tp: 0.00 -> sl: 1904.12 tp: 0.00
+0	15:58:24.437	'1300050632': order #6242011 sell 0.20 XAUUSD at 1903.52 was modified -> sl: 1904.12 tp: 0.00
+0	15:58:37.020	'1300050632': modify order #6242011 sell 0.20 XAUUSD at 1903.52 sl: 1904.12 tp: 0.00 -> sl: 1904.44 tp: 0.00
+0	15:58:37.390	'1300050632': order #6242011 sell 0.20 XAUUSD at 1903.52 was modified -> sl: 1904.44 tp: 0.00
+0	15:59:00.167	'1300050632': modify order #6242011 sell 0.20 XAUUSD at 1903.52 sl: 1904.44 tp: 0.00 -> sl: 1904.98 tp: 0.00
+1	15:59:00.556	'1300050632': modification of order #6242011 sell 0.20 XAUUSD at 1903.52 sl: 1904.44 tp: 0.00 -> sl: 1904.98 tp: 0.00 failed [Off quotes]
+0	15:59:00.556	'1300050632': order #6242011 sell 0.20 XAUUSD at 1903.52 closed due stop-loss at price 1904.46
+0	15:59:12.169	'1300050632': order buy market 0.50 XAUUSD sl: 0.00 tp: 0.00
+0	15:59:13.129	'1300050632': order was opened : #6242191 buy 0.50 XAUUSD at 1904.81 sl: 0.00 tp: 0.00
+0	15:59:23.432	'1300050632': modify order #6242191 buy 0.50 XAUUSD at 1904.81 sl: 0.00 tp: 0.00 -> sl: 1904.78 tp: 0.00
+0	15:59:23.776	'1300050632': order #6242191 buy 0.50 XAUUSD at 1904.81 was modified -> sl: 1904.78 tp: 0.00
+0	15:59:25.576	'1300050632': modify order #6242191 buy 0.50 XAUUSD at 1904.81 sl: 1904.78 tp: 0.00 -> sl: 1904.85 tp: 0.00
+0	15:59:25.928	'1300050632': order #6242191 buy 0.50 XAUUSD at 1904.81 was modified -> sl: 1904.85 tp: 0.00
+0	15:59:33.267	'1300050632': modify order #6242191 buy 0.50 XAUUSD at 1904.81 sl: 1904.85 tp: 0.00 -> sl: 1905.05 tp: 0.00
+0	15:59:33.656	'1300050632': order #6242191 buy 0.50 XAUUSD at 1904.81 was modified -> sl: 1905.05 tp: 0.00
+0	15:59:49.142	'1300050632': modify order #6242191 buy 0.50 XAUUSD at 1904.81 sl: 1905.05 tp: 0.00 -> sl: 1905.32 tp: 0.00
+0	15:59:49.545	'1300050632': order #6242191 buy 0.50 XAUUSD at 1904.81 was modified -> sl: 1905.32 tp: 0.00
+0	16:00:01.640	'1300050632': order #6242191 buy 0.50 XAUUSD at 1904.81 closed due stop-loss at price 1905.32
+0	16:00:15.974	'1300050632': order buy market 0.50 XAUUSD sl: 0.00 tp: 0.00
+0	16:00:16.707	'1300050632': order was opened : #6242547 buy 0.50 XAUUSD at 1905.39 sl: 0.00 tp: 0.00
+0	16:00:23.628	'1300050632': modify order #6242547 buy 0.50 XAUUSD at 1905.39 sl: 0.00 tp: 0.00 -> sl: 1903.10 tp: 0.00
+0	16:00:23.960	'1300050632': order #6242547 buy 0.50 XAUUSD at 1905.39 was modified -> sl: 1903.10 tp: 0.00
+0	16:03:07.403	'1300050632': order #6239999 buy 0.11 US30.cash at 34630.70 closed due stop-loss at price 34637.30
+0	16:03:32.473	'1300050632': modify order #6242547 buy 0.50 XAUUSD at 1905.39 sl: 1903.10 tp: 0.00 -> sl: 1904.75 tp: 0.00
+0	16:03:32.827	'1300050632': order #6242547 buy 0.50 XAUUSD at 1905.39 was modified -> sl: 1904.75 tp: 0.00
+0	16:03:42.837	'1300050632': modify order #6242547 buy 0.50 XAUUSD at 1905.39 sl: 1904.75 tp: 0.00 -> sl: 1904.90 tp: 0.00
+0	16:03:43.212	'1300050632': order #6242547 buy 0.50 XAUUSD at 1905.39 was modified -> sl: 1904.90 tp: 0.00
+0	16:04:02.603	'1300050632': modify order #6242547 buy 0.50 XAUUSD at 1905.39 sl: 1904.90 tp: 0.00 -> sl: 1905.08 tp: 0.00
+0	16:04:02.996	'1300050632': order #6242547 buy 0.50 XAUUSD at 1905.39 was modified -> sl: 1905.08 tp: 0.00
+0	16:04:34.400	'1300050632': modify order #6242547 buy 0.50 XAUUSD at 1905.39 sl: 1905.08 tp: 0.00 -> sl: 1905.44 tp: 0.00
+0	16:04:34.788	'1300050632': order #6242547 buy 0.50 XAUUSD at 1905.39 was modified -> sl: 1905.44 tp: 0.00
+0	16:04:57.681	'1300050632': order #6242547 buy 0.50 XAUUSD at 1905.39 closed due stop-loss at price 1905.36
+0	16:05:35.723	'1300050632': order sell market 0.11 US30.cash sl: 0.00 tp: 0.00
+0	16:05:36.414	'1300050632': order was opened : #6243221 sell 0.11 US30.cash at 34637.30 sl: 0.00 tp: 0.00
+0	16:05:39.948	'1300050632': modify order #6243221 sell 0.11 US30.cash at 34637.30 sl: 0.00 tp: 0.00 -> sl: 34647.95 tp: 0.00
+0	16:05:40.355	'1300050632': order #6243221 sell 0.11 US30.cash at 34637.30 was modified -> sl: 34647.95 tp: 0.00
+0	16:06:28.978	'1300050632': order #6243221 sell 0.11 US30.cash at 34637.30 closed due stop-loss at price 34648.70
+0	16:07:33.547	'1300050632': order buy market 0.11 US30.cash sl: 0.00 tp: 0.00
+0	16:07:34.165	'1300050632': order was opened : #6243467 buy 0.11 US30.cash at 34651.70 sl: 0.00 tp: 0.00
+0	16:07:42.593	'1300050632': modify order #6243467 buy 0.11 US30.cash at 34651.70 sl: 0.00 tp: 0.00 -> sl: 34634.95 tp: 0.00
+0	16:07:42.968	'1300050632': order #6243467 buy 0.11 US30.cash at 34651.70 was modified -> sl: 34634.95 tp: 0.00
+0	16:08:02.309	'1300050632': order #6243467 buy 0.11 US30.cash at 34651.70 closed due stop-loss at price 34627.40
+0	16:08:28.378	'1300050632': order sell market 0.20 US30.cash sl: 0.00 tp: 0.00
+0	16:08:28.946	'1300050632': order was opened : #6243585 sell 0.20 US30.cash at 34632.30 sl: 0.00 tp: 0.00
+0	16:08:34.793	'1300050632': modify order #6243585 sell 0.20 US30.cash at 34632.30 sl: 0.00 tp: 0.00 -> sl: 34653.42 tp: 0.00
+0	16:08:35.266	'1300050632': order #6243585 sell 0.20 US30.cash at 34632.30 was modified -> sl: 34653.42 tp: 0.00
+0	16:08:50.344	'1300050632': modify order #6243585 sell 0.20 US30.cash at 34632.30 sl: 34653.42 tp: 0.00 -> sl: 34631.41 tp: 0.00
+0	16:08:50.712	'1300050632': order #6243585 sell 0.20 US30.cash at 34632.30 was modified -> sl: 34631.41 tp: 0.00
+0	16:12:37.480	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	16:12:37.480	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1921 / 8014 Mb, Disk: 51 / 197 Gb, GMT+3
+0	16:12:37.480	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	16:12:45.948	Custom indicator AIMS Entry Alert V1 GER30.cash,M15: loaded successfully
+2	16:12:45.954	Custom indicator CandleTimer GER30.cash,M15: loaded successfully
+2	16:12:46.024	Custom indicator #Signal_Bars_v6 GER30.cash,M15: loaded successfully
+2	16:12:46.032	Custom indicator TrendEnvelopes_v1 GER30.cash,M15: loaded successfully
+2	16:12:46.040	Custom indicator wedges GER30.cash,M15: loaded successfully
+2	16:12:46.047	Custom indicator Admiral Pivot GER30.cash,M15: loaded successfully
+2	16:12:46.054	Custom indicator AutoTrendChannel GER30.cash,M15: loaded successfully
+2	16:12:46.061	Custom indicator FRZ Channel Auto Plotter GER30.cash,M15: loaded successfully
+2	16:12:46.068	Custom indicator Forex Uranus direction GER30.cash,M15: loaded successfully
+2	16:12:46.140	Custom indicator aVSA\aVSA clasters GER30.cash,M15: loaded successfully
+2	16:12:46.154	Custom indicator aVSA\aVSA Golden Zone GER30.cash,M15: loaded successfully
+2	16:12:46.161	Custom indicator breakout-zones\breakout-zones GER30.cash,M15: loaded successfully
+2	16:12:46.168	Custom indicator breakout-zones\SL&TP Values GER30.cash,M15: loaded successfully
+2	16:12:46.196	Custom indicator PositionSizeCalculator GER30.cash,M15: loaded successfully
+2	16:12:46.207	Custom indicator DaVinci Truly News Indicator 2.3.95 GER30.cash,M15: loaded successfully
+2	16:12:46.275	Custom indicator AIMS AO V.2.1 GER30.cash,M15: loaded successfully
+2	16:12:46.282	Custom indicator IVT_MACD_ZERO_LAG GER30.cash,M15: loaded successfully
+2	16:12:46.290	Custom indicator RSI Divergence Levels GER30.cash,M15: loaded successfully
+2	16:12:46.296	Custom indicator RenkoMaker_Confirm GER30.cash,M15: loaded successfully
+2	16:12:46.303	Custom indicator FRZ Forex Market Session Indicator GER30.cash,M15: loaded successfully
+2	16:12:46.315	Expert Admiral - Mini Terminal GER30.cash,M15: loaded successfully
+2	16:12:47.221	Custom indicator AIMS Entry Alert V1 US30.cash,M15: loaded successfully
+2	16:12:47.227	Custom indicator CandleTimer US30.cash,M15: loaded successfully
+2	16:12:47.298	Custom indicator #Signal_Bars_v6 US30.cash,M15: loaded successfully
+2	16:12:47.306	Custom indicator TrendEnvelopes_v1 US30.cash,M15: loaded successfully
+2	16:12:47.314	Custom indicator wedges US30.cash,M15: loaded successfully
+2	16:12:47.321	Custom indicator Admiral Pivot US30.cash,M15: loaded successfully
+2	16:12:47.328	Custom indicator AutoTrendChannel US30.cash,M15: loaded successfully
+2	16:12:47.335	Custom indicator FRZ Channel Auto Plotter US30.cash,M15: loaded successfully
+2	16:12:47.343	Custom indicator Forex Uranus direction US30.cash,M15: loaded successfully
+2	16:12:47.415	Custom indicator aVSA\aVSA clasters US30.cash,M15: loaded successfully
+2	16:12:47.430	Custom indicator aVSA\aVSA Golden Zone US30.cash,M15: loaded successfully
+2	16:12:47.438	Custom indicator breakout-zones\breakout-zones US30.cash,M15: loaded successfully
+2	16:12:47.445	Custom indicator breakout-zones\SL&TP Values US30.cash,M15: loaded successfully
+2	16:12:47.460	Custom indicator PositionSizeCalculator US30.cash,M15: loaded successfully
+2	16:12:47.469	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,M15: loaded successfully
+2	16:12:47.543	Custom indicator AIMS AO V.2.1 US30.cash,M15: loaded successfully
+2	16:12:47.550	Custom indicator IVT_MACD_ZERO_LAG US30.cash,M15: loaded successfully
+2	16:12:47.559	Custom indicator RSI Divergence Levels US30.cash,M15: loaded successfully
+2	16:12:47.566	Custom indicator RenkoMaker_Confirm US30.cash,M15: loaded successfully
+2	16:12:47.574	Custom indicator FRZ Forex Market Session Indicator US30.cash,M15: loaded successfully
+2	16:12:48.543	Custom indicator AIMS Entry Alert V1 US100.cash,M15: loaded successfully
+2	16:12:48.550	Custom indicator CandleTimer US100.cash,M15: loaded successfully
+2	16:12:48.628	Custom indicator #Signal_Bars_v6 US100.cash,M15: loaded successfully
+2	16:12:48.636	Custom indicator TrendEnvelopes_v1 US100.cash,M15: loaded successfully
+2	16:12:48.644	Custom indicator wedges US100.cash,M15: loaded successfully
+2	16:12:48.652	Custom indicator Admiral Pivot US100.cash,M15: loaded successfully
+2	16:12:48.660	Custom indicator AutoTrendChannel US100.cash,M15: loaded successfully
+2	16:12:48.668	Custom indicator FRZ Channel Auto Plotter US100.cash,M15: loaded successfully
+2	16:12:48.676	Custom indicator Forex Uranus direction US100.cash,M15: loaded successfully
+2	16:12:48.754	Custom indicator aVSA\aVSA clasters US100.cash,M15: loaded successfully
+2	16:12:48.770	Custom indicator aVSA\aVSA Golden Zone US100.cash,M15: loaded successfully
+2	16:12:48.778	Custom indicator breakout-zones\breakout-zones US100.cash,M15: loaded successfully
+2	16:12:48.786	Custom indicator breakout-zones\SL&TP Values US100.cash,M15: loaded successfully
+2	16:12:48.801	Custom indicator PositionSizeCalculator US100.cash,M15: loaded successfully
+2	16:12:48.810	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M15: loaded successfully
+2	16:12:48.886	Custom indicator AIMS AO V.2.1 US100.cash,M15: loaded successfully
+2	16:12:48.894	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M15: loaded successfully
+2	16:12:48.902	Custom indicator RSI Divergence Levels US100.cash,M15: loaded successfully
+2	16:12:48.908	Custom indicator RenkoMaker_Confirm US100.cash,M15: loaded successfully
+2	16:12:48.916	Custom indicator FRZ Forex Market Session Indicator US100.cash,M15: loaded successfully
+2	16:12:49.864	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: loaded successfully
+2	16:12:49.870	Custom indicator CandleTimer XAUUSD,M1: loaded successfully
+2	16:12:49.947	Custom indicator #Signal_Bars_v6 XAUUSD,M1: loaded successfully
+2	16:12:49.956	Custom indicator TrendEnvelopes_v1 XAUUSD,M1: loaded successfully
+2	16:12:49.964	Custom indicator wedges XAUUSD,M1: loaded successfully
+2	16:12:49.972	Custom indicator Admiral Pivot XAUUSD,M1: loaded successfully
+2	16:12:49.980	Custom indicator AutoTrendChannel XAUUSD,M1: loaded successfully
+2	16:12:49.988	Custom indicator FRZ Channel Auto Plotter XAUUSD,M1: loaded successfully
+2	16:12:49.996	Custom indicator Forex Uranus direction XAUUSD,M1: loaded successfully
+2	16:12:50.073	Custom indicator aVSA\aVSA clasters XAUUSD,M1: loaded successfully
+2	16:12:50.088	Custom indicator aVSA\aVSA Golden Zone XAUUSD,M1: loaded successfully
+2	16:12:50.097	Custom indicator breakout-zones\breakout-zones XAUUSD,M1: loaded successfully
+2	16:12:50.105	Custom indicator breakout-zones\SL&TP Values XAUUSD,M1: loaded successfully
+2	16:12:50.119	Custom indicator PositionSizeCalculator XAUUSD,M1: loaded successfully
+2	16:12:50.129	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,M1: loaded successfully
+2	16:12:50.208	Custom indicator AIMS AO V.2.1 XAUUSD,M1: loaded successfully
+2	16:12:50.217	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: loaded successfully
+2	16:12:50.226	Custom indicator RSI Divergence Levels XAUUSD,M1: loaded successfully
+2	16:12:50.235	Custom indicator RenkoMaker_Confirm XAUUSD,M1: loaded successfully
+2	16:12:50.244	Custom indicator FRZ Forex Market Session Indicator XAUUSD,M1: loaded successfully
+2	16:12:50.263	Expert Admiral - Mini Terminal XAUUSD,M1: loaded successfully
+0	16:15:30.760	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	16:15:30.760	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1859 / 8014 Mb, Disk: 51 / 197 Gb, GMT+3
+0	16:15:30.760	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+1	16:15:38.253	'1300050632': connect failed [Connection échouée]
+0	16:15:44.360	'1300050632': login on FTMO-Server2 through DC 1 (ping: 305.74 ms)
+0	16:15:46.715	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 305.74 ms)
+0	16:15:47.419	'1300050632': previous successful authorization performed from 154.120.154.246
+0	16:15:58.149	'1300050632': auto connecting to a better access point DC 5 (ping is 220.53 ms)
+1	16:15:58.779	'1300050632': connect failed [Connection échouée]
+0	16:16:16.168	'1300050632': login on FTMO-Server2 through DC 1 (ping: 254.61 ms)
+2	16:16:17.063	Custom indicator AIMS Entry Alert V1 GER30.cash,M15: loaded successfully
+2	16:16:17.073	Custom indicator CandleTimer GER30.cash,M15: loaded successfully
+2	16:16:17.161	Custom indicator #Signal_Bars_v6 GER30.cash,M15: loaded successfully
+2	16:16:17.171	Custom indicator TrendEnvelopes_v1 GER30.cash,M15: loaded successfully
+2	16:16:17.180	Custom indicator wedges GER30.cash,M15: loaded successfully
+2	16:16:17.189	Custom indicator Admiral Pivot GER30.cash,M15: loaded successfully
+2	16:16:17.198	Custom indicator AutoTrendChannel GER30.cash,M15: loaded successfully
+2	16:16:17.207	Custom indicator FRZ Channel Auto Plotter GER30.cash,M15: loaded successfully
+2	16:16:17.216	Custom indicator Forex Uranus direction GER30.cash,M15: loaded successfully
+2	16:16:17.306	Custom indicator aVSA\aVSA clasters GER30.cash,M15: loaded successfully
+2	16:16:17.326	Custom indicator aVSA\aVSA Golden Zone GER30.cash,M15: loaded successfully
+2	16:16:17.336	Custom indicator breakout-zones\breakout-zones GER30.cash,M15: loaded successfully
+2	16:16:17.347	Custom indicator breakout-zones\SL&TP Values GER30.cash,M15: loaded successfully
+2	16:16:17.365	Custom indicator PositionSizeCalculator GER30.cash,M15: loaded successfully
+2	16:16:17.377	Custom indicator DaVinci Truly News Indicator 2.3.95 GER30.cash,M15: loaded successfully
+2	16:16:17.485	Custom indicator AIMS AO V.2.1 GER30.cash,M15: loaded successfully
+2	16:16:17.496	Custom indicator IVT_MACD_ZERO_LAG GER30.cash,M15: loaded successfully
+2	16:16:17.507	Custom indicator RSI Divergence Levels GER30.cash,M15: loaded successfully
+2	16:16:17.516	Custom indicator RenkoMaker_Confirm GER30.cash,M15: loaded successfully
+2	16:16:17.527	Custom indicator FRZ Forex Market Session Indicator GER30.cash,M15: loaded successfully
+2	16:16:17.546	Expert Admiral - Mini Terminal GER30.cash,M15: loaded successfully
+0	16:16:18.588	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 254.61 ms)
+2	16:16:18.810	Custom indicator AIMS Entry Alert V1 US30.cash,M15: loaded successfully
+2	16:16:18.818	Custom indicator CandleTimer US30.cash,M15: loaded successfully
+2	16:16:18.930	Custom indicator #Signal_Bars_v6 US30.cash,M15: loaded successfully
+2	16:16:18.943	Custom indicator TrendEnvelopes_v1 US30.cash,M15: loaded successfully
+2	16:16:18.953	Custom indicator wedges US30.cash,M15: loaded successfully
+2	16:16:18.963	Custom indicator Admiral Pivot US30.cash,M15: loaded successfully
+2	16:16:18.973	Custom indicator AutoTrendChannel US30.cash,M15: loaded successfully
+2	16:16:18.982	Custom indicator FRZ Channel Auto Plotter US30.cash,M15: loaded successfully
+2	16:16:18.992	Custom indicator Forex Uranus direction US30.cash,M15: loaded successfully
+2	16:16:19.105	Custom indicator aVSA\aVSA clasters US30.cash,M15: loaded successfully
+2	16:16:19.126	Custom indicator aVSA\aVSA Golden Zone US30.cash,M15: loaded successfully
+2	16:16:19.137	Custom indicator breakout-zones\breakout-zones US30.cash,M15: loaded successfully
+2	16:16:19.148	Custom indicator breakout-zones\SL&TP Values US30.cash,M15: loaded successfully
+2	16:16:19.169	Custom indicator PositionSizeCalculator US30.cash,M15: loaded successfully
+2	16:16:19.182	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,M15: loaded successfully
+2	16:16:19.287	Custom indicator AIMS AO V.2.1 US30.cash,M15: loaded successfully
+2	16:16:19.302	Custom indicator IVT_MACD_ZERO_LAG US30.cash,M15: loaded successfully
+0	16:16:19.310	'1300050632': previous successful authorization performed from 154.120.154.246
+2	16:16:19.317	Custom indicator RSI Divergence Levels US30.cash,M15: loaded successfully
+2	16:16:19.328	Custom indicator RenkoMaker_Confirm US30.cash,M15: loaded successfully
+2	16:16:19.338	Custom indicator FRZ Forex Market Session Indicator US30.cash,M15: loaded successfully
+2	16:16:20.448	Custom indicator AIMS Entry Alert V1 US100.cash,M15: loaded successfully
+2	16:16:20.455	Custom indicator CandleTimer US100.cash,M15: loaded successfully
+2	16:16:20.542	Custom indicator #Signal_Bars_v6 US100.cash,M15: loaded successfully
+2	16:16:20.551	Custom indicator TrendEnvelopes_v1 US100.cash,M15: loaded successfully
+2	16:16:20.561	Custom indicator wedges US100.cash,M15: loaded successfully
+2	16:16:20.571	Custom indicator Admiral Pivot US100.cash,M15: loaded successfully
+2	16:16:20.580	Custom indicator AutoTrendChannel US100.cash,M15: loaded successfully
+2	16:16:20.589	Custom indicator FRZ Channel Auto Plotter US100.cash,M15: loaded successfully
+2	16:16:20.598	Custom indicator Forex Uranus direction US100.cash,M15: loaded successfully
+2	16:16:20.690	Custom indicator aVSA\aVSA clasters US100.cash,M15: loaded successfully
+2	16:16:20.708	Custom indicator aVSA\aVSA Golden Zone US100.cash,M15: loaded successfully
+2	16:16:20.718	Custom indicator breakout-zones\breakout-zones US100.cash,M15: loaded successfully
+2	16:16:20.728	Custom indicator breakout-zones\SL&TP Values US100.cash,M15: loaded successfully
+2	16:16:20.745	Custom indicator PositionSizeCalculator US100.cash,M15: loaded successfully
+2	16:16:20.757	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M15: loaded successfully
+2	16:16:20.848	Custom indicator AIMS AO V.2.1 US100.cash,M15: loaded successfully
+2	16:16:20.857	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M15: loaded successfully
+2	16:16:20.867	Custom indicator RSI Divergence Levels US100.cash,M15: loaded successfully
+2	16:16:20.876	Custom indicator RenkoMaker_Confirm US100.cash,M15: loaded successfully
+2	16:16:20.885	Custom indicator FRZ Forex Market Session Indicator US100.cash,M15: loaded successfully
+2	16:16:22.112	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: loaded successfully
+2	16:16:22.120	Custom indicator CandleTimer XAUUSD,M1: loaded successfully
+2	16:16:22.233	Custom indicator #Signal_Bars_v6 XAUUSD,M1: loaded successfully
+2	16:16:22.243	Custom indicator TrendEnvelopes_v1 XAUUSD,M1: loaded successfully
+2	16:16:22.254	Custom indicator wedges XAUUSD,M1: loaded successfully
+2	16:16:22.264	Custom indicator Admiral Pivot XAUUSD,M1: loaded successfully
+2	16:16:22.273	Custom indicator AutoTrendChannel XAUUSD,M1: loaded successfully
+2	16:16:22.284	Custom indicator FRZ Channel Auto Plotter XAUUSD,M1: loaded successfully
+2	16:16:22.294	Custom indicator Forex Uranus direction XAUUSD,M1: loaded successfully
+2	16:16:22.410	Custom indicator aVSA\aVSA clasters XAUUSD,M1: loaded successfully
+2	16:16:22.432	Custom indicator aVSA\aVSA Golden Zone XAUUSD,M1: loaded successfully
+2	16:16:22.445	Custom indicator breakout-zones\breakout-zones XAUUSD,M1: loaded successfully
+2	16:16:22.455	Custom indicator breakout-zones\SL&TP Values XAUUSD,M1: loaded successfully
+2	16:16:22.474	Custom indicator PositionSizeCalculator XAUUSD,M1: loaded successfully
+2	16:16:22.486	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,M1: loaded successfully
+2	16:16:22.587	Custom indicator AIMS AO V.2.1 XAUUSD,M1: loaded successfully
+2	16:16:22.597	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: loaded successfully
+2	16:16:22.608	Custom indicator RSI Divergence Levels XAUUSD,M1: loaded successfully
+2	16:16:22.618	Custom indicator RenkoMaker_Confirm XAUUSD,M1: loaded successfully
+2	16:16:22.628	Custom indicator FRZ Forex Market Session Indicator XAUUSD,M1: loaded successfully
+2	16:16:22.644	Expert Admiral - Mini Terminal XAUUSD,M1: loaded successfully
+0	16:38:22.889	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	16:38:22.889	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1324 / 8014 Mb, Disk: 51 / 197 Gb, GMT+3
+0	16:38:22.889	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+0	16:38:29.719	'1300050632': login on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	16:38:32.254	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	16:38:32.870	'1300050632': previous successful authorization performed from 197.159.150.225
+2	16:38:36.799	Custom indicator AIMS Entry Alert V1 GER30.cash,M15: loaded successfully
+2	16:38:36.806	Custom indicator CandleTimer GER30.cash,M15: loaded successfully
+2	16:38:36.875	Custom indicator #Signal_Bars_v6 GER30.cash,M15: loaded successfully
+2	16:38:36.883	Custom indicator TrendEnvelopes_v1 GER30.cash,M15: loaded successfully
+2	16:38:36.890	Custom indicator wedges GER30.cash,M15: loaded successfully
+2	16:38:36.898	Custom indicator Admiral Pivot GER30.cash,M15: loaded successfully
+2	16:38:36.905	Custom indicator AutoTrendChannel GER30.cash,M15: loaded successfully
+2	16:38:36.912	Custom indicator FRZ Channel Auto Plotter GER30.cash,M15: loaded successfully
+2	16:38:36.920	Custom indicator Forex Uranus direction GER30.cash,M15: loaded successfully
+2	16:38:36.991	Custom indicator aVSA\aVSA clasters GER30.cash,M15: loaded successfully
+2	16:38:37.006	Custom indicator aVSA\aVSA Golden Zone GER30.cash,M15: loaded successfully
+2	16:38:37.013	Custom indicator breakout-zones\breakout-zones GER30.cash,M15: loaded successfully
+2	16:38:37.019	Custom indicator breakout-zones\SL&TP Values GER30.cash,M15: loaded successfully
+2	16:38:37.034	Custom indicator PositionSizeCalculator GER30.cash,M15: loaded successfully
+2	16:38:37.044	Custom indicator DaVinci Truly News Indicator 2.3.95 GER30.cash,M15: loaded successfully
+2	16:38:37.114	Custom indicator AIMS AO V.2.1 GER30.cash,M15: loaded successfully
+2	16:38:37.121	Custom indicator IVT_MACD_ZERO_LAG GER30.cash,M15: loaded successfully
+2	16:38:37.129	Custom indicator RSI Divergence Levels GER30.cash,M15: loaded successfully
+2	16:38:37.135	Custom indicator RenkoMaker_Confirm GER30.cash,M15: loaded successfully
+2	16:38:37.142	Custom indicator FRZ Forex Market Session Indicator GER30.cash,M15: loaded successfully
+2	16:38:37.156	Expert Admiral - Mini Terminal GER30.cash,M15: loaded successfully
+0	16:40:19.930	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	16:40:19.931	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1451 / 8014 Mb, Disk: 51 / 197 Gb, GMT+3
+0	16:40:19.931	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+0	16:40:26.927	'1300050632': login on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	16:40:29.491	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	16:40:30.231	'1300050632': previous successful authorization performed from 197.159.150.225
+2	16:40:38.118	Custom indicator AIMS Entry Alert V1 US100.cash,H1: loaded successfully
+2	16:40:38.124	Custom indicator CandleTimer US100.cash,H1: loaded successfully
+2	16:40:38.196	Custom indicator #Signal_Bars_v6 US100.cash,H1: loaded successfully
+2	16:40:38.203	Custom indicator TrendEnvelopes_v1 US100.cash,H1: loaded successfully
+2	16:40:38.212	Custom indicator wedges US100.cash,H1: loaded successfully
+2	16:40:38.221	Custom indicator Admiral Pivot US100.cash,H1: loaded successfully
+2	16:40:38.228	Custom indicator AutoTrendChannel US100.cash,H1: loaded successfully
+2	16:40:38.235	Custom indicator FRZ Channel Auto Plotter US100.cash,H1: loaded successfully
+2	16:40:38.243	Custom indicator Forex Uranus direction US100.cash,H1: loaded successfully
+2	16:40:38.318	Custom indicator aVSA\aVSA clasters US100.cash,H1: loaded successfully
+2	16:40:38.333	Custom indicator aVSA\aVSA Golden Zone US100.cash,H1: loaded successfully
+2	16:40:38.340	Custom indicator breakout-zones\breakout-zones US100.cash,H1: loaded successfully
+2	16:40:38.348	Custom indicator breakout-zones\SL&TP Values US100.cash,H1: loaded successfully
+2	16:40:38.361	Custom indicator PositionSizeCalculator US100.cash,H1: loaded successfully
+2	16:40:38.370	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,H1: loaded successfully
+2	16:40:38.439	Custom indicator AIMS AO V.2.1 US100.cash,H1: loaded successfully
+2	16:40:38.446	Custom indicator IVT_MACD_ZERO_LAG US100.cash,H1: loaded successfully
+2	16:40:38.454	Custom indicator RSI Divergence Levels US100.cash,H1: loaded successfully
+2	16:40:38.460	Custom indicator RenkoMaker_Confirm US100.cash,H1: loaded successfully
+2	16:40:38.467	Custom indicator FRZ Forex Market Session Indicator US100.cash,H1: loaded successfully
+0	16:41:15.855	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	16:41:16.478	'1300050632': order was opened : #6250052 sell 1.00 US100.cash at 13686.45 sl: 0.00 tp: 0.00
+0	16:41:28.898	'1300050632': modify order #6250052 sell 1.00 US100.cash at 13686.45 sl: 0.00 tp: 0.00 -> sl: 13697.10 tp: 0.00
+0	16:41:29.306	'1300050632': order #6250052 sell 1.00 US100.cash at 13686.45 was modified -> sl: 13697.10 tp: 0.00
+0	16:41:45.270	'1300050632': modify order #6250052 sell 1.00 US100.cash at 13686.45 sl: 13697.10 tp: 0.00 -> sl: 13700.02 tp: 0.00
+0	16:41:45.619	'1300050632': order #6250052 sell 1.00 US100.cash at 13686.45 was modified -> sl: 13700.02 tp: 0.00
+0	16:42:08.716	'1300050632': modify order #6250052 sell 1.00 US100.cash at 13686.45 sl: 13700.02 tp: 0.00 -> sl: 13686.24 tp: 0.00
+0	16:42:09.072	'1300050632': order #6250052 sell 1.00 US100.cash at 13686.45 was modified -> sl: 13686.24 tp: 0.00
+0	16:42:21.609	'1300050632': order #6250052 sell 1.00 US100.cash at 13686.45 closed due stop-loss at price 13686.60
+2	16:42:35.057	Expert Admiral - Mini Terminal US100.cash,M5: loaded successfully
+0	16:42:40.820	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	16:42:41.467	'1300050632': order was opened : #6250442 sell 1.00 US100.cash at 13683.45 sl: 0.00 tp: 0.00
+0	16:42:48.060	'1300050632': modify order #6250442 sell 1.00 US100.cash at 13683.45 sl: 0.00 tp: 0.00 -> sl: 13697.52 tp: 0.00
+0	16:42:48.461	'1300050632': order #6250442 sell 1.00 US100.cash at 13683.45 was modified -> sl: 13697.52 tp: 0.00
+0	16:42:58.589	'1300050632': modify order #6250442 sell 1.00 US100.cash at 13683.45 sl: 13697.52 tp: 0.00 -> sl: 13683.11 tp: 0.00
+0	16:42:59.080	'1300050632': order #6250442 sell 1.00 US100.cash at 13683.45 was modified -> sl: 13683.11 tp: 0.00
+0	16:43:02.767	'1300050632': order #6250442 sell 1.00 US100.cash at 13683.45 closed due stop-loss at price 13683.25
+0	16:43:14.027	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	16:43:14.928	'1300050632': order was opened : #6250617 sell 1.00 US100.cash at 13681.20 sl: 0.00 tp: 0.00
+0	16:43:22.530	'1300050632': modify order #6250617 sell 1.00 US100.cash at 13681.20 sl: 0.00 tp: 0.00 -> sl: 13697.31 tp: 0.00
+0	16:43:22.928	'1300050632': order #6250617 sell 1.00 US100.cash at 13681.20 was modified -> sl: 13697.31 tp: 0.00
+0	16:44:19.583	'1300050632': modify order #6250617 sell 1.00 US100.cash at 13681.20 sl: 13697.31 tp: 0.00 -> sl: 13698.77 tp: 0.00
+1	16:44:19.972	'1300050632': modification of order #6250617 sell 1.00 US100.cash at 13681.20 sl: 13697.31 tp: 0.00 -> sl: 13698.77 tp: 0.00 failed [Off quotes]
+0	16:44:20.158	'1300050632': order #6250617 sell 1.00 US100.cash at 13681.20 closed due stop-loss at price 13697.90
+0	16:44:38.413	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	16:44:39.054	'1300050632': order was opened : #6251003 sell 1.00 US100.cash at 13697.95 sl: 0.00 tp: 0.00
+0	16:44:54.407	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 0.00 tp: 0.00 -> sl: 13704.80 tp: 0.00
+0	16:44:54.780	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13704.80 tp: 0.00
+0	16:45:08.143	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13704.80 tp: 0.00 -> sl: 13706.89 tp: 0.00
+0	16:45:08.546	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13706.89 tp: 0.00
+0	16:45:15.030	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13706.89 tp: 0.00 -> sl: 13711.10 tp: 0.00
+0	16:45:15.489	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13711.10 tp: 0.00
+0	16:45:18.547	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13711.10 tp: 0.00 -> sl: 13714.85 tp: 0.00
+0	16:45:18.930	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13714.85 tp: 0.00
+0	16:46:02.113	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13714.85 tp: 0.00 -> sl: 13717.03 tp: 0.00
+0	16:46:02.512	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13717.03 tp: 0.00
+0	16:48:36.281	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13717.03 tp: 0.00 -> sl: 13721.15 tp: 0.00
+0	16:48:36.635	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13721.15 tp: 0.00
+0	16:48:41.781	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13721.15 tp: 0.00 -> sl: 13725.71 tp: 0.00
+0	16:48:42.247	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13725.71 tp: 0.00
+0	16:48:55.114	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13725.71 tp: 0.00 -> sl: 13732.97 tp: 0.00
+0	16:48:55.532	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13732.97 tp: 0.00
+0	16:48:58.402	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13732.97 tp: 0.00 -> sl: 13731.58 tp: 0.00
+0	16:48:58.777	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13731.58 tp: 0.00
+0	16:51:10.939	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13731.58 tp: 0.00 -> sl: 13731.58 tp: 13470.00
+0	16:51:11.539	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13731.58 tp: 13470.00
+0	16:51:36.162	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13731.58 tp: 13470.00 -> sl: 13728.91 tp: 13470.00
+0	16:51:36.560	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13728.91 tp: 13470.00
+0	16:52:29.193	'1300050632': order sell market 0.50 US100.cash sl: 0.00 tp: 0.00
+0	16:52:29.845	'1300050632': order was opened : #6252826 sell 0.50 US100.cash at 13703.45 sl: 0.00 tp: 0.00
+0	16:52:34.843	'1300050632': modify order #6252826 sell 0.50 US100.cash at 13703.45 sl: 0.00 tp: 0.00 -> sl: 13709.76 tp: 0.00
+0	16:52:35.240	'1300050632': order #6252826 sell 0.50 US100.cash at 13703.45 was modified -> sl: 13709.76 tp: 0.00
+0	16:53:58.295	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	16:53:58.295	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1523 / 8014 Mb, Disk: 50 / 197 Gb, GMT+3
+0	16:53:58.295	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	16:54:04.025	Custom indicator AIMS Entry Alert V1 US100.cash,M5: loaded successfully
+2	16:54:04.032	Custom indicator CandleTimer US100.cash,M5: loaded successfully
+2	16:54:04.117	Custom indicator #Signal_Bars_v6 US100.cash,M5: loaded successfully
+2	16:54:04.125	Custom indicator TrendEnvelopes_v1 US100.cash,M5: loaded successfully
+2	16:54:04.134	Custom indicator wedges US100.cash,M5: loaded successfully
+2	16:54:04.143	Custom indicator Admiral Pivot US100.cash,M5: loaded successfully
+2	16:54:04.151	Custom indicator AutoTrendChannel US100.cash,M5: loaded successfully
+2	16:54:04.160	Custom indicator FRZ Channel Auto Plotter US100.cash,M5: loaded successfully
+2	16:54:04.169	Custom indicator Forex Uranus direction US100.cash,M5: loaded successfully
+2	16:54:04.251	Custom indicator aVSA\aVSA clasters US100.cash,M5: loaded successfully
+2	16:54:04.269	Custom indicator aVSA\aVSA Golden Zone US100.cash,M5: loaded successfully
+2	16:54:04.278	Custom indicator breakout-zones\breakout-zones US100.cash,M5: loaded successfully
+2	16:54:04.287	Custom indicator breakout-zones\SL&TP Values US100.cash,M5: loaded successfully
+2	16:54:04.303	Custom indicator PositionSizeCalculator US100.cash,M5: loaded successfully
+2	16:54:04.314	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M5: loaded successfully
+2	16:54:04.394	Custom indicator AIMS AO V.2.1 US100.cash,M5: loaded successfully
+2	16:54:04.403	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M5: loaded successfully
+2	16:54:04.411	Custom indicator RSI Divergence Levels US100.cash,M5: loaded successfully
+2	16:54:04.419	Custom indicator RenkoMaker_Confirm US100.cash,M5: loaded successfully
+2	16:54:04.427	Custom indicator FRZ Forex Market Session Indicator US100.cash,M5: loaded successfully
+2	16:54:04.440	Expert Admiral - Mini Terminal US100.cash,M5: loaded successfully
+0	16:54:07.226	'1300050632': login on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	16:54:09.766	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	16:54:10.467	'1300050632': previous successful authorization performed from 197.159.150.225
+0	16:54:17.617	'1300050632': order #6252826 sell 0.50 US100.cash at 13703.45 closed due stop-loss at price 13711.50
+2	16:54:30.661	Custom indicator AIMS Entry Alert V1 US30.cash,H1: loaded successfully
+2	16:54:30.667	Custom indicator CandleTimer US30.cash,H1: loaded successfully
+2	16:54:30.734	Custom indicator #Signal_Bars_v6 US30.cash,H1: loaded successfully
+2	16:54:30.742	Custom indicator TrendEnvelopes_v1 US30.cash,H1: loaded successfully
+2	16:54:30.748	Custom indicator wedges US30.cash,H1: loaded successfully
+2	16:54:30.756	Custom indicator Admiral Pivot US30.cash,H1: loaded successfully
+2	16:54:30.763	Custom indicator AutoTrendChannel US30.cash,H1: loaded successfully
+2	16:54:30.771	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: loaded successfully
+2	16:54:30.778	Custom indicator Forex Uranus direction US30.cash,H1: loaded successfully
+2	16:54:30.851	Custom indicator aVSA\aVSA clasters US30.cash,H1: loaded successfully
+2	16:54:30.865	Custom indicator aVSA\aVSA Golden Zone US30.cash,H1: loaded successfully
+2	16:54:30.873	Custom indicator breakout-zones\breakout-zones US30.cash,H1: loaded successfully
+2	16:54:30.880	Custom indicator breakout-zones\SL&TP Values US30.cash,H1: loaded successfully
+2	16:54:30.894	Custom indicator PositionSizeCalculator US30.cash,H1: loaded successfully
+2	16:54:30.903	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: loaded successfully
+2	16:54:30.973	Custom indicator AIMS AO V.2.1 US30.cash,H1: loaded successfully
+2	16:54:30.981	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: loaded successfully
+2	16:54:30.989	Custom indicator RSI Divergence Levels US30.cash,H1: loaded successfully
+2	16:54:30.995	Custom indicator RenkoMaker_Confirm US30.cash,H1: loaded successfully
+2	16:54:31.003	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: loaded successfully
+0	16:54:57.367	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	16:54:57.950	'1300050632': order was opened : #6253248 sell 0.15 US30.cash at 34629.00 sl: 0.00 tp: 0.00
+0	16:55:28.598	'1300050632': modify order #6253248 sell 0.15 US30.cash at 34629.00 sl: 0.00 tp: 0.00 -> sl: 34644.25 tp: 0.00
+0	16:55:29.046	'1300050632': order #6253248 sell 0.15 US30.cash at 34629.00 was modified -> sl: 34644.25 tp: 0.00
+0	16:56:15.531	'1300050632': order #6253248 sell 0.15 US30.cash at 34629.00 closed due stop-loss at price 34643.55
+0	16:56:47.312	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13728.91 tp: 13470.00 -> sl: 13698.27 tp: 13470.00
+0	16:56:47.680	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13698.27 tp: 13470.00
+0	16:56:51.025	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13698.27 tp: 13470.00 -> sl: 13696.19 tp: 13470.00
+0	16:56:51.440	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13696.19 tp: 13470.00
+0	16:57:38.018	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13696.19 tp: 13470.00 -> sl: 13698.04 tp: 13470.00
+0	16:57:38.509	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13698.04 tp: 13470.00
+0	16:57:49.167	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13698.04 tp: 13470.00 -> sl: 13696.42 tp: 13470.00
+0	16:57:49.646	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13696.42 tp: 13470.00
+0	16:57:54.086	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13696.42 tp: 13470.00 -> sl: 13695.73 tp: 13470.00
+0	16:57:54.456	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13695.73 tp: 13470.00
+0	16:58:53.056	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13695.73 tp: 13470.00 -> sl: 13689.94 tp: 13470.00
+0	16:58:53.425	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13689.94 tp: 13470.00
+0	16:59:04.436	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13689.94 tp: 13470.00 -> sl: 13686.94 tp: 13470.00
+0	16:59:04.821	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13686.94 tp: 13470.00
+0	16:59:11.713	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13686.94 tp: 13470.00 -> sl: 13685.78 tp: 13470.00
+0	16:59:12.117	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13685.78 tp: 13470.00
+0	16:59:17.410	'1300050632': modify order #6251003 sell 1.00 US100.cash at 13697.95 sl: 13685.78 tp: 13470.00 -> sl: 13681.62 tp: 13470.00
+0	16:59:18.155	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 was modified -> sl: 13681.62 tp: 13470.00
+0	16:59:18.683	'1300050632': order #6251003 sell 1.00 US100.cash at 13697.95 closed due stop-loss at price 13682.90
+0	16:59:30.311	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	16:59:31.269	'1300050632': order was opened : #6254585 sell 1.00 US100.cash at 13680.45 sl: 0.00 tp: 0.00
+0	16:59:42.413	'1300050632': modify order #6254585 sell 1.00 US100.cash at 13680.45 sl: 0.00 tp: 0.00 -> sl: 13698.04 tp: 0.00
+0	16:59:42.797	'1300050632': order #6254585 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13698.04 tp: 0.00
+0	17:00:08.458	'1300050632': modify order #6254585 sell 1.00 US100.cash at 13680.45 sl: 13698.04 tp: 0.00 -> sl: 13680.00 tp: 0.00
+0	17:00:09.188	'1300050632': order #6254585 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13680.00 tp: 0.00
+0	17:01:19.527	'1300050632': order #6254585 sell 1.00 US100.cash at 13680.45 closed due stop-loss at price 13680.40
+0	17:01:26.962	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:01:27.965	'1300050632': order was opened : #6255148 sell 1.00 US100.cash at 13674.95 sl: 0.00 tp: 0.00
+0	17:01:36.790	'1300050632': modify order #6255148 sell 1.00 US100.cash at 13674.95 sl: 0.00 tp: 0.00 -> sl: 13685.55 tp: 0.00
+0	17:01:37.218	'1300050632': order #6255148 sell 1.00 US100.cash at 13674.95 was modified -> sl: 13685.55 tp: 0.00
+0	17:01:42.100	'1300050632': modify order #6255148 sell 1.00 US100.cash at 13674.95 sl: 13685.55 tp: 0.00 -> sl: 13690.64 tp: 0.00
+0	17:01:42.491	'1300050632': order #6255148 sell 1.00 US100.cash at 13674.95 was modified -> sl: 13690.64 tp: 0.00
+0	17:01:54.492	'1300050632': modify order #6255148 sell 1.00 US100.cash at 13674.95 sl: 13690.64 tp: 0.00 -> sl: 13674.45 tp: 0.00
+0	17:01:55.127	'1300050632': order #6255148 sell 1.00 US100.cash at 13674.95 was modified -> sl: 13674.45 tp: 0.00
+0	17:01:57.921	'1300050632': order #6255148 sell 1.00 US100.cash at 13674.95 closed due stop-loss at price 13674.75
+0	17:02:02.898	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:02:03.534	'1300050632': order was opened : #6255306 sell 1.00 US100.cash at 13672.20 sl: 0.00 tp: 0.00
+0	17:02:15.916	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 0.00 tp: 0.00 -> sl: 13683.70 tp: 0.00
+0	17:02:16.705	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13683.70 tp: 0.00
+0	17:03:03.102	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13683.70 tp: 0.00 -> sl: 13676.53 tp: 0.00
+0	17:03:03.424	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13676.53 tp: 0.00
+0	17:03:14.969	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13676.53 tp: 0.00 -> sl: 13677.91 tp: 0.00
+0	17:03:15.344	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13677.91 tp: 0.00
+0	17:03:20.943	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13677.91 tp: 0.00 -> sl: 13680.23 tp: 0.00
+0	17:03:21.372	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13680.23 tp: 0.00
+0	17:03:26.433	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13680.23 tp: 0.00 -> sl: 13681.62 tp: 0.00
+0	17:03:26.883	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13681.62 tp: 0.00
+0	17:03:32.931	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13681.62 tp: 0.00 -> sl: 13685.78 tp: 0.00
+0	17:03:33.288	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13685.78 tp: 0.00
+0	17:03:36.932	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13685.78 tp: 0.00 -> sl: 13688.09 tp: 0.00
+0	17:03:37.292	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13688.09 tp: 0.00
+0	17:03:55.381	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13688.09 tp: 0.00 -> sl: 13694.11 tp: 0.00
+0	17:03:55.781	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13694.11 tp: 0.00
+0	17:04:22.419	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:04:23.008	'1300050632': order was opened : #6255702 sell 1.00 US100.cash at 13680.60 sl: 0.00 tp: 0.00
+0	17:04:27.825	'1300050632': modify order #6255702 sell 1.00 US100.cash at 13680.60 sl: 0.00 tp: 0.00 -> sl: 13685.32 tp: 0.00
+0	17:04:28.159	'1300050632': order #6255702 sell 1.00 US100.cash at 13680.60 was modified -> sl: 13685.32 tp: 0.00
+1	17:04:31.404	'1300050632': modification of order #6255702 sell 1.00 US100.cash at 13680.60 sl: 13685.32 tp: 0.00 -> sl: 13680.46 tp: 0.00 failed [Invalid S/L or T/P]
+0	17:04:38.149	'1300050632': modify order #6255702 sell 1.00 US100.cash at 13680.60 sl: 13685.32 tp: 0.00 -> sl: 13687.63 tp: 0.00
+0	17:04:38.634	'1300050632': order #6255702 sell 1.00 US100.cash at 13680.60 was modified -> sl: 13687.63 tp: 0.00
+0	17:04:46.008	'1300050632': modify order #6255702 sell 1.00 US100.cash at 13680.60 sl: 13687.63 tp: 0.00 -> sl: 13690.17 tp: 0.00
+0	17:04:46.424	'1300050632': order #6255702 sell 1.00 US100.cash at 13680.60 was modified -> sl: 13690.17 tp: 0.00
+0	17:05:38.488	'1300050632': modify order #6255702 sell 1.00 US100.cash at 13680.60 sl: 13690.17 tp: 0.00 -> sl: 13680.23 tp: 0.00
+1	17:05:38.876	'1300050632': modification of order #6255702 sell 1.00 US100.cash at 13680.60 sl: 13690.17 tp: 0.00 -> sl: 13680.23 tp: 0.00 failed [Invalid S/L or T/P]
+0	17:06:41.742	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	17:06:41.742	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1776 / 8014 Mb, Disk: 50 / 197 Gb, GMT+3
+0	17:06:41.742	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	17:06:47.413	Custom indicator AIMS Entry Alert V1 US100.cash,M5: loaded successfully
+2	17:06:47.421	Custom indicator CandleTimer US100.cash,M5: loaded successfully
+2	17:06:47.526	Custom indicator #Signal_Bars_v6 US100.cash,M5: loaded successfully
+2	17:06:47.536	Custom indicator TrendEnvelopes_v1 US100.cash,M5: loaded successfully
+2	17:06:47.546	Custom indicator wedges US100.cash,M5: loaded successfully
+2	17:06:47.556	Custom indicator Admiral Pivot US100.cash,M5: loaded successfully
+2	17:06:47.565	Custom indicator AutoTrendChannel US100.cash,M5: loaded successfully
+2	17:06:47.575	Custom indicator FRZ Channel Auto Plotter US100.cash,M5: loaded successfully
+2	17:06:47.585	Custom indicator Forex Uranus direction US100.cash,M5: loaded successfully
+2	17:06:47.674	Custom indicator aVSA\aVSA clasters US100.cash,M5: loaded successfully
+2	17:06:47.692	Custom indicator aVSA\aVSA Golden Zone US100.cash,M5: loaded successfully
+2	17:06:47.702	Custom indicator breakout-zones\breakout-zones US100.cash,M5: loaded successfully
+2	17:06:47.712	Custom indicator breakout-zones\SL&TP Values US100.cash,M5: loaded successfully
+2	17:06:47.729	Custom indicator PositionSizeCalculator US100.cash,M5: loaded successfully
+2	17:06:47.740	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M5: loaded successfully
+2	17:06:47.826	Custom indicator AIMS AO V.2.1 US100.cash,M5: loaded successfully
+2	17:06:47.834	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M5: loaded successfully
+2	17:06:47.843	Custom indicator RSI Divergence Levels US100.cash,M5: loaded successfully
+2	17:06:47.851	Custom indicator RenkoMaker_Confirm US100.cash,M5: loaded successfully
+2	17:06:47.860	Custom indicator FRZ Forex Market Session Indicator US100.cash,M5: loaded successfully
+2	17:06:47.874	Expert Admiral - Mini Terminal US100.cash,M5: loaded successfully
+2	17:06:49.504	Custom indicator AIMS Entry Alert V1 US30.cash,H1: loaded successfully
+2	17:06:49.511	Custom indicator CandleTimer US30.cash,H1: loaded successfully
+2	17:06:49.590	Custom indicator #Signal_Bars_v6 US30.cash,H1: loaded successfully
+2	17:06:49.598	Custom indicator TrendEnvelopes_v1 US30.cash,H1: loaded successfully
+2	17:06:49.606	Custom indicator wedges US30.cash,H1: loaded successfully
+2	17:06:49.615	Custom indicator Admiral Pivot US30.cash,H1: loaded successfully
+2	17:06:49.622	Custom indicator AutoTrendChannel US30.cash,H1: loaded successfully
+2	17:06:49.630	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: loaded successfully
+2	17:06:49.638	Custom indicator Forex Uranus direction US30.cash,H1: loaded successfully
+2	17:06:49.716	Custom indicator aVSA\aVSA clasters US30.cash,H1: loaded successfully
+2	17:06:49.731	Custom indicator aVSA\aVSA Golden Zone US30.cash,H1: loaded successfully
+2	17:06:49.740	Custom indicator breakout-zones\breakout-zones US30.cash,H1: loaded successfully
+2	17:06:49.748	Custom indicator breakout-zones\SL&TP Values US30.cash,H1: loaded successfully
+2	17:06:49.763	Custom indicator PositionSizeCalculator US30.cash,H1: loaded successfully
+2	17:06:49.772	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: loaded successfully
+2	17:06:49.848	Custom indicator AIMS AO V.2.1 US30.cash,H1: loaded successfully
+2	17:06:49.855	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: loaded successfully
+2	17:06:49.863	Custom indicator RSI Divergence Levels US30.cash,H1: loaded successfully
+2	17:06:49.870	Custom indicator RenkoMaker_Confirm US30.cash,H1: loaded successfully
+2	17:06:49.878	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: loaded successfully
+0	17:06:51.815	'1300050632': login on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	17:06:54.778	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	17:06:55.446	'1300050632': previous successful authorization performed from 197.159.150.225
+0	17:07:07.231	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13694.11 tp: 0.00 -> sl: 13707.52 tp: 0.00
+0	17:07:07.614	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13707.52 tp: 0.00
+0	17:07:20.782	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:07:21.444	'1300050632': order was opened : #6256222 sell 1.00 US100.cash at 13681.95 sl: 0.00 tp: 0.00
+0	17:08:12.131	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	17:08:12.131	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1691 / 8014 Mb, Disk: 50 / 197 Gb, GMT+3
+0	17:08:12.131	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	17:08:18.220	Custom indicator AIMS Entry Alert V1 US100.cash,M5: loaded successfully
+2	17:08:18.230	Custom indicator CandleTimer US100.cash,M5: loaded successfully
+2	17:08:18.337	Custom indicator #Signal_Bars_v6 US100.cash,M5: loaded successfully
+2	17:08:18.348	Custom indicator TrendEnvelopes_v1 US100.cash,M5: loaded successfully
+2	17:08:18.358	Custom indicator wedges US100.cash,M5: loaded successfully
+2	17:08:18.368	Custom indicator Admiral Pivot US100.cash,M5: loaded successfully
+2	17:08:18.378	Custom indicator AutoTrendChannel US100.cash,M5: loaded successfully
+2	17:08:18.388	Custom indicator FRZ Channel Auto Plotter US100.cash,M5: loaded successfully
+2	17:08:18.401	Custom indicator Forex Uranus direction US100.cash,M5: loaded successfully
+2	17:08:18.500	Custom indicator aVSA\aVSA clasters US100.cash,M5: loaded successfully
+2	17:08:18.519	Custom indicator aVSA\aVSA Golden Zone US100.cash,M5: loaded successfully
+2	17:08:18.530	Custom indicator breakout-zones\breakout-zones US100.cash,M5: loaded successfully
+2	17:08:18.540	Custom indicator breakout-zones\SL&TP Values US100.cash,M5: loaded successfully
+2	17:08:18.557	Custom indicator PositionSizeCalculator US100.cash,M5: loaded successfully
+2	17:08:18.569	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M5: loaded successfully
+2	17:08:18.660	Custom indicator AIMS AO V.2.1 US100.cash,M5: loaded successfully
+2	17:08:18.669	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M5: loaded successfully
+2	17:08:18.678	Custom indicator RSI Divergence Levels US100.cash,M5: loaded successfully
+2	17:08:18.686	Custom indicator RenkoMaker_Confirm US100.cash,M5: loaded successfully
+2	17:08:18.695	Custom indicator FRZ Forex Market Session Indicator US100.cash,M5: loaded successfully
+2	17:08:18.710	Expert Admiral - Mini Terminal US100.cash,M5: loaded successfully
+2	17:08:20.588	Custom indicator AIMS Entry Alert V1 US30.cash,H1: loaded successfully
+2	17:08:20.597	Custom indicator CandleTimer US30.cash,H1: loaded successfully
+2	17:08:20.706	Custom indicator #Signal_Bars_v6 US30.cash,H1: loaded successfully
+2	17:08:20.717	Custom indicator TrendEnvelopes_v1 US30.cash,H1: loaded successfully
+2	17:08:20.727	Custom indicator wedges US30.cash,H1: loaded successfully
+2	17:08:20.738	Custom indicator Admiral Pivot US30.cash,H1: loaded successfully
+2	17:08:20.748	Custom indicator AutoTrendChannel US30.cash,H1: loaded successfully
+2	17:08:20.758	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: loaded successfully
+2	17:08:20.769	Custom indicator Forex Uranus direction US30.cash,H1: loaded successfully
+2	17:08:20.883	Custom indicator aVSA\aVSA clasters US30.cash,H1: loaded successfully
+2	17:08:20.904	Custom indicator aVSA\aVSA Golden Zone US30.cash,H1: loaded successfully
+2	17:08:20.915	Custom indicator breakout-zones\breakout-zones US30.cash,H1: loaded successfully
+2	17:08:20.925	Custom indicator breakout-zones\SL&TP Values US30.cash,H1: loaded successfully
+2	17:08:20.945	Custom indicator PositionSizeCalculator US30.cash,H1: loaded successfully
+2	17:08:20.958	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: loaded successfully
+2	17:08:21.062	Custom indicator AIMS AO V.2.1 US30.cash,H1: loaded successfully
+2	17:08:21.072	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: loaded successfully
+2	17:08:21.082	Custom indicator RSI Divergence Levels US30.cash,H1: loaded successfully
+2	17:08:21.091	Custom indicator RenkoMaker_Confirm US30.cash,H1: loaded successfully
+2	17:08:21.101	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: loaded successfully
+0	17:08:23.285	'1300050632': login on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	17:08:25.903	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	17:08:26.534	'1300050632': previous successful authorization performed from 197.159.150.225
+0	17:09:06.035	'1300050632': modify order #6256222 sell 1.00 US100.cash at 13681.95 sl: 0.00 tp: 0.00 -> sl: 13709.06 tp: 0.00
+0	17:09:06.453	'1300050632': order #6256222 sell 1.00 US100.cash at 13681.95 was modified -> sl: 13709.06 tp: 0.00
+0	17:10:42.843	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13707.52 tp: 0.00 -> sl: 13705.69 tp: 0.00
+0	17:10:43.208	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13705.69 tp: 0.00
+0	17:10:46.659	'1300050632': modify order #6256222 sell 1.00 US100.cash at 13681.95 sl: 13709.06 tp: 0.00 -> sl: 13705.08 tp: 0.00
+0	17:10:47.059	'1300050632': order #6256222 sell 1.00 US100.cash at 13681.95 was modified -> sl: 13705.08 tp: 0.00
+0	17:10:56.441	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13705.69 tp: 0.00 -> sl: 13704.47 tp: 0.00
+0	17:10:56.817	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13704.47 tp: 0.00
+0	17:11:00.623	'1300050632': modify order #6256222 sell 1.00 US100.cash at 13681.95 sl: 13705.08 tp: 0.00 -> sl: 13704.47 tp: 0.00
+0	17:11:01.089	'1300050632': order #6256222 sell 1.00 US100.cash at 13681.95 was modified -> sl: 13704.47 tp: 0.00
+0	17:12:21.179	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13704.47 tp: 0.00 -> sl: 13700.64 tp: 0.00
+0	17:12:21.621	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13700.64 tp: 0.00
+0	17:12:28.282	'1300050632': modify order #6256222 sell 1.00 US100.cash at 13681.95 sl: 13704.47 tp: 0.00 -> sl: 13699.88 tp: 0.00
+0	17:12:28.738	'1300050632': order #6256222 sell 1.00 US100.cash at 13681.95 was modified -> sl: 13699.88 tp: 0.00
+0	17:12:34.675	'1300050632': modify order #6256222 sell 1.00 US100.cash at 13681.95 sl: 13699.88 tp: 0.00 -> sl: 13671.87 tp: 0.00
+0	17:12:35.130	'1300050632': order #6256222 sell 1.00 US100.cash at 13681.95 was modified -> sl: 13671.87 tp: 0.00
+0	17:12:57.148	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13700.64 tp: 0.00 -> sl: 13672.48 tp: 0.00
+0	17:12:57.488	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13672.48 tp: 0.00
+0	17:13:01.708	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13672.48 tp: 0.00 -> sl: 13670.04 tp: 0.00
+0	17:13:02.116	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13670.04 tp: 0.00
+0	17:13:28.338	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13670.04 tp: 0.00 -> sl: 13669.42 tp: 0.00
+0	17:13:28.725	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13669.42 tp: 0.00
+0	17:13:32.696	'1300050632': modify order #6255306 sell 1.00 US100.cash at 13672.20 sl: 13669.42 tp: 0.00 -> sl: 13669.88 tp: 0.00
+0	17:13:33.025	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 was modified -> sl: 13669.88 tp: 0.00
+0	17:13:34.655	'1300050632': order #6255306 sell 1.00 US100.cash at 13672.20 closed due stop-loss at price 13669.65
+0	17:13:49.114	'1300050632': order #6256222 sell 1.00 US100.cash at 13681.95 closed due stop-loss at price 13672.00
+0	17:15:44.086	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:15:44.634	'1300050632': order was opened : #6257726 sell 1.00 US100.cash at 13676.45 sl: 0.00 tp: 0.00
+0	17:15:51.103	'1300050632': modify order #6257726 sell 1.00 US100.cash at 13676.45 sl: 0.00 tp: 0.00 -> sl: 13713.19 tp: 0.00
+0	17:15:51.947	'1300050632': order #6257726 sell 1.00 US100.cash at 13676.45 was modified -> sl: 13713.19 tp: 0.00
+0	17:17:13.162	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:17:14.329	'1300050632': order was opened : #6258040 sell 1.00 US100.cash at 13685.60 sl: 0.00 tp: 0.00
+0	17:17:22.093	'1300050632': modify order #6258040 sell 1.00 US100.cash at 13685.60 sl: 0.00 tp: 0.00 -> sl: 13685.86 tp: 0.00
+0	17:17:22.444	'1300050632': order #6258040 sell 1.00 US100.cash at 13685.60 was modified -> sl: 13685.86 tp: 0.00
+0	17:17:24.345	'1300050632': modify order #6258040 sell 1.00 US100.cash at 13685.60 sl: 13685.86 tp: 0.00 -> sl: 13685.71 tp: 0.00
+0	17:17:24.734	'1300050632': order #6258040 sell 1.00 US100.cash at 13685.60 was modified -> sl: 13685.71 tp: 0.00
+0	17:17:26.349	'1300050632': order #6258040 sell 1.00 US100.cash at 13685.60 closed due stop-loss at price 13685.75
+0	17:17:29.547	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:17:30.270	'1300050632': order was opened : #6258074 sell 1.00 US100.cash at 13684.55 sl: 0.00 tp: 0.00
+0	17:17:35.088	'1300050632': modify order #6258074 sell 1.00 US100.cash at 13684.55 sl: 0.00 tp: 0.00 -> sl: 13688.11 tp: 0.00
+0	17:17:35.466	'1300050632': order #6258074 sell 1.00 US100.cash at 13684.55 was modified -> sl: 13688.11 tp: 0.00
+0	17:17:41.884	'1300050632': modify order #6258074 sell 1.00 US100.cash at 13684.55 sl: 13688.11 tp: 0.00 -> sl: 13684.35 tp: 0.00
+1	17:17:42.309	'1300050632': modification of order #6258074 sell 1.00 US100.cash at 13684.55 sl: 13688.11 tp: 0.00 -> sl: 13684.35 tp: 0.00 failed [Invalid S/L or T/P]
+0	17:17:51.005	'1300050632': modify order #6258074 sell 1.00 US100.cash at 13684.55 sl: 13688.11 tp: 0.00 -> sl: 13684.35 tp: 0.00
+0	17:17:51.353	'1300050632': order #6258074 sell 1.00 US100.cash at 13684.55 was modified -> sl: 13684.35 tp: 0.00
+0	17:17:53.518	'1300050632': order #6258074 sell 1.00 US100.cash at 13684.55 closed due stop-loss at price 13684.75
+0	17:17:58.672	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:17:59.210	'1300050632': order was opened : #6258132 sell 1.00 US100.cash at 13682.70 sl: 0.00 tp: 0.00
+0	17:18:07.394	'1300050632': modify order #6258132 sell 1.00 US100.cash at 13682.70 sl: 0.00 tp: 0.00 -> sl: 13688.26 tp: 0.00
+0	17:18:07.743	'1300050632': order #6258132 sell 1.00 US100.cash at 13682.70 was modified -> sl: 13688.26 tp: 0.00
+0	17:18:33.454	'1300050632': order #6258132 sell 1.00 US100.cash at 13682.70 closed due stop-loss at price 13688.25
+0	17:18:53.752	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:18:54.389	'1300050632': order was opened : #6258253 sell 1.00 US100.cash at 13685.20 sl: 0.00 tp: 0.00
+0	17:18:58.069	'1300050632': modify order #6258253 sell 1.00 US100.cash at 13685.20 sl: 0.00 tp: 0.00 -> sl: 13691.42 tp: 0.00
+0	17:18:58.403	'1300050632': order #6258253 sell 1.00 US100.cash at 13685.20 was modified -> sl: 13691.42 tp: 0.00
+0	17:19:10.859	'1300050632': modify order #6258253 sell 1.00 US100.cash at 13685.20 sl: 13691.42 tp: 0.00 -> sl: 13693.68 tp: 0.00
+0	17:19:11.206	'1300050632': order #6258253 sell 1.00 US100.cash at 13685.20 was modified -> sl: 13693.68 tp: 0.00
+0	17:19:17.834	'1300050632': modify order #6258253 sell 1.00 US100.cash at 13685.20 sl: 13693.68 tp: 0.00 -> sl: 13696.24 tp: 0.00
+0	17:19:18.189	'1300050632': order #6258253 sell 1.00 US100.cash at 13685.20 was modified -> sl: 13696.24 tp: 0.00
+0	17:19:55.231	'1300050632': modify order #6258253 sell 1.00 US100.cash at 13685.20 sl: 13696.24 tp: 0.00 -> sl: 13684.80 tp: 0.00
+0	17:19:55.606	'1300050632': order #6258253 sell 1.00 US100.cash at 13685.20 was modified -> sl: 13684.80 tp: 0.00
+0	17:19:57.135	'1300050632': order #6258253 sell 1.00 US100.cash at 13685.20 closed due stop-loss at price 13685.25
+0	17:20:14.357	'1300050632': order sell market 1.00 US100.cash sl: 0.00 tp: 0.00
+0	17:20:14.967	'1300050632': order was opened : #6258425 sell 1.00 US100.cash at 13680.45 sl: 0.00 tp: 0.00
+0	17:20:26.947	'1300050632': modify order #6258425 sell 1.00 US100.cash at 13680.45 sl: 0.00 tp: 0.00 -> sl: 13689.62 tp: 0.00
+0	17:20:27.334	'1300050632': order #6258425 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13689.62 tp: 0.00
+0	17:20:55.785	'1300050632': modify order #6258425 sell 1.00 US100.cash at 13680.45 sl: 13689.62 tp: 0.00 -> sl: 13693.23 tp: 0.00
+0	17:20:56.136	'1300050632': order #6258425 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13693.23 tp: 0.00
+0	17:21:31.078	'1300050632': modify order #6258425 sell 1.00 US100.cash at 13680.45 sl: 13693.23 tp: 0.00 -> sl: 13696.69 tp: 0.00
+0	17:21:31.445	'1300050632': order #6258425 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13696.69 tp: 0.00
+0	17:22:04.370	'1300050632': modify order #6258425 sell 1.00 US100.cash at 13680.45 sl: 13696.69 tp: 0.00 -> sl: 13707.67 tp: 0.00
+0	17:22:04.747	'1300050632': order #6258425 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13707.67 tp: 0.00
+0	17:22:48.635	'1300050632': modify order #6258425 sell 1.00 US100.cash at 13680.45 sl: 13707.67 tp: 0.00 -> sl: 13706.62 tp: 0.00
+0	17:22:48.967	'1300050632': order #6258425 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13706.62 tp: 0.00
+0	17:23:16.963	'1300050632': modify order #6257726 sell 1.00 US100.cash at 13676.45 sl: 13713.19 tp: 0.00 -> sl: 13708.58 tp: 0.00
+0	17:23:17.332	'1300050632': order #6257726 sell 1.00 US100.cash at 13676.45 was modified -> sl: 13708.58 tp: 0.00
+0	17:23:21.198	'1300050632': modify order #6258425 sell 1.00 US100.cash at 13680.45 sl: 13706.62 tp: 0.00 -> sl: 13708.88 tp: 0.00
+0	17:23:21.598	'1300050632': order #6258425 sell 1.00 US100.cash at 13680.45 was modified -> sl: 13708.88 tp: 0.00
+0	17:23:35.256	'1300050632': close order #6258425 sell 0.50 US100.cash at 13680.45 sl: 13708.88 tp: 0.00 at price 0.00
+0	17:23:35.846	'1300050632': order #6258425 sell 0.50 US100.cash at 13680.45 sl: 13708.88 tp: 0.00 closed at price 13702.25
+0	17:23:35.846	'1300050632': remainder of order #6258425 was opened : #6258878 sell 0.50 US100.cash at 13680.45 sl: 13708.88 tp: 0.00
+0	17:23:53.046	'1300050632': modify order #6258878 sell 0.50 US100.cash at 13680.45 sl: 13708.88 tp: 0.00 -> sl: 13710.53 tp: 0.00
+0	17:23:53.413	'1300050632': order #6258878 sell 0.50 US100.cash at 13680.45 was modified -> sl: 13710.53 tp: 0.00
+0	17:23:59.489	'1300050632': close order #6257726 sell 0.50 US100.cash at 13676.45 sl: 13708.58 tp: 0.00 at price 0.00
+0	17:24:00.088	'1300050632': order #6257726 sell 0.50 US100.cash at 13676.45 sl: 13708.58 tp: 0.00 closed at price 13702.75
+0	17:24:00.088	'1300050632': remainder of order #6257726 was opened : #6258928 sell 0.50 US100.cash at 13676.45 sl: 13708.58 tp: 0.00
+0	17:24:04.642	'1300050632': modify order #6258878 sell 0.50 US100.cash at 13680.45 sl: 13710.53 tp: 0.00 -> sl: 13711.74 tp: 0.00
+0	17:24:05.047	'1300050632': order #6258878 sell 0.50 US100.cash at 13680.45 was modified -> sl: 13711.74 tp: 0.00
+0	17:24:10.636	'1300050632': modify order #6258928 sell 0.50 US100.cash at 13676.45 sl: 13708.58 tp: 0.00 -> sl: 13712.64 tp: 0.00
+0	17:24:10.953	'1300050632': order #6258928 sell 0.50 US100.cash at 13676.45 was modified -> sl: 13712.64 tp: 0.00
+0	17:24:15.414	'1300050632': modify order #6258878 sell 0.50 US100.cash at 13680.45 sl: 13711.74 tp: 0.00 -> sl: 13713.84 tp: 0.00
+0	17:24:15.753	'1300050632': order #6258878 sell 0.50 US100.cash at 13680.45 was modified -> sl: 13713.84 tp: 0.00
+0	17:24:19.914	'1300050632': modify order #6258928 sell 0.50 US100.cash at 13676.45 sl: 13712.64 tp: 0.00 -> sl: 13712.94 tp: 0.00
+0	17:24:20.287	'1300050632': order #6258928 sell 0.50 US100.cash at 13676.45 was modified -> sl: 13712.94 tp: 0.00
+0	17:25:14.573	'1300050632': modify order #6258928 sell 0.50 US100.cash at 13676.45 sl: 13712.94 tp: 0.00 -> sl: 13714.90 tp: 0.00
+0	17:25:15.391	'1300050632': order #6258928 sell 0.50 US100.cash at 13676.45 was modified -> sl: 13714.90 tp: 0.00
+0	17:25:19.504	'1300050632': modify order #6258878 sell 0.50 US100.cash at 13680.45 sl: 13713.84 tp: 0.00 -> sl: 13714.60 tp: 0.00
+0	17:25:19.886	'1300050632': order #6258878 sell 0.50 US100.cash at 13680.45 was modified -> sl: 13714.60 tp: 0.00
+2	17:25:51.146	Expert Admiral - Mini Terminal US100.cash,M1: removed
+2	17:25:51.286	Custom indicator AIMS Entry Alert V1 US100.cash,M1: removed
+2	17:25:51.289	Custom indicator CandleTimer US100.cash,M1: removed
+2	17:25:51.289	Custom indicator #Signal_Bars_v6 US100.cash,M1: removed
+2	17:25:51.291	Custom indicator TrendEnvelopes_v1 US100.cash,M1: removed
+2	17:25:51.293	Custom indicator wedges US100.cash,M1: removed
+2	17:25:51.295	Custom indicator Admiral Pivot US100.cash,M1: removed
+2	17:25:51.297	Custom indicator AutoTrendChannel US100.cash,M1: removed
+2	17:25:51.298	Custom indicator FRZ Channel Auto Plotter US100.cash,M1: removed
+2	17:25:51.300	Custom indicator Forex Uranus direction US100.cash,M1: removed
+2	17:25:51.300	Custom indicator aVSA clasters US100.cash,M1: removed
+2	17:25:51.304	Custom indicator aVSA Golden Zone US100.cash,M1: removed
+2	17:25:51.306	Custom indicator breakout-zones US100.cash,M1: removed
+2	17:25:51.308	Custom indicator SL&TP Values US100.cash,M1: removed
+2	17:25:51.309	Custom indicator PositionSizeCalculator US100.cash,M1: removed
+2	17:25:51.312	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M1: removed
+2	17:25:51.312	Custom indicator AIMS AO V.2.1 US100.cash,M1: removed
+2	17:25:51.314	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M1: removed
+2	17:25:51.316	Custom indicator RSI Divergence Levels US100.cash,M1: removed
+2	17:25:51.318	Custom indicator RenkoMaker_Confirm US100.cash,M1: removed
+2	17:25:51.319	Custom indicator FRZ Forex Market Session Indicator US100.cash,M1: removed
+2	17:25:51.322	Custom indicator AIMS Entry Alert V1 US30.cash,H1: removed
+2	17:25:51.324	Custom indicator CandleTimer US30.cash,H1: removed
+2	17:25:51.324	Custom indicator #Signal_Bars_v6 US30.cash,H1: removed
+2	17:25:51.326	Custom indicator TrendEnvelopes_v1 US30.cash,H1: removed
+2	17:25:51.328	Custom indicator wedges US30.cash,H1: removed
+2	17:25:51.329	Custom indicator Admiral Pivot US30.cash,H1: removed
+2	17:25:51.331	Custom indicator AutoTrendChannel US30.cash,H1: removed
+2	17:25:51.333	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: removed
+2	17:25:51.334	Custom indicator Forex Uranus direction US30.cash,H1: removed
+2	17:25:51.335	Custom indicator aVSA clasters US30.cash,H1: removed
+2	17:25:51.338	Custom indicator aVSA Golden Zone US30.cash,H1: removed
+2	17:25:51.339	Custom indicator breakout-zones US30.cash,H1: removed
+2	17:25:51.341	Custom indicator SL&TP Values US30.cash,H1: removed
+2	17:25:51.386	Custom indicator PositionSizeCalculator US30.cash,H1: removed
+2	17:25:51.422	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: removed
+2	17:25:51.422	Custom indicator AIMS AO V.2.1 US30.cash,H1: removed
+2	17:25:51.424	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: removed
+2	17:25:51.426	Custom indicator RSI Divergence Levels US30.cash,H1: removed
+2	17:25:51.428	Custom indicator RenkoMaker_Confirm US30.cash,H1: removed
+2	17:25:51.429	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: removed
+0	17:25:51.864	Admiral Markets build 1335 stopped
+0	18:16:37.661	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	18:16:37.662	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 2012 / 8014 Mb, Disk: 52 / 197 Gb, GMT+3
+0	18:16:37.662	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	18:16:43.099	Custom indicator AIMS Entry Alert V1 US100.cash,M1: loaded successfully
+2	18:16:43.105	Custom indicator CandleTimer US100.cash,M1: loaded successfully
+2	18:16:43.173	Custom indicator #Signal_Bars_v6 US100.cash,M1: loaded successfully
+2	18:16:43.180	Custom indicator TrendEnvelopes_v1 US100.cash,M1: loaded successfully
+2	18:16:43.188	Custom indicator wedges US100.cash,M1: loaded successfully
+2	18:16:43.194	Custom indicator Admiral Pivot US100.cash,M1: loaded successfully
+2	18:16:43.201	Custom indicator AutoTrendChannel US100.cash,M1: loaded successfully
+2	18:16:43.210	Custom indicator FRZ Channel Auto Plotter US100.cash,M1: loaded successfully
+2	18:16:43.217	Custom indicator Forex Uranus direction US100.cash,M1: loaded successfully
+2	18:16:43.282	Custom indicator aVSA\aVSA clasters US100.cash,M1: loaded successfully
+2	18:16:43.295	Custom indicator aVSA\aVSA Golden Zone US100.cash,M1: loaded successfully
+2	18:16:43.302	Custom indicator breakout-zones\breakout-zones US100.cash,M1: loaded successfully
+2	18:16:43.310	Custom indicator breakout-zones\SL&TP Values US100.cash,M1: loaded successfully
+2	18:16:43.325	Custom indicator PositionSizeCalculator US100.cash,M1: loaded successfully
+2	18:16:43.335	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M1: loaded successfully
+2	18:16:43.404	Custom indicator AIMS AO V.2.1 US100.cash,M1: loaded successfully
+2	18:16:43.411	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M1: loaded successfully
+2	18:16:43.419	Custom indicator RSI Divergence Levels US100.cash,M1: loaded successfully
+2	18:16:43.425	Custom indicator RenkoMaker_Confirm US100.cash,M1: loaded successfully
+2	18:16:43.432	Custom indicator FRZ Forex Market Session Indicator US100.cash,M1: loaded successfully
+2	18:16:43.443	Expert Admiral - Mini Terminal US100.cash,M1: loaded successfully
+2	18:16:47.702	Custom indicator AIMS Entry Alert V1 US30.cash,H1: loaded successfully
+2	18:16:47.708	Custom indicator CandleTimer US30.cash,H1: loaded successfully
+2	18:16:47.778	Custom indicator #Signal_Bars_v6 US30.cash,H1: loaded successfully
+2	18:16:47.785	Custom indicator TrendEnvelopes_v1 US30.cash,H1: loaded successfully
+2	18:16:47.792	Custom indicator wedges US30.cash,H1: loaded successfully
+2	18:16:47.799	Custom indicator Admiral Pivot US30.cash,H1: loaded successfully
+2	18:16:47.805	Custom indicator AutoTrendChannel US30.cash,H1: loaded successfully
+2	18:16:47.812	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: loaded successfully
+2	18:16:47.819	Custom indicator Forex Uranus direction US30.cash,H1: loaded successfully
+2	18:16:47.884	Custom indicator aVSA\aVSA clasters US30.cash,H1: loaded successfully
+2	18:16:47.897	Custom indicator aVSA\aVSA Golden Zone US30.cash,H1: loaded successfully
+2	18:16:47.904	Custom indicator breakout-zones\breakout-zones US30.cash,H1: loaded successfully
+2	18:16:47.910	Custom indicator breakout-zones\SL&TP Values US30.cash,H1: loaded successfully
+2	18:16:47.922	Custom indicator PositionSizeCalculator US30.cash,H1: loaded successfully
+2	18:16:47.930	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: loaded successfully
+2	18:16:47.993	Custom indicator AIMS AO V.2.1 US30.cash,H1: loaded successfully
+2	18:16:48.000	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: loaded successfully
+2	18:16:48.007	Custom indicator RSI Divergence Levels US30.cash,H1: loaded successfully
+2	18:16:48.012	Custom indicator RenkoMaker_Confirm US30.cash,H1: loaded successfully
+2	18:16:48.019	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: loaded successfully
+0	18:16:49.724	'1300050632': login on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	18:16:52.671	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 232.42 ms)
+0	18:16:53.311	'1300050632': previous successful authorization performed from 197.159.150.225
+0	18:17:03.508	'1300050632': auto connecting to a better access point DC 4 (ping is 216.43 ms)
+0	18:17:04.337	'1300050632': login on FTMO-Server2 through DC 4 (ping: 216.43 ms)
+0	18:17:06.558	'1300050632': login datacenter on FTMO-Server2 through DC 4 (ping: 216.43 ms)
+0	18:17:07.156	'1300050632': previous successful authorization performed from 197.159.150.225
+0	18:17:31.886	'1300050632': close order #6225321 sell 0.38 GBPAUD at 1.82894 sl: 1.83250 tp: 0.00000 at price 0.00000
+0	18:17:32.479	'1300050632': order #6225321 sell 0.38 GBPAUD at 1.82894 sl: 1.83250 tp: 0.00000 closed at price 1.82828
+0	18:18:02.987	'6305310': login on VantageFXInternational-Live 7 through DC1-LD (ping: 282.68 ms)
+0	18:18:05.830	'6305310': login datacenter on VantageFXInternational-Live 7 through DC1-LD (ping: 282.68 ms)
+0	18:18:06.600	'6305310': previous successful authorization performed from 10.30.0.91
+2	18:18:29.764	Custom indicator AIMS Entry Alert V1 NAS100,H1: loaded successfully
+2	18:18:29.770	Custom indicator CandleTimer NAS100,H1: loaded successfully
+2	18:18:29.836	Custom indicator #Signal_Bars_v6 NAS100,H1: loaded successfully
+2	18:18:29.843	Custom indicator TrendEnvelopes_v1 NAS100,H1: loaded successfully
+2	18:18:29.850	Custom indicator wedges NAS100,H1: loaded successfully
+2	18:18:29.857	Custom indicator Admiral Pivot NAS100,H1: loaded successfully
+2	18:18:29.864	Custom indicator AutoTrendChannel NAS100,H1: loaded successfully
+2	18:18:29.870	Custom indicator FRZ Channel Auto Plotter NAS100,H1: loaded successfully
+2	18:18:29.877	Custom indicator Forex Uranus direction NAS100,H1: loaded successfully
+2	18:18:29.941	Custom indicator aVSA\aVSA clasters NAS100,H1: loaded successfully
+2	18:18:29.955	Custom indicator aVSA\aVSA Golden Zone NAS100,H1: loaded successfully
+2	18:18:29.962	Custom indicator breakout-zones\breakout-zones NAS100,H1: loaded successfully
+2	18:18:29.969	Custom indicator breakout-zones\SL&TP Values NAS100,H1: loaded successfully
+2	18:18:29.982	Custom indicator PositionSizeCalculator NAS100,H1: loaded successfully
+2	18:18:29.990	Custom indicator DaVinci Truly News Indicator 2.3.95 NAS100,H1: loaded successfully
+2	18:18:30.053	Custom indicator AIMS AO V.2.1 NAS100,H1: loaded successfully
+2	18:18:30.060	Custom indicator IVT_MACD_ZERO_LAG NAS100,H1: loaded successfully
+2	18:18:30.067	Custom indicator RSI Divergence Levels NAS100,H1: loaded successfully
+2	18:18:30.073	Custom indicator RenkoMaker_Confirm NAS100,H1: loaded successfully
+2	18:18:30.080	Custom indicator FRZ Forex Market Session Indicator NAS100,H1: loaded successfully
+0	18:19:53.355	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	18:19:53.356	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1470 / 8014 Mb, Disk: 52 / 197 Gb, GMT+3
+0	18:19:53.356	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	18:19:58.588	Custom indicator AIMS Entry Alert V1 US100.cash,M1: loaded successfully
+2	18:19:58.594	Custom indicator CandleTimer US100.cash,M1: loaded successfully
+2	18:19:58.668	Custom indicator #Signal_Bars_v6 US100.cash,M1: loaded successfully
+2	18:19:58.676	Custom indicator TrendEnvelopes_v1 US100.cash,M1: loaded successfully
+2	18:19:58.684	Custom indicator wedges US100.cash,M1: loaded successfully
+2	18:19:58.692	Custom indicator Admiral Pivot US100.cash,M1: loaded successfully
+2	18:19:58.699	Custom indicator AutoTrendChannel US100.cash,M1: loaded successfully
+2	18:19:58.707	Custom indicator FRZ Channel Auto Plotter US100.cash,M1: loaded successfully
+2	18:19:58.714	Custom indicator Forex Uranus direction US100.cash,M1: loaded successfully
+2	18:19:58.788	Custom indicator aVSA\aVSA clasters US100.cash,M1: loaded successfully
+2	18:19:58.803	Custom indicator aVSA\aVSA Golden Zone US100.cash,M1: loaded successfully
+2	18:19:58.811	Custom indicator breakout-zones\breakout-zones US100.cash,M1: loaded successfully
+2	18:19:58.819	Custom indicator breakout-zones\SL&TP Values US100.cash,M1: loaded successfully
+2	18:19:58.833	Custom indicator PositionSizeCalculator US100.cash,M1: loaded successfully
+2	18:19:58.842	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M1: loaded successfully
+2	18:19:58.914	Custom indicator AIMS AO V.2.1 US100.cash,M1: loaded successfully
+2	18:19:58.921	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M1: loaded successfully
+2	18:19:58.929	Custom indicator RSI Divergence Levels US100.cash,M1: loaded successfully
+2	18:19:58.935	Custom indicator RenkoMaker_Confirm US100.cash,M1: loaded successfully
+2	18:19:58.942	Custom indicator FRZ Forex Market Session Indicator US100.cash,M1: loaded successfully
+2	18:19:58.954	Expert Admiral - Mini Terminal US100.cash,M1: loaded successfully
+2	18:19:59.345	Custom indicator AIMS Entry Alert V1 US30.cash,H1: loaded successfully
+2	18:19:59.351	Custom indicator CandleTimer US30.cash,H1: loaded successfully
+2	18:19:59.422	Custom indicator #Signal_Bars_v6 US30.cash,H1: loaded successfully
+2	18:19:59.430	Custom indicator TrendEnvelopes_v1 US30.cash,H1: loaded successfully
+2	18:19:59.437	Custom indicator wedges US30.cash,H1: loaded successfully
+2	18:19:59.445	Custom indicator Admiral Pivot US30.cash,H1: loaded successfully
+2	18:19:59.452	Custom indicator AutoTrendChannel US30.cash,H1: loaded successfully
+2	18:19:59.459	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: loaded successfully
+2	18:19:59.467	Custom indicator Forex Uranus direction US30.cash,H1: loaded successfully
+2	18:19:59.539	Custom indicator aVSA\aVSA clasters US30.cash,H1: loaded successfully
+2	18:19:59.553	Custom indicator aVSA\aVSA Golden Zone US30.cash,H1: loaded successfully
+2	18:19:59.587	Custom indicator breakout-zones\breakout-zones US30.cash,H1: loaded successfully
+2	18:19:59.595	Custom indicator breakout-zones\SL&TP Values US30.cash,H1: loaded successfully
+2	18:19:59.608	Custom indicator PositionSizeCalculator US30.cash,H1: loaded successfully
+2	18:19:59.617	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: loaded successfully
+2	18:19:59.689	Custom indicator AIMS AO V.2.1 US30.cash,H1: loaded successfully
+2	18:19:59.696	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: loaded successfully
+2	18:19:59.703	Custom indicator RSI Divergence Levels US30.cash,H1: loaded successfully
+2	18:19:59.709	Custom indicator RenkoMaker_Confirm US30.cash,H1: loaded successfully
+2	18:19:59.716	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: loaded successfully
+2	18:20:00.116	Custom indicator AIMS Entry Alert V1 NAS100,H1: loaded successfully
+2	18:20:00.122	Custom indicator CandleTimer NAS100,H1: loaded successfully
+2	18:20:00.193	Custom indicator #Signal_Bars_v6 NAS100,H1: loaded successfully
+2	18:20:00.201	Custom indicator TrendEnvelopes_v1 NAS100,H1: loaded successfully
+2	18:20:00.208	Custom indicator wedges NAS100,H1: loaded successfully
+2	18:20:00.215	Custom indicator Admiral Pivot NAS100,H1: loaded successfully
+2	18:20:00.222	Custom indicator AutoTrendChannel NAS100,H1: loaded successfully
+2	18:20:00.229	Custom indicator FRZ Channel Auto Plotter NAS100,H1: loaded successfully
+2	18:20:00.237	Custom indicator Forex Uranus direction NAS100,H1: loaded successfully
+2	18:20:00.308	Custom indicator aVSA\aVSA clasters NAS100,H1: loaded successfully
+2	18:20:00.322	Custom indicator aVSA\aVSA Golden Zone NAS100,H1: loaded successfully
+2	18:20:00.330	Custom indicator breakout-zones\breakout-zones NAS100,H1: loaded successfully
+2	18:20:00.337	Custom indicator breakout-zones\SL&TP Values NAS100,H1: loaded successfully
+2	18:20:00.350	Custom indicator PositionSizeCalculator NAS100,H1: loaded successfully
+2	18:20:00.359	Custom indicator DaVinci Truly News Indicator 2.3.95 NAS100,H1: loaded successfully
+2	18:20:00.429	Custom indicator AIMS AO V.2.1 NAS100,H1: loaded successfully
+2	18:20:00.437	Custom indicator IVT_MACD_ZERO_LAG NAS100,H1: loaded successfully
+2	18:20:00.444	Custom indicator RSI Divergence Levels NAS100,H1: loaded successfully
+2	18:20:00.451	Custom indicator RenkoMaker_Confirm NAS100,H1: loaded successfully
+2	18:20:00.457	Custom indicator FRZ Forex Market Session Indicator NAS100,H1: loaded successfully
+0	18:20:02.339	'6305310': login on VantageFXInternational-Live 7 through DC1-LD (ping: 295.66 ms)
+0	18:20:05.268	'6305310': login datacenter on VantageFXInternational-Live 7 through DC1-LD (ping: 295.66 ms)
+0	18:20:06.063	'6305310': previous successful authorization performed from 197.159.150.225
+0	18:20:46.165	'6305310': order sell market 7.00 NAS100 sl: 0.00 tp: 0.00
+0	18:20:47.140	'6305310': order was opened : #638166 sell 7.00 NAS100 at 13686.20 sl: 0.00 tp: 0.00
+0	18:21:14.892	'6305310': modify order #638166 sell 7.00 NAS100 at 13686.20 sl: 0.00 tp: 0.00 -> sl: 13700.56 tp: 0.00
+0	18:21:15.341	'6305310': order #638166 sell 7.00 NAS100 at 13686.20 was modified -> sl: 13700.56 tp: 0.00
+1	18:21:18.102	'6305310': modification of order #638166 sell 7.00 NAS100 at 13686.20 sl: 13700.56 tp: 0.00 -> sl: 13685.92 tp: 0.00 failed [Invalid S/L or T/P]
+1	18:21:22.839	'6305310': modification of order #638166 sell 7.00 NAS100 at 13686.20 sl: 13700.56 tp: 0.00 -> sl: 13685.92 tp: 0.00 failed [Invalid S/L or T/P]
+1	18:21:35.379	'6305310': modification of order #638166 sell 7.00 NAS100 at 13686.20 sl: 13700.56 tp: 0.00 -> sl: 13685.77 tp: 0.00 failed [Invalid S/L or T/P]
+0	18:21:39.437	'6305310': close order #638166 sell 7.00 NAS100 at 13686.20 sl: 13700.56 tp: 0.00 at price 0.00
+0	18:21:40.364	'6305310': order #638166 sell 7.00 NAS100 at 13686.20 sl: 13700.56 tp: 0.00 closed at price 13685.75
+0	18:21:45.341	'6305310': order sell market 7.00 NAS100 sl: 0.00 tp: 0.00
+0	18:21:46.287	'6305310': order was opened : #638256 sell 7.00 NAS100 at 13682.45 sl: 0.00 tp: 0.00
+0	18:21:58.912	'6305310': modify order #638256 sell 7.00 NAS100 at 13682.45 sl: 0.00 tp: 0.00 -> sl: 13698.43 tp: 0.00
+0	18:21:59.328	'6305310': order #638256 sell 7.00 NAS100 at 13682.45 was modified -> sl: 13698.43 tp: 0.00
+0	18:22:13.049	'6305310': modify order #638256 sell 7.00 NAS100 at 13682.45 sl: 13698.43 tp: 0.00 -> sl: 13702.09 tp: 0.00
+0	18:22:13.489	'6305310': order #638256 sell 7.00 NAS100 at 13682.45 was modified -> sl: 13702.09 tp: 0.00
+0	18:22:31.596	'6305310': modify order #638256 sell 7.00 NAS100 at 13682.45 sl: 13702.09 tp: 0.00 -> sl: 13701.79 tp: 0.00
+0	18:22:32.052	'6305310': order #638256 sell 7.00 NAS100 at 13682.45 was modified -> sl: 13701.79 tp: 0.00
+2	18:22:55.121	Expert Admiral - Mini Terminal NAS100,M1: loaded successfully
+0	18:23:28.182	'6305310': close order #638256 sell 3.50 NAS100 at 13682.45 sl: 13701.79 tp: 0.00 at price 0.00
+0	18:23:29.164	'6305310': order #638256 sell 3.50 NAS100 at 13682.45 sl: 13701.79 tp: 0.00 closed at price 13693.75
+0	18:23:29.164	'6305310': remainder of order #638256 was opened : #638395 sell 3.50 NAS100 at 13682.45 sl: 13701.79 tp: 0.00
+0	18:23:54.053	'6305310': modify order #638395 sell 3.50 NAS100 at 13682.45 sl: 13701.79 tp: 0.00 -> sl: 13716.58 tp: 0.00
+0	18:23:54.425	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 was modified -> sl: 13716.58 tp: 0.00
+0	18:24:53.437	'6305310': modify order #638395 sell 3.50 NAS100 at 13682.45 sl: 13716.58 tp: 0.00 -> sl: 13716.58 tp: 13470.00
+0	18:24:53.885	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 was modified -> sl: 13716.58 tp: 13470.00
+0	18:25:47.068	'6305310': modify order #638395 sell 3.50 NAS100 at 13682.45 sl: 13716.58 tp: 13470.00 -> sl: 13777.67 tp: 13470.00
+0	18:25:47.443	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 was modified -> sl: 13777.67 tp: 13470.00
+1	19:08:59.943	'6305310': modification of order #638395 sell 3.50 NAS100 at 13682.45 sl: 13777.67 tp: 13470.00 -> sl: 13683.09 tp: 13470.00 failed [Invalid S/L or T/P]
+2	19:10:39.634	Custom indicator AIMS Entry Alert V1 DJ30,H1: loaded successfully
+2	19:10:39.642	Custom indicator CandleTimer DJ30,H1: loaded successfully
+2	19:10:39.707	Custom indicator #Signal_Bars_v6 DJ30,H1: loaded successfully
+2	19:10:39.715	Custom indicator TrendEnvelopes_v1 DJ30,H1: loaded successfully
+2	19:10:39.723	Custom indicator wedges DJ30,H1: loaded successfully
+2	19:10:39.730	Custom indicator Admiral Pivot DJ30,H1: loaded successfully
+2	19:10:39.737	Custom indicator AutoTrendChannel DJ30,H1: loaded successfully
+2	19:10:39.744	Custom indicator FRZ Channel Auto Plotter DJ30,H1: loaded successfully
+2	19:10:39.752	Custom indicator Forex Uranus direction DJ30,H1: loaded successfully
+2	19:10:39.823	Custom indicator aVSA\aVSA clasters DJ30,H1: loaded successfully
+2	19:10:39.838	Custom indicator aVSA\aVSA Golden Zone DJ30,H1: loaded successfully
+2	19:10:39.845	Custom indicator breakout-zones\breakout-zones DJ30,H1: loaded successfully
+2	19:10:39.852	Custom indicator breakout-zones\SL&TP Values DJ30,H1: loaded successfully
+2	19:10:39.867	Custom indicator PositionSizeCalculator DJ30,H1: loaded successfully
+2	19:10:39.876	Custom indicator DaVinci Truly News Indicator 2.3.95 DJ30,H1: loaded successfully
+2	19:10:39.942	Custom indicator AIMS AO V.2.1 DJ30,H1: loaded successfully
+2	19:10:39.950	Custom indicator IVT_MACD_ZERO_LAG DJ30,H1: loaded successfully
+2	19:10:39.958	Custom indicator RSI Divergence Levels DJ30,H1: loaded successfully
+2	19:10:39.964	Custom indicator RenkoMaker_Confirm DJ30,H1: loaded successfully
+2	19:10:39.971	Custom indicator FRZ Forex Market Session Indicator DJ30,H1: loaded successfully
+0	19:11:24.094	'6305310': order sell market 1.00 DJ30 sl: 0.00 tp: 0.00
+0	19:11:25.076	'6305310': order was opened : #641589 sell 1.00 DJ30 at 34647.45 sl: 0.00 tp: 0.00
+0	19:11:32.643	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 0.00 tp: 0.00 -> sl: 34663.81 tp: 0.00
+0	19:11:33.115	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34663.81 tp: 0.00
+0	19:12:21.050	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34663.81 tp: 0.00 -> sl: 34663.81 tp: 34548.08
+0	19:12:21.424	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34663.81 tp: 34548.08
+0	19:13:04.042	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34663.81 tp: 34548.08 -> sl: 34659.61 tp: 34548.08
+0	19:13:04.468	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34659.61 tp: 34548.08
+0	19:13:10.035	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34659.61 tp: 34548.08 -> sl: 34659.61 tp: 34547.38
+0	19:13:10.472	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34659.61 tp: 34547.38
+0	19:14:12.648	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34659.61 tp: 34547.38 -> sl: 34668.35 tp: 34547.38
+0	19:14:13.175	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34668.35 tp: 34547.38
+0	19:14:20.936	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34668.35 tp: 34547.38 -> sl: 34670.45 tp: 34547.38
+0	19:14:21.336	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34670.45 tp: 34547.38
+0	19:23:37.245	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34670.45 tp: 34547.38 -> sl: 34647.38 tp: 34547.38
+0	19:23:37.739	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34647.38 tp: 34547.38
+0	19:23:42.467	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34647.38 tp: 34547.38 -> sl: 34645.63 tp: 34547.38
+0	19:23:42.851	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34645.63 tp: 34547.38
+1	19:34:34.321	'6305310': modification of order #641589 sell 1.00 DJ30 at 34647.45 sl: 34645.63 tp: 34547.38 -> sl: 34620.80 tp: 34547.38 failed [Invalid S/L or T/P]
+0	19:34:39.679	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34645.63 tp: 34547.38 -> sl: 34639.33 tp: 34547.38
+0	19:34:40.181	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34639.33 tp: 34547.38
+0	19:34:42.622	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34639.33 tp: 34547.38 -> sl: 34633.74 tp: 34547.38
+0	19:34:43.122	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34633.74 tp: 34547.38
+0	19:34:44.935	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34633.74 tp: 34547.38 -> sl: 34630.24 tp: 34547.38
+0	19:34:45.362	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34630.24 tp: 34547.38
+0	19:34:47.772	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34630.24 tp: 34547.38 -> sl: 34627.45 tp: 34547.38
+0	19:34:48.318	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34627.45 tp: 34547.38
+0	19:34:50.854	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34627.45 tp: 34547.38 -> sl: 34625.00 tp: 34547.38
+0	19:34:51.311	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34625.00 tp: 34547.38
+0	19:34:53.804	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34625.00 tp: 34547.38 -> sl: 34622.90 tp: 34547.38
+0	19:34:54.386	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34622.90 tp: 34547.38
+0	19:34:56.932	'6305310': modify order #641589 sell 1.00 DJ30 at 34647.45 sl: 34622.90 tp: 34547.38 -> sl: 34620.80 tp: 34547.38
+0	19:34:57.358	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 was modified -> sl: 34620.80 tp: 34547.38
+1	19:35:06.636	'6305310': modification of order #641589 sell 1.00 DJ30 at 34647.45 sl: 34620.80 tp: 34547.38 -> sl: 34619.40 tp: 34547.38 failed [Invalid S/L or T/P]
+0	19:35:52.793	'6305310': modify order #638395 sell 3.50 NAS100 at 13682.45 sl: 13777.67 tp: 13470.00 -> sl: 13676.96 tp: 13470.00
+0	19:35:53.297	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 was modified -> sl: 13676.96 tp: 13470.00
+0	19:36:00.858	'6305310': modify order #638395 sell 3.50 NAS100 at 13682.45 sl: 13676.96 tp: 13470.00 -> sl: 13673.90 tp: 13470.00
+0	19:36:01.366	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 was modified -> sl: 13673.90 tp: 13470.00
+0	19:36:13.062	'6305310': modify order #638395 sell 3.50 NAS100 at 13682.45 sl: 13673.90 tp: 13470.00 -> sl: 13670.25 tp: 13470.00
+0	19:36:13.572	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 was modified -> sl: 13670.25 tp: 13470.00
+0	19:37:02.350	'6305310': order #638395 sell 3.50 NAS100 at 13682.45 closed due stop-loss at price 13670.25
+2	19:37:17.680	Expert Admiral - Mini Terminal NAS100,M5: removed
+0	19:39:27.431	'6305310': order sell market 7.00 NAS100 sl: 0.00 tp: 0.00
+0	19:39:28.440	'6305310': order was opened : #643014 sell 7.00 NAS100 at 13664.70 sl: 0.00 tp: 0.00
+1	19:39:34.320	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 0.00 tp: 0.00 -> sl: 13671.93 tp: 0.00 failed [Invalid S/L or T/P]
+0	19:39:39.650	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 0.00 tp: 0.00 -> sl: 13679.90 tp: 0.00
+0	19:39:40.066	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13679.90 tp: 0.00
+1	19:40:29.899	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 13679.90 tp: 0.00 -> sl: 13671.79 tp: 0.00 failed [Invalid S/L or T/P]
+0	19:40:35.370	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13679.90 tp: 0.00 -> sl: 13673.89 tp: 0.00
+0	19:40:35.780	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13673.89 tp: 0.00
+1	19:40:39.126	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 13673.89 tp: 0.00 -> sl: 13673.05 tp: 0.00 failed [Invalid S/L or T/P]
+0	19:41:17.993	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13673.89 tp: 0.00 -> sl: 13705.20 tp: 0.00
+0	19:41:18.466	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13705.20 tp: 0.00
+0	19:41:25.639	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13705.20 tp: 0.00 -> sl: 13714.85 tp: 0.00
+0	19:41:26.104	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13714.85 tp: 0.00
+0	19:45:36.888	'6305310': order #641589 sell 1.00 DJ30 at 34647.45 closed due stop-loss at price 34621.55
+0	20:21:44.982	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13714.85 tp: 0.00 -> sl: 13665.06 tp: 0.00
+0	20:21:45.447	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13665.06 tp: 0.00
+0	20:21:48.655	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13665.06 tp: 0.00 -> sl: 13653.46 tp: 0.00
+0	20:21:49.087	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13653.46 tp: 0.00
+1	20:21:53.950	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 13653.46 tp: 0.00 -> sl: 13652.30 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:22:11.633	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13653.46 tp: 0.00 -> sl: 13651.92 tp: 0.00
+0	20:22:12.156	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13651.92 tp: 0.00
+1	20:22:16.262	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 13651.92 tp: 0.00 -> sl: 13649.40 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:22:24.701	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13651.92 tp: 0.00 -> sl: 13646.94 tp: 0.00
+0	20:22:25.297	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13646.94 tp: 0.00
+0	20:22:29.614	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13646.94 tp: 0.00 -> sl: 13644.46 tp: 0.00
+0	20:22:30.142	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13644.46 tp: 0.00
+0	20:22:35.567	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13644.46 tp: 0.00 -> sl: 13642.07 tp: 0.00
+0	20:22:36.057	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13642.07 tp: 0.00
+0	20:22:40.756	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13642.07 tp: 0.00 -> sl: 13639.90 tp: 0.00
+1	20:22:41.199	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 13642.07 tp: 0.00 -> sl: 13639.90 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:22:49.585	'6305310': modify order #643014 sell 7.00 NAS100 at 13664.70 sl: 13642.07 tp: 0.00 -> sl: 13639.86 tp: 0.00
+0	20:22:50.043	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 was modified -> sl: 13639.86 tp: 0.00
+1	20:22:54.459	'6305310': modification of order #643014 sell 7.00 NAS100 at 13664.70 sl: 13639.86 tp: 0.00 -> sl: 13638.64 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:23:00.720	'6305310': order #643014 sell 7.00 NAS100 at 13664.70 closed due stop-loss at price 13639.90
+0	20:24:14.600	'6305310': order sell market 7.00 NAS100 sl: 0.00 tp: 0.00
+0	20:24:15.603	'6305310': order was opened : #644666 sell 7.00 NAS100 at 13628.20 sl: 0.00 tp: 0.00
+0	20:24:24.506	'6305310': modify order #644666 sell 7.00 NAS100 at 13628.20 sl: 0.00 tp: 0.00 -> sl: 13637.71 tp: 0.00
+0	20:24:24.911	'6305310': order #644666 sell 7.00 NAS100 at 13628.20 was modified -> sl: 13637.71 tp: 0.00
+1	20:24:40.639	'6305310': modification of order #644666 sell 7.00 NAS100 at 13628.20 sl: 13637.71 tp: 0.00 -> sl: 13627.75 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:24:48.279	'6305310': modification of order #644666 sell 7.00 NAS100 at 13628.20 sl: 13637.71 tp: 0.00 -> sl: 13633.11 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:25:10.943	'6305310': modify order #644666 sell 7.00 NAS100 at 13628.20 sl: 13637.71 tp: 0.00 -> sl: 13642.94 tp: 0.00
+0	20:25:11.375	'6305310': order #644666 sell 7.00 NAS100 at 13628.20 was modified -> sl: 13642.94 tp: 0.00
+0	20:25:22.142	'6305310': modify order #644666 sell 7.00 NAS100 at 13628.20 sl: 13642.94 tp: 0.00 -> sl: 13641.96 tp: 0.00
+0	20:25:22.538	'6305310': order #644666 sell 7.00 NAS100 at 13628.20 was modified -> sl: 13641.96 tp: 0.00
+2	20:25:52.729	Expert Admiral - Mini Terminal NAS100,M5: loaded successfully
+0	20:26:23.464	'6305310': close order #644666 sell 3.50 NAS100 at 13628.20 sl: 13641.96 tp: 0.00 at price 0.00
+0	20:26:24.429	'6305310': order #644666 sell 3.50 NAS100 at 13628.20 sl: 13641.96 tp: 0.00 closed at price 13632.75
+0	20:26:24.429	'6305310': remainder of order #644666 was opened : #644745 sell 3.50 NAS100 at 13628.20 sl: 13641.96 tp: 0.00
+1	20:29:01.303	'6305310': modification of order #644745 sell 3.50 NAS100 at 13628.20 sl: 13641.96 tp: 0.00 -> sl: 13637.20 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:29:12.008	'6305310': modify order #644745 sell 3.50 NAS100 at 13628.20 sl: 13641.96 tp: 0.00 -> sl: 13639.75 tp: 0.00
+0	20:29:12.477	'6305310': order #644745 sell 3.50 NAS100 at 13628.20 was modified -> sl: 13639.75 tp: 0.00
+0	20:29:19.822	'6305310': modify order #644745 sell 3.50 NAS100 at 13628.20 sl: 13639.75 tp: 0.00 -> sl: 13638.22 tp: 0.00
+0	20:29:20.307	'6305310': order #644745 sell 3.50 NAS100 at 13628.20 was modified -> sl: 13638.22 tp: 0.00
+0	20:29:23.085	'6305310': modify order #644745 sell 3.50 NAS100 at 13628.20 sl: 13638.22 tp: 0.00 -> sl: 13637.20 tp: 0.00
+1	20:29:23.554	'6305310': modification of order #644745 sell 3.50 NAS100 at 13628.20 sl: 13638.22 tp: 0.00 -> sl: 13637.20 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:30:27.208	'6305310': order #644745 sell 3.50 NAS100 at 13628.20 closed due stop-loss at price 13638.50
+0	20:31:04.847	'6305310': order sell market 7.00 NAS100 sl: 0.00 tp: 0.00
+0	20:31:05.809	'6305310': order was opened : #645009 sell 7.00 NAS100 at 13637.95 sl: 0.00 tp: 0.00
+0	20:31:40.896	'6305310': modify order #645009 sell 7.00 NAS100 at 13637.95 sl: 0.00 tp: 0.00 -> sl: 13659.48 tp: 0.00
+0	20:31:41.400	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 was modified -> sl: 13659.48 tp: 0.00
+1	20:34:02.041	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13659.48 tp: 0.00 -> sl: 13648.76 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:34:08.747	'6305310': modify order #645009 sell 7.00 NAS100 at 13637.95 sl: 13659.48 tp: 0.00 -> sl: 13650.63 tp: 0.00
+0	20:34:09.130	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 was modified -> sl: 13650.63 tp: 0.00
+0	20:46:21.227	'6305310': modify order #645009 sell 7.00 NAS100 at 13637.95 sl: 13650.63 tp: 0.00 -> sl: 13628.07 tp: 0.00
+0	20:46:21.721	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 was modified -> sl: 13628.07 tp: 0.00
+1	20:46:34.327	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13628.07 tp: 0.00 -> sl: 13625.58 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:46:39.078	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13628.07 tp: 0.00 -> sl: 13626.47 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:46:43.198	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13628.07 tp: 0.00 -> sl: 13626.82 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:46:47.127	'6305310': modify order #645009 sell 7.00 NAS100 at 13637.95 sl: 13628.07 tp: 0.00 -> sl: 13627.00 tp: 0.00
+0	20:46:47.579	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 was modified -> sl: 13627.00 tp: 0.00
+0	20:47:24.799	'6305310': modify order #645009 sell 7.00 NAS100 at 13637.95 sl: 13627.00 tp: 0.00 -> sl: 13623.81 tp: 0.00
+0	20:47:25.223	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 was modified -> sl: 13623.81 tp: 0.00
+1	20:48:13.115	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13623.81 tp: 0.00 -> sl: 13620.30 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:48:16.523	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13623.81 tp: 0.00 -> sl: 13621.61 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:48:20.136	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13623.81 tp: 0.00 -> sl: 13622.55 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:48:23.063	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13623.81 tp: 0.00 -> sl: 13623.11 tp: 0.00 failed [Invalid S/L or T/P]
+1	20:48:28.467	'6305310': modification of order #645009 sell 7.00 NAS100 at 13637.95 sl: 13623.81 tp: 0.00 -> sl: 13623.11 tp: 0.00 failed [Invalid S/L or T/P]
+0	20:48:32.642	'6305310': modify order #645009 sell 7.00 NAS100 at 13637.95 sl: 13623.81 tp: 0.00 -> sl: 13623.11 tp: 0.00
+0	20:48:33.066	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 was modified -> sl: 13623.11 tp: 0.00
+0	20:49:28.805	'6305310': order #645009 sell 7.00 NAS100 at 13637.95 closed due stop-loss at price 13623.50
+2	20:52:11.359	Custom indicator AIMS Entry Alert V1 USDMXN,H1: loaded successfully
+2	20:52:11.367	Custom indicator CandleTimer USDMXN,H1: loaded successfully
+2	20:52:11.435	Custom indicator #Signal_Bars_v6 USDMXN,H1: loaded successfully
+2	20:52:11.443	Custom indicator TrendEnvelopes_v1 USDMXN,H1: loaded successfully
+2	20:52:11.453	Custom indicator wedges USDMXN,H1: loaded successfully
+2	20:52:11.461	Custom indicator Admiral Pivot USDMXN,H1: loaded successfully
+2	20:52:11.469	Custom indicator AutoTrendChannel USDMXN,H1: loaded successfully
+2	20:52:11.478	Custom indicator FRZ Channel Auto Plotter USDMXN,H1: loaded successfully
+2	20:52:11.486	Custom indicator Forex Uranus direction USDMXN,H1: loaded successfully
+2	20:52:11.553	Custom indicator aVSA\aVSA clasters USDMXN,H1: loaded successfully
+2	20:52:11.568	Custom indicator aVSA\aVSA Golden Zone USDMXN,H1: loaded successfully
+2	20:52:11.576	Custom indicator breakout-zones\breakout-zones USDMXN,H1: loaded successfully
+2	20:52:11.584	Custom indicator breakout-zones\SL&TP Values USDMXN,H1: loaded successfully
+2	20:52:11.599	Custom indicator PositionSizeCalculator USDMXN,H1: loaded successfully
+2	20:52:11.608	Custom indicator DaVinci Truly News Indicator 2.3.95 USDMXN,H1: loaded successfully
+2	20:52:11.676	Custom indicator AIMS AO V.2.1 USDMXN,H1: loaded successfully
+2	20:52:11.683	Custom indicator IVT_MACD_ZERO_LAG USDMXN,H1: loaded successfully
+2	20:52:11.691	Custom indicator RSI Divergence Levels USDMXN,H1: loaded successfully
+2	20:52:11.697	Custom indicator RenkoMaker_Confirm USDMXN,H1: loaded successfully
+2	20:52:11.705	Custom indicator FRZ Forex Market Session Indicator USDMXN,H1: loaded successfully
+0	20:53:07.928	'6305310': order buy market 0.12 USDMXN sl: 0.00000 tp: 0.00000
+1	20:53:08.338	'6305310': order buy 0.12 USDMXN opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	20:53:45.914	'6305310': order buy market 0.10 USDMXN sl: 0.00000 tp: 0.00000
+1	20:53:46.339	'6305310': order buy 0.10 USDMXN opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	20:54:43.543	'6305310': order buy market 0.09 USDMXN sl: 0.00000 tp: 0.00000
+1	20:54:43.935	'6305310': order buy 0.09 USDMXN opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	20:55:25.516	'6305310': order buy market 0.06 USDMXN sl: 0.00000 tp: 0.00000
+0	20:55:26.019	'6305310': order was opened : #645850 buy 0.06 USDMXN at 19.90551 sl: 0.00000 tp: 0.00000
+0	20:56:34.781	'6305310': modify order #645850 buy 0.06 USDMXN at 19.90551 sl: 0.00000 tp: 0.00000 -> sl: 19.84300 tp: 0.00000
+0	20:56:35.246	'6305310': order #645850 buy 0.06 USDMXN at 19.90551 was modified -> sl: 19.84300 tp: 0.00000
+0	21:02:35.050	'6305310': order buy market 1.00 DJ30 sl: 0.00 tp: 0.00
+1	21:02:35.474	'6305310': order buy 1.00 DJ30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	21:02:42.446	'6305310': order buy market 0.30 DJ30 sl: 0.00 tp: 0.00
+0	21:02:43.418	'6305310': order was opened : #646152 buy 0.30 DJ30 at 34607.55 sl: 0.00 tp: 0.00
+0	21:02:57.513	'6305310': modify order #646152 buy 0.30 DJ30 at 34607.55 sl: 0.00 tp: 0.00 -> sl: 34568.38 tp: 0.00
+0	21:02:57.980	'6305310': order #646152 buy 0.30 DJ30 at 34607.55 was modified -> sl: 34568.38 tp: 0.00
+1	21:03:14.557	'6305310': modification of order #646152 buy 0.30 DJ30 at 34607.55 sl: 34568.38 tp: 0.00 -> sl: 34608.75 tp: 0.00 failed [Invalid S/L or T/P]
+0	21:03:22.815	'6305310': modify order #646152 buy 0.30 DJ30 at 34607.55 sl: 34568.38 tp: 0.00 -> sl: 34608.75 tp: 0.00
+0	21:03:23.211	'6305310': order #646152 buy 0.30 DJ30 at 34607.55 was modified -> sl: 34608.75 tp: 0.00
+0	21:05:45.265	'6305310': order #646152 buy 0.30 DJ30 at 34607.55 closed due stop-loss at price 34608.45
+2	21:09:52.378	Custom indicator AIMS Entry Alert V1 XAUUSD,H1: loaded successfully
+2	21:09:52.384	Custom indicator CandleTimer XAUUSD,H1: loaded successfully
+2	21:09:52.447	Custom indicator #Signal_Bars_v6 XAUUSD,H1: loaded successfully
+2	21:09:52.454	Custom indicator TrendEnvelopes_v1 XAUUSD,H1: loaded successfully
+2	21:09:52.461	Custom indicator wedges XAUUSD,H1: loaded successfully
+2	21:09:52.467	Custom indicator Admiral Pivot XAUUSD,H1: loaded successfully
+2	21:09:52.474	Custom indicator AutoTrendChannel XAUUSD,H1: loaded successfully
+2	21:09:52.481	Custom indicator FRZ Channel Auto Plotter XAUUSD,H1: loaded successfully
+2	21:09:52.488	Custom indicator Forex Uranus direction XAUUSD,H1: loaded successfully
+2	21:09:52.553	Custom indicator aVSA\aVSA clasters XAUUSD,H1: loaded successfully
+2	21:09:52.566	Custom indicator aVSA\aVSA Golden Zone XAUUSD,H1: loaded successfully
+2	21:09:52.573	Custom indicator breakout-zones\breakout-zones XAUUSD,H1: loaded successfully
+2	21:09:52.580	Custom indicator breakout-zones\SL&TP Values XAUUSD,H1: loaded successfully
+2	21:09:52.592	Custom indicator PositionSizeCalculator XAUUSD,H1: loaded successfully
+2	21:09:52.604	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,H1: loaded successfully
+2	21:09:52.669	Custom indicator AIMS AO V.2.1 XAUUSD,H1: loaded successfully
+2	21:09:52.676	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,H1: loaded successfully
+2	21:09:52.683	Custom indicator RSI Divergence Levels XAUUSD,H1: loaded successfully
+2	21:09:52.688	Custom indicator RenkoMaker_Confirm XAUUSD,H1: loaded successfully
+2	21:09:52.695	Custom indicator FRZ Forex Market Session Indicator XAUUSD,H1: loaded successfully
+1	21:09:57.632	'6305310': datacenter connecting failed [6]
+0	21:09:58.541	'6305310': login on VantageFXInternational-Live 7 through DC2-NY (ping: 304.27 ms)
+0	21:10:01.603	'6305310': login datacenter on VantageFXInternational-Live 7 through DC2-NY (ping: 304.27 ms)
+0	21:10:02.833	'6305310': previous successful authorization performed from 197.159.150.225
+0	21:10:40.798	'6305310': ping to current access point DC2-NY is 307.87 ms
+1	21:50:14.441	'6305310': connect failed [Connection échouée]
+0	21:50:26.465	'6305310': login on VantageFXInternational-Live 7 through DC2-NY (ping: 307.87 ms)
+0	21:50:30.699	'6305310': login datacenter on VantageFXInternational-Live 7 through DC2-NY (ping: 307.87 ms)
+0	21:50:31.544	'6305310': previous successful authorization performed from 197.159.150.225
+0	21:52:17.523	'6305310': order sell market 0.80 NAS100 sl: 0.00 tp: 0.00
+0	21:52:18.493	'6305310': order was opened : #648038 sell 0.80 NAS100 at 13634.70 sl: 0.00 tp: 0.00
+0	21:52:36.198	'6305310': modify order #648038 sell 0.80 NAS100 at 13634.70 sl: 0.00 tp: 0.00 -> sl: 13716.16 tp: 0.00
+0	21:52:36.598	'6305310': order #648038 sell 0.80 NAS100 at 13634.70 was modified -> sl: 13716.16 tp: 0.00
+0	21:56:56.415	Admiral Markets build 1335 started (Admiral Markets Group AS)
+0	21:56:56.415	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1700 / 8014 Mb, Disk: 51 / 197 Gb, GMT+3
+0	21:56:56.415	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	21:57:01.807	Custom indicator AIMS Entry Alert V1 US30.cash,H1: loaded successfully
+2	21:57:01.813	Custom indicator CandleTimer US30.cash,H1: loaded successfully
+2	21:57:01.880	Custom indicator #Signal_Bars_v6 US30.cash,H1: loaded successfully
+2	21:57:01.887	Custom indicator TrendEnvelopes_v1 US30.cash,H1: loaded successfully
+2	21:57:01.894	Custom indicator wedges US30.cash,H1: loaded successfully
+2	21:57:01.901	Custom indicator Admiral Pivot US30.cash,H1: loaded successfully
+2	21:57:01.907	Custom indicator AutoTrendChannel US30.cash,H1: loaded successfully
+2	21:57:01.914	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: loaded successfully
+2	21:57:01.921	Custom indicator Forex Uranus direction US30.cash,H1: loaded successfully
+2	21:57:01.989	Custom indicator aVSA\aVSA clasters US30.cash,H1: loaded successfully
+2	21:57:02.002	Custom indicator aVSA\aVSA Golden Zone US30.cash,H1: loaded successfully
+2	21:57:02.010	Custom indicator breakout-zones\breakout-zones US30.cash,H1: loaded successfully
+2	21:57:02.017	Custom indicator breakout-zones\SL&TP Values US30.cash,H1: loaded successfully
+2	21:57:02.030	Custom indicator PositionSizeCalculator US30.cash,H1: loaded successfully
+2	21:57:02.039	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: loaded successfully
+2	21:57:02.105	Custom indicator AIMS AO V.2.1 US30.cash,H1: loaded successfully
+2	21:57:02.113	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: loaded successfully
+2	21:57:02.120	Custom indicator RSI Divergence Levels US30.cash,H1: loaded successfully
+2	21:57:02.127	Custom indicator RenkoMaker_Confirm US30.cash,H1: loaded successfully
+2	21:57:02.133	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: loaded successfully
+2	21:57:02.523	Custom indicator AIMS Entry Alert V1 NAS100,M5: loaded successfully
+2	21:57:02.528	Custom indicator CandleTimer NAS100,M5: loaded successfully
+2	21:57:02.592	Custom indicator #Signal_Bars_v6 NAS100,M5: loaded successfully
+2	21:57:02.599	Custom indicator TrendEnvelopes_v1 NAS100,M5: loaded successfully
+2	21:57:02.606	Custom indicator wedges NAS100,M5: loaded successfully
+2	21:57:02.615	Custom indicator Admiral Pivot NAS100,M5: loaded successfully
+2	21:57:02.623	Custom indicator AutoTrendChannel NAS100,M5: loaded successfully
+2	21:57:02.630	Custom indicator FRZ Channel Auto Plotter NAS100,M5: loaded successfully
+2	21:57:02.637	Custom indicator Forex Uranus direction NAS100,M5: loaded successfully
+2	21:57:02.714	Custom indicator aVSA\aVSA clasters NAS100,M5: loaded successfully
+2	21:57:02.728	Custom indicator aVSA\aVSA Golden Zone NAS100,M5: loaded successfully
+2	21:57:02.736	Custom indicator breakout-zones\breakout-zones NAS100,M5: loaded successfully
+2	21:57:02.743	Custom indicator breakout-zones\SL&TP Values NAS100,M5: loaded successfully
+2	21:57:02.756	Custom indicator PositionSizeCalculator NAS100,M5: loaded successfully
+2	21:57:02.765	Custom indicator DaVinci Truly News Indicator 2.3.95 NAS100,M5: loaded successfully
+2	21:57:02.831	Custom indicator AIMS AO V.2.1 NAS100,M5: loaded successfully
+2	21:57:02.838	Custom indicator IVT_MACD_ZERO_LAG NAS100,M5: loaded successfully
+2	21:57:02.845	Custom indicator RSI Divergence Levels NAS100,M5: loaded successfully
+2	21:57:02.852	Custom indicator RenkoMaker_Confirm NAS100,M5: loaded successfully
+2	21:57:02.858	Custom indicator FRZ Forex Market Session Indicator NAS100,M5: loaded successfully
+2	21:57:02.870	Expert Admiral - Mini Terminal NAS100,M5: loaded successfully
+2	21:57:03.447	Custom indicator AIMS Entry Alert V1 DJ30,H1: loaded successfully
+2	21:57:03.453	Custom indicator CandleTimer DJ30,H1: loaded successfully
+2	21:57:03.517	Custom indicator #Signal_Bars_v6 DJ30,H1: loaded successfully
+2	21:57:03.525	Custom indicator TrendEnvelopes_v1 DJ30,H1: loaded successfully
+2	21:57:03.532	Custom indicator wedges DJ30,H1: loaded successfully
+2	21:57:03.539	Custom indicator Admiral Pivot DJ30,H1: loaded successfully
+2	21:57:03.546	Custom indicator AutoTrendChannel DJ30,H1: loaded successfully
+2	21:57:03.553	Custom indicator FRZ Channel Auto Plotter DJ30,H1: loaded successfully
+2	21:57:03.561	Custom indicator Forex Uranus direction DJ30,H1: loaded successfully
+2	21:57:03.630	Custom indicator aVSA\aVSA clasters DJ30,H1: loaded successfully
+2	21:57:03.644	Custom indicator aVSA\aVSA Golden Zone DJ30,H1: loaded successfully
+2	21:57:03.651	Custom indicator breakout-zones\breakout-zones DJ30,H1: loaded successfully
+2	21:57:03.658	Custom indicator breakout-zones\SL&TP Values DJ30,H1: loaded successfully
+2	21:57:03.672	Custom indicator PositionSizeCalculator DJ30,H1: loaded successfully
+2	21:57:03.680	Custom indicator DaVinci Truly News Indicator 2.3.95 DJ30,H1: loaded successfully
+2	21:57:03.748	Custom indicator AIMS AO V.2.1 DJ30,H1: loaded successfully
+2	21:57:03.755	Custom indicator IVT_MACD_ZERO_LAG DJ30,H1: loaded successfully
+2	21:57:03.763	Custom indicator RSI Divergence Levels DJ30,H1: loaded successfully
+2	21:57:03.769	Custom indicator RenkoMaker_Confirm DJ30,H1: loaded successfully
+2	21:57:03.776	Custom indicator FRZ Forex Market Session Indicator DJ30,H1: loaded successfully
+2	21:57:04.355	Custom indicator AIMS Entry Alert V1 USDMXN,H1: loaded successfully
+2	21:57:04.362	Custom indicator CandleTimer USDMXN,H1: loaded successfully
+2	21:57:04.427	Custom indicator #Signal_Bars_v6 USDMXN,H1: loaded successfully
+2	21:57:04.434	Custom indicator TrendEnvelopes_v1 USDMXN,H1: loaded successfully
+2	21:57:04.441	Custom indicator wedges USDMXN,H1: loaded successfully
+2	21:57:04.448	Custom indicator Admiral Pivot USDMXN,H1: loaded successfully
+2	21:57:04.455	Custom indicator AutoTrendChannel USDMXN,H1: loaded successfully
+2	21:57:04.461	Custom indicator FRZ Channel Auto Plotter USDMXN,H1: loaded successfully
+2	21:57:04.468	Custom indicator Forex Uranus direction USDMXN,H1: loaded successfully
+2	21:57:04.534	Custom indicator aVSA\aVSA clasters USDMXN,H1: loaded successfully
+2	21:57:04.549	Custom indicator aVSA\aVSA Golden Zone USDMXN,H1: loaded successfully
+2	21:57:04.555	Custom indicator breakout-zones\breakout-zones USDMXN,H1: loaded successfully
+2	21:57:04.562	Custom indicator breakout-zones\SL&TP Values USDMXN,H1: loaded successfully
+2	21:57:04.576	Custom indicator PositionSizeCalculator USDMXN,H1: loaded successfully
+2	21:57:04.584	Custom indicator DaVinci Truly News Indicator 2.3.95 USDMXN,H1: loaded successfully
+2	21:57:04.655	Custom indicator AIMS AO V.2.1 USDMXN,H1: loaded successfully
+2	21:57:04.662	Custom indicator IVT_MACD_ZERO_LAG USDMXN,H1: loaded successfully
+2	21:57:04.670	Custom indicator RSI Divergence Levels USDMXN,H1: loaded successfully
+2	21:57:04.676	Custom indicator RenkoMaker_Confirm USDMXN,H1: loaded successfully
+2	21:57:04.683	Custom indicator FRZ Forex Market Session Indicator USDMXN,H1: loaded successfully
+2	21:57:05.084	Custom indicator AIMS Entry Alert V1 XAUUSD,H1: loaded successfully
+2	21:57:05.089	Custom indicator CandleTimer XAUUSD,H1: loaded successfully
+2	21:57:05.153	Custom indicator #Signal_Bars_v6 XAUUSD,H1: loaded successfully
+2	21:57:05.160	Custom indicator TrendEnvelopes_v1 XAUUSD,H1: loaded successfully
+2	21:57:05.167	Custom indicator wedges XAUUSD,H1: loaded successfully
+2	21:57:05.175	Custom indicator Admiral Pivot XAUUSD,H1: loaded successfully
+2	21:57:05.181	Custom indicator AutoTrendChannel XAUUSD,H1: loaded successfully
+2	21:57:05.188	Custom indicator FRZ Channel Auto Plotter XAUUSD,H1: loaded successfully
+2	21:57:05.195	Custom indicator Forex Uranus direction XAUUSD,H1: loaded successfully
+2	21:57:05.260	Custom indicator aVSA\aVSA clasters XAUUSD,H1: loaded successfully
+2	21:57:05.274	Custom indicator aVSA\aVSA Golden Zone XAUUSD,H1: loaded successfully
+2	21:57:05.280	Custom indicator breakout-zones\breakout-zones XAUUSD,H1: loaded successfully
+2	21:57:05.287	Custom indicator breakout-zones\SL&TP Values XAUUSD,H1: loaded successfully
+2	21:57:05.300	Custom indicator PositionSizeCalculator XAUUSD,H1: loaded successfully
+2	21:57:05.309	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,H1: loaded successfully
+2	21:57:05.374	Custom indicator AIMS AO V.2.1 XAUUSD,H1: loaded successfully
+2	21:57:05.382	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,H1: loaded successfully
+2	21:57:05.389	Custom indicator RSI Divergence Levels XAUUSD,H1: loaded successfully
+2	21:57:05.395	Custom indicator RenkoMaker_Confirm XAUUSD,H1: loaded successfully
+2	21:57:05.402	Custom indicator FRZ Forex Market Session Indicator XAUUSD,H1: loaded successfully
+0	21:57:23.042	'6305310': login on VantageFXInternational-Live 7 through DC2-NY (ping: 307.87 ms)
+2	21:57:27.367	Custom indicator AIMS Entry Alert V1 US30.cash,H1: removed
+2	21:57:27.369	Custom indicator CandleTimer US30.cash,H1: removed
+2	21:57:27.369	Custom indicator #Signal_Bars_v6 US30.cash,H1: removed
+2	21:57:27.370	Custom indicator TrendEnvelopes_v1 US30.cash,H1: removed
+2	21:57:27.371	Custom indicator wedges US30.cash,H1: removed
+2	21:57:27.372	Custom indicator Admiral Pivot US30.cash,H1: removed
+2	21:57:27.373	Custom indicator AutoTrendChannel US30.cash,H1: removed
+2	21:57:27.374	Custom indicator FRZ Channel Auto Plotter US30.cash,H1: removed
+2	21:57:27.375	Custom indicator Forex Uranus direction US30.cash,H1: removed
+2	21:57:27.375	Custom indicator aVSA clasters US30.cash,H1: removed
+2	21:57:27.377	Custom indicator aVSA Golden Zone US30.cash,H1: removed
+2	21:57:27.378	Custom indicator breakout-zones US30.cash,H1: removed
+2	21:57:27.380	Custom indicator SL&TP Values US30.cash,H1: removed
+2	21:57:27.381	Custom indicator PositionSizeCalculator US30.cash,H1: removed
+2	21:57:27.382	Custom indicator DaVinci Truly News Indicator 2.3.95 US30.cash,H1: removed
+2	21:57:27.382	Custom indicator AIMS AO V.2.1 US30.cash,H1: removed
+2	21:57:27.383	Custom indicator IVT_MACD_ZERO_LAG US30.cash,H1: removed
+2	21:57:27.385	Custom indicator RSI Divergence Levels US30.cash,H1: removed
+2	21:57:27.386	Custom indicator RenkoMaker_Confirm US30.cash,H1: removed
+2	21:57:27.387	Custom indicator FRZ Forex Market Session Indicator US30.cash,H1: removed
+0	21:57:31.445	'6305310': login datacenter on VantageFXInternational-Live 7 through DC2-NY (ping: 307.87 ms)
+0	21:57:32.225	'6305310': previous successful authorization performed from 197.159.150.225
+0	22:01:14.634	'6305310': modify order #648038 sell 0.80 NAS100 at 13634.70 sl: 13716.16 tp: 0.00 -> sl: 13716.16 tp: 13470.00
+0	22:01:14.994	'6305310': order #648038 sell 0.80 NAS100 at 13634.70 was modified -> sl: 13716.16 tp: 13470.00
+0	22:15:12.831	'6305310': modify order #648038 sell 0.80 NAS100 at 13634.70 sl: 13716.16 tp: 13470.00 -> sl: 13701.14 tp: 13470.00
+0	22:15:13.215	'6305310': order #648038 sell 0.80 NAS100 at 13634.70 was modified -> sl: 13701.14 tp: 13470.00
+2	22:16:37.345	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	22:16:37.353	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	22:16:37.418	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	22:16:37.426	Custom indicator TrendEnvelopes_v1 EURJPY,H1: loaded successfully
+2	22:16:37.433	Custom indicator wedges EURJPY,H1: loaded successfully
+2	22:16:37.441	Custom indicator Admiral Pivot EURJPY,H1: loaded successfully
+2	22:16:37.448	Custom indicator AutoTrendChannel EURJPY,H1: loaded successfully
+2	22:16:37.456	Custom indicator FRZ Channel Auto Plotter EURJPY,H1: loaded successfully
+2	22:16:37.463	Custom indicator Forex Uranus direction EURJPY,H1: loaded successfully
+2	22:16:37.528	Custom indicator aVSA\aVSA clasters EURJPY,H1: loaded successfully
+2	22:16:37.543	Custom indicator aVSA\aVSA Golden Zone EURJPY,H1: loaded successfully
+2	22:16:37.551	Custom indicator breakout-zones\breakout-zones EURJPY,H1: loaded successfully
+2	22:16:37.559	Custom indicator breakout-zones\SL&TP Values EURJPY,H1: loaded successfully
+2	22:16:37.573	Custom indicator PositionSizeCalculator EURJPY,H1: loaded successfully
+2	22:16:37.582	Custom indicator DaVinci Truly News Indicator 2.3.95 EURJPY,H1: loaded successfully
+2	22:16:37.647	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	22:16:37.655	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+2	22:16:37.663	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	22:16:37.670	Custom indicator RenkoMaker_Confirm EURJPY,H1: loaded successfully
+2	22:16:37.677	Custom indicator FRZ Forex Market Session Indicator EURJPY,H1: loaded successfully
+2	22:16:44.650	Custom indicator AIMS Entry Alert V1 EURJPY,H1: removed
+2	22:16:44.652	Custom indicator CandleTimer EURJPY,H1: removed
+2	22:16:44.652	Custom indicator #Signal_Bars_v6 EURJPY,H1: removed
+2	22:16:44.653	Custom indicator TrendEnvelopes_v1 EURJPY,H1: removed
+2	22:16:44.654	Custom indicator wedges EURJPY,H1: removed
+2	22:16:44.655	Custom indicator Admiral Pivot EURJPY,H1: removed
+2	22:16:44.656	Custom indicator AutoTrendChannel EURJPY,H1: removed
+2	22:16:44.657	Custom indicator FRZ Channel Auto Plotter EURJPY,H1: removed
+2	22:16:44.658	Custom indicator Forex Uranus direction EURJPY,H1: removed
+2	22:16:44.658	Custom indicator aVSA clasters EURJPY,H1: removed
+2	22:16:44.661	Custom indicator aVSA Golden Zone EURJPY,H1: removed
+2	22:16:44.662	Custom indicator breakout-zones EURJPY,H1: removed
+2	22:16:44.663	Custom indicator SL&TP Values EURJPY,H1: removed
+2	22:16:44.665	Custom indicator PositionSizeCalculator EURJPY,H1: removed
+2	22:16:44.666	Custom indicator DaVinci Truly News Indicator 2.3.95 EURJPY,H1: removed
+2	22:16:44.666	Custom indicator AIMS AO V.2.1 EURJPY,H1: removed
+2	22:16:44.667	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: removed
+2	22:16:44.668	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	22:16:44.669	Custom indicator RenkoMaker_Confirm EURJPY,H1: removed
+2	22:16:44.670	Custom indicator FRZ Forex Market Session Indicator EURJPY,H1: removed
+2	22:16:44.742	Custom indicator AIMS Levels V2 EURJPY,H1: loaded successfully
+2	22:16:44.811	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	22:16:44.817	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	22:16:44.882	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	22:16:44.948	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	22:16:44.954	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+0	22:17:52.207	'6305310': modify order #648038 sell 0.80 NAS100 at 13634.70 sl: 13701.14 tp: 13470.00 -> sl: 13717.12 tp: 13470.00
+0	22:17:52.559	'6305310': order #648038 sell 0.80 NAS100 at 13634.70 was modified -> sl: 13717.12 tp: 13470.00
+2	22:17:55.904	Expert Admiral - Mini Terminal NAS100,M15: removed
+2	22:17:55.997	Custom indicator AIMS Entry Alert V1 NAS100,M15: removed
+2	22:17:55.999	Custom indicator CandleTimer NAS100,M15: removed
+2	22:17:55.999	Custom indicator #Signal_Bars_v6 NAS100,M15: removed
+2	22:17:56.000	Custom indicator TrendEnvelopes_v1 NAS100,M15: removed
+2	22:17:56.001	Custom indicator wedges NAS100,M15: removed
+2	22:17:56.002	Custom indicator Admiral Pivot NAS100,M15: removed
+2	22:17:56.003	Custom indicator AutoTrendChannel NAS100,M15: removed
+2	22:17:56.005	Custom indicator FRZ Channel Auto Plotter NAS100,M15: removed
+2	22:17:56.008	Custom indicator Forex Uranus direction NAS100,M15: removed
+2	22:17:56.008	Custom indicator aVSA clasters NAS100,M15: removed
+2	22:17:56.011	Custom indicator aVSA Golden Zone NAS100,M15: removed
+2	22:17:56.012	Custom indicator breakout-zones NAS100,M15: removed
+2	22:17:56.013	Custom indicator SL&TP Values NAS100,M15: removed
+2	22:17:56.014	Custom indicator PositionSizeCalculator NAS100,M15: removed
+2	22:17:56.016	Custom indicator DaVinci Truly News Indicator 2.3.95 NAS100,M15: removed
+2	22:17:56.016	Custom indicator AIMS AO V.2.1 NAS100,M15: removed
+2	22:17:56.017	Custom indicator IVT_MACD_ZERO_LAG NAS100,M15: removed
+2	22:17:56.018	Custom indicator RSI Divergence Levels NAS100,M15: removed
+2	22:17:56.019	Custom indicator RenkoMaker_Confirm NAS100,M15: removed
+2	22:17:56.021	Custom indicator FRZ Forex Market Session Indicator NAS100,M15: removed
+2	22:17:56.026	Custom indicator AIMS Entry Alert V1 DJ30,H1: removed
+2	22:17:56.028	Custom indicator CandleTimer DJ30,H1: removed
+2	22:17:56.028	Custom indicator #Signal_Bars_v6 DJ30,H1: removed
+2	22:17:56.029	Custom indicator TrendEnvelopes_v1 DJ30,H1: removed
+2	22:17:56.030	Custom indicator wedges DJ30,H1: removed
+2	22:17:56.031	Custom indicator Admiral Pivot DJ30,H1: removed
+2	22:17:56.033	Custom indicator AutoTrendChannel DJ30,H1: removed
+2	22:17:56.034	Custom indicator FRZ Channel Auto Plotter DJ30,H1: removed
+2	22:17:56.035	Custom indicator Forex Uranus direction DJ30,H1: removed
+2	22:17:56.035	Custom indicator aVSA clasters DJ30,H1: removed
+2	22:17:56.037	Custom indicator aVSA Golden Zone DJ30,H1: removed
+2	22:17:56.039	Custom indicator breakout-zones DJ30,H1: removed
+2	22:17:56.042	Custom indicator SL&TP Values DJ30,H1: removed
+2	22:17:56.043	Custom indicator PositionSizeCalculator DJ30,H1: removed
+2	22:17:56.045	Custom indicator DaVinci Truly News Indicator 2.3.95 DJ30,H1: removed
+2	22:17:56.045	Custom indicator AIMS AO V.2.1 DJ30,H1: removed
+2	22:17:56.046	Custom indicator IVT_MACD_ZERO_LAG DJ30,H1: removed
+2	22:17:56.047	Custom indicator RSI Divergence Levels DJ30,H1: removed
+2	22:17:56.049	Custom indicator RenkoMaker_Confirm DJ30,H1: removed
+2	22:17:56.050	Custom indicator FRZ Forex Market Session Indicator DJ30,H1: removed
+2	22:17:56.053	Custom indicator AIMS Entry Alert V1 USDMXN,H1: removed
+2	22:17:56.054	Custom indicator CandleTimer USDMXN,H1: removed
+2	22:17:56.054	Custom indicator #Signal_Bars_v6 USDMXN,H1: removed
+2	22:17:56.056	Custom indicator TrendEnvelopes_v1 USDMXN,H1: removed
+2	22:17:56.059	Custom indicator wedges USDMXN,H1: removed
+2	22:17:56.060	Custom indicator Admiral Pivot USDMXN,H1: removed
+2	22:17:56.061	Custom indicator AutoTrendChannel USDMXN,H1: removed
+2	22:17:56.063	Custom indicator FRZ Channel Auto Plotter USDMXN,H1: removed
+2	22:17:56.064	Custom indicator Forex Uranus direction USDMXN,H1: removed
+2	22:17:56.064	Custom indicator aVSA clasters USDMXN,H1: removed
+2	22:17:56.067	Custom indicator aVSA Golden Zone USDMXN,H1: removed
+2	22:17:56.068	Custom indicator breakout-zones USDMXN,H1: removed
+2	22:17:56.069	Custom indicator SL&TP Values USDMXN,H1: removed
+2	22:17:56.070	Custom indicator PositionSizeCalculator USDMXN,H1: removed
+2	22:17:56.072	Custom indicator DaVinci Truly News Indicator 2.3.95 USDMXN,H1: removed
+2	22:17:56.073	Custom indicator AIMS AO V.2.1 USDMXN,H1: removed
+2	22:17:56.074	Custom indicator IVT_MACD_ZERO_LAG USDMXN,H1: removed
+2	22:17:56.076	Custom indicator RSI Divergence Levels USDMXN,H1: removed
+2	22:17:56.077	Custom indicator RenkoMaker_Confirm USDMXN,H1: removed
+2	22:17:56.078	Custom indicator FRZ Forex Market Session Indicator USDMXN,H1: removed
+2	22:17:56.082	Custom indicator AIMS Entry Alert V1 XAUUSD,M15: removed
+2	22:17:56.083	Custom indicator CandleTimer XAUUSD,M15: removed
+2	22:17:56.083	Custom indicator #Signal_Bars_v6 XAUUSD,M15: removed
+2	22:17:56.085	Custom indicator TrendEnvelopes_v1 XAUUSD,M15: removed
+2	22:17:56.086	Custom indicator wedges XAUUSD,M15: removed
+2	22:17:56.087	Custom indicator Admiral Pivot XAUUSD,M15: removed
+2	22:17:56.088	Custom indicator AutoTrendChannel XAUUSD,M15: removed
+2	22:17:56.089	Custom indicator FRZ Channel Auto Plotter XAUUSD,M15: removed
+2	22:17:56.091	Custom indicator Forex Uranus direction XAUUSD,M15: removed
+2	22:17:56.091	Custom indicator aVSA clasters XAUUSD,M15: removed
+2	22:17:56.093	Custom indicator aVSA Golden Zone XAUUSD,M15: removed
+2	22:17:56.094	Custom indicator breakout-zones XAUUSD,M15: removed
+2	22:17:56.095	Custom indicator SL&TP Values XAUUSD,M15: removed
+2	22:17:56.097	Custom indicator PositionSizeCalculator XAUUSD,M15: removed
+2	22:17:56.104	Custom indicator DaVinci Truly News Indicator 2.3.95 XAUUSD,M15: removed
+2	22:17:56.104	Custom indicator AIMS AO V.2.1 XAUUSD,M15: removed
+2	22:17:56.105	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M15: removed
+2	22:17:56.107	Custom indicator RSI Divergence Levels XAUUSD,M15: removed
+2	22:17:56.108	Custom indicator RenkoMaker_Confirm XAUUSD,M15: removed
+2	22:17:56.109	Custom indicator FRZ Forex Market Session Indicator XAUUSD,M15: removed
+2	22:17:56.115	Custom indicator AIMS Levels V2 EURJPY,H1: removed
+2	22:17:56.115	Custom indicator AIMS Entry Alert V1 EURJPY,H1: removed
+2	22:17:56.116	Custom indicator CandleTimer EURJPY,H1: removed
+2	22:17:56.116	Custom indicator #Signal_Bars_v6 EURJPY,H1: removed
+2	22:17:56.116	Custom indicator AIMS AO V.2.1 EURJPY,H1: removed
+2	22:17:56.118	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: removed
+0	22:17:56.425	Admiral Markets build 1335 stopped

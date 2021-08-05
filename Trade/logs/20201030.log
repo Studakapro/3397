@@ -1,0 +1,216 @@
+0	18:23:04.527	Admiral Markets build 1280 started (Admiral Markets Group AS)
+0	18:23:04.527	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1121 / 8014 Mb, Disk: 1 / 237 Gb, GMT+3
+0	18:23:04.527	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+0	18:23:12.730	'27133394': login on AdmiralMarkets-Live through Access Point #8 (ping: 601.94 ms)
+0	18:23:32.943	'27133394': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 601.94 ms)
+0	18:23:34.159	'27133394': previous successful authorization performed from 154.126.10.74
+0	18:24:12.681	'27133394': auto connecting to a better access point Access Point #4 (ping is 196.76 ms)
+0	18:24:13.850	'27133394': login on AdmiralMarkets-Live through Access Point #4 (ping: 196.76 ms)
+0	18:24:20.631	'27133394': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 196.76 ms)
+0	18:24:22.761	'27133394': previous successful authorization performed from 197.149.39.57
+2	18:25:26.784	Custom indicator AIMS Levels V2 [DAX30],H1: loaded successfully
+2	18:25:26.902	Custom indicator AIMS Entry Alert V1 [DAX30],H1: loaded successfully
+2	18:25:26.914	Custom indicator CandleTimer [DAX30],H1: loaded successfully
+2	18:25:27.119	Custom indicator #Signal_Bars_v6 [DAX30],H1: loaded successfully
+2	18:25:27.133	Custom indicator TrendEnvelopes_v1 [DAX30],H1: loaded successfully
+2	18:25:27.149	Custom indicator guppy_multiple_moving_averages [DAX30],H1: loaded successfully
+2	18:25:27.185	Custom indicator wedges [DAX30],H1: loaded successfully
+2	18:25:27.232	Custom indicator Admiral Pivot [DAX30],H1: loaded successfully
+2	18:25:27.273	Custom indicator AutoTrendChannel [DAX30],H1: loaded successfully
+2	18:25:27.319	Custom indicator FRZ Channel Auto Plotter [DAX30],H1: loaded successfully
+2	18:25:27.372	Custom indicator FRZ News Indicator MT4 [DAX30],H1: loaded successfully
+2	18:25:27.589	Custom indicator AIMS AO V.2.1 [DAX30],H1: loaded successfully
+2	18:25:27.605	Custom indicator IVT_MACD_ZERO_LAG [DAX30],H1: loaded successfully
+2	18:25:27.620	Custom indicator RSI Divergence Levels [DAX30],H1: loaded successfully
+2	18:25:27.646	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],H1: loaded successfully
+2	18:25:27.674	Custom indicator FRZ Forex Market Session Indicator [DAX30],H1: loaded successfully
+0	18:27:04.919	'27133394': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:27:05.453	'27133394': order was opened : #73572266 sell 0.20 [DAX30] at 11520.93 sl: 0.00 tp: 0.00
+0	18:27:14.097	'27133394': modify order #73572266 sell 0.20 [DAX30] at 11520.93 sl: 0.00 tp: 0.00 -> sl: 11521.46 tp: 0.00
+0	18:27:14.459	'27133394': order #73572266 sell 0.20 [DAX30] at 11520.93 was modified -> sl: 11521.46 tp: 0.00
+0	18:27:20.938	'27133394': modify order #73572266 sell 0.20 [DAX30] at 11520.93 sl: 11521.46 tp: 0.00 -> sl: 11520.03 tp: 0.00
+0	18:27:21.237	'27133394': order #73572266 sell 0.20 [DAX30] at 11520.93 was modified -> sl: 11520.03 tp: 0.00
+0	18:28:05.473	'27133394': order #73572266 sell 0.20 [DAX30] at 11520.93 closed due stop-loss at price 11520.10
+0	18:28:18.469	'27133394': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:28:19.086	'27133394': order was opened : #73572426 sell 0.20 [DAX30] at 11515.28 sl: 0.00 tp: 0.00
+0	18:28:39.682	'27133394': modify order #73572426 sell 0.20 [DAX30] at 11515.28 sl: 0.00 tp: 0.00 -> sl: 11516.10 tp: 0.00
+0	18:28:40.005	'27133394': order #73572426 sell 0.20 [DAX30] at 11515.28 was modified -> sl: 11516.10 tp: 0.00
+0	18:28:44.260	'27133394': modify order #73572426 sell 0.20 [DAX30] at 11515.28 sl: 11516.10 tp: 0.00 -> sl: 11515.03 tp: 0.00
+0	18:28:44.585	'27133394': order #73572426 sell 0.20 [DAX30] at 11515.28 was modified -> sl: 11515.03 tp: 0.00
+0	18:28:47.354	'27133394': order #73572426 sell 0.20 [DAX30] at 11515.28 closed due stop-loss at price 11515.12
+0	18:29:00.049	'27133394': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:29:00.609	'27133394': order was opened : #73572484 sell 0.20 [DAX30] at 11513.01 sl: 0.00 tp: 0.00
+0	18:29:28.118	'27133394': modify order #73572484 sell 0.20 [DAX30] at 11513.01 sl: 0.00 tp: 0.00 -> sl: 11526.45 tp: 0.00
+0	18:29:28.761	'27133394': order #73572484 sell 0.20 [DAX30] at 11513.01 was modified -> sl: 11526.45 tp: 0.00
+0	18:33:31.196	'27133394': modify order #73572484 sell 0.20 [DAX30] at 11513.01 sl: 11526.45 tp: 0.00 -> sl: 11512.18 tp: 0.00
+0	18:33:31.512	'27133394': order #73572484 sell 0.20 [DAX30] at 11513.01 was modified -> sl: 11512.18 tp: 0.00
+0	18:34:20.409	'27133394': order #73572484 sell 0.20 [DAX30] at 11513.01 closed due stop-loss at price 11512.19
+0	18:35:58.541	'27133394': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:35:59.143	'27133394': order was opened : #73573371 buy 0.20 [DAX30] at 11534.75 sl: 0.00 tp: 0.00
+0	18:36:12.379	'27133394': modify order #73573371 buy 0.20 [DAX30] at 11534.75 sl: 0.00 tp: 0.00 -> sl: 11502.54 tp: 0.00
+0	18:36:12.672	'27133394': order #73573371 buy 0.20 [DAX30] at 11534.75 was modified -> sl: 11502.54 tp: 0.00
+0	18:36:24.075	'27133394': modify order #73573371 buy 0.20 [DAX30] at 11534.75 sl: 11502.54 tp: 0.00 -> sl: 11503.25 tp: 0.00
+0	18:36:24.359	'27133394': order #73573371 buy 0.20 [DAX30] at 11534.75 was modified -> sl: 11503.25 tp: 0.00
+1	18:40:53.286	'27133394': modification of order #73573371 buy 0.20 [DAX30] at 11534.75 sl: 11503.25 tp: 0.00 -> sl: 11536.09 tp: 0.00 failed [Invalid S/L or T/P]
+2	18:41:21.954	Custom indicator AIMS Levels V2 [NQ100],H1: loaded successfully
+2	18:41:22.066	Custom indicator AIMS Entry Alert V1 [NQ100],H1: loaded successfully
+2	18:41:22.080	Custom indicator CandleTimer [NQ100],H1: loaded successfully
+2	18:41:22.234	Custom indicator #Signal_Bars_v6 [NQ100],H1: loaded successfully
+2	18:41:22.279	Custom indicator TrendEnvelopes_v1 [NQ100],H1: loaded successfully
+2	18:41:22.302	Custom indicator guppy_multiple_moving_averages [NQ100],H1: loaded successfully
+2	18:41:22.330	Custom indicator wedges [NQ100],H1: loaded successfully
+2	18:41:22.355	Custom indicator Admiral Pivot [NQ100],H1: loaded successfully
+2	18:41:22.378	Custom indicator AutoTrendChannel [NQ100],H1: loaded successfully
+2	18:41:22.402	Custom indicator FRZ Channel Auto Plotter [NQ100],H1: loaded successfully
+2	18:41:22.429	Custom indicator FRZ News Indicator MT4 [NQ100],H1: loaded successfully
+2	18:41:22.540	Custom indicator AIMS AO V.2.1 [NQ100],H1: loaded successfully
+2	18:41:22.557	Custom indicator IVT_MACD_ZERO_LAG [NQ100],H1: loaded successfully
+2	18:41:22.575	Custom indicator RSI Divergence Levels [NQ100],H1: loaded successfully
+2	18:41:22.599	Custom indicator JoeChalhoub_FXForecasterV1 [NQ100],H1: loaded successfully
+2	18:41:22.620	Custom indicator FRZ Forex Market Session Indicator [NQ100],H1: loaded successfully
+2	18:42:05.187	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	18:42:05.304	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	18:42:05.313	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	18:42:05.438	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	18:42:05.451	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	18:42:05.461	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	18:42:05.472	Custom indicator wedges [DJI30],M1: loaded successfully
+2	18:42:05.485	Custom indicator Admiral Pivot [DJI30],M1: loaded successfully
+2	18:42:05.496	Custom indicator AutoTrendChannel [DJI30],M1: loaded successfully
+2	18:42:05.509	Custom indicator FRZ Channel Auto Plotter [DJI30],M1: loaded successfully
+2	18:42:05.522	Custom indicator FRZ News Indicator MT4 [DJI30],M1: loaded successfully
+2	18:42:05.627	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	18:42:05.641	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	18:42:05.658	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	18:42:05.675	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	18:42:05.690	Custom indicator FRZ Forex Market Session Indicator [DJI30],M1: loaded successfully
+0	18:47:49.457	'27133394': order buy market 0.40 [NQ100] sl: 0.00 tp: 0.00
+0	18:47:50.659	'27133394': order was opened : #73574375 buy 0.40 [NQ100] at 11006.50 sl: 0.00 tp: 0.00
+0	18:48:49.247	'27133394': modify order #73573371 buy 0.20 [DAX30] at 11534.75 sl: 11503.25 tp: 0.00 -> sl: 11534.64 tp: 0.00
+0	18:48:49.548	'27133394': order #73573371 buy 0.20 [DAX30] at 11534.75 was modified -> sl: 11534.64 tp: 0.00
+0	18:48:57.644	'27133394': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	18:48:58.238	'27133394': order was opened : #73574672 buy 1.00 [DJI30] at 26289.49 sl: 0.00 tp: 0.00
+0	18:49:06.096	'27133394': modify order #73574672 buy 1.00 [DJI30] at 26289.49 sl: 0.00 tp: 0.00 -> sl: 26195.53 tp: 0.00
+0	18:49:06.581	'27133394': order #73574672 buy 1.00 [DJI30] at 26289.49 was modified -> sl: 26195.53 tp: 0.00
+0	18:51:45.598	'27133394': order #73573371 buy 0.20 [DAX30] at 11534.75 closed due stop-loss at price 11533.94
+0	18:52:30.893	'27133394': modify order #73574672 buy 1.00 [DJI30] at 26289.49 sl: 26195.53 tp: 0.00 -> sl: 26289.97 tp: 0.00
+0	18:52:32.280	'27133394': order #73574672 buy 1.00 [DJI30] at 26289.49 was modified -> sl: 26289.97 tp: 0.00
+0	18:52:40.349	'27133394': close order #73574672 buy 1.00 [DJI30] at 26289.49 sl: 26289.97 tp: 0.00 at price 0.00
+0	18:52:43.365	'27133394': order #73574672 buy 1.00 [DJI30] at 26289.49 sl: 26289.97 tp: 0.00 closed at price 26306.87
+0	18:52:52.654	'27133394': close order #73574375 buy 0.40 [NQ100] at 11006.50 sl: 0.00 tp: 0.00 at price 0.00
+0	18:52:53.116	'27133394': order #73574375 buy 0.40 [NQ100] at 11006.50 sl: 0.00 tp: 0.00 closed at price 11013.83
+0	18:53:44.411	'27133394': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	18:53:44.943	'27133394': order was opened : #73575092 buy 1.00 [DJI30] at 26318.82 sl: 0.00 tp: 0.00
+0	18:53:51.943	'27133394': modify order #73575092 buy 1.00 [DJI30] at 26318.82 sl: 0.00 tp: 0.00 -> sl: 26284.80 tp: 0.00
+0	18:53:52.661	'27133394': order #73575092 buy 1.00 [DJI30] at 26318.82 was modified -> sl: 26284.80 tp: 0.00
+0	18:54:13.801	'27133394': modify order #73575092 buy 1.00 [DJI30] at 26318.82 sl: 26284.80 tp: 0.00 -> sl: 26262.81 tp: 0.00
+0	18:54:14.100	'27133394': order #73575092 buy 1.00 [DJI30] at 26318.82 was modified -> sl: 26262.81 tp: 0.00
+0	19:00:50.937	'27133394': modify order #73575092 buy 1.00 [DJI30] at 26318.82 sl: 26262.81 tp: 0.00 -> sl: 26317.14 tp: 0.00
+0	19:00:54.070	'27133394': order #73575092 buy 1.00 [DJI30] at 26318.82 was modified -> sl: 26317.14 tp: 0.00
+0	19:01:04.311	'27133394': close order #73575092 buy 1.00 [DJI30] at 26318.82 sl: 26317.14 tp: 0.00 at price 0.00
+0	19:01:04.861	'27133394': order #73575092 buy 1.00 [DJI30] at 26318.82 sl: 26317.14 tp: 0.00 closed at price 26332.02
+0	19:01:10.394	'27133394': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	19:01:10.941	'27133394': order was opened : #73576563 buy 1.00 [DJI30] at 26343.51 sl: 0.00 tp: 0.00
+0	19:01:18.396	'27133394': modify order #73576563 buy 1.00 [DJI30] at 26343.51 sl: 0.00 tp: 0.00 -> sl: 26308.08 tp: 0.00
+0	19:01:18.703	'27133394': order #73576563 buy 1.00 [DJI30] at 26343.51 was modified -> sl: 26308.08 tp: 0.00
+0	19:01:25.246	'27133394': modify order #73576563 buy 1.00 [DJI30] at 26343.51 sl: 26308.08 tp: 0.00 -> sl: 26343.01 tp: 0.00
+0	19:01:25.581	'27133394': order #73576563 buy 1.00 [DJI30] at 26343.51 was modified -> sl: 26343.01 tp: 0.00
+0	19:03:54.800	'27133394': close order #73576563 buy 1.00 [DJI30] at 26343.51 sl: 26343.01 tp: 0.00 at price 0.00
+0	19:03:55.346	'27133394': order #73576563 buy 1.00 [DJI30] at 26343.51 sl: 26343.01 tp: 0.00 closed at price 26370.96
+0	19:04:16.838	'27133394': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	19:04:17.407	'27133394': order was opened : #73577223 buy 1.00 [DJI30] at 26383.42 sl: 0.00 tp: 0.00
+0	19:04:29.100	'27133394': modify order #73577223 buy 1.00 [DJI30] at 26383.42 sl: 0.00 tp: 0.00 -> sl: 26381.82 tp: 0.00
+0	19:04:29.391	'27133394': order #73577223 buy 1.00 [DJI30] at 26383.42 was modified -> sl: 26381.82 tp: 0.00
+0	19:04:33.839	'27133394': close order #73577223 buy 1.00 [DJI30] at 26383.42 sl: 26381.82 tp: 0.00 at price 0.00
+0	19:04:34.705	'27133394': order #73577223 buy 1.00 [DJI30] at 26383.42 sl: 26381.82 tp: 0.00 closed at price 26390.36
+0	19:08:27.977	'27133394': order sell market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	19:08:28.545	'27133394': order was opened : #73577891 sell 0.20 [DJI30] at 26369.27 sl: 0.00 tp: 0.00
+0	19:08:34.576	'27133394': modify order #73577891 sell 0.20 [DJI30] at 26369.27 sl: 0.00 tp: 0.00 -> sl: 26400.66 tp: 0.00
+0	19:08:34.910	'27133394': order #73577891 sell 0.20 [DJI30] at 26369.27 was modified -> sl: 26400.66 tp: 0.00
+0	19:11:14.617	'27133394': modify order #73577891 sell 0.20 [DJI30] at 26369.27 sl: 26400.66 tp: 0.00 -> sl: 26367.37 tp: 0.00
+0	19:11:14.914	'27133394': order #73577891 sell 0.20 [DJI30] at 26369.27 was modified -> sl: 26367.37 tp: 0.00
+0	19:12:57.753	'27133394': close order #73577891 sell 0.20 [DJI30] at 26369.27 sl: 26367.37 tp: 0.00 at price 0.00
+0	19:12:58.332	'27133394': order #73577891 sell 0.20 [DJI30] at 26369.27 sl: 26367.37 tp: 0.00 closed at price 26352.23
+0	19:17:00.464	'27133394': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	19:17:01.325	'27133394': order was opened : #73578932 buy 0.50 [DJI30] at 26399.47 sl: 0.00 tp: 0.00
+0	19:18:01.053	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	19:18:09.742	'27133394': modify order #73578932 buy 0.50 [DJI30] at 26399.47 sl: 0.00 tp: 0.00 -> sl: 26336.39 tp: 0.00
+0	19:18:10.608	'27133394': order #73578932 buy 0.50 [DJI30] at 26399.47 was modified -> sl: 26336.39 tp: 0.00
+0	19:20:32.882	'27133394': modify order #73578932 buy 0.50 [DJI30] at 26399.47 sl: 26336.39 tp: 0.00 -> sl: 26402.82 tp: 0.00
+0	19:20:33.224	'27133394': order #73578932 buy 0.50 [DJI30] at 26399.47 was modified -> sl: 26402.82 tp: 0.00
+0	19:21:41.905	'27133394': modify order #73578932 buy 0.50 [DJI30] at 26399.47 sl: 26380.00 tp: 0.00 -> sl: 26401.70 tp: 0.00
+0	19:21:42.322	'27133394': order #73578932 buy 0.50 [DJI30] at 26399.47 was modified -> sl: 26401.70 tp: 0.00
+0	19:21:50.361	'27133394': order #73578932 buy 0.50 [DJI30] at 26399.47 closed due stop-loss at price 26401.47
+0	19:23:03.074	'27133394': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	19:23:03.895	'27133394': order was opened : #73579730 buy 0.50 [DJI30] at 26428.74 sl: 0.00 tp: 0.00
+0	19:23:16.840	'27133394': modify order #73579730 buy 0.50 [DJI30] at 26428.74 sl: 0.00 tp: 0.00 -> sl: 26399.45 tp: 0.00
+0	19:23:17.183	'27133394': order #73579730 buy 0.50 [DJI30] at 26428.74 was modified -> sl: 26399.45 tp: 0.00
+0	19:24:29.329	'27133394': modify order #73579730 buy 0.50 [DJI30] at 26428.74 sl: 26399.45 tp: 0.00 -> sl: 26428.72 tp: 0.00
+0	19:24:32.045	'27133394': order #73579730 buy 0.50 [DJI30] at 26428.74 was modified -> sl: 26428.72 tp: 0.00
+0	19:24:39.850	'27133394': order #73579730 buy 0.50 [DJI30] at 26428.74 closed due stop-loss at price 26427.18
+0	19:25:01.477	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	19:25:11.904	'27133394': order sell market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	19:25:12.440	'27133394': order was opened : #73579960 sell 0.20 [DJI30] at 26413.39 sl: 0.00 tp: 0.00
+0	19:25:20.684	'27133394': modify order #73579960 sell 0.20 [DJI30] at 26413.39 sl: 0.00 tp: 0.00 -> sl: 26436.61 tp: 0.00
+0	19:25:21.287	'27133394': order #73579960 sell 0.20 [DJI30] at 26413.39 was modified -> sl: 26436.61 tp: 0.00
+1	19:25:42.204	'27133394': modification of order #73579960 sell 0.20 [DJI30] at 26413.39 sl: 26436.61 tp: 0.00 -> sl: 26412.96 tp: 0.00 failed [Invalid S/L or T/P]
+0	19:26:36.146	'27133394': order #73579960 sell 0.20 [DJI30] at 26413.39 closed due stop-loss at price 26436.90
+0	19:27:00.884	'27133394': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	19:27:01.492	'27133394': order was opened : #73580188 buy 0.50 [DJI30] at 26436.70 sl: 0.00 tp: 0.00
+0	19:27:12.601	'27133394': modify order #73580188 buy 0.50 [DJI30] at 26436.70 sl: 0.00 tp: 0.00 -> sl: 26338.64 tp: 0.00
+0	19:27:12.907	'27133394': order #73580188 buy 0.50 [DJI30] at 26436.70 was modified -> sl: 26338.64 tp: 0.00
+0	19:27:15.833	'27133394': close order #73580188 buy 0.50 [DJI30] at 26436.70 sl: 26338.64 tp: 0.00 at price 0.00
+0	19:27:16.494	'27133394': order #73580188 buy 0.50 [DJI30] at 26436.70 sl: 26338.64 tp: 0.00 closed at price 26447.61
+0	19:27:22.540	'27133394': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	19:27:23.551	'27133394': order was opened : #73580239 buy 0.50 [DJI30] at 26443.65 sl: 0.00 tp: 0.00
+0	19:27:31.873	'27133394': modify order #73580239 buy 0.50 [DJI30] at 26443.65 sl: 0.00 tp: 0.00 -> sl: 26405.08 tp: 0.00
+0	19:27:32.189	'27133394': order #73580239 buy 0.50 [DJI30] at 26443.65 was modified -> sl: 26405.08 tp: 0.00
+0	19:27:45.307	'27133394': modify order #73580239 buy 0.50 [DJI30] at 26443.65 sl: 26405.08 tp: 0.00 -> sl: 26444.49 tp: 0.00
+0	19:27:45.612	'27133394': order #73580239 buy 0.50 [DJI30] at 26443.65 was modified -> sl: 26444.49 tp: 0.00
+0	19:29:46.808	'27133394': order #73580239 buy 0.50 [DJI30] at 26443.65 closed due stop-loss at price 26444.26
+0	19:30:03.379	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	19:30:21.806	'27133394': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	19:30:22.355	'27133394': order was opened : #73580582 sell 0.50 [DJI30] at 26433.75 sl: 0.00 tp: 0.00
+0	19:30:28.084	'27133394': modify order #73580582 sell 0.50 [DJI30] at 26433.75 sl: 0.00 tp: 0.00 -> sl: 26435.48 tp: 0.00
+0	19:30:28.491	'27133394': order #73580582 sell 0.50 [DJI30] at 26433.75 was modified -> sl: 26435.48 tp: 0.00
+0	19:30:36.680	'27133394': order #73580582 sell 0.50 [DJI30] at 26433.75 closed due stop-loss at price 26435.75
+0	19:31:03.707	'27133394': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	19:31:04.296	'27133394': order was opened : #73580649 buy 0.50 [DJI30] at 26444.96 sl: 0.00 tp: 0.00
+0	19:31:31.930	'27133394': modify order #73580649 buy 0.50 [DJI30] at 26444.96 sl: 0.00 tp: 0.00 -> sl: 26353.28 tp: 0.00
+0	19:31:32.482	'27133394': order #73580649 buy 0.50 [DJI30] at 26444.96 was modified -> sl: 26353.28 tp: 0.00
+0	19:34:59.348	'27133394': modify order #73580649 buy 0.50 [DJI30] at 26444.96 sl: 26353.28 tp: 0.00 -> sl: 26355.53 tp: 0.00
+0	19:34:59.656	'27133394': order #73580649 buy 0.50 [DJI30] at 26444.96 was modified -> sl: 26355.53 tp: 0.00
+0	19:37:25.099	'27133394': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	19:37:25.707	'27133394': order was opened : #73581402 sell 1.00 [DJI30] at 26371.04 sl: 0.00 tp: 0.00
+0	19:37:56.587	'27133394': close order #73581402 sell 1.00 [DJI30] at 26371.04 sl: 0.00 tp: 0.00 at price 0.00
+0	19:37:57.015	'27133394': order #73581402 sell 1.00 [DJI30] at 26371.04 sl: 0.00 tp: 0.00 closed at price 26380.54
+0	19:44:10.875	'27133394': order #73580649 buy 0.50 [DJI30] at 26444.96 closed due stop-loss at price 26354.12
+0	19:44:12.783	'27133394': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	19:44:13.375	'27133394': order was opened : #73581926 sell 1.00 [DJI30] at 26357.11 sl: 0.00 tp: 0.00
+0	19:45:42.105	'27133394': modify order #73581926 sell 1.00 [DJI30] at 26357.11 sl: 0.00 tp: 0.00 -> sl: 26359.12 tp: 0.00
+0	19:45:42.400	'27133394': order #73581926 sell 1.00 [DJI30] at 26357.11 was modified -> sl: 26359.12 tp: 0.00
+0	19:46:26.556	'27133394': order #73581926 sell 1.00 [DJI30] at 26357.11 closed due stop-loss at price 26359.55
+0	19:47:16.217	'27133394': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	19:47:17.018	'27133394': order was opened : #73582174 buy 1.00 [DJI30] at 26367.00 sl: 0.00 tp: 0.00
+0	19:47:26.488	'27133394': modify order #73582174 buy 1.00 [DJI30] at 26367.00 sl: 0.00 tp: 0.00 -> sl: 26342.45 tp: 0.00
+0	19:47:27.094	'27133394': order #73582174 buy 1.00 [DJI30] at 26367.00 was modified -> sl: 26342.45 tp: 0.00
+0	19:47:32.859	'27133394': modify order #73582174 buy 1.00 [DJI30] at 26367.00 sl: 26342.45 tp: 0.00 -> sl: 26338.64 tp: 0.00
+0	19:47:33.203	'27133394': order #73582174 buy 1.00 [DJI30] at 26367.00 was modified -> sl: 26338.64 tp: 0.00
+1	19:51:36.227	'27133394': modification of order #73582174 buy 1.00 [DJI30] at 26367.00 sl: 26338.64 tp: 0.00 -> sl: 26365.58 tp: 0.00 failed [Invalid S/L or T/P]
+0	19:52:59.838	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+0	19:53:57.234	'27133394': modify order #73582174 buy 1.00 [DJI30] at 26367.00 sl: 26338.64 tp: 0.00 -> sl: 26368.39 tp: 0.00
+0	19:53:57.633	'27133394': order #73582174 buy 1.00 [DJI30] at 26367.00 was modified -> sl: 26368.39 tp: 0.00
+0	19:54:05.890	'27133394': order #73582174 buy 1.00 [DJI30] at 26367.00 closed due stop-loss at price 26367.94
+0	19:56:49.966	'27133394': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	19:56:50.461	'27133394': order was opened : #73582852 sell 1.00 [DJI30] at 26332.27 sl: 0.00 tp: 0.00
+0	19:56:56.907	'27133394': modify order #73582852 sell 1.00 [DJI30] at 26332.27 sl: 0.00 tp: 0.00 -> sl: 26374.79 tp: 0.00
+0	19:56:57.216	'27133394': order #73582852 sell 1.00 [DJI30] at 26332.27 was modified -> sl: 26374.79 tp: 0.00
+0	19:57:03.210	'27133394': modify order #73582852 sell 1.00 [DJI30] at 26332.27 sl: 26374.79 tp: 0.00 -> sl: 26368.02 tp: 0.00
+0	19:57:03.526	'27133394': order #73582852 sell 1.00 [DJI30] at 26332.27 was modified -> sl: 26368.02 tp: 0.00
+0	19:57:06.604	'27133394': modify order #73582852 sell 1.00 [DJI30] at 26332.27 sl: 26368.02 tp: 0.00 -> sl: 26363.78 tp: 0.00
+0	19:57:06.904	'27133394': order #73582852 sell 1.00 [DJI30] at 26332.27 was modified -> sl: 26363.78 tp: 0.00
+0	20:00:59.582	'27133394': modify order #73582852 sell 1.00 [DJI30] at 26332.27 sl: 26363.78 tp: 0.00 -> sl: 26346.00 tp: 0.00
+0	20:00:59.993	'27133394': order #73582852 sell 1.00 [DJI30] at 26332.27 was modified -> sl: 26346.00 tp: 0.00
+0	20:01:02.517	'27133394': order #73582852 sell 1.00 [DJI30] at 26332.27 closed due stop-loss at price 26348.70
+1	20:28:27.546	'27133394': ping failed
+1	20:28:32.754	'27133394': connect failed [Connection échouée]

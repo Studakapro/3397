@@ -1,0 +1,113 @@
+1	09:31:14.751	'888326829': datacenter connecting failed [6]
+0	09:31:15.700	'888326829': login on Tickmill02-Live through Live DC - London 3 (ping: 202.38 ms)
+0	09:31:43.328	'888326829': login datacenter on Tickmill02-Live through Live DC - London 3 (ping: 202.38 ms)
+0	09:31:43.988	'888326829': previous successful authorization performed from 154.126.98.202
+0	09:34:20.803	'888326829': auto connecting to a better access point Live DC - London 2 (ping is 207.84 ms)
+0	09:34:21.626	'888326829': login on Tickmill02-Live through Live DC - London 2 (ping: 207.84 ms)
+0	09:34:26.094	'888326829': login datacenter on Tickmill02-Live through Live DC - London 2 (ping: 207.84 ms)
+0	09:34:26.832	'888326829': previous successful authorization performed from 154.126.98.202
+0	09:40:18.189	'888326829': login on Tickmill02-Live through Live DC - London 2 (ping: 207.84 ms)
+0	09:40:20.325	'888326829': login datacenter on Tickmill02-Live through Live DC - London 2 (ping: 207.84 ms)
+0	09:40:20.972	'888326829': previous successful authorization performed from 154.126.98.202
+0	09:40:28.707	'888326829': order sell market 0.05 US30 sl: 0.00 tp: 0.00
+1	09:40:29.050	'888326829': order sell 0.05 US30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	09:40:30.971	'888326829': order sell market 0.05 US30 sl: 0.00 tp: 0.00
+1	09:40:31.345	'888326829': order sell 0.05 US30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	09:40:36.688	'888326829': order sell market 0.02 US30 sl: 0.00 tp: 0.00
+1	09:40:37.078	'888326829': order sell 0.02 US30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	09:40:42.710	'888326829': order sell market 0.01 US30 sl: 0.00 tp: 0.00
+0	09:40:46.456	'888326829': order was opened : #14657861 sell 0.01 US30 at 30358.20 sl: 0.00 tp: 0.00
+0	09:40:46.612	'888326829': order sell market 0.01 US30 sl: 0.00 tp: 0.00
+1	09:40:47.001	'888326829': order sell 0.01 US30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	09:40:48.703	'888326829': order sell market 0.01 US30 sl: 0.00 tp: 0.00
+1	09:40:49.694	'888326829': order sell 0.01 US30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	09:40:49.944	'888326829': order sell market 0.01 US30 sl: 0.00 tp: 0.00
+1	09:40:51.654	'888326829': order sell 0.01 US30 opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	09:40:59.378	'888326829': modify order #14657861 sell 0.01 US30 at 30358.20 sl: 0.00 tp: 0.00 -> sl: 30411.22 tp: 0.00
+0	09:40:59.794	'888326829': order #14657861 sell 0.01 US30 at 30358.20 was modified -> sl: 30411.22 tp: 0.00
+1	09:42:00.626	'888326829': ping failed
+1	09:42:00.641	'888326829': datacenter connecting failed [6]
+0	09:42:02.054	'888326829': login on Tickmill02-Live through Live DC - London 4 (ping: 208.46 ms)
+0	09:42:06.458	'888326829': login datacenter on Tickmill02-Live through Live DC - London 4 (ping: 208.46 ms)
+0	09:42:07.136	'888326829': previous successful authorization performed from 154.126.98.202
+1	09:45:20.367	'888326829': connect failed [Connection échouée]
+0	09:46:01.655	'888326829': login on Tickmill02-Live through Live DC - London 4 (ping: 208.46 ms)
+0	09:46:03.579	'888326829': login datacenter on Tickmill02-Live through Live DC - London 4 (ping: 208.46 ms)
+0	09:46:04.233	'888326829': previous successful authorization performed from 154.126.98.202
+2	10:03:03.889	Custom indicator AIMS Levels V2 DE30,H1: removed
+2	10:03:03.889	Custom indicator AIMS Entry Alert V1 DE30,H1: removed
+2	10:03:03.898	Custom indicator CandleTimer DE30,H1: removed
+2	10:03:03.899	Custom indicator #Signal_Bars_v6 DE30,H1: removed
+2	10:03:03.904	Custom indicator TrendEnvelopes_v1 DE30,H1: removed
+2	10:03:03.907	Custom indicator guppy_multiple_moving_averages DE30,H1: removed
+2	10:03:03.911	Custom indicator wedges DE30,H1: removed
+2	10:03:03.917	Custom indicator Admiral Pivot DE30,H1: removed
+2	10:03:03.920	Custom indicator AutoTrendChannel DE30,H1: removed
+2	10:03:03.923	Custom indicator FRZ Channel Auto Plotter DE30,H1: removed
+2	10:03:03.928	Custom indicator FRZ News Indicator MT4 DE30,H1: removed
+2	10:03:03.933	Custom indicator Forex Uranus direction DE30,H1: removed
+2	10:03:03.938	Custom indicator Quadrilateral DE30,H1: removed
+2	10:03:03.938	Custom indicator AIMS AO V.2.1 DE30,H1: removed
+2	10:03:03.940	Custom indicator IVT_MACD_ZERO_LAG DE30,H1: removed
+2	10:03:03.943	Custom indicator RSI Divergence Levels DE30,H1: removed
+2	10:03:03.947	Custom indicator JoeChalhoub_FXForecasterV1 DE30,H1: removed
+2	10:03:03.949	Custom indicator TDI-With_Alerts DE30,H1: removed
+2	10:03:03.952	Custom indicator FRZ Forex Market Session Indicator DE30,H1: removed
+2	10:03:03.966	Custom indicator AIMS Levels V2 US30,M5: removed
+2	10:03:03.966	Custom indicator AIMS Entry Alert V1 US30,M5: removed
+2	10:03:03.967	Custom indicator CandleTimer US30,M5: removed
+2	10:03:03.967	Custom indicator #Signal_Bars_v6 US30,M5: removed
+2	10:03:03.968	Custom indicator TrendEnvelopes_v1 US30,M5: removed
+2	10:03:03.969	Custom indicator guppy_multiple_moving_averages US30,M5: removed
+2	10:03:03.971	Custom indicator wedges US30,M5: removed
+2	10:03:03.972	Custom indicator Admiral Pivot US30,M5: removed
+2	10:03:03.973	Custom indicator AutoTrendChannel US30,M5: removed
+2	10:03:03.975	Custom indicator FRZ Channel Auto Plotter US30,M5: removed
+2	10:03:03.977	Custom indicator FRZ News Indicator MT4 US30,M5: removed
+2	10:03:03.979	Custom indicator Forex Uranus direction US30,M5: removed
+2	10:03:03.980	Custom indicator Quadrilateral US30,M5: removed
+2	10:03:03.980	Custom indicator AIMS AO V.2.1 US30,M5: removed
+2	10:03:03.981	Custom indicator IVT_MACD_ZERO_LAG US30,M5: removed
+2	10:03:03.982	Custom indicator RSI Divergence Levels US30,M5: removed
+2	10:03:03.983	Custom indicator JoeChalhoub_FXForecasterV1 US30,M5: removed
+2	10:03:03.984	Custom indicator TDI-With_Alerts US30,M5: removed
+2	10:03:03.986	Custom indicator FRZ Forex Market Session Indicator US30,M5: removed
+2	10:03:03.997	Custom indicator AIMS Levels V2 XAUUSD,M15: removed
+2	10:03:03.997	Custom indicator AIMS Entry Alert V1 XAUUSD,M15: removed
+2	10:03:03.998	Custom indicator CandleTimer XAUUSD,M15: removed
+2	10:03:03.998	Custom indicator #Signal_Bars_v6 XAUUSD,M15: removed
+2	10:03:03.999	Custom indicator TrendEnvelopes_v1 XAUUSD,M15: removed
+2	10:03:04.000	Custom indicator guppy_multiple_moving_averages XAUUSD,M15: removed
+2	10:03:04.001	Custom indicator wedges XAUUSD,M15: removed
+2	10:03:04.003	Custom indicator Admiral Pivot XAUUSD,M15: removed
+2	10:03:04.004	Custom indicator AutoTrendChannel XAUUSD,M15: removed
+2	10:03:04.005	Custom indicator FRZ Channel Auto Plotter XAUUSD,M15: removed
+2	10:03:04.006	Custom indicator FRZ News Indicator MT4 XAUUSD,M15: removed
+2	10:03:04.007	Custom indicator Forex Uranus direction XAUUSD,M15: removed
+2	10:03:04.009	Custom indicator Quadrilateral XAUUSD,M15: removed
+2	10:03:04.009	Custom indicator AIMS AO V.2.1 XAUUSD,M15: removed
+2	10:03:04.010	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M15: removed
+2	10:03:04.011	Custom indicator RSI Divergence Levels XAUUSD,M15: removed
+2	10:03:04.013	Custom indicator JoeChalhoub_FXForecasterV1 XAUUSD,M15: removed
+2	10:03:04.014	Custom indicator TDI-With_Alerts XAUUSD,M15: removed
+2	10:03:04.015	Custom indicator FRZ Forex Market Session Indicator XAUUSD,M15: removed
+2	10:03:04.018	Custom indicator AIMS Levels V2 XAGUSD,M15: removed
+2	10:03:04.018	Custom indicator AIMS Entry Alert V1 XAGUSD,M15: removed
+2	10:03:04.019	Custom indicator CandleTimer XAGUSD,M15: removed
+2	10:03:04.020	Custom indicator #Signal_Bars_v6 XAGUSD,M15: removed
+2	10:03:04.021	Custom indicator TrendEnvelopes_v1 XAGUSD,M15: removed
+2	10:03:04.022	Custom indicator guppy_multiple_moving_averages XAGUSD,M15: removed
+2	10:03:04.023	Custom indicator wedges XAGUSD,M15: removed
+2	10:03:04.025	Custom indicator Admiral Pivot XAGUSD,M15: removed
+2	10:03:04.027	Custom indicator AutoTrendChannel XAGUSD,M15: removed
+2	10:03:04.028	Custom indicator FRZ Channel Auto Plotter XAGUSD,M15: removed
+2	10:03:04.029	Custom indicator FRZ News Indicator MT4 XAGUSD,M15: removed
+2	10:03:04.030	Custom indicator Forex Uranus direction XAGUSD,M15: removed
+2	10:03:04.031	Custom indicator Quadrilateral XAGUSD,M15: removed
+2	10:03:04.031	Custom indicator AIMS AO V.2.1 XAGUSD,M15: removed
+2	10:03:04.032	Custom indicator IVT_MACD_ZERO_LAG XAGUSD,M15: removed
+2	10:03:04.034	Custom indicator RSI Divergence Levels XAGUSD,M15: removed
+2	10:03:04.035	Custom indicator JoeChalhoub_FXForecasterV1 XAGUSD,M15: removed
+2	10:03:04.036	Custom indicator TDI-With_Alerts XAGUSD,M15: removed
+2	10:03:04.037	Custom indicator FRZ Forex Market Session Indicator XAGUSD,M15: removed
+0	10:03:04.401	Admiral Markets build 1320 stopped

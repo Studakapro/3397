@@ -1,0 +1,6 @@
+
+2020-07-08 08:08:00.6413|Error| Error in UpdateService.LoadResources()
+
+2020-07-08 08:08:00.8827|Error| System.Exception: Received empty resources from API.
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)

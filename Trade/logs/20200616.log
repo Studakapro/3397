@@ -1,0 +1,1564 @@
+0	02:35:07.500	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	02:35:07.500	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 3113 / 8014 Mb, Disk: 16 / 237 Gb, GMT+3
+0	02:35:07.500	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	02:35:09.999	Custom indicator AIMS Levels V2 DE30,M1: loaded successfully
+2	02:35:10.061	Custom indicator AIMS Entry Alert V1 DE30,M1: loaded successfully
+2	02:35:10.061	Custom indicator CandleTimer DE30,M1: loaded successfully
+2	02:35:10.124	Custom indicator #Signal_Bars_v6 DE30,M1: loaded successfully
+2	02:35:10.186	Custom indicator AIMS AO V.2.1 DE30,M1: loaded successfully
+2	02:35:10.186	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: loaded successfully
+2	02:35:10.202	Custom indicator RSI Divergence Levels DE30,M1: loaded successfully
+2	02:35:10.327	Custom indicator AIMS Levels V2 US30,M1: loaded successfully
+2	02:35:10.405	Custom indicator AIMS Entry Alert V1 US30,M1: loaded successfully
+2	02:35:10.405	Custom indicator CandleTimer US30,M1: loaded successfully
+2	02:35:10.468	Custom indicator #Signal_Bars_v6 US30,M1: loaded successfully
+2	02:35:10.546	Custom indicator AIMS AO V.2.1 US30,M1: loaded successfully
+2	02:35:10.546	Custom indicator IVT_MACD_ZERO_LAG US30,M1: loaded successfully
+2	02:35:10.561	Custom indicator RSI Divergence Levels US30,M1: loaded successfully
+2	02:35:10.702	Custom indicator AIMS Levels V2 FR40,M1: loaded successfully
+2	02:35:10.749	Custom indicator AIMS Entry Alert V1 FR40,M1: loaded successfully
+2	02:35:10.764	Custom indicator CandleTimer FR40,M1: loaded successfully
+2	02:35:10.827	Custom indicator #Signal_Bars_v6 FR40,M1: loaded successfully
+2	02:35:10.874	Custom indicator AIMS AO V.2.1 FR40,M1: loaded successfully
+2	02:35:10.889	Custom indicator IVT_MACD_ZERO_LAG FR40,M1: loaded successfully
+2	02:35:10.889	Custom indicator RSI Divergence Levels FR40,M1: loaded successfully
+2	02:35:11.030	Custom indicator AIMS Levels V2 USTEC,M1: loaded successfully
+2	02:35:11.092	Custom indicator AIMS Entry Alert V1 USTEC,M1: loaded successfully
+2	02:35:11.092	Custom indicator CandleTimer USTEC,M1: loaded successfully
+2	02:35:11.155	Custom indicator #Signal_Bars_v6 USTEC,M1: loaded successfully
+2	02:35:11.217	Custom indicator AIMS AO V.2.1 USTEC,M1: loaded successfully
+2	02:35:11.217	Custom indicator IVT_MACD_ZERO_LAG USTEC,M1: loaded successfully
+2	02:35:11.233	Custom indicator RSI Divergence Levels USTEC,M1: loaded successfully
+2	02:35:11.358	Custom indicator AIMS Levels V2 USOIL,M1: loaded successfully
+2	02:35:11.421	Custom indicator AIMS Entry Alert V1 USOIL,M1: loaded successfully
+2	02:35:11.421	Custom indicator CandleTimer USOIL,M1: loaded successfully
+2	02:35:11.483	Custom indicator #Signal_Bars_v6 USOIL,M1: loaded successfully
+2	02:35:11.545	Custom indicator AIMS AO V.2.1 USOIL,M1: loaded successfully
+2	02:35:11.545	Custom indicator IVT_MACD_ZERO_LAG USOIL,M1: loaded successfully
+2	02:35:11.561	Custom indicator RSI Divergence Levels USOIL,M1: loaded successfully
+2	02:35:11.702	Custom indicator AIMS Levels V2 XAUUSD,M1: loaded successfully
+2	02:35:11.749	Custom indicator AIMS Entry Alert V1 XAUUSD,M1: loaded successfully
+2	02:35:11.764	Custom indicator CandleTimer XAUUSD,M1: loaded successfully
+2	02:35:11.827	Custom indicator #Signal_Bars_v6 XAUUSD,M1: loaded successfully
+2	02:35:11.889	Custom indicator AIMS AO V.2.1 XAUUSD,M1: loaded successfully
+2	02:35:11.889	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M1: loaded successfully
+2	02:35:11.905	Custom indicator RSI Divergence Levels XAUUSD,M1: loaded successfully
+2	02:35:12.030	Custom indicator Heiken Ashi USDCAD,M30: loaded successfully
+2	02:35:12.092	Custom indicator CHANNEL USDCAD,M30: loaded successfully
+2	02:35:12.139	Custom indicator TARGET_LINES USDCAD,M30: loaded successfully
+2	02:35:12.202	Custom indicator TREND-REVERS USDCAD,M30: loaded successfully
+2	02:35:12.264	Custom indicator S&R USDCAD,M30: loaded successfully
+2	02:35:12.327	Custom indicator ARROWS USDCAD,M30: loaded successfully
+2	02:35:12.436	Custom indicator AIMS Levels V2 GBPCHF,H1: loaded successfully
+2	02:35:12.498	Custom indicator AIMS Entry Alert V1 GBPCHF,H1: loaded successfully
+2	02:35:12.498	Custom indicator CandleTimer GBPCHF,H1: loaded successfully
+2	02:35:12.561	Custom indicator #Signal_Bars_v6 GBPCHF,H1: loaded successfully
+2	02:35:12.608	Custom indicator AIMS AO V.2.1 GBPCHF,H1: loaded successfully
+2	02:35:12.623	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,H1: loaded successfully
+2	02:35:12.623	Custom indicator RSI Divergence Levels GBPCHF,H1: loaded successfully
+2	02:35:12.748	Custom indicator AIMS Levels V2 USDCHF,H4: loaded successfully
+2	02:35:12.811	Custom indicator AIMS Entry Alert V1 USDCHF,H4: loaded successfully
+2	02:35:12.811	Custom indicator CandleTimer USDCHF,H4: loaded successfully
+2	02:35:12.873	Custom indicator #Signal_Bars_v6 USDCHF,H4: loaded successfully
+2	02:35:12.936	Custom indicator AIMS AO V.2.1 USDCHF,H4: loaded successfully
+2	02:35:12.936	Custom indicator IVT_MACD_ZERO_LAG USDCHF,H4: loaded successfully
+2	02:35:12.951	Custom indicator RSI Divergence Levels USDCHF,H4: loaded successfully
+2	02:35:13.092	Custom indicator AIMS Levels V2 EURUSD,M30: loaded successfully
+2	02:35:13.139	Custom indicator AIMS Entry Alert V1 EURUSD,M30: loaded successfully
+2	02:35:13.155	Custom indicator CandleTimer EURUSD,M30: loaded successfully
+2	02:35:13.217	Custom indicator #Signal_Bars_v6 EURUSD,M30: loaded successfully
+2	02:35:13.264	Custom indicator AIMS AO V.2.1 EURUSD,M30: loaded successfully
+2	02:35:13.279	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M30: loaded successfully
+2	02:35:13.279	Custom indicator RSI Divergence Levels EURUSD,M30: loaded successfully
+2	02:35:13.358	Custom indicator WATR GBPAUD,M30: loaded successfully
+2	02:35:13.358	Custom indicator Xi-VLines20v1.02 GBPAUD,M30: loaded successfully
+2	02:35:13.420	Custom indicator EWPro GBPAUD,M30: loaded successfully
+2	02:35:13.436	Custom indicator #RSI_CANDLE GBPAUD,M30: loaded successfully
+2	02:35:13.436	Custom indicator !MoneyLine2 GBPAUD,M30: loaded successfully
+2	02:35:13.498	Custom indicator #MT TrendLine GBPAUD,M30: loaded successfully
+2	02:35:13.561	Custom indicator FXSmooth EURUSD GBPAUD,M30: loaded successfully
+2	02:35:13.607	Custom indicator T3_CCI_ divergence_v1 GBPAUD,M30: loaded successfully
+2	02:35:13.936	Custom indicator AnggrekJingga AUDUSD,M30: loaded successfully
+2	02:35:13.998	Custom indicator BBSTOP AUDUSD,M30: loaded successfully
+2	02:35:14.061	Custom indicator super-signals_v2b AUDUSD,M30: loaded successfully
+2	02:35:14.061	Custom indicator ZigZag AUDUSD,M30: loaded successfully
+2	02:35:14.123	Custom indicator Gst_Signal_3 AUDUSD,M30: loaded successfully
+2	02:35:14.186	Custom indicator VQ AUDUSD,M30: loaded successfully
+2	02:35:14.232	Expert ForexSignals-PatternFinder-1.2 AUDUSD,H4: loaded successfully
+2	02:35:14.295	Custom indicator AIMS Levels V2 JP225,H1: loaded successfully
+2	02:35:14.357	Custom indicator AIMS Entry Alert V1 JP225,H1: loaded successfully
+2	02:35:14.357	Custom indicator CandleTimer JP225,H1: loaded successfully
+2	02:35:14.420	Custom indicator #Signal_Bars_v6 JP225,H1: loaded successfully
+2	02:35:14.482	Custom indicator AIMS AO V.2.1 JP225,H1: loaded successfully
+2	02:35:14.482	Custom indicator IVT_MACD_ZERO_LAG JP225,H1: loaded successfully
+2	02:35:14.498	Custom indicator RSI Divergence Levels JP225,H1: loaded successfully
+0	02:35:15.891	'14109544': login on Exness-Real4 through DC06 (ping: 327.37 ms)
+0	02:35:18.828	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 327.37 ms)
+0	02:35:19.547	'14109544': previous successful authorization performed from 197.149.32.67
+0	02:35:21.585	MQL5.community: activated for 'mamlov', balance: 100.00 (frozen: 95.00)
+0	02:35:35.675	'14109544': auto connecting to a better access point DC00 (ping is 205.51 ms)
+0	02:35:36.516	'14109544': login on Exness-Real4 through DC00 (ping: 205.51 ms)
+0	02:35:38.518	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 205.51 ms)
+0	02:35:39.394	'14109544': previous successful authorization performed from 197.149.32.67
+2	02:44:13.334	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	02:44:13.397	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	02:44:13.397	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	02:44:13.459	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	02:44:13.522	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	02:44:13.522	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	02:44:13.537	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	02:50:16.912	Custom indicator Heiken Ashi USDCAD,H1: removed
+2	02:50:16.912	Custom indicator CHANNEL USDCAD,H1: removed
+2	02:50:16.912	Custom indicator TARGET_LINES USDCAD,H1: removed
+2	02:50:16.912	Custom indicator TREND-REVERS USDCAD,H1: removed
+2	02:50:16.912	Custom indicator S&R USDCAD,H1: removed
+2	02:50:16.912	Custom indicator ARROWS USDCAD,H1: removed
+2	02:50:16.974	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	02:50:17.036	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	02:50:17.052	Custom indicator CandleTimer USDCAD,H1: loaded successfully
+2	02:50:17.099	Custom indicator #Signal_Bars_v6 USDCAD,H1: loaded successfully
+2	02:50:17.161	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	02:50:17.177	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	02:50:17.177	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+0	02:53:23.695	HistoryCenter: synchronize 'AUDUSD240'
+1	02:53:25.366	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:53:30.825	HistoryCenter: synchronize 'AUDUSD240'
+1	02:53:31.309	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:53:36.776	HistoryCenter: synchronize 'AUDUSD240'
+1	02:53:37.276	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:53:42.744	HistoryCenter: synchronize 'AUDUSD240'
+1	02:53:43.181	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:53:48.683	HistoryCenter: synchronize 'AUDUSD240'
+1	02:53:49.178	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:53:54.684	HistoryCenter: synchronize 'AUDUSD240'
+1	02:53:55.148	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:54:00.618	HistoryCenter: synchronize 'AUDUSD240'
+1	02:54:01.056	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:54:06.523	HistoryCenter: synchronize 'AUDUSD240'
+1	02:54:06.976	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:54:12.432	HistoryCenter: synchronize 'AUDUSD240'
+1	02:54:12.885	HistoryCenter: '14109544' cannot login to: Exness-Real4
+0	02:54:18.352	HistoryCenter: synchronize 'AUDUSD240'
+0	02:54:19.508	HistoryCenter: 2081 bars imported in 'AUDUSD240'
+2	02:54:29.977	Expert ForexSignals-PatternFinder-1.2 AUDUSD,H4: removed
+2	02:55:06.578	Custom indicator AnggrekJingga AUDUSD,M30: removed
+2	02:55:06.578	Custom indicator BBSTOP AUDUSD,M30: removed
+2	02:55:06.578	Custom indicator super-signals_v2b AUDUSD,M30: removed
+2	02:55:06.578	Custom indicator ZigZag AUDUSD,M30: removed
+2	02:55:06.578	Custom indicator Gst_Signal_3 AUDUSD,M30: removed
+2	02:55:06.578	Custom indicator VQ AUDUSD,M30: removed
+2	02:55:23.185	Expert ForexSignals-NakedTrading-v1.3 AUDUSD,M30: loaded successfully
+2	02:56:30.362	Custom indicator AIMS Levels V2 JP225,H1: removed
+2	02:56:30.362	Custom indicator AIMS Entry Alert V1 JP225,H1: removed
+2	02:56:30.362	Custom indicator CandleTimer JP225,H1: removed
+2	02:56:30.362	Custom indicator #Signal_Bars_v6 JP225,H1: removed
+2	02:56:30.362	Custom indicator AIMS AO V.2.1 JP225,H1: removed
+2	02:56:30.378	Custom indicator IVT_MACD_ZERO_LAG JP225,H1: removed
+2	02:56:30.378	Custom indicator RSI Divergence Levels JP225,H1: removed
+2	02:56:49.795	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	02:56:49.795	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	02:56:49.795	Custom indicator CandleTimer GBPUSD,H1: removed
+2	02:56:49.795	Custom indicator #Signal_Bars_v6 GBPUSD,H1: removed
+2	02:56:49.795	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	02:56:49.795	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	02:56:49.795	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	02:56:55.450	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: loaded successfully
+2	02:58:10.586	Custom indicator AIMS Levels V2 CHFJPY,M1: loaded successfully
+2	02:58:10.655	Custom indicator AIMS Entry Alert V1 CHFJPY,M1: loaded successfully
+2	02:58:10.655	Custom indicator CandleTimer CHFJPY,M1: loaded successfully
+2	02:58:10.717	Custom indicator #Signal_Bars_v6 CHFJPY,M1: loaded successfully
+2	02:58:10.779	Custom indicator AIMS AO V.2.1 CHFJPY,M1: loaded successfully
+2	02:58:10.795	Custom indicator IVT_MACD_ZERO_LAG CHFJPY,M1: loaded successfully
+2	02:58:10.795	Custom indicator RSI Divergence Levels CHFJPY,M1: loaded successfully
+2	02:59:18.928	Custom indicator AIMS Levels V2 GBPCAD,M1: loaded successfully
+2	02:59:18.991	Custom indicator AIMS Entry Alert V1 GBPCAD,M1: loaded successfully
+2	02:59:18.991	Custom indicator CandleTimer GBPCAD,M1: loaded successfully
+2	02:59:19.053	Custom indicator #Signal_Bars_v6 GBPCAD,M1: loaded successfully
+2	02:59:19.100	Custom indicator AIMS AO V.2.1 GBPCAD,M1: loaded successfully
+2	02:59:19.116	Custom indicator IVT_MACD_ZERO_LAG GBPCAD,M1: loaded successfully
+2	02:59:19.132	Custom indicator RSI Divergence Levels GBPCAD,M1: loaded successfully
+2	02:59:33.329	Custom indicator AIMS Levels V2 GBPCAD,M1: removed
+2	02:59:33.329	Custom indicator AIMS Entry Alert V1 GBPCAD,M1: removed
+2	02:59:33.329	Custom indicator CandleTimer GBPCAD,M1: removed
+2	02:59:33.329	Custom indicator #Signal_Bars_v6 GBPCAD,M1: removed
+2	02:59:33.329	Custom indicator AIMS AO V.2.1 GBPCAD,M1: removed
+2	02:59:33.329	Custom indicator IVT_MACD_ZERO_LAG GBPCAD,M1: removed
+2	02:59:33.329	Custom indicator RSI Divergence Levels GBPCAD,M1: removed
+2	02:59:33.391	Custom indicator Heiken Ashi GBPCAD,M1: loaded successfully
+2	02:59:33.454	Custom indicator CHANNEL GBPCAD,M1: loaded successfully
+2	02:59:33.516	Custom indicator TARGET_LINES GBPCAD,M1: loaded successfully
+2	02:59:33.579	Custom indicator TREND-REVERS GBPCAD,M1: loaded successfully
+2	02:59:33.626	Custom indicator S&R GBPCAD,M1: loaded successfully
+2	02:59:33.688	Custom indicator ARROWS GBPCAD,M1: loaded successfully
+2	03:00:19.372	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	03:00:19.372	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	03:00:19.372	Custom indicator CandleTimer USDCAD,H1: removed
+2	03:00:19.372	Custom indicator #Signal_Bars_v6 USDCAD,H1: removed
+2	03:00:19.372	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	03:00:19.372	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	03:00:19.372	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	03:00:19.450	Custom indicator Heiken Ashi USDCAD,H1: loaded successfully
+2	03:00:19.497	Custom indicator CHANNEL USDCAD,H1: loaded successfully
+2	03:00:19.559	Custom indicator TARGET_LINES USDCAD,H1: loaded successfully
+2	03:00:19.622	Custom indicator TREND-REVERS USDCAD,H1: loaded successfully
+2	03:00:19.684	Custom indicator S&R USDCAD,H1: loaded successfully
+2	03:00:19.747	Custom indicator ARROWS USDCAD,H1: loaded successfully
+2	03:01:20.434	Custom indicator WATR GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator Xi-VLines20v1.02 GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator EWPro GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator #RSI_CANDLE GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator !MoneyLine2 GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator #MT TrendLine GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator FXSmooth EURUSD GBPAUD,M30: removed
+2	03:01:20.434	Custom indicator T3_CCI_ divergence_v1 GBPAUD,M30: removed
+2	03:01:20.497	Custom indicator Heiken Ashi GBPAUD,M30: loaded successfully
+2	03:01:20.575	Custom indicator CHANNEL GBPAUD,M30: loaded successfully
+2	03:01:20.637	Custom indicator TARGET_LINES GBPAUD,M30: loaded successfully
+2	03:01:20.700	Custom indicator TREND-REVERS GBPAUD,M30: loaded successfully
+2	03:01:20.762	Custom indicator S&R GBPAUD,M30: loaded successfully
+2	03:01:20.825	Custom indicator ARROWS GBPAUD,M30: loaded successfully
+2	03:01:41.108	Custom indicator AIMS Levels V2 DE30,M1: removed
+2	03:01:41.108	Custom indicator AIMS Entry Alert V1 DE30,M1: removed
+2	03:01:41.108	Custom indicator CandleTimer DE30,M1: removed
+2	03:01:41.108	Custom indicator #Signal_Bars_v6 DE30,M1: removed
+2	03:01:41.108	Custom indicator AIMS AO V.2.1 DE30,M1: removed
+2	03:01:41.108	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: removed
+2	03:01:41.108	Custom indicator RSI Divergence Levels DE30,M1: removed
+2	03:01:41.186	Custom indicator Heiken Ashi DE30,M1: loaded successfully
+2	03:01:41.249	Custom indicator CHANNEL DE30,M1: loaded successfully
+2	03:01:41.296	Custom indicator TARGET_LINES DE30,M1: loaded successfully
+2	03:01:41.358	Custom indicator TREND-REVERS DE30,M1: loaded successfully
+2	03:01:41.421	Custom indicator S&R DE30,M1: loaded successfully
+2	03:01:41.483	Custom indicator ARROWS DE30,M1: loaded successfully
+0	03:02:38.886	'14109544': instant order sell 0.10 CHFJPY at 113.194 sl: 0.000 tp: 0.000
+0	03:02:39.277	'14109544': order was opened : #188843768 sell 0.10 CHFJPY at 113.194 sl: 0.000 tp: 0.000
+0	03:03:06.280	'14109544': modify order #188843768 sell 0.10 CHFJPY at 113.194 sl: 0.000 tp: 0.000 -> sl: 113.283 tp: 0.000
+0	03:03:10.064	'14109544': order #188843768 sell 0.10 CHFJPY at 113.194 was modified -> sl: 113.283 tp: 0.000
+2	03:04:06.960	Custom indicator Heiken Ashi GBPCAD,M1: removed
+2	03:04:06.960	Custom indicator CHANNEL GBPCAD,M1: removed
+2	03:04:06.960	Custom indicator TARGET_LINES GBPCAD,M1: removed
+2	03:04:06.960	Custom indicator TREND-REVERS GBPCAD,M1: removed
+2	03:04:06.960	Custom indicator S&R GBPCAD,M1: removed
+2	03:04:06.960	Custom indicator ARROWS GBPCAD,M1: removed
+2	03:04:26.570	Custom indicator Heiken Ashi USDCHF,M1: loaded successfully
+2	03:04:26.632	Custom indicator CHANNEL USDCHF,M1: loaded successfully
+2	03:04:26.695	Custom indicator TARGET_LINES USDCHF,M1: loaded successfully
+2	03:04:26.757	Custom indicator TREND-REVERS USDCHF,M1: loaded successfully
+2	03:04:26.804	Custom indicator S&R USDCHF,M1: loaded successfully
+2	03:04:26.871	Custom indicator ARROWS USDCHF,M1: loaded successfully
+2	03:04:38.442	Custom indicator Heiken Ashi USDCHF,M1: removed
+2	03:04:38.442	Custom indicator CHANNEL USDCHF,M1: removed
+2	03:04:38.442	Custom indicator TARGET_LINES USDCHF,M1: removed
+2	03:04:38.442	Custom indicator TREND-REVERS USDCHF,M1: removed
+2	03:04:38.442	Custom indicator S&R USDCHF,M1: removed
+2	03:04:38.442	Custom indicator ARROWS USDCHF,M1: removed
+2	03:04:38.505	Custom indicator AIMS Levels V2 USDCHF,M1: loaded successfully
+2	03:04:38.567	Custom indicator AIMS Entry Alert V1 USDCHF,M1: loaded successfully
+2	03:04:38.583	Custom indicator CandleTimer USDCHF,M1: loaded successfully
+2	03:04:38.629	Custom indicator #Signal_Bars_v6 USDCHF,M1: loaded successfully
+2	03:04:38.692	Custom indicator AIMS AO V.2.1 USDCHF,M1: loaded successfully
+2	03:04:38.708	Custom indicator IVT_MACD_ZERO_LAG USDCHF,M1: loaded successfully
+2	03:04:38.708	Custom indicator RSI Divergence Levels USDCHF,M1: loaded successfully
+2	03:06:09.538	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	03:06:09.601	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	03:06:09.601	Custom indicator CandleTimer USDCAD,H1: loaded successfully
+2	03:06:09.663	Custom indicator #Signal_Bars_v6 USDCAD,H1: loaded successfully
+2	03:06:09.726	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	03:06:09.741	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	03:06:09.741	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+0	03:06:23.700	'14109544': instant order sell 0.10 USDCAD at 1.35307 sl: 0.00000 tp: 0.00000
+0	03:06:24.012	'14109544': order was opened : #188844126 sell 0.10 USDCAD at 1.35307 sl: 0.00000 tp: 0.00000
+0	03:06:33.827	'14109544': modify order #188844126 sell 0.10 USDCAD at 1.35307 sl: 0.00000 tp: 0.00000 -> sl: 1.36686 tp: 0.00000
+0	03:06:34.171	'14109544': order #188844126 sell 0.10 USDCAD at 1.35307 was modified -> sl: 1.36686 tp: 0.00000
+0	03:07:50.685	'14109544': modify order #188844126 sell 0.10 USDCAD at 1.35307 sl: 1.36686 tp: 0.00000 -> sl: 1.36686 tp: 1.34430
+0	03:07:51.013	'14109544': order #188844126 sell 0.10 USDCAD at 1.35307 was modified -> sl: 1.36686 tp: 1.34430
+2	03:08:09.588	Custom indicator AIMS Levels V2 USDCHF,M1: removed
+2	03:08:09.588	Custom indicator AIMS Entry Alert V1 USDCHF,M1: removed
+2	03:08:09.588	Custom indicator CandleTimer USDCHF,M1: removed
+2	03:08:09.588	Custom indicator #Signal_Bars_v6 USDCHF,M1: removed
+2	03:08:09.588	Custom indicator AIMS AO V.2.1 USDCHF,M1: removed
+2	03:08:09.588	Custom indicator IVT_MACD_ZERO_LAG USDCHF,M1: removed
+2	03:08:09.588	Custom indicator RSI Divergence Levels USDCHF,M1: removed
+2	03:10:10.492	Custom indicator Heiken Ashi USDCAD,H1: removed
+2	03:10:10.492	Custom indicator CHANNEL USDCAD,H1: removed
+2	03:10:10.492	Custom indicator TARGET_LINES USDCAD,H1: removed
+2	03:10:10.492	Custom indicator TREND-REVERS USDCAD,H1: removed
+2	03:10:10.492	Custom indicator S&R USDCAD,H1: removed
+2	03:10:10.492	Custom indicator ARROWS USDCAD,H1: removed
+2	03:10:13.757	Custom indicator AIMS Levels V2 GBPCHF,H1: removed
+2	03:10:13.757	Custom indicator AIMS Entry Alert V1 GBPCHF,H1: removed
+2	03:10:13.773	Custom indicator CandleTimer GBPCHF,H1: removed
+2	03:10:13.773	Custom indicator #Signal_Bars_v6 GBPCHF,H1: removed
+2	03:10:13.773	Custom indicator AIMS AO V.2.1 GBPCHF,H1: removed
+2	03:10:13.773	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,H1: removed
+2	03:10:13.773	Custom indicator RSI Divergence Levels GBPCHF,H1: removed
+2	03:10:17.366	Custom indicator AIMS Levels V2 USDCHF,H4: removed
+2	03:10:17.366	Custom indicator AIMS Entry Alert V1 USDCHF,H4: removed
+2	03:10:17.366	Custom indicator CandleTimer USDCHF,H4: removed
+2	03:10:17.366	Custom indicator #Signal_Bars_v6 USDCHF,H4: removed
+2	03:10:17.366	Custom indicator AIMS AO V.2.1 USDCHF,H4: removed
+2	03:10:17.366	Custom indicator IVT_MACD_ZERO_LAG USDCHF,H4: removed
+2	03:10:17.366	Custom indicator RSI Divergence Levels USDCHF,H4: removed
+2	03:10:20.256	Custom indicator AIMS Levels V2 EURUSD,M30: removed
+2	03:10:20.256	Custom indicator AIMS Entry Alert V1 EURUSD,M30: removed
+2	03:10:20.256	Custom indicator CandleTimer EURUSD,M30: removed
+2	03:10:20.256	Custom indicator #Signal_Bars_v6 EURUSD,M30: removed
+2	03:10:20.256	Custom indicator AIMS AO V.2.1 EURUSD,M30: removed
+2	03:10:20.256	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M30: removed
+2	03:10:20.256	Custom indicator RSI Divergence Levels EURUSD,M30: removed
+2	03:10:28.287	Custom indicator Heiken Ashi GBPAUD,H1: removed
+2	03:10:28.287	Custom indicator CHANNEL GBPAUD,H1: removed
+2	03:10:28.287	Custom indicator TARGET_LINES GBPAUD,H1: removed
+2	03:10:28.287	Custom indicator TREND-REVERS GBPAUD,H1: removed
+2	03:10:28.287	Custom indicator S&R GBPAUD,H1: removed
+2	03:10:28.287	Custom indicator ARROWS GBPAUD,H1: removed
+2	03:10:54.797	Custom indicator AIMS Levels V2 NZDCAD,H4: loaded successfully
+2	03:10:54.859	Custom indicator AIMS Entry Alert V1 NZDCAD,H4: loaded successfully
+2	03:10:54.859	Custom indicator CandleTimer NZDCAD,H4: loaded successfully
+2	03:10:54.922	Custom indicator #Signal_Bars_v6 NZDCAD,H4: loaded successfully
+2	03:10:54.984	Custom indicator AIMS AO V.2.1 NZDCAD,H4: loaded successfully
+2	03:10:55.000	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,H4: loaded successfully
+2	03:10:55.000	Custom indicator RSI Divergence Levels NZDCAD,H4: loaded successfully
+0	03:13:38.825	'14109544': close order #188843768 sell 0.10 CHFJPY at 113.194 sl: 113.283 tp: 0.000 at price 113.175
+0	03:13:39.465	'14109544': order #188843768 sell 0.10 CHFJPY at 113.194 sl: 113.283 tp: 0.000 closed at price 113.175
+0	03:14:26.443	'14109544': instant order buy 0.10 NZDCAD at 0.87956 sl: 0.00000 tp: 0.00000
+0	03:14:26.755	'14109544': order was opened : #188844670 buy 0.10 NZDCAD at 0.87956 sl: 0.00000 tp: 0.00000
+0	03:14:33.561	'14109544': modify order #188844670 buy 0.10 NZDCAD at 0.87956 sl: 0.00000 tp: 0.00000 -> sl: 0.87245 tp: 0.00000
+0	03:14:33.873	'14109544': order #188844670 buy 0.10 NZDCAD at 0.87956 was modified -> sl: 0.87245 tp: 0.00000
+0	03:15:16.636	'14109544': modify order #188844670 buy 0.10 NZDCAD at 0.87956 sl: 0.87245 tp: 0.00000 -> sl: 0.87245 tp: 0.88390
+0	03:15:16.964	'14109544': order #188844670 buy 0.10 NZDCAD at 0.87956 was modified -> sl: 0.87245 tp: 0.88390
+2	03:16:31.455	Custom indicator AIMS Levels V2 CHFJPY,M1: removed
+2	03:16:31.455	Custom indicator AIMS Entry Alert V1 CHFJPY,M1: removed
+2	03:16:31.455	Custom indicator CandleTimer CHFJPY,M1: removed
+2	03:16:31.455	Custom indicator #Signal_Bars_v6 CHFJPY,M1: removed
+2	03:16:31.455	Custom indicator AIMS AO V.2.1 CHFJPY,M1: removed
+2	03:16:31.455	Custom indicator IVT_MACD_ZERO_LAG CHFJPY,M1: removed
+2	03:16:31.455	Custom indicator RSI Divergence Levels CHFJPY,M1: removed
+2	03:17:51.157	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	03:17:51.222	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	03:17:51.232	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	03:17:51.292	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	03:17:51.354	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	03:17:51.362	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	03:17:51.364	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	03:20:19.405	Custom indicator AIMS Levels V2 AUDUSD,Daily: loaded successfully
+2	03:20:19.467	Custom indicator AIMS Entry Alert V1 AUDUSD,Daily: loaded successfully
+2	03:20:19.483	Custom indicator CandleTimer AUDUSD,Daily: loaded successfully
+2	03:20:19.530	Custom indicator #Signal_Bars_v6 AUDUSD,Daily: loaded successfully
+2	03:20:19.592	Custom indicator AIMS AO V.2.1 AUDUSD,Daily: loaded successfully
+2	03:20:19.608	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,Daily: loaded successfully
+2	03:20:19.608	Custom indicator RSI Divergence Levels AUDUSD,Daily: loaded successfully
+2	03:20:53.810	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	03:20:53.810	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	03:20:53.810	Custom indicator CandleTimer AUDUSD,H1: removed
+2	03:20:53.810	Custom indicator #Signal_Bars_v6 AUDUSD,H1: removed
+2	03:20:53.810	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	03:20:53.810	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	03:20:53.810	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	03:21:31.952	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	03:21:31.952	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	03:21:31.952	Custom indicator CandleTimer USDCAD,H1: removed
+2	03:21:31.952	Custom indicator #Signal_Bars_v6 USDCAD,H1: removed
+2	03:21:31.952	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	03:21:31.952	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	03:21:31.952	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	03:21:31.968	Custom indicator WATR USDCAD,H1: loaded successfully
+2	03:21:31.983	Custom indicator Xi-VLines20v1.02 USDCAD,H1: loaded successfully
+2	03:21:32.046	Custom indicator EWPro USDCAD,H1: loaded successfully
+2	03:21:32.061	Custom indicator #RSI_CANDLE USDCAD,H1: loaded successfully
+2	03:21:32.061	Custom indicator !MoneyLine2 USDCAD,H1: loaded successfully
+2	03:21:32.124	Custom indicator #MT TrendLine USDCAD,H1: loaded successfully
+2	03:21:32.186	Custom indicator FXSmooth EURUSD USDCAD,H1: loaded successfully
+2	03:21:32.249	Custom indicator T3_CCI_ divergence_v1 USDCAD,H1: loaded successfully
+2	03:21:40.700	Custom indicator WATR USDCAD,H1: removed
+2	03:21:40.700	Custom indicator Xi-VLines20v1.02 USDCAD,H1: removed
+2	03:21:40.700	Custom indicator EWPro USDCAD,H1: removed
+2	03:21:40.700	Custom indicator #RSI_CANDLE USDCAD,H1: removed
+2	03:21:40.700	Custom indicator !MoneyLine2 USDCAD,H1: removed
+2	03:21:40.700	Custom indicator #MT TrendLine USDCAD,H1: removed
+2	03:21:40.700	Custom indicator FXSmooth EURUSD USDCAD,H1: removed
+2	03:21:40.700	Custom indicator T3_CCI_ divergence_v1 USDCAD,H1: removed
+2	03:21:40.778	Custom indicator Heiken Ashi USDCAD,H1: loaded successfully
+2	03:21:40.840	Custom indicator CHANNEL USDCAD,H1: loaded successfully
+2	03:21:40.887	Custom indicator TARGET_LINES USDCAD,H1: loaded successfully
+2	03:21:40.950	Custom indicator TREND-REVERS USDCAD,H1: loaded successfully
+2	03:21:41.012	Custom indicator S&R USDCAD,H1: loaded successfully
+2	03:21:41.075	Custom indicator ARROWS USDCAD,H1: loaded successfully
+2	03:21:47.152	Custom indicator Heiken Ashi USDCAD,H1: removed
+2	03:21:47.152	Custom indicator CHANNEL USDCAD,H1: removed
+2	03:21:47.152	Custom indicator TARGET_LINES USDCAD,H1: removed
+2	03:21:47.152	Custom indicator TREND-REVERS USDCAD,H1: removed
+2	03:21:47.152	Custom indicator S&R USDCAD,H1: removed
+2	03:21:47.152	Custom indicator ARROWS USDCAD,H1: removed
+2	03:21:47.167	Custom indicator TDI Pro Fixed for vitalfx USDCAD,H1: loaded successfully
+2	03:21:56.759	Custom indicator TDI Pro Fixed for vitalfx USDCAD,H1: removed
+2	03:21:56.774	Custom indicator EDx USDCAD,H1: loaded successfully
+2	03:21:56.774	Custom indicator ESr2 USDCAD,H1: loaded successfully
+2	03:21:56.790	Custom indicator ETr2 USDCAD,H1: loaded successfully
+2	03:22:09.053	Custom indicator EDx USDCAD,H1: removed
+2	03:22:09.053	Custom indicator ESr2 USDCAD,H1: removed
+2	03:22:09.053	Custom indicator ETr2 USDCAD,H1: removed
+2	03:22:09.131	Custom indicator AnggrekJingga USDCAD,H1: loaded successfully
+2	03:22:09.177	Custom indicator BBSTOP USDCAD,H1: loaded successfully
+2	03:22:09.240	Custom indicator super-signals_v2b USDCAD,H1: loaded successfully
+2	03:22:09.256	Custom indicator ZigZag USDCAD,H1: loaded successfully
+2	03:22:09.302	Custom indicator Gst_Signal_3 USDCAD,H1: loaded successfully
+2	03:22:09.365	Custom indicator VQ USDCAD,H1: loaded successfully
+2	03:22:29.471	Custom indicator AnggrekJingga USDCAD,H1: removed
+2	03:22:29.471	Custom indicator BBSTOP USDCAD,H1: removed
+2	03:22:29.471	Custom indicator super-signals_v2b USDCAD,H1: removed
+2	03:22:29.471	Custom indicator ZigZag USDCAD,H1: removed
+2	03:22:29.471	Custom indicator Gst_Signal_3 USDCAD,H1: removed
+2	03:22:29.471	Custom indicator VQ USDCAD,H1: removed
+2	03:22:29.486	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	03:22:29.549	Custom indicator Entry USDCAD,H1: loaded successfully
+2	03:22:29.611	Custom indicator Trend USDCAD,H1: loaded successfully
+2	03:22:29.627	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	03:22:37.844	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	03:22:51.341	Custom indicator Entry USDCAD,H1: removed
+2	03:22:51.341	Custom indicator Trend USDCAD,H1: removed
+2	03:22:51.341	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	03:22:51.357	Custom indicator Timer-Best USDCAD,H1: loaded successfully
+2	03:22:51.372	Custom indicator Forex Infinity Trend Signals USDCAD,H1: loaded successfully
+2	03:22:51.372	Custom indicator Infinity Multi Pair Spread Monitor USDCAD,H1: loaded successfully
+2	03:22:51.403	Expert Make Money USDCAD,H1: loaded successfully
+2	03:23:08.132	Expert Make Money USDCAD,H1: removed
+2	03:23:08.132	Custom indicator Timer-Best USDCAD,H1: removed
+2	03:23:08.132	Custom indicator Forex Infinity Trend Signals USDCAD,H1: removed
+2	03:23:08.132	Custom indicator Infinity Multi Pair Spread Monitor USDCAD,H1: removed
+2	03:23:08.194	Custom indicator Forex Millionaire Indicator USDCAD,H1: loaded successfully
+2	03:23:08.210	Custom indicator CTimer_V5 USDCAD,H1: loaded successfully
+2	03:23:30.201	Custom indicator Forex Millionaire Indicator USDCAD,H1: removed
+2	03:23:30.201	Custom indicator CTimer_V5 USDCAD,H1: removed
+2	03:23:30.279	Custom indicator ForexProfitSupreme Meter USDCAD,H1: loaded successfully
+2	03:23:30.341	Custom indicator Forexprofitsupreme Bars USDCAD,H1: loaded successfully
+2	03:23:30.404	Custom indicator Forexprofitsupreme Signal USDCAD,H1: loaded successfully
+2	03:23:30.450	Custom indicator ForexprofitsupremeClock USDCAD,H1: loaded successfully
+2	03:23:30.513	Custom indicator ForexprofitsupremeFilter USDCAD,H1: loaded successfully
+2	03:23:30.575	Custom indicator ForexprofitsupremeDline USDCAD,H1: loaded successfully
+2	03:23:40.089	Custom indicator ForexProfitSupreme Meter USDCAD,H1: removed
+2	03:23:40.089	Custom indicator Forexprofitsupreme Bars USDCAD,H1: removed
+2	03:23:40.089	Custom indicator Forexprofitsupreme Signal USDCAD,H1: removed
+2	03:23:40.089	Custom indicator ForexprofitsupremeClock USDCAD,H1: removed
+2	03:23:40.089	Custom indicator ForexprofitsupremeFilter USDCAD,H1: removed
+2	03:23:40.089	Custom indicator ForexprofitsupremeDline USDCAD,H1: removed
+2	03:23:40.151	Custom indicator b-clock modified USDCAD,H1: loaded successfully
+2	03:23:40.167	Custom indicator AutoTrendChannel USDCAD,H1: loaded successfully
+2	03:23:40.229	Custom indicator phoenix USDCAD,H1: loaded successfully
+2	03:23:40.229	Custom indicator FuturoTI USDCAD,H1: loaded successfully
+2	03:23:56.176	Custom indicator b-clock modified USDCAD,H1: removed
+2	03:23:56.176	Custom indicator AutoTrendChannel USDCAD,H1: removed
+2	03:23:56.176	Custom indicator phoenix USDCAD,H1: removed
+2	03:23:56.176	Custom indicator FuturoTI USDCAD,H1: removed
+2	03:23:56.191	Custom indicator BBand Stop Alert USDCAD,H1: loaded successfully
+2	03:23:56.207	Custom indicator DMark_Breakout USDCAD,H1: loaded successfully
+0	03:24:12.712	'14109544': modify order #188844126 sell 0.10 USDCAD at 1.35307 sl: 1.36686 tp: 1.34430 -> sl: 1.36686 tp: 1.34051
+0	03:24:13.024	'14109544': order #188844126 sell 0.10 USDCAD at 1.35307 was modified -> sl: 1.36686 tp: 1.34051
+2	03:24:29.632	Custom indicator BBand Stop Alert USDCAD,H1: removed
+2	03:24:29.632	Custom indicator DMark_Breakout USDCAD,H1: removed
+2	03:24:29.647	Custom indicator StochCandles USDCAD,H1: loaded successfully
+2	03:24:29.710	Custom indicator PRICE USDCAD,H1: loaded successfully
+2	03:24:29.710	Custom indicator ADX_MA USDCAD,H1: loaded successfully
+2	03:24:29.725	Custom indicator Trend_Channel USDCAD,H1: loaded successfully
+2	03:24:29.741	Custom indicator SupportResistance Areas USDCAD,H1: loaded successfully
+2	03:24:29.741	Custom indicator TrendFilter2 USDCAD,H1: loaded successfully
+2	03:24:42.847	Custom indicator StochCandles USDCAD,H1: removed
+2	03:24:42.847	Custom indicator PRICE USDCAD,H1: removed
+2	03:24:42.847	Custom indicator ADX_MA USDCAD,H1: removed
+2	03:24:42.847	Custom indicator Trend_Channel USDCAD,H1: removed
+2	03:24:42.847	Custom indicator SupportResistance Areas USDCAD,H1: removed
+2	03:24:42.847	Custom indicator TrendFilter2 USDCAD,H1: removed
+2	03:24:42.878	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	03:24:42.941	Custom indicator Entry USDCAD,H1: loaded successfully
+2	03:24:43.003	Custom indicator Trend USDCAD,H1: loaded successfully
+2	03:24:43.003	Custom indicator Admiral Pivot USDCAD,H1: loaded successfully
+2	03:24:43.019	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	03:24:43.019	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	03:24:50.865	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	03:25:02.926	Custom indicator Entry USDCAD,H1: removed
+2	03:25:02.926	Custom indicator Trend USDCAD,H1: removed
+2	03:25:02.926	Custom indicator Admiral Pivot USDCAD,H1: removed
+2	03:25:02.926	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	03:25:02.926	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	03:25:02.989	Custom indicator b-clock modified USDCAD,H1: loaded successfully
+2	03:25:03.004	Custom indicator AutoTrendChannel USDCAD,H1: loaded successfully
+2	03:25:03.067	Custom indicator phoenix USDCAD,H1: loaded successfully
+2	03:25:14.777	Custom indicator b-clock modified USDCAD,H1: removed
+2	03:25:14.777	Custom indicator AutoTrendChannel USDCAD,H1: removed
+2	03:25:14.777	Custom indicator phoenix USDCAD,H1: removed
+2	03:25:14.871	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	03:25:14.918	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	03:25:14.933	Custom indicator CandleTimer USDCAD,H1: loaded successfully
+2	03:25:14.980	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	03:25:14.996	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	03:25:14.996	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	03:25:26.040	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	03:25:26.040	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	03:25:26.040	Custom indicator CandleTimer USDCAD,H1: removed
+2	03:25:26.040	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	03:25:26.040	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	03:25:26.040	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	03:25:26.118	Custom indicator e-Rainbow_01 USDCAD,H1: loaded successfully
+2	03:25:26.181	Custom indicator e-Rainbow_02 USDCAD,H1: loaded successfully
+2	03:25:26.228	Custom indicator e-Rainbow_03 USDCAD,H1: loaded successfully
+2	03:25:26.290	Custom indicator e-Rainbow_04 USDCAD,H1: loaded successfully
+2	03:25:26.353	Custom indicator e-Rainbow_05 USDCAD,H1: loaded successfully
+2	03:25:26.415	Custom indicator e-Rainbow_06 USDCAD,H1: loaded successfully
+2	03:25:26.478	Custom indicator e-Rainbow_07 USDCAD,H1: loaded successfully
+2	03:25:26.540	Custom indicator e-Rainbow_08 USDCAD,H1: loaded successfully
+2	03:25:26.603	Custom indicator e-Rainbow_09 USDCAD,H1: loaded successfully
+2	03:25:26.649	Custom indicator e-Rainbow_10 USDCAD,H1: loaded successfully
+2	03:25:26.712	Custom indicator e-Rainbow_11 USDCAD,H1: loaded successfully
+2	03:25:26.774	Custom indicator e-Rainbow_12 USDCAD,H1: loaded successfully
+2	03:26:25.109	Custom indicator e-Rainbow_01 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_02 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_03 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_04 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_05 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_06 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_07 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_08 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_09 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_10 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_11 USDCAD,H1: removed
+2	03:26:25.109	Custom indicator e-Rainbow_12 USDCAD,H1: removed
+2	03:26:25.171	Custom indicator Time zone Trading USDCAD,H1: loaded successfully
+2	03:26:25.187	Custom indicator Pivot Lines 2 USDCAD,H1: loaded successfully
+2	03:26:25.187	Custom indicator Trend_Line_MA USDCAD,H1: loaded successfully
+2	03:26:25.202	Custom indicator Trend_Filter USDCAD,H1: loaded successfully
+2	03:26:25.202	Custom indicator bb-squeeze USDCAD,H1: loaded successfully
+2	03:26:38.729	Custom indicator Time zone Trading USDCAD,H1: removed
+2	03:26:38.729	Custom indicator Pivot Lines 2 USDCAD,H1: removed
+2	03:26:38.729	Custom indicator Trend_Line_MA USDCAD,H1: removed
+2	03:26:38.729	Custom indicator Trend_Filter USDCAD,H1: removed
+2	03:26:38.729	Custom indicator bb-squeeze USDCAD,H1: removed
+2	03:26:38.744	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	03:26:38.744	Custom indicator DM_DSR USDCAD,H1: loaded successfully
+2	03:26:38.760	Custom indicator LJ_SIG USDCAD,H1: loaded successfully
+2	03:26:38.776	Custom indicator #MarketPrice _v1_4 USDCAD,H1: loaded successfully
+2	03:26:38.776	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	03:26:38.791	Custom indicator LJ_SYNERGY_ID USDCAD,H1: loaded successfully
+2	03:26:38.791	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: loaded successfully
+2	03:26:38.807	Custom indicator DM_Volatility USDCAD,H1: loaded successfully
+2	03:26:38.823	Custom indicator DM_RangeFactor USDCAD,H1: loaded successfully
+2	03:26:38.823	Custom indicator DM_Continuation USDCAD,H1: loaded successfully
+2	03:26:38.838	Custom indicator Status Monitor V1.2 USDCAD,H1: loaded successfully
+2	03:27:02.755	Custom indicator HeikenAshi_DM USDCAD,H1: removed
+2	03:27:02.770	Custom indicator DM_DSR USDCAD,H1: removed
+2	03:27:02.770	Custom indicator LJ_SIG USDCAD,H1: removed
+2	03:27:02.770	Custom indicator #MarketPrice _v1_4 USDCAD,H1: removed
+2	03:27:02.770	Custom indicator CandleCountdown USDCAD,H1: removed
+2	03:27:02.770	Custom indicator LJ_SYNERGY_ID USDCAD,H1: removed
+2	03:27:02.770	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: removed
+2	03:27:02.770	Custom indicator DM_Volatility USDCAD,H1: removed
+2	03:27:02.770	Custom indicator DM_RangeFactor USDCAD,H1: removed
+2	03:27:02.770	Custom indicator DM_Continuation USDCAD,H1: removed
+2	03:27:02.770	Custom indicator Status Monitor V1.2 USDCAD,H1: removed
+2	03:27:02.786	Custom indicator #LURCH_SRv5 USDCAD,H1: loaded successfully
+2	03:27:02.801	Custom indicator Schaff Trend Cycle USDCAD,H1: loaded successfully
+2	03:27:02.801	Custom indicator CCI USDCAD,H1: loaded successfully
+2	03:27:02.817	Custom indicator Schaff Trend Cycle USDCAD,H1: loaded successfully
+2	03:27:16.709	Custom indicator #LURCH_SRv5 USDCAD,H1: removed
+2	03:27:16.709	Custom indicator Schaff Trend Cycle USDCAD,H1: removed
+2	03:27:16.709	Custom indicator CCI USDCAD,H1: removed
+2	03:27:16.709	Custom indicator Schaff Trend Cycle USDCAD,H1: removed
+2	03:27:16.725	Custom indicator rsi chart bars USDCAD,H1: loaded successfully
+2	03:27:16.740	Custom indicator sell zone fibs USDCAD,H1: loaded successfully
+2	03:27:16.756	Custom indicator buy zone fibs USDCAD,H1: loaded successfully
+2	03:27:16.756	Custom indicator CCI USDCAD,H1: loaded successfully
+2	03:27:52.987	Custom indicator rsi chart bars USDCAD,H1: removed
+2	03:27:52.987	Custom indicator sell zone fibs USDCAD,H1: removed
+2	03:27:52.987	Custom indicator buy zone fibs USDCAD,H1: removed
+2	03:27:52.987	Custom indicator CCI USDCAD,H1: removed
+2	03:27:53.003	Custom indicator rsi chart bars USDCAD,H1: loaded successfully
+2	03:27:53.065	Custom indicator PBF_2EMA_Color USDCAD,H1: loaded successfully
+2	03:27:53.081	Custom indicator vertex_mod_3.01 alerts + arrows USDCAD,H1: loaded successfully
+2	03:29:16.154	Custom indicator Heiken Ashi CADJPY,M15: loaded successfully
+2	03:29:16.216	Custom indicator CHANNEL CADJPY,M15: loaded successfully
+2	03:29:16.279	Custom indicator TARGET_LINES CADJPY,M15: loaded successfully
+2	03:29:16.326	Custom indicator TREND-REVERS CADJPY,M15: loaded successfully
+2	03:29:16.388	Custom indicator S&R CADJPY,M15: loaded successfully
+2	03:29:16.450	Custom indicator ARROWS CADJPY,M15: loaded successfully
+2	03:29:32.769	Custom indicator Heiken Ashi CADJPY,M15: removed
+2	03:29:32.769	Custom indicator CHANNEL CADJPY,M15: removed
+2	03:29:32.769	Custom indicator TARGET_LINES CADJPY,M15: removed
+2	03:29:32.769	Custom indicator TREND-REVERS CADJPY,M15: removed
+2	03:29:32.769	Custom indicator S&R CADJPY,M15: removed
+2	03:29:32.769	Custom indicator ARROWS CADJPY,M15: removed
+2	03:29:32.769	Custom indicator WATR CADJPY,M15: loaded successfully
+2	03:29:32.785	Custom indicator Xi-VLines20v1.02 CADJPY,M15: loaded successfully
+2	03:29:32.847	Custom indicator EWPro CADJPY,M15: loaded successfully
+2	03:29:32.847	Custom indicator #RSI_CANDLE CADJPY,M15: loaded successfully
+2	03:29:32.863	Custom indicator !MoneyLine2 CADJPY,M15: loaded successfully
+2	03:29:32.926	Custom indicator #MT TrendLine CADJPY,M15: loaded successfully
+2	03:29:32.972	Custom indicator FXSmooth EURUSD CADJPY,M15: loaded successfully
+2	03:29:33.035	Custom indicator T3_CCI_ divergence_v1 CADJPY,M15: loaded successfully
+2	03:29:46.266	Custom indicator WATR CADJPY,M15: removed
+2	03:29:46.266	Custom indicator Xi-VLines20v1.02 CADJPY,M15: removed
+2	03:29:46.266	Custom indicator EWPro CADJPY,M15: removed
+2	03:29:46.266	Custom indicator #RSI_CANDLE CADJPY,M15: removed
+2	03:29:46.266	Custom indicator !MoneyLine2 CADJPY,M15: removed
+2	03:29:46.266	Custom indicator #MT TrendLine CADJPY,M15: removed
+2	03:29:46.266	Custom indicator FXSmooth EURUSD CADJPY,M15: removed
+2	03:29:46.266	Custom indicator T3_CCI_ divergence_v1 CADJPY,M15: removed
+2	03:29:46.344	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	03:29:46.391	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	03:29:46.407	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	03:29:46.469	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	03:29:46.516	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	03:29:46.532	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	03:29:46.532	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+0	03:29:56.860	'14109544': instant order sell 0.10 CADJPY at 79.289 sl: 0.000 tp: 0.000
+0	03:29:57.189	'14109544': order was opened : #188845489 sell 0.10 CADJPY at 79.289 sl: 0.000 tp: 0.000
+0	03:30:00.982	'14109544': modify order #188845489 sell 0.10 CADJPY at 79.289 sl: 0.000 tp: 0.000 -> sl: 79.437 tp: 0.000
+0	03:30:04.168	'14109544': order #188845489 sell 0.10 CADJPY at 79.289 was modified -> sl: 79.437 tp: 0.000
+0	03:30:07.962	'14109544': modify order #188845489 sell 0.10 CADJPY at 79.289 sl: 79.437 tp: 0.000 -> sl: 79.437 tp: 78.989
+0	03:30:11.219	'14109544': order #188845489 sell 0.10 CADJPY at 79.289 was modified -> sl: 79.437 tp: 78.989
+2	03:30:36.406	Custom indicator Heiken Ashi CADJPY,H4: loaded successfully
+2	03:30:36.469	Custom indicator CHANNEL CADJPY,H4: loaded successfully
+2	03:30:36.531	Custom indicator TARGET_LINES CADJPY,H4: loaded successfully
+2	03:30:36.578	Custom indicator TREND-REVERS CADJPY,H4: loaded successfully
+2	03:30:36.640	Custom indicator S&R CADJPY,H4: loaded successfully
+2	03:30:36.703	Custom indicator ARROWS CADJPY,H4: loaded successfully
+2	03:31:38.706	Custom indicator AIMS Levels V2 CADJPY,M15: removed
+2	03:31:38.706	Custom indicator AIMS Entry Alert V1 CADJPY,M15: removed
+2	03:31:38.721	Custom indicator CandleTimer CADJPY,M15: removed
+2	03:31:38.721	Custom indicator #Signal_Bars_v6 CADJPY,M15: removed
+2	03:31:38.721	Custom indicator AIMS AO V.2.1 CADJPY,M15: removed
+2	03:31:38.721	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: removed
+2	03:31:38.721	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	03:31:52.359	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	03:31:52.359	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	03:31:52.359	Custom indicator CandleTimer AUDUSD,H1: removed
+2	03:31:52.359	Custom indicator #Signal_Bars_v6 AUDUSD,H1: removed
+2	03:31:52.359	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	03:31:52.359	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	03:31:52.359	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	03:32:04.716	Custom indicator rsi chart bars USDCAD,H1: removed
+2	03:32:04.716	Custom indicator PBF_2EMA_Color USDCAD,H1: removed
+2	03:32:04.716	Custom indicator vertex_mod_3.01 alerts + arrows USDCAD,H1: removed
+2	03:32:04.778	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	03:32:04.840	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	03:32:04.856	Custom indicator CandleTimer USDCAD,H1: loaded successfully
+2	03:32:04.918	Custom indicator #Signal_Bars_v6 USDCAD,H1: loaded successfully
+2	03:32:04.981	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	03:32:04.981	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	03:32:04.996	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	03:33:01.861	Custom indicator Heiken Ashi EURJPY,M15: loaded successfully
+2	03:33:01.924	Custom indicator CHANNEL EURJPY,M15: loaded successfully
+2	03:33:01.986	Custom indicator TARGET_LINES EURJPY,M15: loaded successfully
+2	03:33:02.049	Custom indicator TREND-REVERS EURJPY,M15: loaded successfully
+2	03:33:02.111	Custom indicator S&R EURJPY,M15: loaded successfully
+2	03:33:02.158	Custom indicator ARROWS EURJPY,M15: loaded successfully
+0	03:33:12.822	'14109544': instant order sell 0.10 EURJPY at 121.686 sl: 0.000 tp: 0.000
+0	03:33:13.150	'14109544': order was opened : #188845644 sell 0.10 EURJPY at 121.686 sl: 0.000 tp: 0.000
+0	03:33:20.642	'14109544': modify order #188845644 sell 0.10 EURJPY at 121.686 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 121.388
+0	03:33:23.995	'14109544': order #188845644 sell 0.10 EURJPY at 121.686 was modified -> sl: 0.000 tp: 121.388
+0	03:33:28.025	'14109544': modify order #188845644 sell 0.10 EURJPY at 121.686 sl: 0.000 tp: 121.388 -> sl: 121.866 tp: 121.388
+0	03:33:28.325	'14109544': order #188845644 sell 0.10 EURJPY at 121.686 was modified -> sl: 121.866 tp: 121.388
+2	03:33:47.993	Custom indicator Heiken Ashi EURJPY,M15: removed
+2	03:33:47.993	Custom indicator CHANNEL EURJPY,M15: removed
+2	03:33:47.993	Custom indicator TARGET_LINES EURJPY,M15: removed
+2	03:33:47.993	Custom indicator TREND-REVERS EURJPY,M15: removed
+2	03:33:47.993	Custom indicator S&R EURJPY,M15: removed
+2	03:33:47.993	Custom indicator ARROWS EURJPY,M15: removed
+2	03:33:48.071	Custom indicator AIMS Levels V2 EURJPY,M15: loaded successfully
+2	03:33:48.118	Custom indicator AIMS Entry Alert V1 EURJPY,M15: loaded successfully
+2	03:33:48.134	Custom indicator CandleTimer EURJPY,M15: loaded successfully
+2	03:33:48.196	Custom indicator #Signal_Bars_v6 EURJPY,M15: loaded successfully
+2	03:33:48.243	Custom indicator AIMS AO V.2.1 EURJPY,M15: loaded successfully
+2	03:33:48.259	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M15: loaded successfully
+2	03:33:48.259	Custom indicator RSI Divergence Levels EURJPY,M15: loaded successfully
+2	03:34:22.631	Custom indicator Heiken Ashi EURCHF,M15: loaded successfully
+2	03:34:22.694	Custom indicator CHANNEL EURCHF,M15: loaded successfully
+2	03:34:22.740	Custom indicator TARGET_LINES EURCHF,M15: loaded successfully
+2	03:34:22.803	Custom indicator TREND-REVERS EURCHF,M15: loaded successfully
+2	03:34:22.865	Custom indicator S&R EURCHF,M15: loaded successfully
+2	03:34:22.928	Custom indicator ARROWS EURCHF,M15: loaded successfully
+0	03:34:31.763	'14109544': instant order sell 0.10 EURCHF at 1.07504 sl: 0.00000 tp: 0.00000
+0	03:34:32.060	'14109544': order was opened : #188845722 sell 0.10 EURCHF at 1.07504 sl: 0.00000 tp: 0.00000
+0	03:34:39.593	'14109544': modify order #188845722 sell 0.10 EURCHF at 1.07504 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.07283
+0	03:34:43.030	'14109544': order #188845722 sell 0.10 EURCHF at 1.07504 was modified -> sl: 0.00000 tp: 1.07283
+0	03:34:46.306	'14109544': modify order #188845722 sell 0.10 EURCHF at 1.07504 sl: 0.00000 tp: 1.07283 -> sl: 1.07616 tp: 1.07283
+0	03:34:50.134	'14109544': order #188845722 sell 0.10 EURCHF at 1.07504 was modified -> sl: 1.07616 tp: 1.07283
+2	03:34:59.518	Custom indicator Heiken Ashi EURCHF,M15: removed
+2	03:34:59.518	Custom indicator CHANNEL EURCHF,M15: removed
+2	03:34:59.518	Custom indicator TARGET_LINES EURCHF,M15: removed
+2	03:34:59.518	Custom indicator TREND-REVERS EURCHF,M15: removed
+2	03:34:59.518	Custom indicator S&R EURCHF,M15: removed
+2	03:34:59.518	Custom indicator ARROWS EURCHF,M15: removed
+2	03:34:59.580	Custom indicator AIMS Levels V2 EURCHF,M15: loaded successfully
+2	03:34:59.643	Custom indicator AIMS Entry Alert V1 EURCHF,M15: loaded successfully
+2	03:34:59.643	Custom indicator CandleTimer EURCHF,M15: loaded successfully
+2	03:34:59.705	Custom indicator #Signal_Bars_v6 EURCHF,M15: loaded successfully
+2	03:34:59.768	Custom indicator AIMS AO V.2.1 EURCHF,M15: loaded successfully
+2	03:34:59.768	Custom indicator IVT_MACD_ZERO_LAG EURCHF,M15: loaded successfully
+2	03:34:59.784	Custom indicator RSI Divergence Levels EURCHF,M15: loaded successfully
+2	03:36:12.054	Custom indicator Heiken Ashi CADJPY,M15: removed
+2	03:36:12.054	Custom indicator CHANNEL CADJPY,M15: removed
+2	03:36:12.054	Custom indicator TARGET_LINES CADJPY,M15: removed
+2	03:36:12.054	Custom indicator TREND-REVERS CADJPY,M15: removed
+2	03:36:12.054	Custom indicator S&R CADJPY,M15: removed
+2	03:36:12.054	Custom indicator ARROWS CADJPY,M15: removed
+2	03:36:12.117	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	03:36:12.179	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	03:36:12.195	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	03:36:12.242	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	03:36:12.304	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	03:36:12.320	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	03:36:12.320	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	03:36:41.517	Custom indicator Heiken Ashi EURGBP,M15: loaded successfully
+2	03:36:41.579	Custom indicator CHANNEL EURGBP,M15: loaded successfully
+2	03:36:41.642	Custom indicator TARGET_LINES EURGBP,M15: loaded successfully
+2	03:36:41.704	Custom indicator TREND-REVERS EURGBP,M15: loaded successfully
+2	03:36:41.751	Custom indicator S&R EURGBP,M15: loaded successfully
+2	03:36:41.814	Custom indicator ARROWS EURGBP,M15: loaded successfully
+2	03:37:01.840	Custom indicator Heiken Ashi EURGBP,M15: removed
+2	03:37:01.840	Custom indicator CHANNEL EURGBP,M15: removed
+2	03:37:01.840	Custom indicator TARGET_LINES EURGBP,M15: removed
+2	03:37:01.840	Custom indicator TREND-REVERS EURGBP,M15: removed
+2	03:37:01.840	Custom indicator S&R EURGBP,M15: removed
+2	03:37:01.840	Custom indicator ARROWS EURGBP,M15: removed
+2	03:37:01.840	Custom indicator WATR EURGBP,M15: loaded successfully
+2	03:37:01.856	Custom indicator Xi-VLines20v1.02 EURGBP,M15: loaded successfully
+2	03:37:01.918	Custom indicator EWPro EURGBP,M15: loaded successfully
+2	03:37:01.918	Custom indicator #RSI_CANDLE EURGBP,M15: loaded successfully
+2	03:37:01.934	Custom indicator !MoneyLine2 EURGBP,M15: loaded successfully
+2	03:37:01.996	Custom indicator #MT TrendLine EURGBP,M15: loaded successfully
+2	03:37:02.043	Custom indicator FXSmooth EURUSD EURGBP,M15: loaded successfully
+2	03:37:02.106	Custom indicator T3_CCI_ divergence_v1 EURGBP,M15: loaded successfully
+2	03:37:24.817	Custom indicator WATR EURGBP,M15: removed
+2	03:37:24.817	Custom indicator Xi-VLines20v1.02 EURGBP,M15: removed
+2	03:37:24.817	Custom indicator EWPro EURGBP,M15: removed
+2	03:37:24.817	Custom indicator #RSI_CANDLE EURGBP,M15: removed
+2	03:37:24.817	Custom indicator !MoneyLine2 EURGBP,M15: removed
+2	03:37:24.817	Custom indicator #MT TrendLine EURGBP,M15: removed
+2	03:37:24.817	Custom indicator FXSmooth EURUSD EURGBP,M15: removed
+2	03:37:24.817	Custom indicator T3_CCI_ divergence_v1 EURGBP,M15: removed
+2	03:37:24.879	Custom indicator Heiken Ashi EURGBP,M15: loaded successfully
+2	03:37:24.942	Custom indicator CHANNEL EURGBP,M15: loaded successfully
+2	03:37:25.004	Custom indicator TARGET_LINES EURGBP,M15: loaded successfully
+2	03:37:25.051	Custom indicator TREND-REVERS EURGBP,M15: loaded successfully
+2	03:37:25.114	Custom indicator S&R EURGBP,M15: loaded successfully
+2	03:37:25.176	Custom indicator ARROWS EURGBP,M15: loaded successfully
+2	03:37:38.591	Custom indicator Heiken Ashi EURGBP,M15: removed
+2	03:37:38.591	Custom indicator CHANNEL EURGBP,M15: removed
+2	03:37:38.591	Custom indicator TARGET_LINES EURGBP,M15: removed
+2	03:37:38.591	Custom indicator TREND-REVERS EURGBP,M15: removed
+2	03:37:38.591	Custom indicator S&R EURGBP,M15: removed
+2	03:37:38.591	Custom indicator ARROWS EURGBP,M15: removed
+2	03:37:38.607	Custom indicator TDI Pro Fixed for vitalfx EURGBP,M15: loaded successfully
+2	03:37:45.464	Custom indicator TDI Pro Fixed for vitalfx EURGBP,M15: removed
+2	03:45:37.800	Custom indicator AIMS Levels V2 EURGBP,M15: loaded successfully
+2	03:45:37.862	Custom indicator AIMS Entry Alert V1 EURGBP,M15: loaded successfully
+2	03:45:37.862	Custom indicator CandleTimer EURGBP,M15: loaded successfully
+2	03:45:37.925	Custom indicator #Signal_Bars_v6 EURGBP,M15: loaded successfully
+2	03:45:37.972	Custom indicator AIMS AO V.2.1 EURGBP,M15: loaded successfully
+2	03:45:37.987	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M15: loaded successfully
+2	03:45:37.987	Custom indicator RSI Divergence Levels EURGBP,M15: loaded successfully
+2	03:45:48.094	Custom indicator AIMS Levels V2 EURGBP,M15: removed
+2	03:45:48.094	Custom indicator AIMS Entry Alert V1 EURGBP,M15: removed
+2	03:45:48.094	Custom indicator CandleTimer EURGBP,M15: removed
+2	03:45:48.094	Custom indicator #Signal_Bars_v6 EURGBP,M15: removed
+2	03:45:48.094	Custom indicator AIMS AO V.2.1 EURGBP,M15: removed
+2	03:45:48.094	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M15: removed
+2	03:45:48.094	Custom indicator RSI Divergence Levels EURGBP,M15: removed
+2	03:45:48.157	Custom indicator Heiken Ashi EURGBP,M15: loaded successfully
+2	03:45:48.219	Custom indicator CHANNEL EURGBP,M15: loaded successfully
+2	03:45:48.282	Custom indicator TARGET_LINES EURGBP,M15: loaded successfully
+2	03:45:48.329	Custom indicator TREND-REVERS EURGBP,M15: loaded successfully
+2	03:45:48.391	Custom indicator S&R EURGBP,M15: loaded successfully
+2	03:45:48.454	Custom indicator ARROWS EURGBP,M15: loaded successfully
+2	03:45:57.608	Custom indicator Heiken Ashi EURGBP,M15: removed
+2	03:45:57.608	Custom indicator CHANNEL EURGBP,M15: removed
+2	03:45:57.608	Custom indicator TARGET_LINES EURGBP,M15: removed
+2	03:45:57.608	Custom indicator TREND-REVERS EURGBP,M15: removed
+2	03:45:57.608	Custom indicator S&R EURGBP,M15: removed
+2	03:45:57.608	Custom indicator ARROWS EURGBP,M15: removed
+2	03:45:57.623	Custom indicator WATR EURGBP,M15: loaded successfully
+2	03:45:57.623	Custom indicator Xi-VLines20v1.02 EURGBP,M15: loaded successfully
+2	03:45:57.686	Custom indicator EWPro EURGBP,M15: loaded successfully
+2	03:45:57.701	Custom indicator #RSI_CANDLE EURGBP,M15: loaded successfully
+2	03:45:57.701	Custom indicator !MoneyLine2 EURGBP,M15: loaded successfully
+2	03:45:57.764	Custom indicator #MT TrendLine EURGBP,M15: loaded successfully
+2	03:45:57.826	Custom indicator FXSmooth EURUSD EURGBP,M15: loaded successfully
+2	03:45:57.873	Custom indicator T3_CCI_ divergence_v1 EURGBP,M15: loaded successfully
+2	03:46:39.371	Custom indicator WATR EURGBP,M15: removed
+2	03:46:39.371	Custom indicator Xi-VLines20v1.02 EURGBP,M15: removed
+2	03:46:39.371	Custom indicator EWPro EURGBP,M15: removed
+2	03:46:39.371	Custom indicator #RSI_CANDLE EURGBP,M15: removed
+2	03:46:39.371	Custom indicator !MoneyLine2 EURGBP,M15: removed
+2	03:46:39.371	Custom indicator #MT TrendLine EURGBP,M15: removed
+2	03:46:39.371	Custom indicator FXSmooth EURUSD EURGBP,M15: removed
+2	03:46:39.371	Custom indicator T3_CCI_ divergence_v1 EURGBP,M15: removed
+2	03:46:39.387	Custom indicator TDI Pro Fixed for vitalfx EURGBP,M15: loaded successfully
+2	03:46:47.713	Custom indicator TDI Pro Fixed for vitalfx EURGBP,M15: removed
+2	03:47:36.362	Custom indicator Heiken Ashi NZDJPY,M15: loaded successfully
+2	03:47:36.424	Custom indicator CHANNEL NZDJPY,M15: loaded successfully
+2	03:47:36.487	Custom indicator TARGET_LINES NZDJPY,M15: loaded successfully
+2	03:47:36.549	Custom indicator TREND-REVERS NZDJPY,M15: loaded successfully
+2	03:47:36.596	Custom indicator S&R NZDJPY,M15: loaded successfully
+2	03:47:36.674	Custom indicator ARROWS NZDJPY,M15: loaded successfully
+0	03:47:58.450	'14109544': instant order sell 0.10 NZDJPY at 69.648 sl: 0.000 tp: 0.000
+0	03:47:59.060	'14109544': order was opened : #188846384 sell 0.10 NZDJPY at 69.648 sl: 0.000 tp: 0.000
+0	03:48:05.477	'14109544': modify order #188846384 sell 0.10 NZDJPY at 69.648 sl: 0.000 tp: 0.000 -> sl: 69.866 tp: 0.000
+0	03:48:05.790	'14109544': order #188846384 sell 0.10 NZDJPY at 69.648 was modified -> sl: 69.866 tp: 0.000
+0	03:48:12.174	'14109544': modify order #188846384 sell 0.10 NZDJPY at 69.648 sl: 69.866 tp: 0.000 -> sl: 69.866 tp: 69.182
+0	03:48:12.518	'14109544': order #188846384 sell 0.10 NZDJPY at 69.648 was modified -> sl: 69.866 tp: 69.182
+2	03:48:19.217	Custom indicator Heiken Ashi NZDJPY,M15: removed
+2	03:48:19.217	Custom indicator CHANNEL NZDJPY,M15: removed
+2	03:48:19.217	Custom indicator TARGET_LINES NZDJPY,M15: removed
+2	03:48:19.217	Custom indicator TREND-REVERS NZDJPY,M15: removed
+2	03:48:19.217	Custom indicator S&R NZDJPY,M15: removed
+2	03:48:19.217	Custom indicator ARROWS NZDJPY,M15: removed
+2	03:48:19.279	Custom indicator AIMS Levels V2 NZDJPY,M15: loaded successfully
+2	03:48:19.357	Custom indicator AIMS Entry Alert V1 NZDJPY,M15: loaded successfully
+2	03:48:19.357	Custom indicator CandleTimer NZDJPY,M15: loaded successfully
+2	03:48:19.420	Custom indicator #Signal_Bars_v6 NZDJPY,M15: loaded successfully
+2	03:48:19.482	Custom indicator AIMS AO V.2.1 NZDJPY,M15: loaded successfully
+2	03:48:19.498	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,M15: loaded successfully
+2	03:48:19.498	Custom indicator RSI Divergence Levels NZDJPY,M15: loaded successfully
+0	03:49:25.444	'14109544': login on Exness-Real4 through DC06 (ping: 301.19 ms)
+0	03:49:28.108	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 301.19 ms)
+0	03:49:29.577	'14109544': previous successful authorization performed from 220.242.138.56
+0	03:49:54.909	'14109544': ping to current access point DC06 is 311.31 ms
+2	04:00:27.531	Custom indicator Heiken Ashi NZDCHF,H1: loaded successfully
+2	04:00:27.594	Custom indicator CHANNEL NZDCHF,H1: loaded successfully
+2	04:00:27.656	Custom indicator TARGET_LINES NZDCHF,H1: loaded successfully
+2	04:00:27.717	Custom indicator TREND-REVERS NZDCHF,H1: loaded successfully
+2	04:00:27.780	Custom indicator S&R NZDCHF,H1: loaded successfully
+2	04:00:27.845	Custom indicator ARROWS NZDCHF,H1: loaded successfully
+2	04:00:56.426	Custom indicator AIMS Levels V2 NZDJPY,M15: removed
+2	04:00:56.426	Custom indicator AIMS Entry Alert V1 NZDJPY,M15: removed
+2	04:00:56.427	Custom indicator CandleTimer NZDJPY,M15: removed
+2	04:00:56.427	Custom indicator #Signal_Bars_v6 NZDJPY,M15: removed
+2	04:00:56.427	Custom indicator AIMS AO V.2.1 NZDJPY,M15: removed
+2	04:00:56.429	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,M15: removed
+2	04:00:56.431	Custom indicator RSI Divergence Levels NZDJPY,M15: removed
+2	04:00:56.496	Custom indicator Heiken Ashi NZDJPY,M15: loaded successfully
+2	04:00:56.561	Custom indicator CHANNEL NZDJPY,M15: loaded successfully
+2	04:00:56.621	Custom indicator TARGET_LINES NZDJPY,M15: loaded successfully
+2	04:00:56.682	Custom indicator TREND-REVERS NZDJPY,M15: loaded successfully
+2	04:00:56.744	Custom indicator S&R NZDJPY,M15: loaded successfully
+2	04:00:56.807	Custom indicator ARROWS NZDJPY,M15: loaded successfully
+2	04:01:52.827	Custom indicator Heiken Ashi NZDCHF,H1: removed
+2	04:01:52.827	Custom indicator CHANNEL NZDCHF,H1: removed
+2	04:01:52.827	Custom indicator TARGET_LINES NZDCHF,H1: removed
+2	04:01:52.827	Custom indicator TREND-REVERS NZDCHF,H1: removed
+2	04:01:52.827	Custom indicator S&R NZDCHF,H1: removed
+2	04:01:52.827	Custom indicator ARROWS NZDCHF,H1: removed
+2	04:01:52.896	Custom indicator AIMS Levels V2 NZDCHF,H1: loaded successfully
+2	04:01:52.958	Custom indicator AIMS Entry Alert V1 NZDCHF,H1: loaded successfully
+2	04:01:52.965	Custom indicator CandleTimer NZDCHF,H1: loaded successfully
+2	04:01:53.026	Custom indicator #Signal_Bars_v6 NZDCHF,H1: loaded successfully
+2	04:01:53.088	Custom indicator AIMS AO V.2.1 NZDCHF,H1: loaded successfully
+2	04:01:53.095	Custom indicator IVT_MACD_ZERO_LAG NZDCHF,H1: loaded successfully
+2	04:01:53.104	Custom indicator RSI Divergence Levels NZDCHF,H1: loaded successfully
+2	04:02:13.487	Custom indicator AIMS Levels V2 NZDCHF,H1: removed
+2	04:02:13.487	Custom indicator AIMS Entry Alert V1 NZDCHF,H1: removed
+2	04:02:13.488	Custom indicator CandleTimer NZDCHF,H1: removed
+2	04:02:13.488	Custom indicator #Signal_Bars_v6 NZDCHF,H1: removed
+2	04:02:13.488	Custom indicator AIMS AO V.2.1 NZDCHF,H1: removed
+2	04:02:13.490	Custom indicator IVT_MACD_ZERO_LAG NZDCHF,H1: removed
+2	04:02:13.491	Custom indicator RSI Divergence Levels NZDCHF,H1: removed
+2	04:02:13.500	Custom indicator TDI Pro Fixed for vitalfx NZDCHF,H1: loaded successfully
+2	04:02:27.066	Custom indicator TDI Pro Fixed for vitalfx NZDCHF,H1: removed
+2	04:03:13.930	Custom indicator Heiken Ashi DE30,M15: removed
+2	04:03:13.930	Custom indicator CHANNEL DE30,M15: removed
+2	04:03:13.931	Custom indicator TARGET_LINES DE30,M15: removed
+2	04:03:13.931	Custom indicator TREND-REVERS DE30,M15: removed
+2	04:03:13.931	Custom indicator S&R DE30,M15: removed
+2	04:03:13.931	Custom indicator ARROWS DE30,M15: removed
+2	04:03:14.001	Custom indicator AIMS Levels V2 DE30,M15: loaded successfully
+2	04:03:14.065	Custom indicator AIMS Entry Alert V1 DE30,M15: loaded successfully
+2	04:03:14.072	Custom indicator CandleTimer DE30,M15: loaded successfully
+2	04:03:14.137	Custom indicator #Signal_Bars_v6 DE30,M15: loaded successfully
+2	04:03:14.203	Custom indicator AIMS AO V.2.1 DE30,M15: loaded successfully
+2	04:03:14.212	Custom indicator IVT_MACD_ZERO_LAG DE30,M15: loaded successfully
+2	04:03:14.221	Custom indicator RSI Divergence Levels DE30,M15: loaded successfully
+2	04:39:02.840	Custom indicator AIMS Levels V2 NZDCAD,H4: removed
+2	04:39:02.840	Custom indicator AIMS Entry Alert V1 NZDCAD,H4: removed
+2	04:39:02.842	Custom indicator CandleTimer NZDCAD,H4: removed
+2	04:39:02.842	Custom indicator #Signal_Bars_v6 NZDCAD,H4: removed
+2	04:39:02.842	Custom indicator AIMS AO V.2.1 NZDCAD,H4: removed
+2	04:39:02.844	Custom indicator IVT_MACD_ZERO_LAG NZDCAD,H4: removed
+2	04:39:02.845	Custom indicator RSI Divergence Levels NZDCAD,H4: removed
+2	04:39:02.915	Custom indicator Heiken Ashi NZDCAD,H4: loaded successfully
+2	04:39:02.981	Custom indicator CHANNEL NZDCAD,H4: loaded successfully
+2	04:39:03.045	Custom indicator TARGET_LINES NZDCAD,H4: loaded successfully
+2	04:39:03.108	Custom indicator TREND-REVERS NZDCAD,H4: loaded successfully
+2	04:39:03.171	Custom indicator S&R NZDCAD,H4: loaded successfully
+2	04:39:03.237	Custom indicator ARROWS NZDCAD,H4: loaded successfully
+0	04:39:26.103	'14109544': close order #188844670 buy 0.10 NZDCAD at 0.87956 sl: 0.87245 tp: 0.88390 at price 0.87775
+0	04:39:26.475	'14109544': order #188844670 buy 0.10 NZDCAD at 0.87956 sl: 0.87245 tp: 0.88390 closed at price 0.87775
+2	04:39:52.665	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	04:39:52.666	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	04:39:52.669	Custom indicator CandleTimer USDCAD,H1: removed
+2	04:39:52.669	Custom indicator #Signal_Bars_v6 USDCAD,H1: removed
+2	04:39:52.669	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	04:39:52.672	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	04:39:52.674	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	04:39:52.741	Custom indicator Heiken Ashi USDCAD,H1: loaded successfully
+2	04:39:52.807	Custom indicator CHANNEL USDCAD,H1: loaded successfully
+2	04:39:52.869	Custom indicator TARGET_LINES USDCAD,H1: loaded successfully
+2	04:39:52.934	Custom indicator TREND-REVERS USDCAD,H1: loaded successfully
+2	04:39:52.998	Custom indicator S&R USDCAD,H1: loaded successfully
+2	04:39:53.064	Custom indicator ARROWS USDCAD,H1: loaded successfully
+2	04:41:38.598	Custom indicator Heiken Ashi NZDCAD,H1: removed
+2	04:41:38.598	Custom indicator CHANNEL NZDCAD,H1: removed
+2	04:41:38.598	Custom indicator TARGET_LINES NZDCAD,H1: removed
+2	04:41:38.598	Custom indicator TREND-REVERS NZDCAD,H1: removed
+2	04:41:38.598	Custom indicator S&R NZDCAD,H1: removed
+2	04:41:38.598	Custom indicator ARROWS NZDCAD,H1: removed
+0	04:44:48.070	'14109544': close order #188844126 sell 0.10 USDCAD at 1.35307 sl: 1.36686 tp: 1.34051 at price 1.35474
+0	04:44:48.481	'14109544': order #188844126 sell 0.10 USDCAD at 1.35307 sl: 1.36686 tp: 1.34051 closed at price 1.35474
+2	04:45:01.821	Custom indicator Heiken Ashi USDCAD,M15: removed
+2	04:45:01.821	Custom indicator CHANNEL USDCAD,M15: removed
+2	04:45:01.821	Custom indicator TARGET_LINES USDCAD,M15: removed
+2	04:45:01.821	Custom indicator TREND-REVERS USDCAD,M15: removed
+2	04:45:01.821	Custom indicator S&R USDCAD,M15: removed
+2	04:45:01.821	Custom indicator ARROWS USDCAD,M15: removed
+0	05:04:07.315	'14109544': close order #188845644 sell 0.10 EURJPY at 121.686 sl: 121.866 tp: 121.388 at price 121.636
+0	05:04:08.072	'14109544': order #188845644 sell 0.10 EURJPY at 121.686 sl: 121.866 tp: 121.388 closed at price 121.636
+0	05:31:22.983	'14109544': order #188845489 sell 0.10 CADJPY at 79.289 closed due stop-loss at price 79.437
+0	05:35:19.468	'14109544': order #188846384 sell 0.10 NZDJPY at 69.648 closed due stop-loss at price 69.866
+0	05:46:25.336	'14109544': order #188845722 sell 0.10 EURCHF at 1.07504 closed due stop-loss at price 1.07616
+2	06:23:50.730	Custom indicator AIMS Levels V2 DE30,M15: removed
+2	06:23:50.731	Custom indicator AIMS Entry Alert V1 DE30,M15: removed
+2	06:23:50.733	Custom indicator CandleTimer DE30,M15: removed
+2	06:23:50.733	Custom indicator #Signal_Bars_v6 DE30,M15: removed
+2	06:23:50.733	Custom indicator AIMS AO V.2.1 DE30,M15: removed
+2	06:23:50.736	Custom indicator IVT_MACD_ZERO_LAG DE30,M15: removed
+2	06:23:50.742	Custom indicator RSI Divergence Levels DE30,M15: removed
+2	06:23:50.763	Custom indicator AIMS Levels V2 US30,M15: removed
+2	06:23:50.763	Custom indicator AIMS Entry Alert V1 US30,M15: removed
+2	06:23:50.765	Custom indicator CandleTimer US30,M15: removed
+2	06:23:50.765	Custom indicator #Signal_Bars_v6 US30,M15: removed
+2	06:23:50.765	Custom indicator AIMS AO V.2.1 US30,M15: removed
+2	06:23:50.769	Custom indicator IVT_MACD_ZERO_LAG US30,M15: removed
+2	06:23:50.774	Custom indicator RSI Divergence Levels US30,M15: removed
+2	06:23:50.779	Custom indicator AIMS Levels V2 FR40,M15: removed
+2	06:23:50.779	Custom indicator AIMS Entry Alert V1 FR40,M15: removed
+2	06:23:50.781	Custom indicator CandleTimer FR40,M15: removed
+2	06:23:50.781	Custom indicator #Signal_Bars_v6 FR40,M15: removed
+2	06:23:50.781	Custom indicator AIMS AO V.2.1 FR40,M15: removed
+2	06:23:50.783	Custom indicator IVT_MACD_ZERO_LAG FR40,M15: removed
+2	06:23:50.787	Custom indicator RSI Divergence Levels FR40,M15: removed
+2	06:23:50.795	Custom indicator AIMS Levels V2 USTEC,M15: removed
+2	06:23:50.795	Custom indicator AIMS Entry Alert V1 USTEC,M15: removed
+2	06:23:50.797	Custom indicator CandleTimer USTEC,M15: removed
+2	06:23:50.797	Custom indicator #Signal_Bars_v6 USTEC,M15: removed
+2	06:23:50.797	Custom indicator AIMS AO V.2.1 USTEC,M15: removed
+2	06:23:50.799	Custom indicator IVT_MACD_ZERO_LAG USTEC,M15: removed
+2	06:23:50.801	Custom indicator RSI Divergence Levels USTEC,M15: removed
+2	06:23:50.809	Custom indicator AIMS Levels V2 USOIL,M15: removed
+2	06:23:50.809	Custom indicator AIMS Entry Alert V1 USOIL,M15: removed
+2	06:23:50.811	Custom indicator CandleTimer USOIL,M15: removed
+2	06:23:50.811	Custom indicator #Signal_Bars_v6 USOIL,M15: removed
+2	06:23:50.811	Custom indicator AIMS AO V.2.1 USOIL,M15: removed
+2	06:23:50.813	Custom indicator IVT_MACD_ZERO_LAG USOIL,M15: removed
+2	06:23:50.815	Custom indicator RSI Divergence Levels USOIL,M15: removed
+2	06:23:50.820	Custom indicator AIMS Levels V2 XAUUSD,M15: removed
+2	06:23:50.821	Custom indicator AIMS Entry Alert V1 XAUUSD,M15: removed
+2	06:23:50.824	Custom indicator CandleTimer XAUUSD,M15: removed
+2	06:23:50.825	Custom indicator #Signal_Bars_v6 XAUUSD,M15: removed
+2	06:23:50.825	Custom indicator AIMS AO V.2.1 XAUUSD,M15: removed
+2	06:23:50.826	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M15: removed
+2	06:23:50.828	Custom indicator RSI Divergence Levels XAUUSD,M15: removed
+2	06:23:50.855	Expert ForexSignals-NakedTrading-v1.3 AUDUSD,M30: removed
+2	06:23:50.862	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: removed
+2	06:23:50.865	Custom indicator AIMS Levels V2 CADJPY,M15: removed
+2	06:23:50.865	Custom indicator AIMS Entry Alert V1 CADJPY,M15: removed
+2	06:23:50.867	Custom indicator CandleTimer CADJPY,M15: removed
+2	06:23:50.867	Custom indicator #Signal_Bars_v6 CADJPY,M15: removed
+2	06:23:50.867	Custom indicator AIMS AO V.2.1 CADJPY,M15: removed
+2	06:23:50.869	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: removed
+2	06:23:50.873	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	06:23:50.875	Custom indicator AIMS Levels V2 EURJPY,M15: removed
+2	06:23:50.875	Custom indicator AIMS Entry Alert V1 EURJPY,M15: removed
+2	06:23:50.877	Custom indicator CandleTimer EURJPY,M15: removed
+2	06:23:50.877	Custom indicator #Signal_Bars_v6 EURJPY,M15: removed
+2	06:23:50.877	Custom indicator AIMS AO V.2.1 EURJPY,M15: removed
+2	06:23:50.879	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M15: removed
+2	06:23:50.880	Custom indicator RSI Divergence Levels EURJPY,M15: removed
+2	06:23:50.882	Custom indicator AIMS Levels V2 EURCHF,M15: removed
+2	06:23:50.883	Custom indicator AIMS Entry Alert V1 EURCHF,M15: removed
+2	06:23:50.884	Custom indicator CandleTimer EURCHF,M15: removed
+2	06:23:50.884	Custom indicator #Signal_Bars_v6 EURCHF,M15: removed
+2	06:23:50.885	Custom indicator AIMS AO V.2.1 EURCHF,M15: removed
+2	06:23:50.887	Custom indicator IVT_MACD_ZERO_LAG EURCHF,M15: removed
+2	06:23:50.890	Custom indicator RSI Divergence Levels EURCHF,M15: removed
+2	06:23:50.894	Custom indicator Heiken Ashi NZDJPY,M15: removed
+2	06:23:50.894	Custom indicator CHANNEL NZDJPY,M15: removed
+2	06:23:50.894	Custom indicator TARGET_LINES NZDJPY,M15: removed
+2	06:23:50.894	Custom indicator TREND-REVERS NZDJPY,M15: removed
+2	06:23:50.895	Custom indicator S&R NZDJPY,M15: removed
+2	06:23:50.895	Custom indicator ARROWS NZDJPY,M15: removed
+0	06:23:51.522	Admiral Markets build 1260 stopped
+0	07:10:07.639	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	07:10:07.639	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1150 / 8014 Mb, Disk: 16 / 237 Gb, GMT+3
+0	07:10:07.639	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	07:10:10.360	Custom indicator AIMS Levels V2 DE30,M15: loaded successfully
+2	07:10:10.423	Custom indicator AIMS Entry Alert V1 DE30,M15: loaded successfully
+2	07:10:10.431	Custom indicator CandleTimer DE30,M15: loaded successfully
+2	07:10:10.493	Custom indicator #Signal_Bars_v6 DE30,M15: loaded successfully
+2	07:10:10.567	Custom indicator AIMS AO V.2.1 DE30,M15: loaded successfully
+2	07:10:10.575	Custom indicator IVT_MACD_ZERO_LAG DE30,M15: loaded successfully
+2	07:10:10.584	Custom indicator RSI Divergence Levels DE30,M15: loaded successfully
+2	07:10:10.713	Custom indicator AIMS Levels V2 US30,M15: loaded successfully
+2	07:10:10.778	Custom indicator AIMS Entry Alert V1 US30,M15: loaded successfully
+2	07:10:10.785	Custom indicator CandleTimer US30,M15: loaded successfully
+2	07:10:10.861	Custom indicator #Signal_Bars_v6 US30,M15: loaded successfully
+2	07:10:10.943	Custom indicator AIMS AO V.2.1 US30,M15: loaded successfully
+2	07:10:10.952	Custom indicator IVT_MACD_ZERO_LAG US30,M15: loaded successfully
+2	07:10:10.962	Custom indicator RSI Divergence Levels US30,M15: loaded successfully
+2	07:10:11.114	Custom indicator AIMS Levels V2 FR40,M15: loaded successfully
+2	07:10:11.201	Custom indicator AIMS Entry Alert V1 FR40,M15: loaded successfully
+2	07:10:11.210	Custom indicator CandleTimer FR40,M15: loaded successfully
+2	07:10:11.294	Custom indicator #Signal_Bars_v6 FR40,M15: loaded successfully
+2	07:10:11.376	Custom indicator AIMS AO V.2.1 FR40,M15: loaded successfully
+2	07:10:11.386	Custom indicator IVT_MACD_ZERO_LAG FR40,M15: loaded successfully
+2	07:10:11.396	Custom indicator RSI Divergence Levels FR40,M15: loaded successfully
+2	07:10:11.541	Custom indicator AIMS Levels V2 USTEC,M15: loaded successfully
+2	07:10:11.617	Custom indicator AIMS Entry Alert V1 USTEC,M15: loaded successfully
+2	07:10:11.624	Custom indicator CandleTimer USTEC,M15: loaded successfully
+2	07:10:11.698	Custom indicator #Signal_Bars_v6 USTEC,M15: loaded successfully
+2	07:10:11.770	Custom indicator AIMS AO V.2.1 USTEC,M15: loaded successfully
+2	07:10:11.779	Custom indicator IVT_MACD_ZERO_LAG USTEC,M15: loaded successfully
+2	07:10:11.788	Custom indicator RSI Divergence Levels USTEC,M15: loaded successfully
+2	07:10:11.956	Custom indicator AIMS Levels V2 USOIL,M15: loaded successfully
+2	07:10:12.051	Custom indicator AIMS Entry Alert V1 USOIL,M15: loaded successfully
+2	07:10:12.061	Custom indicator CandleTimer USOIL,M15: loaded successfully
+2	07:10:12.150	Custom indicator #Signal_Bars_v6 USOIL,M15: loaded successfully
+2	07:10:12.234	Custom indicator AIMS AO V.2.1 USOIL,M15: loaded successfully
+2	07:10:12.246	Custom indicator IVT_MACD_ZERO_LAG USOIL,M15: loaded successfully
+2	07:10:12.257	Custom indicator RSI Divergence Levels USOIL,M15: loaded successfully
+2	07:10:12.422	Custom indicator AIMS Levels V2 XAUUSD,M15: loaded successfully
+2	07:10:12.509	Custom indicator AIMS Entry Alert V1 XAUUSD,M15: loaded successfully
+2	07:10:12.517	Custom indicator CandleTimer XAUUSD,M15: loaded successfully
+2	07:10:12.600	Custom indicator #Signal_Bars_v6 XAUUSD,M15: loaded successfully
+2	07:10:12.676	Custom indicator AIMS AO V.2.1 XAUUSD,M15: loaded successfully
+2	07:10:12.685	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M15: loaded successfully
+2	07:10:12.695	Custom indicator RSI Divergence Levels XAUUSD,M15: loaded successfully
+2	07:10:12.787	Expert ForexSignals-NakedTrading-v1.3 AUDUSD,M30: loaded successfully
+2	07:10:12.819	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: loaded successfully
+2	07:10:12.916	Custom indicator AIMS Levels V2 CADJPY,M15: loaded successfully
+2	07:10:13.000	Custom indicator AIMS Entry Alert V1 CADJPY,M15: loaded successfully
+2	07:10:13.008	Custom indicator CandleTimer CADJPY,M15: loaded successfully
+2	07:10:13.088	Custom indicator #Signal_Bars_v6 CADJPY,M15: loaded successfully
+2	07:10:13.172	Custom indicator AIMS AO V.2.1 CADJPY,M15: loaded successfully
+2	07:10:13.182	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: loaded successfully
+2	07:10:13.193	Custom indicator RSI Divergence Levels CADJPY,M15: loaded successfully
+2	07:10:13.348	Custom indicator AIMS Levels V2 EURJPY,M15: loaded successfully
+2	07:10:13.425	Custom indicator AIMS Entry Alert V1 EURJPY,M15: loaded successfully
+2	07:10:13.433	Custom indicator CandleTimer EURJPY,M15: loaded successfully
+2	07:10:13.508	Custom indicator #Signal_Bars_v6 EURJPY,M15: loaded successfully
+2	07:10:13.582	Custom indicator AIMS AO V.2.1 EURJPY,M15: loaded successfully
+2	07:10:13.591	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M15: loaded successfully
+2	07:10:13.600	Custom indicator RSI Divergence Levels EURJPY,M15: loaded successfully
+2	07:10:13.739	Custom indicator AIMS Levels V2 EURCHF,M15: loaded successfully
+2	07:10:13.809	Custom indicator AIMS Entry Alert V1 EURCHF,M15: loaded successfully
+2	07:10:13.816	Custom indicator CandleTimer EURCHF,M15: loaded successfully
+2	07:10:13.908	Custom indicator #Signal_Bars_v6 EURCHF,M15: loaded successfully
+2	07:10:13.984	Custom indicator AIMS AO V.2.1 EURCHF,M15: loaded successfully
+2	07:10:13.993	Custom indicator IVT_MACD_ZERO_LAG EURCHF,M15: loaded successfully
+2	07:10:14.002	Custom indicator RSI Divergence Levels EURCHF,M15: loaded successfully
+2	07:10:14.145	Custom indicator Heiken Ashi NZDJPY,M15: loaded successfully
+2	07:10:14.221	Custom indicator CHANNEL NZDJPY,M15: loaded successfully
+2	07:10:14.301	Custom indicator TARGET_LINES NZDJPY,M15: loaded successfully
+2	07:10:14.379	Custom indicator TREND-REVERS NZDJPY,M15: loaded successfully
+2	07:10:14.467	Custom indicator S&R NZDJPY,M15: loaded successfully
+2	07:10:14.545	Custom indicator ARROWS NZDJPY,M15: loaded successfully
+0	07:10:16.731	'14109544': login on Exness-Real4 through DC06 (ping: 311.31 ms)
+0	07:10:20.420	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 311.31 ms)
+0	07:10:21.155	'14109544': previous successful authorization performed from 197.149.32.67
+0	07:10:22.722	MQL5.community: activated for 'mamlov', balance: 100.00 (frozen: 95.00)
+0	07:10:39.929	'14109544': auto connecting to a better access point DC00 (ping is 232.29 ms)
+0	07:10:40.915	'14109544': login on Exness-Real4 through DC00 (ping: 232.29 ms)
+0	07:10:43.916	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 232.29 ms)
+0	07:10:44.726	'14109544': previous successful authorization performed from 197.149.32.67
+0	07:12:43.782	'14109544': instant order sell 0.20 US30 at 26280.1 sl: 0.0 tp: 0.0
+0	07:12:44.127	'14109544': order was opened : #188873360 sell 0.20 US30 at 26280.1 sl: 0.0 tp: 0.0
+0	07:12:47.668	'14109544': modify order #188873360 sell 0.20 US30 at 26280.1 sl: 0.0 tp: 0.0 -> sl: 26367.0 tp: 0.0
+0	07:12:52.407	'14109544': order #188873360 sell 0.20 US30 at 26280.1 was modified -> sl: 26367.0 tp: 0.0
+1	07:17:19.628	MQL4 Market: failed to get list of user products
+2	07:24:44.826	Custom indicator AIMS Levels V2 CADJPY,M15: removed
+2	07:24:44.826	Custom indicator AIMS Entry Alert V1 CADJPY,M15: removed
+2	07:24:44.828	Custom indicator CandleTimer CADJPY,M15: removed
+2	07:24:44.828	Custom indicator #Signal_Bars_v6 CADJPY,M15: removed
+2	07:24:44.828	Custom indicator AIMS AO V.2.1 CADJPY,M15: removed
+2	07:24:44.830	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M15: removed
+2	07:24:44.831	Custom indicator RSI Divergence Levels CADJPY,M15: removed
+2	07:24:50.899	Custom indicator AIMS Levels V2 EURCHF,M15: removed
+2	07:24:50.899	Custom indicator AIMS Entry Alert V1 EURCHF,M15: removed
+2	07:24:50.901	Custom indicator CandleTimer EURCHF,M15: removed
+2	07:24:50.901	Custom indicator #Signal_Bars_v6 EURCHF,M15: removed
+2	07:24:50.901	Custom indicator AIMS AO V.2.1 EURCHF,M15: removed
+2	07:24:50.903	Custom indicator IVT_MACD_ZERO_LAG EURCHF,M15: removed
+2	07:24:50.905	Custom indicator RSI Divergence Levels EURCHF,M15: removed
+2	07:24:52.857	Custom indicator Heiken Ashi NZDJPY,M15: removed
+2	07:24:52.857	Custom indicator CHANNEL NZDJPY,M15: removed
+2	07:24:52.857	Custom indicator TARGET_LINES NZDJPY,M15: removed
+2	07:24:52.857	Custom indicator TREND-REVERS NZDJPY,M15: removed
+2	07:24:52.857	Custom indicator S&R NZDJPY,M15: removed
+2	07:24:52.857	Custom indicator ARROWS NZDJPY,M15: removed
+2	07:25:49.442	Custom indicator AIMS Levels V2 AUDJPY,H1: loaded successfully
+2	07:25:49.507	Custom indicator AIMS Entry Alert V1 AUDJPY,H1: loaded successfully
+2	07:25:49.515	Custom indicator CandleTimer AUDJPY,H1: loaded successfully
+2	07:25:49.579	Custom indicator #Signal_Bars_v6 AUDJPY,H1: loaded successfully
+2	07:25:49.642	Custom indicator AIMS AO V.2.1 AUDJPY,H1: loaded successfully
+2	07:25:49.651	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H1: loaded successfully
+2	07:25:49.659	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+0	07:51:40.554	'14109544': close order #188873360 sell 0.20 US30 at 26280.1 sl: 26367.0 tp: 0.0 at price 26297.9
+0	07:51:40.842	'14109544': order #188873360 sell 0.20 US30 at 26280.1 sl: 26367.0 tp: 0.0 closed at price 26297.9
+1	07:57:18.512	MQL4 Market: failed to get list of user products [401]
+1	07:57:19.084	MQL5.community: authorization failed
+1	08:09:09.997	MQL5.community: authorization failed
+1	08:09:36.702	MQL5.community: authorization failed
+1	08:10:05.460	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+0	08:11:02.586	Notifications: 'Test message from 'Trade Pro Manuel', 'Admiral Markets Group AS'' sent to 'A37163A9'
+2	08:12:16.785	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: removed
+2	08:12:19.589	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: loaded successfully
+2	08:14:33.293	Custom indicator AIMS Levels V2 GBPUSD,M5: loaded successfully
+2	08:14:33.364	Custom indicator AIMS Entry Alert V1 GBPUSD,M5: loaded successfully
+2	08:14:33.370	Custom indicator CandleTimer GBPUSD,M5: loaded successfully
+2	08:14:33.458	Custom indicator #Signal_Bars_v6 GBPUSD,M5: loaded successfully
+2	08:14:33.532	Custom indicator AIMS AO V.2.1 GBPUSD,M5: loaded successfully
+2	08:14:33.540	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M5: loaded successfully
+2	08:14:33.549	Custom indicator RSI Divergence Levels GBPUSD,M5: loaded successfully
+0	08:18:04.238	'14109544': instant order sell 0.10 DE30 at 12277.8 sl: 0.0 tp: 0.0
+0	08:18:04.755	'14109544': order was opened : #188878328 sell 0.10 DE30 at 12277.8 sl: 0.0 tp: 0.0
+0	08:18:05.504	Notifications: 'order opened #188878328 sell 0.10 DE30 at 12277.8' sent to 'A37163A9'
+0	08:18:10.950	'14109544': modify order #188878328 sell 0.10 DE30 at 12277.8 sl: 0.0 tp: 0.0 -> sl: 12345.3 tp: 0.0
+0	08:18:11.244	'14109544': order #188878328 sell 0.10 DE30 at 12277.8 was modified -> sl: 12345.3 tp: 0.0
+0	08:18:12.092	Notifications: 'order #188878328 sell 0.10 DE30 at 12277.8 modified: sl: 0.0 tp: 0.0 -> sl: 12345.3 tp: 0.0' sent to 'A37163A9'
+2	08:23:14.615	Custom indicator AIMS Levels V2 EURCAD,M1: loaded successfully
+2	08:23:14.681	Custom indicator AIMS Entry Alert V1 EURCAD,M1: loaded successfully
+2	08:23:14.691	Custom indicator CandleTimer EURCAD,M1: loaded successfully
+2	08:23:14.772	Custom indicator #Signal_Bars_v6 EURCAD,M1: loaded successfully
+2	08:23:14.837	Custom indicator AIMS AO V.2.1 EURCAD,M1: loaded successfully
+2	08:23:14.848	Custom indicator IVT_MACD_ZERO_LAG EURCAD,M1: loaded successfully
+2	08:23:14.860	Custom indicator RSI Divergence Levels EURCAD,M1: loaded successfully
+1	08:38:14.821	'14109544': modification of order #188878328 sell 0.10 DE30 at 12277.8 sl: 12345.3 tp: 0.0 -> sl: 12324.2 tp: 0.0 failed [Invalid S/L or T/P]
+2	08:41:34.123	Custom indicator AIMS Levels V2 GBPUSD,M5: removed
+2	08:41:34.123	Custom indicator AIMS Entry Alert V1 GBPUSD,M5: removed
+2	08:41:34.125	Custom indicator CandleTimer GBPUSD,M5: removed
+2	08:41:34.126	Custom indicator #Signal_Bars_v6 GBPUSD,M5: removed
+2	08:41:34.126	Custom indicator AIMS AO V.2.1 GBPUSD,M5: removed
+2	08:41:34.128	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M5: removed
+2	08:41:34.132	Custom indicator RSI Divergence Levels GBPUSD,M5: removed
+2	08:41:39.338	Custom indicator AIMS Levels V2 EURCAD,M15: removed
+2	08:41:39.338	Custom indicator AIMS Entry Alert V1 EURCAD,M15: removed
+2	08:41:39.340	Custom indicator CandleTimer EURCAD,M15: removed
+2	08:41:39.340	Custom indicator #Signal_Bars_v6 EURCAD,M15: removed
+2	08:41:39.340	Custom indicator AIMS AO V.2.1 EURCAD,M15: removed
+2	08:41:39.342	Custom indicator IVT_MACD_ZERO_LAG EURCAD,M15: removed
+2	08:41:39.344	Custom indicator RSI Divergence Levels EURCAD,M15: removed
+0	08:44:47.825	Notifications: 'Classical RSI bearish divergence on:  US30' sent to 'A37163A9'
+2	08:52:38.015	Custom indicator AIMS Levels V2 GBPUSD,M15: loaded successfully
+2	08:52:38.103	Custom indicator AIMS Entry Alert V1 GBPUSD,M15: loaded successfully
+2	08:52:38.112	Custom indicator CandleTimer GBPUSD,M15: loaded successfully
+2	08:52:38.199	Custom indicator #Signal_Bars_v6 GBPUSD,M15: loaded successfully
+2	08:52:38.289	Custom indicator AIMS AO V.2.1 GBPUSD,M15: loaded successfully
+2	08:52:38.301	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M15: loaded successfully
+2	08:52:38.313	Custom indicator RSI Divergence Levels GBPUSD,M15: loaded successfully
+0	08:52:39.433	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+1	09:07:20.137	'14109544': datacenter connecting failed [6]
+0	09:07:22.526	'14109544': login on Exness-Real4 through DC06 (ping: 300.83 ms)
+0	09:07:32.786	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 300.83 ms)
+0	09:07:33.891	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:07:53.197	'14109544': auto connecting to a better access point DC00 (ping is 204.06 ms)
+0	09:07:54.184	'14109544': login on Exness-Real4 through DC00 (ping: 204.06 ms)
+0	09:07:56.760	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 204.06 ms)
+0	09:07:57.372	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:08:00.900	'14109544': instant order sell 0.10 EURJPY at 121.843 sl: 0.000 tp: 0.000
+0	09:08:01.276	'14109544': order was opened : #188884556 sell 0.10 EURJPY at 121.843 sl: 0.000 tp: 0.000
+0	09:08:02.312	Notifications: 'order opened #188884556 sell 0.10 EURJPY at 121.843' sent to 'A37163A9'
+0	09:08:05.481	'14109544': modify order #188884556 sell 0.10 EURJPY at 121.843 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 121.531
+0	09:08:08.629	'14109544': order #188884556 sell 0.10 EURJPY at 121.843 was modified -> sl: 0.000 tp: 121.531
+0	09:08:09.503	Notifications: 'order #188884556 sell 0.10 EURJPY at 121.843 modified: sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 121.531' sent to 'A37163A9'
+0	09:08:11.414	'14109544': modify order #188884556 sell 0.10 EURJPY at 121.843 sl: 0.000 tp: 121.531 -> sl: 122.096 tp: 121.531
+0	09:08:11.722	'14109544': order #188884556 sell 0.10 EURJPY at 121.843 was modified -> sl: 122.096 tp: 121.531
+0	09:08:12.726	Notifications: 'order #188884556 sell 0.10 EURJPY at 121.843 modified: sl: 0.000 tp: 121.531 -> sl: 122.096 tp: 121.531' sent to 'A37163A9'
+0	09:40:46.685	'14109544': close order #188884556 sell 0.10 EURJPY at 121.843 sl: 122.096 tp: 121.531 at price 121.789
+0	09:40:47.655	'14109544': order #188884556 sell 0.10 EURJPY at 121.843 sl: 122.096 tp: 121.531 closed at price 121.789
+0	09:40:48.941	Notifications: 'order #188884556 sell 0.10 EURJPY at 121.843 closed at price 121.789, profit: 5.02 USD' sent to 'A37163A9'
+1	09:43:07.441	'14109544': datacenter connecting failed [6]
+0	09:43:18.825	'14109544': login on Exness-Real4 through DC06 (ping: 300.33 ms)
+1	09:43:27.943	'14109544': order sell 0.10 GBPUSD opening at 1.26491 sl: 0.00000 tp: 0.00000 failed [No connection]
+1	09:43:29.623	'14109544': order sell 0.10 GBPUSD opening at 1.26491 sl: 0.00000 tp: 0.00000 failed [No connection]
+1	09:43:31.558	'14109544': order sell 0.10 GBPUSD opening at 1.26491 sl: 0.00000 tp: 0.00000 failed [No connection]
+1	09:44:07.691	'14109544': order sell 0.10 GBPUSD opening at 1.26491 sl: 0.00000 tp: 0.00000 failed [No connection]
+0	09:44:19.987	'14109544': login datacenter on Exness-Real4
+0	09:44:29.842	'14109544': login on Exness-Real4 through DC05 (ping: 562.33 ms)
+2	09:44:40.406	Custom indicator AIMS Levels V2 EURGBP,M15: loaded successfully
+2	09:44:40.509	Custom indicator AIMS Entry Alert V1 EURGBP,M15: loaded successfully
+2	09:44:40.522	Custom indicator CandleTimer EURGBP,M15: loaded successfully
+2	09:44:40.641	Custom indicator #Signal_Bars_v6 EURGBP,M15: loaded successfully
+2	09:44:40.765	Custom indicator AIMS AO V.2.1 EURGBP,M15: loaded successfully
+2	09:44:40.783	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M15: loaded successfully
+2	09:44:40.799	Custom indicator RSI Divergence Levels EURGBP,M15: loaded successfully
+0	09:44:57.911	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 562.33 ms)
+0	09:44:59.057	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:45:09.624	'14109544': ping to current access point DC05 is 583.48 ms
+0	09:45:14.707	'14109544': instant order sell 0.10 EURJPY at 121.823 sl: 0.000 tp: 0.000
+0	09:45:16.356	'14109544': requote 121.829 / 121.840 for open sell 0.10 EURJPY at 121.823 sl: 0.000 tp: 0.000
+0	09:45:18.809	'14109544': instant order sell 0.10 EURJPY at 121.820 sl: 0.000 tp: 0.000
+0	09:45:19.774	'14109544': requote 121.827 / 121.839 for open sell 0.10 EURJPY at 121.820 sl: 0.000 tp: 0.000
+0	09:45:25.934	'14109544': instant order sell 0.10 EURJPY at 121.819 sl: 0.000 tp: 0.000
+0	09:45:27.656	'14109544': requote 121.829 / 121.841 for open sell 0.10 EURJPY at 121.819 sl: 0.000 tp: 0.000
+0	09:45:33.290	HistoryCenter: synchronize 'EURJPY15'
+0	09:45:35.320	'14109544': instant order sell 0.10 EURJPY at 121.831 sl: 0.000 tp: 0.000
+0	09:45:40.521	'14109544': order was opened : #188890937 sell 0.10 EURJPY at 121.831 sl: 0.000 tp: 0.000
+0	09:45:41.664	Notifications: 'order opened #188890937 sell 0.10 EURJPY at 121.831' sent to 'A37163A9'
+0	09:45:47.813	'14109544': modify order #188890937 sell 0.10 EURJPY at 121.831 sl: 0.000 tp: 0.000 -> sl: 122.101 tp: 0.000
+0	09:45:48.670	'14109544': order #188890937 sell 0.10 EURJPY at 121.831 was modified -> sl: 122.101 tp: 0.000
+0	09:45:50.730	Notifications: 'order #188890937 sell 0.10 EURJPY at 121.831 modified: sl: 0.000 tp: 0.000 -> sl: 122.101 tp: 0.000' sent to 'A37163A9'
+0	09:47:00.620	'14109544': instant order buy 0.10 EURGBP at 0.89666 sl: 0.00000 tp: 0.00000
+0	09:47:03.709	'14109544': order was opened : #188891235 buy 0.10 EURGBP at 0.89666 sl: 0.00000 tp: 0.00000
+0	09:47:08.329	Notifications: 'order opened #188891235 buy 0.10 EURGBP at 0.89666' sent to 'A37163A9'
+0	09:47:11.529	'14109544': modify order #188891235 buy 0.10 EURGBP at 0.89666 sl: 0.00000 tp: 0.00000 -> sl: 0.89433 tp: 0.00000
+0	09:47:12.256	'14109544': order #188891235 buy 0.10 EURGBP at 0.89666 was modified -> sl: 0.89433 tp: 0.00000
+0	09:47:13.745	Notifications: 'order #188891235 buy 0.10 EURGBP at 0.89666 modified: sl: 0.00000 tp: 0.00000 -> sl: 0.89433 tp: 0.00000' sent to 'A37163A9'
+3	09:47:22.383	Read failed
+0	09:47:27.416	HistoryCenter: synchronize 'EURJPY15'
+0	09:47:38.388	'14109544': modify order #188878328 sell 0.10 DE30 at 12277.8 sl: 12345.3 tp: 0.0 -> sl: 12275.4 tp: 0.0
+0	09:47:39.802	'14109544': order #188878328 sell 0.10 DE30 at 12277.8 was modified -> sl: 12275.4 tp: 0.0
+0	09:47:40.784	Notifications: 'order #188878328 sell 0.10 DE30 at 12277.8 modified: sl: 12345.3 tp: 0.0 -> sl: 12275.4 tp: 0.0' sent to 'A37163A9'
+1	09:48:13.245	'14109544': datacenter connecting failed [6]
+0	09:48:15.092	'14109544': login on Exness-Real4 through DC06 (ping: 314.74 ms)
+0	09:48:29.954	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 314.74 ms)
+0	09:48:30.791	'14109544': previous successful authorization performed from 197.149.32.67
+2	09:49:23.284	Custom indicator AIMS Levels V2 USDJPY,M15: loaded successfully
+2	09:49:23.369	Custom indicator AIMS Entry Alert V1 USDJPY,M15: loaded successfully
+2	09:49:23.393	Custom indicator CandleTimer USDJPY,M15: loaded successfully
+2	09:49:23.475	Custom indicator #Signal_Bars_v6 USDJPY,M15: loaded successfully
+2	09:49:23.567	Custom indicator AIMS AO V.2.1 USDJPY,M15: loaded successfully
+2	09:49:23.577	Custom indicator IVT_MACD_ZERO_LAG USDJPY,M15: loaded successfully
+2	09:49:23.590	Custom indicator RSI Divergence Levels USDJPY,M15: loaded successfully
+0	09:49:39.995	'14109544': login datacenter on Exness-Real4
+0	09:49:45.359	'14109544': login on Exness-Real4 through DC15 (ping: 710.83 ms)
+0	09:50:12.156	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 710.83 ms)
+0	09:50:14.014	'14109544': previous successful authorization performed from 197.149.32.67
+1	09:51:20.244	'14109544': datacenter connecting failed [6]
+0	09:51:22.958	'14109544': login on Exness-Real4 through DC09 (ping: 784.78 ms)
+2	09:51:25.553	Custom indicator AIMS Levels V2 USDJPY,M15: removed
+2	09:51:25.553	Custom indicator AIMS Entry Alert V1 USDJPY,M15: removed
+2	09:51:25.555	Custom indicator CandleTimer USDJPY,M15: removed
+2	09:51:25.555	Custom indicator #Signal_Bars_v6 USDJPY,M15: removed
+2	09:51:25.555	Custom indicator AIMS AO V.2.1 USDJPY,M15: removed
+2	09:51:25.557	Custom indicator IVT_MACD_ZERO_LAG USDJPY,M15: removed
+2	09:51:25.559	Custom indicator RSI Divergence Levels USDJPY,M15: removed
+0	09:51:44.907	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 784.78 ms)
+0	09:51:46.195	'14109544': previous successful authorization performed from 197.149.32.67
+2	09:51:48.288	Custom indicator AIMS Levels V2 GBPNZD,M15: loaded successfully
+2	09:51:48.377	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: loaded successfully
+2	09:51:48.384	Custom indicator CandleTimer GBPNZD,M15: loaded successfully
+2	09:51:48.456	Custom indicator #Signal_Bars_v6 GBPNZD,M15: loaded successfully
+2	09:51:48.530	Custom indicator AIMS AO V.2.1 GBPNZD,M15: loaded successfully
+2	09:51:48.539	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: loaded successfully
+2	09:51:48.549	Custom indicator RSI Divergence Levels GBPNZD,M15: loaded successfully
+1	09:52:59.243	'14109544': datacenter connecting failed [6]
+1	09:52:59.316	'14109544': connect failed [Connection échouée]
+0	09:53:05.333	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	09:54:06.823	'14109544': login datacenter on Exness-Real4
+0	09:54:14.199	'14109544': login on Exness-Real4 through DC15 (ping: n/a)
+0	09:54:41.101	'14109544': login datacenter on Exness-Real4 through DC15 (ping: n/a)
+0	09:54:45.565	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:54:56.205	'14109544': ping to current access point DC15 is 775.61 ms
+0	09:55:34.492	'14109544': login on Exness-Real4 through DC00 (ping: 265.27 ms)
+0	09:55:50.760	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 265.27 ms)
+0	09:56:03.474	'14109544': previous successful authorization performed from 197.149.32.67
+1	09:57:06.595	'14109544': datacenter connecting failed [6]
+0	09:57:10.898	'14109544': login on Exness-Real4 through DC06 (ping: 361.33 ms)
+0	09:57:56.726	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 361.33 ms)
+0	09:57:59.157	'14109544': previous successful authorization performed from 220.242.138.56
+1	09:59:03.249	'14109544': datacenter connecting failed [6]
+0	09:59:05.816	'14109544': login on Exness-Real4 through DC05 (ping: 564.88 ms)
+0	09:59:21.399	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 564.88 ms)
+0	09:59:22.835	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:59:46.058	'14109544': instant order sell 0.10 GBPUSD at 1.26462 sl: 0.00000 tp: 0.00000
+0	09:59:47.158	'14109544': requote 1.26470 / 1.26479 for open sell 0.10 GBPUSD at 1.26462 sl: 0.00000 tp: 0.00000
+0	10:00:01.038	HistoryCenter: 2601 bars imported in 'EURJPY15'
+0	10:02:48.766	'14109544': instant order sell 0.10 GBPUSD at 1.26394 sl: 0.00000 tp: 0.00000
+0	10:02:50.189	'14109544': order was opened : #188894211 sell 0.10 GBPUSD at 1.26394 sl: 0.00000 tp: 0.00000
+0	10:02:54.333	'14109544': modify order #188894211 sell 0.10 GBPUSD at 1.26394 sl: 0.00000 tp: 0.00000 -> sl: 1.26848 tp: 0.00000
+0	10:02:55.018	'14109544': order #188894211 sell 0.10 GBPUSD at 1.26394 was modified -> sl: 1.26848 tp: 0.00000
+0	10:02:59.255	Notifications: 'order opened #188894211 sell 0.10 GBPUSD at 1.26394' sent to 'A37163A9'
+0	10:03:03.585	Notifications: 'order #188894211 sell 0.10 GBPUSD at 1.26394 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.26848 tp: 0.00000' sent to 'A37163A9'
+0	10:05:56.184	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	10:05:56.185	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1288 / 8014 Mb, Disk: 44 / 237 Gb, GMT+3
+0	10:05:56.185	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	10:05:59.045	Custom indicator AIMS Levels V2 DE30,M15: loaded successfully
+2	10:05:59.122	Custom indicator AIMS Entry Alert V1 DE30,M15: loaded successfully
+2	10:05:59.129	Custom indicator CandleTimer DE30,M15: loaded successfully
+2	10:05:59.203	Custom indicator #Signal_Bars_v6 DE30,M15: loaded successfully
+2	10:05:59.276	Custom indicator AIMS AO V.2.1 DE30,M15: loaded successfully
+2	10:05:59.285	Custom indicator IVT_MACD_ZERO_LAG DE30,M15: loaded successfully
+2	10:05:59.294	Custom indicator RSI Divergence Levels DE30,M15: loaded successfully
+2	10:05:59.430	Custom indicator AIMS Levels V2 US30,M15: loaded successfully
+2	10:05:59.500	Custom indicator AIMS Entry Alert V1 US30,M15: loaded successfully
+2	10:05:59.507	Custom indicator CandleTimer US30,M15: loaded successfully
+2	10:05:59.584	Custom indicator #Signal_Bars_v6 US30,M15: loaded successfully
+2	10:05:59.658	Custom indicator AIMS AO V.2.1 US30,M15: loaded successfully
+2	10:05:59.668	Custom indicator IVT_MACD_ZERO_LAG US30,M15: loaded successfully
+2	10:05:59.678	Custom indicator RSI Divergence Levels US30,M15: loaded successfully
+2	10:05:59.826	Custom indicator AIMS Levels V2 FR40,M15: loaded successfully
+2	10:05:59.903	Custom indicator AIMS Entry Alert V1 FR40,M15: loaded successfully
+2	10:05:59.911	Custom indicator CandleTimer FR40,M15: loaded successfully
+2	10:05:59.986	Custom indicator #Signal_Bars_v6 FR40,M15: loaded successfully
+2	10:06:00.068	Custom indicator AIMS AO V.2.1 FR40,M15: loaded successfully
+2	10:06:00.078	Custom indicator IVT_MACD_ZERO_LAG FR40,M15: loaded successfully
+2	10:06:00.088	Custom indicator RSI Divergence Levels FR40,M15: loaded successfully
+2	10:06:00.254	Custom indicator AIMS Levels V2 USTEC,M15: loaded successfully
+2	10:06:00.340	Custom indicator AIMS Entry Alert V1 USTEC,M15: loaded successfully
+2	10:06:00.348	Custom indicator CandleTimer USTEC,M15: loaded successfully
+2	10:06:00.429	Custom indicator #Signal_Bars_v6 USTEC,M15: loaded successfully
+2	10:06:00.506	Custom indicator AIMS AO V.2.1 USTEC,M15: loaded successfully
+2	10:06:00.515	Custom indicator IVT_MACD_ZERO_LAG USTEC,M15: loaded successfully
+2	10:06:00.524	Custom indicator RSI Divergence Levels USTEC,M15: loaded successfully
+2	10:06:00.672	Custom indicator AIMS Levels V2 USOIL,M1: loaded successfully
+2	10:06:00.745	Custom indicator AIMS Entry Alert V1 USOIL,M1: loaded successfully
+2	10:06:00.753	Custom indicator CandleTimer USOIL,M1: loaded successfully
+2	10:06:00.822	Custom indicator #Signal_Bars_v6 USOIL,M1: loaded successfully
+2	10:06:00.898	Custom indicator AIMS AO V.2.1 USOIL,M1: loaded successfully
+2	10:06:00.907	Custom indicator IVT_MACD_ZERO_LAG USOIL,M1: loaded successfully
+2	10:06:00.917	Custom indicator RSI Divergence Levels USOIL,M1: loaded successfully
+2	10:06:01.070	Custom indicator AIMS Levels V2 XAUUSD,M15: loaded successfully
+2	10:06:01.142	Custom indicator AIMS Entry Alert V1 XAUUSD,M15: loaded successfully
+2	10:06:01.149	Custom indicator CandleTimer XAUUSD,M15: loaded successfully
+2	10:06:01.218	Custom indicator #Signal_Bars_v6 XAUUSD,M15: loaded successfully
+2	10:06:01.288	Custom indicator AIMS AO V.2.1 XAUUSD,M15: loaded successfully
+2	10:06:01.297	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M15: loaded successfully
+2	10:06:01.306	Custom indicator RSI Divergence Levels XAUUSD,M15: loaded successfully
+2	10:06:01.399	Expert ForexSignals-NakedTrading-v1.3 AUDUSD,M1: loaded successfully
+2	10:06:01.435	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: loaded successfully
+2	10:06:01.533	Custom indicator AIMS Levels V2 EURJPY,M15: loaded successfully
+2	10:06:01.620	Custom indicator AIMS Entry Alert V1 EURJPY,M15: loaded successfully
+2	10:06:01.629	Custom indicator CandleTimer EURJPY,M15: loaded successfully
+2	10:06:01.717	Custom indicator #Signal_Bars_v6 EURJPY,M15: loaded successfully
+2	10:06:01.817	Custom indicator AIMS AO V.2.1 EURJPY,M15: loaded successfully
+2	10:06:01.829	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M15: loaded successfully
+2	10:06:01.842	Custom indicator RSI Divergence Levels EURJPY,M15: loaded successfully
+2	10:06:02.057	Custom indicator AIMS Levels V2 AUDJPY,M15: loaded successfully
+2	10:06:02.152	Custom indicator AIMS Entry Alert V1 AUDJPY,M15: loaded successfully
+2	10:06:02.161	Custom indicator CandleTimer AUDJPY,M15: loaded successfully
+2	10:06:02.253	Custom indicator #Signal_Bars_v6 AUDJPY,M15: loaded successfully
+2	10:06:02.344	Custom indicator AIMS AO V.2.1 AUDJPY,M15: loaded successfully
+2	10:06:02.355	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,M15: loaded successfully
+2	10:06:02.366	Custom indicator RSI Divergence Levels AUDJPY,M15: loaded successfully
+2	10:06:02.536	Custom indicator AIMS Levels V2 GBPUSD,M15: loaded successfully
+2	10:06:02.620	Custom indicator AIMS Entry Alert V1 GBPUSD,M15: loaded successfully
+2	10:06:02.629	Custom indicator CandleTimer GBPUSD,M15: loaded successfully
+2	10:06:02.713	Custom indicator #Signal_Bars_v6 GBPUSD,M15: loaded successfully
+2	10:06:02.806	Custom indicator AIMS AO V.2.1 GBPUSD,M15: loaded successfully
+2	10:06:02.816	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M15: loaded successfully
+2	10:06:02.829	Custom indicator RSI Divergence Levels GBPUSD,M15: loaded successfully
+2	10:06:03.137	Custom indicator AIMS Levels V2 EURGBP,M15: loaded successfully
+2	10:06:03.227	Custom indicator AIMS Entry Alert V1 EURGBP,M15: loaded successfully
+2	10:06:03.236	Custom indicator CandleTimer EURGBP,M15: loaded successfully
+2	10:06:03.327	Custom indicator #Signal_Bars_v6 EURGBP,M15: loaded successfully
+2	10:06:03.411	Custom indicator AIMS AO V.2.1 EURGBP,M15: loaded successfully
+2	10:06:03.422	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M15: loaded successfully
+2	10:06:03.433	Custom indicator RSI Divergence Levels EURGBP,M15: loaded successfully
+2	10:06:03.604	Custom indicator AIMS Levels V2 GBPNZD,M15: loaded successfully
+2	10:06:03.697	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: loaded successfully
+2	10:06:03.705	Custom indicator CandleTimer GBPNZD,M15: loaded successfully
+2	10:06:03.792	Custom indicator #Signal_Bars_v6 GBPNZD,M15: loaded successfully
+2	10:06:03.883	Custom indicator AIMS AO V.2.1 GBPNZD,M15: loaded successfully
+2	10:06:03.896	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: loaded successfully
+2	10:06:03.912	Custom indicator RSI Divergence Levels GBPNZD,M15: loaded successfully
+0	10:06:03.948	Notifications: 'Classical RSI bearish divergence on:  EURJPY' sent to 'A37163A9'
+0	10:06:06.034	'14109544': login on Exness-Real4 through DC05 (ping: 564.88 ms)
+0	10:07:07.818	'14109544': login datacenter on Exness-Real4
+0	10:07:21.130	'14109544': login on Exness-Real4 through DC09 (ping: 703.91 ms)
+0	10:07:49.314	'14109544': ping to current access point DC09 is 674.96 ms
+0	10:07:59.165	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 674.96 ms)
+0	10:08:01.635	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:09:05.916	'14109544': datacenter connecting failed [6]
+0	10:09:07.091	'14109544': login on Exness-Real4 through DC06 (ping: 341.52 ms)
+0	10:10:09.564	'14109544': login datacenter on Exness-Real4
+0	10:10:19.070	'14109544': login on Exness-Real4 through DC05 (ping: 567.36 ms)
+0	10:10:28.477	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 567.36 ms)
+0	10:10:29.574	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:11:03.583	'14109544': ping to current access point DC05 is 591.11 ms
+0	10:11:33.728	'14109544': login datacenter on Exness-Real4
+0	10:11:42.512	'14109544': login on Exness-Real4 through DC06 (ping: 334.43 ms)
+1	10:13:08.962	'14109544': connect failed [Connection échouée]
+0	10:13:57.128	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	10:14:04.909	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	10:14:05.982	'14109544': previous successful authorization performed from 154.126.9.147
+0	10:14:36.209	'14109544': ping to current access point DC06 is 329.32 ms
+2	10:17:45.913	Custom indicator AIMS Levels V2 AUDJPY,H4: loaded successfully
+2	10:17:45.980	Custom indicator AIMS Entry Alert V1 AUDJPY,H4: loaded successfully
+2	10:17:45.986	Custom indicator CandleTimer AUDJPY,H4: loaded successfully
+2	10:17:46.050	Custom indicator #Signal_Bars_v6 AUDJPY,H4: loaded successfully
+2	10:17:46.114	Custom indicator AIMS AO V.2.1 AUDJPY,H4: loaded successfully
+2	10:17:46.122	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H4: loaded successfully
+2	10:17:46.130	Custom indicator RSI Divergence Levels AUDJPY,H4: loaded successfully
+1	10:18:08.917	'14109544': datacenter connecting failed [6]
+0	10:18:10.300	'14109544': login on Exness-Real4 through DC05 (ping: 613.07 ms)
+0	10:18:21.797	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 613.07 ms)
+0	10:18:23.808	'14109544': previous successful authorization performed from 154.126.9.147
+0	10:18:43.330	'14109544': modify order #188894211 sell 0.10 GBPUSD at 1.26394 sl: 1.26848 tp: 0.00000 -> sl: 1.26396 tp: 0.00000
+0	10:18:43.981	'14109544': order #188894211 sell 0.10 GBPUSD at 1.26394 was modified -> sl: 1.26396 tp: 0.00000
+0	10:18:49.294	Notifications: 'order #188894211 sell 0.10 GBPUSD at 1.26394 modified: sl: 1.26848 tp: 0.00000 -> sl: 1.26396 tp: 0.00000' sent to 'A37163A9'
+0	10:19:34.334	'14109544': modify order #188890937 sell 0.10 EURJPY at 121.831 sl: 122.101 tp: 0.000 -> sl: 121.835 tp: 0.000
+0	10:19:36.864	'14109544': order #188890937 sell 0.10 EURJPY at 121.831 was modified -> sl: 121.835 tp: 0.000
+0	10:19:37.911	Notifications: 'order #188890937 sell 0.10 EURJPY at 121.831 modified: sl: 122.101 tp: 0.000 -> sl: 121.835 tp: 0.000' sent to 'A37163A9'
+1	10:19:49.922	'14109544': datacenter connecting failed [6]
+0	10:19:51.925	'14109544': login on Exness-Real4 through DC09 (ping: 692.88 ms)
+0	10:20:53.989	'14109544': login datacenter on Exness-Real4
+0	10:21:02.916	'14109544': login on Exness-Real4 through DC15 (ping: 741.13 ms)
+0	10:21:31.273	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 741.13 ms)
+0	10:21:33.155	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:21:37.351	'14109544': modify order #188891235 buy 0.10 EURGBP at 0.89666 sl: 0.89433 tp: 0.00000 -> sl: 0.89661 tp: 0.00000
+0	10:21:38.216	'14109544': order #188891235 buy 0.10 EURGBP at 0.89666 was modified -> sl: 0.89661 tp: 0.00000
+0	10:21:39.759	Notifications: 'order #188891235 buy 0.10 EURGBP at 0.89666 modified: sl: 0.89433 tp: 0.00000 -> sl: 0.89661 tp: 0.00000' sent to 'A37163A9'
+0	10:21:43.917	'14109544': ping to current access point DC15 is 1031.78 ms
+1	10:23:05.917	'14109544': datacenter connecting failed [6]
+0	10:23:09.868	'14109544': login on Exness-Real4 through DC06 (ping: 349.67 ms)
+0	10:23:35.599	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 349.67 ms)
+0	10:23:38.900	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:24:38.915	'14109544': datacenter connecting failed [6]
+0	10:24:40.312	'14109544': login on Exness-Real4 through DC05 (ping: 569.05 ms)
+0	10:25:11.793	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 569.05 ms)
+0	10:25:13.739	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:26:25.147	'14109544': datacenter connecting failed [6]
+0	10:26:29.276	'14109544': login on Exness-Real4 through DC09 (ping: 727.00 ms)
+0	10:27:30.300	'14109544': login datacenter on Exness-Real4
+1	10:27:36.000	'14109544': connect failed [Connection échouée]
+0	10:27:43.016	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	10:28:11.233	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	10:28:27.799	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:29:13.125	'14109544': ping to current access point DC06 is 382.19 ms
+1	10:29:15.921	'14109544': datacenter connecting failed [6]
+0	10:29:17.483	'14109544': login on Exness-Real4 through DC05 (ping: 601.48 ms)
+0	10:30:18.938	'14109544': login datacenter on Exness-Real4
+0	10:30:26.162	'14109544': login on Exness-Real4 through DC15 (ping: 711.31 ms)
+0	10:31:14.875	'14109544': ping to current access point DC15 is 715.04 ms
+0	10:31:27.908	'14109544': login datacenter on Exness-Real4
+0	10:31:37.168	'14109544': login on Exness-Real4 through DC06 (ping: 289.95 ms)
+0	10:32:10.936	'14109544': ping to current access point DC06 is 297.03 ms
+0	10:32:38.461	'14109544': login datacenter on Exness-Real4
+0	10:32:45.538	'14109544': login on Exness-Real4 through DC15 (ping: 495.35 ms)
+0	10:33:10.379	'14109544': ping to current access point DC15 is 706.34 ms
+0	10:33:46.886	'14109544': login datacenter on Exness-Real4
+0	10:33:54.798	'14109544': login on Exness-Real4 through DC06 (ping: 314.36 ms)
+0	10:34:05.167	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 314.36 ms)
+0	10:34:05.897	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:34:22.594	'14109544': ping to current access point DC06 is 301.15 ms
+0	10:35:06.443	'14109544': login datacenter on Exness-Real4
+0	10:35:11.355	'14109544': login on Exness-Real4 through DC00 (ping: 230.70 ms)
+0	10:36:22.578	'14109544': login datacenter on Exness-Real4
+0	10:36:29.661	'14109544': login on Exness-Real4 through DC05 (ping: 547.29 ms)
+0	10:36:33.995	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 547.29 ms)
+0	10:36:35.261	'14109544': previous successful authorization performed from 220.242.130.17
+1	10:41:14.601	'14109544': ping failed
+1	10:41:14.603	'14109544': datacenter connecting failed [6]
+1	10:41:14.981	'14109544': connect failed [Connection échouée]
+0	18:51:05.729	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	18:51:10.781	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	18:51:11.795	'14109544': previous successful authorization performed from 154.126.11.22
+0	18:51:38.891	'14109544': auto connecting to a better access point DC00 (ping is 213.28 ms)
+0	18:51:39.859	'14109544': login on Exness-Real4 through DC00 (ping: 213.28 ms)
+0	18:51:41.867	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 213.28 ms)
+0	18:51:42.741	'14109544': previous successful authorization performed from 197.149.32.67
+2	20:27:27.256	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	20:27:27.325	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	20:27:27.353	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	20:27:27.417	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	20:27:27.480	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	20:27:27.514	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	20:27:27.529	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	20:41:49.380	Custom indicator AIMS Levels V2 EURUSD,H1: removed
+2	20:41:49.402	Custom indicator AIMS Entry Alert V1 EURUSD,H1: removed
+2	20:41:49.423	Custom indicator CandleTimer EURUSD,H1: removed
+2	20:41:49.423	Custom indicator #Signal_Bars_v6 EURUSD,H1: removed
+2	20:41:49.429	Custom indicator AIMS AO V.2.1 EURUSD,H1: removed
+2	20:41:49.434	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: removed
+2	20:41:49.439	Custom indicator RSI Divergence Levels EURUSD,H1: removed
+2	20:41:51.565	Custom indicator AIMS Levels V2 AUDJPY,H4: removed
+2	20:41:51.565	Custom indicator AIMS Entry Alert V1 AUDJPY,H4: removed
+2	20:41:51.567	Custom indicator CandleTimer AUDJPY,H4: removed
+2	20:41:51.567	Custom indicator #Signal_Bars_v6 AUDJPY,H4: removed
+2	20:41:51.567	Custom indicator AIMS AO V.2.1 AUDJPY,H4: removed
+2	20:41:51.568	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H4: removed
+2	20:41:51.569	Custom indicator RSI Divergence Levels AUDJPY,H4: removed
+2	20:41:53.751	Custom indicator AIMS Levels V2 GBPNZD,M15: removed
+2	20:41:53.751	Custom indicator AIMS Entry Alert V1 GBPNZD,M15: removed
+2	20:41:53.754	Custom indicator CandleTimer GBPNZD,M15: removed
+2	20:41:53.754	Custom indicator #Signal_Bars_v6 GBPNZD,M15: removed
+2	20:41:53.764	Custom indicator AIMS AO V.2.1 GBPNZD,M15: removed
+2	20:41:53.766	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,M15: removed
+2	20:41:53.767	Custom indicator RSI Divergence Levels GBPNZD,M15: removed
+2	20:41:56.895	Custom indicator AIMS Levels V2 EURGBP,M15: removed
+2	20:41:56.895	Custom indicator AIMS Entry Alert V1 EURGBP,M15: removed
+2	20:41:56.897	Custom indicator CandleTimer EURGBP,M15: removed
+2	20:41:56.897	Custom indicator #Signal_Bars_v6 EURGBP,M15: removed
+2	20:41:56.897	Custom indicator AIMS AO V.2.1 EURGBP,M15: removed
+2	20:41:56.899	Custom indicator IVT_MACD_ZERO_LAG EURGBP,M15: removed
+2	20:41:56.900	Custom indicator RSI Divergence Levels EURGBP,M15: removed
+2	20:41:59.602	Custom indicator AIMS Levels V2 GBPUSD,M15: removed
+2	20:41:59.627	Custom indicator AIMS Entry Alert V1 GBPUSD,M15: removed
+2	20:41:59.629	Custom indicator CandleTimer GBPUSD,M15: removed
+2	20:41:59.629	Custom indicator #Signal_Bars_v6 GBPUSD,M15: removed
+2	20:41:59.629	Custom indicator AIMS AO V.2.1 GBPUSD,M15: removed
+2	20:41:59.631	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M15: removed
+2	20:41:59.632	Custom indicator RSI Divergence Levels GBPUSD,M15: removed
+2	20:42:03.916	Custom indicator AIMS Levels V2 AUDJPY,M15: removed
+2	20:42:03.916	Custom indicator AIMS Entry Alert V1 AUDJPY,M15: removed
+2	20:42:03.917	Custom indicator CandleTimer AUDJPY,M15: removed
+2	20:42:03.917	Custom indicator #Signal_Bars_v6 AUDJPY,M15: removed
+2	20:42:03.917	Custom indicator AIMS AO V.2.1 AUDJPY,M15: removed
+2	20:42:03.919	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,M15: removed
+2	20:42:03.920	Custom indicator RSI Divergence Levels AUDJPY,M15: removed
+2	20:42:08.720	Custom indicator AIMS Levels V2 EURJPY,M15: removed
+2	20:42:08.720	Custom indicator AIMS Entry Alert V1 EURJPY,M15: removed
+2	20:42:08.721	Custom indicator CandleTimer EURJPY,M15: removed
+2	20:42:08.721	Custom indicator #Signal_Bars_v6 EURJPY,M15: removed
+2	20:42:08.721	Custom indicator AIMS AO V.2.1 EURJPY,M15: removed
+2	20:42:08.741	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M15: removed
+2	20:42:08.752	Custom indicator RSI Divergence Levels EURJPY,M15: removed
+2	20:43:11.368	Custom indicator AIMS Levels V2 AUDJPY,H1: loaded successfully
+2	20:43:11.458	Custom indicator AIMS Entry Alert V1 AUDJPY,H1: loaded successfully
+2	20:43:11.470	Custom indicator CandleTimer AUDJPY,H1: loaded successfully
+2	20:43:11.560	Custom indicator #Signal_Bars_v6 AUDJPY,H1: loaded successfully
+2	20:43:11.645	Custom indicator AIMS AO V.2.1 AUDJPY,H1: loaded successfully
+2	20:43:11.657	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H1: loaded successfully
+2	20:43:11.669	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+2	20:43:17.037	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	20:43:17.108	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	20:43:17.114	Custom indicator CandleTimer GBPJPY,H1: loaded successfully
+2	20:43:17.179	Custom indicator #Signal_Bars_v6 GBPJPY,H1: loaded successfully
+2	20:43:17.257	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	20:43:17.265	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	20:43:17.275	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	20:43:23.364	Custom indicator AIMS Levels V2 EURJPY,H1: loaded successfully
+2	20:43:23.429	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	20:43:23.436	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	20:43:23.500	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	20:43:23.565	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	20:43:23.573	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+2	20:43:23.581	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+0	20:44:40.946	'14109544': instant order sell 0.10 EURJPY at 120.793 sl: 0.000 tp: 0.000
+0	20:44:44.131	'14109544': order was opened : #188983161 sell 0.10 EURJPY at 120.793 sl: 0.000 tp: 0.000
+0	20:44:44.913	Notifications: 'order opened #188983161 sell 0.10 EURJPY at 120.793' sent to 'A37163A9'
+0	20:44:55.217	'14109544': modify order #188983161 sell 0.10 EURJPY at 120.793 sl: 0.000 tp: 0.000 -> sl: 121.892 tp: 0.000
+0	20:44:55.521	'14109544': order #188983161 sell 0.10 EURJPY at 120.793 was modified -> sl: 121.892 tp: 0.000
+0	20:44:57.291	Notifications: 'order #188983161 sell 0.10 EURJPY at 120.793 modified: sl: 0.000 tp: 0.000 -> sl: 121.892 tp: 0.000' sent to 'A37163A9'
+0	20:45:06.535	'14109544': modify order #188983161 sell 0.10 EURJPY at 120.793 sl: 121.892 tp: 0.000 -> sl: 121.795 tp: 0.000
+0	20:45:06.888	'14109544': order #188983161 sell 0.10 EURJPY at 120.793 was modified -> sl: 121.795 tp: 0.000
+0	20:45:07.946	Notifications: 'order #188983161 sell 0.10 EURJPY at 120.793 modified: sl: 121.892 tp: 0.000 -> sl: 121.795 tp: 0.000' sent to 'A37163A9'
+0	20:46:33.635	'14109544': instant order sell 0.10 GBPJPY at 134.904 sl: 0.000 tp: 0.000
+0	20:46:35.248	'14109544': order was opened : #188983242 sell 0.10 GBPJPY at 134.904 sl: 0.000 tp: 0.000
+0	20:46:36.612	Notifications: 'order opened #188983242 sell 0.10 GBPJPY at 134.904' sent to 'A37163A9'
+0	20:46:43.881	'14109544': modify order #188983242 sell 0.10 GBPJPY at 134.904 sl: 0.000 tp: 0.000 -> sl: 135.951 tp: 0.000
+0	20:46:55.862	'14109544': order #188983242 sell 0.10 GBPJPY at 134.904 was modified -> sl: 135.951 tp: 0.000
+0	20:46:56.779	Notifications: 'order #188983242 sell 0.10 GBPJPY at 134.904 modified: sl: 0.000 tp: 0.000 -> sl: 135.951 tp: 0.000' sent to 'A37163A9'
+0	20:47:11.937	'14109544': instant order sell 0.10 AUDJPY at 73.893 sl: 0.000 tp: 0.000
+0	20:47:14.836	'14109544': order was opened : #188983269 sell 0.10 AUDJPY at 73.893 sl: 0.000 tp: 0.000
+0	20:47:16.023	Notifications: 'order opened #188983269 sell 0.10 AUDJPY at 73.893' sent to 'A37163A9'
+0	20:47:20.191	'14109544': modify order #188983269 sell 0.10 AUDJPY at 73.893 sl: 0.000 tp: 0.000 -> sl: 75.128 tp: 0.000
+0	20:47:20.774	'14109544': order #188983269 sell 0.10 AUDJPY at 73.893 was modified -> sl: 75.128 tp: 0.000
+0	20:47:21.405	Notifications: 'order #188983269 sell 0.10 AUDJPY at 73.893 modified: sl: 0.000 tp: 0.000 -> sl: 75.128 tp: 0.000' sent to 'A37163A9'

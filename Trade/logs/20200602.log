@@ -1,0 +1,1023 @@
+0	03:54:16.676	'27123197': close order #66704724 buy 0.10 GBPAUD at 1.84147 sl: 1.82700 tp: 1.84174 at price 0.00000
+0	03:54:17.368	'27123197': order #66704724 buy 0.10 GBPAUD at 1.84147 sl: 1.82700 tp: 1.84174 closed at price 1.84073
+2	03:55:22.532	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	03:55:22.652	Custom indicator Entry AUDUSD,H1: loaded successfully
+2	03:55:22.736	Custom indicator Trend AUDUSD,H1: loaded successfully
+2	03:55:22.827	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+0	03:58:37.612	'27123197': pending order buy limit 0.10 AUDUSD at 0.67150 sl: 0.66500 tp: 0.68050
+0	03:58:38.217	'27123197': order was opened : #66742743 buy limit 0.10 AUDUSD at 0.67150 sl: 0.66500 tp: 0.68050
+2	03:59:21.164	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,M1: removed
+2	03:59:21.172	Custom indicator Entry GBPAUD,M1: removed
+2	03:59:21.172	Custom indicator Trend GBPAUD,M1: removed
+2	03:59:21.179	Custom indicator Admiral Pivot GBPAUD,M1: removed
+2	03:59:21.185	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,M1: removed
+2	03:59:21.190	Custom indicator RSI Divergence Levels GBPAUD,M1: removed
+2	03:59:21.267	Custom indicator AIMS Levels V2 GBPAUD,M1: loaded successfully
+2	03:59:21.350	Custom indicator AIMS Entry Alert V1 GBPAUD,M1: loaded successfully
+2	03:59:21.438	Custom indicator AIMS AO V.2.1 GBPAUD,M1: loaded successfully
+0	04:00:16.388	'27123197': delete pending order #66690553 buy limit 0.10 GBPJPY at 132.250 sl: 131.550 tp: 132.961
+0	04:00:16.697	'27123197': pending order #66690553 was deleted
+2	04:06:41.643	Custom indicator AIMS Levels V2 [NQ100],H1: loaded successfully
+2	04:06:41.811	Custom indicator AIMS Entry Alert V1 [NQ100],H1: loaded successfully
+2	04:06:41.873	Custom indicator AIMS AO V.2.1 [NQ100],H1: loaded successfully
+2	04:09:55.592	Custom indicator AIMS Levels V2 [SP500],H1: loaded successfully
+2	04:09:55.657	Custom indicator AIMS Entry Alert V1 [SP500],H1: loaded successfully
+2	04:09:55.729	Custom indicator AIMS AO V.2.1 [SP500],H1: loaded successfully
+2	04:10:39.704	Custom indicator AIMS Levels V2 EURUSD,M15: removed
+2	04:10:39.704	Custom indicator AIMS Entry Alert V1 EURUSD,M15: removed
+2	04:10:39.704	Custom indicator AIMS AO V.2.1 EURUSD,M15: removed
+2	04:10:39.880	Custom indicator MACD Candles v4 EURUSD,M15: loaded successfully
+2	04:10:39.904	Custom indicator Dolly Graphics v14 EURUSD,M15: loaded successfully
+2	04:37:00.457	Expert ForexSignals-NakedTrading-v1.3 [NQ100],M5: loaded successfully
+2	04:38:46.919	Custom indicator MACD Candles v4 EURGBP,H1: loaded successfully
+2	04:38:47.107	Custom indicator Dolly Graphics v14 EURGBP,H1: loaded successfully
+2	04:39:16.782	Custom indicator MACD Candles v4 AUDNZD,H1: loaded successfully
+2	04:39:16.819	Custom indicator Dolly Graphics v14 AUDNZD,H1: loaded successfully
+2	04:40:12.664	Expert ForexSignals-NakedTrading-v1.3 [NQ100],M5: removed
+0	04:41:27.628	'27123197': order buy market 0.03 AUDNZD sl: 1.07629 tp: 1.08229
+0	04:41:28.176	'27123197': order was opened : #66743845 buy 0.03 AUDNZD at 1.08130 sl: 1.07629 tp: 1.08229
+2	04:43:04.361	Custom indicator MACD Candles v4 AUDNZD,H1: removed
+2	04:43:04.363	Custom indicator Dolly Graphics v14 AUDNZD,H1: removed
+2	04:43:04.454	Custom indicator AIMS Levels V2 AUDNZD,H1: loaded successfully
+2	04:43:04.538	Custom indicator AIMS Entry Alert V1 AUDNZD,H1: loaded successfully
+2	04:43:04.620	Custom indicator AIMS AO V.2.1 AUDNZD,H1: loaded successfully
+0	06:13:35.622	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 218.62 ms)
+0	06:13:40.995	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 218.62 ms)
+0	06:13:41.582	'23875089': previous successful authorization performed from 197.149.36.160
+0	06:13:51.346	'23875089': ping to current access point Access Point #4 is 212.41 ms
+2	06:15:22.925	Expert ForexFiv_fix EURUSD,M15: loaded successfully
+0	06:50:31.807	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 210.49 ms)
+0	06:50:36.235	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 210.49 ms)
+0	06:50:36.875	'27123197': previous successful authorization performed from 197.149.36.160
+0	06:50:53.813	'27123197': ping to current access point Access Point #6 is 210.74 ms
+2	06:51:06.641	Expert ForexFiv_fix EURUSD,M15: removed
+0	06:54:56.789	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 212.41 ms)
+0	06:54:59.804	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 212.41 ms)
+0	06:55:00.932	'23875089': previous successful authorization performed from 197.149.36.160
+2	07:06:34.857	Expert KeltnerEA_Combined_Ver5.1a GBPAUD,M5: loaded successfully
+2	07:14:37.863	Custom indicator AIMS Levels V2 [DAX30],M15: removed
+2	07:14:37.884	Custom indicator AIMS Entry Alert V1 [DAX30],M15: removed
+2	07:14:37.884	Custom indicator AIMS AO V.2.1 [DAX30],M15: removed
+2	07:14:38.018	Custom indicator AIMS Levels V2 [DAX30],M15: loaded successfully
+2	07:14:38.123	Custom indicator AIMS Entry Alert V1 [DAX30],M15: loaded successfully
+2	07:14:38.219	Custom indicator AIMS AO V.2.1 [DAX30],M15: loaded successfully
+2	07:14:38.228	Expert KeltnerEA_Combined_Ver5.1a [DAX30],M15: loaded successfully
+2	07:16:19.692	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	07:16:19.692	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	07:16:19.692	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	07:16:19.787	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	07:16:19.878	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	07:16:19.955	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	07:16:19.966	Expert KeltnerEA_Combined_Ver5.1a [DJI30],M5: loaded successfully
+2	07:16:28.814	Custom indicator AIMS Levels V2 GOLD,M5: removed
+2	07:16:28.821	Custom indicator AIMS Entry Alert V1 GOLD,M5: removed
+2	07:16:28.834	Custom indicator AIMS AO V.2.1 GOLD,M5: removed
+2	07:16:28.931	Custom indicator AIMS Levels V2 GOLD,M5: loaded successfully
+2	07:16:29.004	Custom indicator AIMS Entry Alert V1 GOLD,M5: loaded successfully
+2	07:16:29.077	Custom indicator AIMS AO V.2.1 GOLD,M5: loaded successfully
+2	07:16:29.086	Expert KeltnerEA_Combined_Ver5.1a GOLD,M5: loaded successfully
+2	07:17:33.759	Custom indicator MACD Candles v4 EURUSD,M15: removed
+2	07:17:33.761	Custom indicator Dolly Graphics v14 EURUSD,M15: removed
+2	07:17:33.831	Custom indicator AIMS Levels V2 EURUSD,M15: loaded successfully
+2	07:17:34.265	Custom indicator AIMS Entry Alert V1 EURUSD,M15: loaded successfully
+2	07:17:34.341	Custom indicator AIMS AO V.2.1 EURUSD,M15: loaded successfully
+2	07:17:34.349	Expert KeltnerEA_Combined_Ver5.1a EURUSD,M15: loaded successfully
+2	07:18:16.939	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	07:18:17.280	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	07:18:17.289	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	07:18:17.394	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	07:18:17.464	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	07:18:17.536	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	07:18:17.648	Expert KeltnerEA_Combined_Ver5.1a GBPUSD,H1: loaded successfully
+2	07:19:15.632	Custom indicator rsi chart bars AUDUSD,H1: removed
+2	07:19:15.634	Custom indicator sell zone fibs AUDUSD,H1: removed
+2	07:19:15.636	Custom indicator buy zone fibs AUDUSD,H1: removed
+2	07:19:15.648	Custom indicator CCI AUDUSD,H1: removed
+2	07:19:15.728	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	07:19:15.801	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	07:19:15.874	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	07:19:15.883	Expert KeltnerEA_Combined_Ver5.1a AUDUSD,H1: loaded successfully
+2	07:20:52.496	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	07:20:52.506	Custom indicator Entry EURUSD,H1: removed
+2	07:20:52.515	Custom indicator Trend EURUSD,H1: removed
+2	07:20:52.516	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: removed
+2	07:21:20.447	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	07:21:20.448	Custom indicator Entry GBPJPY,H1: removed
+2	07:21:20.455	Custom indicator Trend GBPJPY,H1: removed
+2	07:21:20.465	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: removed
+2	07:21:20.542	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	07:21:20.614	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	07:21:20.685	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	07:21:20.694	Expert KeltnerEA_Combined_Ver5.1a GBPJPY,H1: loaded successfully
+2	07:21:26.023	Custom indicator rsi chart bars EURNZD,H4: removed
+2	07:21:26.023	Custom indicator PBF_2EMA_Color EURNZD,H4: removed
+2	07:21:26.025	Custom indicator vertex_mod_3.01 alerts + arrows EURNZD,H4: removed
+2	07:21:26.101	Custom indicator AIMS Levels V2 EURNZD,H4: loaded successfully
+2	07:21:26.172	Custom indicator AIMS Entry Alert V1 EURNZD,H4: loaded successfully
+2	07:21:26.242	Custom indicator AIMS AO V.2.1 EURNZD,H4: loaded successfully
+2	07:21:26.254	Expert KeltnerEA_Combined_Ver5.1a EURNZD,H4: loaded successfully
+2	07:21:34.733	Custom indicator StochCandles GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator PRICE GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator ADX_MA GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator Trend_Channel GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator Wave Arrows GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator SupportResistance Areas GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator SupportResistance Levels GBPNZD,H1: removed
+2	07:21:34.733	Custom indicator TrendFilter2 GBPNZD,H1: removed
+2	07:21:34.809	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	07:21:34.882	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	07:21:34.956	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	07:21:34.965	Expert KeltnerEA_Combined_Ver5.1a GBPNZD,H1: loaded successfully
+2	07:21:48.276	Expert KeltnerEA_Combined_Ver5.1a GBPNZD,H1: removed
+2	07:21:48.277	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	07:21:48.277	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	07:21:48.277	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	07:21:48.349	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	07:21:48.416	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	07:21:48.483	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	07:21:48.492	Expert KeltnerEA_Combined_Ver5.1a GBPNZD,H1: loaded successfully
+2	07:21:53.002	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	07:21:53.002	Custom indicator Entry AUDUSD,H1: removed
+2	07:21:53.013	Custom indicator Trend AUDUSD,H1: removed
+2	07:21:53.015	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	07:21:58.858	Custom indicator MACD Candles v4 EURGBP,H1: removed
+2	07:21:58.860	Custom indicator Dolly Graphics v14 EURGBP,H1: removed
+2	07:21:58.945	Custom indicator AIMS Levels V2 EURGBP,H1: loaded successfully
+2	07:21:59.021	Custom indicator AIMS Entry Alert V1 EURGBP,H1: loaded successfully
+2	07:21:59.094	Custom indicator AIMS AO V.2.1 EURGBP,H1: loaded successfully
+2	07:21:59.106	Expert KeltnerEA_Combined_Ver5.1a EURGBP,H1: loaded successfully
+2	07:28:09.234	Expert KeltnerEA_Ver4 [NQ100],M5: loaded successfully
+3	07:28:40.857	'Heiken Ashi' is not expert and cannot be executed
+3	07:28:43.698	'Keltner_Channels' is not expert and cannot be executed
+2	07:28:56.538	Custom indicator KeltnerEA_Combined_Ver5.1a [SP500],M5: loaded successfully
+3	07:28:56.538	Expert 'KeltnerEA_Combined_Ver5.1a' is not custom indicator and will be removed
+2	07:28:56.540	Custom indicator KeltnerEA_Combined_Ver5.1a [SP500],M5: removed
+3	07:32:24.318	'CRYSTAL' is not expert and cannot be executed
+3	07:32:29.834	'CRYSTAL' is not expert and cannot be executed
+2	07:32:48.961	Custom indicator CRYSTAL USDCHF,H1: loaded successfully
+2	07:34:17.854	Custom indicator CRYSTAL USDCHF,M30: removed
+2	07:34:17.929	Custom indicator AIMS Levels V2 USDCHF,M30: loaded successfully
+2	07:34:18.000	Custom indicator AIMS Entry Alert V1 USDCHF,M30: loaded successfully
+2	07:34:18.070	Custom indicator AIMS AO V.2.1 USDCHF,M30: loaded successfully
+2	07:34:23.065	Custom indicator CRYSTAL USDCHF,M30: loaded successfully
+0	07:45:10.117	'23875089': order buy market 0.03 USDCHF sl: 0.00000 tp: 0.00000
+0	07:45:11.065	'23875089': order was opened : #181710565 buy 0.03 USDCHF at 0.96140 sl: 0.00000 tp: 0.00000
+2	07:47:56.033	Expert Multi-Currency_PFX FOREX SCALPER MT4  EURUSD,M15: loaded successfully
+0	07:48:14.728	'23875089': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	07:48:15.175	'23875089': order was opened : #181710624 buy 0.01 EURUSD at 1.11280 sl: 0.00000 tp: 0.00000
+0	07:48:15.175	'23875089': modify order #181710624 buy 0.01 EURUSD at 1.11280 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11380
+0	07:48:15.867	'23875089': order #181710624 buy 0.01 EURUSD at 1.11280 was modified -> sl: 0.00000 tp: 1.11380
+0	09:59:58.928	'23875089': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	10:00:00.250	'23875089': order was opened : #181726918 buy 0.01 EURUSD at 1.11199 sl: 0.00000 tp: 0.00000
+0	10:00:00.252	'23875089': modify order #181726918 buy 0.01 EURUSD at 1.11199 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11340
+0	10:00:00.575	'23875089': order #181726918 buy 0.01 EURUSD at 1.11199 was modified -> sl: 0.00000 tp: 1.11340
+0	10:00:00.577	'23875089': modify order #181710624 buy 0.01 EURUSD at 1.11280 sl: 0.00000 tp: 1.11380 -> sl: 0.00000 tp: 1.11340
+0	10:00:00.883	'23875089': order #181710624 buy 0.01 EURUSD at 1.11280 was modified -> sl: 0.00000 tp: 1.11340
+0	10:31:04.501	'23875089': modify order #181726918 buy 0.01 EURUSD at 1.11199 sl: 0.00000 tp: 1.11340 -> sl: 1.11286 tp: 1.11340
+0	10:31:07.158	'23875089': order #181726918 buy 0.01 EURUSD at 1.11199 was modified -> sl: 1.11286 tp: 1.11340
+0	10:31:07.353	'23875089': modify order #181710624 buy 0.01 EURUSD at 1.11280 sl: 0.00000 tp: 1.11340 -> sl: 1.11286 tp: 1.11340
+1	10:31:07.661	'23875089': modification of order #181710624 buy 0.01 EURUSD at 1.11280 sl: 0.00000 tp: 1.11340 -> sl: 1.11286 tp: 1.11340 failed [Order is locked]
+0	10:31:07.866	'23875089': modify order #181726918 buy 0.01 EURUSD at 1.11199 sl: 1.11286 tp: 1.11340 -> sl: 1.11300 tp: 1.11340
+0	10:31:08.158	'23875089': order #181710624 buy 0.01 EURUSD at 1.11280 closed due take-profit at price 1.11342
+1	10:31:08.172	'23875089': modification of order #181726918 buy 0.01 EURUSD at 1.11199 sl: 1.11286 tp: 1.11340 -> sl: 1.11300 tp: 1.11340 failed [Order is locked]
+0	10:31:08.272	'23875089': modify order #181726918 buy 0.01 EURUSD at 1.11199 sl: 1.11286 tp: 1.11340 -> sl: 1.11300 tp: 1.11340
+0	10:31:08.364	'23875089': order #181726918 buy 0.01 EURUSD at 1.11199 closed due take-profit at price 1.11344
+1	10:31:08.580	'23875089': modification of invalid order #181726918
+0	10:31:08.782	'23875089': order sell market 0.03 EURUSD sl: 0.00000 tp: 0.00000
+0	10:31:09.393	'23875089': order was opened : #181733462 sell 0.03 EURUSD at 1.11346 sl: 0.00000 tp: 0.00000
+0	10:36:26.296	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 0.00000 tp: 0.00000 -> sl: 1.11300 tp: 0.00000
+0	10:36:26.709	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11300 tp: 0.00000
+0	10:36:26.913	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11300 tp: 0.00000 -> sl: 1.11296 tp: 0.00000
+0	10:36:27.359	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11296 tp: 0.00000
+0	10:36:27.561	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11296 tp: 0.00000 -> sl: 1.11293 tp: 0.00000
+0	10:36:27.860	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11293 tp: 0.00000
+0	10:36:28.560	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11293 tp: 0.00000 -> sl: 1.11292 tp: 0.00000
+0	10:36:28.856	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11292 tp: 0.00000
+0	10:36:29.059	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11292 tp: 0.00000 -> sl: 1.11286 tp: 0.00000
+0	10:36:29.534	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11286 tp: 0.00000
+0	10:36:29.757	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11286 tp: 0.00000 -> sl: 1.11284 tp: 0.00000
+0	10:36:31.208	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11284 tp: 0.00000
+0	10:36:33.206	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11284 tp: 0.00000 -> sl: 1.11283 tp: 0.00000
+0	10:36:33.544	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11283 tp: 0.00000
+0	10:36:33.953	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11283 tp: 0.00000 -> sl: 1.11280 tp: 0.00000
+0	10:36:34.263	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11280 tp: 0.00000
+0	10:37:40.668	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11280 tp: 0.00000 -> sl: 1.11278 tp: 0.00000
+0	10:37:40.972	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11278 tp: 0.00000
+0	10:37:41.174	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11278 tp: 0.00000 -> sl: 1.11273 tp: 0.00000
+0	10:37:41.485	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11273 tp: 0.00000
+0	10:37:44.704	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11273 tp: 0.00000 -> sl: 1.11272 tp: 0.00000
+0	10:37:45.003	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11272 tp: 0.00000
+0	10:37:45.220	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11272 tp: 0.00000 -> sl: 1.11271 tp: 0.00000
+0	10:37:45.515	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11271 tp: 0.00000
+0	10:37:45.720	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11271 tp: 0.00000 -> sl: 1.11270 tp: 0.00000
+0	10:37:46.032	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11270 tp: 0.00000
+0	10:37:48.537	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11270 tp: 0.00000 -> sl: 1.11269 tp: 0.00000
+0	10:37:48.842	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11269 tp: 0.00000
+0	10:37:54.163	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11269 tp: 0.00000 -> sl: 1.11266 tp: 0.00000
+0	10:37:54.847	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11266 tp: 0.00000
+0	10:39:15.689	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11266 tp: 0.00000 -> sl: 1.11264 tp: 0.00000
+0	10:39:16.017	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11264 tp: 0.00000
+0	10:39:16.221	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11264 tp: 0.00000 -> sl: 1.11263 tp: 0.00000
+0	10:39:16.992	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11263 tp: 0.00000
+0	10:39:17.198	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11263 tp: 0.00000 -> sl: 1.11262 tp: 0.00000
+0	10:39:17.522	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11262 tp: 0.00000
+0	10:40:02.014	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11262 tp: 0.00000 -> sl: 1.11261 tp: 0.00000
+0	10:40:02.361	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11261 tp: 0.00000
+0	10:40:15.546	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11261 tp: 0.00000 -> sl: 1.11260 tp: 0.00000
+0	10:40:15.867	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11260 tp: 0.00000
+0	10:40:16.070	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11260 tp: 0.00000 -> sl: 1.11259 tp: 0.00000
+0	10:40:16.378	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11259 tp: 0.00000
+0	10:40:22.025	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11259 tp: 0.00000 -> sl: 1.11257 tp: 0.00000
+0	10:40:22.331	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11257 tp: 0.00000
+0	10:40:22.538	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11257 tp: 0.00000 -> sl: 1.11254 tp: 0.00000
+0	10:40:22.843	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11254 tp: 0.00000
+0	10:40:24.883	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11254 tp: 0.00000 -> sl: 1.11252 tp: 0.00000
+0	10:40:25.211	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11252 tp: 0.00000
+0	10:40:25.677	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11252 tp: 0.00000 -> sl: 1.11250 tp: 0.00000
+0	10:40:25.983	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11250 tp: 0.00000
+0	10:40:28.699	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11250 tp: 0.00000 -> sl: 1.11246 tp: 0.00000
+0	10:40:29.322	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11246 tp: 0.00000
+0	10:41:14.494	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11246 tp: 0.00000 -> sl: 1.11244 tp: 0.00000
+0	10:41:14.812	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11244 tp: 0.00000
+0	10:41:18.861	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11244 tp: 0.00000 -> sl: 1.11242 tp: 0.00000
+0	10:41:19.158	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11242 tp: 0.00000
+0	10:41:19.372	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11242 tp: 0.00000 -> sl: 1.11239 tp: 0.00000
+0	10:41:19.674	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11239 tp: 0.00000
+0	10:41:20.281	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11239 tp: 0.00000 -> sl: 1.11238 tp: 0.00000
+0	10:41:20.581	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11238 tp: 0.00000
+0	10:41:34.431	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11238 tp: 0.00000 -> sl: 1.11237 tp: 0.00000
+0	10:41:34.720	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11237 tp: 0.00000
+0	10:41:36.757	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11237 tp: 0.00000 -> sl: 1.11232 tp: 0.00000
+0	10:41:37.347	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11232 tp: 0.00000
+0	10:41:37.755	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11232 tp: 0.00000 -> sl: 1.11228 tp: 0.00000
+0	10:41:38.045	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11228 tp: 0.00000
+0	10:41:40.133	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11228 tp: 0.00000 -> sl: 1.11227 tp: 0.00000
+0	10:41:40.453	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11227 tp: 0.00000
+0	10:41:42.628	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11227 tp: 0.00000 -> sl: 1.11225 tp: 0.00000
+0	10:41:42.925	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11225 tp: 0.00000
+0	10:41:43.126	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11225 tp: 0.00000 -> sl: 1.11223 tp: 0.00000
+0	10:41:43.461	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11223 tp: 0.00000
+0	10:41:43.874	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11223 tp: 0.00000 -> sl: 1.11222 tp: 0.00000
+0	10:41:44.200	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11222 tp: 0.00000
+0	10:42:33.530	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11222 tp: 0.00000 -> sl: 1.11218 tp: 0.00000
+0	10:42:34.568	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11218 tp: 0.00000
+0	10:42:34.775	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11218 tp: 0.00000 -> sl: 1.11215 tp: 0.00000
+0	10:42:35.107	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11215 tp: 0.00000
+0	10:42:35.308	'23875089': modify order #181733462 sell 0.03 EURUSD at 1.11346 sl: 1.11215 tp: 0.00000 -> sl: 1.11213 tp: 0.00000
+0	10:42:35.595	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 was modified -> sl: 1.11213 tp: 0.00000
+0	10:43:38.151	'23875089': order #181733462 sell 0.03 EURUSD at 1.11346 closed due stop-loss at price 1.11214
+0	10:43:38.396	'23875089': order sell market 0.03 EURUSD sl: 0.00000 tp: 0.00000
+0	10:43:39.784	'23875089': order was opened : #181736491 sell 0.03 EURUSD at 1.11208 sl: 0.00000 tp: 0.00000
+0	10:44:58.628	'23875089': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	10:44:59.027	'23875089': order was opened : #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 0.00000
+0	10:44:59.374	'23875089': modify order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11126
+0	10:44:59.695	'23875089': order #181736751 sell 0.01 EURUSD at 1.11226 was modified -> sl: 0.00000 tp: 1.11126
+0	11:14:58.346	'23875089': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	11:14:58.793	'23875089': order was opened : #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 0.00000
+0	11:14:58.793	'23875089': modify order #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11196
+0	11:14:59.119	'23875089': order #181742528 sell 0.01 EURUSD at 1.11366 was modified -> sl: 0.00000 tp: 1.11196
+0	11:14:59.119	'23875089': modify order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 1.11126 -> sl: 0.00000 tp: 1.11196
+0	11:14:59.445	'23875089': order #181736751 sell 0.01 EURUSD at 1.11226 was modified -> sl: 0.00000 tp: 1.11196
+0	11:29:58.479	'23875089': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	11:29:59.060	'23875089': order was opened : #181745931 sell 0.01 EURUSD at 1.11634 sl: 0.00000 tp: 0.00000
+0	11:29:59.060	'23875089': modify order #181745931 sell 0.01 EURUSD at 1.11634 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11309
+0	11:29:59.490	'23875089': order #181745931 sell 0.01 EURUSD at 1.11634 was modified -> sl: 0.00000 tp: 1.11309
+0	11:29:59.491	'23875089': modify order #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 1.11196 -> sl: 0.00000 tp: 1.11309
+0	11:29:59.845	'23875089': order #181742528 sell 0.01 EURUSD at 1.11366 was modified -> sl: 0.00000 tp: 1.11309
+0	11:29:59.845	'23875089': modify order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 1.11196 -> sl: 0.00000 tp: 1.11309
+0	11:30:00.528	'23875089': order #181736751 sell 0.01 EURUSD at 1.11226 was modified -> sl: 0.00000 tp: 1.11309
+0	11:59:58.631	'23875089': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	11:59:59.523	'23875089': order was opened : #181750551 sell 0.01 EURUSD at 1.11703 sl: 0.00000 tp: 0.00000
+0	11:59:59.523	'23875089': modify order #181750551 sell 0.01 EURUSD at 1.11703 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11382
+0	11:59:59.893	'23875089': order #181750551 sell 0.01 EURUSD at 1.11703 was modified -> sl: 0.00000 tp: 1.11382
+0	11:59:59.893	'23875089': modify order #181745931 sell 0.01 EURUSD at 1.11634 sl: 0.00000 tp: 1.11309 -> sl: 0.00000 tp: 1.11382
+0	12:00:00.222	'23875089': order #181745931 sell 0.01 EURUSD at 1.11634 was modified -> sl: 0.00000 tp: 1.11382
+0	12:00:00.222	'23875089': modify order #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 1.11309 -> sl: 0.00000 tp: 1.11382
+0	12:00:00.548	'23875089': order #181742528 sell 0.01 EURUSD at 1.11366 was modified -> sl: 0.00000 tp: 1.11382
+0	12:00:00.548	'23875089': modify order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 1.11309 -> sl: 0.00000 tp: 1.11382
+0	12:00:00.875	'23875089': order #181736751 sell 0.01 EURUSD at 1.11226 was modified -> sl: 0.00000 tp: 1.11382
+0	12:11:39.151	'23875089': close order #181710565 buy 0.03 USDCHF at 0.96140 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	12:11:39.501	'23875089': order #181710565 buy 0.03 USDCHF at 0.96140 sl: 0.00000 tp: 0.00000 closed at price 0.95816
+2	12:14:03.952	Expert KeltnerEA_Combined_Ver5.1a EURUSD,H1: removed
+0	12:14:42.392	HistoryCenter: synchronize 'EURUSD60'
+0	12:14:44.554	HistoryCenter: 2999 bars imported in 'EURUSD60'
+2	12:14:55.424	Custom indicator AIMS Levels V2 EURUSD,H1: removed
+2	12:14:55.471	Custom indicator AIMS Entry Alert V1 EURUSD,H1: removed
+2	12:14:55.587	Custom indicator AIMS AO V.2.1 EURUSD,H1: removed
+0	12:14:58.332	'23875089': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	12:14:58.785	'23875089': order was opened : #181753766 sell 0.01 EURUSD at 1.11797 sl: 0.00000 tp: 0.00000
+0	12:14:58.785	'23875089': modify order #181753766 sell 0.01 EURUSD at 1.11797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11445
+0	12:14:59.095	'23875089': order #181753766 sell 0.01 EURUSD at 1.11797 was modified -> sl: 0.00000 tp: 1.11445
+0	12:14:59.095	'23875089': modify order #181750551 sell 0.01 EURUSD at 1.11703 sl: 0.00000 tp: 1.11382 -> sl: 0.00000 tp: 1.11445
+0	12:14:59.393	'23875089': order #181750551 sell 0.01 EURUSD at 1.11703 was modified -> sl: 0.00000 tp: 1.11445
+0	12:14:59.393	'23875089': modify order #181745931 sell 0.01 EURUSD at 1.11634 sl: 0.00000 tp: 1.11382 -> sl: 0.00000 tp: 1.11445
+0	12:14:59.708	'23875089': order #181745931 sell 0.01 EURUSD at 1.11634 was modified -> sl: 0.00000 tp: 1.11445
+0	12:14:59.708	'23875089': modify order #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 1.11382 -> sl: 0.00000 tp: 1.11445
+0	12:15:00.100	'23875089': order #181742528 sell 0.01 EURUSD at 1.11366 was modified -> sl: 0.00000 tp: 1.11445
+0	12:15:00.100	'23875089': modify order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 1.11382 -> sl: 0.00000 tp: 1.11445
+0	12:15:00.416	'23875089': order #181736751 sell 0.01 EURUSD at 1.11226 was modified -> sl: 0.00000 tp: 1.11445
+2	12:15:08.781	Custom indicator AIMS Levels V2 USDCHF,M1: removed
+2	12:15:08.781	Custom indicator AIMS Entry Alert V1 USDCHF,M1: removed
+2	12:15:08.783	Custom indicator CRYSTAL USDCHF,M1: removed
+2	12:15:09.113	Custom indicator AIMS AO V.2.1 USDCHF,M1: removed
+2	12:15:13.859	Expert Multi-Currency_PFX FOREX SCALPER MT4  EURUSD,M15: removed
+0	12:15:28.332	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 210.74 ms)
+0	12:15:32.567	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 210.74 ms)
+0	12:15:33.102	'27123197': previous successful authorization performed from 154.126.9.191
+2	12:15:44.401	Expert KeltnerEA_Combined_Ver5.1a [DAX30],M15: removed
+2	12:15:44.410	Custom indicator AIMS Levels V2 [DAX30],M15: removed
+2	12:15:44.410	Custom indicator AIMS Entry Alert V1 [DAX30],M15: removed
+2	12:15:44.410	Custom indicator AIMS AO V.2.1 [DAX30],M15: removed
+2	12:15:44.478	Custom indicator AIMS Levels V2 [DAX30],M15: loaded successfully
+2	12:15:44.544	Custom indicator AIMS Entry Alert V1 [DAX30],M15: loaded successfully
+2	12:15:44.624	Custom indicator AIMS AO V.2.1 [DAX30],M15: loaded successfully
+0	12:15:51.703	'27123197': auto connecting to a better access point Access Point #5 (ping is 205.53 ms)
+0	12:15:52.742	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 205.53 ms)
+0	12:15:56.176	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 205.53 ms)
+0	12:15:56.716	'27123197': previous successful authorization performed from 197.149.36.160
+2	12:16:34.888	Expert KeltnerEA_Combined_Ver5.1a GBPAUD,M5: removed
+2	12:16:34.889	Custom indicator AIMS Levels V2 GBPAUD,M5: removed
+2	12:16:34.894	Custom indicator AIMS Entry Alert V1 GBPAUD,M5: removed
+2	12:16:34.894	Custom indicator AIMS AO V.2.1 GBPAUD,M5: removed
+2	12:16:39.368	Expert KeltnerEA_Combined_Ver5.1a GOLD,M5: removed
+2	12:16:39.382	Custom indicator AIMS Levels V2 GOLD,M5: removed
+2	12:16:39.382	Custom indicator AIMS Entry Alert V1 GOLD,M5: removed
+2	12:16:39.382	Custom indicator AIMS AO V.2.1 GOLD,M5: removed
+2	12:16:44.397	Expert KeltnerEA_Combined_Ver5.1a GBPUSD,H1: removed
+2	12:16:44.447	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	12:16:44.447	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	12:16:44.447	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	12:16:46.766	Expert KeltnerEA_Combined_Ver5.1a AUDUSD,H1: removed
+2	12:16:46.767	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	12:16:46.767	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	12:16:46.767	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	12:16:49.121	Expert KeltnerEA_Combined_Ver5.1a GBPJPY,H1: removed
+2	12:16:49.138	Custom indicator AIMS Levels V2 GBPJPY,H1: removed
+2	12:16:49.138	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: removed
+2	12:16:49.138	Custom indicator AIMS AO V.2.1 GBPJPY,H1: removed
+2	12:16:52.764	Expert KeltnerEA_Combined_Ver5.1a EURNZD,H4: removed
+2	12:16:52.765	Custom indicator AIMS Levels V2 EURNZD,H4: removed
+2	12:16:52.765	Custom indicator AIMS Entry Alert V1 EURNZD,H4: removed
+2	12:16:52.765	Custom indicator AIMS AO V.2.1 EURNZD,H4: removed
+2	12:17:02.252	Expert KeltnerEA_Combined_Ver5.1a GBPNZD,H1: removed
+2	12:17:02.252	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	12:17:02.252	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	12:17:02.252	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	12:17:02.318	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	12:17:02.379	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	12:17:02.443	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	12:17:36.491	Expert KeltnerEA_Ver4 [NQ100],M5: removed
+2	12:17:39.381	Custom indicator AIMS Levels V2 [NQ100],M5: removed
+2	12:17:39.381	Custom indicator AIMS Entry Alert V1 [NQ100],M5: removed
+2	12:17:39.381	Custom indicator AIMS AO V.2.1 [NQ100],M5: removed
+2	12:17:43.792	Custom indicator AIMS Levels V2 [SP500],M5: removed
+2	12:17:43.792	Custom indicator AIMS Entry Alert V1 [SP500],M5: removed
+2	12:17:43.792	Custom indicator AIMS AO V.2.1 [SP500],M5: removed
+2	12:17:50.581	Expert KeltnerEA_Combined_Ver5.1a EURGBP,H1: removed
+2	12:17:55.074	Custom indicator AIMS Levels V2 EURGBP,H1: removed
+2	12:17:55.074	Custom indicator AIMS Entry Alert V1 EURGBP,H1: removed
+2	12:17:55.074	Custom indicator AIMS AO V.2.1 EURGBP,H1: removed
+2	12:18:00.970	Custom indicator AIMS Levels V2 AUDNZD,M30: removed
+2	12:18:00.970	Custom indicator AIMS Entry Alert V1 AUDNZD,M30: removed
+2	12:18:00.970	Custom indicator AIMS AO V.2.1 AUDNZD,M30: removed
+2	12:18:07.462	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	12:18:07.462	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	12:18:07.462	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	12:22:06.254	Expert KeltnerEA_Combined_Ver5.1a [DJI30],M5: removed
+2	12:22:06.359	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	12:22:06.372	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	12:22:06.372	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	12:22:06.445	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	12:22:06.515	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	12:22:06.582	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	12:35:23.444	Custom indicator AIMS Levels V2 [NQ100],H1: loaded successfully
+2	12:35:23.518	Custom indicator AIMS Entry Alert V1 [NQ100],H1: loaded successfully
+2	12:35:23.590	Custom indicator AIMS AO V.2.1 [NQ100],H1: loaded successfully
+2	12:36:35.700	Custom indicator AIMS Levels V2 EURNZD,H1: loaded successfully
+2	12:36:35.761	Custom indicator AIMS Entry Alert V1 EURNZD,H1: loaded successfully
+2	12:36:35.823	Custom indicator AIMS AO V.2.1 EURNZD,H1: loaded successfully
+2	12:39:56.893	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	12:39:56.960	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	12:39:57.025	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	12:39:57.130	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	12:40:10.829	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	12:40:10.829	Custom indicator Entry GBPAUD,H1: removed
+2	12:40:10.829	Custom indicator Trend GBPAUD,H1: removed
+2	12:40:10.831	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	12:40:10.843	Custom indicator rsi chart bars GBPAUD,H1: loaded successfully
+2	12:40:10.853	Custom indicator sell zone fibs GBPAUD,H1: loaded successfully
+2	12:40:10.862	Custom indicator buy zone fibs GBPAUD,H1: loaded successfully
+2	12:40:10.871	Custom indicator CCI GBPAUD,H1: loaded successfully
+2	12:42:42.679	Custom indicator AIMS Levels V2 NZDUSD,H1: loaded successfully
+2	12:42:42.744	Custom indicator AIMS Entry Alert V1 NZDUSD,H1: loaded successfully
+2	12:42:42.808	Custom indicator AIMS AO V.2.1 NZDUSD,H1: loaded successfully
+2	12:44:49.684	Custom indicator AIMS Levels V2 [CAC40],H1: loaded successfully
+2	12:44:49.780	Custom indicator AIMS Entry Alert V1 [CAC40],H1: loaded successfully
+2	12:44:49.879	Custom indicator AIMS AO V.2.1 [CAC40],H1: loaded successfully
+2	12:51:05.018	Custom indicator AIMS Levels V2 WTI,H1: loaded successfully
+2	12:51:05.082	Custom indicator AIMS Entry Alert V1 WTI,H1: loaded successfully
+2	12:51:05.143	Custom indicator AIMS AO V.2.1 WTI,H1: loaded successfully
+0	12:53:18.815	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	12:53:19.696	'27123197': order was opened : #66763535 sell 0.60 [DAX30] at 11976.77 sl: 0.00 tp: 0.00
+0	13:01:32.344	'27123197': close order #66763535 sell 0.60 [DAX30] at 11976.77 sl: 0.00 tp: 0.00 at price 0.00
+0	13:01:33.426	'27123197': order #66763535 sell 0.60 [DAX30] at 11976.77 sl: 0.00 tp: 0.00 closed at price 11989.73
+2	13:09:18.121	Custom indicator AIMS Levels V2 WTI,M1: removed
+2	13:09:18.121	Custom indicator AIMS Entry Alert V1 WTI,M1: removed
+2	13:09:18.121	Custom indicator AIMS AO V.2.1 WTI,M1: removed
+2	13:10:45.008	Custom indicator AIMS Levels V2 EURGBP,H1: loaded successfully
+2	13:10:45.072	Custom indicator AIMS Entry Alert V1 EURGBP,H1: loaded successfully
+2	13:10:45.135	Custom indicator AIMS AO V.2.1 EURGBP,H1: loaded successfully
+0	13:24:56.755	'27123197': order buy market 0.10 EURGBP sl: 0.88400 tp: 0.89550
+0	13:24:57.153	'27123197': order was opened : #66765644 buy 0.10 EURGBP at 0.88985 sl: 0.88400 tp: 0.89550
+0	13:38:14.204	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	13:38:14.749	'27123197': order was opened : #66766361 sell 0.60 [DAX30] at 12028.06 sl: 0.00 tp: 0.00
+0	13:59:39.264	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 218.19 ms)
+0	13:59:41.473	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 218.19 ms)
+0	13:59:42.182	'27123197': previous successful authorization performed from 197.149.36.160
+0	13:59:50.350	'27123197': close order #66765644 buy 0.10 EURGBP at 0.88985 sl: 0.88400 tp: 0.89550 at price 0.00000
+0	13:59:50.743	'27123197': order #66765644 buy 0.10 EURGBP at 0.88985 sl: 0.88400 tp: 0.89550 closed at price 0.88901
+0	14:00:01.858	'27123197': ping to current access point Access Point #6 is 213.61 ms
+1	14:11:11.939	'27123197': datacenter connecting failed [6]
+0	14:11:36.760	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 210.25 ms)
+0	14:12:38.712	'27123197': login datacenter on AdmiralMarkets-Live
+0	14:12:51.137	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 233.87 ms)
+1	14:14:02.209	'27123197': datacenter connecting failed [6]
+0	14:14:11.932	'27123197': ping to current access point Access Point #2 is n/a
+0	14:14:34.739	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 263.83 ms)
+0	14:14:57.192	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 263.83 ms)
+0	14:14:58.265	'27123197': previous successful authorization performed from 197.149.36.160
+0	14:16:41.676	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 263.83 ms)
+0	14:16:45.230	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 263.83 ms)
+0	14:16:46.300	'27123197': previous successful authorization performed from 197.149.36.160
+0	14:17:01.315	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	14:17:21.267	'27123197': order was opened : #66768099 sell 0.60 [DAX30] at 12024.71 sl: 0.00 tp: 0.00
+1	14:19:06.675	'27123197': connect failed [Connection échouée]
+0	14:19:14.511	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 815.18 ms)
+0	14:20:20.985	'27123197': login datacenter on AdmiralMarkets-Live
+1	14:20:26.650	'27123197': connect failed [Connection échouée]
+0	14:20:33.428	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	14:20:50.961	'27123197': ping to current access point Access Point #8 is 826.27 ms
+0	14:20:54.772	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 826.27 ms)
+0	14:20:57.256	'27123197': previous successful authorization performed from 197.149.36.160
+0	14:25:27.995	'27123197': modify order #66766361 sell 0.60 [DAX30] at 12028.06 sl: 0.00 tp: 0.00 -> sl: 12060.00 tp: 11980.00
+0	14:25:28.669	'27123197': order #66766361 sell 0.60 [DAX30] at 12028.06 was modified -> sl: 12060.00 tp: 11980.00
+0	14:26:36.622	'27123197': modify order #66768099 sell 0.60 [DAX30] at 12024.71 sl: 0.00 tp: 0.00 -> sl: 12060.00 tp: 11980.00
+0	14:26:37.332	'27123197': order #66768099 sell 0.60 [DAX30] at 12024.71 was modified -> sl: 12060.00 tp: 11980.00
+0	14:47:34.096	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 217.31 ms)
+0	14:47:37.082	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 217.31 ms)
+0	14:47:37.662	'27123197': previous successful authorization performed from 197.149.36.160
+2	14:58:01.666	Custom indicator AIMS Levels V2 EURGBP,M1: removed
+2	14:58:01.726	Custom indicator AIMS Entry Alert V1 EURGBP,M1: removed
+2	14:58:01.726	Custom indicator AIMS AO V.2.1 EURGBP,M1: removed
+2	14:58:01.907	Custom indicator MACD Candles v4 EURGBP,M1: loaded successfully
+2	14:58:02.000	Custom indicator Dolly Graphics v14 EURGBP,M1: loaded successfully
+2	14:59:00.885	Custom indicator MACD Candles v4 GBPUSD,H1: loaded successfully
+2	14:59:00.895	Custom indicator Dolly Graphics v14 GBPUSD,H1: loaded successfully
+2	15:02:14.396	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	15:02:14.473	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	15:02:14.592	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	15:08:21.971	Custom indicator AIMS Levels V2 GBPJPY,H1: removed
+2	15:08:21.971	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: removed
+2	15:08:21.971	Custom indicator AIMS AO V.2.1 GBPJPY,H1: removed
+2	15:08:22.130	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	15:08:22.206	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	15:08:22.270	Custom indicator Trend GBPJPY,H1: loaded successfully
+2	15:08:22.321	Custom indicator Admiral Pivot GBPJPY,H1: loaded successfully
+2	15:08:22.361	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	15:08:22.371	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	15:29:28.198	Custom indicator AIMS Levels V2 #BNP,H1: loaded successfully
+2	15:29:28.289	Custom indicator AIMS Entry Alert V1 #BNP,H1: loaded successfully
+2	15:29:28.368	Custom indicator AIMS AO V.2.1 #BNP,H1: loaded successfully
+0	15:43:15.735	'27123197': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	15:43:16.272	'27123197': order was opened : #66773636 sell 0.10 [DJI30] at 25644.81 sl: 0.00 tp: 0.00
+0	15:45:38.685	'27123197': close order #66766361 sell 0.60 [DAX30] at 12028.06 sl: 12060.00 tp: 11980.00 at price 0.00
+0	15:45:39.239	'27123197': order #66766361 sell 0.60 [DAX30] at 12028.06 sl: 12060.00 tp: 11980.00 closed at price 11994.07
+0	15:45:40.364	'27123197': close order #66768099 sell 0.60 [DAX30] at 12024.71 sl: 12060.00 tp: 11980.00 at price 0.00
+0	15:45:41.337	'27123197': order #66768099 sell 0.60 [DAX30] at 12024.71 sl: 12060.00 tp: 11980.00 closed at price 11994.82
+0	15:49:33.979	'27123197': close order #66773636 sell 0.10 [DJI30] at 25644.81 sl: 0.00 tp: 0.00 at price 0.00
+0	15:49:34.569	'27123197': order #66773636 sell 0.10 [DJI30] at 25644.81 sl: 0.00 tp: 0.00 closed at price 25601.31
+0	15:58:18.748	'27123197': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	15:58:19.385	'27123197': order was opened : #66775240 buy 0.10 [DJI30] at 25616.81 sl: 0.00 tp: 0.00
+0	16:02:32.542	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:02:33.224	'27123197': order was opened : #66775558 sell 0.60 [DAX30] at 11987.36 sl: 0.00 tp: 0.00
+0	16:02:33.510	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:02:34.260	'27123197': order was opened : #66775560 sell 0.60 [DAX30] at 11987.12 sl: 0.00 tp: 0.00
+0	16:02:54.248	'27123197': close order #66775240 buy 0.10 [DJI30] at 25616.81 sl: 0.00 tp: 0.00 at price 0.00
+0	16:02:54.757	'27123197': order #66775240 buy 0.10 [DJI30] at 25616.81 sl: 0.00 tp: 0.00 closed at price 25595.73
+0	16:17:38.381	'27123197': close order #66775558 sell 0.60 [DAX30] at 11987.36 sl: 0.00 tp: 0.00 at price 0.00
+0	16:17:39.130	'27123197': order #66775558 sell 0.60 [DAX30] at 11987.36 sl: 0.00 tp: 0.00 closed at price 11990.01
+0	16:17:45.021	'27123197': close order #66775560 sell 0.60 [DAX30] at 11987.12 sl: 0.00 tp: 0.00 at price 0.00
+0	16:17:45.706	'27123197': order #66775560 sell 0.60 [DAX30] at 11987.12 sl: 0.00 tp: 0.00 closed at price 11993.27
+0	16:19:11.667	'27123197': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	16:19:12.096	'27123197': order was opened : #66776809 sell 0.10 [NQ100] at 9609.15 sl: 0.00 tp: 0.00
+0	16:23:04.901	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:23:05.456	'27123197': order was opened : #66777005 sell 0.60 [DAX30] at 11988.99 sl: 0.00 tp: 0.00
+0	16:23:07.065	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:23:07.877	'27123197': order was opened : #66777008 sell 0.60 [DAX30] at 11989.24 sl: 0.00 tp: 0.00
+0	16:24:03.643	'27123197': close order #66776809 sell 0.10 [NQ100] at 9609.15 sl: 0.00 tp: 0.00 at price 0.00
+0	16:24:04.184	'27123197': order #66776809 sell 0.10 [NQ100] at 9609.15 sl: 0.00 tp: 0.00 closed at price 9618.52
+1	16:31:02.396	'27123197': ping failed
+0	16:31:03.254	'27123197': login datacenter on AdmiralMarkets-Live
+0	16:31:04.753	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 230.19 ms)
+0	16:31:08.081	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 230.19 ms)
+0	16:31:08.641	'27123197': previous successful authorization performed from 197.149.36.160
+0	16:31:25.084	'27123197': auto connecting to a better access point Access Point #6 (ping is 208.07 ms)
+0	16:31:25.842	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 208.07 ms)
+0	16:31:28.341	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 208.07 ms)
+0	16:31:28.917	'27123197': previous successful authorization performed from 197.149.36.160
+0	16:33:13.870	'27123197': close order #66777005 sell 0.60 [DAX30] at 11988.99 sl: 0.00 tp: 0.00 at price 0.00
+0	16:33:14.689	'27123197': order #66777005 sell 0.60 [DAX30] at 11988.99 sl: 0.00 tp: 0.00 closed at price 11979.01
+0	16:33:15.403	'27123197': close order #66777008 sell 0.60 [DAX30] at 11989.24 sl: 0.00 tp: 0.00 at price 0.00
+0	16:33:16.056	'27123197': order #66777008 sell 0.60 [DAX30] at 11989.24 sl: 0.00 tp: 0.00 closed at price 11978.51
+0	16:34:13.575	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:34:14.252	'27123197': order was opened : #66778395 sell 0.60 [DAX30] at 11983.41 sl: 0.00 tp: 0.00
+0	16:34:17.776	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:34:18.346	'27123197': order was opened : #66778398 sell 0.60 [DAX30] at 11989.89 sl: 0.00 tp: 0.00
+0	16:35:15.391	'27123197': close order #66778395 sell 0.60 [DAX30] at 11983.41 sl: 0.00 tp: 0.00 at price 0.00
+0	16:35:15.907	'27123197': order #66778395 sell 0.60 [DAX30] at 11983.41 sl: 0.00 tp: 0.00 closed at price 11975.88
+0	16:35:16.795	'27123197': close order #66778398 sell 0.60 [DAX30] at 11989.89 sl: 0.00 tp: 0.00 at price 0.00
+0	16:35:17.569	'27123197': order #66778398 sell 0.60 [DAX30] at 11989.89 sl: 0.00 tp: 0.00 closed at price 11977.88
+0	16:40:34.599	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:40:35.361	'27123197': order was opened : #66779534 sell 0.60 [DAX30] at 11974.55 sl: 0.00 tp: 0.00
+0	16:41:41.018	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:41:41.545	'27123197': order was opened : #66779644 sell 0.60 [DAX30] at 11981.27 sl: 0.00 tp: 0.00
+0	16:42:12.033	'27123197': close order #66779644 sell 0.60 [DAX30] at 11981.27 sl: 0.00 tp: 0.00 at price 0.00
+0	16:42:12.635	'27123197': order #66779644 sell 0.60 [DAX30] at 11981.27 sl: 0.00 tp: 0.00 closed at price 11978.83
+0	16:44:18.539	'27123197': modify order #66779534 sell 0.60 [DAX30] at 11974.55 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 11974.33
+0	16:44:18.839	'27123197': order #66779534 sell 0.60 [DAX30] at 11974.55 was modified -> sl: 0.00 tp: 11974.33
+0	16:46:40.002	'27123197': close order #66779534 sell 0.60 [DAX30] at 11974.55 sl: 0.00 tp: 11974.33 at price 0.00
+0	16:46:40.694	'27123197': order #66779534 sell 0.60 [DAX30] at 11974.55 sl: 0.00 tp: 11974.33 closed at price 11981.08
+0	16:48:06.459	'27123197': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+1	16:49:06.749	'27123197': order sell 0.10 [NQ100] opening at market sl: 0.00 tp: 0.00 failed [Off quotes]
+0	16:49:44.243	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:49:46.765	'27123197': order was opened : #66780233 sell 0.60 [DAX30] at 11996.08 sl: 0.00 tp: 0.00
+0	16:49:50.290	'27123197': order sell market 0.60 [DAX30] sl: 0.00 tp: 0.00
+0	16:49:50.956	'27123197': order was opened : #66780248 sell 0.60 [DAX30] at 11998.81 sl: 0.00 tp: 0.00
+2	16:52:56.687	Custom indicator CRYSTAL [DAX30],M1: loaded successfully
+0	16:53:45.383	'27123197': modify order #66780248 sell 0.60 [DAX30] at 11998.81 sl: 0.00 tp: 0.00 -> sl: 12033.98 tp: 0.00
+0	16:53:45.669	'27123197': order #66780248 sell 0.60 [DAX30] at 11998.81 was modified -> sl: 12033.98 tp: 0.00
+0	16:54:21.417	'27123197': modify order #66780233 sell 0.60 [DAX30] at 11996.08 sl: 0.00 tp: 0.00 -> sl: 12033.64 tp: 0.00
+0	16:54:21.714	'27123197': order #66780233 sell 0.60 [DAX30] at 11996.08 was modified -> sl: 12033.64 tp: 0.00
+2	16:54:49.114	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+0	17:16:19.962	'27123197': login datacenter on AdmiralMarkets-Live
+0	17:16:32.448	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 205.09 ms)
+0	17:16:34.683	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 205.09 ms)
+0	17:16:35.227	'27123197': previous successful authorization performed from 197.149.36.160
+0	17:19:46.980	'27123197': order #66780233 sell 0.60 [DAX30] at 11996.08 closed due stop-loss at price 12033.94
+0	17:19:47.301	'27123197': order #66780248 sell 0.60 [DAX30] at 11998.81 closed due stop-loss at price 12034.44
+2	17:30:41.433	Custom indicator MACD Candles v4 EURGBP,M30: removed
+2	17:30:41.456	Custom indicator Dolly Graphics v14 EURGBP,M30: removed
+2	17:30:41.513	Custom indicator rsi chart bars EURGBP,M30: loaded successfully
+2	17:30:41.606	Custom indicator PBF_2EMA_Color EURGBP,M30: loaded successfully
+2	17:30:41.675	Custom indicator vertex_mod_3.01 alerts + arrows EURGBP,M30: loaded successfully
+2	17:30:53.442	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	17:30:53.464	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	17:30:53.480	Custom indicator CRYSTAL [DAX30],M1: removed
+2	17:30:53.481	Custom indicator CandleTimer [DAX30],M1: removed
+2	17:30:53.481	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	17:30:53.490	Custom indicator rsi chart bars [DAX30],M1: loaded successfully
+2	17:30:53.557	Custom indicator PBF_2EMA_Color [DAX30],M1: loaded successfully
+2	17:30:53.565	Custom indicator vertex_mod_3.01 alerts + arrows [DAX30],M1: loaded successfully
+0	17:34:27.647	'27123197': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	17:34:28.084	'27123197': order was opened : #66784627 sell 1.00 [DJI30] at 25678.08 sl: 0.00 tp: 0.00
+2	17:37:43.058	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	17:50:02.440	'27123197': close order #66784627 sell 1.00 [DJI30] at 25678.08 sl: 0.00 tp: 0.00 at price 0.00
+0	17:50:03.002	'27123197': order #66784627 sell 1.00 [DJI30] at 25678.08 sl: 0.00 tp: 0.00 closed at price 25604.68
+2	17:51:44.350	Custom indicator rsi chart bars [DAX30],M1: removed
+2	17:51:44.350	Custom indicator PBF_2EMA_Color [DAX30],M1: removed
+2	17:51:44.398	Custom indicator vertex_mod_3.01 alerts + arrows [DAX30],M1: removed
+2	17:51:44.479	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	17:51:44.564	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	17:51:44.632	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	17:59:53.637	Custom indicator AIMS Levels V2 ETHUSD,H1: loaded successfully
+2	17:59:53.724	Custom indicator AIMS Entry Alert V1 ETHUSD,H1: loaded successfully
+2	17:59:53.812	Custom indicator AIMS AO V.2.1 ETHUSD,H1: loaded successfully
+2	18:01:38.329	Custom indicator rsi chart bars GBPAUD,M15: removed
+2	18:01:38.331	Custom indicator sell zone fibs GBPAUD,M15: removed
+2	18:01:38.345	Custom indicator buy zone fibs GBPAUD,M15: removed
+2	18:01:38.347	Custom indicator CCI GBPAUD,M15: removed
+2	18:01:38.475	Custom indicator b-clock modified GBPAUD,M15: loaded successfully
+2	18:01:38.560	Custom indicator AutoTrendChannel GBPAUD,M15: loaded successfully
+2	18:01:38.629	Custom indicator phoenix GBPAUD,M15: loaded successfully
+2	18:01:38.643	Custom indicator FuturoTI GBPAUD,M15: loaded successfully
+2	18:02:14.223	Custom indicator b-clock modified GBPAUD,H1: removed
+2	18:02:14.223	Custom indicator AutoTrendChannel GBPAUD,H1: removed
+2	18:02:14.223	Custom indicator phoenix GBPAUD,H1: removed
+2	18:02:14.225	Custom indicator FuturoTI GBPAUD,H1: removed
+2	18:02:14.236	Custom indicator rsi chart bars GBPAUD,H1: loaded successfully
+2	18:02:14.302	Custom indicator PBF_2EMA_Color GBPAUD,H1: loaded successfully
+2	18:02:14.309	Custom indicator vertex_mod_3.01 alerts + arrows GBPAUD,H1: loaded successfully
+2	18:31:55.531	Custom indicator Admiral Pivot [DAX30],M1: loaded successfully
+2	18:34:20.904	Custom indicator rsi chart bars GBPAUD,M1: removed
+2	18:34:20.904	Custom indicator PBF_2EMA_Color GBPAUD,M1: removed
+2	18:34:20.905	Custom indicator vertex_mod_3.01 alerts + arrows GBPAUD,M1: removed
+2	18:34:20.933	Custom indicator rsi chart bars GBPAUD,M1: loaded successfully
+2	18:34:20.943	Custom indicator sell zone fibs GBPAUD,M1: loaded successfully
+2	18:34:20.953	Custom indicator buy zone fibs GBPAUD,M1: loaded successfully
+2	18:34:21.008	Custom indicator CCI GBPAUD,M1: loaded successfully
+2	18:42:16.312	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	18:42:16.506	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	18:42:16.573	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	18:42:51.876	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	18:42:51.944	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	18:42:52.010	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	18:47:49.622	Custom indicator Admiral Local Time [CAC40],M1: loaded successfully
+0	19:15:02.528	'23875089': login on AdmiralMarkets-Demo through Access Point #4 (ping: 212.41 ms)
+0	19:15:05.844	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 212.41 ms)
+0	19:15:06.758	'23875089': previous successful authorization performed from 197.149.36.160
+0	19:15:19.250	'23875089': ping to current access point Access Point #4 is 218.93 ms
+0	19:16:34.089	'23875089': close order #181736491 sell 0.03 EURUSD at 1.11208 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	19:16:34.437	'23875089': order #181736491 sell 0.03 EURUSD at 1.11208 sl: 0.00000 tp: 0.00000 closed at price 1.11753
+0	19:16:35.085	'23875089': close order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 1.11445 at price 0.00000
+0	19:16:35.453	'23875089': order #181736751 sell 0.01 EURUSD at 1.11226 sl: 0.00000 tp: 1.11445 closed at price 1.11753
+0	19:16:35.728	'23875089': close order #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 1.11445 at price 0.00000
+0	19:16:36.092	'23875089': order #181742528 sell 0.01 EURUSD at 1.11366 sl: 0.00000 tp: 1.11445 closed at price 1.11753
+0	19:16:36.431	'23875089': close order #181745931 sell 0.01 EURUSD at 1.11634 sl: 0.00000 tp: 1.11445 at price 0.00000
+0	19:16:36.784	'23875089': order #181745931 sell 0.01 EURUSD at 1.11634 sl: 0.00000 tp: 1.11445 closed at price 1.11753
+0	19:16:40.703	'23875089': close order #181750551 sell 0.01 EURUSD at 1.11703 sl: 0.00000 tp: 1.11445 at price 0.00000
+0	19:16:41.084	'23875089': order #181750551 sell 0.01 EURUSD at 1.11703 sl: 0.00000 tp: 1.11445 closed at price 1.11753
+0	19:16:42.232	'23875089': close order #181753766 sell 0.01 EURUSD at 1.11797 sl: 0.00000 tp: 1.11445 at price 0.00000
+0	19:16:42.585	'23875089': order #181753766 sell 0.01 EURUSD at 1.11797 sl: 0.00000 tp: 1.11445 closed at price 1.11753
+0	19:16:48.104	'23875089': order buy market 0.10 #BNP sl: 0.000 tp: 0.000
+1	19:16:48.472	'23875089': order buy 0.10 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:16:50.125	'23875089': order buy market 0.10 #BNP sl: 0.000 tp: 0.000
+1	19:16:50.695	'23875089': order buy 0.10 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:16:54.018	'23875089': order buy market 1.00 #BNP sl: 0.000 tp: 0.000
+1	19:16:54.361	'23875089': order buy 1.00 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:05.292	'23875089': order buy market 10.00 #BNP sl: 0.000 tp: 0.000
+1	19:17:05.610	'23875089': order buy 10.00 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:10.554	'23875089': order buy market 100.00 #BNP sl: 0.000 tp: 0.000
+1	19:17:11.160	'23875089': order buy 100.00 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:14.136	'23875089': order buy market 100.00 #BNP sl: 0.000 tp: 0.000
+1	19:17:14.429	'23875089': order buy 100.00 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:19.392	'23875089': order buy market 10.00 #BNP sl: 0.000 tp: 0.000
+1	19:17:19.671	'23875089': order buy 10.00 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:23.520	'23875089': order buy market 1.00 #BNP sl: 0.000 tp: 0.000
+1	19:17:23.954	'23875089': order buy 1.00 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:35.435	'23875089': order buy market 0.50 #BNP sl: 0.000 tp: 0.000
+1	19:17:36.000	'23875089': order buy 0.50 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:42.717	'23875089': order buy market 0.40 #BNP sl: 0.000 tp: 0.000
+1	19:17:42.999	'23875089': order buy 0.40 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+0	19:17:45.475	'23875089': order buy market 0.40 #BNP sl: 0.000 tp: 0.000
+1	19:17:45.741	'23875089': order buy 0.40 #BNP opening at market sl: 0.000 tp: 0.000 failed [Market is closed]
+2	19:34:30.031	Custom indicator AIMS Levels V2 EURUSD,H1: removed
+2	19:34:30.054	Custom indicator AIMS Entry Alert V1 EURUSD,H1: removed
+2	19:34:30.070	Custom indicator AIMS AO V.2.1 EURUSD,H1: removed
+2	19:34:30.093	Custom indicator ##Forex4Live Reversal 2020 (2) EURUSD,H1: loaded successfully
+2	19:34:30.109	Custom indicator ##Forex4Live Reversal 2020 (3) EURUSD,H1: loaded successfully
+2	19:34:30.117	Custom indicator ##Forex4Live Reversal 2020 (1) EURUSD,H1: loaded successfully
+2	19:34:30.125	Custom indicator ##Forex4Live Reversal 2020 (8) EURUSD,H1: loaded successfully
+2	19:34:30.141	Custom indicator ##Forex4Live Reversal 2020 (5) EURUSD,H1: loaded successfully
+2	19:34:30.149	Custom indicator ##Forex4Live Reversal 2020 (6) EURUSD,H1: loaded successfully
+2	19:34:30.170	Custom indicator ##Forex4Live Reversal 2020 (7) EURUSD,H1: loaded successfully
+2	19:39:19.647	Custom indicator ##Forex4Live Reversal 2020 (2) EURUSD,H1: removed
+2	19:39:19.648	Custom indicator ##Forex4Live Reversal 2020 (3) EURUSD,H1: removed
+2	19:39:19.650	Custom indicator ##Forex4Live Reversal 2020 (1) EURUSD,H1: removed
+2	19:39:19.651	Custom indicator ##Forex4Live Reversal 2020 (8) EURUSD,H1: removed
+2	19:39:19.653	Custom indicator ##Forex4Live Reversal 2020 (5) EURUSD,H1: removed
+2	19:39:19.655	Custom indicator ##Forex4Live Reversal 2020 (6) EURUSD,H1: removed
+2	19:39:19.656	Custom indicator ##Forex4Live Reversal 2020 (7) EURUSD,H1: removed
+2	19:39:19.665	Custom indicator ##Forex4Live Reversal 2020 (2) EURUSD,H1: loaded successfully
+2	19:39:19.673	Custom indicator ##Forex4Live Reversal 2020 (3) EURUSD,H1: loaded successfully
+2	19:39:19.681	Custom indicator ##Forex4Live Reversal 2020 (1) EURUSD,H1: loaded successfully
+2	19:39:19.689	Custom indicator ##Forex4Live Reversal 2020 (8) EURUSD,H1: loaded successfully
+2	19:39:19.698	Custom indicator ##Forex4Live Reversal 2020 (5) EURUSD,H1: loaded successfully
+2	19:39:19.705	Custom indicator ##Forex4Live Reversal 2020 (6) EURUSD,H1: loaded successfully
+2	19:39:19.713	Custom indicator ##Forex4Live Reversal 2020 (7) EURUSD,H1: loaded successfully
+2	19:42:49.088	Custom indicator ##Forex4Live Reversal 2020 (2) EURUSD,H1: removed
+2	19:42:49.089	Custom indicator ##Forex4Live Reversal 2020 (3) EURUSD,H1: removed
+2	19:42:49.091	Custom indicator ##Forex4Live Reversal 2020 (1) EURUSD,H1: removed
+2	19:42:49.092	Custom indicator ##Forex4Live Reversal 2020 (8) EURUSD,H1: removed
+2	19:42:49.093	Custom indicator ##Forex4Live Reversal 2020 (5) EURUSD,H1: removed
+2	19:42:49.095	Custom indicator ##Forex4Live Reversal 2020 (6) EURUSD,H1: removed
+2	19:42:49.096	Custom indicator ##Forex4Live Reversal 2020 (7) EURUSD,H1: removed
+0	19:53:27.730	HistoryCenter: synchronize '[CAC40]1'
+0	19:53:28.864	HistoryCenter: 2085 bars imported in '[CAC40]1'
+2	19:54:15.439	Expert ForexLines_EA EURUSD,H1: loaded successfully
+2	19:54:27.568	Custom indicator FL13 EURUSD,H1: loaded successfully
+2	19:54:44.871	Custom indicator FL13 EURUSD,H1: removed
+2	19:54:45.331	Custom indicator FL13 EURUSD,M5: loaded successfully
+2	19:54:49.666	Custom indicator FL13 EURUSD,M5: removed
+2	19:54:53.003	Custom indicator FL13 EURUSD,M1: loaded successfully
+0	19:54:53.051	'23875089': order sell market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	19:54:53.503	'23875089': order was opened : #181825712 sell 0.10 EURUSD at 1.11738 sl: 0.00000 tp: 0.00000
+2	19:55:42.616	Custom indicator FL13 EURUSD,M1: removed
+2	19:55:42.617	Expert ForexLines_EA EURUSD,M1: removed
+2	19:55:42.753	Custom indicator FL Gold Edition EURUSD,M1: loaded successfully
+2	19:55:42.777	Custom indicator FL24 - entry EURUSD,M1: loaded successfully
+2	19:55:42.810	Custom indicator FL23 - exit EURUSD,M1: loaded successfully
+2	19:55:42.887	Custom indicator FL24 - entry EURUSD,M1: loaded successfully
+2	19:55:42.975	Custom indicator FL23 - exit EURUSD,M1: loaded successfully
+2	19:56:39.267	Custom indicator FL23 - exit EURUSD,M1: removed
+2	19:56:39.267	Custom indicator FL24 - entry EURUSD,M1: removed
+2	19:56:39.305	Custom indicator FL24 - entry EURUSD,Daily: loaded successfully
+2	19:56:39.342	Custom indicator FL23 - exit EURUSD,Daily: loaded successfully
+2	19:58:55.523	Custom indicator FL23 - exit EURUSD,Daily: removed
+2	19:58:55.523	Custom indicator FL24 - entry EURUSD,Daily: removed
+2	19:58:55.523	Custom indicator FL Gold Edition EURUSD,Daily: removed
+2	19:58:55.523	Custom indicator FL24 - entry EURUSD,Daily: removed
+2	19:58:55.523	Custom indicator FL23 - exit EURUSD,Daily: removed
+2	19:58:55.596	Custom indicator FL01 EURUSD,Daily: loaded successfully
+2	19:58:55.671	Custom indicator FL02 EURUSD,Daily: loaded successfully
+2	19:58:55.740	Custom indicator FL02 EURUSD,Daily: loaded successfully
+2	19:58:55.813	Custom indicator FL02 EURUSD,Daily: loaded successfully
+2	19:58:55.887	Custom indicator FL02 EURUSD,Daily: loaded successfully
+2	19:58:55.958	Custom indicator FL02 EURUSD,Daily: loaded successfully
+2	19:58:56.030	Custom indicator FL02 EURUSD,Daily: loaded successfully
+2	19:58:56.101	Custom indicator FL10 EURUSD,Daily: loaded successfully
+2	19:58:56.172	Custom indicator FL13 EURUSD,Daily: loaded successfully
+2	19:58:56.246	Custom indicator FL11 EURUSD,Daily: loaded successfully
+2	19:58:56.320	Custom indicator FL07 EURUSD,Daily: loaded successfully
+2	19:58:56.391	Custom indicator FL22 EURUSD,Daily: loaded successfully
+2	19:58:56.462	Custom indicator FL5 EURUSD,Daily: loaded successfully
+0	20:01:31.013	'23875089': close order #181825712 sell 0.10 EURUSD at 1.11738 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	20:01:31.372	'23875089': order #181825712 sell 0.10 EURUSD at 1.11738 sl: 0.00000 tp: 0.00000 closed at price 1.11751
+2	20:01:55.209	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	20:01:55.290	Expert ForexLines_EA [DJI30],M1: loaded successfully
+2	20:02:04.193	Expert ForexLines_EA [DJI30],M1: removed
+2	20:02:17.614	Expert ForexLines_EA NZDUSD,H1: loaded successfully
+2	20:02:22.609	Custom indicator FL13 NZDUSD,H1: loaded successfully
+2	20:02:33.560	Custom indicator FL13 NZDUSD,H1: removed
+2	20:02:34.398	Custom indicator FL13 NZDUSD,M1: loaded successfully
+0	20:02:57.666	'23875089': order buy market 0.10 NZDUSD sl: 0.00000 tp: 0.00000
+0	20:02:58.043	'23875089': order was opened : #181827383 buy 0.10 NZDUSD at 0.63536 sl: 0.00000 tp: 0.00000
+2	20:06:20.489	Custom indicator MACD Candles v4 GBPUSD,M15: removed
+2	20:06:20.507	Custom indicator Dolly Graphics v14 GBPUSD,M15: removed
+2	20:06:20.607	Custom indicator FL01 GBPUSD,M15: loaded successfully
+2	20:06:20.675	Custom indicator FL02 GBPUSD,M15: loaded successfully
+2	20:06:20.738	Custom indicator FL02 GBPUSD,M15: loaded successfully
+2	20:06:20.804	Custom indicator FL02 GBPUSD,M15: loaded successfully
+2	20:06:20.866	Custom indicator FL02 GBPUSD,M15: loaded successfully
+2	20:06:20.932	Custom indicator FL02 GBPUSD,M15: loaded successfully
+2	20:06:20.995	Custom indicator FL02 GBPUSD,M15: loaded successfully
+2	20:06:21.059	Custom indicator FL10 GBPUSD,M15: loaded successfully
+2	20:06:21.122	Custom indicator FL13 GBPUSD,M15: loaded successfully
+2	20:06:21.184	Custom indicator FL11 GBPUSD,M15: loaded successfully
+2	20:06:21.246	Custom indicator FL07 GBPUSD,M15: loaded successfully
+2	20:06:21.307	Custom indicator FL22 GBPUSD,M15: loaded successfully
+2	20:06:21.369	Custom indicator FL5 GBPUSD,M15: loaded successfully
+2	20:08:42.132	Custom indicator FL01 [DAX30],M15: loaded successfully
+2	20:08:42.199	Custom indicator FL02 [DAX30],M15: loaded successfully
+2	20:08:42.261	Custom indicator FL02 [DAX30],M15: loaded successfully
+2	20:08:42.323	Custom indicator FL02 [DAX30],M15: loaded successfully
+2	20:08:42.384	Custom indicator FL02 [DAX30],M15: loaded successfully
+2	20:08:42.445	Custom indicator FL02 [DAX30],M15: loaded successfully
+2	20:08:42.506	Custom indicator FL02 [DAX30],M15: loaded successfully
+2	20:08:42.569	Custom indicator FL10 [DAX30],M15: loaded successfully
+2	20:08:42.634	Custom indicator FL13 [DAX30],M15: loaded successfully
+2	20:08:42.698	Custom indicator FL11 [DAX30],M15: loaded successfully
+2	20:08:42.758	Custom indicator FL07 [DAX30],M15: loaded successfully
+2	20:08:42.821	Custom indicator FL22 [DAX30],M15: loaded successfully
+2	20:08:42.886	Custom indicator FL5 [DAX30],M15: loaded successfully
+2	20:12:47.617	Custom indicator rsi chart bars GBPAUD,M5: removed
+2	20:12:47.668	Custom indicator sell zone fibs GBPAUD,M5: removed
+2	20:12:47.694	Custom indicator buy zone fibs GBPAUD,M5: removed
+2	20:12:47.722	Custom indicator CCI GBPAUD,M5: removed
+2	20:12:47.824	Custom indicator FL01 GBPAUD,M5: loaded successfully
+2	20:12:47.894	Custom indicator FL02 GBPAUD,M5: loaded successfully
+2	20:12:47.962	Custom indicator FL02 GBPAUD,M5: loaded successfully
+2	20:12:48.030	Custom indicator FL02 GBPAUD,M5: loaded successfully
+2	20:12:48.099	Custom indicator FL02 GBPAUD,M5: loaded successfully
+2	20:12:48.166	Custom indicator FL02 GBPAUD,M5: loaded successfully
+2	20:12:48.230	Custom indicator FL02 GBPAUD,M5: loaded successfully
+2	20:12:48.291	Custom indicator FL10 GBPAUD,M5: loaded successfully
+2	20:12:48.429	Custom indicator FL13 GBPAUD,M5: loaded successfully
+2	20:12:48.519	Custom indicator FL11 GBPAUD,M5: loaded successfully
+2	20:12:48.598	Custom indicator FL07 GBPAUD,M5: loaded successfully
+2	20:12:48.661	Custom indicator FL22 GBPAUD,M5: loaded successfully
+2	20:12:48.754	Custom indicator FL5 GBPAUD,M5: loaded successfully
+2	20:16:50.017	Custom indicator FL01 GBPAUD,M1: removed
+2	20:16:50.017	Custom indicator FL02 GBPAUD,M1: removed
+2	20:16:50.017	Custom indicator FL02 GBPAUD,M1: removed
+2	20:16:50.017	Custom indicator FL02 GBPAUD,M1: removed
+2	20:16:50.017	Custom indicator FL02 GBPAUD,M1: removed
+2	20:16:50.018	Custom indicator FL02 GBPAUD,M1: removed
+2	20:16:50.018	Custom indicator FL02 GBPAUD,M1: removed
+2	20:16:50.019	Custom indicator FL10 GBPAUD,M1: removed
+2	20:16:50.019	Custom indicator FL13 GBPAUD,M1: removed
+2	20:16:50.020	Custom indicator FL11 GBPAUD,M1: removed
+2	20:16:50.020	Custom indicator FL07 GBPAUD,M1: removed
+2	20:16:50.021	Custom indicator FL22 GBPAUD,M1: removed
+2	20:16:50.021	Custom indicator FL5 GBPAUD,M1: removed
+2	20:16:50.047	Custom indicator FL24 - entry GBPAUD,M1: loaded successfully
+2	20:16:50.082	Custom indicator FL23 - exit GBPAUD,M1: loaded successfully
+2	20:36:19.534	Custom indicator FL13 NZDUSD,M1: removed
+2	20:36:22.593	Custom indicator FL13 NZDUSD,M1: loaded successfully
+0	20:36:22.623	'23875089': modify order #181827383 buy 0.10 NZDUSD at 0.63536 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.63586
+0	20:36:22.919	'23875089': order #181827383 buy 0.10 NZDUSD at 0.63536 was modified -> sl: 0.00000 tp: 0.63586
+0	20:36:22.919	'23875089': modify order #181827383 buy 0.10 NZDUSD at 0.63536 sl: 0.00000 tp: 0.63586 -> sl: 0.63286 tp: 0.63586
+0	20:36:23.206	'23875089': order #181827383 buy 0.10 NZDUSD at 0.63536 was modified -> sl: 0.63286 tp: 0.63586
+2	20:36:50.356	Custom indicator FL13 NZDUSD,M1: removed
+2	20:36:50.763	Custom indicator FL13 NZDUSD,M1: loaded successfully
+2	20:38:19.110	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	20:38:19.239	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	20:38:19.290	Custom indicator Admiral Pivot [DAX30],M1: removed
+2	20:38:19.290	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	20:38:19.388	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	20:38:19.466	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	20:38:19.527	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	20:38:25.302	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	20:38:25.302	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	20:38:25.302	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	20:38:29.468	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	20:38:29.531	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	20:38:29.592	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	20:39:37.815	Custom indicator FL01 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL02 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL02 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL02 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL02 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL02 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL02 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL10 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL13 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL11 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL07 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL22 EURUSD,M15: removed
+2	20:39:37.815	Custom indicator FL5 EURUSD,M15: removed
+2	20:39:37.890	Custom indicator FL01 EURUSD,M15: loaded successfully
+2	20:39:37.957	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:39:38.021	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:39:38.086	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:39:38.150	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:39:38.213	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:39:38.275	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:39:38.342	Custom indicator FL10 EURUSD,M15: loaded successfully
+2	20:39:38.407	Custom indicator FL13 EURUSD,M15: loaded successfully
+2	20:39:38.471	Custom indicator FL11 EURUSD,M15: loaded successfully
+2	20:39:38.505	Custom indicator AutoFibo EURUSD,M15: loaded successfully
+2	20:39:38.566	Custom indicator FL07 EURUSD,M15: loaded successfully
+2	20:39:38.630	Custom indicator FL23 EURUSD,M15: loaded successfully
+2	20:39:38.695	Custom indicator FL22 EURUSD,M15: loaded successfully
+2	20:39:38.759	Custom indicator FL23 Multi TF EURUSD,M15: loaded successfully
+2	20:39:39.538	Custom indicator FL23 EURUSD,H4: loaded successfully
+2	20:39:39.616	Custom indicator FL23 EURUSD,Daily: loaded successfully
+2	20:39:39.681	Custom indicator FL23 EURUSD,M1: loaded successfully
+2	20:39:39.797	Custom indicator FL23 EURUSD,M5: loaded successfully
+2	20:39:39.869	Custom indicator FL23 EURUSD,M15: loaded successfully
+2	20:39:39.940	Custom indicator FL23 EURUSD,M30: loaded successfully
+2	20:39:40.045	Custom indicator FL23 EURUSD,H1: loaded successfully
+2	20:39:40.122	Custom indicator FL23 EURUSD,Weekly: loaded successfully
+2	20:40:41.425	Custom indicator FL23 EURUSD,Weekly: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,H1: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,M30: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,M15: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,M5: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,M1: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,Daily: removed
+2	20:40:41.425	Custom indicator FL23 EURUSD,H4: removed
+2	20:40:41.426	Custom indicator FL01 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL02 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL02 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL02 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL02 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL02 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL02 EURUSD,M15: removed
+2	20:40:41.426	Custom indicator FL10 EURUSD,M15: removed
+2	20:40:41.427	Custom indicator FL13 EURUSD,M15: removed
+2	20:40:41.427	Custom indicator FL11 EURUSD,M15: removed
+2	20:40:41.427	Custom indicator AutoFibo EURUSD,M15: removed
+2	20:40:41.427	Custom indicator FL07 EURUSD,M15: removed
+2	20:40:41.427	Custom indicator FL23 EURUSD,M15: removed
+2	20:40:41.427	Custom indicator FL22 EURUSD,M15: removed
+2	20:40:41.427	Custom indicator FL23 Multi TF EURUSD,M15: removed
+2	20:40:41.496	Custom indicator FL01 EURUSD,M15: loaded successfully
+2	20:40:41.677	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:40:41.742	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:40:41.807	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:40:41.873	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:40:41.936	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:40:42.009	Custom indicator FL02 EURUSD,M15: loaded successfully
+2	20:40:42.071	Custom indicator FL10 EURUSD,M15: loaded successfully
+2	20:40:42.134	Custom indicator FL13 EURUSD,M15: loaded successfully
+2	20:40:42.196	Custom indicator FL11 EURUSD,M15: loaded successfully
+2	20:40:42.228	Custom indicator AutoFibo EURUSD,M15: loaded successfully
+2	20:40:42.291	Custom indicator FL07 EURUSD,M15: loaded successfully
+2	20:40:42.353	Custom indicator FL23 EURUSD,M15: loaded successfully
+2	20:40:42.418	Custom indicator FL22 EURUSD,M15: loaded successfully
+2	20:40:42.491	Custom indicator FL23 Multi TF H1 H4 EURUSD,M15: loaded successfully
+2	20:40:43.278	Custom indicator FL23 EURUSD,H1: loaded successfully
+2	20:40:43.345	Custom indicator FL23 EURUSD,H4: loaded successfully
+2	20:40:43.417	Custom indicator FL23 EURUSD,M1: loaded successfully
+2	20:40:43.500	Custom indicator FL23 EURUSD,M5: loaded successfully
+2	20:40:43.587	Custom indicator FL23 EURUSD,M15: loaded successfully
+2	20:40:43.656	Custom indicator FL23 EURUSD,M30: loaded successfully
+2	20:40:43.717	Custom indicator FL23 EURUSD,Daily: loaded successfully
+2	20:40:43.779	Custom indicator FL23 EURUSD,Weekly: loaded successfully
+2	20:42:26.145	Custom indicator FL23 EURUSD,Weekly: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,Daily: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,M30: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,M15: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,M5: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,M1: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,H4: removed
+2	20:42:26.145	Custom indicator FL23 EURUSD,H1: removed
+2	20:42:30.055	Custom indicator FL23 EURUSD,H1: loaded successfully
+2	20:42:30.120	Custom indicator FL23 EURUSD,H4: loaded successfully
+2	20:42:30.190	Custom indicator FL23 EURUSD,M1: loaded successfully
+2	20:42:30.271	Custom indicator FL23 EURUSD,M5: loaded successfully
+2	20:42:30.339	Custom indicator FL23 EURUSD,M15: loaded successfully
+2	20:42:30.407	Custom indicator FL23 EURUSD,M30: loaded successfully
+2	20:42:30.475	Custom indicator FL23 EURUSD,Daily: loaded successfully
+2	20:42:30.538	Custom indicator FL23 EURUSD,Weekly: loaded successfully
+2	20:44:33.314	Custom indicator AIMS Levels V2 EURNZD,M5: removed
+2	20:44:33.324	Custom indicator AIMS Entry Alert V1 EURNZD,M5: removed
+2	20:44:33.324	Custom indicator AIMS AO V.2.1 EURNZD,M5: removed
+2	20:44:33.429	Custom indicator FL1 EURNZD,M5: loaded successfully
+2	20:44:33.495	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:33.558	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:33.650	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:33.715	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:33.806	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:33.916	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:33.994	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:34.056	Custom indicator FL2 EURNZD,M5: loaded successfully
+2	20:44:34.117	Custom indicator FL3 EURNZD,M5: loaded successfully
+2	20:44:34.180	Custom indicator FL4 EURNZD,M5: loaded successfully
+2	20:44:34.243	Custom indicator FL5 EURNZD,M5: loaded successfully
+2	20:44:34.305	Custom indicator FL6 EURNZD,M5: loaded successfully
+2	20:44:34.458	Custom indicator FL7 EURNZD,M5: loaded successfully
+2	20:45:31.713	Custom indicator FL1 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL2 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL3 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL4 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL5 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL6 EURNZD,M5: removed
+2	20:45:31.713	Custom indicator FL7 EURNZD,M5: removed
+2	20:45:31.783	Custom indicator FL01 EURNZD,M5: loaded successfully
+2	20:45:31.846	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:31.909	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:31.973	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:32.035	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:32.098	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:32.160	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:32.223	Custom indicator FL03 EURNZD,M5: loaded successfully
+2	20:45:32.283	Custom indicator FL04 EURNZD,M5: loaded successfully
+2	20:45:32.344	Custom indicator FL05 EURNZD,M5: loaded successfully
+2	20:45:32.408	Custom indicator FL06 EURNZD,M5: loaded successfully
+2	20:45:32.470	Custom indicator FL07 EURNZD,M5: loaded successfully
+2	20:45:51.625	Custom indicator FL01 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL02 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL02 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL02 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL02 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL02 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL02 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL03 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL04 EURNZD,M5: removed
+2	20:45:51.625	Custom indicator FL05 EURNZD,M5: removed
+2	20:45:51.649	Custom indicator FL06 EURNZD,M5: removed
+2	20:45:51.649	Custom indicator FL07 EURNZD,M5: removed
+2	20:45:51.718	Custom indicator FL01 EURNZD,M5: loaded successfully
+2	20:45:51.781	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:51.846	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:51.912	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:51.974	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:52.040	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:52.101	Custom indicator FL02 EURNZD,M5: loaded successfully
+2	20:45:52.167	Custom indicator FL10 EURNZD,M5: loaded successfully
+2	20:45:52.230	Custom indicator FL11 EURNZD,M5: loaded successfully
+2	20:45:52.290	Custom indicator FL13 EURNZD,M5: loaded successfully
+2	20:45:52.353	Custom indicator FL14 EURNZD,M5: loaded successfully
+2	20:45:52.414	Custom indicator FL04 EURNZD,M5: loaded successfully
+2	20:45:52.476	Custom indicator FL05 EURNZD,M5: loaded successfully
+2	20:45:52.539	Custom indicator FL06 EURNZD,M5: loaded successfully
+2	20:45:52.603	Custom indicator FL07 EURNZD,M5: loaded successfully
+0	20:46:41.959	'23875089': order buy market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	20:46:42.836	'23875089': order was opened : #181831562 buy 0.10 [DAX30] at 12042.82 sl: 0.00 tp: 0.00
+0	21:15:21.527	'23875089': close order #181831562 buy 0.10 [DAX30] at 12042.82 sl: 0.00 tp: 0.00 at price 0.00
+0	21:15:30.515	'23875089': order #181831562 buy 0.10 [DAX30] at 12042.82 sl: 0.00 tp: 0.00 closed at price 12034.02
+0	21:17:26.430	Sources recompilation started
+2	21:17:44.505	Expert high profit EA GBPUSD,M30: loaded successfully
+0	21:19:01.704	'23875089': order #181827383 buy 0.10 NZDUSD at 0.63536 closed due take-profit at price 0.63587
+2	21:27:42.169	Expert high profit EA GBPUSD,M30: removed
+2	21:28:54.519	Expert ScalperEA_2.7Lite-Grow_1 GBPUSD,M1: loaded successfully
+0	21:30:58.378	'23875089': order sell market 0.10 NZDUSD sl: 0.00000 tp: 0.00000
+0	21:31:02.931	'23875089': order was opened : #181834505 sell 0.10 NZDUSD at 0.63562 sl: 0.00000 tp: 0.00000
+0	21:31:02.940	'23875089': modify order #181834505 sell 0.10 NZDUSD at 0.63562 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.63512
+0	21:31:08.620	'23875089': order #181834505 sell 0.10 NZDUSD at 0.63562 was modified -> sl: 0.00000 tp: 0.63512
+0	21:31:08.620	'23875089': modify order #181834505 sell 0.10 NZDUSD at 0.63562 sl: 0.00000 tp: 0.63512 -> sl: 0.63812 tp: 0.63512
+0	21:31:10.033	'23875089': order #181834505 sell 0.10 NZDUSD at 0.63562 was modified -> sl: 0.63812 tp: 0.63512
+1	21:44:03.171	'23875089': ping failed
+0	21:44:08.087	'23875089': login datacenter on AdmiralMarkets-Demo
+0	21:44:10.418	'23875089': login on AdmiralMarkets-Demo through Access Point #6 (ping: 227.13 ms)
+0	21:44:17.629	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 227.13 ms)
+0	21:44:21.422	'23875089': previous successful authorization performed from 197.149.36.160
+0	21:45:01.444	'23875089': auto connecting to a better access point Access Point #3 (ping is 328.26 ms)
+0	21:45:05.540	'23875089': login on AdmiralMarkets-Demo through Access Point #3 (ping: 328.26 ms)
+0	21:45:09.847	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 328.26 ms)
+0	21:45:11.208	'23875089': previous successful authorization performed from 197.149.36.160
+0	22:51:01.139	'23875089': order buy market 0.10 NZDUSD sl: 0.00000 tp: 0.00000
+0	22:51:01.705	'23875089': order was opened : #181839826 buy 0.10 NZDUSD at 0.63650 sl: 0.00000 tp: 0.00000
+0	22:51:01.705	'23875089': modify order #181839826 buy 0.10 NZDUSD at 0.63650 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.63700
+0	22:51:02.018	'23875089': order #181839826 buy 0.10 NZDUSD at 0.63650 was modified -> sl: 0.00000 tp: 0.63700
+0	22:51:02.018	'23875089': modify order #181839826 buy 0.10 NZDUSD at 0.63650 sl: 0.00000 tp: 0.63700 -> sl: 0.63400 tp: 0.63700
+0	22:51:02.317	'23875089': order #181839826 buy 0.10 NZDUSD at 0.63650 was modified -> sl: 0.63400 tp: 0.63700
+0	23:58:17.493	'23875089': order #181839826 buy 0.10 NZDUSD at 0.63650 closed due take-profit at price 0.63702

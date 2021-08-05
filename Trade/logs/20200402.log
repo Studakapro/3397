@@ -1,0 +1,247 @@
+1	06:46:28.130	MQL5.community: authorization failed
+0	06:46:43.899	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	06:46:45.938	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	06:46:46.652	'23842653': previous successful authorization performed from 197.149.28.96
+0	06:48:42.882	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	06:48:43.160	'23842653': auto connecting to a better access point Access Point #6 (ping is 231.69 ms)
+0	06:48:52.262	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 231.69 ms)
+0	06:49:04.239	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 231.69 ms)
+0	06:49:05.082	'23842653': previous successful authorization performed from 197.149.28.96
+0	06:53:20.057	'23842653': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	06:53:20.431	'23842653': order was opened : #175059368 sell 0.01 EURUSD at 1.09379 sl: 0.00000 tp: 0.00000
+0	06:53:40.498	'23842653': modify order #175059368 sell 0.01 EURUSD at 1.09379 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.09329
+0	06:53:40.806	'23842653': order #175059368 sell 0.01 EURUSD at 1.09379 was modified -> sl: 0.00000 tp: 1.09329
+0	06:53:58.096	'23842653': close order #174956334 sell 0.01 USDCAD at 1.42539 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	06:53:58.446	'23842653': order #174956334 sell 0.01 USDCAD at 1.42539 sl: 0.00000 tp: 0.00000 closed at price 1.41721
+0	06:54:00.244	'23842653': close order #174957210 sell 0.01 AUDCAD at 0.86476 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	06:54:00.639	'23842653': order #174957210 sell 0.01 AUDCAD at 0.86476 sl: 0.00000 tp: 0.00000 closed at price 0.86279
+0	06:54:07.768	'23842653': close order #174955090 sell 0.10 [DAX30] at 9544.35 sl: 0.00 tp: 9318.00 at price 0.00
+0	06:54:08.396	'23842653': order #174955090 sell 0.10 [DAX30] at 9544.35 sl: 0.00 tp: 9318.00 closed at price 9540.75
+0	06:55:05.515	'23842653': order buy market 0.01 USDCAD sl: 0.00000 tp: 0.00000
+0	06:55:05.869	'23842653': order was opened : #175059419 buy 0.01 USDCAD at 1.41742 sl: 0.00000 tp: 0.00000
+0	06:55:21.853	'23842653': modify order #175059419 buy 0.01 USDCAD at 1.41742 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.41795
+0	06:55:22.166	'23842653': order #175059419 buy 0.01 USDCAD at 1.41742 was modified -> sl: 0.00000 tp: 1.41795
+1	07:21:05.161	'23842653': order buy 1.00 GBPCHF opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	07:21:05.161	'23842653': order #0 buy 1.00 GBPCHF at 0.00000 failed [Not enough money]
+0	07:21:09.554	'23842653': order buy market 0.01 GBPCHF sl: 0.00000 tp: 0.00000
+0	07:21:10.629	'23842653': order was opened : #175060413 buy 0.01 GBPCHF at 1.19886 sl: 0.00000 tp: 0.00000
+0	07:21:42.327	'23842653': modify order #175060413 buy 0.01 GBPCHF at 1.19886 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.19891
+0	07:21:43.241	'23842653': order #175060413 buy 0.01 GBPCHF at 1.19886 was modified -> sl: 0.00000 tp: 1.19891
+1	07:32:35.801	'23842653': modification of order #175059368 sell 0.01 EURUSD at 1.09379 sl: 0.00000 tp: 1.09329 -> sl: 0.00000 tp: 1.09366 failed [Invalid S/L or T/P]
+0	07:32:41.169	'23842653': modify order #175059368 sell 0.01 EURUSD at 1.09379 sl: 0.00000 tp: 1.09329 -> sl: 0.00000 tp: 1.09351
+0	07:32:41.960	'23842653': order #175059368 sell 0.01 EURUSD at 1.09379 was modified -> sl: 0.00000 tp: 1.09351
+0	07:33:13.913	'23842653': order #175059368 sell 0.01 EURUSD at 1.09379 closed due take-profit at price 1.09351
+0	08:07:43.954	'23842653': order #175060413 buy 0.01 GBPCHF at 1.19886 closed due take-profit at price 1.19894
+0	08:19:11.122	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 243.66 ms)
+0	08:19:13.774	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 243.66 ms)
+0	08:19:14.424	'23842653': previous successful authorization performed from 197.149.28.96
+0	08:19:24.698	'23842653': auto connecting to a better access point Access Point #6 (ping is 223.23 ms)
+0	08:19:25.480	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 223.23 ms)
+0	08:19:27.178	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 223.23 ms)
+0	08:19:27.771	'23842653': previous successful authorization performed from 197.149.28.96
+0	09:02:56.863	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 251.13 ms)
+0	09:02:58.755	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 251.13 ms)
+0	09:02:59.536	'23842653': previous successful authorization performed from 197.149.28.96
+0	09:07:44.023	'23842653': login on AdmiralMarkets-Demo through Access Point #3 (ping: 259.09 ms)
+0	09:07:49.492	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 259.09 ms)
+0	09:07:50.396	'23842653': previous successful authorization performed from 197.149.28.96
+0	09:20:14.610	'23842653': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	09:20:15.044	'23842653': order was opened : #175068386 sell 0.01 EURUSD at 1.09583 sl: 0.00000 tp: 0.00000
+0	09:20:32.302	'23842653': modify order #175068386 sell 0.01 EURUSD at 1.09583 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.09456
+0	09:20:32.638	'23842653': order #175068386 sell 0.01 EURUSD at 1.09583 was modified -> sl: 0.00000 tp: 1.09456
+0	09:36:42.037	'23842653': order #175068386 sell 0.01 EURUSD at 1.09583 closed due take-profit at price 1.09455
+2	10:52:16.433	Custom indicator Agims USDCAD,M1: removed
+2	10:52:16.439	Custom indicator Asia2 V4.0 USDCAD,M1: removed
+2	10:52:16.456	Custom indicator Agims USDCAD,M1: loaded successfully
+2	10:52:16.465	Custom indicator CandleTimer USDCAD,M1: loaded successfully
+2	10:52:16.476	Custom indicator Asia2 V4.0 USDCAD,M1: loaded successfully
+2	10:52:16.567	Custom indicator i-Sessions USDCAD,M1: loaded successfully
+2	11:22:23.017	Custom indicator Agims USDCHF,M1: removed
+2	11:22:23.021	Custom indicator Asia2 V4.0 USDCHF,M1: removed
+2	11:22:23.034	Custom indicator Agims USDCHF,M1: loaded successfully
+2	11:22:23.045	Custom indicator CandleTimer USDCHF,M1: loaded successfully
+2	11:22:23.059	Custom indicator Asia2 V4.0 USDCHF,M1: loaded successfully
+2	11:22:23.176	Custom indicator i-Sessions USDCHF,M1: loaded successfully
+2	11:22:52.541	Custom indicator Agims AUDCAD,M1: removed
+2	11:22:52.552	Custom indicator Agims AUDCAD,M1: loaded successfully
+2	11:22:52.559	Custom indicator CandleTimer AUDCAD,M1: loaded successfully
+2	11:22:52.568	Custom indicator Asia2 V4.0 AUDCAD,M1: loaded successfully
+2	11:22:52.639	Custom indicator i-Sessions AUDCAD,M1: loaded successfully
+1	11:23:07.360	'23842653': order sell 0.10 AUDCAD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	11:23:07.360	'23842653': order #0 sell 0.10 AUDCAD at 0.00000 failed [Not enough money]
+1	11:23:10.471	'23842653': order sell 0.10 AUDCAD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	11:23:10.471	'23842653': order #0 sell 0.10 AUDCAD at 0.00000 failed [Not enough money]
+0	11:23:16.627	'23842653': order sell market 0.01 AUDCAD sl: 0.00000 tp: 0.00000
+0	11:23:17.046	'23842653': order was opened : #175083111 sell 0.01 AUDCAD at 0.86090 sl: 0.00000 tp: 0.00000
+0	11:23:33.003	'23842653': modify order #175083111 sell 0.01 AUDCAD at 0.86090 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.85943
+0	11:23:33.504	'23842653': order #175083111 sell 0.01 AUDCAD at 0.86090 was modified -> sl: 0.00000 tp: 0.85943
+0	11:23:59.915	'23842653': order sell market 0.01 USDCHF sl: 0.00000 tp: 0.00000
+0	11:24:02.496	'23842653': order was opened : #175083176 sell 0.01 USDCHF at 0.96785 sl: 0.00000 tp: 0.00000
+1	11:24:08.011	'23842653': order sell 0.10 USDCHF opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	11:24:08.011	'23842653': order #0 sell 0.10 USDCHF at 0.00000 failed [Not enough money]
+0	11:24:24.208	'23842653': modify order #175083176 sell 0.01 USDCHF at 0.96785 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.96688
+0	11:24:24.968	'23842653': order #175083176 sell 0.01 USDCHF at 0.96785 was modified -> sl: 0.00000 tp: 0.96688
+0	12:24:31.454	'23842653': order #175083176 sell 0.01 USDCHF at 0.96785 closed due take-profit at price 0.96688
+2	12:29:26.910	Custom indicator Agims BTCUSD,M1: removed
+2	12:29:26.916	Custom indicator Asia2 V4.0 BTCUSD,M1: removed
+2	13:22:55.286	Custom indicator Agims AUDJPY,M1: removed
+2	13:22:55.305	Custom indicator Agims AUDJPY,M1: loaded successfully
+2	13:22:55.319	Custom indicator CandleTimer AUDJPY,M1: loaded successfully
+2	13:22:55.330	Custom indicator Asia2 V4.0 AUDJPY,M1: loaded successfully
+2	13:22:55.422	Custom indicator i-Sessions AUDJPY,M1: loaded successfully
+2	13:23:38.814	Custom indicator Agims AUDNZD,M1: loaded successfully
+2	13:23:38.821	Custom indicator CandleTimer AUDNZD,M1: loaded successfully
+2	13:23:38.831	Custom indicator Asia2 V4.0 AUDNZD,M1: loaded successfully
+2	13:23:38.899	Custom indicator i-Sessions AUDNZD,M1: loaded successfully
+2	13:24:48.339	Custom indicator Agims AUDUSD,M1: loaded successfully
+2	13:24:48.347	Custom indicator CandleTimer AUDUSD,M1: loaded successfully
+2	13:24:48.360	Custom indicator Asia2 V4.0 AUDUSD,M1: loaded successfully
+2	13:24:48.435	Custom indicator i-Sessions AUDUSD,M1: loaded successfully
+2	14:04:41.253	Custom indicator Agims GBPCHF,M1: removed
+2	14:04:41.257	Custom indicator Asia2 V4.0 GBPCHF,M1: removed
+2	14:04:41.260	Custom indicator CandleTimer GBPCHF,M1: removed
+2	14:04:41.274	Custom indicator Agims GBPCHF,M1: loaded successfully
+2	14:04:41.282	Custom indicator CandleTimer GBPCHF,M1: loaded successfully
+2	14:04:41.292	Custom indicator Asia2 V4.0 GBPCHF,M1: loaded successfully
+2	14:04:41.357	Custom indicator i-Sessions GBPCHF,M1: loaded successfully
+2	14:04:52.621	Custom indicator Agims EURUSD,M1: removed
+2	14:04:52.625	Custom indicator CandleTimer EURUSD,M1: removed
+2	14:04:52.630	Custom indicator Asia2 V4.0 EURUSD,M1: removed
+2	14:04:52.631	Custom indicator i-Sessions EURUSD,M1: removed
+2	14:04:52.640	Custom indicator Agims EURUSD,M1: loaded successfully
+2	14:04:52.647	Custom indicator CandleTimer EURUSD,M1: loaded successfully
+2	14:04:52.655	Custom indicator Asia2 V4.0 EURUSD,M1: loaded successfully
+2	14:04:52.716	Custom indicator i-Sessions EURUSD,M1: loaded successfully
+2	14:04:59.348	Custom indicator Agims GBPUSD,M1: removed
+2	14:04:59.352	Custom indicator Asia2 V4.0 GBPUSD,M1: removed
+2	14:04:59.367	Custom indicator Agims GBPUSD,M1: loaded successfully
+2	14:04:59.377	Custom indicator CandleTimer GBPUSD,M1: loaded successfully
+2	14:04:59.389	Custom indicator Asia2 V4.0 GBPUSD,M1: loaded successfully
+2	14:04:59.478	Custom indicator i-Sessions GBPUSD,M1: loaded successfully
+2	14:05:05.990	Custom indicator Agims USDJPY,M1: removed
+2	14:05:05.994	Custom indicator Asia2 V4.0 USDJPY,M1: removed
+2	14:05:06.005	Custom indicator Agims USDJPY,M1: loaded successfully
+2	14:05:06.011	Custom indicator CandleTimer USDJPY,M1: loaded successfully
+2	14:05:06.020	Custom indicator Asia2 V4.0 USDJPY,M1: loaded successfully
+2	14:05:06.082	Custom indicator i-Sessions USDJPY,M1: loaded successfully
+2	14:05:10.747	Custom indicator Agims [DAX30],M1: removed
+2	14:05:10.749	Custom indicator Asia2 V4.0 [DAX30],M1: removed
+2	14:05:35.443	Custom indicator Agims EURNZD,H1: removed
+2	14:05:35.459	Custom indicator Agims EURNZD,H1: loaded successfully
+2	14:05:35.466	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	14:05:35.477	Custom indicator Asia2 V4.0 EURNZD,H1: loaded successfully
+2	14:05:35.540	Custom indicator i-Sessions EURNZD,H1: loaded successfully
+2	14:17:53.962	Custom indicator Agims CADJPY,H1: loaded successfully
+2	14:17:53.968	Custom indicator CandleTimer CADJPY,H1: loaded successfully
+2	14:17:53.977	Custom indicator Asia2 V4.0 CADJPY,H1: loaded successfully
+2	14:17:54.040	Custom indicator i-Sessions CADJPY,H1: loaded successfully
+2	14:18:17.514	Custom indicator Agims EURAUD,M1: loaded successfully
+2	14:18:17.521	Custom indicator CandleTimer EURAUD,M1: loaded successfully
+2	14:18:17.529	Custom indicator Asia2 V4.0 EURAUD,M1: loaded successfully
+2	14:18:17.597	Custom indicator i-Sessions EURAUD,M1: loaded successfully
+2	14:18:40.527	Custom indicator Agims EURCAD,M1: loaded successfully
+2	14:18:40.535	Custom indicator CandleTimer EURCAD,M1: loaded successfully
+2	14:18:40.544	Custom indicator Asia2 V4.0 EURCAD,M1: loaded successfully
+2	14:18:40.617	Custom indicator i-Sessions EURCAD,M1: loaded successfully
+0	14:26:00.120	'23842653': close order #175059419 buy 0.01 USDCAD at 1.41742 sl: 0.00000 tp: 1.41795 at price 0.00000
+0	14:26:00.484	'23842653': order #175059419 buy 0.01 USDCAD at 1.41742 sl: 0.00000 tp: 1.41795 closed at price 1.41533
+0	14:26:01.273	'23842653': close order #175083111 sell 0.01 AUDCAD at 0.86090 sl: 0.00000 tp: 0.85943 at price 0.00000
+0	14:26:01.669	'23842653': order #175083111 sell 0.01 AUDCAD at 0.86090 sl: 0.00000 tp: 0.85943 closed at price 0.86243
+2	14:27:12.177	Custom indicator Agims EURGBP,M1: loaded successfully
+2	14:27:12.183	Custom indicator CandleTimer EURGBP,M1: loaded successfully
+2	14:27:12.192	Custom indicator Asia2 V4.0 EURGBP,M1: loaded successfully
+2	14:27:12.254	Custom indicator i-Sessions EURGBP,M1: loaded successfully
+2	14:27:31.323	Custom indicator Agims EURJPY,M1: loaded successfully
+2	14:27:31.334	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	14:27:31.349	Custom indicator Asia2 V4.0 EURJPY,M1: loaded successfully
+2	14:27:31.445	Custom indicator i-Sessions EURJPY,M1: loaded successfully
+2	14:27:44.634	Custom indicator Agims EURNZD,H1: loaded successfully
+2	14:27:44.642	Custom indicator CandleTimer EURNZD,H1: loaded successfully
+2	14:27:44.653	Custom indicator Asia2 V4.0 EURNZD,H1: loaded successfully
+2	14:27:44.738	Custom indicator i-Sessions EURNZD,H1: loaded successfully
+2	14:28:00.455	Custom indicator Agims GBPAUD,M1: loaded successfully
+2	14:28:00.465	Custom indicator CandleTimer GBPAUD,M1: loaded successfully
+2	14:28:00.478	Custom indicator Asia2 V4.0 GBPAUD,M1: loaded successfully
+2	14:28:00.564	Custom indicator i-Sessions GBPAUD,M1: loaded successfully
+2	14:28:08.223	Custom indicator Agims GBPCAD,H1: loaded successfully
+2	14:28:08.234	Custom indicator CandleTimer GBPCAD,H1: loaded successfully
+2	14:28:08.251	Custom indicator Asia2 V4.0 GBPCAD,H1: loaded successfully
+2	14:28:08.338	Custom indicator i-Sessions GBPCAD,H1: loaded successfully
+2	14:28:22.450	Custom indicator Agims GBPJPY,M1: loaded successfully
+2	14:28:22.459	Custom indicator CandleTimer GBPJPY,M1: loaded successfully
+2	14:28:22.474	Custom indicator Asia2 V4.0 GBPJPY,M1: loaded successfully
+2	14:28:22.571	Custom indicator i-Sessions GBPJPY,M1: loaded successfully
+2	14:34:01.168	Custom indicator Agims GBPNZD,M1: loaded successfully
+2	14:34:01.179	Custom indicator CandleTimer GBPNZD,M1: loaded successfully
+2	14:34:01.193	Custom indicator Asia2 V4.0 GBPNZD,M1: loaded successfully
+2	14:34:01.268	Custom indicator i-Sessions GBPNZD,M1: loaded successfully
+2	14:43:58.017	Custom indicator Agims NZDCAD,M1: loaded successfully
+2	14:43:58.024	Custom indicator CandleTimer NZDCAD,M1: loaded successfully
+2	14:43:58.035	Custom indicator Asia2 V4.0 NZDCAD,M1: loaded successfully
+2	14:43:58.098	Custom indicator i-Sessions NZDCAD,M1: loaded successfully
+2	14:44:35.810	Custom indicator Agims NZDJPY,M1: loaded successfully
+2	14:44:35.818	Custom indicator CandleTimer NZDJPY,M1: loaded successfully
+2	14:44:35.826	Custom indicator Asia2 V4.0 NZDJPY,M1: loaded successfully
+2	14:44:35.899	Custom indicator i-Sessions NZDJPY,M1: loaded successfully
+2	14:44:51.322	Custom indicator Agims NZDUSD,M1: loaded successfully
+2	14:44:51.328	Custom indicator CandleTimer NZDUSD,M1: loaded successfully
+2	14:44:51.336	Custom indicator Asia2 V4.0 NZDUSD,M1: loaded successfully
+2	14:44:51.395	Custom indicator i-Sessions NZDUSD,M1: loaded successfully
+2	14:45:20.783	Custom indicator Agims AUDCHF,M1: loaded successfully
+2	14:45:20.789	Custom indicator CandleTimer AUDCHF,M1: loaded successfully
+2	14:45:20.798	Custom indicator Asia2 V4.0 AUDCHF,M1: loaded successfully
+2	14:45:20.864	Custom indicator i-Sessions AUDCHF,M1: loaded successfully
+2	14:54:56.081	Custom indicator Agims CADCHF,H1: loaded successfully
+2	14:54:56.087	Custom indicator CandleTimer CADCHF,H1: loaded successfully
+2	14:54:56.097	Custom indicator Asia2 V4.0 CADCHF,H1: loaded successfully
+2	14:54:56.159	Custom indicator i-Sessions CADCHF,H1: loaded successfully
+2	14:55:09.852	Custom indicator Agims CHFJPY,M1: loaded successfully
+2	14:55:09.859	Custom indicator CandleTimer CHFJPY,M1: loaded successfully
+2	14:55:09.869	Custom indicator Asia2 V4.0 CHFJPY,M1: loaded successfully
+2	14:55:09.935	Custom indicator i-Sessions CHFJPY,M1: loaded successfully
+1	15:03:54.082	'23842653': order buy 0.10 CHFJPY opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+1	15:03:54.082	'23842653': order #0 buy 0.10 CHFJPY at 0.000 failed [Not enough money]
+1	15:03:56.409	'23842653': order buy 0.10 CHFJPY opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+1	15:03:56.409	'23842653': order #0 buy 0.10 CHFJPY at 0.000 failed [Not enough money]
+2	15:29:06.304	Custom indicator Agims EURCHF,M1: loaded successfully
+2	15:29:06.313	Custom indicator CandleTimer EURCHF,M1: loaded successfully
+2	15:29:06.326	Custom indicator Asia2 V4.0 EURCHF,M1: loaded successfully
+2	15:29:06.414	Custom indicator i-Sessions EURCHF,M1: loaded successfully
+2	15:47:04.880	Custom indicator Agims GBPCHF,M1: loaded successfully
+2	15:47:04.888	Custom indicator CandleTimer GBPCHF,M1: loaded successfully
+2	15:47:04.898	Custom indicator Asia2 V4.0 GBPCHF,M1: loaded successfully
+2	15:47:04.960	Custom indicator i-Sessions GBPCHF,M1: loaded successfully
+2	15:48:10.357	Custom indicator Agims NZDCHF,M1: loaded successfully
+2	15:48:10.366	Custom indicator CandleTimer NZDCHF,M1: loaded successfully
+2	15:48:10.376	Custom indicator Asia2 V4.0 NZDCHF,M1: loaded successfully
+2	15:48:10.454	Custom indicator i-Sessions NZDCHF,M1: loaded successfully
+0	18:26:26.795	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: 231.99 ms)
+0	18:26:31.020	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 231.99 ms)
+0	18:26:31.609	'23842653': previous successful authorization performed from 197.149.28.96
+0	18:26:52.809	'23842653': auto connecting to a better access point Access Point #6 (ping is 220.93 ms)
+0	18:26:53.735	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 220.93 ms)
+0	18:26:55.714	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 220.93 ms)
+0	18:26:56.665	'23842653': previous successful authorization performed from 197.149.28.96
+0	18:36:28.233	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 248.26 ms)
+0	18:36:37.367	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 248.26 ms)
+0	18:36:39.139	'23842653': previous successful authorization performed from 197.149.28.96
+0	19:44:02.721	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 248.26 ms)
+0	19:44:04.879	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 248.26 ms)
+0	19:44:05.815	'23842653': previous successful authorization performed from 197.149.28.96
+0	19:44:24.719	'23842653': auto connecting to a better access point Access Point #6 (ping is 221.48 ms)
+0	19:44:26.126	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 221.48 ms)
+0	19:44:29.677	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 221.48 ms)
+0	19:44:30.501	'23842653': previous successful authorization performed from 197.149.28.96
+1	20:09:22.632	'23842653': ping failed
+1	20:09:24.079	'23842653': connect failed [Connection échouée]
+0	20:09:36.035	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:09:38.619	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:09:39.487	'23842653': previous successful authorization performed from 197.149.28.96
+0	20:09:50.375	'23842653': ping to current access point Access Point #2 is 210.32 ms
+0	23:55:09.678	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: 210.32 ms)
+0	23:55:18.348	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 210.32 ms)
+0	23:55:20.308	'23842653': previous successful authorization performed from 197.149.28.96
+0	23:55:37.345	'23842653': auto connecting to a better access point Access Point #1 (ping is 255.42 ms)
+0	23:55:38.371	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 255.42 ms)
+0	23:55:40.841	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 255.42 ms)
+0	23:55:41.565	'23842653': previous successful authorization performed from 197.149.28.96

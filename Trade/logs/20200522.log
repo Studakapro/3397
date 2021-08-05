@@ -1,0 +1,1900 @@
+0	02:33:03.258	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	02:33:03.258	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 723 / 8014 Mb, Disk: 73 / 237 Gb, GMT+3
+0	02:33:03.258	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	02:33:05.064	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	02:33:05.132	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	02:33:05.191	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	02:33:05.251	Custom indicator $-ForecastCityIntradayIndicator EURJPY,M15: loaded successfully
+2	02:33:05.311	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	02:33:05.370	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: loaded successfully
+2	02:33:05.429	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	02:33:05.487	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	02:33:05.547	Custom indicator $-ForecastCityIntradayIndicator USDCHF,M30: loaded successfully
+1	02:33:16.783	MQL Base: failed connect to server
+1	02:34:06.033	'27123197': connect failed [Connection échouée]
+1	02:34:18.079	MQL5.community: authorization failed
+0	02:34:23.628	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 264.69 ms)
+0	02:34:26.539	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 264.69 ms)
+0	02:34:27.318	'27123197': previous successful authorization performed from 154.126.10.236
+0	02:34:46.177	'27123197': auto connecting to a better access point Access Point #5 (ping is 240.28 ms)
+0	02:34:47.232	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 240.28 ms)
+0	02:34:49.778	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 240.28 ms)
+0	02:34:50.527	'27123197': previous successful authorization performed from 154.126.9.28
+0	02:45:25.875	'27123197': modify order #66310522 buy 0.10 AUDUSD at 0.65561 sl: 0.65403 tp: 0.66164 -> sl: 0.65403 tp: 0.65760
+0	02:45:26.208	'27123197': order #66310522 buy 0.10 AUDUSD at 0.65561 was modified -> sl: 0.65403 tp: 0.65760
+0	02:45:37.641	'27123197': modify order #66310522 buy 0.10 AUDUSD at 0.65561 sl: 0.65403 tp: 0.65760 -> sl: 0.65144 tp: 0.65760
+0	02:45:37.968	'27123197': order #66310522 buy 0.10 AUDUSD at 0.65561 was modified -> sl: 0.65144 tp: 0.65760
+2	02:48:01.348	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: loaded successfully
+0	02:48:31.145	'27123197': close order #66310522 buy 0.10 AUDUSD at 0.65561 sl: 0.65144 tp: 0.65760 at price 0.00000
+0	02:48:31.978	'27123197': order #66310522 buy 0.10 AUDUSD at 0.65561 sl: 0.65144 tp: 0.65760 closed at price 0.65651
+2	02:58:38.394	Custom indicator $-ForecastCityIntradayIndicator AUDJPY,H1: loaded successfully
+2	03:06:06.748	Custom indicator ABT 5M 15M\Bollinger Bands EURJPY,M15: loaded successfully
+2	03:07:58.413	Custom indicator SupportResistanceZone Indicator\SupDem EURJPY,M15: loaded successfully
+2	03:08:26.769	Custom indicator SupDem EURJPY,M15: removed
+0	03:27:22.875	'27123197': order sell market 0.10 GBPUSD sl: 1.22550 tp: 0.00000
+0	03:27:23.352	'27123197': order was opened : #66355259 sell 0.10 GBPUSD at 1.22295 sl: 1.22550 tp: 0.00000
+0	03:27:36.934	'27123197': modify order #66355259 sell 0.10 GBPUSD at 1.22295 sl: 1.22550 tp: 0.00000 -> sl: 1.22550 tp: 1.22118
+0	03:27:37.259	'27123197': order #66355259 sell 0.10 GBPUSD at 1.22295 was modified -> sl: 1.22550 tp: 1.22118
+0	03:38:18.616	Sources recompilation started
+2	03:38:30.083	Custom indicator 4_Period_MA_w_Regr_STD AUDCHF,H1: loaded successfully
+0	03:40:39.735	HistoryCenter: synchronize 'AUDCHF5'
+0	03:40:41.702	HistoryCenter: 7840 bars imported in 'AUDCHF5'
+2	03:40:52.295	Custom indicator 4_Period_MA_w_Regr_STD AUDCHF,M5: removed
+2	03:41:04.703	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,M5: removed
+2	03:41:04.720	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,M5: loaded successfully
+2	03:57:03.953	Custom indicator Entry EURUSD,M15: loaded successfully
+2	03:57:21.667	Custom indicator Trend EURUSD,M15: loaded successfully
+0	03:57:29.315	HistoryCenter: synchronize 'AUDCHF5'
+0	03:57:30.042	HistoryCenter: 2 bars imported in 'AUDCHF5'
+0	03:57:30.042	HistoryCenter: synchronize 'EURUSD15'
+0	03:57:31.833	HistoryCenter: 4504 bars imported in 'EURUSD15'
+2	03:58:27.561	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,M5: removed
+2	03:58:27.575	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,M5: loaded successfully
+2	03:58:27.646	Custom indicator Entry AUDCHF,M5: loaded successfully
+2	03:58:27.711	Custom indicator Trend AUDCHF,M5: loaded successfully
+0	04:00:50.553	HistoryCenter: synchronize 'AUDCHF240'
+0	04:00:51.973	HistoryCenter: 2188 bars imported in 'AUDCHF240'
+2	04:24:17.797	Custom indicator MACD_Signal_v2 AUDCHF,H4: loaded successfully
+2	04:26:49.202	Custom indicator MACD_Signal_v2 AUDCHF,H1: removed
+2	04:28:35.061	Custom indicator MACDcorrect AUDCHF,H1: loaded successfully
+2	04:40:45.908	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	04:40:46.009	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	04:40:46.109	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	04:51:19.279	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	04:51:19.295	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	04:51:19.365	Custom indicator Entry GBPUSD,H1: loaded successfully
+2	04:51:19.431	Custom indicator Trend GBPUSD,H1: loaded successfully
+2	05:04:02.732	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	05:04:02.759	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	05:04:02.838	Custom indicator Entry AUDUSD,H1: loaded successfully
+2	05:04:02.907	Custom indicator Trend AUDUSD,H1: loaded successfully
+2	05:05:51.305	Custom indicator $-ForecastCityIntradayIndicator EURJPY,M15: removed
+2	05:05:51.306	Custom indicator Bollinger Bands EURJPY,M15: removed
+2	05:05:51.320	Custom indicator $-ForecastCityIntradayIndicator EURJPY,M15: loaded successfully
+2	05:05:51.387	Custom indicator Entry EURJPY,M15: loaded successfully
+2	05:05:51.453	Custom indicator Trend EURJPY,M15: loaded successfully
+2	05:06:51.272	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	05:06:51.286	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	05:06:51.357	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	05:06:51.423	Custom indicator Trend GBPJPY,H1: loaded successfully
+2	05:08:03.901	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: removed
+2	05:08:03.930	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: loaded successfully
+2	05:08:04.101	Custom indicator Entry NZDUSD,H1: loaded successfully
+2	05:08:04.297	Custom indicator Trend NZDUSD,H1: loaded successfully
+2	05:08:36.467	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	05:08:36.482	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	05:08:36.551	Custom indicator Entry USDCAD,H1: loaded successfully
+2	05:08:36.614	Custom indicator Trend USDCAD,H1: loaded successfully
+0	05:09:01.616	'27123197': close order #66355259 sell 0.10 GBPUSD at 1.22295 sl: 1.22550 tp: 1.22118 at price 0.00000
+0	05:09:02.074	'27123197': order #66355259 sell 0.10 GBPUSD at 1.22295 sl: 1.22550 tp: 1.22118 closed at price 1.22184
+2	05:10:01.934	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: removed
+2	05:10:01.949	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	05:10:02.018	Custom indicator Entry USDJPY,H1: loaded successfully
+2	05:10:02.083	Custom indicator Trend USDJPY,H1: loaded successfully
+2	05:10:27.929	Custom indicator $-ForecastCityIntradayIndicator USDCHF,M30: removed
+2	05:10:27.943	Custom indicator $-ForecastCityIntradayIndicator USDCHF,M30: loaded successfully
+2	05:10:28.012	Custom indicator Entry USDCHF,M30: loaded successfully
+2	05:10:28.081	Custom indicator Trend USDCHF,M30: loaded successfully
+2	05:10:52.536	Custom indicator $-ForecastCityIntradayIndicator AUDJPY,H1: removed
+2	05:10:52.551	Custom indicator $-ForecastCityIntradayIndicator AUDJPY,H1: loaded successfully
+2	05:10:52.619	Custom indicator Entry AUDJPY,H1: loaded successfully
+2	05:10:52.692	Custom indicator Trend AUDJPY,H1: loaded successfully
+2	05:26:58.473	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	05:26:58.474	Custom indicator Entry GBPAUD,H1: removed
+2	05:26:58.474	Custom indicator Trend GBPAUD,H1: removed
+2	05:26:58.486	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	05:26:58.495	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	05:26:58.506	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	05:26:58.518	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	05:28:36.860	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: removed
+2	05:28:36.860	Custom indicator Entry USDJPY,H1: removed
+2	05:28:36.860	Custom indicator Trend USDJPY,H1: removed
+2	05:28:36.870	Custom indicator HeikenAshi_DM USDJPY,H1: loaded successfully
+2	05:28:36.881	Custom indicator SynergyInd USDJPY,H1: loaded successfully
+2	05:28:36.893	Custom indicator Traders_Dynamic_Index USDJPY,H1: loaded successfully
+2	05:28:36.905	Custom indicator Chaikin's Volatility_Kalenzo USDJPY,H1: loaded successfully
+2	05:30:32.221	Custom indicator HeikenAshi_DM USDJPY,H1: removed
+2	05:30:32.224	Custom indicator SynergyInd USDJPY,H1: removed
+2	05:30:32.226	Custom indicator Traders_Dynamic_Index USDJPY,H1: removed
+2	05:30:32.229	Custom indicator Chaikin's Volatility_Kalenzo USDJPY,H1: removed
+2	05:30:32.248	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	05:30:32.323	Custom indicator Entry USDJPY,H1: loaded successfully
+2	05:30:32.399	Custom indicator Trend USDJPY,H1: loaded successfully
+2	05:35:46.989	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	05:35:46.991	Custom indicator SynergyInd GBPAUD,H1: removed
+2	05:35:46.993	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	05:35:46.994	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	05:35:47.008	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	05:35:47.079	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	05:35:47.143	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	05:37:40.744	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	05:37:40.744	Custom indicator Entry GBPAUD,H1: removed
+2	05:37:40.744	Custom indicator Trend GBPAUD,H1: removed
+2	05:37:40.754	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	05:37:40.766	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	05:37:40.777	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	05:37:40.786	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+0	05:39:38.261	'27123197': order buy market 0.10 GBPAUD sl: 1.84430 tp: 1.90130
+0	05:39:38.673	'27123197': order was opened : #66357826 buy 0.10 GBPAUD at 1.86561 sl: 1.84430 tp: 1.90130
+2	05:39:58.352	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	05:39:58.353	Custom indicator SynergyInd GBPAUD,H1: removed
+2	05:39:58.355	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	05:39:58.356	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	05:39:58.368	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	05:39:58.436	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	05:39:58.509	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	05:57:11.057	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,Daily: removed
+2	05:57:11.057	Custom indicator Entry GBPAUD,Daily: removed
+2	05:57:11.057	Custom indicator Trend GBPAUD,Daily: removed
+2	05:57:11.068	Custom indicator HeikenAshi_DM GBPAUD,Daily: loaded successfully
+2	05:57:11.078	Custom indicator SynergyInd GBPAUD,Daily: loaded successfully
+2	05:57:11.090	Custom indicator Traders_Dynamic_Index GBPAUD,Daily: loaded successfully
+2	05:57:11.099	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,Daily: loaded successfully
+2	06:00:25.917	Custom indicator $-ForecastCityIntradayIndicator NZDCAD,H1: loaded successfully
+2	06:00:26.011	Custom indicator Entry NZDCAD,H1: loaded successfully
+2	06:00:26.107	Custom indicator Trend NZDCAD,H1: loaded successfully
+2	06:06:47.525	Custom indicator $-ForecastCityIntradayIndicator NZDCAD,H4: removed
+2	06:06:47.525	Custom indicator Entry NZDCAD,H4: removed
+2	06:06:47.525	Custom indicator Trend NZDCAD,H4: removed
+2	06:06:47.535	Custom indicator HeikenAshi_DM NZDCAD,H4: loaded successfully
+2	06:06:47.544	Custom indicator SynergyInd NZDCAD,H4: loaded successfully
+2	06:06:47.555	Custom indicator Traders_Dynamic_Index NZDCAD,H4: loaded successfully
+2	06:06:47.562	Custom indicator Chaikin's Volatility_Kalenzo NZDCAD,H4: loaded successfully
+2	06:42:11.778	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	06:45:16.852	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	06:45:16.861	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	06:45:16.886	Custom indicator SynergyInd GBPAUD,H1: removed
+2	06:45:16.896	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	06:45:17.025	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	06:45:17.035	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	06:45:17.066	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	06:45:17.075	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	06:45:17.089	Custom indicator HeikenAshi_DM NZDCAD,H1: removed
+2	06:45:17.097	Custom indicator HeikenAshi_DM NZDCAD,H1: loaded successfully
+2	06:45:17.119	Custom indicator SynergyInd NZDCAD,H1: removed
+2	06:45:17.127	Custom indicator SynergyInd NZDCAD,H1: loaded successfully
+2	06:45:17.243	Custom indicator Traders_Dynamic_Index NZDCAD,H1: removed
+2	06:45:17.252	Custom indicator Traders_Dynamic_Index NZDCAD,H1: loaded successfully
+2	06:45:17.279	Custom indicator Chaikin's Volatility_Kalenzo NZDCAD,H1: removed
+2	06:45:17.289	Custom indicator Chaikin's Volatility_Kalenzo NZDCAD,H1: loaded successfully
+2	06:45:17.304	Custom indicator MACDcorrect AUDCHF,H1: removed
+2	06:45:17.312	Custom indicator MACDcorrect AUDCHF,H1: loaded successfully
+0	06:45:45.785	HistoryCenter: synchronize 'GBPAUD60'
+0	06:45:48.649	HistoryCenter: 2645 bars imported in 'GBPAUD60'
+2	06:45:56.336	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	06:45:56.338	Custom indicator SynergyInd GBPAUD,H1: removed
+2	06:45:56.341	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	06:45:56.341	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	06:45:56.343	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	06:45:56.360	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	06:45:56.436	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	06:45:56.509	Custom indicator Trend GBPAUD,H1: loaded successfully
+2	06:46:22.972	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	06:46:22.972	Custom indicator Entry GBPAUD,H1: removed
+2	06:46:22.972	Custom indicator Trend GBPAUD,H1: removed
+2	06:46:22.984	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	06:46:22.994	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	06:46:23.004	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	06:46:23.013	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	06:46:38.928	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	06:47:12.211	Custom indicator HeikenAshi_DM NZDCAD,H1: removed
+2	06:47:12.213	Custom indicator SynergyInd NZDCAD,H1: removed
+2	06:47:12.214	Custom indicator Traders_Dynamic_Index NZDCAD,H1: removed
+2	06:47:12.216	Custom indicator Chaikin's Volatility_Kalenzo NZDCAD,H1: removed
+2	06:47:12.229	Custom indicator $-ForecastCityIntradayIndicator NZDCAD,H1: loaded successfully
+2	06:47:12.301	Custom indicator Entry NZDCAD,H1: loaded successfully
+2	06:47:12.373	Custom indicator Trend NZDCAD,H1: loaded successfully
+2	06:48:18.540	Custom indicator $-ForecastCityIntradayIndicator NZDCAD,H1: removed
+2	06:48:18.540	Custom indicator Entry NZDCAD,H1: removed
+2	06:48:18.540	Custom indicator Trend NZDCAD,H1: removed
+2	06:48:18.552	Custom indicator HeikenAshi_DM NZDCAD,H1: loaded successfully
+2	06:48:18.565	Custom indicator Traders_Dynamic_Index NZDCAD,H1: loaded successfully
+2	06:48:47.054	Custom indicator HeikenAshi_DM NZDCAD,H1: removed
+2	06:48:47.055	Custom indicator Traders_Dynamic_Index NZDCAD,H1: removed
+2	06:48:47.066	Custom indicator HeikenAshi_DM NZDCAD,H1: loaded successfully
+2	06:48:47.074	Custom indicator Traders_Dynamic_Index NZDCAD,H1: loaded successfully
+2	06:49:20.609	Custom indicator HeikenAshi_DM NZDCAD,H1: removed
+2	06:49:20.610	Custom indicator Traders_Dynamic_Index NZDCAD,H1: removed
+2	06:49:20.623	Custom indicator HeikenAshi_DM NZDCAD,H1: loaded successfully
+2	06:49:20.630	Custom indicator DM_DSR NZDCAD,H1: loaded successfully
+2	06:49:20.642	Custom indicator LJ_SIG NZDCAD,H1: loaded successfully
+2	06:49:20.652	Custom indicator #MarketPrice _v1_4 NZDCAD,H1: loaded successfully
+2	06:49:20.660	Custom indicator LJ_SYNERGY_ID NZDCAD,H1: loaded successfully
+2	06:49:20.671	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDCAD,H1: loaded successfully
+2	06:49:20.678	Custom indicator DM_Volatility NZDCAD,H1: loaded successfully
+2	06:49:20.688	Custom indicator DM_RangeFactor NZDCAD,H1: loaded successfully
+2	06:49:20.695	Custom indicator DM_Continuation NZDCAD,H1: loaded successfully
+2	06:49:20.704	Custom indicator Status Monitor V1.2 NZDCAD,H1: loaded successfully
+2	06:49:47.531	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	06:49:47.533	Custom indicator SynergyInd GBPAUD,H1: removed
+2	06:49:47.535	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	06:49:47.536	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	06:49:47.538	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	06:49:47.548	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	06:49:47.556	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	06:49:47.566	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	06:49:47.573	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	06:49:47.582	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	06:49:47.591	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	06:49:47.600	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	06:49:47.608	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	06:49:47.617	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	06:49:47.626	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+2	06:52:02.859	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	06:54:13.862	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	06:54:13.938	Custom indicator Entry USDCAD,H1: loaded successfully
+2	06:54:14.008	Custom indicator Trend USDCAD,H1: loaded successfully
+2	06:55:52.384	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	06:55:52.385	Custom indicator Entry USDCAD,H1: removed
+2	06:55:52.385	Custom indicator Trend USDCAD,H1: removed
+2	06:55:52.401	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	06:55:52.410	Custom indicator SynergyInd USDCAD,H1: loaded successfully
+2	06:55:52.418	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	06:55:52.425	Custom indicator Traders_Dynamic_Index USDCAD,H1: loaded successfully
+2	06:55:52.433	Custom indicator Chaikin's Volatility_Kalenzo USDCAD,H1: loaded successfully
+2	06:56:34.420	Custom indicator HeikenAshi_DM USDCAD,H1: removed
+2	06:56:34.422	Custom indicator SynergyInd USDCAD,H1: removed
+2	06:56:34.423	Custom indicator CandleCountdown USDCAD,H1: removed
+2	06:56:34.430	Custom indicator Traders_Dynamic_Index USDCAD,H1: removed
+2	06:56:34.432	Custom indicator Chaikin's Volatility_Kalenzo USDCAD,H1: removed
+2	06:56:34.440	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	06:56:34.447	Custom indicator DM_DSR USDCAD,H1: loaded successfully
+2	06:56:34.455	Custom indicator LJ_SIG USDCAD,H1: loaded successfully
+2	06:56:34.463	Custom indicator #MarketPrice _v1_4 USDCAD,H1: loaded successfully
+2	06:56:34.471	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	06:56:34.478	Custom indicator LJ_SYNERGY_ID USDCAD,H1: loaded successfully
+2	06:56:34.486	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: loaded successfully
+2	06:56:34.494	Custom indicator DM_Volatility USDCAD,H1: loaded successfully
+2	06:56:34.502	Custom indicator DM_RangeFactor USDCAD,H1: loaded successfully
+2	06:56:34.509	Custom indicator DM_Continuation USDCAD,H1: loaded successfully
+2	06:56:34.517	Custom indicator Status Monitor V1.2 USDCAD,H1: loaded successfully
+0	06:59:17.593	'27123197': order buy market 0.10 USDCAD sl: 1.39390 tp: 1.40580
+0	06:59:18.029	'27123197': order was opened : #66358862 buy 0.10 USDCAD at 1.39972 sl: 1.39390 tp: 1.40580
+2	06:59:43.398	Custom indicator HeikenAshi_DM USDCAD,H1: removed
+2	06:59:43.399	Custom indicator DM_DSR USDCAD,H1: removed
+2	06:59:43.400	Custom indicator LJ_SIG USDCAD,H1: removed
+2	06:59:43.402	Custom indicator #MarketPrice _v1_4 USDCAD,H1: removed
+2	06:59:43.403	Custom indicator CandleCountdown USDCAD,H1: removed
+2	06:59:43.405	Custom indicator LJ_SYNERGY_ID USDCAD,H1: removed
+2	06:59:43.407	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: removed
+2	06:59:43.409	Custom indicator DM_Volatility USDCAD,H1: removed
+2	06:59:43.411	Custom indicator DM_RangeFactor USDCAD,H1: removed
+2	06:59:43.412	Custom indicator DM_Continuation USDCAD,H1: removed
+2	06:59:43.413	Custom indicator Status Monitor V1.2 USDCAD,H1: removed
+2	06:59:43.425	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	06:59:43.491	Custom indicator Entry USDCAD,H1: loaded successfully
+2	06:59:43.556	Custom indicator Trend USDCAD,H1: loaded successfully
+2	07:00:45.826	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	07:00:45.827	Custom indicator Entry USDCAD,H1: removed
+2	07:00:45.827	Custom indicator Trend USDCAD,H1: removed
+2	07:00:45.838	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	07:00:45.846	Custom indicator DM_DSR USDCAD,H1: loaded successfully
+2	07:00:45.855	Custom indicator LJ_SIG USDCAD,H1: loaded successfully
+2	07:00:45.863	Custom indicator #MarketPrice _v1_4 USDCAD,H1: loaded successfully
+2	07:00:45.872	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	07:00:45.880	Custom indicator LJ_SYNERGY_ID USDCAD,H1: loaded successfully
+2	07:00:45.888	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: loaded successfully
+2	07:00:45.896	Custom indicator DM_Volatility USDCAD,H1: loaded successfully
+2	07:00:45.903	Custom indicator DM_RangeFactor USDCAD,H1: loaded successfully
+2	07:00:45.911	Custom indicator DM_Continuation USDCAD,H1: loaded successfully
+2	07:00:45.919	Custom indicator Status Monitor V1.2 USDCAD,H1: loaded successfully
+2	07:01:41.182	Custom indicator HeikenAshi_DM NZDCAD,H1: removed
+2	07:01:41.184	Custom indicator DM_DSR NZDCAD,H1: removed
+2	07:01:41.185	Custom indicator LJ_SIG NZDCAD,H1: removed
+2	07:01:41.186	Custom indicator #MarketPrice _v1_4 NZDCAD,H1: removed
+2	07:01:41.188	Custom indicator LJ_SYNERGY_ID NZDCAD,H1: removed
+2	07:01:41.189	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDCAD,H1: removed
+2	07:01:41.190	Custom indicator DM_Volatility NZDCAD,H1: removed
+2	07:01:41.192	Custom indicator DM_RangeFactor NZDCAD,H1: removed
+2	07:01:41.193	Custom indicator DM_Continuation NZDCAD,H1: removed
+2	07:01:41.194	Custom indicator Status Monitor V1.2 NZDCAD,H1: removed
+0	07:17:09.892	'27123197': modify order #66358862 buy 0.10 USDCAD at 1.39972 sl: 1.39390 tp: 1.40580 -> sl: 1.39390 tp: 1.39999
+0	07:17:10.186	'27123197': order #66358862 buy 0.10 USDCAD at 1.39972 was modified -> sl: 1.39390 tp: 1.39999
+0	07:21:43.725	'27123197': close order #66358862 buy 0.10 USDCAD at 1.39972 sl: 1.39390 tp: 1.39999 at price 0.00000
+0	07:21:44.169	'27123197': order #66358862 buy 0.10 USDCAD at 1.39972 sl: 1.39390 tp: 1.39999 closed at price 1.39988
+2	07:21:55.670	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	07:21:55.671	Custom indicator Entry AUDUSD,H1: removed
+2	07:21:55.671	Custom indicator Trend AUDUSD,H1: removed
+2	07:21:55.681	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	07:21:55.689	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	07:21:55.698	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	07:21:55.706	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	07:21:55.714	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	07:21:55.722	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	07:21:55.731	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	07:21:55.738	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	07:21:55.746	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	07:21:55.754	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	07:21:55.761	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	07:22:12.204	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	07:22:12.205	Custom indicator DM_DSR AUDUSD,H1: removed
+2	07:22:12.207	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	07:22:12.209	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	07:22:12.210	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	07:22:12.211	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	07:22:12.213	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	07:22:12.214	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	07:22:12.215	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	07:22:12.217	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	07:22:12.218	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	07:22:12.231	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	07:22:12.300	Custom indicator Entry AUDUSD,H1: loaded successfully
+2	07:22:12.370	Custom indicator Trend AUDUSD,H1: loaded successfully
+2	07:23:01.273	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	07:23:01.273	Custom indicator Entry GBPJPY,H1: removed
+2	07:23:01.273	Custom indicator Trend GBPJPY,H1: removed
+2	07:23:01.283	Custom indicator HeikenAshi_DM GBPJPY,H1: loaded successfully
+2	07:23:01.293	Custom indicator DM_DSR GBPJPY,H1: loaded successfully
+2	07:23:01.302	Custom indicator LJ_SIG GBPJPY,H1: loaded successfully
+2	07:23:01.312	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: loaded successfully
+2	07:23:01.321	Custom indicator ABT 5M 15M\CandleCountdown GBPJPY,H1: loaded successfully
+2	07:23:01.328	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: loaded successfully
+2	07:23:01.337	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: loaded successfully
+2	07:23:01.345	Custom indicator DM_Volatility GBPJPY,H1: loaded successfully
+2	07:23:01.353	Custom indicator DM_RangeFactor GBPJPY,H1: loaded successfully
+2	07:23:01.361	Custom indicator DM_Continuation GBPJPY,H1: loaded successfully
+2	07:23:01.368	Custom indicator Status Monitor V1.2 GBPJPY,H1: loaded successfully
+2	07:24:05.278	Custom indicator $-ForecastCityIntradayIndicator USDCHF,M30: removed
+2	07:24:05.278	Custom indicator Entry USDCHF,M30: removed
+2	07:24:05.278	Custom indicator Trend USDCHF,M30: removed
+2	07:24:05.288	Custom indicator HeikenAshi_DM USDCHF,M30: loaded successfully
+2	07:24:05.296	Custom indicator DM_DSR USDCHF,M30: loaded successfully
+2	07:24:05.305	Custom indicator LJ_SIG USDCHF,M30: loaded successfully
+2	07:24:05.313	Custom indicator #MarketPrice _v1_4 USDCHF,M30: loaded successfully
+2	07:24:05.321	Custom indicator ABT 5M 15M\CandleCountdown USDCHF,M30: loaded successfully
+2	07:24:05.329	Custom indicator LJ_SYNERGY_ID USDCHF,M30: loaded successfully
+2	07:24:05.338	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCHF,M30: loaded successfully
+2	07:24:05.346	Custom indicator DM_Volatility USDCHF,M30: loaded successfully
+2	07:24:05.353	Custom indicator DM_RangeFactor USDCHF,M30: loaded successfully
+2	07:24:05.361	Custom indicator DM_Continuation USDCHF,M30: loaded successfully
+2	07:24:05.369	Custom indicator Status Monitor V1.2 USDCHF,M30: loaded successfully
+2	08:17:43.232	Custom indicator HeikenAshi_DM GBPJPY,H1: removed
+2	08:17:43.233	Custom indicator DM_DSR GBPJPY,H1: removed
+2	08:17:43.235	Custom indicator LJ_SIG GBPJPY,H1: removed
+2	08:17:43.236	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: removed
+2	08:17:43.238	Custom indicator CandleCountdown GBPJPY,H1: removed
+2	08:17:43.239	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: removed
+2	08:17:43.240	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: removed
+2	08:17:43.242	Custom indicator DM_Volatility GBPJPY,H1: removed
+2	08:17:43.243	Custom indicator DM_RangeFactor GBPJPY,H1: removed
+2	08:17:43.245	Custom indicator DM_Continuation GBPJPY,H1: removed
+2	08:17:43.246	Custom indicator Status Monitor V1.2 GBPJPY,H1: removed
+2	08:17:43.262	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	08:17:43.333	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	08:17:43.400	Custom indicator Trend GBPJPY,H1: loaded successfully
+2	08:18:15.487	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	08:18:15.487	Custom indicator Entry GBPJPY,H1: removed
+2	08:18:15.487	Custom indicator Trend GBPJPY,H1: removed
+2	08:18:15.501	Custom indicator HeikenAshi_DM GBPJPY,H1: loaded successfully
+2	08:18:15.512	Custom indicator DM_DSR GBPJPY,H1: loaded successfully
+2	08:18:15.522	Custom indicator LJ_SIG GBPJPY,H1: loaded successfully
+2	08:18:15.535	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: loaded successfully
+2	08:18:15.546	Custom indicator ABT 5M 15M\CandleCountdown GBPJPY,H1: loaded successfully
+2	08:18:15.556	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: loaded successfully
+2	08:18:15.570	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: loaded successfully
+2	08:18:15.581	Custom indicator DM_Volatility GBPJPY,H1: loaded successfully
+2	08:18:15.592	Custom indicator DM_RangeFactor GBPJPY,H1: loaded successfully
+2	08:18:15.602	Custom indicator DM_Continuation GBPJPY,H1: loaded successfully
+2	08:18:15.613	Custom indicator Status Monitor V1.2 GBPJPY,H1: loaded successfully
+2	08:19:45.149	Custom indicator HeikenAshi_DM GBPJPY,H1: removed
+2	08:19:45.151	Custom indicator DM_DSR GBPJPY,H1: removed
+2	08:19:45.152	Custom indicator LJ_SIG GBPJPY,H1: removed
+2	08:19:45.154	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: removed
+2	08:19:45.155	Custom indicator CandleCountdown GBPJPY,H1: removed
+2	08:19:45.156	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: removed
+2	08:19:45.158	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: removed
+2	08:19:45.159	Custom indicator DM_Volatility GBPJPY,H1: removed
+2	08:19:45.160	Custom indicator DM_RangeFactor GBPJPY,H1: removed
+2	08:19:45.162	Custom indicator DM_Continuation GBPJPY,H1: removed
+2	08:19:45.163	Custom indicator Status Monitor V1.2 GBPJPY,H1: removed
+2	08:19:45.238	Custom indicator #P4L CandleTime GBPJPY,H1: loaded successfully
+2	08:19:45.246	Custom indicator TURBO PLUS+ GBPJPY,H1: loaded successfully
+2	08:19:45.257	Custom indicator ALERT SIGNAL GBPJPY,H1: loaded successfully
+2	08:19:45.266	Custom indicator Trend Trading\TrendTradingCloud GBPJPY,H1: loaded successfully
+2	08:19:45.275	Custom indicator Admiral Donchian GBPJPY,H1: loaded successfully
+2	08:19:45.286	Custom indicator Admiral High-Low GBPJPY,H1: loaded successfully
+2	08:19:45.295	Custom indicator Admiral Keltner GBPJPY,H1: loaded successfully
+2	08:19:45.307	Custom indicator Admiral Pivot GBPJPY,H1: loaded successfully
+2	08:19:45.323	Custom indicator Admiral Symbol Info GBPJPY,H1: loaded successfully
+2	08:19:45.334	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	08:19:45.343	Custom indicator MACD_Volumes-2 GBPJPY,H1: loaded successfully
+2	08:19:45.351	Custom indicator Trend Trading\CloudSignalLines GBPJPY,H1: loaded successfully
+2	08:19:45.631	Custom indicator MBFX Timing GBPJPY,H1: loaded successfully
+0	08:19:57.328	'27123197': order sell market 0.10 GBPJPY sl: 0.000 tp: 0.000
+0	08:19:57.791	'27123197': order was opened : #66360253 sell 0.10 GBPJPY at 131.093 sl: 0.000 tp: 0.000
+0	08:20:13.552	'27123197': modify order #66360253 sell 0.10 GBPJPY at 131.093 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 130.559
+0	08:20:13.912	'27123197': order #66360253 sell 0.10 GBPJPY at 131.093 was modified -> sl: 0.000 tp: 130.559
+0	08:20:17.970	'27123197': modify order #66360253 sell 0.10 GBPJPY at 131.093 sl: 0.000 tp: 130.559 -> sl: 131.605 tp: 130.559
+0	08:20:18.291	'27123197': order #66360253 sell 0.10 GBPJPY at 131.093 was modified -> sl: 131.605 tp: 130.559
+2	08:20:32.102	Custom indicator MBFX Timing GBPJPY,H1: removed
+2	08:20:32.106	Custom indicator #P4L CandleTime GBPJPY,H1: removed
+2	08:20:32.108	Custom indicator TURBO PLUS+ GBPJPY,H1: removed
+2	08:20:32.109	Custom indicator ALERT SIGNAL GBPJPY,H1: removed
+2	08:20:32.110	Custom indicator TrendTradingCloud GBPJPY,H1: removed
+2	08:20:32.112	Custom indicator Admiral Donchian GBPJPY,H1: removed
+2	08:20:32.113	Custom indicator Admiral High-Low GBPJPY,H1: removed
+2	08:20:32.115	Custom indicator Admiral Keltner GBPJPY,H1: removed
+2	08:20:32.117	Custom indicator Admiral Pivot GBPJPY,H1: removed
+2	08:20:32.118	Custom indicator Admiral Symbol Info GBPJPY,H1: removed
+2	08:20:32.120	Custom indicator RSI Divergence Levels GBPJPY,H1: removed
+2	08:20:32.122	Custom indicator MACD_Volumes-2 GBPJPY,H1: removed
+2	08:20:32.123	Custom indicator CloudSignalLines GBPJPY,H1: removed
+2	08:20:32.132	Custom indicator HeikenAshi_DM GBPJPY,H1: loaded successfully
+2	08:20:32.139	Custom indicator DM_DSR GBPJPY,H1: loaded successfully
+2	08:20:32.148	Custom indicator LJ_SIG GBPJPY,H1: loaded successfully
+2	08:20:32.157	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: loaded successfully
+2	08:20:32.165	Custom indicator ABT 5M 15M\CandleCountdown GBPJPY,H1: loaded successfully
+2	08:20:32.172	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: loaded successfully
+2	08:20:32.180	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: loaded successfully
+2	08:20:32.188	Custom indicator DM_Volatility GBPJPY,H1: loaded successfully
+2	08:20:32.196	Custom indicator DM_RangeFactor GBPJPY,H1: loaded successfully
+2	08:20:32.204	Custom indicator DM_Continuation GBPJPY,H1: loaded successfully
+2	08:20:32.212	Custom indicator Status Monitor V1.2 GBPJPY,H1: loaded successfully
+1	08:21:35.881	'27123197': connect failed [Connection échouée]
+1	08:35:54.078	MQL5.community: authorization failed
+1	08:39:28.899	MQL5.community: authorization failed
+1	08:44:28.899	MQL5.community: authorization failed
+1	08:49:28.898	MQL5.community: authorization failed
+1	08:54:28.899	MQL5.community: authorization failed
+1	08:59:28.903	MQL5.community: authorization failed
+1	09:04:28.902	MQL5.community: authorization failed
+1	09:09:28.902	MQL5.community: authorization failed
+0	09:12:29.186	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	09:12:31.678	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	09:12:32.307	'27123197': previous successful authorization performed from 154.126.9.71
+2	09:13:05.123	Custom indicator HeikenAshi_DM GBPJPY,H1: removed
+2	09:13:05.125	Custom indicator DM_DSR GBPJPY,H1: removed
+2	09:13:05.127	Custom indicator LJ_SIG GBPJPY,H1: removed
+2	09:13:05.128	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: removed
+2	09:13:05.129	Custom indicator CandleCountdown GBPJPY,H1: removed
+2	09:13:05.131	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: removed
+2	09:13:05.132	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: removed
+2	09:13:05.134	Custom indicator DM_Volatility GBPJPY,H1: removed
+2	09:13:05.136	Custom indicator DM_RangeFactor GBPJPY,H1: removed
+2	09:13:05.138	Custom indicator DM_Continuation GBPJPY,H1: removed
+2	09:13:05.140	Custom indicator Status Monitor V1.2 GBPJPY,H1: removed
+2	09:13:05.154	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	09:13:05.226	Custom indicator Entry GBPJPY,H1: loaded successfully
+2	09:13:05.299	Custom indicator Trend GBPJPY,H1: loaded successfully
+1	09:13:31.982	'27123197': ping failed
+1	09:13:31.984	'27123197': datacenter connecting failed [6]
+0	09:13:33.635	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	09:13:35.474	'27123197': auto connecting to a better access point Access Point #6 (ping is 238.80 ms)
+0	09:13:36.433	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 238.80 ms)
+0	09:13:42.813	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 238.80 ms)
+0	09:13:45.033	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 238.80 ms)
+0	09:13:45.673	'27123197': previous successful authorization performed from 154.126.9.89
+0	09:14:02.351	'27123197': modify order #66360253 sell 0.10 GBPJPY at 131.093 sl: 131.605 tp: 130.559 -> sl: 131.605 tp: 131.072
+0	09:14:02.693	'27123197': order #66360253 sell 0.10 GBPJPY at 131.093 was modified -> sl: 131.605 tp: 131.072
+2	09:14:08.995	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	09:14:08.995	Custom indicator Entry GBPJPY,H1: removed
+2	09:14:08.995	Custom indicator Trend GBPJPY,H1: removed
+2	09:14:09.071	Custom indicator #P4L CandleTime GBPJPY,H1: loaded successfully
+2	09:14:09.080	Custom indicator TURBO PLUS+ GBPJPY,H1: loaded successfully
+2	09:14:09.089	Custom indicator ALERT SIGNAL GBPJPY,H1: loaded successfully
+2	09:14:09.099	Custom indicator Trend Trading\TrendTradingCloud GBPJPY,H1: loaded successfully
+2	09:14:09.108	Custom indicator Admiral Donchian GBPJPY,H1: loaded successfully
+2	09:14:09.119	Custom indicator Admiral High-Low GBPJPY,H1: loaded successfully
+2	09:14:09.128	Custom indicator Admiral Keltner GBPJPY,H1: loaded successfully
+2	09:14:09.138	Custom indicator Admiral Pivot GBPJPY,H1: loaded successfully
+2	09:14:09.153	Custom indicator Admiral Symbol Info GBPJPY,H1: loaded successfully
+2	09:14:09.162	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	09:14:09.172	Custom indicator MACD_Volumes-2 GBPJPY,H1: loaded successfully
+2	09:14:09.180	Custom indicator Trend Trading\CloudSignalLines GBPJPY,H1: loaded successfully
+2	09:14:09.446	Custom indicator MBFX Timing GBPJPY,H1: loaded successfully
+2	09:14:48.375	Custom indicator MBFX Timing GBPJPY,H1: removed
+2	09:14:48.476	Custom indicator MBFX Timing GBPJPY,M1: loaded successfully
+2	09:15:14.062	Custom indicator MBFX Timing GBPJPY,M1: removed
+2	09:15:14.170	Custom indicator MBFX Timing GBPJPY,M5: loaded successfully
+2	09:15:27.167	Custom indicator MBFX Timing GBPJPY,M5: removed
+2	09:15:27.271	Custom indicator MBFX Timing GBPJPY,M15: loaded successfully
+2	09:15:48.411	Custom indicator MBFX Timing GBPJPY,M15: removed
+2	09:15:48.515	Custom indicator MBFX Timing GBPJPY,M30: loaded successfully
+2	09:15:50.860	Custom indicator MBFX Timing GBPJPY,M30: removed
+2	09:15:50.961	Custom indicator MBFX Timing GBPJPY,H1: loaded successfully
+2	09:15:59.788	Custom indicator MBFX Timing GBPJPY,H1: removed
+2	09:15:59.794	Custom indicator #P4L CandleTime GBPJPY,H1: removed
+2	09:15:59.796	Custom indicator TURBO PLUS+ GBPJPY,H1: removed
+2	09:15:59.798	Custom indicator ALERT SIGNAL GBPJPY,H1: removed
+2	09:15:59.800	Custom indicator TrendTradingCloud GBPJPY,H1: removed
+2	09:15:59.801	Custom indicator Admiral Donchian GBPJPY,H1: removed
+2	09:15:59.802	Custom indicator Admiral High-Low GBPJPY,H1: removed
+2	09:15:59.804	Custom indicator Admiral Keltner GBPJPY,H1: removed
+2	09:15:59.805	Custom indicator Admiral Pivot GBPJPY,H1: removed
+2	09:15:59.806	Custom indicator Admiral Symbol Info GBPJPY,H1: removed
+2	09:15:59.808	Custom indicator RSI Divergence Levels GBPJPY,H1: removed
+2	09:15:59.809	Custom indicator MACD_Volumes-2 GBPJPY,H1: removed
+2	09:15:59.811	Custom indicator CloudSignalLines GBPJPY,H1: removed
+2	09:15:59.824	Custom indicator HeikenAshi_DM GBPJPY,H1: loaded successfully
+2	09:15:59.833	Custom indicator DM_DSR GBPJPY,H1: loaded successfully
+2	09:15:59.843	Custom indicator LJ_SIG GBPJPY,H1: loaded successfully
+2	09:15:59.853	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: loaded successfully
+2	09:15:59.864	Custom indicator ABT 5M 15M\CandleCountdown GBPJPY,H1: loaded successfully
+2	09:15:59.872	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: loaded successfully
+2	09:15:59.883	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: loaded successfully
+2	09:15:59.892	Custom indicator DM_Volatility GBPJPY,H1: loaded successfully
+2	09:15:59.900	Custom indicator DM_RangeFactor GBPJPY,H1: loaded successfully
+2	09:15:59.909	Custom indicator DM_Continuation GBPJPY,H1: loaded successfully
+2	09:15:59.917	Custom indicator Status Monitor V1.2 GBPJPY,H1: loaded successfully
+0	09:20:39.343	'27123197': close order #66360253 sell 0.10 GBPJPY at 131.093 sl: 131.605 tp: 131.072 at price 0.000
+0	09:20:39.791	'27123197': order #66360253 sell 0.10 GBPJPY at 131.093 sl: 131.605 tp: 131.072 closed at price 131.119
+1	09:24:23.226	'27123197': connect failed [Connection échouée]
+0	12:30:12.779	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	12:30:33.705	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	12:30:34.434	'27123197': previous successful authorization performed from 154.126.9.17
+0	12:30:52.123	'27123197': auto connecting to a better access point Access Point #6 (ping is 249.05 ms)
+0	12:30:53.333	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 249.05 ms)
+0	12:30:56.434	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 249.05 ms)
+0	12:30:57.072	'27123197': previous successful authorization performed from 154.126.9.51
+0	12:34:32.849	'27123197': close order #66357826 buy 0.10 GBPAUD at 1.86561 sl: 1.84430 tp: 1.90130 at price 0.00000
+0	12:34:33.508	'27123197': order #66357826 buy 0.10 GBPAUD at 1.86561 sl: 1.84430 tp: 1.90130 closed at price 1.86614
+2	12:35:25.399	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	12:35:25.400	Custom indicator Entry AUDUSD,H1: removed
+2	12:35:25.400	Custom indicator Trend AUDUSD,H1: removed
+2	12:35:25.412	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	12:35:25.421	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	12:35:25.431	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	12:35:25.438	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	12:35:25.448	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	12:35:25.457	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	12:35:25.466	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	12:35:25.474	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	12:35:25.483	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	12:35:25.492	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	12:35:25.500	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	12:35:43.252	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	12:35:43.253	Custom indicator DM_DSR AUDUSD,H1: removed
+2	12:35:43.254	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	12:35:43.256	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	12:35:43.257	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	12:35:43.258	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	12:35:43.260	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	12:35:43.261	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	12:35:43.263	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	12:35:43.264	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	12:35:43.266	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	12:35:43.280	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	12:35:43.348	Custom indicator Entry AUDUSD,H1: loaded successfully
+2	12:35:43.412	Custom indicator Trend AUDUSD,H1: loaded successfully
+2	12:41:12.202	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	12:41:12.202	Custom indicator Entry AUDUSD,H1: removed
+2	12:41:12.202	Custom indicator Trend AUDUSD,H1: removed
+2	12:41:12.209	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	12:41:12.219	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	12:41:12.228	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	12:41:12.236	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	12:41:12.245	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	12:41:12.252	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	12:41:12.261	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	12:41:12.269	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	12:41:12.275	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	12:41:12.283	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	12:41:12.290	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	12:44:17.253	Custom indicator $-ForecastCityIntradayIndicator AUDJPY,H1: removed
+2	12:44:17.253	Custom indicator Entry AUDJPY,H1: removed
+2	12:44:17.254	Custom indicator Trend AUDJPY,H1: removed
+2	12:44:17.264	Custom indicator HeikenAshi_DM AUDJPY,H1: loaded successfully
+2	12:44:17.272	Custom indicator DM_DSR AUDJPY,H1: loaded successfully
+2	12:44:17.283	Custom indicator LJ_SIG AUDJPY,H1: loaded successfully
+2	12:44:17.291	Custom indicator #MarketPrice _v1_4 AUDJPY,H1: loaded successfully
+2	12:44:17.300	Custom indicator ABT 5M 15M\CandleCountdown AUDJPY,H1: loaded successfully
+2	12:44:17.308	Custom indicator LJ_SYNERGY_ID AUDJPY,H1: loaded successfully
+2	12:44:17.317	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDJPY,H1: loaded successfully
+2	12:44:17.325	Custom indicator DM_Volatility AUDJPY,H1: loaded successfully
+2	12:44:17.332	Custom indicator DM_RangeFactor AUDJPY,H1: loaded successfully
+2	12:44:17.340	Custom indicator DM_Continuation AUDJPY,H1: loaded successfully
+2	12:44:17.350	Custom indicator Status Monitor V1.2 AUDJPY,H1: loaded successfully
+2	12:49:44.114	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,H1: loaded successfully
+2	12:49:44.201	Custom indicator Entry AUDNZD,H1: loaded successfully
+2	12:49:44.295	Custom indicator Trend AUDNZD,H1: loaded successfully
+2	12:50:36.269	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: loaded successfully
+2	12:50:36.350	Custom indicator Entry GBPNZD,H1: loaded successfully
+2	12:50:36.430	Custom indicator Trend GBPNZD,H1: loaded successfully
+2	12:50:48.454	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: removed
+2	12:50:48.454	Custom indicator Entry GBPNZD,H1: removed
+2	12:50:48.454	Custom indicator Trend GBPNZD,H1: removed
+2	12:50:48.469	Custom indicator HeikenAshi_DM GBPNZD,H1: loaded successfully
+2	12:50:48.482	Custom indicator DM_DSR GBPNZD,H1: loaded successfully
+2	12:50:48.496	Custom indicator LJ_SIG GBPNZD,H1: loaded successfully
+2	12:50:48.509	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: loaded successfully
+2	12:50:48.521	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	12:50:48.531	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: loaded successfully
+2	12:50:48.543	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: loaded successfully
+2	12:50:48.553	Custom indicator DM_Volatility GBPNZD,H1: loaded successfully
+2	12:50:48.564	Custom indicator DM_RangeFactor GBPNZD,H1: loaded successfully
+2	12:50:48.575	Custom indicator DM_Continuation GBPNZD,H1: loaded successfully
+2	12:50:48.584	Custom indicator Status Monitor V1.2 GBPNZD,H1: loaded successfully
+2	12:51:55.734	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: removed
+2	12:51:55.735	Custom indicator Entry NZDUSD,H1: removed
+2	12:51:55.735	Custom indicator Trend NZDUSD,H1: removed
+2	12:51:55.751	Custom indicator HeikenAshi_DM NZDUSD,H1: loaded successfully
+2	12:51:55.762	Custom indicator DM_DSR NZDUSD,H1: loaded successfully
+2	12:51:55.772	Custom indicator LJ_SIG NZDUSD,H1: loaded successfully
+2	12:51:55.782	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: loaded successfully
+2	12:51:55.791	Custom indicator ABT 5M 15M\CandleCountdown NZDUSD,H1: loaded successfully
+2	12:51:55.800	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: loaded successfully
+2	12:51:55.812	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: loaded successfully
+2	12:51:55.823	Custom indicator DM_Volatility NZDUSD,H1: loaded successfully
+2	12:51:55.835	Custom indicator DM_RangeFactor NZDUSD,H1: loaded successfully
+2	12:51:55.846	Custom indicator DM_Continuation NZDUSD,H1: loaded successfully
+2	12:51:55.859	Custom indicator Status Monitor V1.2 NZDUSD,H1: loaded successfully
+2	12:54:15.203	Custom indicator HeikenAshi_DM NZDUSD,H1: removed
+2	12:54:15.206	Custom indicator DM_DSR NZDUSD,H1: removed
+2	12:54:15.208	Custom indicator LJ_SIG NZDUSD,H1: removed
+2	12:54:15.210	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: removed
+2	12:54:15.212	Custom indicator CandleCountdown NZDUSD,H1: removed
+2	12:54:15.213	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: removed
+2	12:54:15.217	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: removed
+2	12:54:15.219	Custom indicator DM_Volatility NZDUSD,H1: removed
+2	12:54:15.221	Custom indicator DM_RangeFactor NZDUSD,H1: removed
+2	12:54:15.224	Custom indicator DM_Continuation NZDUSD,H1: removed
+2	12:54:15.226	Custom indicator Status Monitor V1.2 NZDUSD,H1: removed
+2	12:54:15.253	Custom indicator HeikenAshi_DM GBPNZD,H1: removed
+2	12:54:15.255	Custom indicator DM_DSR GBPNZD,H1: removed
+2	12:54:15.257	Custom indicator LJ_SIG GBPNZD,H1: removed
+2	12:54:15.258	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: removed
+2	12:54:15.260	Custom indicator CandleCountdown GBPNZD,H1: removed
+2	12:54:15.261	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: removed
+2	12:54:15.263	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: removed
+2	12:54:15.268	Custom indicator DM_Volatility GBPNZD,H1: removed
+2	12:54:15.271	Custom indicator DM_RangeFactor GBPNZD,H1: removed
+2	12:54:15.273	Custom indicator DM_Continuation GBPNZD,H1: removed
+2	12:54:15.275	Custom indicator Status Monitor V1.2 GBPNZD,H1: removed
+2	12:54:15.299	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,H1: removed
+2	12:54:15.299	Custom indicator Entry AUDNZD,H1: removed
+2	12:54:15.299	Custom indicator Trend AUDNZD,H1: removed
+2	12:54:15.324	Custom indicator HeikenAshi_DM USDCAD,H1: removed
+2	12:54:15.326	Custom indicator DM_DSR USDCAD,H1: removed
+2	12:54:15.327	Custom indicator LJ_SIG USDCAD,H1: removed
+2	12:54:15.329	Custom indicator #MarketPrice _v1_4 USDCAD,H1: removed
+2	12:54:15.331	Custom indicator CandleCountdown USDCAD,H1: removed
+2	12:54:15.334	Custom indicator LJ_SYNERGY_ID USDCAD,H1: removed
+2	12:54:15.337	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: removed
+2	12:54:15.339	Custom indicator DM_Volatility USDCAD,H1: removed
+2	12:54:15.341	Custom indicator DM_RangeFactor USDCAD,H1: removed
+2	12:54:15.342	Custom indicator DM_Continuation USDCAD,H1: removed
+2	12:54:15.344	Custom indicator Status Monitor V1.2 USDCAD,H1: removed
+2	12:54:15.373	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	12:54:15.376	Custom indicator DM_DSR GBPAUD,H1: removed
+2	12:54:15.378	Custom indicator LJ_SIG GBPAUD,H1: removed
+2	12:54:15.380	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: removed
+2	12:54:15.382	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	12:54:15.385	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: removed
+2	12:54:15.387	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: removed
+2	12:54:15.389	Custom indicator DM_Volatility GBPAUD,H1: removed
+2	12:54:15.392	Custom indicator DM_RangeFactor GBPAUD,H1: removed
+2	12:54:15.393	Custom indicator DM_Continuation GBPAUD,H1: removed
+2	12:54:15.395	Custom indicator Status Monitor V1.2 GBPAUD,H1: removed
+2	12:54:15.419	Custom indicator HeikenAshi_DM AUDJPY,H1: removed
+2	12:54:15.421	Custom indicator DM_DSR AUDJPY,H1: removed
+2	12:54:15.423	Custom indicator LJ_SIG AUDJPY,H1: removed
+2	12:54:15.424	Custom indicator #MarketPrice _v1_4 AUDJPY,H1: removed
+2	12:54:15.426	Custom indicator CandleCountdown AUDJPY,H1: removed
+2	12:54:15.428	Custom indicator LJ_SYNERGY_ID AUDJPY,H1: removed
+2	12:54:15.429	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDJPY,H1: removed
+2	12:54:15.431	Custom indicator DM_Volatility AUDJPY,H1: removed
+2	12:54:15.434	Custom indicator DM_RangeFactor AUDJPY,H1: removed
+2	12:54:15.436	Custom indicator DM_Continuation AUDJPY,H1: removed
+2	12:54:15.437	Custom indicator Status Monitor V1.2 AUDJPY,H1: removed
+2	12:54:15.463	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: removed
+2	12:54:15.464	Custom indicator Entry AUDCHF,H1: removed
+2	12:54:15.465	Custom indicator Trend AUDCHF,H1: removed
+2	12:54:15.468	Custom indicator MACDcorrect AUDCHF,H1: removed
+2	12:54:15.492	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	12:54:15.494	Custom indicator DM_DSR AUDUSD,H1: removed
+2	12:54:15.496	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	12:54:15.498	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	12:54:15.500	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	12:54:15.502	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	12:54:15.503	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	12:54:15.506	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	12:54:15.507	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	12:54:15.509	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	12:54:15.511	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	12:54:15.537	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	12:54:15.538	Custom indicator Entry EURUSD,H1: removed
+2	12:54:15.539	Custom indicator Trend EURUSD,H1: removed
+2	12:54:15.566	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	12:54:15.567	Custom indicator Entry GBPUSD,H1: removed
+2	12:54:15.567	Custom indicator Trend GBPUSD,H1: removed
+2	12:54:15.594	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: removed
+2	12:54:15.594	Custom indicator Entry EURJPY,H1: removed
+2	12:54:15.594	Custom indicator Trend EURJPY,H1: removed
+2	12:54:15.623	Custom indicator HeikenAshi_DM USDCHF,H1: removed
+2	12:54:15.625	Custom indicator DM_DSR USDCHF,H1: removed
+2	12:54:15.627	Custom indicator LJ_SIG USDCHF,H1: removed
+2	12:54:15.628	Custom indicator #MarketPrice _v1_4 USDCHF,H1: removed
+2	12:54:15.631	Custom indicator CandleCountdown USDCHF,H1: removed
+2	12:54:15.635	Custom indicator LJ_SYNERGY_ID USDCHF,H1: removed
+2	12:54:15.637	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCHF,H1: removed
+2	12:54:15.640	Custom indicator DM_Volatility USDCHF,H1: removed
+2	12:54:15.642	Custom indicator DM_RangeFactor USDCHF,H1: removed
+2	12:54:15.644	Custom indicator DM_Continuation USDCHF,H1: removed
+2	12:54:15.647	Custom indicator Status Monitor V1.2 USDCHF,H1: removed
+2	12:54:15.675	Custom indicator HeikenAshi_DM GBPJPY,H1: removed
+2	12:54:15.677	Custom indicator DM_DSR GBPJPY,H1: removed
+2	12:54:15.679	Custom indicator LJ_SIG GBPJPY,H1: removed
+2	12:54:15.683	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: removed
+2	12:54:15.686	Custom indicator CandleCountdown GBPJPY,H1: removed
+2	12:54:15.689	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: removed
+2	12:54:15.691	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: removed
+2	12:54:15.693	Custom indicator DM_Volatility GBPJPY,H1: removed
+2	12:54:15.695	Custom indicator DM_RangeFactor GBPJPY,H1: removed
+2	12:54:15.697	Custom indicator DM_Continuation GBPJPY,H1: removed
+2	12:54:15.700	Custom indicator Status Monitor V1.2 GBPJPY,H1: removed
+2	12:54:15.723	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: removed
+2	12:54:15.724	Custom indicator Entry USDJPY,H1: removed
+2	12:54:15.724	Custom indicator Trend USDJPY,H1: removed
+2	12:54:15.742	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	12:54:15.742	Custom indicator Entry USDCAD,H1: removed
+2	12:54:15.742	Custom indicator Trend USDCAD,H1: removed
+2	12:54:15.867	Custom indicator Admiral Donchian [DJI30],M15: loaded successfully
+2	12:54:15.881	Custom indicator Admiral High-Low [DJI30],M15: loaded successfully
+2	12:54:15.894	Custom indicator Admiral Keltner [DJI30],M15: loaded successfully
+2	12:54:15.910	Custom indicator Admiral Pivot [DJI30],M15: loaded successfully
+2	12:54:15.933	Custom indicator Admiral Symbol Info [DJI30],M15: loaded successfully
+2	12:54:16.043	Custom indicator #P4L CandleTime [DJI30],M15: loaded successfully
+2	12:54:16.071	Expert Admiral - Mini Terminal [DJI30],M15: loaded successfully
+2	12:54:16.286	Custom indicator $-ForecastCityIntradayIndicator [DAX30],M5: loaded successfully
+2	12:54:16.377	Custom indicator Admiral Donchian [NQ100],M15: loaded successfully
+2	12:54:16.389	Custom indicator Admiral High-Low [NQ100],M15: loaded successfully
+2	12:54:16.399	Custom indicator Admiral Keltner [NQ100],M15: loaded successfully
+2	12:54:16.410	Custom indicator Admiral Pivot [NQ100],M15: loaded successfully
+2	12:54:16.425	Custom indicator Admiral Symbol Info [NQ100],M15: loaded successfully
+2	12:54:16.519	Custom indicator #P4L CandleTime [NQ100],M15: loaded successfully
+2	12:54:16.537	Expert Admiral - Mini Terminal [NQ100],M15: loaded successfully
+2	12:54:16.826	Custom indicator #P4L CandleTime WTI,M15: loaded successfully
+2	12:54:16.840	Custom indicator TURBO PLUS+ WTI,M15: loaded successfully
+2	12:54:16.852	Custom indicator ALERT SIGNAL WTI,M15: loaded successfully
+2	12:54:16.864	Custom indicator Trend Trading\TrendTradingCloud WTI,M15: loaded successfully
+2	12:54:16.876	Custom indicator RSI Divergence Levels WTI,M15: loaded successfully
+2	12:54:16.888	Custom indicator MACD_Volumes-2 WTI,M15: loaded successfully
+2	12:54:16.898	Custom indicator Trend Trading\CloudSignalLines WTI,M15: loaded successfully
+2	12:54:17.143	Custom indicator MBFX Timing WTI,M15: loaded successfully
+2	12:54:17.211	Custom indicator Admiral Donchian GOLD,Daily: loaded successfully
+2	12:54:17.226	Custom indicator Admiral High-Low GOLD,Daily: loaded successfully
+2	12:54:17.239	Custom indicator Admiral Keltner GOLD,Daily: loaded successfully
+2	12:54:17.251	Custom indicator Admiral Pivot GOLD,Daily: loaded successfully
+2	12:54:17.268	Custom indicator Admiral Symbol Info GOLD,Daily: loaded successfully
+2	12:54:17.530	Custom indicator #P4L CandleTime AUDJPY,M15: loaded successfully
+2	12:54:17.541	Custom indicator TURBO PLUS+ AUDJPY,M15: loaded successfully
+2	12:54:17.554	Custom indicator ALERT SIGNAL AUDJPY,M15: loaded successfully
+2	12:54:17.567	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,M15: loaded successfully
+2	12:54:17.581	Custom indicator RSI Divergence Levels AUDJPY,M15: loaded successfully
+2	12:54:17.593	Custom indicator MACD_Volumes-2 AUDJPY,M15: loaded successfully
+2	12:54:17.604	Custom indicator Trend Trading\CloudSignalLines AUDJPY,M15: loaded successfully
+2	12:54:17.619	Expert Admiral - Connect AUDJPY,M15: loaded successfully
+2	12:54:17.871	Custom indicator MBFX Timing AUDJPY,M15: loaded successfully
+2	12:54:17.940	Custom indicator Admiral Donchian AUDNZD,H1: loaded successfully
+2	12:54:17.954	Custom indicator Admiral High-Low AUDNZD,H1: loaded successfully
+2	12:54:17.966	Custom indicator Admiral Keltner AUDNZD,H1: loaded successfully
+2	12:54:17.978	Custom indicator Admiral Pivot AUDNZD,H1: loaded successfully
+2	12:54:18.000	Custom indicator Admiral Symbol Info AUDNZD,H1: loaded successfully
+2	12:54:18.230	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	12:54:18.422	Custom indicator #P4L CandleTime GBPAUD,H1: loaded successfully
+2	12:54:18.431	Custom indicator TURBO PLUS+ GBPAUD,H1: loaded successfully
+2	12:54:18.442	Custom indicator ALERT SIGNAL GBPAUD,H1: loaded successfully
+2	12:54:18.454	Custom indicator Trend Trading\TrendTradingCloud GBPAUD,H1: loaded successfully
+2	12:54:18.469	Custom indicator Admiral Donchian GBPAUD,H1: loaded successfully
+2	12:54:18.483	Custom indicator Admiral High-Low GBPAUD,H1: loaded successfully
+2	12:54:18.494	Custom indicator Admiral Keltner GBPAUD,H1: loaded successfully
+2	12:54:18.505	Custom indicator Admiral Pivot GBPAUD,H1: loaded successfully
+2	12:54:18.521	Custom indicator Admiral Symbol Info GBPAUD,H1: loaded successfully
+2	12:54:18.533	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	12:54:18.547	Custom indicator MACD_Volumes-2 GBPAUD,H1: loaded successfully
+2	12:54:18.558	Custom indicator Trend Trading\CloudSignalLines GBPAUD,H1: loaded successfully
+2	12:54:18.580	Expert Admiral - Mini Terminal GBPAUD,H1: loaded successfully
+2	12:54:18.977	Custom indicator MBFX Timing GBPAUD,H1: loaded successfully
+2	12:54:19.051	Custom indicator Admiral Donchian NZDUSD,H1: loaded successfully
+2	12:54:19.066	Custom indicator Admiral High-Low NZDUSD,H1: loaded successfully
+2	12:54:19.076	Custom indicator Admiral Keltner NZDUSD,H1: loaded successfully
+2	12:54:19.090	Custom indicator Admiral Pivot NZDUSD,H1: loaded successfully
+2	12:54:19.105	Custom indicator Admiral Symbol Info NZDUSD,H1: loaded successfully
+2	12:54:19.304	Custom indicator $-ForecastCityIntradayIndicator USDCAD,M30: loaded successfully
+2	12:54:19.407	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,M15: loaded successfully
+2	12:54:19.569	Custom indicator $-ForecastCityIntradayIndicator EURCHF,H1: loaded successfully
+2	12:54:19.685	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,M30: loaded successfully
+2	12:54:19.804	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,M30: loaded successfully
+2	12:54:19.926	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,M30: loaded successfully
+2	12:54:43.465	Custom indicator MBFX Timing WTI,M15: removed
+2	12:54:43.474	Custom indicator MBFX Timing AUDJPY,M15: removed
+2	12:54:43.498	Custom indicator MBFX Timing GBPAUD,H1: removed
+2	12:54:43.572	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	12:54:43.604	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,M15: removed
+2	12:54:43.634	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,M30: removed
+2	12:54:43.666	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,M30: removed
+2	12:54:43.689	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,M30: removed
+2	12:54:43.718	Custom indicator $-ForecastCityIntradayIndicator [DAX30],M5: removed
+2	12:54:43.749	Custom indicator $-ForecastCityIntradayIndicator USDCAD,M30: removed
+2	12:54:43.780	Custom indicator $-ForecastCityIntradayIndicator EURCHF,H1: removed
+2	12:54:43.830	Custom indicator Admiral Donchian GOLD,Daily: removed
+2	12:54:43.831	Custom indicator Admiral High-Low GOLD,Daily: removed
+2	12:54:43.833	Custom indicator Admiral Keltner GOLD,Daily: removed
+2	12:54:43.835	Custom indicator Admiral Pivot GOLD,Daily: removed
+2	12:54:43.838	Custom indicator Admiral Symbol Info GOLD,Daily: removed
+2	12:54:43.867	Custom indicator #P4L CandleTime WTI,M15: removed
+2	12:54:43.869	Custom indicator TURBO PLUS+ WTI,M15: removed
+2	12:54:43.871	Custom indicator ALERT SIGNAL WTI,M15: removed
+2	12:54:43.873	Custom indicator TrendTradingCloud WTI,M15: removed
+2	12:54:43.876	Custom indicator RSI Divergence Levels WTI,M15: removed
+2	12:54:43.879	Custom indicator MACD_Volumes-2 WTI,M15: removed
+2	12:54:43.881	Custom indicator CloudSignalLines WTI,M15: removed
+2	12:54:43.905	Custom indicator Admiral Donchian AUDNZD,H1: removed
+2	12:54:43.907	Custom indicator Admiral High-Low AUDNZD,H1: removed
+2	12:54:43.911	Custom indicator Admiral Keltner AUDNZD,H1: removed
+2	12:54:43.914	Custom indicator Admiral Pivot AUDNZD,H1: removed
+2	12:54:43.916	Custom indicator Admiral Symbol Info AUDNZD,H1: removed
+2	12:54:43.937	Expert Admiral - Mini Terminal GBPAUD,H1: removed
+2	12:54:43.938	Custom indicator #P4L CandleTime GBPAUD,H1: removed
+2	12:54:43.941	Custom indicator TURBO PLUS+ GBPAUD,H1: removed
+2	12:54:43.945	Custom indicator ALERT SIGNAL GBPAUD,H1: removed
+2	12:54:43.947	Custom indicator TrendTradingCloud GBPAUD,H1: removed
+2	12:54:43.949	Custom indicator Admiral Donchian GBPAUD,H1: removed
+2	12:54:43.952	Custom indicator Admiral High-Low GBPAUD,H1: removed
+2	12:54:43.953	Custom indicator Admiral Keltner GBPAUD,H1: removed
+2	12:54:43.955	Custom indicator Admiral Pivot GBPAUD,H1: removed
+2	12:54:43.959	Custom indicator Admiral Symbol Info GBPAUD,H1: removed
+2	12:54:43.963	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	12:54:43.965	Custom indicator MACD_Volumes-2 GBPAUD,H1: removed
+2	12:54:43.966	Custom indicator CloudSignalLines GBPAUD,H1: removed
+2	12:54:43.993	Expert Admiral - Mini Terminal [NQ100],M15: removed
+2	12:54:43.998	Custom indicator Admiral Donchian [NQ100],M15: removed
+2	12:54:44.000	Custom indicator Admiral High-Low [NQ100],M15: removed
+2	12:54:44.001	Custom indicator Admiral Keltner [NQ100],M15: removed
+2	12:54:44.003	Custom indicator Admiral Pivot [NQ100],M15: removed
+2	12:54:44.005	Custom indicator Admiral Symbol Info [NQ100],M15: removed
+2	12:54:44.005	Custom indicator #P4L CandleTime [NQ100],M15: removed
+2	12:54:44.032	Custom indicator Admiral Donchian NZDUSD,H1: removed
+2	12:54:44.033	Custom indicator Admiral High-Low NZDUSD,H1: removed
+2	12:54:44.035	Custom indicator Admiral Keltner NZDUSD,H1: removed
+2	12:54:44.037	Custom indicator Admiral Pivot NZDUSD,H1: removed
+2	12:54:44.040	Custom indicator Admiral Symbol Info NZDUSD,H1: removed
+2	12:54:44.066	Expert Admiral - Mini Terminal [DJI30],M15: removed
+2	12:54:44.069	Custom indicator Admiral Donchian [DJI30],M15: removed
+2	12:54:44.071	Custom indicator Admiral High-Low [DJI30],M15: removed
+2	12:54:44.072	Custom indicator Admiral Keltner [DJI30],M15: removed
+2	12:54:44.076	Custom indicator Admiral Pivot [DJI30],M15: removed
+2	12:54:44.079	Custom indicator Admiral Symbol Info [DJI30],M15: removed
+2	12:54:44.079	Custom indicator #P4L CandleTime [DJI30],M15: removed
+2	12:54:44.216	Custom indicator #P4L CandleTime AUDJPY,M15: removed
+2	12:54:44.219	Custom indicator TURBO PLUS+ AUDJPY,M15: removed
+2	12:54:44.221	Custom indicator ALERT SIGNAL AUDJPY,M15: removed
+2	12:54:44.222	Custom indicator TrendTradingCloud AUDJPY,M15: removed
+2	12:54:44.226	Custom indicator RSI Divergence Levels AUDJPY,M15: removed
+2	12:54:44.228	Custom indicator MACD_Volumes-2 AUDJPY,M15: removed
+2	12:54:44.230	Custom indicator CloudSignalLines AUDJPY,M15: removed
+2	12:54:44.289	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDJPY,M1: loaded successfully
+2	12:54:44.422	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDJPY,M1: loaded successfully
+2	12:54:44.501	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDNZD,M1: loaded successfully
+2	12:54:44.626	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDNZD,M1: loaded successfully
+2	12:54:44.714	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDUSD,M1: loaded successfully
+2	12:54:44.849	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDUSD,M1: loaded successfully
+2	12:54:45.052	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDCHF,M1: loaded successfully
+2	12:54:45.181	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDCHF,M1: loaded successfully
+2	12:54:45.375	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS CADJPY,M1: loaded successfully
+2	12:54:45.494	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA CADJPY,M1: loaded successfully
+2	12:54:45.588	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS CADCHF,M1: loaded successfully
+2	12:54:45.711	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA CADCHF,M1: loaded successfully
+2	12:54:45.767	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS CHFJPY,M1: loaded successfully
+2	12:54:45.892	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA CHFJPY,M1: loaded successfully
+2	12:54:45.964	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURUSD,M1: loaded successfully
+2	12:54:46.088	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURUSD,M1: loaded successfully
+2	12:54:46.303	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURAUD,M1: loaded successfully
+2	12:54:46.422	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURAUD,M1: loaded successfully
+2	12:54:46.511	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURGBP,M1: loaded successfully
+2	12:54:46.643	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURGBP,M1: loaded successfully
+2	12:54:46.748	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURCAD,M1: loaded successfully
+2	12:54:46.872	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURCAD,M1: loaded successfully
+2	12:54:46.950	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURJPY,M1: loaded successfully
+2	12:54:47.071	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURJPY,M1: loaded successfully
+2	12:54:47.140	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURNZD,M1: loaded successfully
+2	12:54:47.270	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURNZD,M1: loaded successfully
+2	12:54:47.342	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURCHF,M1: loaded successfully
+2	12:54:47.462	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURCHF,M1: loaded successfully
+2	12:54:47.522	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPUSD,M1: loaded successfully
+2	12:54:47.643	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPUSD,M1: loaded successfully
+2	12:54:47.863	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPAUD,M1: loaded successfully
+2	12:54:47.993	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPAUD,M1: loaded successfully
+2	12:54:48.102	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPCAD,M1: loaded successfully
+2	12:54:48.231	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPCAD,M1: loaded successfully
+2	12:54:48.306	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPJPY,M1: loaded successfully
+2	12:54:48.430	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPJPY,M1: loaded successfully
+2	12:54:48.529	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPNZD,M1: loaded successfully
+2	12:54:48.662	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPNZD,M1: loaded successfully
+2	12:54:48.902	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPCHF,M1: loaded successfully
+2	12:54:49.022	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPCHF,M1: loaded successfully
+2	12:54:49.096	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDCAD,M1: loaded successfully
+2	12:54:49.217	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDCAD,M1: loaded successfully
+2	12:54:49.407	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDJPY,M1: loaded successfully
+2	12:54:49.530	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDJPY,M1: loaded successfully
+2	12:54:49.599	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDUSD,M1: loaded successfully
+2	12:54:49.737	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDUSD,M1: loaded successfully
+2	12:54:50.043	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDCHF,M1: loaded successfully
+2	12:54:50.171	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDCHF,M1: loaded successfully
+2	12:54:50.248	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS USDJPY,M1: loaded successfully
+2	12:54:50.378	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA USDJPY,M1: loaded successfully
+2	12:54:50.510	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS USDCAD,M1: loaded successfully
+2	12:54:50.633	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA USDCAD,M1: loaded successfully
+2	12:54:50.933	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS USDCHF,M1: loaded successfully
+2	12:54:51.078	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA USDCHF,M1: loaded successfully
+2	12:54:51.310	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDCAD,M1: loaded successfully
+2	12:54:51.434	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDCAD,M1: loaded successfully
+2	12:55:04.737	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS USDCHF,M1: removed
+2	12:55:04.738	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA USDCHF,M1: removed
+2	12:55:04.756	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS USDCAD,M1: removed
+2	12:55:04.756	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA USDCAD,M1: removed
+2	12:55:04.778	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDCAD,M1: removed
+2	12:55:04.778	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDCAD,M1: removed
+2	12:55:04.797	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPCHF,M1: removed
+2	12:55:04.798	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPCHF,M1: removed
+2	12:55:04.816	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURCHF,M1: removed
+2	12:55:04.816	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURCHF,M1: removed
+2	12:55:04.834	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPUSD,M1: removed
+2	12:55:04.834	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPUSD,M1: removed
+2	12:55:04.863	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURAUD,M1: removed
+2	12:55:04.863	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURAUD,M1: removed
+2	12:55:04.881	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDCHF,M1: removed
+2	12:55:04.881	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDCHF,M1: removed
+2	12:55:04.900	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDUSD,M1: removed
+2	12:55:04.900	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDUSD,M1: removed
+2	12:55:04.918	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURUSD,M1: removed
+2	12:55:04.919	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURUSD,M1: removed
+2	12:55:04.936	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURNZD,M1: removed
+2	12:55:04.936	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURNZD,M1: removed
+2	12:55:04.957	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPNZD,M1: removed
+2	12:55:04.958	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPNZD,M1: removed
+2	12:55:04.976	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS USDJPY,M1: removed
+2	12:55:04.976	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA USDJPY,M1: removed
+2	12:55:04.997	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDCHF,M1: removed
+2	12:55:04.997	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDCHF,M1: removed
+2	12:55:05.015	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPJPY,M1: removed
+2	12:55:05.015	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPJPY,M1: removed
+2	12:55:05.032	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURJPY,M1: removed
+2	12:55:05.032	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURJPY,M1: removed
+2	12:55:05.050	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS CHFJPY,M1: removed
+2	12:55:05.050	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA CHFJPY,M1: removed
+2	12:55:05.070	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDNZD,M1: removed
+2	12:55:05.070	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDNZD,M1: removed
+2	12:55:05.084	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDJPY,M1: removed
+2	12:55:05.084	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDJPY,M1: removed
+2	12:55:05.100	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS CADCHF,M1: removed
+2	12:55:05.100	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA CADCHF,M1: removed
+2	12:55:05.114	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURCAD,M1: removed
+2	12:55:05.114	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURCAD,M1: removed
+2	12:55:05.130	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPCAD,M1: removed
+2	12:55:05.130	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPCAD,M1: removed
+2	12:55:05.144	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDUSD,M1: removed
+2	12:55:05.144	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDUSD,M1: removed
+2	12:55:05.166	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS NZDJPY,M1: removed
+2	12:55:05.166	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA NZDJPY,M1: removed
+2	12:55:05.182	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS GBPAUD,M1: removed
+2	12:55:05.182	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA GBPAUD,M1: removed
+2	12:55:05.198	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS EURGBP,M1: removed
+2	12:55:05.198	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA EURGBP,M1: removed
+2	12:55:05.214	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS CADJPY,M1: removed
+2	12:55:05.215	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA CADJPY,M1: removed
+2	12:55:05.223	Custom indicator INDICADOR GOLD FOX INVESTIMENTOS AUDCAD,M1: removed
+2	12:55:05.223	Custom indicator INDICADOR SUPORTE E RESISTÊNCIA AUDCAD,M1: removed
+2	12:55:05.281	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	12:55:05.371	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	12:55:05.452	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	12:55:05.544	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: loaded successfully
+2	12:55:05.629	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: loaded successfully
+2	12:55:05.722	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: loaded successfully
+2	12:55:05.819	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	12:55:05.915	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	12:55:06.007	Custom indicator $-ForecastCityIntradayIndicator USDCHF,H1: loaded successfully
+2	12:56:22.851	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	12:56:24.984	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: removed
+2	12:56:26.451	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	12:56:28.228	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: removed
+2	12:56:29.637	Custom indicator $-ForecastCityIntradayIndicator USDCHF,H1: removed
+2	12:56:31.101	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: removed
+2	12:56:32.495	Custom indicator $-ForecastCityIntradayIndicator GBPJPY,H1: removed
+2	12:56:34.040	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	12:56:35.547	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: removed
+2	12:56:43.539	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	12:56:43.627	Custom indicator Entry EURUSD,H1: loaded successfully
+2	12:56:43.707	Custom indicator Trend EURUSD,H1: loaded successfully
+2	12:56:43.976	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	12:56:44.076	Custom indicator Entry GBPUSD,H1: loaded successfully
+2	12:56:44.169	Custom indicator Trend GBPUSD,H1: loaded successfully
+2	12:56:44.454	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	12:56:44.467	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	12:56:44.480	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	12:56:44.491	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	12:56:44.505	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	12:56:44.516	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	12:56:44.526	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	12:56:44.536	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	12:56:44.546	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	12:56:44.556	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	12:56:44.568	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	12:56:45.013	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: loaded successfully
+2	12:56:45.120	Custom indicator Entry EURJPY,H1: loaded successfully
+2	12:56:45.216	Custom indicator Trend EURJPY,H1: loaded successfully
+2	12:56:45.541	Custom indicator HeikenAshi_DM GBPJPY,H1: loaded successfully
+2	12:56:45.557	Custom indicator DM_DSR GBPJPY,H1: loaded successfully
+2	12:56:45.570	Custom indicator LJ_SIG GBPJPY,H1: loaded successfully
+2	12:56:45.582	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: loaded successfully
+2	12:56:45.594	Custom indicator ABT 5M 15M\CandleCountdown GBPJPY,H1: loaded successfully
+2	12:56:45.604	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: loaded successfully
+2	12:56:45.617	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: loaded successfully
+2	12:56:45.629	Custom indicator DM_Volatility GBPJPY,H1: loaded successfully
+2	12:56:45.639	Custom indicator DM_RangeFactor GBPJPY,H1: loaded successfully
+2	12:56:45.652	Custom indicator DM_Continuation GBPJPY,H1: loaded successfully
+2	12:56:45.665	Custom indicator Status Monitor V1.2 GBPJPY,H1: loaded successfully
+2	12:56:46.096	Custom indicator HeikenAshi_DM NZDUSD,H1: loaded successfully
+2	12:56:46.109	Custom indicator DM_DSR NZDUSD,H1: loaded successfully
+2	12:56:46.122	Custom indicator LJ_SIG NZDUSD,H1: loaded successfully
+2	12:56:46.135	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: loaded successfully
+2	12:56:46.148	Custom indicator ABT 5M 15M\CandleCountdown NZDUSD,H1: loaded successfully
+2	12:56:46.161	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: loaded successfully
+2	12:56:46.172	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: loaded successfully
+2	12:56:46.185	Custom indicator DM_Volatility NZDUSD,H1: loaded successfully
+2	12:56:46.201	Custom indicator DM_RangeFactor NZDUSD,H1: loaded successfully
+2	12:56:46.213	Custom indicator DM_Continuation NZDUSD,H1: loaded successfully
+2	12:56:46.223	Custom indicator Status Monitor V1.2 NZDUSD,H1: loaded successfully
+2	12:56:46.709	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	12:56:46.822	Custom indicator Entry USDCAD,H1: loaded successfully
+2	12:56:46.913	Custom indicator Trend USDCAD,H1: loaded successfully
+2	12:56:47.221	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	12:56:47.324	Custom indicator Entry USDJPY,H1: loaded successfully
+2	12:56:47.425	Custom indicator Trend USDJPY,H1: loaded successfully
+2	12:56:47.731	Custom indicator HeikenAshi_DM USDCHF,H1: loaded successfully
+2	12:56:47.743	Custom indicator DM_DSR USDCHF,H1: loaded successfully
+2	12:56:47.757	Custom indicator LJ_SIG USDCHF,H1: loaded successfully
+2	12:56:47.769	Custom indicator #MarketPrice _v1_4 USDCHF,H1: loaded successfully
+2	12:56:47.782	Custom indicator ABT 5M 15M\CandleCountdown USDCHF,H1: loaded successfully
+2	12:56:47.794	Custom indicator LJ_SYNERGY_ID USDCHF,H1: loaded successfully
+2	12:56:47.807	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCHF,H1: loaded successfully
+2	12:56:47.819	Custom indicator DM_Volatility USDCHF,H1: loaded successfully
+2	12:56:47.833	Custom indicator DM_RangeFactor USDCHF,H1: loaded successfully
+2	12:56:47.846	Custom indicator DM_Continuation USDCHF,H1: loaded successfully
+2	12:56:47.856	Custom indicator Status Monitor V1.2 USDCHF,H1: loaded successfully
+2	12:56:48.400	Custom indicator HeikenAshi_DM AUDJPY,H1: loaded successfully
+2	12:56:48.414	Custom indicator DM_DSR AUDJPY,H1: loaded successfully
+2	12:56:48.428	Custom indicator LJ_SIG AUDJPY,H1: loaded successfully
+2	12:56:48.441	Custom indicator #MarketPrice _v1_4 AUDJPY,H1: loaded successfully
+2	12:56:48.452	Custom indicator ABT 5M 15M\CandleCountdown AUDJPY,H1: loaded successfully
+2	12:56:48.463	Custom indicator LJ_SYNERGY_ID AUDJPY,H1: loaded successfully
+2	12:56:48.476	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDJPY,H1: loaded successfully
+2	12:56:48.488	Custom indicator DM_Volatility AUDJPY,H1: loaded successfully
+2	12:56:48.504	Custom indicator DM_RangeFactor AUDJPY,H1: loaded successfully
+2	12:56:48.517	Custom indicator DM_Continuation AUDJPY,H1: loaded successfully
+2	12:56:48.531	Custom indicator Status Monitor V1.2 AUDJPY,H1: loaded successfully
+2	12:56:49.010	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: loaded successfully
+2	12:56:49.106	Custom indicator Entry AUDCHF,H1: loaded successfully
+2	12:56:49.202	Custom indicator Trend AUDCHF,H1: loaded successfully
+2	12:56:49.213	Custom indicator MACDcorrect AUDCHF,H1: loaded successfully
+2	12:56:49.554	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	12:56:49.565	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	12:56:49.580	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	12:56:49.591	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	12:56:49.602	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	12:56:49.612	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	12:56:49.629	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	12:56:49.641	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	12:56:49.653	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	12:56:49.664	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	12:56:49.674	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+2	12:56:50.182	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	12:56:50.195	Custom indicator DM_DSR USDCAD,H1: loaded successfully
+2	12:56:50.212	Custom indicator LJ_SIG USDCAD,H1: loaded successfully
+2	12:56:50.228	Custom indicator #MarketPrice _v1_4 USDCAD,H1: loaded successfully
+2	12:56:50.242	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	12:56:50.251	Custom indicator LJ_SYNERGY_ID USDCAD,H1: loaded successfully
+2	12:56:50.266	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: loaded successfully
+2	12:56:50.280	Custom indicator DM_Volatility USDCAD,H1: loaded successfully
+2	12:56:50.292	Custom indicator DM_RangeFactor USDCAD,H1: loaded successfully
+2	12:56:50.302	Custom indicator DM_Continuation USDCAD,H1: loaded successfully
+2	12:56:50.316	Custom indicator Status Monitor V1.2 USDCAD,H1: loaded successfully
+2	12:56:50.836	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,H1: loaded successfully
+2	12:56:50.932	Custom indicator Entry AUDNZD,H1: loaded successfully
+2	12:56:51.030	Custom indicator Trend AUDNZD,H1: loaded successfully
+2	12:56:51.355	Custom indicator HeikenAshi_DM GBPNZD,H1: loaded successfully
+2	12:56:51.372	Custom indicator DM_DSR GBPNZD,H1: loaded successfully
+2	12:56:51.384	Custom indicator LJ_SIG GBPNZD,H1: loaded successfully
+2	12:56:51.396	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: loaded successfully
+2	12:56:51.406	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	12:56:51.416	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: loaded successfully
+2	12:56:51.427	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: loaded successfully
+2	12:56:51.436	Custom indicator DM_Volatility GBPNZD,H1: loaded successfully
+2	12:56:51.446	Custom indicator DM_RangeFactor GBPNZD,H1: loaded successfully
+2	12:56:51.461	Custom indicator DM_Continuation GBPNZD,H1: loaded successfully
+2	12:56:51.476	Custom indicator Status Monitor V1.2 GBPNZD,H1: loaded successfully
+2	12:58:00.107	Custom indicator HeikenAshi_DM GBPNZD,H1: removed
+2	12:58:00.109	Custom indicator DM_DSR GBPNZD,H1: removed
+2	12:58:00.111	Custom indicator LJ_SIG GBPNZD,H1: removed
+2	12:58:00.114	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: removed
+2	12:58:00.117	Custom indicator CandleCountdown GBPNZD,H1: removed
+2	12:58:00.119	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: removed
+2	12:58:00.121	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: removed
+2	12:58:00.123	Custom indicator DM_Volatility GBPNZD,H1: removed
+2	12:58:00.125	Custom indicator DM_RangeFactor GBPNZD,H1: removed
+2	12:58:00.127	Custom indicator DM_Continuation GBPNZD,H1: removed
+2	12:58:00.130	Custom indicator Status Monitor V1.2 GBPNZD,H1: removed
+2	12:58:00.156	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: removed
+2	12:58:00.156	Custom indicator Entry GBPUSD,H1: removed
+2	12:58:00.156	Custom indicator Trend GBPUSD,H1: removed
+2	12:58:00.182	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	12:58:00.182	Custom indicator Entry EURUSD,H1: removed
+2	12:58:00.182	Custom indicator Trend EURUSD,H1: removed
+2	12:58:00.212	Custom indicator HeikenAshi_DM NZDUSD,H1: removed
+2	12:58:00.215	Custom indicator DM_DSR NZDUSD,H1: removed
+2	12:58:00.218	Custom indicator LJ_SIG NZDUSD,H1: removed
+2	12:58:00.220	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: removed
+2	12:58:00.222	Custom indicator CandleCountdown NZDUSD,H1: removed
+2	12:58:00.224	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: removed
+2	12:58:00.226	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: removed
+2	12:58:00.227	Custom indicator DM_Volatility NZDUSD,H1: removed
+2	12:58:00.230	Custom indicator DM_RangeFactor NZDUSD,H1: removed
+2	12:58:00.234	Custom indicator DM_Continuation NZDUSD,H1: removed
+2	12:58:00.236	Custom indicator Status Monitor V1.2 NZDUSD,H1: removed
+2	12:58:00.260	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,H1: removed
+2	12:58:00.260	Custom indicator Entry AUDNZD,H1: removed
+2	12:58:00.260	Custom indicator Trend AUDNZD,H1: removed
+2	12:58:00.287	Custom indicator HeikenAshi_DM USDCAD,H1: removed
+2	12:58:00.290	Custom indicator DM_DSR USDCAD,H1: removed
+2	12:58:00.291	Custom indicator LJ_SIG USDCAD,H1: removed
+2	12:58:00.292	Custom indicator #MarketPrice _v1_4 USDCAD,H1: removed
+2	12:58:00.294	Custom indicator CandleCountdown USDCAD,H1: removed
+2	12:58:00.297	Custom indicator LJ_SYNERGY_ID USDCAD,H1: removed
+2	12:58:00.301	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: removed
+2	12:58:00.304	Custom indicator DM_Volatility USDCAD,H1: removed
+2	12:58:00.306	Custom indicator DM_RangeFactor USDCAD,H1: removed
+2	12:58:00.308	Custom indicator DM_Continuation USDCAD,H1: removed
+2	12:58:00.310	Custom indicator Status Monitor V1.2 USDCAD,H1: removed
+2	12:58:00.338	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	12:58:00.340	Custom indicator DM_DSR GBPAUD,H1: removed
+2	12:58:00.342	Custom indicator LJ_SIG GBPAUD,H1: removed
+2	12:58:00.344	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: removed
+2	12:58:00.348	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	12:58:00.351	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: removed
+2	12:58:00.353	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: removed
+2	12:58:00.355	Custom indicator DM_Volatility GBPAUD,H1: removed
+2	12:58:00.357	Custom indicator DM_RangeFactor GBPAUD,H1: removed
+2	12:58:00.359	Custom indicator DM_Continuation GBPAUD,H1: removed
+2	12:58:00.361	Custom indicator Status Monitor V1.2 GBPAUD,H1: removed
+2	12:58:00.392	Custom indicator HeikenAshi_DM AUDJPY,H1: removed
+2	12:58:00.394	Custom indicator DM_DSR AUDJPY,H1: removed
+2	12:58:00.397	Custom indicator LJ_SIG AUDJPY,H1: removed
+2	12:58:00.400	Custom indicator #MarketPrice _v1_4 AUDJPY,H1: removed
+2	12:58:00.403	Custom indicator CandleCountdown AUDJPY,H1: removed
+2	12:58:00.405	Custom indicator LJ_SYNERGY_ID AUDJPY,H1: removed
+2	12:58:00.407	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDJPY,H1: removed
+2	12:58:00.408	Custom indicator DM_Volatility AUDJPY,H1: removed
+2	12:58:00.410	Custom indicator DM_RangeFactor AUDJPY,H1: removed
+2	12:58:00.413	Custom indicator DM_Continuation AUDJPY,H1: removed
+2	12:58:00.415	Custom indicator Status Monitor V1.2 AUDJPY,H1: removed
+2	12:58:00.437	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: removed
+2	12:58:00.437	Custom indicator Entry AUDCHF,H1: removed
+2	12:58:00.437	Custom indicator Trend AUDCHF,H1: removed
+2	12:58:00.439	Custom indicator MACDcorrect AUDCHF,H1: removed
+2	12:58:00.459	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	12:58:00.461	Custom indicator DM_DSR AUDUSD,H1: removed
+2	12:58:00.463	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	12:58:00.465	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	12:58:00.467	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	12:58:00.468	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	12:58:00.470	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	12:58:00.472	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	12:58:00.474	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	12:58:00.476	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	12:58:00.478	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	12:58:00.503	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: removed
+2	12:58:00.503	Custom indicator Entry EURJPY,H1: removed
+2	12:58:00.504	Custom indicator Trend EURJPY,H1: removed
+2	12:58:00.537	Custom indicator HeikenAshi_DM USDCHF,H1: removed
+2	12:58:00.539	Custom indicator DM_DSR USDCHF,H1: removed
+2	12:58:00.541	Custom indicator LJ_SIG USDCHF,H1: removed
+2	12:58:00.543	Custom indicator #MarketPrice _v1_4 USDCHF,H1: removed
+2	12:58:00.547	Custom indicator CandleCountdown USDCHF,H1: removed
+2	12:58:00.550	Custom indicator LJ_SYNERGY_ID USDCHF,H1: removed
+2	12:58:00.552	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCHF,H1: removed
+2	12:58:00.553	Custom indicator DM_Volatility USDCHF,H1: removed
+2	12:58:00.555	Custom indicator DM_RangeFactor USDCHF,H1: removed
+2	12:58:00.557	Custom indicator DM_Continuation USDCHF,H1: removed
+2	12:58:00.559	Custom indicator Status Monitor V1.2 USDCHF,H1: removed
+2	12:58:00.579	Custom indicator HeikenAshi_DM GBPJPY,H1: removed
+2	12:58:00.583	Custom indicator DM_DSR GBPJPY,H1: removed
+2	12:58:00.585	Custom indicator LJ_SIG GBPJPY,H1: removed
+2	12:58:00.587	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: removed
+2	12:58:00.589	Custom indicator CandleCountdown GBPJPY,H1: removed
+2	12:58:00.591	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: removed
+2	12:58:00.593	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: removed
+2	12:58:00.594	Custom indicator DM_Volatility GBPJPY,H1: removed
+2	12:58:00.597	Custom indicator DM_RangeFactor GBPJPY,H1: removed
+2	12:58:00.599	Custom indicator DM_Continuation GBPJPY,H1: removed
+2	12:58:00.601	Custom indicator Status Monitor V1.2 GBPJPY,H1: removed
+2	12:58:00.619	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: removed
+2	12:58:00.619	Custom indicator Entry USDJPY,H1: removed
+2	12:58:00.619	Custom indicator Trend USDJPY,H1: removed
+2	12:58:00.632	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: removed
+2	12:58:00.632	Custom indicator Entry USDCAD,H1: removed
+2	12:58:00.632	Custom indicator Trend USDCAD,H1: removed
+2	12:58:14.794	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: loaded successfully
+2	12:58:14.870	Custom indicator Entry GBPNZD,H1: loaded successfully
+2	12:58:14.946	Custom indicator Trend GBPNZD,H1: loaded successfully
+2	12:58:37.822	Custom indicator $-ForecastCityIntradayIndicator GBPNZD,H1: removed
+2	12:58:37.822	Custom indicator Entry GBPNZD,H1: removed
+2	12:58:37.822	Custom indicator Trend GBPNZD,H1: removed
+2	12:58:37.844	Custom indicator HeikenAshi_DM GBPNZD,H1: loaded successfully
+2	12:58:37.855	Custom indicator DM_DSR GBPNZD,H1: loaded successfully
+2	12:58:37.865	Custom indicator LJ_SIG GBPNZD,H1: loaded successfully
+2	12:58:37.879	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: loaded successfully
+2	12:58:37.894	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	12:58:37.906	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: loaded successfully
+2	12:58:37.917	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: loaded successfully
+2	12:58:37.926	Custom indicator DM_Volatility GBPNZD,H1: loaded successfully
+2	12:58:37.938	Custom indicator DM_RangeFactor GBPNZD,H1: loaded successfully
+2	12:58:37.948	Custom indicator DM_Continuation GBPNZD,H1: loaded successfully
+2	12:58:37.958	Custom indicator Status Monitor V1.2 GBPNZD,H1: loaded successfully
+2	13:05:45.543	Custom indicator HeikenAshi_DM GBPNZD,M15: removed
+2	13:05:45.544	Custom indicator DM_DSR GBPNZD,M15: removed
+2	13:05:45.547	Custom indicator LJ_SIG GBPNZD,M15: removed
+2	13:05:45.552	Custom indicator #MarketPrice _v1_4 GBPNZD,M15: removed
+2	13:05:45.554	Custom indicator CandleCountdown GBPNZD,M15: removed
+2	13:05:45.556	Custom indicator LJ_SYNERGY_ID GBPNZD,M15: removed
+2	13:05:45.558	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,M15: removed
+2	13:05:45.560	Custom indicator DM_Volatility GBPNZD,M15: removed
+2	13:05:45.562	Custom indicator DM_RangeFactor GBPNZD,M15: removed
+2	13:05:45.567	Custom indicator DM_Continuation GBPNZD,M15: removed
+2	13:05:45.570	Custom indicator Status Monitor V1.2 GBPNZD,M15: removed
+2	13:05:45.603	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: loaded successfully
+2	13:05:45.722	Custom indicator Entry EURUSD,H1: loaded successfully
+2	13:05:45.829	Custom indicator Trend EURUSD,H1: loaded successfully
+2	13:05:46.210	Custom indicator $-ForecastCityIntradayIndicator GBPUSD,H1: loaded successfully
+2	13:05:46.366	Custom indicator Entry GBPUSD,H1: loaded successfully
+2	13:05:46.487	Custom indicator Trend GBPUSD,H1: loaded successfully
+2	13:05:46.835	Custom indicator HeikenAshi_DM AUDUSD,H1: loaded successfully
+2	13:05:46.849	Custom indicator DM_DSR AUDUSD,H1: loaded successfully
+2	13:05:46.865	Custom indicator LJ_SIG AUDUSD,H1: loaded successfully
+2	13:05:46.882	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: loaded successfully
+2	13:05:46.894	Custom indicator ABT 5M 15M\CandleCountdown AUDUSD,H1: loaded successfully
+2	13:05:46.906	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: loaded successfully
+2	13:05:46.918	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: loaded successfully
+2	13:05:46.933	Custom indicator DM_Volatility AUDUSD,H1: loaded successfully
+2	13:05:46.949	Custom indicator DM_RangeFactor AUDUSD,H1: loaded successfully
+2	13:05:46.961	Custom indicator DM_Continuation AUDUSD,H1: loaded successfully
+2	13:05:46.975	Custom indicator Status Monitor V1.2 AUDUSD,H1: loaded successfully
+2	13:05:47.674	Custom indicator $-ForecastCityIntradayIndicator EURJPY,H1: loaded successfully
+2	13:05:47.815	Custom indicator Entry EURJPY,H1: loaded successfully
+2	13:05:47.935	Custom indicator Trend EURJPY,H1: loaded successfully
+2	13:05:48.414	Custom indicator HeikenAshi_DM GBPJPY,H1: loaded successfully
+2	13:05:48.431	Custom indicator DM_DSR GBPJPY,H1: loaded successfully
+2	13:05:48.450	Custom indicator LJ_SIG GBPJPY,H1: loaded successfully
+2	13:05:48.468	Custom indicator #MarketPrice _v1_4 GBPJPY,H1: loaded successfully
+2	13:05:48.484	Custom indicator ABT 5M 15M\CandleCountdown GBPJPY,H1: loaded successfully
+2	13:05:48.498	Custom indicator LJ_SYNERGY_ID GBPJPY,H1: loaded successfully
+2	13:05:48.515	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPJPY,H1: loaded successfully
+2	13:05:48.530	Custom indicator DM_Volatility GBPJPY,H1: loaded successfully
+2	13:05:48.555	Custom indicator DM_RangeFactor GBPJPY,H1: loaded successfully
+2	13:05:48.572	Custom indicator DM_Continuation GBPJPY,H1: loaded successfully
+2	13:05:48.585	Custom indicator Status Monitor V1.2 GBPJPY,H1: loaded successfully
+2	13:05:49.101	Custom indicator HeikenAshi_DM NZDUSD,H1: loaded successfully
+2	13:05:49.122	Custom indicator DM_DSR NZDUSD,H1: loaded successfully
+2	13:05:49.142	Custom indicator LJ_SIG NZDUSD,H1: loaded successfully
+2	13:05:49.158	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: loaded successfully
+2	13:05:49.174	Custom indicator ABT 5M 15M\CandleCountdown NZDUSD,H1: loaded successfully
+2	13:05:49.193	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: loaded successfully
+2	13:05:49.214	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: loaded successfully
+2	13:05:49.231	Custom indicator DM_Volatility NZDUSD,H1: loaded successfully
+2	13:05:49.247	Custom indicator DM_RangeFactor NZDUSD,H1: loaded successfully
+2	13:05:49.261	Custom indicator DM_Continuation NZDUSD,H1: loaded successfully
+2	13:05:49.279	Custom indicator Status Monitor V1.2 NZDUSD,H1: loaded successfully
+2	13:05:49.892	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	13:05:49.996	Custom indicator Entry USDCAD,H1: loaded successfully
+2	13:05:50.157	Custom indicator Trend USDCAD,H1: loaded successfully
+2	13:05:50.590	Custom indicator $-ForecastCityIntradayIndicator USDJPY,H1: loaded successfully
+2	13:05:50.711	Custom indicator Entry USDJPY,H1: loaded successfully
+2	13:05:50.833	Custom indicator Trend USDJPY,H1: loaded successfully
+2	13:05:51.275	Custom indicator HeikenAshi_DM USDCHF,H1: loaded successfully
+2	13:05:51.294	Custom indicator DM_DSR USDCHF,H1: loaded successfully
+2	13:05:51.314	Custom indicator LJ_SIG USDCHF,H1: loaded successfully
+2	13:05:51.337	Custom indicator #MarketPrice _v1_4 USDCHF,H1: loaded successfully
+2	13:05:51.357	Custom indicator ABT 5M 15M\CandleCountdown USDCHF,H1: loaded successfully
+2	13:05:51.378	Custom indicator LJ_SYNERGY_ID USDCHF,H1: loaded successfully
+2	13:05:51.397	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCHF,H1: loaded successfully
+2	13:05:51.417	Custom indicator DM_Volatility USDCHF,H1: loaded successfully
+2	13:05:51.432	Custom indicator DM_RangeFactor USDCHF,H1: loaded successfully
+2	13:05:51.445	Custom indicator DM_Continuation USDCHF,H1: loaded successfully
+2	13:05:51.471	Custom indicator Status Monitor V1.2 USDCHF,H1: loaded successfully
+2	13:05:52.164	Custom indicator HeikenAshi_DM AUDJPY,H1: loaded successfully
+2	13:05:52.182	Custom indicator DM_DSR AUDJPY,H1: loaded successfully
+2	13:05:52.200	Custom indicator LJ_SIG AUDJPY,H1: loaded successfully
+2	13:05:52.213	Custom indicator #MarketPrice _v1_4 AUDJPY,H1: loaded successfully
+2	13:05:52.226	Custom indicator ABT 5M 15M\CandleCountdown AUDJPY,H1: loaded successfully
+2	13:05:52.241	Custom indicator LJ_SYNERGY_ID AUDJPY,H1: loaded successfully
+2	13:05:52.266	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDJPY,H1: loaded successfully
+2	13:05:52.284	Custom indicator DM_Volatility AUDJPY,H1: loaded successfully
+2	13:05:52.306	Custom indicator DM_RangeFactor AUDJPY,H1: loaded successfully
+2	13:05:52.321	Custom indicator DM_Continuation AUDJPY,H1: loaded successfully
+2	13:05:52.345	Custom indicator Status Monitor V1.2 AUDJPY,H1: loaded successfully
+2	13:05:52.957	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: loaded successfully
+2	13:05:53.110	Custom indicator Entry AUDCHF,H1: loaded successfully
+2	13:05:53.245	Custom indicator Trend AUDCHF,H1: loaded successfully
+2	13:05:53.259	Custom indicator MACDcorrect AUDCHF,H1: loaded successfully
+2	13:05:53.677	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:05:53.702	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	13:05:53.718	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	13:05:53.733	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	13:05:53.753	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:05:53.772	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	13:05:53.795	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	13:05:53.812	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	13:05:53.826	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	13:05:53.840	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	13:05:53.855	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+2	13:05:54.595	Custom indicator HeikenAshi_DM USDCAD,H1: loaded successfully
+2	13:05:54.610	Custom indicator DM_DSR USDCAD,H1: loaded successfully
+2	13:05:54.624	Custom indicator LJ_SIG USDCAD,H1: loaded successfully
+2	13:05:54.638	Custom indicator #MarketPrice _v1_4 USDCAD,H1: loaded successfully
+2	13:05:54.653	Custom indicator ABT 5M 15M\CandleCountdown USDCAD,H1: loaded successfully
+2	13:05:54.669	Custom indicator LJ_SYNERGY_ID USDCAD,H1: loaded successfully
+2	13:05:54.687	Custom indicator Traders Dynamic Index VISUAL ALERTS USDCAD,H1: loaded successfully
+2	13:05:54.702	Custom indicator DM_Volatility USDCAD,H1: loaded successfully
+2	13:05:54.718	Custom indicator DM_RangeFactor USDCAD,H1: loaded successfully
+2	13:05:54.734	Custom indicator DM_Continuation USDCAD,H1: loaded successfully
+2	13:05:54.750	Custom indicator Status Monitor V1.2 USDCAD,H1: loaded successfully
+2	13:05:55.486	Custom indicator $-ForecastCityIntradayIndicator AUDNZD,H1: loaded successfully
+2	13:05:55.620	Custom indicator Entry AUDNZD,H1: loaded successfully
+2	13:05:55.750	Custom indicator Trend AUDNZD,H1: loaded successfully
+2	13:05:56.177	Custom indicator HeikenAshi_DM GBPNZD,H1: loaded successfully
+2	13:05:56.193	Custom indicator DM_DSR GBPNZD,H1: loaded successfully
+2	13:05:56.217	Custom indicator LJ_SIG GBPNZD,H1: loaded successfully
+2	13:05:56.241	Custom indicator #MarketPrice _v1_4 GBPNZD,H1: loaded successfully
+2	13:05:56.260	Custom indicator ABT 5M 15M\CandleCountdown GBPNZD,H1: loaded successfully
+2	13:05:56.279	Custom indicator LJ_SYNERGY_ID GBPNZD,H1: loaded successfully
+2	13:05:56.302	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPNZD,H1: loaded successfully
+2	13:05:56.316	Custom indicator DM_Volatility GBPNZD,H1: loaded successfully
+2	13:05:56.337	Custom indicator DM_RangeFactor GBPNZD,H1: loaded successfully
+2	13:05:56.352	Custom indicator DM_Continuation GBPNZD,H1: loaded successfully
+2	13:05:56.374	Custom indicator Status Monitor V1.2 GBPNZD,H1: loaded successfully
+2	13:07:34.362	Custom indicator HeikenAshi_DM NZDUSD,H1: removed
+2	13:07:34.365	Custom indicator DM_DSR NZDUSD,H1: removed
+2	13:07:34.368	Custom indicator LJ_SIG NZDUSD,H1: removed
+2	13:07:34.373	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: removed
+2	13:07:34.377	Custom indicator CandleCountdown NZDUSD,H1: removed
+2	13:07:34.381	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: removed
+2	13:07:34.383	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: removed
+2	13:07:34.386	Custom indicator DM_Volatility NZDUSD,H1: removed
+2	13:07:34.389	Custom indicator DM_RangeFactor NZDUSD,H1: removed
+2	13:07:34.392	Custom indicator DM_Continuation NZDUSD,H1: removed
+2	13:07:34.396	Custom indicator Status Monitor V1.2 NZDUSD,H1: removed
+2	13:07:34.420	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: loaded successfully
+2	13:07:34.582	Custom indicator Entry NZDUSD,H1: loaded successfully
+2	13:07:34.727	Custom indicator Trend NZDUSD,H1: loaded successfully
+0	13:08:52.573	'27123197': order sell market 0.10 NZDUSD sl: 0.61840 tp: 0.59420
+0	13:08:53.073	'27123197': order was opened : #66375751 sell 0.10 NZDUSD at 0.61012 sl: 0.61840 tp: 0.59420
+2	13:12:00.516	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: removed
+2	13:12:00.516	Custom indicator Entry NZDUSD,H1: removed
+2	13:12:00.516	Custom indicator Trend NZDUSD,H1: removed
+2	13:12:00.530	Custom indicator HeikenAshi_DM NZDUSD,H1: loaded successfully
+2	13:12:00.543	Custom indicator DM_DSR NZDUSD,H1: loaded successfully
+2	13:12:00.556	Custom indicator LJ_SIG NZDUSD,H1: loaded successfully
+2	13:12:00.570	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: loaded successfully
+2	13:12:00.583	Custom indicator ABT 5M 15M\CandleCountdown NZDUSD,H1: loaded successfully
+2	13:12:00.595	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: loaded successfully
+2	13:12:00.608	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: loaded successfully
+2	13:12:00.618	Custom indicator DM_Volatility NZDUSD,H1: loaded successfully
+2	13:12:00.630	Custom indicator DM_RangeFactor NZDUSD,H1: loaded successfully
+2	13:12:00.642	Custom indicator DM_Continuation NZDUSD,H1: loaded successfully
+2	13:12:00.656	Custom indicator Status Monitor V1.2 NZDUSD,H1: loaded successfully
+2	13:16:33.425	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	13:16:33.427	Custom indicator DM_DSR GBPAUD,H1: removed
+2	13:16:33.428	Custom indicator LJ_SIG GBPAUD,H1: removed
+2	13:16:33.432	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: removed
+2	13:16:33.436	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	13:16:33.438	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: removed
+2	13:16:33.440	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: removed
+2	13:16:33.442	Custom indicator DM_Volatility GBPAUD,H1: removed
+2	13:16:33.444	Custom indicator DM_RangeFactor GBPAUD,H1: removed
+2	13:16:33.445	Custom indicator DM_Continuation GBPAUD,H1: removed
+2	13:16:33.449	Custom indicator Status Monitor V1.2 GBPAUD,H1: removed
+2	13:16:33.471	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:16:33.484	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	13:16:33.494	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:16:33.507	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	13:16:33.520	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	13:17:00.427	Custom indicator SynergyInd GBPAUD,H1: removed
+2	13:17:22.254	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	13:17:22.255	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	13:17:22.258	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	13:17:22.261	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	13:17:22.280	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:17:22.291	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	13:17:22.302	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:17:22.311	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	13:17:22.320	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	13:18:22.886	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	13:19:39.376	Custom indicator SynergyInd GBPAUD,H1: removed
+2	13:19:39.378	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	13:19:39.381	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	13:19:39.384	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	13:19:39.403	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:19:39.414	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	13:19:39.422	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:19:39.435	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	13:19:39.445	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	13:24:52.534	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	13:24:52.536	Custom indicator SynergyInd GBPAUD,H1: removed
+2	13:24:52.540	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	13:24:52.542	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	13:24:52.544	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	13:24:52.565	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:24:52.577	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	13:24:52.588	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:24:52.599	Custom indicator Traders_Dynamic_Index GBPAUD,H1: loaded successfully
+2	13:24:52.610	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: loaded successfully
+2	13:25:11.235	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	13:28:36.470	Custom indicator SynergyInd GBPAUD,H1: removed
+2	13:28:36.472	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	13:28:36.474	Custom indicator Traders_Dynamic_Index GBPAUD,H1: removed
+2	13:28:36.476	Custom indicator Chaikin's Volatility_Kalenzo GBPAUD,H1: removed
+2	13:28:36.486	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:28:36.496	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	13:28:36.507	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	13:28:36.520	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	13:28:36.531	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:28:36.540	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	13:28:36.550	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	13:28:36.560	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	13:28:36.570	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	13:28:36.579	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	13:28:36.589	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+2	13:28:44.345	Custom indicator SynergyInd GBPAUD,H1: loaded successfully
+2	13:29:34.098	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	13:29:34.099	Custom indicator DM_DSR GBPAUD,H1: removed
+2	13:29:34.100	Custom indicator LJ_SIG GBPAUD,H1: removed
+2	13:29:34.102	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: removed
+2	13:29:34.103	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	13:29:34.106	Custom indicator SynergyInd GBPAUD,H1: removed
+2	13:29:34.108	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: removed
+2	13:29:34.110	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: removed
+2	13:29:34.111	Custom indicator DM_Volatility GBPAUD,H1: removed
+2	13:29:34.113	Custom indicator DM_RangeFactor GBPAUD,H1: removed
+2	13:29:34.114	Custom indicator DM_Continuation GBPAUD,H1: removed
+2	13:29:34.116	Custom indicator Status Monitor V1.2 GBPAUD,H1: removed
+2	13:29:34.127	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	13:29:34.135	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	13:29:34.146	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	13:29:34.155	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	13:29:34.165	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	13:29:34.175	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	13:29:34.184	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	13:29:34.194	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	13:29:34.203	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	13:29:34.213	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	13:29:34.223	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+2	13:31:51.406	Custom indicator $-ForecastCityIntradayIndicator EURUSD,H1: removed
+2	13:31:51.407	Custom indicator Entry EURUSD,H1: removed
+2	13:31:51.407	Custom indicator Trend EURUSD,H1: removed
+2	13:31:51.417	Custom indicator HeikenAshi_DM EURUSD,H1: loaded successfully
+2	13:31:51.425	Custom indicator DM_DSR EURUSD,H1: loaded successfully
+2	13:31:51.433	Custom indicator LJ_SIG EURUSD,H1: loaded successfully
+2	13:31:51.441	Custom indicator #MarketPrice _v1_4 EURUSD,H1: loaded successfully
+2	13:31:51.450	Custom indicator ABT 5M 15M\CandleCountdown EURUSD,H1: loaded successfully
+2	13:31:51.457	Custom indicator LJ_SYNERGY_ID EURUSD,H1: loaded successfully
+2	13:31:51.467	Custom indicator Traders Dynamic Index VISUAL ALERTS EURUSD,H1: loaded successfully
+2	13:31:51.474	Custom indicator DM_Volatility EURUSD,H1: loaded successfully
+2	13:31:51.482	Custom indicator DM_RangeFactor EURUSD,H1: loaded successfully
+2	13:31:51.489	Custom indicator DM_Continuation EURUSD,H1: loaded successfully
+2	13:31:51.496	Custom indicator Status Monitor V1.2 EURUSD,H1: loaded successfully
+1	13:35:59.746	'27123197': ping failed
+1	13:35:59.749	'27123197': datacenter connecting failed [6]
+1	13:35:59.823	'27123197': connect failed [Connection échouée]
+0	15:01:15.604	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	15:01:21.759	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	15:01:23.209	'27123197': previous successful authorization performed from 154.126.9.88
+0	15:01:39.627	'27123197': auto connecting to a better access point Access Point #6 (ping is 248.80 ms)
+0	15:01:40.586	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 248.80 ms)
+0	15:01:42.938	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 248.80 ms)
+0	15:01:43.587	'27123197': previous successful authorization performed from 154.126.9.58
+2	15:06:00.399	Custom indicator HeikenAshi_DM EURUSD,M5: removed
+2	15:06:00.400	Custom indicator DM_DSR EURUSD,M5: removed
+2	15:06:00.402	Custom indicator LJ_SIG EURUSD,M5: removed
+2	15:06:00.404	Custom indicator #MarketPrice _v1_4 EURUSD,M5: removed
+2	15:06:00.407	Custom indicator CandleCountdown EURUSD,M5: removed
+2	15:06:00.409	Custom indicator LJ_SYNERGY_ID EURUSD,M5: removed
+2	15:06:00.411	Custom indicator Traders Dynamic Index VISUAL ALERTS EURUSD,M5: removed
+2	15:06:00.412	Custom indicator DM_Volatility EURUSD,M5: removed
+2	15:06:00.414	Custom indicator DM_RangeFactor EURUSD,M5: removed
+2	15:06:00.415	Custom indicator DM_Continuation EURUSD,M5: removed
+2	15:06:00.416	Custom indicator Status Monitor V1.2 EURUSD,M5: removed
+2	15:06:00.430	Custom indicator $-ForecastCityIntradayIndicator EURUSD,M5: loaded successfully
+2	15:06:00.506	Custom indicator Entry EURUSD,M5: loaded successfully
+2	15:06:00.575	Custom indicator Trend EURUSD,M5: loaded successfully
+2	15:06:36.230	Custom indicator HeikenAshi_DM AUDUSD,H1: removed
+2	15:06:36.231	Custom indicator DM_DSR AUDUSD,H1: removed
+2	15:06:36.233	Custom indicator LJ_SIG AUDUSD,H1: removed
+2	15:06:36.234	Custom indicator #MarketPrice _v1_4 AUDUSD,H1: removed
+2	15:06:36.236	Custom indicator CandleCountdown AUDUSD,H1: removed
+2	15:06:36.237	Custom indicator LJ_SYNERGY_ID AUDUSD,H1: removed
+2	15:06:36.238	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDUSD,H1: removed
+2	15:06:36.240	Custom indicator DM_Volatility AUDUSD,H1: removed
+2	15:06:36.243	Custom indicator DM_RangeFactor AUDUSD,H1: removed
+2	15:06:36.244	Custom indicator DM_Continuation AUDUSD,H1: removed
+2	15:06:36.246	Custom indicator Status Monitor V1.2 AUDUSD,H1: removed
+2	15:06:36.258	Custom indicator $-ForecastCityIntradayIndicator AUDUSD,H1: loaded successfully
+2	15:06:36.325	Custom indicator Entry AUDUSD,H1: loaded successfully
+2	15:06:36.390	Custom indicator Trend AUDUSD,H1: loaded successfully
+2	15:07:38.296	Custom indicator $-ForecastCityIntradayIndicator AUDJPY,H1: loaded successfully
+2	15:07:38.366	Custom indicator Entry AUDJPY,H1: loaded successfully
+2	15:07:38.432	Custom indicator Trend AUDJPY,H1: loaded successfully
+2	15:07:56.038	Custom indicator $-ForecastCityIntradayIndicator AUDJPY,H1: removed
+2	15:07:56.038	Custom indicator Entry AUDJPY,H1: removed
+2	15:07:56.038	Custom indicator Trend AUDJPY,H1: removed
+2	15:07:56.052	Custom indicator HeikenAshi_DM AUDJPY,H1: loaded successfully
+2	15:07:56.064	Custom indicator DM_DSR AUDJPY,H1: loaded successfully
+2	15:07:56.073	Custom indicator LJ_SIG AUDJPY,H1: loaded successfully
+2	15:07:56.083	Custom indicator #MarketPrice _v1_4 AUDJPY,H1: loaded successfully
+2	15:07:56.095	Custom indicator ABT 5M 15M\CandleCountdown AUDJPY,H1: loaded successfully
+2	15:07:56.103	Custom indicator LJ_SYNERGY_ID AUDJPY,H1: loaded successfully
+2	15:07:56.113	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDJPY,H1: loaded successfully
+2	15:07:56.121	Custom indicator DM_Volatility AUDJPY,H1: loaded successfully
+2	15:07:56.129	Custom indicator DM_RangeFactor AUDJPY,H1: loaded successfully
+2	15:07:56.138	Custom indicator DM_Continuation AUDJPY,H1: loaded successfully
+2	15:07:56.147	Custom indicator Status Monitor V1.2 AUDJPY,H1: loaded successfully
+2	15:08:22.145	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: loaded successfully
+2	15:08:22.215	Custom indicator Entry AUDCHF,H1: loaded successfully
+2	15:08:22.282	Custom indicator Trend AUDCHF,H1: loaded successfully
+2	15:08:32.425	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,H1: removed
+2	15:08:32.425	Custom indicator Entry AUDCHF,H1: removed
+2	15:08:32.425	Custom indicator Trend AUDCHF,H1: removed
+2	15:08:32.439	Custom indicator HeikenAshi_DM AUDCHF,H1: loaded successfully
+2	15:08:32.454	Custom indicator DM_DSR AUDCHF,H1: loaded successfully
+2	15:08:32.463	Custom indicator LJ_SIG AUDCHF,H1: loaded successfully
+2	15:08:32.476	Custom indicator #MarketPrice _v1_4 AUDCHF,H1: loaded successfully
+2	15:08:32.486	Custom indicator ABT 5M 15M\CandleCountdown AUDCHF,H1: loaded successfully
+2	15:08:32.495	Custom indicator LJ_SYNERGY_ID AUDCHF,H1: loaded successfully
+2	15:08:32.505	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDCHF,H1: loaded successfully
+2	15:08:32.514	Custom indicator DM_Volatility AUDCHF,H1: loaded successfully
+2	15:08:32.523	Custom indicator DM_RangeFactor AUDCHF,H1: loaded successfully
+2	15:08:32.533	Custom indicator DM_Continuation AUDCHF,H1: loaded successfully
+2	15:08:32.552	Custom indicator Status Monitor V1.2 AUDCHF,H1: loaded successfully
+2	15:10:38.387	Custom indicator HeikenAshi_DM AUDCHF,M15: removed
+2	15:10:38.389	Custom indicator DM_DSR AUDCHF,M15: removed
+2	15:10:38.390	Custom indicator LJ_SIG AUDCHF,M15: removed
+2	15:10:38.392	Custom indicator #MarketPrice _v1_4 AUDCHF,M15: removed
+2	15:10:38.394	Custom indicator CandleCountdown AUDCHF,M15: removed
+2	15:10:38.396	Custom indicator LJ_SYNERGY_ID AUDCHF,M15: removed
+2	15:10:38.398	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDCHF,M15: removed
+2	15:10:38.401	Custom indicator DM_Volatility AUDCHF,M15: removed
+2	15:10:38.402	Custom indicator DM_RangeFactor AUDCHF,M15: removed
+2	15:10:38.403	Custom indicator DM_Continuation AUDCHF,M15: removed
+2	15:10:38.405	Custom indicator Status Monitor V1.2 AUDCHF,M15: removed
+2	15:10:38.420	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,M15: loaded successfully
+2	15:10:38.487	Custom indicator Entry AUDCHF,M15: loaded successfully
+2	15:10:38.557	Custom indicator Trend AUDCHF,M15: loaded successfully
+2	15:10:55.266	Custom indicator $-ForecastCityIntradayIndicator AUDCHF,M15: removed
+2	15:10:55.266	Custom indicator Entry AUDCHF,M15: removed
+2	15:10:55.266	Custom indicator Trend AUDCHF,M15: removed
+2	15:10:55.274	Custom indicator HeikenAshi_DM AUDCHF,M15: loaded successfully
+2	15:10:55.284	Custom indicator DM_DSR AUDCHF,M15: loaded successfully
+2	15:10:55.292	Custom indicator LJ_SIG AUDCHF,M15: loaded successfully
+2	15:10:55.301	Custom indicator #MarketPrice _v1_4 AUDCHF,M15: loaded successfully
+2	15:10:55.311	Custom indicator ABT 5M 15M\CandleCountdown AUDCHF,M15: loaded successfully
+2	15:10:55.319	Custom indicator LJ_SYNERGY_ID AUDCHF,M15: loaded successfully
+2	15:10:55.327	Custom indicator Traders Dynamic Index VISUAL ALERTS AUDCHF,M15: loaded successfully
+2	15:10:55.335	Custom indicator DM_Volatility AUDCHF,M15: loaded successfully
+2	15:10:55.344	Custom indicator DM_RangeFactor AUDCHF,M15: loaded successfully
+2	15:10:55.351	Custom indicator DM_Continuation AUDCHF,M15: loaded successfully
+2	15:10:55.360	Custom indicator Status Monitor V1.2 AUDCHF,M15: loaded successfully
+1	15:13:00.534	'27123197': connect failed [Connection échouée]
+0	16:03:19.121	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 248.80 ms)
+0	16:03:44.368	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 248.80 ms)
+0	16:03:45.663	'27123197': previous successful authorization performed from 154.126.9.139
+0	16:05:20.855	'27123197': auto connecting to a better access point Access Point #4 (ping is 211.00 ms)
+1	16:05:41.924	'27123197': connect failed [Connection échouée]
+0	16:07:31.986	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 211.00 ms)
+0	16:07:39.835	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 211.00 ms)
+0	16:07:43.950	'27123197': previous successful authorization performed from 197.149.29.81
+1	16:10:03.859	'27123197': datacenter connecting failed [6]
+0	16:10:28.845	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	16:11:59.233	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	16:12:36.114	HistoryCenter: synchronize 'NZDUSD60'
+2	16:12:46.974	Custom indicator HeikenAshi_DM NZDUSD,H1: removed
+2	16:12:46.978	Custom indicator DM_DSR NZDUSD,H1: removed
+2	16:12:46.979	Custom indicator LJ_SIG NZDUSD,H1: removed
+2	16:12:46.981	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: removed
+2	16:12:46.983	Custom indicator CandleCountdown NZDUSD,H1: removed
+2	16:12:46.985	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: removed
+2	16:12:46.988	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: removed
+2	16:12:46.990	Custom indicator DM_Volatility NZDUSD,H1: removed
+2	16:12:46.993	Custom indicator DM_RangeFactor NZDUSD,H1: removed
+2	16:12:46.994	Custom indicator DM_Continuation NZDUSD,H1: removed
+2	16:12:46.996	Custom indicator Status Monitor V1.2 NZDUSD,H1: removed
+2	16:12:47.019	Custom indicator HeikenAshi_DM NZDUSD,H1: loaded successfully
+2	16:12:47.030	Custom indicator DM_DSR NZDUSD,H1: loaded successfully
+2	16:12:47.041	Custom indicator LJ_SIG NZDUSD,H1: loaded successfully
+2	16:12:47.052	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: loaded successfully
+2	16:12:47.064	Custom indicator ABT 5M 15M\CandleCountdown NZDUSD,H1: loaded successfully
+2	16:12:47.074	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: loaded successfully
+2	16:12:47.085	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: loaded successfully
+2	16:12:47.096	Custom indicator DM_Volatility NZDUSD,H1: loaded successfully
+2	16:12:47.105	Custom indicator DM_RangeFactor NZDUSD,H1: loaded successfully
+2	16:12:47.114	Custom indicator DM_Continuation NZDUSD,H1: loaded successfully
+2	16:12:47.123	Custom indicator Status Monitor V1.2 NZDUSD,H1: loaded successfully
+2	16:12:52.138	Custom indicator HeikenAshi_DM NZDUSD,H1: removed
+2	16:12:52.140	Custom indicator DM_DSR NZDUSD,H1: removed
+2	16:12:52.142	Custom indicator LJ_SIG NZDUSD,H1: removed
+2	16:12:52.144	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: removed
+2	16:12:52.145	Custom indicator CandleCountdown NZDUSD,H1: removed
+2	16:12:52.146	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: removed
+2	16:12:52.148	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: removed
+2	16:12:52.149	Custom indicator DM_Volatility NZDUSD,H1: removed
+2	16:12:52.150	Custom indicator DM_RangeFactor NZDUSD,H1: removed
+2	16:12:52.152	Custom indicator DM_Continuation NZDUSD,H1: removed
+2	16:12:52.154	Custom indicator Status Monitor V1.2 NZDUSD,H1: removed
+2	16:12:52.172	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: loaded successfully
+2	16:12:52.243	Custom indicator Entry NZDUSD,H1: loaded successfully
+2	16:12:52.306	Custom indicator Trend NZDUSD,H1: loaded successfully
+0	16:13:19.970	'27123197': login datacenter on AdmiralMarkets-Live
+0	16:13:34.024	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: n/a)
+0	16:14:32.763	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: n/a)
+0	16:15:02.813	'27123197': previous successful authorization performed from 197.149.29.81
+0	16:15:03.875	HistoryCenter: 2670 bars imported in 'NZDUSD60'
+0	16:15:52.699	'27123197': ping to current access point Access Point #2 is 465.24 ms
+1	16:19:26.865	'27123197': datacenter connecting failed [6]
+0	16:19:50.051	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 251.80 ms)
+0	16:20:18.184	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 251.80 ms)
+0	16:20:33.919	'27123197': previous successful authorization performed from 197.149.29.81
+0	16:22:07.744	'27123197': login datacenter on AdmiralMarkets-Live
+0	16:22:11.946	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 262.87 ms)
+1	16:23:33.860	'27123197': datacenter connecting failed [6]
+0	16:24:23.236	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 2599.61 ms)
+0	16:24:33.861	'27123197': ping to current access point Access Point #8 is 901.30 ms
+1	16:25:44.863	'27123197': datacenter connecting failed [6]
+0	16:25:54.382	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 204.96 ms)
+0	16:26:58.743	'27123197': login datacenter on AdmiralMarkets-Live
+0	16:27:07.592	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 218.26 ms)
+0	16:27:40.884	'27123197': ping to current access point Access Point #5 is 295.54 ms
+0	16:28:08.868	'27123197': login datacenter on AdmiralMarkets-Live
+1	16:29:16.856	'27123197': connect failed [Connection échouée]
+0	16:29:31.478	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	16:29:51.152	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	16:29:51.374	'27123197': ping to current access point Access Point #4 is 217.87 ms
+0	16:30:07.061	'27123197': previous successful authorization performed from 197.149.29.81
+1	16:30:47.003	MQL5.community: authorization failed
+1	16:32:07.861	'27123197': datacenter connecting failed [6]
+0	16:32:11.711	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 243.02 ms)
+0	16:32:24.204	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 243.02 ms)
+0	16:32:24.848	'27123197': previous successful authorization performed from 197.149.29.81
+1	16:34:03.863	'27123197': datacenter connecting failed [6]
+1	16:35:04.857	'27123197': connect failed [Connection échouée]
+0	17:50:12.480	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+1	17:51:33.864	'27123197': datacenter connecting failed [6]
+0	17:52:17.327	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	17:52:37.857	'27123197': auto connecting to a better access point Access Point #6 (ping is 216.32 ms)
+0	17:53:05.914	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 216.32 ms)
+1	17:53:49.205	'27123197': connect failed [Connection échouée]
+0	17:54:37.896	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	17:54:46.799	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	17:54:48.133	'27123197': previous successful authorization performed from 197.149.29.81
+0	17:56:10.799	'27123197': ping to current access point Access Point #4 is 249.71 ms
+1	18:00:27.838	'27123197': ping failed
+1	18:00:27.840	'27123197': datacenter connecting failed [6]
+1	18:01:31.858	'27123197': connect failed [Connection échouée]
+0	18:20:12.657	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	18:20:18.353	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	18:20:22.264	'27123197': previous successful authorization performed from 154.126.10.70
+0	18:20:41.206	'27123197': ping to current access point Access Point #4 is 214.89 ms
+1	18:24:11.755	'27123197': datacenter connecting failed [6]
+0	18:24:13.005	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 215.62 ms)
+0	18:24:24.807	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 215.62 ms)
+0	18:24:27.388	'27123197': previous successful authorization performed from 197.149.29.81
+1	18:25:03.003	MQL5.community: authorization failed
+1	18:29:38.858	'27123197': connect failed [Connection échouée]
+0	18:34:23.662	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	18:35:28.295	'27123197': login datacenter on AdmiralMarkets-Live
+0	18:36:35.653	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: n/a)
+0	18:37:00.856	'27123197': ping to current access point Access Point #1 is n/a
+0	18:37:36.352	'27123197': login datacenter on AdmiralMarkets-Live
+0	18:37:44.828	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 225.41 ms)
+0	18:38:03.300	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 225.41 ms)
+0	18:38:04.112	'27123197': previous successful authorization performed from 197.149.29.81
+0	18:39:27.856	'27123197': ping to current access point Access Point #6 is 218.46 ms
+1	18:39:57.859	'27123197': datacenter connecting failed [6]
+0	18:40:20.756	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 578.65 ms)
+0	18:41:25.740	'27123197': login datacenter on AdmiralMarkets-Live
+1	18:42:31.867	'27123197': connect failed [Connection échouée]
+0	18:42:43.618	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	18:42:52.866	'27123197': ping to current access point Access Point #8 is n/a
+0	18:43:44.672	'27123197': login datacenter on AdmiralMarkets-Live
+0	18:43:51.306	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 217.41 ms)
+0	18:44:53.162	'27123197': login datacenter on AdmiralMarkets-Live
+0	18:45:04.694	'27123197': ping to current access point Access Point #3 is 261.76 ms
+0	18:45:06.768	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 261.76 ms)
+0	18:46:07.377	'27123197': login datacenter on AdmiralMarkets-Live
+0	18:46:38.327	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 244.43 ms)
+0	18:47:19.297	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 244.43 ms)
+0	18:47:21.675	'27123197': previous successful authorization performed from 197.149.29.81
+1	18:53:59.853	'27123197': ping failed
+0	18:54:01.434	'27123197': login datacenter on AdmiralMarkets-Live
+0	18:54:06.051	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 260.20 ms)
+0	18:54:54.782	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 260.20 ms)
+0	18:55:15.392	'27123197': previous successful authorization performed from 197.149.29.81
+1	18:55:56.865	'27123197': datacenter connecting failed [6]
+0	18:56:18.625	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 225.02 ms)
+0	18:56:28.446	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 225.02 ms)
+0	18:56:28.986	'27123197': previous successful authorization performed from 197.149.29.81
+1	19:01:45.864	'27123197': datacenter connecting failed [6]
+0	19:01:47.169	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	19:02:51.350	'27123197': login datacenter on AdmiralMarkets-Live
+1	19:03:17.893	'27123197': connect failed [Connection échouée]
+0	19:03:59.808	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	19:04:11.640	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	19:04:37.857	'27123197': ping to current access point Access Point #4 is 2953.90 ms
+0	19:05:14.557	'27123197': login datacenter on AdmiralMarkets-Live
+0	19:05:55.575	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 2503.43 ms)
+1	19:07:16.861	'27123197': datacenter connecting failed [6]
+1	19:07:43.439	'27123197': connect failed [Connection échouée]
+0	19:08:12.858	'27123197': auto connecting to a better access point Access Point #8 (ping is n/a)
+0	19:23:15.791	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	19:23:25.792	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	19:23:28.429	'27123197': previous successful authorization performed from 197.149.29.81
+0	19:23:53.276	'27123197': ping to current access point Access Point #8 is 612.34 ms
+0	19:27:44.953	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 209.34 ms)
+0	19:27:53.352	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 209.34 ms)
+0	19:27:54.046	'27123197': previous successful authorization performed from 197.149.29.81
+1	19:35:13.866	'27123197': datacenter connecting failed [6]
+1	19:36:16.861	'27123197': connect failed [Connection échouée]
+0	19:36:30.651	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	19:37:32.939	'27123197': login datacenter on AdmiralMarkets-Live
+1	19:38:41.858	'27123197': connect failed [Connection échouée]
+0	19:39:12.011	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: n/a)
+0	19:39:35.857	'27123197': ping to current access point Access Point #2 is 222.13 ms
+0	19:40:13.281	'27123197': login datacenter on AdmiralMarkets-Live
+0	19:41:19.706	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 3562.26 ms)
+0	19:41:40.996	'27123197': ping to current access point Access Point #1 is 244.09 ms
+1	19:42:19.584	'27123197': datacenter connecting failed [6]
+0	19:42:20.587	'27123197': previous successful authorization performed from 197.149.29.81
+0	19:46:42.298	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 216.39 ms)
+0	19:47:43.844	'27123197': login datacenter on AdmiralMarkets-Live
+0	19:47:50.818	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 605.25 ms)
+0	19:48:54.197	'27123197': auto connecting to a better access point Access Point #6 (ping is 217.48 ms)
+1	19:48:54.267	'27123197': datacenter connecting failed [6]
+0	19:49:01.205	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 217.48 ms)
+0	19:50:05.422	'27123197': login datacenter on AdmiralMarkets-Live
+0	19:50:14.589	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 239.14 ms)
+0	19:50:41.807	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 239.14 ms)
+0	19:50:42.390	'27123197': previous successful authorization performed from 197.149.29.81
+0	19:51:09.860	'27123197': ping to current access point Access Point #3 is 229.13 ms
+1	19:51:26.999	MQL5.community: authorization failed
+2	19:53:26.161	Custom indicator $-ForecastCityIntradayIndicator NZDUSD,H1: removed
+2	19:53:26.162	Custom indicator Entry NZDUSD,H1: removed
+2	19:53:26.162	Custom indicator Trend NZDUSD,H1: removed
+2	19:53:26.179	Custom indicator HeikenAshi_DM NZDUSD,H1: loaded successfully
+2	19:53:26.189	Custom indicator DM_DSR NZDUSD,H1: loaded successfully
+2	19:53:26.203	Custom indicator LJ_SIG NZDUSD,H1: loaded successfully
+2	19:53:26.211	Custom indicator #MarketPrice _v1_4 NZDUSD,H1: loaded successfully
+2	19:53:26.221	Custom indicator ABT 5M 15M\CandleCountdown NZDUSD,H1: loaded successfully
+2	19:53:26.230	Custom indicator LJ_SYNERGY_ID NZDUSD,H1: loaded successfully
+2	19:53:26.241	Custom indicator Traders Dynamic Index VISUAL ALERTS NZDUSD,H1: loaded successfully
+2	19:53:26.253	Custom indicator DM_Volatility NZDUSD,H1: loaded successfully
+2	19:53:26.262	Custom indicator DM_RangeFactor NZDUSD,H1: loaded successfully
+2	19:53:26.271	Custom indicator DM_Continuation NZDUSD,H1: loaded successfully
+2	19:53:26.282	Custom indicator Status Monitor V1.2 NZDUSD,H1: loaded successfully
+0	19:54:05.201	HistoryCenter: synchronize 'GBPAUD60'
+0	19:54:26.203	HistoryCenter: synchronize 'GBPAUD60'
+0	19:54:28.061	HistoryCenter: 2 bars imported in 'GBPAUD60'
+2	19:54:42.491	Custom indicator HeikenAshi_DM GBPAUD,H1: removed
+2	19:54:42.493	Custom indicator DM_DSR GBPAUD,H1: removed
+2	19:54:42.494	Custom indicator LJ_SIG GBPAUD,H1: removed
+2	19:54:42.496	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: removed
+2	19:54:42.498	Custom indicator CandleCountdown GBPAUD,H1: removed
+2	19:54:42.500	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: removed
+2	19:54:42.502	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: removed
+2	19:54:42.504	Custom indicator DM_Volatility GBPAUD,H1: removed
+2	19:54:42.505	Custom indicator DM_RangeFactor GBPAUD,H1: removed
+2	19:54:42.508	Custom indicator DM_Continuation GBPAUD,H1: removed
+2	19:54:42.509	Custom indicator Status Monitor V1.2 GBPAUD,H1: removed
+2	19:54:42.524	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: loaded successfully
+2	19:54:42.588	Custom indicator Entry GBPAUD,H1: loaded successfully
+2	19:54:42.649	Custom indicator Trend GBPAUD,H1: loaded successfully
+1	19:55:30.861	'27123197': datacenter connecting failed [6]
+2	19:55:32.154	Custom indicator $-ForecastCityIntradayIndicator GBPAUD,H1: removed
+2	19:55:32.154	Custom indicator Entry GBPAUD,H1: removed
+2	19:55:32.154	Custom indicator Trend GBPAUD,H1: removed
+2	19:55:32.163	Custom indicator HeikenAshi_DM GBPAUD,H1: loaded successfully
+2	19:55:32.172	Custom indicator DM_DSR GBPAUD,H1: loaded successfully
+2	19:55:32.181	Custom indicator LJ_SIG GBPAUD,H1: loaded successfully
+2	19:55:32.189	Custom indicator #MarketPrice _v1_4 GBPAUD,H1: loaded successfully
+2	19:55:32.197	Custom indicator ABT 5M 15M\CandleCountdown GBPAUD,H1: loaded successfully
+2	19:55:32.208	Custom indicator LJ_SYNERGY_ID GBPAUD,H1: loaded successfully
+2	19:55:32.216	Custom indicator Traders Dynamic Index VISUAL ALERTS GBPAUD,H1: loaded successfully
+2	19:55:32.224	Custom indicator DM_Volatility GBPAUD,H1: loaded successfully
+2	19:55:32.233	Custom indicator DM_RangeFactor GBPAUD,H1: loaded successfully
+2	19:55:32.241	Custom indicator DM_Continuation GBPAUD,H1: loaded successfully
+2	19:55:32.248	Custom indicator Status Monitor V1.2 GBPAUD,H1: loaded successfully
+0	19:55:33.667	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 210.88 ms)
+0	19:55:45.042	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 210.88 ms)
+0	19:55:46.281	'27123197': previous successful authorization performed from 154.126.9.48
+1	20:01:09.776	'27123197': ping failed
+0	20:01:10.261	'27123197': login datacenter on AdmiralMarkets-Live
+0	20:01:11.326	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 215.50 ms)
+0	20:01:13.398	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 215.50 ms)
+0	20:01:13.962	'27123197': previous successful authorization performed from 197.149.29.81
+1	20:02:29.043	'27123197': datacenter connecting failed [6]
+0	20:03:06.872	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 593.93 ms)
+0	20:03:12.331	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 593.93 ms)
+0	20:03:13.730	'27123197': previous successful authorization performed from 197.149.29.81
+2	20:58:14.005	Custom indicator $-ForecastCityIntradayIndicator BCHUSD,H1: loaded successfully
+2	20:58:14.082	Custom indicator Entry BCHUSD,H1: loaded successfully
+2	20:58:14.154	Custom indicator Trend BCHUSD,H1: loaded successfully
+0	21:10:39.003	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 213.52 ms)
+0	21:11:29.607	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 213.52 ms)
+0	21:11:32.210	'27123197': previous successful authorization performed from 154.126.9.48
+0	21:13:48.145	'27123197': auto connecting to a better access point Access Point #1 (ping is 574.17 ms)
+0	21:13:54.505	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 574.17 ms)
+0	21:14:28.050	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 574.17 ms)
+0	21:14:35.814	'27123197': previous successful authorization performed from 197.149.29.81
+0	21:18:58.604	'27123197': login datacenter on AdmiralMarkets-Live
+0	21:19:05.155	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 1616.43 ms)
+0	21:19:37.557	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 1616.43 ms)
+0	21:19:40.882	'27123197': previous successful authorization performed from 197.149.29.81
+1	21:47:43.879	'27123197': datacenter connecting failed [6]
+0	21:47:46.524	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 928.22 ms)
+0	21:48:31.534	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 928.22 ms)
+0	21:48:45.037	'27123197': previous successful authorization performed from 154.126.9.48
+1	21:49:26.998	MQL5.community: authorization failed
+0	21:50:38.293	'27123197': login datacenter on AdmiralMarkets-Live
+0	21:51:00.229	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 1157.89 ms)
+0	21:51:30.802	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 1157.89 ms)
+0	21:51:33.328	'27123197': previous successful authorization performed from 197.149.29.81
+1	21:52:38.998	MQL5.community: authorization failed
+0	21:52:39.645	'27123197': login datacenter on AdmiralMarkets-Live
+0	21:52:43.669	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 849.09 ms)
+0	21:52:57.754	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 849.09 ms)
+0	21:52:59.769	'27123197': previous successful authorization performed from 197.149.29.81
+1	22:02:14.874	'27123197': datacenter connecting failed [6]
+0	22:02:24.803	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 1043.02 ms)
+0	22:02:53.988	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 1043.02 ms)
+0	22:03:23.390	'27123197': previous successful authorization performed from 197.149.29.81
+1	22:09:46.880	'27123197': datacenter connecting failed [6]
+1	22:09:46.948	'27123197': connect failed [Connection échouée]
+0	22:09:57.629	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	22:10:57.823	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	22:11:06.909	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	22:11:24.490	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	22:11:35.441	'27123197': previous successful authorization performed from 197.149.29.81
+0	22:12:32.878	'27123197': ping to current access point Access Point #4 is 572.52 ms
+1	22:14:20.881	'27123197': datacenter connecting failed [6]
+0	22:14:29.087	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 414.09 ms)
+0	22:15:23.062	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 414.09 ms)
+0	22:15:26.351	'27123197': previous successful authorization performed from 197.149.29.81
+1	23:38:28.879	'27123197': datacenter connecting failed [6]
+0	23:38:34.275	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 596.00 ms)
+0	23:38:54.992	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 596.00 ms)
+0	23:38:58.864	'27123197': previous successful authorization performed from 197.149.29.81
+0	23:40:44.557	'27123197': auto connecting to a better access point Access Point #8 (ping is 985.89 ms)
+0	23:40:51.340	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 985.89 ms)
+0	23:42:05.504	'27123197': login datacenter on AdmiralMarkets-Live
+0	23:42:35.668	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 704.76 ms)
+0	23:43:38.286	'27123197': login datacenter on AdmiralMarkets-Live
+0	23:43:50.182	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	23:43:51.874	'27123197': ping to current access point Access Point #4 is n/a
+0	23:44:27.615	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	23:44:36.412	'27123197': previous successful authorization performed from 197.149.29.81
+0	23:46:20.872	'27123197': ping to current access point Access Point #4 is n/a

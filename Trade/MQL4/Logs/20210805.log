@@ -1,0 +1,990 @@
+0	22:28:07.352	Custom indicator AIMS Entry Alert V1 .DE30Cash,M15: loaded successfully
+0	22:28:07.357	Custom indicator CandleTimer .DE30Cash,M15: loaded successfully
+0	22:28:07.416	Custom indicator #Signal_Bars_v6 .DE30Cash,M15: loaded successfully
+0	22:28:07.423	Custom indicator TrendEnvelopes_v1 .DE30Cash,M15: loaded successfully
+0	22:28:07.429	Custom indicator wedges .DE30Cash,M15: loaded successfully
+0	22:28:07.437	Custom indicator Admiral Pivot .DE30Cash,M15: loaded successfully
+0	22:28:07.443	Custom indicator AutoTrendChannel .DE30Cash,M15: loaded successfully
+0	22:28:07.449	Custom indicator FRZ Channel Auto Plotter .DE30Cash,M15: loaded successfully
+0	22:28:07.456	Custom indicator Forex Uranus direction .DE30Cash,M15: loaded successfully
+0	22:28:07.514	Custom indicator aVSA\aVSA clasters .DE30Cash,M15: loaded successfully
+0	22:28:07.527	Custom indicator aVSA\aVSA Golden Zone .DE30Cash,M15: loaded successfully
+0	22:28:07.533	Custom indicator breakout-zones\breakout-zones .DE30Cash,M15: loaded successfully
+0	22:28:07.540	Custom indicator breakout-zones\SL&TP Values .DE30Cash,M15: loaded successfully
+0	22:28:07.553	Custom indicator PositionSizeCalculator .DE30Cash,M15: loaded successfully
+0	22:28:07.561	Custom indicator DaVinci Truly News Indicator 2.3.95 .DE30Cash,M15: loaded successfully
+0	22:28:07.620	Custom indicator AIMS AO V.2.1 .DE30Cash,M15: loaded successfully
+0	22:28:07.627	Custom indicator IVT_MACD_ZERO_LAG .DE30Cash,M15: loaded successfully
+0	22:28:07.633	Custom indicator RSI Divergence Levels .DE30Cash,M15: loaded successfully
+0	22:28:07.639	Custom indicator RenkoMaker_Confirm .DE30Cash,M15: loaded successfully
+0	22:28:07.645	Custom indicator FRZ Forex Market Session Indicator .DE30Cash,M15: loaded successfully
+0	22:28:07.649	AIMS Entry Alert V1 .DE30Cash,M15: initialized
+0	22:28:07.655	CandleTimer .DE30Cash,M15: initialized
+0	22:28:07.655	#Signal_Bars_v6 .DE30Cash,M15: initialized
+0	22:28:07.663	TrendEnvelopes_v1 .DE30Cash,M15: initialized
+0	22:28:07.675	wedges .DE30Cash,M15: initialized
+0	22:28:07.687	Admiral Pivot .DE30Cash,M15: initialized
+0	22:28:07.695	AutoTrendChannel .DE30Cash,M15: initialized
+0	22:28:07.703	FRZ Channel Auto Plotter .DE30Cash,M15: initialized
+0	22:28:07.714	Forex Uranus direction .DE30Cash,M15: initialized
+0	22:28:07.714	aVSA clasters .DE30Cash,M15: initialized
+0	22:28:07.732	aVSA Golden Zone .DE30Cash,M15: initialized
+0	22:28:07.741	breakout-zones .DE30Cash,M15: initialized
+0	22:28:07.759	SL&TP Values .DE30Cash,M15: initialized
+0	22:28:07.872	PositionSizeCalculator .DE30Cash,M15: Trying to load settings from file.
+0	22:28:07.873	PositionSizeCalculator .DE30Cash,M15: Loaded settings successfully.
+0	22:28:07.876	PositionSizeCalculator .DE30Cash,M15: initialized
+0	22:28:07.885	DaVinci Truly News Indicator 2.3.95 .DE30Cash,M15: Thank you for using our products. More useful and available programs you can find on https://www.davinci-fx.com
+0	22:28:07.885	DaVinci Truly News Indicator 2.3.95 .DE30Cash,M15: initialized
+0	22:28:07.885	AIMS AO V.2.1 .DE30Cash,M15: initialized
+0	22:28:07.893	IVT_MACD_ZERO_LAG .DE30Cash,M15: initialized
+0	22:28:07.906	RSI Divergence Levels .DE30Cash,M15: initialized
+0	22:28:07.914	RenkoMaker_Confirm .DE30Cash,M15: initialized
+0	22:28:07.922	FRZ Forex Market Session Indicator .DE30Cash,M15: initialized
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2614new day 2021.05.26/2021.05.25
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2558new day 2021.05.27/2021.05.26
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2502new day 2021.05.28/2021.05.27
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2446new day 2021.05.29/2021.05.28
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2390new day 2021.06.01/2021.05.31
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2334new day 2021.06.02/2021.06.01
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2278new day 2021.06.03/2021.06.02
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2222new day 2021.06.04/2021.06.03
+0	22:28:08.133	breakout-zones .DE30Cash,M15: #2166new day 2021.06.05/2021.06.04
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #2110new day 2021.06.08/2021.06.07
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #2054new day 2021.06.09/2021.06.08
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1998new day 2021.06.10/2021.06.09
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1942new day 2021.06.11/2021.06.10
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1886new day 2021.06.12/2021.06.11
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1830new day 2021.06.15/2021.06.14
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1774new day 2021.06.16/2021.06.15
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1718new day 2021.06.17/2021.06.16
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1662new day 2021.06.18/2021.06.17
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1606new day 2021.06.19/2021.06.18
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1550new day 2021.06.22/2021.06.21
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1494new day 2021.06.23/2021.06.22
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1438new day 2021.06.24/2021.06.23
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1382new day 2021.06.25/2021.06.24
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1326new day 2021.06.26/2021.06.25
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1270new day 2021.06.29/2021.06.28
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1214new day 2021.06.30/2021.06.29
+0	22:28:08.134	breakout-zones .DE30Cash,M15: #1158new day 2021.07.01/2021.06.30
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #1102new day 2021.07.02/2021.07.01
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #1046new day 2021.07.03/2021.07.02
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #990new day 2021.07.06/2021.07.05
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #934new day 2021.07.07/2021.07.06
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #878new day 2021.07.08/2021.07.07
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #822new day 2021.07.09/2021.07.08
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #766new day 2021.07.10/2021.07.09
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #710new day 2021.07.13/2021.07.12
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #654new day 2021.07.14/2021.07.13
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #598new day 2021.07.15/2021.07.14
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #542new day 2021.07.16/2021.07.15
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #486new day 2021.07.17/2021.07.16
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #430new day 2021.07.20/2021.07.19
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #374new day 2021.07.21/2021.07.20
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #318new day 2021.07.22/2021.07.21
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #262new day 2021.07.23/2021.07.22
+0	22:28:08.135	breakout-zones .DE30Cash,M15: #206new day 2021.07.24/2021.07.23
+0	22:28:08.136	breakout-zones .DE30Cash,M15: #150new day 2021.07.27/2021.07.26
+0	22:28:08.136	breakout-zones .DE30Cash,M15: #94new day 2021.07.28/2021.07.27
+0	22:28:08.136	breakout-zones .DE30Cash,M15: #38new day 2021.07.29/2021.07.28
+0	22:28:08.669	DaVinci Truly News Indicator 2.3.95 .DE30Cash,M15: Download info : 2021-08-01-ForexFactory-News.xml file downloaded successfully!
+0	22:28:08.681	RSI Divergence Levels .DE30Cash,M15: Alert: Classical RSI bearish divergence on: .DE30Cash , 15 minutes chart
+0	22:28:08.757	Custom indicator AIMS Entry Alert V1 .JP225Cash,H1: loaded successfully
+0	22:28:08.762	Custom indicator CandleTimer .JP225Cash,H1: loaded successfully
+0	22:28:08.820	Custom indicator #Signal_Bars_v6 .JP225Cash,H1: loaded successfully
+0	22:28:08.826	Custom indicator TrendEnvelopes_v1 .JP225Cash,H1: loaded successfully
+0	22:28:08.833	Custom indicator wedges .JP225Cash,H1: loaded successfully
+0	22:28:08.839	Custom indicator Admiral Pivot .JP225Cash,H1: loaded successfully
+0	22:28:08.845	Custom indicator AutoTrendChannel .JP225Cash,H1: loaded successfully
+0	22:28:08.852	Custom indicator FRZ Channel Auto Plotter .JP225Cash,H1: loaded successfully
+0	22:28:08.859	Custom indicator Forex Uranus direction .JP225Cash,H1: loaded successfully
+0	22:28:08.919	Custom indicator aVSA\aVSA clasters .JP225Cash,H1: loaded successfully
+0	22:28:08.931	Custom indicator aVSA\aVSA Golden Zone .JP225Cash,H1: loaded successfully
+0	22:28:08.938	Custom indicator breakout-zones\breakout-zones .JP225Cash,H1: loaded successfully
+0	22:28:08.944	Custom indicator breakout-zones\SL&TP Values .JP225Cash,H1: loaded successfully
+0	22:28:08.956	Custom indicator PositionSizeCalculator .JP225Cash,H1: loaded successfully
+0	22:28:08.963	Custom indicator DaVinci Truly News Indicator 2.3.95 .JP225Cash,H1: loaded successfully
+0	22:28:09.023	Custom indicator AIMS AO V.2.1 .JP225Cash,H1: loaded successfully
+0	22:28:09.030	Custom indicator IVT_MACD_ZERO_LAG .JP225Cash,H1: loaded successfully
+0	22:28:09.037	Custom indicator RSI Divergence Levels .JP225Cash,H1: loaded successfully
+0	22:28:09.043	Custom indicator RenkoMaker_Confirm .JP225Cash,H1: loaded successfully
+0	22:28:09.049	Custom indicator FRZ Forex Market Session Indicator .JP225Cash,H1: loaded successfully
+0	22:28:09.051	AIMS Entry Alert V1 .JP225Cash,H1: initialized
+0	22:28:09.057	CandleTimer .JP225Cash,H1: initialized
+0	22:28:09.057	#Signal_Bars_v6 .JP225Cash,H1: initialized
+0	22:28:09.065	TrendEnvelopes_v1 .JP225Cash,H1: initialized
+0	22:28:09.078	wedges .JP225Cash,H1: initialized
+0	22:28:09.089	Admiral Pivot .JP225Cash,H1: initialized
+0	22:28:09.097	AutoTrendChannel .JP225Cash,H1: initialized
+0	22:28:09.106	FRZ Channel Auto Plotter .JP225Cash,H1: initialized
+0	22:28:09.116	Forex Uranus direction .JP225Cash,H1: initialized
+0	22:28:09.116	aVSA clasters .JP225Cash,H1: initialized
+0	22:28:09.134	aVSA Golden Zone .JP225Cash,H1: initialized
+0	22:28:09.145	breakout-zones .JP225Cash,H1: initialized
+0	22:28:09.164	SL&TP Values .JP225Cash,H1: initialized
+0	22:28:09.270	PositionSizeCalculator .JP225Cash,H1: Trying to load settings from file.
+0	22:28:09.272	PositionSizeCalculator .JP225Cash,H1: Loaded settings successfully.
+0	22:28:09.275	PositionSizeCalculator .JP225Cash,H1: initialized
+0	22:28:09.285	DaVinci Truly News Indicator 2.3.95 .JP225Cash,H1: Thank you for using our products. More useful and available programs you can find on https://www.davinci-fx.com
+0	22:28:09.285	DaVinci Truly News Indicator 2.3.95 .JP225Cash,H1: initialized
+0	22:28:09.285	AIMS AO V.2.1 .JP225Cash,H1: initialized
+0	22:28:09.293	IVT_MACD_ZERO_LAG .JP225Cash,H1: initialized
+0	22:28:09.305	RSI Divergence Levels .JP225Cash,H1: initialized
+0	22:28:09.312	RenkoMaker_Confirm .JP225Cash,H1: initialized
+0	22:28:09.321	FRZ Forex Market Session Indicator .JP225Cash,H1: initialized
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2266new day 2021.03.12/2021.03.11
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2243new day 2021.03.13/2021.03.12
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2219new day 2021.03.16/2021.03.15
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2196new day 2021.03.17/2021.03.16
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2173new day 2021.03.18/2021.03.17
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2150new day 2021.03.19/2021.03.18
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2127new day 2021.03.20/2021.03.19
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2104new day 2021.03.23/2021.03.22
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2081new day 2021.03.24/2021.03.23
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2058new day 2021.03.25/2021.03.24
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2035new day 2021.03.26/2021.03.25
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #2012new day 2021.03.27/2021.03.26
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1990new day 2021.03.30/2021.03.29
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1967new day 2021.03.31/2021.03.30
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1944new day 2021.04.01/2021.03.31
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1921new day 2021.04.02/2021.04.01
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1901new day 2021.04.05/2021.04.02
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1882new day 2021.04.06/2021.04.05
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1859new day 2021.04.07/2021.04.06
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1836new day 2021.04.08/2021.04.07
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1813new day 2021.04.09/2021.04.08
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1790new day 2021.04.10/2021.04.09
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1767new day 2021.04.13/2021.04.12
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1744new day 2021.04.14/2021.04.13
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1721new day 2021.04.15/2021.04.14
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1698new day 2021.04.16/2021.04.15
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1675new day 2021.04.17/2021.04.16
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1652new day 2021.04.20/2021.04.19
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1629new day 2021.04.21/2021.04.20
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1606new day 2021.04.22/2021.04.21
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1583new day 2021.04.23/2021.04.22
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1560new day 2021.04.24/2021.04.23
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1537new day 2021.04.27/2021.04.26
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1514new day 2021.04.28/2021.04.27
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1491new day 2021.04.29/2021.04.28
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1468new day 2021.04.30/2021.04.29
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1445new day 2021.05.01/2021.04.30
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1422new day 2021.05.04/2021.05.03
+0	22:28:09.515	breakout-zones .JP225Cash,H1: #1399new day 2021.05.05/2021.05.04
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1376new day 2021.05.06/2021.05.05
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1353new day 2021.05.07/2021.05.06
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1330new day 2021.05.08/2021.05.07
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1307new day 2021.05.11/2021.05.10
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1284new day 2021.05.12/2021.05.11
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1261new day 2021.05.13/2021.05.12
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1238new day 2021.05.14/2021.05.13
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1215new day 2021.05.15/2021.05.14
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1192new day 2021.05.18/2021.05.17
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1169new day 2021.05.19/2021.05.18
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1146new day 2021.05.20/2021.05.19
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1123new day 2021.05.21/2021.05.20
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1100new day 2021.05.22/2021.05.21
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1077new day 2021.05.25/2021.05.24
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1054new day 2021.05.26/2021.05.25
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1031new day 2021.05.27/2021.05.26
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #1008new day 2021.05.28/2021.05.27
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #985new day 2021.05.29/2021.05.28
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #962new day 2021.06.01/2021.05.31
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #943new day 2021.06.02/2021.06.01
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #920new day 2021.06.03/2021.06.02
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #897new day 2021.06.04/2021.06.03
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #874new day 2021.06.05/2021.06.04
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #851new day 2021.06.08/2021.06.07
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #828new day 2021.06.09/2021.06.08
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #805new day 2021.06.10/2021.06.09
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #782new day 2021.06.11/2021.06.10
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #759new day 2021.06.12/2021.06.11
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #736new day 2021.06.15/2021.06.14
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #713new day 2021.06.16/2021.06.15
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #690new day 2021.06.17/2021.06.16
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #667new day 2021.06.18/2021.06.17
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #644new day 2021.06.19/2021.06.18
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #621new day 2021.06.22/2021.06.21
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #598new day 2021.06.23/2021.06.22
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #575new day 2021.06.24/2021.06.23
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #552new day 2021.06.25/2021.06.24
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #529new day 2021.06.26/2021.06.25
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #506new day 2021.06.29/2021.06.28
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #483new day 2021.06.30/2021.06.29
+0	22:28:09.516	breakout-zones .JP225Cash,H1: #460new day 2021.07.01/2021.06.30
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #437new day 2021.07.02/2021.07.01
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #414new day 2021.07.03/2021.07.02
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #391new day 2021.07.06/2021.07.05
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #372new day 2021.07.07/2021.07.06
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #349new day 2021.07.08/2021.07.07
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #326new day 2021.07.09/2021.07.08
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #303new day 2021.07.10/2021.07.09
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #280new day 2021.07.13/2021.07.12
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #257new day 2021.07.14/2021.07.13
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #234new day 2021.07.15/2021.07.14
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #211new day 2021.07.16/2021.07.15
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #188new day 2021.07.17/2021.07.16
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #179new day 2021.07.20/2021.07.19
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #156new day 2021.07.21/2021.07.20
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #133new day 2021.07.22/2021.07.21
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #110new day 2021.07.23/2021.07.22
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #87new day 2021.07.24/2021.07.23
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #64new day 2021.07.27/2021.07.26
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #41new day 2021.07.28/2021.07.27
+0	22:28:09.517	breakout-zones .JP225Cash,H1: #18new day 2021.07.29/2021.07.28
+0	22:28:09.601	Custom indicator AIMS Entry Alert V1 .US500Cash,H1: loaded successfully
+0	22:28:09.607	Custom indicator CandleTimer .US500Cash,H1: loaded successfully
+0	22:28:09.665	Custom indicator #Signal_Bars_v6 .US500Cash,H1: loaded successfully
+0	22:28:09.671	Custom indicator TrendEnvelopes_v1 .US500Cash,H1: loaded successfully
+0	22:28:09.678	Custom indicator wedges .US500Cash,H1: loaded successfully
+0	22:28:09.684	Custom indicator Admiral Pivot .US500Cash,H1: loaded successfully
+0	22:28:09.690	Custom indicator AutoTrendChannel .US500Cash,H1: loaded successfully
+0	22:28:09.697	Custom indicator FRZ Channel Auto Plotter .US500Cash,H1: loaded successfully
+0	22:28:09.703	Custom indicator Forex Uranus direction .US500Cash,H1: loaded successfully
+0	22:28:09.765	Custom indicator aVSA\aVSA clasters .US500Cash,H1: loaded successfully
+0	22:28:09.778	Custom indicator aVSA\aVSA Golden Zone .US500Cash,H1: loaded successfully
+0	22:28:09.785	Custom indicator breakout-zones\breakout-zones .US500Cash,H1: loaded successfully
+0	22:28:09.791	Custom indicator breakout-zones\SL&TP Values .US500Cash,H1: loaded successfully
+0	22:28:09.803	Custom indicator PositionSizeCalculator .US500Cash,H1: loaded successfully
+0	22:28:09.810	Custom indicator DaVinci Truly News Indicator 2.3.95 .US500Cash,H1: loaded successfully
+0	22:28:09.869	Custom indicator AIMS AO V.2.1 .US500Cash,H1: loaded successfully
+0	22:28:09.877	Custom indicator IVT_MACD_ZERO_LAG .US500Cash,H1: loaded successfully
+0	22:28:09.883	Custom indicator RSI Divergence Levels .US500Cash,H1: loaded successfully
+0	22:28:09.889	Custom indicator RenkoMaker_Confirm .US500Cash,H1: loaded successfully
+0	22:28:09.895	Custom indicator FRZ Forex Market Session Indicator .US500Cash,H1: loaded successfully
+0	22:28:09.896	AIMS Entry Alert V1 .US500Cash,H1: initialized
+0	22:28:09.902	CandleTimer .US500Cash,H1: initialized
+0	22:28:09.902	#Signal_Bars_v6 .US500Cash,H1: initialized
+0	22:28:09.910	TrendEnvelopes_v1 .US500Cash,H1: initialized
+0	22:28:09.922	wedges .US500Cash,H1: initialized
+0	22:28:09.934	Admiral Pivot .US500Cash,H1: initialized
+0	22:28:09.942	AutoTrendChannel .US500Cash,H1: initialized
+0	22:28:09.950	FRZ Channel Auto Plotter .US500Cash,H1: initialized
+0	22:28:09.960	Forex Uranus direction .US500Cash,H1: initialized
+0	22:28:09.960	aVSA clasters .US500Cash,H1: initialized
+0	22:28:09.979	aVSA Golden Zone .US500Cash,H1: initialized
+0	22:28:09.989	breakout-zones .US500Cash,H1: initialized
+0	22:28:10.013	SL&TP Values .US500Cash,H1: initialized
+0	22:28:10.123	PositionSizeCalculator .US500Cash,H1: Trying to load settings from file.
+0	22:28:10.124	PositionSizeCalculator .US500Cash,H1: Loaded settings successfully.
+0	22:28:10.126	PositionSizeCalculator .US500Cash,H1: initialized
+0	22:28:10.135	DaVinci Truly News Indicator 2.3.95 .US500Cash,H1: Thank you for using our products. More useful and available programs you can find on https://www.davinci-fx.com
+0	22:28:10.135	DaVinci Truly News Indicator 2.3.95 .US500Cash,H1: initialized
+0	22:28:10.135	AIMS AO V.2.1 .US500Cash,H1: initialized
+0	22:28:10.143	IVT_MACD_ZERO_LAG .US500Cash,H1: initialized
+0	22:28:10.156	RSI Divergence Levels .US500Cash,H1: initialized
+0	22:28:10.164	RenkoMaker_Confirm .US500Cash,H1: initialized
+0	22:28:10.173	FRZ Forex Market Session Indicator .US500Cash,H1: initialized
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2269new day 2021.02.27/2021.02.26
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2248new day 2021.03.02/2021.03.01
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2227new day 2021.03.03/2021.03.02
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2206new day 2021.03.04/2021.03.03
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2185new day 2021.03.05/2021.03.04
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2164new day 2021.03.06/2021.03.05
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2143new day 2021.03.09/2021.03.08
+0	22:28:10.361	breakout-zones .US500Cash,H1: #2122new day 2021.03.10/2021.03.09
+0	22:28:10.362	breakout-zones .US500Cash,H1: #2101new day 2021.03.11/2021.03.10
+0	22:28:10.362	breakout-zones .US500Cash,H1: #2080new day 2021.03.12/2021.03.11
+0	22:28:10.362	breakout-zones .US500Cash,H1: #2059new day 2021.03.13/2021.03.12
+0	22:28:10.362	breakout-zones .US500Cash,H1: #2037new day 2021.03.16/2021.03.15
+0	22:28:10.362	breakout-zones .US500Cash,H1: #2016new day 2021.03.17/2021.03.16
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1995new day 2021.03.18/2021.03.17
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1974new day 2021.03.19/2021.03.18
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1953new day 2021.03.20/2021.03.19
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1932new day 2021.03.23/2021.03.22
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1911new day 2021.03.24/2021.03.23
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1890new day 2021.03.25/2021.03.24
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1869new day 2021.03.26/2021.03.25
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1848new day 2021.03.27/2021.03.26
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1828new day 2021.03.30/2021.03.29
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1807new day 2021.03.31/2021.03.30
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1786new day 2021.04.01/2021.03.31
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1765new day 2021.04.02/2021.04.01
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1747new day 2021.04.05/2021.04.02
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1730new day 2021.04.06/2021.04.05
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1709new day 2021.04.07/2021.04.06
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1688new day 2021.04.08/2021.04.07
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1667new day 2021.04.09/2021.04.08
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1646new day 2021.04.10/2021.04.09
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1625new day 2021.04.13/2021.04.12
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1604new day 2021.04.14/2021.04.13
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1583new day 2021.04.15/2021.04.14
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1562new day 2021.04.16/2021.04.15
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1541new day 2021.04.17/2021.04.16
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1520new day 2021.04.20/2021.04.19
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1499new day 2021.04.21/2021.04.20
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1478new day 2021.04.22/2021.04.21
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1457new day 2021.04.23/2021.04.22
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1436new day 2021.04.24/2021.04.23
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1415new day 2021.04.27/2021.04.26
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1394new day 2021.04.28/2021.04.27
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1373new day 2021.04.29/2021.04.28
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1352new day 2021.04.30/2021.04.29
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1331new day 2021.05.01/2021.04.30
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1310new day 2021.05.04/2021.05.03
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1289new day 2021.05.05/2021.05.04
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1268new day 2021.05.06/2021.05.05
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1247new day 2021.05.07/2021.05.06
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1226new day 2021.05.08/2021.05.07
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1205new day 2021.05.11/2021.05.10
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1184new day 2021.05.12/2021.05.11
+0	22:28:10.362	breakout-zones .US500Cash,H1: #1163new day 2021.05.13/2021.05.12
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1142new day 2021.05.14/2021.05.13
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1121new day 2021.05.15/2021.05.14
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1100new day 2021.05.18/2021.05.17
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1079new day 2021.05.19/2021.05.18
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1058new day 2021.05.20/2021.05.19
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1037new day 2021.05.21/2021.05.20
+0	22:28:10.363	breakout-zones .US500Cash,H1: #1016new day 2021.05.22/2021.05.21
+0	22:28:10.363	breakout-zones .US500Cash,H1: #995new day 2021.05.25/2021.05.24
+0	22:28:10.363	breakout-zones .US500Cash,H1: #974new day 2021.05.26/2021.05.25
+0	22:28:10.363	breakout-zones .US500Cash,H1: #953new day 2021.05.27/2021.05.26
+0	22:28:10.363	breakout-zones .US500Cash,H1: #932new day 2021.05.28/2021.05.27
+0	22:28:10.363	breakout-zones .US500Cash,H1: #911new day 2021.05.29/2021.05.28
+0	22:28:10.363	breakout-zones .US500Cash,H1: #890new day 2021.06.01/2021.05.31
+0	22:28:10.363	breakout-zones .US500Cash,H1: #873new day 2021.06.02/2021.06.01
+0	22:28:10.363	breakout-zones .US500Cash,H1: #852new day 2021.06.03/2021.06.02
+0	22:28:10.363	breakout-zones .US500Cash,H1: #831new day 2021.06.04/2021.06.03
+0	22:28:10.363	breakout-zones .US500Cash,H1: #810new day 2021.06.05/2021.06.04
+0	22:28:10.363	breakout-zones .US500Cash,H1: #789new day 2021.06.08/2021.06.07
+0	22:28:10.363	breakout-zones .US500Cash,H1: #768new day 2021.06.09/2021.06.08
+0	22:28:10.363	breakout-zones .US500Cash,H1: #747new day 2021.06.10/2021.06.09
+0	22:28:10.363	breakout-zones .US500Cash,H1: #726new day 2021.06.11/2021.06.10
+0	22:28:10.363	breakout-zones .US500Cash,H1: #705new day 2021.06.12/2021.06.11
+0	22:28:10.363	breakout-zones .US500Cash,H1: #684new day 2021.06.15/2021.06.14
+0	22:28:10.363	breakout-zones .US500Cash,H1: #663new day 2021.06.16/2021.06.15
+0	22:28:10.363	breakout-zones .US500Cash,H1: #642new day 2021.06.17/2021.06.16
+0	22:28:10.363	breakout-zones .US500Cash,H1: #621new day 2021.06.18/2021.06.17
+0	22:28:10.363	breakout-zones .US500Cash,H1: #600new day 2021.06.19/2021.06.18
+0	22:28:10.363	breakout-zones .US500Cash,H1: #579new day 2021.06.22/2021.06.21
+0	22:28:10.363	breakout-zones .US500Cash,H1: #558new day 2021.06.23/2021.06.22
+0	22:28:10.363	breakout-zones .US500Cash,H1: #537new day 2021.06.24/2021.06.23
+0	22:28:10.363	breakout-zones .US500Cash,H1: #516new day 2021.06.25/2021.06.24
+0	22:28:10.363	breakout-zones .US500Cash,H1: #495new day 2021.06.26/2021.06.25
+0	22:28:10.363	breakout-zones .US500Cash,H1: #474new day 2021.06.29/2021.06.28
+0	22:28:10.363	breakout-zones .US500Cash,H1: #453new day 2021.06.30/2021.06.29
+0	22:28:10.363	breakout-zones .US500Cash,H1: #432new day 2021.07.01/2021.06.30
+0	22:28:10.363	breakout-zones .US500Cash,H1: #411new day 2021.07.02/2021.07.01
+0	22:28:10.363	breakout-zones .US500Cash,H1: #390new day 2021.07.03/2021.07.02
+0	22:28:10.363	breakout-zones .US500Cash,H1: #369new day 2021.07.06/2021.07.05
+0	22:28:10.363	breakout-zones .US500Cash,H1: #352new day 2021.07.07/2021.07.06
+0	22:28:10.363	breakout-zones .US500Cash,H1: #331new day 2021.07.08/2021.07.07
+0	22:28:10.363	breakout-zones .US500Cash,H1: #310new day 2021.07.09/2021.07.08
+0	22:28:10.363	breakout-zones .US500Cash,H1: #289new day 2021.07.10/2021.07.09
+0	22:28:10.363	breakout-zones .US500Cash,H1: #268new day 2021.07.13/2021.07.12
+0	22:28:10.363	breakout-zones .US500Cash,H1: #247new day 2021.07.14/2021.07.13
+0	22:28:10.363	breakout-zones .US500Cash,H1: #226new day 2021.07.15/2021.07.14
+0	22:28:10.364	breakout-zones .US500Cash,H1: #205new day 2021.07.16/2021.07.15
+0	22:28:10.364	breakout-zones .US500Cash,H1: #184new day 2021.07.17/2021.07.16
+0	22:28:10.364	breakout-zones .US500Cash,H1: #163new day 2021.07.20/2021.07.19
+0	22:28:10.364	breakout-zones .US500Cash,H1: #142new day 2021.07.21/2021.07.20
+0	22:28:10.364	breakout-zones .US500Cash,H1: #121new day 2021.07.22/2021.07.21
+0	22:28:10.364	breakout-zones .US500Cash,H1: #100new day 2021.07.23/2021.07.22
+0	22:28:10.364	breakout-zones .US500Cash,H1: #79new day 2021.07.24/2021.07.23
+0	22:28:10.364	breakout-zones .US500Cash,H1: #58new day 2021.07.27/2021.07.26
+0	22:28:10.364	breakout-zones .US500Cash,H1: #37new day 2021.07.28/2021.07.27
+0	22:28:10.364	breakout-zones .US500Cash,H1: #16new day 2021.07.29/2021.07.28
+0	22:28:10.448	Custom indicator AIMS Entry Alert V1 .USTECHCash,H1: loaded successfully
+0	22:28:10.453	Custom indicator CandleTimer .USTECHCash,H1: loaded successfully
+0	22:28:10.511	Custom indicator #Signal_Bars_v6 .USTECHCash,H1: loaded successfully
+0	22:28:10.518	Custom indicator TrendEnvelopes_v1 .USTECHCash,H1: loaded successfully
+0	22:28:10.524	Custom indicator wedges .USTECHCash,H1: loaded successfully
+0	22:28:10.530	Custom indicator Admiral Pivot .USTECHCash,H1: loaded successfully
+0	22:28:10.536	Custom indicator AutoTrendChannel .USTECHCash,H1: loaded successfully
+0	22:28:10.542	Custom indicator FRZ Channel Auto Plotter .USTECHCash,H1: loaded successfully
+0	22:28:10.549	Custom indicator Forex Uranus direction .USTECHCash,H1: loaded successfully
+0	22:28:10.608	Custom indicator aVSA\aVSA clasters .USTECHCash,H1: loaded successfully
+0	22:28:10.620	Custom indicator aVSA\aVSA Golden Zone .USTECHCash,H1: loaded successfully
+0	22:28:10.627	Custom indicator breakout-zones\breakout-zones .USTECHCash,H1: loaded successfully
+0	22:28:10.634	Custom indicator breakout-zones\SL&TP Values .USTECHCash,H1: loaded successfully
+0	22:28:10.645	Custom indicator PositionSizeCalculator .USTECHCash,H1: loaded successfully
+0	22:28:10.653	Custom indicator DaVinci Truly News Indicator 2.3.95 .USTECHCash,H1: loaded successfully
+0	22:28:10.712	Custom indicator AIMS AO V.2.1 .USTECHCash,H1: loaded successfully
+0	22:28:10.718	Custom indicator IVT_MACD_ZERO_LAG .USTECHCash,H1: loaded successfully
+0	22:28:10.725	Custom indicator RSI Divergence Levels .USTECHCash,H1: loaded successfully
+0	22:28:10.731	Custom indicator RenkoMaker_Confirm .USTECHCash,H1: loaded successfully
+0	22:28:10.737	Custom indicator FRZ Forex Market Session Indicator .USTECHCash,H1: loaded successfully
+0	22:28:10.738	AIMS Entry Alert V1 .USTECHCash,H1: initialized
+0	22:28:10.744	CandleTimer .USTECHCash,H1: initialized
+0	22:28:10.744	#Signal_Bars_v6 .USTECHCash,H1: initialized
+0	22:28:10.752	TrendEnvelopes_v1 .USTECHCash,H1: initialized
+0	22:28:10.764	wedges .USTECHCash,H1: initialized
+0	22:28:10.777	Admiral Pivot .USTECHCash,H1: initialized
+0	22:28:10.785	AutoTrendChannel .USTECHCash,H1: initialized
+0	22:28:10.793	FRZ Channel Auto Plotter .USTECHCash,H1: initialized
+0	22:28:10.803	Forex Uranus direction .USTECHCash,H1: initialized
+0	22:28:10.803	aVSA clasters .USTECHCash,H1: initialized
+0	22:28:10.821	aVSA Golden Zone .USTECHCash,H1: initialized
+0	22:28:10.831	breakout-zones .USTECHCash,H1: initialized
+0	22:28:10.847	SL&TP Values .USTECHCash,H1: initialized
+0	22:28:10.955	PositionSizeCalculator .USTECHCash,H1: Trying to load settings from file.
+0	22:28:10.957	PositionSizeCalculator .USTECHCash,H1: Loaded settings successfully.
+0	22:28:10.964	PositionSizeCalculator .USTECHCash,H1: initialized
+0	22:28:10.979	DaVinci Truly News Indicator 2.3.95 .USTECHCash,H1: Thank you for using our products. More useful and available programs you can find on https://www.davinci-fx.com
+0	22:28:10.979	DaVinci Truly News Indicator 2.3.95 .USTECHCash,H1: initialized
+0	22:28:10.979	AIMS AO V.2.1 .USTECHCash,H1: initialized
+0	22:28:10.990	IVT_MACD_ZERO_LAG .USTECHCash,H1: initialized
+0	22:28:11.004	RSI Divergence Levels .USTECHCash,H1: initialized
+0	22:28:11.011	RenkoMaker_Confirm .USTECHCash,H1: initialized
+0	22:28:11.020	FRZ Forex Market Session Indicator .USTECHCash,H1: initialized
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2269new day 2021.02.27/2021.02.26
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2248new day 2021.03.02/2021.03.01
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2227new day 2021.03.03/2021.03.02
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2206new day 2021.03.04/2021.03.03
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2185new day 2021.03.05/2021.03.04
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2164new day 2021.03.06/2021.03.05
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2143new day 2021.03.09/2021.03.08
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2122new day 2021.03.10/2021.03.09
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2101new day 2021.03.11/2021.03.10
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2080new day 2021.03.12/2021.03.11
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2059new day 2021.03.13/2021.03.12
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2037new day 2021.03.16/2021.03.15
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #2016new day 2021.03.17/2021.03.16
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1995new day 2021.03.18/2021.03.17
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1974new day 2021.03.19/2021.03.18
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1953new day 2021.03.20/2021.03.19
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1932new day 2021.03.23/2021.03.22
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1911new day 2021.03.24/2021.03.23
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1890new day 2021.03.25/2021.03.24
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1869new day 2021.03.26/2021.03.25
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1848new day 2021.03.27/2021.03.26
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1828new day 2021.03.30/2021.03.29
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1807new day 2021.03.31/2021.03.30
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1786new day 2021.04.01/2021.03.31
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1765new day 2021.04.02/2021.04.01
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1747new day 2021.04.05/2021.04.02
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1730new day 2021.04.06/2021.04.05
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1709new day 2021.04.07/2021.04.06
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1688new day 2021.04.08/2021.04.07
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1667new day 2021.04.09/2021.04.08
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1646new day 2021.04.10/2021.04.09
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1625new day 2021.04.13/2021.04.12
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1604new day 2021.04.14/2021.04.13
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1583new day 2021.04.15/2021.04.14
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1562new day 2021.04.16/2021.04.15
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1541new day 2021.04.17/2021.04.16
+0	22:28:11.212	breakout-zones .USTECHCash,H1: #1520new day 2021.04.20/2021.04.19
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1499new day 2021.04.21/2021.04.20
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1478new day 2021.04.22/2021.04.21
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1457new day 2021.04.23/2021.04.22
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1436new day 2021.04.24/2021.04.23
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1415new day 2021.04.27/2021.04.26
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1394new day 2021.04.28/2021.04.27
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1373new day 2021.04.29/2021.04.28
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1352new day 2021.04.30/2021.04.29
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1331new day 2021.05.01/2021.04.30
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1310new day 2021.05.04/2021.05.03
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1289new day 2021.05.05/2021.05.04
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1268new day 2021.05.06/2021.05.05
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1247new day 2021.05.07/2021.05.06
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1226new day 2021.05.08/2021.05.07
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1205new day 2021.05.11/2021.05.10
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1184new day 2021.05.12/2021.05.11
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1163new day 2021.05.13/2021.05.12
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1142new day 2021.05.14/2021.05.13
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1121new day 2021.05.15/2021.05.14
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1100new day 2021.05.18/2021.05.17
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1079new day 2021.05.19/2021.05.18
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1058new day 2021.05.20/2021.05.19
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1037new day 2021.05.21/2021.05.20
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #1016new day 2021.05.22/2021.05.21
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #995new day 2021.05.25/2021.05.24
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #974new day 2021.05.26/2021.05.25
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #953new day 2021.05.27/2021.05.26
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #932new day 2021.05.28/2021.05.27
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #911new day 2021.05.29/2021.05.28
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #890new day 2021.06.01/2021.05.31
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #873new day 2021.06.02/2021.06.01
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #852new day 2021.06.03/2021.06.02
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #831new day 2021.06.04/2021.06.03
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #810new day 2021.06.05/2021.06.04
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #789new day 2021.06.08/2021.06.07
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #768new day 2021.06.09/2021.06.08
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #747new day 2021.06.10/2021.06.09
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #726new day 2021.06.11/2021.06.10
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #705new day 2021.06.12/2021.06.11
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #684new day 2021.06.15/2021.06.14
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #663new day 2021.06.16/2021.06.15
+0	22:28:11.213	breakout-zones .USTECHCash,H1: #642new day 2021.06.17/2021.06.16
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #621new day 2021.06.18/2021.06.17
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #600new day 2021.06.19/2021.06.18
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #579new day 2021.06.22/2021.06.21
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #558new day 2021.06.23/2021.06.22
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #537new day 2021.06.24/2021.06.23
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #516new day 2021.06.25/2021.06.24
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #495new day 2021.06.26/2021.06.25
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #474new day 2021.06.29/2021.06.28
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #453new day 2021.06.30/2021.06.29
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #432new day 2021.07.01/2021.06.30
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #411new day 2021.07.02/2021.07.01
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #390new day 2021.07.03/2021.07.02
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #369new day 2021.07.06/2021.07.05
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #352new day 2021.07.07/2021.07.06
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #331new day 2021.07.08/2021.07.07
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #310new day 2021.07.09/2021.07.08
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #289new day 2021.07.10/2021.07.09
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #268new day 2021.07.13/2021.07.12
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #247new day 2021.07.14/2021.07.13
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #226new day 2021.07.15/2021.07.14
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #205new day 2021.07.16/2021.07.15
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #184new day 2021.07.17/2021.07.16
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #163new day 2021.07.20/2021.07.19
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #142new day 2021.07.21/2021.07.20
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #121new day 2021.07.22/2021.07.21
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #100new day 2021.07.23/2021.07.22
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #79new day 2021.07.24/2021.07.23
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #58new day 2021.07.27/2021.07.26
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #37new day 2021.07.28/2021.07.27
+0	22:28:11.214	breakout-zones .USTECHCash,H1: #16new day 2021.07.29/2021.07.28
+0	22:28:11.298	Custom indicator AIMS Entry Alert V1 .US30Cash,H1: loaded successfully
+0	22:28:11.304	Custom indicator CandleTimer .US30Cash,H1: loaded successfully
+0	22:28:11.363	Custom indicator #Signal_Bars_v6 .US30Cash,H1: loaded successfully
+0	22:28:11.369	Custom indicator TrendEnvelopes_v1 .US30Cash,H1: loaded successfully
+0	22:28:11.375	Custom indicator wedges .US30Cash,H1: loaded successfully
+0	22:28:11.382	Custom indicator Admiral Pivot .US30Cash,H1: loaded successfully
+0	22:28:11.388	Custom indicator AutoTrendChannel .US30Cash,H1: loaded successfully
+0	22:28:11.394	Custom indicator FRZ Channel Auto Plotter .US30Cash,H1: loaded successfully
+0	22:28:11.400	Custom indicator Forex Uranus direction .US30Cash,H1: loaded successfully
+0	22:28:11.458	Custom indicator aVSA\aVSA clasters .US30Cash,H1: loaded successfully
+0	22:28:11.471	Custom indicator aVSA\aVSA Golden Zone .US30Cash,H1: loaded successfully
+0	22:28:11.478	Custom indicator breakout-zones\breakout-zones .US30Cash,H1: loaded successfully
+0	22:28:11.485	Custom indicator breakout-zones\SL&TP Values .US30Cash,H1: loaded successfully
+0	22:28:11.497	Custom indicator PositionSizeCalculator .US30Cash,H1: loaded successfully
+0	22:28:11.504	Custom indicator DaVinci Truly News Indicator 2.3.95 .US30Cash,H1: loaded successfully
+0	22:28:11.563	Custom indicator AIMS AO V.2.1 .US30Cash,H1: loaded successfully
+0	22:28:11.569	Custom indicator IVT_MACD_ZERO_LAG .US30Cash,H1: loaded successfully
+0	22:28:11.575	Custom indicator RSI Divergence Levels .US30Cash,H1: loaded successfully
+0	22:28:11.581	Custom indicator RenkoMaker_Confirm .US30Cash,H1: loaded successfully
+0	22:28:11.587	Custom indicator FRZ Forex Market Session Indicator .US30Cash,H1: loaded successfully
+0	22:28:11.588	AIMS Entry Alert V1 .US30Cash,H1: initialized
+0	22:28:11.594	CandleTimer .US30Cash,H1: initialized
+0	22:28:11.594	#Signal_Bars_v6 .US30Cash,H1: initialized
+0	22:28:11.602	TrendEnvelopes_v1 .US30Cash,H1: initialized
+0	22:28:11.615	wedges .US30Cash,H1: initialized
+0	22:28:11.626	Admiral Pivot .US30Cash,H1: initialized
+0	22:28:11.634	AutoTrendChannel .US30Cash,H1: initialized
+0	22:28:11.642	FRZ Channel Auto Plotter .US30Cash,H1: initialized
+0	22:28:11.653	Forex Uranus direction .US30Cash,H1: initialized
+0	22:28:11.653	aVSA clasters .US30Cash,H1: initialized
+0	22:28:11.671	aVSA Golden Zone .US30Cash,H1: initialized
+0	22:28:11.680	breakout-zones .US30Cash,H1: initialized
+0	22:28:11.697	SL&TP Values .US30Cash,H1: initialized
+0	22:28:11.805	PositionSizeCalculator .US30Cash,H1: Trying to load settings from file.
+0	22:28:11.806	PositionSizeCalculator .US30Cash,H1: Loaded settings successfully.
+0	22:28:11.808	PositionSizeCalculator .US30Cash,H1: initialized
+0	22:28:11.817	DaVinci Truly News Indicator 2.3.95 .US30Cash,H1: Thank you for using our products. More useful and available programs you can find on https://www.davinci-fx.com
+0	22:28:11.817	DaVinci Truly News Indicator 2.3.95 .US30Cash,H1: initialized
+0	22:28:11.817	AIMS AO V.2.1 .US30Cash,H1: initialized
+0	22:28:11.825	IVT_MACD_ZERO_LAG .US30Cash,H1: initialized
+0	22:28:11.838	RSI Divergence Levels .US30Cash,H1: initialized
+0	22:28:11.845	RenkoMaker_Confirm .US30Cash,H1: initialized
+0	22:28:11.854	FRZ Forex Market Session Indicator .US30Cash,H1: initialized
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2269new day 2021.02.27/2021.02.26
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2248new day 2021.03.02/2021.03.01
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2227new day 2021.03.03/2021.03.02
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2206new day 2021.03.04/2021.03.03
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2185new day 2021.03.05/2021.03.04
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2164new day 2021.03.06/2021.03.05
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2143new day 2021.03.09/2021.03.08
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2122new day 2021.03.10/2021.03.09
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2101new day 2021.03.11/2021.03.10
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2080new day 2021.03.12/2021.03.11
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2059new day 2021.03.13/2021.03.12
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2037new day 2021.03.16/2021.03.15
+0	22:28:12.033	breakout-zones .US30Cash,H1: #2016new day 2021.03.17/2021.03.16
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1995new day 2021.03.18/2021.03.17
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1974new day 2021.03.19/2021.03.18
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1953new day 2021.03.20/2021.03.19
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1932new day 2021.03.23/2021.03.22
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1911new day 2021.03.24/2021.03.23
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1890new day 2021.03.25/2021.03.24
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1869new day 2021.03.26/2021.03.25
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1848new day 2021.03.27/2021.03.26
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1828new day 2021.03.30/2021.03.29
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1807new day 2021.03.31/2021.03.30
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1786new day 2021.04.01/2021.03.31
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1765new day 2021.04.02/2021.04.01
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1747new day 2021.04.05/2021.04.02
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1730new day 2021.04.06/2021.04.05
+0	22:28:12.033	breakout-zones .US30Cash,H1: #1709new day 2021.04.07/2021.04.06
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1688new day 2021.04.08/2021.04.07
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1667new day 2021.04.09/2021.04.08
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1646new day 2021.04.10/2021.04.09
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1625new day 2021.04.13/2021.04.12
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1604new day 2021.04.14/2021.04.13
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1583new day 2021.04.15/2021.04.14
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1562new day 2021.04.16/2021.04.15
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1541new day 2021.04.17/2021.04.16
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1520new day 2021.04.20/2021.04.19
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1499new day 2021.04.21/2021.04.20
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1478new day 2021.04.22/2021.04.21
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1457new day 2021.04.23/2021.04.22
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1436new day 2021.04.24/2021.04.23
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1415new day 2021.04.27/2021.04.26
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1394new day 2021.04.28/2021.04.27
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1373new day 2021.04.29/2021.04.28
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1352new day 2021.04.30/2021.04.29
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1331new day 2021.05.01/2021.04.30
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1310new day 2021.05.04/2021.05.03
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1289new day 2021.05.05/2021.05.04
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1268new day 2021.05.06/2021.05.05
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1247new day 2021.05.07/2021.05.06
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1226new day 2021.05.08/2021.05.07
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1205new day 2021.05.11/2021.05.10
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1184new day 2021.05.12/2021.05.11
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1163new day 2021.05.13/2021.05.12
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1142new day 2021.05.14/2021.05.13
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1121new day 2021.05.15/2021.05.14
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1100new day 2021.05.18/2021.05.17
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1079new day 2021.05.19/2021.05.18
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1058new day 2021.05.20/2021.05.19
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1037new day 2021.05.21/2021.05.20
+0	22:28:12.034	breakout-zones .US30Cash,H1: #1016new day 2021.05.22/2021.05.21
+0	22:28:12.034	breakout-zones .US30Cash,H1: #995new day 2021.05.25/2021.05.24
+0	22:28:12.034	breakout-zones .US30Cash,H1: #974new day 2021.05.26/2021.05.25
+0	22:28:12.034	breakout-zones .US30Cash,H1: #953new day 2021.05.27/2021.05.26
+0	22:28:12.034	breakout-zones .US30Cash,H1: #932new day 2021.05.28/2021.05.27
+0	22:28:12.034	breakout-zones .US30Cash,H1: #911new day 2021.05.29/2021.05.28
+0	22:28:12.034	breakout-zones .US30Cash,H1: #890new day 2021.06.01/2021.05.31
+0	22:28:12.034	breakout-zones .US30Cash,H1: #873new day 2021.06.02/2021.06.01
+0	22:28:12.034	breakout-zones .US30Cash,H1: #852new day 2021.06.03/2021.06.02
+0	22:28:12.034	breakout-zones .US30Cash,H1: #831new day 2021.06.04/2021.06.03
+0	22:28:12.034	breakout-zones .US30Cash,H1: #810new day 2021.06.05/2021.06.04
+0	22:28:12.034	breakout-zones .US30Cash,H1: #789new day 2021.06.08/2021.06.07
+0	22:28:12.035	breakout-zones .US30Cash,H1: #768new day 2021.06.09/2021.06.08
+0	22:28:12.035	breakout-zones .US30Cash,H1: #747new day 2021.06.10/2021.06.09
+0	22:28:12.035	breakout-zones .US30Cash,H1: #726new day 2021.06.11/2021.06.10
+0	22:28:12.035	breakout-zones .US30Cash,H1: #705new day 2021.06.12/2021.06.11
+0	22:28:12.035	breakout-zones .US30Cash,H1: #684new day 2021.06.15/2021.06.14
+0	22:28:12.035	breakout-zones .US30Cash,H1: #663new day 2021.06.16/2021.06.15
+0	22:28:12.035	breakout-zones .US30Cash,H1: #642new day 2021.06.17/2021.06.16
+0	22:28:12.035	breakout-zones .US30Cash,H1: #621new day 2021.06.18/2021.06.17
+0	22:28:12.035	breakout-zones .US30Cash,H1: #600new day 2021.06.19/2021.06.18
+0	22:28:12.035	breakout-zones .US30Cash,H1: #579new day 2021.06.22/2021.06.21
+0	22:28:12.035	breakout-zones .US30Cash,H1: #558new day 2021.06.23/2021.06.22
+0	22:28:12.035	breakout-zones .US30Cash,H1: #537new day 2021.06.24/2021.06.23
+0	22:28:12.035	breakout-zones .US30Cash,H1: #516new day 2021.06.25/2021.06.24
+0	22:28:12.035	breakout-zones .US30Cash,H1: #495new day 2021.06.26/2021.06.25
+0	22:28:12.035	breakout-zones .US30Cash,H1: #474new day 2021.06.29/2021.06.28
+0	22:28:12.035	breakout-zones .US30Cash,H1: #453new day 2021.06.30/2021.06.29
+0	22:28:12.035	breakout-zones .US30Cash,H1: #432new day 2021.07.01/2021.06.30
+0	22:28:12.035	breakout-zones .US30Cash,H1: #411new day 2021.07.02/2021.07.01
+0	22:28:12.035	breakout-zones .US30Cash,H1: #390new day 2021.07.03/2021.07.02
+0	22:28:12.035	breakout-zones .US30Cash,H1: #369new day 2021.07.06/2021.07.05
+0	22:28:12.035	breakout-zones .US30Cash,H1: #352new day 2021.07.07/2021.07.06
+0	22:28:12.035	breakout-zones .US30Cash,H1: #331new day 2021.07.08/2021.07.07
+0	22:28:12.035	breakout-zones .US30Cash,H1: #310new day 2021.07.09/2021.07.08
+0	22:28:12.035	breakout-zones .US30Cash,H1: #289new day 2021.07.10/2021.07.09
+0	22:28:12.035	breakout-zones .US30Cash,H1: #268new day 2021.07.13/2021.07.12
+0	22:28:12.035	breakout-zones .US30Cash,H1: #247new day 2021.07.14/2021.07.13
+0	22:28:12.035	breakout-zones .US30Cash,H1: #226new day 2021.07.15/2021.07.14
+0	22:28:12.035	breakout-zones .US30Cash,H1: #205new day 2021.07.16/2021.07.15
+0	22:28:12.035	breakout-zones .US30Cash,H1: #184new day 2021.07.17/2021.07.16
+0	22:28:12.035	breakout-zones .US30Cash,H1: #163new day 2021.07.20/2021.07.19
+0	22:28:12.035	breakout-zones .US30Cash,H1: #142new day 2021.07.21/2021.07.20
+0	22:28:12.035	breakout-zones .US30Cash,H1: #121new day 2021.07.22/2021.07.21
+0	22:28:12.035	breakout-zones .US30Cash,H1: #100new day 2021.07.23/2021.07.22
+0	22:28:12.035	breakout-zones .US30Cash,H1: #79new day 2021.07.24/2021.07.23
+0	22:28:12.035	breakout-zones .US30Cash,H1: #58new day 2021.07.27/2021.07.26
+0	22:28:12.035	breakout-zones .US30Cash,H1: #37new day 2021.07.28/2021.07.27
+0	22:28:12.035	breakout-zones .US30Cash,H1: #16new day 2021.07.29/2021.07.28
+0	22:28:12.141	Custom indicator AIMS Entry Alert V1 WTI,Weekly: loaded successfully
+0	22:28:12.147	Custom indicator CandleTimer WTI,Weekly: loaded successfully
+0	22:28:12.206	Custom indicator #Signal_Bars_v6 WTI,Weekly: loaded successfully
+0	22:28:12.212	Custom indicator TrendEnvelopes_v1 WTI,Weekly: loaded successfully
+0	22:28:12.219	Custom indicator wedges WTI,Weekly: loaded successfully
+0	22:28:12.226	Custom indicator Admiral Pivot WTI,Weekly: loaded successfully
+0	22:28:12.231	Custom indicator AutoTrendChannel WTI,Weekly: loaded successfully
+0	22:28:12.237	Custom indicator FRZ Channel Auto Plotter WTI,Weekly: loaded successfully
+0	22:28:12.243	Custom indicator Forex Uranus direction WTI,Weekly: loaded successfully
+0	22:28:12.302	Custom indicator aVSA\aVSA clasters WTI,Weekly: loaded successfully
+0	22:28:12.315	Custom indicator aVSA\aVSA Golden Zone WTI,Weekly: loaded successfully
+0	22:28:12.321	Custom indicator breakout-zones\breakout-zones WTI,Weekly: loaded successfully
+0	22:28:12.328	Custom indicator breakout-zones\SL&TP Values WTI,Weekly: loaded successfully
+0	22:28:12.339	Custom indicator PositionSizeCalculator WTI,Weekly: loaded successfully
+0	22:28:12.347	Custom indicator DaVinci Truly News Indicator 2.3.95 WTI,Weekly: loaded successfully
+0	22:28:12.406	Custom indicator AIMS AO V.2.1 WTI,Weekly: loaded successfully
+0	22:28:12.412	Custom indicator IVT_MACD_ZERO_LAG WTI,Weekly: loaded successfully
+0	22:28:12.419	Custom indicator RSI Divergence Levels WTI,Weekly: loaded successfully
+0	22:28:12.424	Custom indicator RenkoMaker_Confirm WTI,Weekly: loaded successfully
+0	22:28:12.431	Custom indicator FRZ Forex Market Session Indicator WTI,Weekly: loaded successfully
+0	22:28:12.433	AIMS Entry Alert V1 WTI,Weekly: initialized
+0	22:28:12.447	CandleTimer WTI,Weekly: initialized
+0	22:28:12.447	#Signal_Bars_v6 WTI,Weekly: initialized
+0	22:28:12.459	TrendEnvelopes_v1 WTI,Weekly: initialized
+0	22:28:12.473	wedges WTI,Weekly: initialized
+0	22:28:12.485	Admiral Pivot WTI,Weekly: initialized
+0	22:28:12.494	AutoTrendChannel WTI,Weekly: initialized
+0	22:28:12.502	FRZ Channel Auto Plotter WTI,Weekly: initialized
+0	22:28:12.512	Forex Uranus direction WTI,Weekly: initialized
+0	22:28:12.512	aVSA clasters WTI,Weekly: initialized
+0	22:28:12.531	aVSA Golden Zone WTI,Weekly: initialized
+0	22:28:12.540	breakout-zones WTI,Weekly: initialized
+0	22:28:12.557	SL&TP Values WTI,Weekly: initialized
+0	22:28:12.660	PositionSizeCalculator WTI,Weekly: Trying to load settings from file.
+0	22:28:12.660	PositionSizeCalculator WTI,Weekly: Loaded settings successfully.
+0	22:28:12.660	PositionSizeCalculator WTI,Weekly: initialized
+0	22:28:12.676	DaVinci Truly News Indicator 2.3.95 WTI,Weekly: Thank you for using our products. More useful and available programs you can find on https://www.davinci-fx.com
+0	22:28:12.676	DaVinci Truly News Indicator 2.3.95 WTI,Weekly: initialized
+0	22:28:12.676	AIMS AO V.2.1 WTI,Weekly: initialized
+0	22:28:12.676	IVT_MACD_ZERO_LAG WTI,Weekly: initialized
+0	22:28:12.692	RSI Divergence Levels WTI,Weekly: initialized
+0	22:28:12.692	RenkoMaker_Confirm WTI,Weekly: initialized
+0	22:28:12.707	FRZ Forex Market Session Indicator WTI,Weekly: initialized
+1	22:28:12.754	AutoTrendChannel WTI,Weekly: zero divide in 'AutoTrendChannel.mq4' (84,39)
+0	22:28:12.785	breakout-zones WTI,Weekly: #468new day 2012.08.05/1970.01.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #466new day 2012.08.19/2012.08.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #464new day 2012.09.02/2012.08.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #462new day 2012.09.16/2012.09.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #460new day 2012.09.30/2012.09.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #458new day 2012.10.14/2012.10.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #456new day 2012.10.28/2012.10.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #454new day 2012.11.11/2012.11.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #452new day 2012.11.25/2012.11.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #450new day 2012.12.09/2012.12.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #448new day 2012.12.23/2012.12.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #446new day 2013.01.06/2012.12.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #444new day 2013.01.20/2013.01.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #442new day 2013.02.03/2013.01.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #440new day 2013.02.17/2013.02.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #438new day 2013.03.03/2013.02.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #436new day 2013.03.17/2013.03.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #434new day 2013.03.31/2013.03.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #432new day 2013.04.14/2013.04.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #430new day 2013.04.28/2013.04.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #428new day 2013.05.12/2013.05.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #426new day 2013.05.26/2013.05.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #424new day 2013.06.09/2013.06.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #422new day 2013.06.23/2013.06.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #420new day 2013.07.07/2013.06.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #418new day 2013.07.21/2013.07.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #416new day 2013.08.04/2013.07.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #414new day 2013.08.18/2013.08.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #412new day 2013.09.01/2013.08.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #410new day 2013.09.15/2013.09.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #408new day 2013.09.29/2013.09.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #406new day 2013.10.13/2013.10.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #404new day 2013.10.27/2013.10.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #402new day 2013.11.10/2013.11.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #400new day 2013.11.24/2013.11.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #398new day 2013.12.08/2013.12.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #396new day 2013.12.22/2013.12.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #394new day 2014.01.05/2013.12.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #392new day 2014.01.19/2014.01.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #390new day 2014.02.02/2014.01.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #388new day 2014.02.16/2014.02.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #386new day 2014.03.02/2014.02.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #384new day 2014.03.16/2014.03.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #382new day 2014.03.30/2014.03.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #380new day 2014.04.13/2014.04.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #378new day 2014.04.27/2014.04.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #376new day 2014.05.11/2014.05.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #374new day 2014.05.25/2014.05.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #372new day 2014.06.08/2014.06.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #370new day 2014.06.22/2014.06.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #368new day 2014.07.06/2014.06.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #366new day 2014.07.20/2014.07.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #364new day 2014.08.03/2014.07.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #362new day 2014.08.17/2014.08.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #360new day 2014.08.31/2014.08.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #358new day 2014.09.14/2014.09.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #356new day 2014.09.28/2014.09.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #354new day 2014.10.12/2014.10.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #352new day 2014.10.26/2014.10.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #350new day 2014.11.09/2014.11.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #348new day 2014.11.23/2014.11.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #346new day 2014.12.07/2014.11.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #344new day 2014.12.21/2014.12.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #342new day 2015.01.04/2014.12.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #340new day 2015.01.18/2015.01.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #338new day 2015.02.01/2015.01.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #336new day 2015.02.15/2015.02.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #334new day 2015.03.01/2015.02.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #332new day 2015.03.15/2015.03.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #330new day 2015.03.29/2015.03.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #328new day 2015.04.12/2015.04.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #326new day 2015.04.26/2015.04.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #324new day 2015.05.10/2015.05.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #322new day 2015.05.24/2015.05.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #320new day 2015.06.07/2015.05.31
+0	22:28:12.785	breakout-zones WTI,Weekly: #318new day 2015.06.21/2015.06.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #316new day 2015.07.05/2015.06.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #314new day 2015.07.19/2015.07.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #312new day 2015.08.02/2015.07.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #310new day 2015.08.16/2015.08.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #308new day 2015.08.30/2015.08.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #306new day 2015.09.13/2015.09.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #304new day 2015.09.27/2015.09.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #302new day 2015.10.11/2015.10.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #300new day 2015.10.25/2015.10.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #298new day 2015.11.08/2015.11.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #296new day 2015.11.22/2015.11.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #294new day 2015.12.06/2015.11.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #292new day 2015.12.20/2015.12.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #290new day 2016.01.03/2015.12.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #288new day 2016.01.17/2016.01.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #286new day 2016.01.31/2016.01.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #284new day 2016.02.14/2016.02.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #282new day 2016.02.28/2016.02.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #280new day 2016.03.13/2016.03.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #278new day 2016.03.27/2016.03.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #276new day 2016.04.10/2016.04.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #274new day 2016.04.24/2016.04.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #272new day 2016.05.08/2016.05.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #270new day 2016.05.22/2016.05.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #268new day 2016.06.05/2016.05.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #266new day 2016.06.19/2016.06.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #264new day 2016.07.03/2016.06.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #262new day 2016.07.17/2016.07.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #260new day 2016.07.31/2016.07.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #258new day 2016.08.14/2016.08.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #256new day 2016.08.28/2016.08.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #254new day 2016.09.11/2016.09.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #252new day 2016.09.25/2016.09.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #250new day 2016.10.09/2016.10.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #248new day 2016.10.23/2016.10.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #246new day 2016.11.06/2016.10.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #244new day 2016.11.20/2016.11.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #242new day 2016.12.04/2016.11.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #240new day 2016.12.18/2016.12.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #238new day 2017.01.01/2016.12.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #236new day 2017.01.15/2017.01.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #234new day 2017.01.29/2017.01.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #232new day 2017.02.12/2017.02.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #230new day 2017.02.26/2017.02.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #228new day 2017.03.12/2017.03.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #226new day 2017.03.26/2017.03.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #224new day 2017.04.09/2017.04.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #222new day 2017.04.23/2017.04.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #220new day 2017.05.07/2017.04.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #218new day 2017.05.21/2017.05.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #216new day 2017.06.04/2017.05.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #214new day 2017.06.18/2017.06.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #212new day 2017.07.02/2017.06.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #210new day 2017.07.16/2017.07.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #208new day 2017.07.30/2017.07.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #206new day 2017.08.13/2017.08.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #204new day 2017.08.27/2017.08.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #202new day 2017.09.10/2017.09.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #200new day 2017.09.24/2017.09.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #198new day 2017.10.08/2017.10.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #196new day 2017.10.22/2017.10.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #194new day 2017.11.05/2017.10.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #192new day 2017.11.19/2017.11.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #190new day 2017.12.03/2017.11.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #188new day 2017.12.17/2017.12.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #186new day 2017.12.31/2017.12.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #184new day 2018.01.14/2018.01.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #182new day 2018.01.28/2018.01.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #180new day 2018.02.11/2018.02.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #178new day 2018.02.25/2018.02.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #176new day 2018.03.11/2018.03.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #174new day 2018.03.25/2018.03.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #172new day 2018.04.08/2018.04.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #170new day 2018.04.22/2018.04.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #168new day 2018.05.06/2018.04.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #166new day 2018.05.20/2018.05.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #164new day 2018.06.03/2018.05.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #162new day 2018.06.17/2018.06.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #160new day 2018.07.01/2018.06.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #158new day 2018.07.15/2018.07.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #156new day 2018.07.29/2018.07.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #154new day 2018.08.12/2018.08.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #152new day 2018.08.26/2018.08.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #150new day 2018.09.09/2018.09.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #148new day 2018.09.23/2018.09.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #146new day 2018.10.07/2018.09.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #144new day 2018.10.21/2018.10.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #142new day 2018.11.04/2018.10.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #140new day 2018.11.18/2018.11.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #138new day 2018.12.02/2018.11.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #136new day 2018.12.16/2018.12.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #134new day 2018.12.30/2018.12.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #132new day 2019.01.13/2019.01.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #130new day 2019.01.27/2019.01.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #128new day 2019.02.10/2019.02.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #126new day 2019.02.24/2019.02.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #124new day 2019.03.10/2019.03.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #122new day 2019.03.24/2019.03.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #120new day 2019.04.07/2019.03.31
+0	22:28:12.785	breakout-zones WTI,Weekly: #118new day 2019.04.21/2019.04.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #116new day 2019.05.05/2019.04.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #114new day 2019.05.19/2019.05.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #112new day 2019.06.02/2019.05.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #110new day 2019.06.16/2019.06.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #108new day 2019.06.30/2019.06.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #106new day 2019.07.14/2019.07.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #104new day 2019.07.28/2019.07.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #102new day 2019.08.11/2019.08.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #100new day 2019.08.25/2019.08.18
+0	22:28:12.785	breakout-zones WTI,Weekly: #98new day 2019.09.08/2019.09.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #96new day 2019.09.22/2019.09.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #94new day 2019.10.06/2019.09.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #92new day 2019.10.20/2019.10.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #90new day 2019.11.03/2019.10.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #88new day 2019.11.17/2019.11.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #86new day 2019.12.01/2019.11.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #84new day 2019.12.15/2019.12.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #82new day 2019.12.29/2019.12.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #80new day 2020.01.12/2020.01.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #78new day 2020.01.26/2020.01.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #76new day 2020.02.09/2020.02.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #74new day 2020.02.23/2020.02.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #72new day 2020.03.08/2020.03.01
+0	22:28:12.785	breakout-zones WTI,Weekly: #70new day 2020.03.22/2020.03.15
+0	22:28:12.785	breakout-zones WTI,Weekly: #68new day 2020.04.05/2020.03.29
+0	22:28:12.785	breakout-zones WTI,Weekly: #66new day 2020.04.19/2020.04.12
+0	22:28:12.785	breakout-zones WTI,Weekly: #64new day 2020.05.03/2020.04.26
+0	22:28:12.785	breakout-zones WTI,Weekly: #62new day 2020.05.17/2020.05.10
+0	22:28:12.785	breakout-zones WTI,Weekly: #60new day 2020.05.31/2020.05.24
+0	22:28:12.785	breakout-zones WTI,Weekly: #58new day 2020.06.14/2020.06.07
+0	22:28:12.785	breakout-zones WTI,Weekly: #56new day 2020.06.28/2020.06.21
+0	22:28:12.785	breakout-zones WTI,Weekly: #54new day 2020.07.12/2020.07.05
+0	22:28:12.785	breakout-zones WTI,Weekly: #52new day 2020.07.26/2020.07.19
+0	22:28:12.785	breakout-zones WTI,Weekly: #50new day 2020.08.09/2020.08.02
+0	22:28:12.785	breakout-zones WTI,Weekly: #48new day 2020.08.23/2020.08.16
+0	22:28:12.785	breakout-zones WTI,Weekly: #46new day 2020.09.06/2020.08.30
+0	22:28:12.785	breakout-zones WTI,Weekly: #44new day 2020.09.20/2020.09.13
+0	22:28:12.785	breakout-zones WTI,Weekly: #42new day 2020.10.04/2020.09.27
+0	22:28:12.785	breakout-zones WTI,Weekly: #40new day 2020.10.18/2020.10.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #38new day 2020.11.01/2020.10.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #36new day 2020.11.15/2020.11.08
+0	22:28:12.785	breakout-zones WTI,Weekly: #34new day 2020.11.29/2020.11.22
+0	22:28:12.785	breakout-zones WTI,Weekly: #32new day 2020.12.13/2020.12.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #30new day 2020.12.27/2020.12.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #28new day 2021.01.10/2021.01.03
+0	22:28:12.785	breakout-zones WTI,Weekly: #26new day 2021.01.24/2021.01.17
+0	22:28:12.785	breakout-zones WTI,Weekly: #24new day 2021.02.07/2021.01.31
+0	22:28:12.785	breakout-zones WTI,Weekly: #22new day 2021.02.21/2021.02.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #20new day 2021.03.07/2021.02.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #18new day 2021.03.21/2021.03.14
+0	22:28:12.785	breakout-zones WTI,Weekly: #16new day 2021.04.04/2021.03.28
+0	22:28:12.785	breakout-zones WTI,Weekly: #14new day 2021.04.18/2021.04.11
+0	22:28:12.785	breakout-zones WTI,Weekly: #12new day 2021.05.02/2021.04.25
+0	22:28:12.785	breakout-zones WTI,Weekly: #10new day 2021.05.16/2021.05.09
+0	22:28:12.785	breakout-zones WTI,Weekly: #8new day 2021.05.30/2021.05.23
+0	22:28:12.785	breakout-zones WTI,Weekly: #6new day 2021.06.13/2021.06.06
+0	22:28:12.785	breakout-zones WTI,Weekly: #4new day 2021.06.27/2021.06.20
+0	22:28:12.785	breakout-zones WTI,Weekly: #2new day 2021.07.11/2021.07.04
+0	22:28:12.785	breakout-zones WTI,Weekly: #0new day 2021.07.25/2021.07.18
+0	22:28:12.863	Custom indicator AIMS Entry Alert V1 US100.cash,M1: loaded successfully
+0	22:28:12.863	Custom indicator CandleTimer US100.cash,M1: loaded successfully
+0	22:28:12.926	Custom indicator #Signal_Bars_v6 US100.cash,M1: loaded successfully
+0	22:28:12.926	Custom indicator TrendEnvelopes_v1 US100.cash,M1: loaded successfully
+0	22:28:12.942	Custom indicator wedges US100.cash,M1: loaded successfully
+0	22:28:12.942	Custom indicator Admiral Pivot US100.cash,M1: loaded successfully
+0	22:28:12.957	Custom indicator AutoTrendChannel US100.cash,M1: loaded successfully
+0	22:28:12.957	Custom indicator FRZ Channel Auto Plotter US100.cash,M1: loaded successfully
+0	22:28:12.957	Custom indicator Forex Uranus direction US100.cash,M1: loaded successfully
+0	22:28:13.029	Custom indicator aVSA\aVSA clasters US100.cash,M1: loaded successfully
+0	22:28:13.042	Custom indicator aVSA\aVSA Golden Zone US100.cash,M1: loaded successfully
+0	22:28:13.048	Custom indicator breakout-zones\breakout-zones US100.cash,M1: loaded successfully
+0	22:28:13.055	Custom indicator breakout-zones\SL&TP Values US100.cash,M1: loaded successfully
+0	22:28:13.066	Custom indicator PositionSizeCalculator US100.cash,M1: loaded successfully
+0	22:28:13.074	Custom indicator DaVinci Truly News Indicator 2.3.95 US100.cash,M1: loaded successfully
+0	22:28:13.134	Custom indicator AIMS AO V.2.1 US100.cash,M1: loaded successfully
+0	22:28:13.141	Custom indicator IVT_MACD_ZERO_LAG US100.cash,M1: loaded successfully
+0	22:28:13.147	Custom indicator RSI Divergence Levels US100.cash,M1: loaded successfully
+0	22:28:13.153	Custom indicator RenkoMaker_Confirm US100.cash,M1: loaded successfully
+0	22:28:13.159	Custom indicator FRZ Forex Market Session Indicator US100.cash,M1: loaded successfully

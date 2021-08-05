@@ -1,0 +1,137 @@
+_____Product_name_______= ..:: IceFX TraderAgent PRO ::..
+CC1______________________========== License settings =========
+PassKey=
+CC2______________________========== Common settings =========
+MagicNumber=0
+CommentForOrder=IceFX.TraderAgent
+OrderSlippage=2
+CC3______________________========== Money management =========
+RiskPercent=1.0
+LOT=0.0
+CC4______________________========== SL / TP settings =========
+StopLoss=40.0
+TakeProfit=80.0
+AutoTurnOffPreDefined=true
+CC4_1= TrailingType: 0 - disabled; 1 - classic (fix); 2 - ATR; 3 - EMA; 4- PSAR; 5 - HighLow
+TrailingType=1
+TrailingParam1=25.0
+TrailingParam2=0.0
+TrailingAlways=false
+TrailingCandleOffset=1
+TrailingDistanceOffset=0.0
+CC4_2= TrailingStopAt: 0 - after BreakEventAt; x - after x pips
+TrailingStopAt=0.0
+CC5______________________========== Break Even settings =========
+BreakEvenAt=20.0
+BreakEvenPips=5.0
+CC6______________________========== Partial Close settings =========
+QuickPartialClose=50.0
+PartialClosePos1=20.0
+PartialClosePercent1=50.0
+PartialClosePos2=40.0
+PartialClosePercent2=50.0
+PartialClosePos3=60.0
+PartialClosePercent3=50.0
+CC13_____________________========== Trendline handling =========
+TrueTLSupport=false
+CC14_____________________========== Extra features =========
+StealthMode=false
+AntiSpikeMode=false
+DontAllowOrderOpenMaxSpread=0.0
+ShowPivotPoints=true
+ShowNextCandleTime=true
+NextCandleTimeTextColor=16777215
+ShowSentinelAlerts=true
+ConfirmActions=false
+RemoveMT4ObjectAfterClose=false
+CC19_____________________========== Pending line handling =========
+UsePendingLines=true
+PendingLineColor=16436871
+QuickPendingDistance=20.0
+UsePredefinedLineForPending=false
+CC20_____________________========== Auto Close-All settings =======
+AutoCloseAllProfitMoney=0.0
+AutoCloseAllProfitPercent=0.0
+AutoCloseAllLossMoney=0.0
+AutoCloseAllLossPercent=0.0
+CC15_____________________========== Grid feature settings =========
+GridStep=20.0
+GridMaxOrderCount=10
+GridLotMode=0
+GridLotMultiplier=1.6
+GridReCalculateSLTP=true
+CC18_____________________========== Audio settings =========
+PlaySoundFileAfterOpen=
+PlaySoundFileAfterClose=
+CC7______________________========== Visual settings =========
+DrawPriceLabel=true
+DrawOrderLines=true
+HideCopyRight=false
+CC7_1____________________========== Control line settings =========
+ShowControlLineLabels=true
+ControlLineOffset=-40
+ControlLineLabelColor=0
+AlternativeLineLabels=false
+StopLossColor=255
+TakeProfitColor=3329330
+PartialCloseColor=42495
+BreakEvenColor=16436871
+PreDefinedSLLineColor=16711935
+PreDefinedTPLineColor=7451452
+PreDefinedPendingLineColor=2139610
+AveragePriceLineColor=9470064
+NextAveragePriceLineColor=-1
+CC21______________________========== Toolbar settings =========
+ToolbarY=20
+CC8______________________========== Account Panel settings =========
+ShowAccountPanel=true
+AccountPanelX=25
+AccountPanelY=25
+CC9______________________========== Control Panel settings =========
+ShowControlPanel=true
+ControlPanelX=-220
+ControlPanelY=25
+CC10_____________________========== Order list settings =========
+ShowOrderListPanel=true
+OrderListPanelX=25
+OrderListPanelY=220
+CC8_1= 0 - Side by order list, 1 - Bottom of order list
+PropertiesPanelPos=1
+CC11_____________________========== Profit Panel settings =========
+ShowProfitPanel=true
+ProfitPanelX=200
+ProfitPanelY=25
+ProfitOnThisSymbolOnly=true
+CC16_____________________========== Dashboard Panel settings =========
+ShowDashboard=true
+DashboardX=-220
+DashboardY=200
+DashboardSpreadRedValue=3.0
+Dashboard_ShowPriceMeter=true
+Dashboard_ShowSemaphore=true
+Dashboard_SemaphoreCurrentTF=false
+Dashboard_MAPeriod=14
+Dashboard_MAMode=1
+Dashboard_MAPrice=0
+Dashboard_CCIPeriod=14
+Dashboard_CCIPrice=5
+Dashboard_RSIPeriod=14
+Dashboard_RSIPrice=5
+Dashboard_StochKPeriod=8
+Dashboard_StockDPeriod=3
+Dashboard_StochSlowing=3
+Dashboard_StochMode=1
+Dashboard_StochPrice=0
+CC12_____________________========== Notifications =========
+ShowNotifications=true
+CC22_____________________========== Advanced settings =========
+PipMultiplierOverride=0
+CC21_____________________========== Screenshots =========
+ScreenShotFolder=TraderAgent ScreenShots
+CC17_____________________======== Backtest settings =========
+BackTestTime=50
+ScreenShotInBacktest=false
+PauseBTEveryCandles=0
+PauseBTFromDate=0
+SupportNewsInfoInBacktest=false
+NewsInfoGMTOffset=0.0

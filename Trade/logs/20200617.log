@@ -1,0 +1,1027 @@
+0	01:34:21.855	'14109544': pending order sell limit 1.00 FR40 at 5100.00 sl: 0.00 tp: 0.00
+0	01:34:22.183	'14109544': order was opened : #188988819 sell limit 1.00 FR40 at 5100.00 sl: 0.00 tp: 0.00
+0	01:34:23.108	Notifications: 'pending order opened #188988819 sell limit 1.00 FR40 at 5100.00' sent to 'A37163A9'
+0	01:34:55.338	'14109544': modify pending order #188988819 sell limit 1.00 FR40 at 5100.00 sl: 0.00 tp: 0.00 -> price: 5236.36 sl: 0.00 tp: 0.00
+0	01:34:55.656	'14109544': pending order #188988819 sell limit 1.00 FR40 was modified -> price: 5236.36 sl: 0.00 tp: 0.00
+0	01:34:56.519	Notifications: 'pending order #188988819 sell limit 1.00 FR40 modified: 5100.00 sl: 0.00 tp: 0.00 -> 5236.36 sl: 0.00 tp: 0.00' sent to 'A37163A9'
+0	01:35:50.959	'14109544': delete pending order #188988819 sell limit 1.00 FR40 at 5236.36 sl: 0.00 tp: 0.00
+0	01:35:51.315	'14109544': pending order #188988819 was deleted
+0	01:35:52.319	Notifications: 'pending order #188988819 sell limit 1.00 FR40 at 5236.36 deleted' sent to 'A37163A9'
+0	01:37:45.153	'14109544': pending order sell limit 1.00 FR40 at 5100.00 sl: 5271.00 tp: 4433.00
+0	01:37:45.728	'14109544': order was opened : #188988856 sell limit 1.00 FR40 at 5100.00 sl: 5271.00 tp: 4433.00
+0	01:37:46.308	Notifications: 'pending order opened #188988856 sell limit 1.00 FR40 at 5100.00 sl: 5271.00 tp: 4433.00' sent to 'A37163A9'
+2	02:02:01.127	Custom indicator AIMS Levels V2 JP225,H1: loaded successfully
+2	02:02:01.201	Custom indicator AIMS Entry Alert V1 JP225,H1: loaded successfully
+2	02:02:01.266	Custom indicator CandleTimer JP225,H1: loaded successfully
+2	02:02:01.370	Custom indicator #Signal_Bars_v6 JP225,H1: loaded successfully
+2	02:02:01.447	Custom indicator AIMS AO V.2.1 JP225,H1: loaded successfully
+2	02:02:01.458	Custom indicator IVT_MACD_ZERO_LAG JP225,H1: loaded successfully
+2	02:02:01.469	Custom indicator RSI Divergence Levels JP225,H1: loaded successfully
+0	02:03:24.456	HistoryCenter: synchronize 'JP22560'
+0	02:03:26.354	HistoryCenter: 22 bars imported in 'JP22560'
+2	02:06:02.255	Custom indicator AIMS Levels V2 JP225,H4: removed
+2	02:06:02.255	Custom indicator AIMS Entry Alert V1 JP225,H4: removed
+2	02:06:02.277	Custom indicator CandleTimer JP225,H4: removed
+2	02:06:02.277	Custom indicator #Signal_Bars_v6 JP225,H4: removed
+2	02:06:02.277	Custom indicator AIMS AO V.2.1 JP225,H4: removed
+2	02:06:02.278	Custom indicator IVT_MACD_ZERO_LAG JP225,H4: removed
+2	02:06:02.280	Custom indicator RSI Divergence Levels JP225,H4: removed
+2	02:06:02.421	Custom indicator Heiken Ashi JP225,H4: loaded successfully
+2	02:06:02.498	Custom indicator CHANNEL JP225,H4: loaded successfully
+2	02:06:02.574	Custom indicator TARGET_LINES JP225,H4: loaded successfully
+2	02:06:02.647	Custom indicator TREND-REVERS JP225,H4: loaded successfully
+2	02:06:02.723	Custom indicator S&R JP225,H4: loaded successfully
+2	02:06:02.796	Custom indicator ARROWS JP225,H4: loaded successfully
+0	02:11:03.633	'14109544': pending order sell limit 0.20 US30 at 27600.0 sl: 27655.0 tp: 0.0
+0	02:11:03.943	'14109544': order was opened : #188989697 sell limit 0.20 US30 at 27600.0 sl: 27655.0 tp: 0.0
+0	02:11:04.892	Notifications: 'pending order opened #188989697 sell limit 0.20 US30 at 27600.0 sl: 27655.0' sent to 'A37163A9'
+2	02:14:10.259	Custom indicator AIMS Levels V2 US500_x100,H1: loaded successfully
+2	02:14:10.374	Custom indicator AIMS Entry Alert V1 US500_x100,H1: loaded successfully
+2	02:14:10.387	Custom indicator CandleTimer US500_x100,H1: loaded successfully
+2	02:14:10.512	Custom indicator #Signal_Bars_v6 US500_x100,H1: loaded successfully
+2	02:14:10.629	Custom indicator AIMS AO V.2.1 US500_x100,H1: loaded successfully
+2	02:14:10.639	Custom indicator IVT_MACD_ZERO_LAG US500_x100,H1: loaded successfully
+2	02:14:10.647	Custom indicator RSI Divergence Levels US500_x100,H1: loaded successfully
+0	02:15:36.266	'8221994': login on Exness-Trial2 through DC00 (ping: 211.15 ms)
+0	02:15:39.211	'8221994': login datacenter on Exness-Trial2 through DC00 (ping: 211.15 ms)
+0	02:15:39.667	Notifications: 'Classical RSI bullish divergence on:  XAUUSD' sent to 'A37163A9'
+0	02:15:40.199	'8221994': previous successful authorization performed from 197.149.32.7
+0	02:15:47.247	Notifications: 'Classical RSI bullish divergence on:  US30' sent to 'A37163A9'
+0	02:15:48.129	Notifications: 'Classical RSI bullish divergence on:  FR40' sent to 'A37163A9'
+0	02:15:49.024	'8221994': ping to current access point DC00 is 230.38 ms
+1	02:19:01.194	'8221994': order sell 0.20 US500_x100 opening at 3128.05 sl: 0.00 tp: 0.00 failed [Not enough money]
+1	02:19:01.194	'8221994': order #0 sell 0.20 US500_x100 at 3128.05 failed [Not enough money]
+1	02:19:04.912	'8221994': order sell 0.20 US500_x100 opening at 3128.25 sl: 0.00 tp: 0.00 failed [Not enough money]
+1	02:19:04.912	'8221994': order #0 sell 0.20 US500_x100 at 3128.25 failed [Not enough money]
+1	02:19:06.448	'8221994': order sell 0.20 US500_x100 opening at 3128.25 sl: 0.00 tp: 0.00 failed [Not enough money]
+1	02:19:06.448	'8221994': order #0 sell 0.20 US500_x100 at 3128.25 failed [Not enough money]
+1	02:19:14.050	'8221994': order buy 0.20 US500_x100 opening at 3129.24 sl: 0.00 tp: 0.00 failed [Not enough money]
+1	02:19:14.050	'8221994': order #0 buy 0.20 US500_x100 at 3129.24 failed [Not enough money]
+1	02:19:16.672	'8221994': order sell 0.20 US500_x100 opening at 3128.25 sl: 0.00 tp: 0.00 failed [Not enough money]
+1	02:19:16.672	'8221994': order #0 sell 0.20 US500_x100 at 3128.25 failed [Not enough money]
+0	02:19:27.486	'14109544': login on Exness-Real4 through DC00 (ping: 213.28 ms)
+0	02:19:30.011	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 213.28 ms)
+0	02:19:31.295	'14109544': previous successful authorization performed from 197.149.32.67
+0	02:19:45.470	'14109544': ping to current access point DC00 is 214.65 ms
+2	02:20:12.895	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	02:20:13.027	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	02:20:13.040	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	02:20:13.166	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	02:20:13.290	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	02:20:13.302	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	02:20:13.314	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+0	02:43:51.714	Notifications: 'Classical RSI bearish divergence on:  EURJPY' sent to 'A37163A9'
+2	02:51:32.458	Custom indicator AIMS Levels V2 EURJPY,M1: removed
+2	02:51:32.458	Custom indicator AIMS Entry Alert V1 EURJPY,M1: removed
+2	02:51:32.461	Custom indicator CandleTimer EURJPY,M1: removed
+2	02:51:32.461	Custom indicator #Signal_Bars_v6 EURJPY,M1: removed
+2	02:51:32.461	Custom indicator AIMS AO V.2.1 EURJPY,M1: removed
+2	02:51:32.462	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M1: removed
+2	02:51:32.464	Custom indicator RSI Divergence Levels EURJPY,M1: removed
+2	02:51:32.593	Custom indicator AnggrekJingga EURJPY,M1: loaded successfully
+2	02:51:32.661	Custom indicator BBSTOP EURJPY,M1: loaded successfully
+2	02:51:32.727	Custom indicator super-signals_v2b EURJPY,M1: loaded successfully
+2	02:51:32.735	Custom indicator ZigZag EURJPY,M1: loaded successfully
+2	02:51:32.800	Custom indicator Gst_Signal_3 EURJPY,M1: loaded successfully
+2	02:51:32.866	Custom indicator VQ EURJPY,M1: loaded successfully
+0	02:59:47.922	Notifications: 'ForexSignals.com NakedTrading Opportunities Found: 15' sent to 'A37163A9'
+2	03:42:05.340	Custom indicator AnggrekJingga EURJPY,M1: removed
+2	03:42:05.582	Custom indicator BBSTOP EURJPY,M1: removed
+2	03:42:05.654	Custom indicator super-signals_v2b EURJPY,M1: removed
+2	03:42:05.836	Custom indicator ZigZag EURJPY,M1: removed
+2	03:42:05.846	Custom indicator Gst_Signal_3 EURJPY,M1: removed
+2	03:42:06.062	Custom indicator VQ EURJPY,M1: removed
+2	03:42:06.534	Custom indicator AIMS Levels V2 EURJPY,M1: loaded successfully
+2	03:42:06.737	Custom indicator AIMS Entry Alert V1 EURJPY,M1: loaded successfully
+2	03:42:07.154	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	03:42:07.474	Custom indicator #Signal_Bars_v6 EURJPY,M1: loaded successfully
+2	03:42:07.608	Custom indicator AIMS AO V.2.1 EURJPY,M1: loaded successfully
+2	03:42:07.945	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M1: loaded successfully
+2	03:42:08.132	Custom indicator RSI Divergence Levels EURJPY,M1: loaded successfully
+0	03:46:24.626	'14109544': login datacenter on Exness-Real4
+0	03:46:27.449	'14109544': login on Exness-Real4 through DC06 (ping: 287.61 ms)
+0	03:46:33.979	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 287.61 ms)
+0	03:46:36.004	'14109544': previous successful authorization performed from 220.242.139.62
+0	03:46:53.491	'14109544': auto connecting to a better access point DC00 (ping is 246.68 ms)
+0	03:46:54.424	'14109544': login on Exness-Real4 through DC00 (ping: 246.68 ms)
+0	03:47:03.996	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 246.68 ms)
+0	03:47:32.287	'14109544': previous successful authorization performed from 197.149.32.67
+1	03:47:42.189	'14109544': datacenter connecting failed [6]
+0	03:47:43.357	'14109544': login on Exness-Real4 through DC06 (ping: 318.94 ms)
+0	03:47:49.146	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 318.94 ms)
+0	03:47:49.891	'14109544': previous successful authorization performed from 220.242.157.114
+1	03:57:11.172	'14109544': datacenter connecting failed [6]
+0	03:57:12.712	'14109544': login on Exness-Real4 through DC05 (ping: 552.15 ms)
+0	03:58:13.951	'14109544': login datacenter on Exness-Real4
+0	03:58:21.839	'14109544': login on Exness-Real4 through DC09 (ping: 673.37 ms)
+0	03:58:30.950	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 673.37 ms)
+0	03:58:33.572	'14109544': previous successful authorization performed from 197.149.32.67
+0	03:58:45.040	'14109544': ping to current access point DC09 is 675.66 ms
+1	04:00:26.188	'14109544': datacenter connecting failed [6]
+0	04:00:28.595	'14109544': login on Exness-Real4 through DC00 (ping: 252.85 ms)
+0	04:00:51.743	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 252.85 ms)
+0	04:00:54.361	'14109544': previous successful authorization performed from 197.149.32.67
+1	04:01:27.741	'14109544': datacenter connecting failed [6]
+0	04:01:30.268	'14109544': login on Exness-Real4 through DC06 (ping: 313.17 ms)
+0	04:01:33.797	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 313.17 ms)
+0	04:01:34.867	'14109544': previous successful authorization performed from 220.242.157.114
+1	04:05:49.315	'14109544': datacenter connecting failed [6]
+0	04:05:51.836	'14109544': login on Exness-Real4 through DC05 (ping: 582.23 ms)
+0	04:05:58.029	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 582.23 ms)
+0	04:05:59.222	'14109544': previous successful authorization performed from 197.149.32.67
+0	04:09:03.085	'14109544': login datacenter on Exness-Real4
+0	04:09:06.664	'14109544': login on Exness-Real4 through DC15 (ping: 701.43 ms)
+0	04:09:29.979	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 701.43 ms)
+0	04:09:50.369	'14109544': previous successful authorization performed from 197.149.32.67
+1	04:12:18.311	'14109544': datacenter connecting failed [6]
+1	04:12:18.381	'14109544': connect failed [Connection échouée]
+0	04:12:25.270	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	04:13:26.327	'14109544': login datacenter on Exness-Real4
+0	04:13:34.730	'14109544': login on Exness-Real4 through DC15 (ping: n/a)
+0	04:14:00.170	'14109544': ping to current access point DC15 is 712.87 ms
+0	04:14:35.938	'14109544': login datacenter on Exness-Real4
+0	04:14:42.485	'14109544': login on Exness-Real4 through DC00 (ping: 244.61 ms)
+0	04:14:48.163	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 244.61 ms)
+0	04:15:19.993	'14109544': login on Exness-Real4 through DC06 (ping: 302.72 ms)
+0	04:15:24.483	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 302.72 ms)
+0	04:15:25.537	'14109544': previous successful authorization performed from 220.242.138.56
+0	04:18:32.318	'14109544': login datacenter on Exness-Real4
+0	04:18:34.585	'14109544': login on Exness-Real4 through DC05 (ping: 564.60 ms)
+0	04:18:47.002	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 564.60 ms)
+0	04:18:49.745	'14109544': previous successful authorization performed from 197.149.32.67
+2	07:28:43.718	Custom indicator AIMS Levels V2 AUDCAD,H1: loaded successfully
+2	07:28:43.865	Custom indicator AIMS Entry Alert V1 AUDCAD,H1: loaded successfully
+2	07:28:43.970	Custom indicator CandleTimer AUDCAD,H1: loaded successfully
+2	07:28:44.340	Custom indicator #Signal_Bars_v6 AUDCAD,H1: loaded successfully
+2	07:28:44.409	Custom indicator AIMS AO V.2.1 AUDCAD,H1: loaded successfully
+2	07:28:44.502	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,H1: loaded successfully
+2	07:28:44.553	Custom indicator RSI Divergence Levels AUDCAD,H1: loaded successfully
+2	07:44:56.320	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	07:44:56.553	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	07:44:56.633	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	07:44:56.701	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	07:44:56.960	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	07:44:57.059	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	07:44:57.893	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+0	08:06:49.103	'14109544': login on Exness-Real4 through DC05 (ping: 564.60 ms)
+0	08:06:55.991	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 564.60 ms)
+0	08:06:57.174	'14109544': previous successful authorization performed from 197.149.32.67
+0	08:07:26.418	'14109544': auto connecting to a better access point DC00 (ping is 241.12 ms)
+0	08:07:27.691	'14109544': login on Exness-Real4 through DC00 (ping: 241.12 ms)
+0	08:07:30.179	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 241.12 ms)
+0	08:07:32.472	'14109544': previous successful authorization performed from 197.149.32.67
+2	08:16:43.437	Custom indicator Heiken Ashi JP225,M15: removed
+2	08:16:43.487	Custom indicator CHANNEL JP225,M15: removed
+2	08:16:43.488	Custom indicator TARGET_LINES JP225,M15: removed
+2	08:16:43.488	Custom indicator TREND-REVERS JP225,M15: removed
+2	08:16:43.518	Custom indicator S&R JP225,M15: removed
+2	08:16:43.518	Custom indicator ARROWS JP225,M15: removed
+2	08:16:43.693	Custom indicator AIMS Levels V2 JP225,M15: loaded successfully
+2	08:16:43.786	Custom indicator AIMS Entry Alert V1 JP225,M15: loaded successfully
+2	08:16:43.826	Custom indicator CandleTimer JP225,M15: loaded successfully
+2	08:16:43.931	Custom indicator #Signal_Bars_v6 JP225,M15: loaded successfully
+2	08:16:44.014	Custom indicator AIMS AO V.2.1 JP225,M15: loaded successfully
+2	08:16:44.065	Custom indicator IVT_MACD_ZERO_LAG JP225,M15: loaded successfully
+2	08:16:44.099	Custom indicator RSI Divergence Levels JP225,M15: loaded successfully
+2	08:17:23.376	Custom indicator AIMS Levels V2 JP225,M15: removed
+2	08:17:23.376	Custom indicator AIMS Entry Alert V1 JP225,M15: removed
+2	08:17:23.377	Custom indicator CandleTimer JP225,M15: removed
+2	08:17:23.377	Custom indicator #Signal_Bars_v6 JP225,M15: removed
+2	08:17:23.377	Custom indicator AIMS AO V.2.1 JP225,M15: removed
+2	08:17:23.379	Custom indicator IVT_MACD_ZERO_LAG JP225,M15: removed
+2	08:17:23.380	Custom indicator RSI Divergence Levels JP225,M15: removed
+2	08:17:33.288	Custom indicator AIMS Levels V2 JP225,M15: loaded successfully
+2	08:17:33.383	Custom indicator AIMS Entry Alert V1 JP225,M15: loaded successfully
+2	08:17:33.395	Custom indicator CandleTimer JP225,M15: loaded successfully
+2	08:17:33.493	Custom indicator #Signal_Bars_v6 JP225,M15: loaded successfully
+2	08:17:33.599	Custom indicator AIMS AO V.2.1 JP225,M15: loaded successfully
+2	08:17:33.627	Custom indicator IVT_MACD_ZERO_LAG JP225,M15: loaded successfully
+2	08:17:33.640	Custom indicator RSI Divergence Levels JP225,M15: loaded successfully
+0	09:20:35.532	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	09:20:35.532	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 3820 / 8014 Mb, Disk: 33 / 237 Gb, GMT+3
+0	09:20:35.532	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	09:20:38.770	Custom indicator AIMS Levels V2 DE30,M15: loaded successfully
+2	09:20:38.840	Custom indicator AIMS Entry Alert V1 DE30,M15: loaded successfully
+2	09:20:38.847	Custom indicator CandleTimer DE30,M15: loaded successfully
+2	09:20:38.912	Custom indicator #Signal_Bars_v6 DE30,M15: loaded successfully
+2	09:20:38.975	Custom indicator AIMS AO V.2.1 DE30,M15: loaded successfully
+2	09:20:38.982	Custom indicator IVT_MACD_ZERO_LAG DE30,M15: loaded successfully
+2	09:20:38.992	Custom indicator RSI Divergence Levels DE30,M15: loaded successfully
+2	09:20:39.125	Custom indicator AIMS Levels V2 US30,M15: loaded successfully
+2	09:20:39.199	Custom indicator AIMS Entry Alert V1 US30,M15: loaded successfully
+2	09:20:39.206	Custom indicator CandleTimer US30,M15: loaded successfully
+2	09:20:39.269	Custom indicator #Signal_Bars_v6 US30,M15: loaded successfully
+2	09:20:39.332	Custom indicator AIMS AO V.2.1 US30,M15: loaded successfully
+2	09:20:39.340	Custom indicator IVT_MACD_ZERO_LAG US30,M15: loaded successfully
+2	09:20:39.347	Custom indicator RSI Divergence Levels US30,M15: loaded successfully
+2	09:20:39.478	Custom indicator AIMS Levels V2 FR40,M15: loaded successfully
+2	09:20:39.530	Custom indicator AIMS Entry Alert V1 FR40,M15: loaded successfully
+2	09:20:39.546	Custom indicator CandleTimer FR40,M15: loaded successfully
+2	09:20:39.608	Custom indicator #Signal_Bars_v6 FR40,M15: loaded successfully
+2	09:20:39.671	Custom indicator AIMS AO V.2.1 FR40,M15: loaded successfully
+2	09:20:39.671	Custom indicator IVT_MACD_ZERO_LAG FR40,M15: loaded successfully
+2	09:20:39.686	Custom indicator RSI Divergence Levels FR40,M15: loaded successfully
+2	09:20:39.811	Custom indicator AIMS Levels V2 USTEC,M15: loaded successfully
+2	09:20:39.878	Custom indicator AIMS Entry Alert V1 USTEC,M15: loaded successfully
+2	09:20:39.878	Custom indicator CandleTimer USTEC,M15: loaded successfully
+2	09:20:39.947	Custom indicator #Signal_Bars_v6 USTEC,M15: loaded successfully
+2	09:20:40.017	Custom indicator AIMS AO V.2.1 USTEC,M15: loaded successfully
+2	09:20:40.025	Custom indicator IVT_MACD_ZERO_LAG USTEC,M15: loaded successfully
+2	09:20:40.033	Custom indicator RSI Divergence Levels USTEC,M15: loaded successfully
+2	09:20:40.164	Custom indicator AIMS Levels V2 USOIL,M1: loaded successfully
+2	09:20:40.232	Custom indicator AIMS Entry Alert V1 USOIL,M1: loaded successfully
+2	09:20:40.239	Custom indicator CandleTimer USOIL,M1: loaded successfully
+2	09:20:40.304	Custom indicator #Signal_Bars_v6 USOIL,M1: loaded successfully
+2	09:20:40.368	Custom indicator AIMS AO V.2.1 USOIL,M1: loaded successfully
+2	09:20:40.376	Custom indicator IVT_MACD_ZERO_LAG USOIL,M1: loaded successfully
+2	09:20:40.385	Custom indicator RSI Divergence Levels USOIL,M1: loaded successfully
+2	09:20:40.528	Custom indicator AIMS Levels V2 XAUUSD,M15: loaded successfully
+2	09:20:40.590	Custom indicator AIMS Entry Alert V1 XAUUSD,M15: loaded successfully
+2	09:20:40.590	Custom indicator CandleTimer XAUUSD,M15: loaded successfully
+2	09:20:40.653	Custom indicator #Signal_Bars_v6 XAUUSD,M15: loaded successfully
+2	09:20:40.715	Custom indicator AIMS AO V.2.1 XAUUSD,M15: loaded successfully
+2	09:20:40.715	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M15: loaded successfully
+2	09:20:40.731	Custom indicator RSI Divergence Levels XAUUSD,M15: loaded successfully
+2	09:20:40.809	Expert ForexSignals-NakedTrading-v1.3 AUDUSD,M1: loaded successfully
+2	09:20:40.840	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: loaded successfully
+2	09:20:40.903	Custom indicator AIMS Levels V2 AUDJPY,H1: loaded successfully
+2	09:20:40.963	Custom indicator AIMS Entry Alert V1 AUDJPY,H1: loaded successfully
+2	09:20:40.979	Custom indicator CandleTimer AUDJPY,H1: loaded successfully
+2	09:20:41.041	Custom indicator #Signal_Bars_v6 AUDJPY,H1: loaded successfully
+2	09:20:41.104	Custom indicator AIMS AO V.2.1 AUDJPY,H1: loaded successfully
+2	09:20:41.104	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H1: loaded successfully
+2	09:20:41.119	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+2	09:20:41.244	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	09:20:41.307	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	09:20:41.307	Custom indicator CandleTimer GBPJPY,H1: loaded successfully
+2	09:20:41.379	Custom indicator #Signal_Bars_v6 GBPJPY,H1: loaded successfully
+2	09:20:41.444	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	09:20:41.465	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	09:20:41.473	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	09:20:41.589	Custom indicator AIMS Levels V2 EURJPY,M1: loaded successfully
+2	09:20:41.667	Custom indicator AIMS Entry Alert V1 EURJPY,M1: loaded successfully
+2	09:20:41.667	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	09:20:41.730	Custom indicator #Signal_Bars_v6 EURJPY,M1: loaded successfully
+2	09:20:41.792	Custom indicator AIMS AO V.2.1 EURJPY,M1: loaded successfully
+2	09:20:41.808	Custom indicator IVT_MACD_ZERO_LAG EURJPY,M1: loaded successfully
+2	09:20:41.808	Custom indicator RSI Divergence Levels EURJPY,M1: loaded successfully
+2	09:20:41.964	Custom indicator AIMS Levels V2 JP225,M15: loaded successfully
+2	09:20:42.032	Custom indicator AIMS Entry Alert V1 JP225,M15: loaded successfully
+2	09:20:42.038	Custom indicator CandleTimer JP225,M15: loaded successfully
+2	09:20:42.094	Custom indicator #Signal_Bars_v6 JP225,M15: loaded successfully
+2	09:20:42.156	Custom indicator AIMS AO V.2.1 JP225,M15: loaded successfully
+2	09:20:42.156	Custom indicator IVT_MACD_ZERO_LAG JP225,M15: loaded successfully
+2	09:20:42.172	Custom indicator RSI Divergence Levels JP225,M15: loaded successfully
+2	09:20:42.281	Custom indicator AIMS Levels V2 US500_x100,H1: loaded successfully
+2	09:20:42.344	Custom indicator AIMS Entry Alert V1 US500_x100,H1: loaded successfully
+2	09:20:42.359	Custom indicator CandleTimer US500_x100,H1: loaded successfully
+2	09:20:42.431	Custom indicator #Signal_Bars_v6 US500_x100,H1: loaded successfully
+2	09:20:42.496	Custom indicator AIMS AO V.2.1 US500_x100,H1: loaded successfully
+2	09:20:42.504	Custom indicator IVT_MACD_ZERO_LAG US500_x100,H1: loaded successfully
+2	09:20:42.505	Custom indicator RSI Divergence Levels US500_x100,H1: loaded successfully
+2	09:20:42.636	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	09:20:42.691	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	09:20:42.691	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	09:20:42.771	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	09:20:42.831	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	09:20:42.831	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	09:20:42.847	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	09:20:42.985	Custom indicator AIMS Levels V2 AUDCAD,H1: loaded successfully
+2	09:20:43.058	Custom indicator AIMS Entry Alert V1 AUDCAD,H1: loaded successfully
+2	09:20:43.065	Custom indicator CandleTimer AUDCAD,H1: loaded successfully
+2	09:20:43.145	Custom indicator #Signal_Bars_v6 AUDCAD,H1: loaded successfully
+2	09:20:43.225	Custom indicator AIMS AO V.2.1 AUDCAD,H1: loaded successfully
+2	09:20:43.236	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,H1: loaded successfully
+2	09:20:43.247	Custom indicator RSI Divergence Levels AUDCAD,H1: loaded successfully
+2	09:20:43.426	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	09:20:43.537	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	09:20:43.547	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	09:20:43.650	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	09:20:43.739	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	09:20:43.755	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	09:20:43.770	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+0	09:20:56.620	'14109544': login on Exness-Real4 through DC06 (ping: 298.26 ms)
+0	09:20:59.582	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 298.26 ms)
+0	09:21:00.467	'14109544': previous successful authorization performed from 220.242.130.17
+0	09:21:26.788	'14109544': auto connecting to a better access point DC00 (ping is 229.58 ms)
+0	09:21:27.803	'14109544': login on Exness-Real4 through DC00 (ping: 229.58 ms)
+0	09:21:34.344	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 229.58 ms)
+0	09:21:35.842	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:25:47.971	Notifications: 'Classical RSI bearish divergence on:  GBPJPY' sent to 'A37163A9'
+0	09:25:48.854	Notifications: 'Classical RSI bearish divergence on:  EURJPY' sent to 'A37163A9'
+0	09:28:47.692	Notifications: 'Classical RSI bearish divergence on:  EURJPY' sent to 'A37163A9'
+0	09:31:47.323	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+0	09:39:47.794	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+1	09:43:36.508	'14109544': datacenter connecting failed [6]
+0	09:43:37.440	'14109544': login on Exness-Real4 through DC06 (ping: 299.61 ms)
+0	09:43:40.067	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 299.61 ms)
+0	09:43:43.186	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:44:45.239	'14109544': login datacenter on Exness-Real4
+0	09:44:47.016	'14109544': login on Exness-Real4 through DC05 (ping: 590.75 ms)
+0	09:45:01.636	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 590.75 ms)
+0	09:45:04.319	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:45:05.993	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+1	09:46:09.681	'14109544': datacenter connecting failed [6]
+0	09:46:16.585	'14109544': login on Exness-Real4 through DC15 (ping: 702.94 ms)
+0	09:47:17.646	'14109544': login datacenter on Exness-Real4
+0	09:47:27.520	'14109544': login on Exness-Real4 through DC09 (ping: 860.29 ms)
+0	09:47:43.861	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 860.29 ms)
+0	09:47:47.130	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:48:05.647	'14109544': ping to current access point DC09 is 673.73 ms
+0	09:49:03.436	'14109544': instant order sell 0.50 DE30 at 12318.7 sl: 0.0 tp: 0.0
+0	09:49:04.975	'14109544': requote 12323.1 / 12327.3 for open sell 0.50 DE30 at 12318.7 sl: 0.0 tp: 0.0
+0	09:49:06.588	'14109544': instant order sell 0.50 DE30 at 12318.7 sl: 0.0 tp: 0.0
+0	09:49:21.240	'14109544': login on Exness-Real4 through DC06 (ping: 276.92 ms)
+0	09:49:57.913	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 276.92 ms)
+0	09:50:04.168	'14109544': login on Exness-Real4 through DC06 (ping: 276.92 ms)
+0	09:51:05.219	'14109544': login datacenter on Exness-Real4
+0	09:51:17.247	'14109544': login on Exness-Real4 through DC05 (ping: 553.73 ms)
+0	09:51:30.151	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 553.73 ms)
+0	09:51:35.396	'14109544': previous successful authorization performed from 197.149.32.67
+0	09:51:42.106	'14109544': ping to current access point DC05 is 553.95 ms
+0	09:55:24.432	'14109544': login datacenter on Exness-Real4
+0	09:55:26.676	'14109544': login on Exness-Real4 through DC06 (ping: 299.26 ms)
+0	09:55:32.325	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 299.26 ms)
+0	09:55:33.128	'14109544': previous successful authorization performed from 197.149.32.67
+1	09:57:05.686	'14109544': datacenter connecting failed [6]
+0	09:57:18.914	'14109544': login on Exness-Real4 through DC09 (ping: 680.10 ms)
+0	09:58:21.472	'14109544': login datacenter on Exness-Real4
+0	09:58:30.423	'14109544': login on Exness-Real4 through DC15 (ping: 709.14 ms)
+0	09:58:55.384	'14109544': ping to current access point DC15 is 720.59 ms
+0	09:59:31.670	'14109544': login datacenter on Exness-Real4
+0	09:59:55.503	'14109544': login on Exness-Real4 through DC06 (ping: 324.05 ms)
+0	10:00:56.223	'14109544': login datacenter on Exness-Real4
+0	10:01:03.502	'14109544': login on Exness-Real4 through DC05 (ping: 565.21 ms)
+0	10:01:24.086	'14109544': ping to current access point DC05 is 549.98 ms
+0	10:01:48.660	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 549.98 ms)
+0	10:01:55.489	'14109544': login on Exness-Real4 through DC05 (ping: 549.98 ms)
+0	10:02:56.460	'14109544': login datacenter on Exness-Real4
+0	10:03:02.740	'14109544': login on Exness-Real4 through DC00 (ping: 239.06 ms)
+0	10:03:09.477	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 239.06 ms)
+0	10:03:12.850	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:03:36.944	'14109544': login datacenter on Exness-Real4
+0	10:03:40.839	'14109544': login on Exness-Real4 through DC06 (ping: 305.24 ms)
+0	10:03:42.282	'14109544': ping to current access point DC06 is 300.36 ms
+0	10:04:20.651	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 300.36 ms)
+0	10:04:27.733	'14109544': login on Exness-Real4 through DC06 (ping: 300.36 ms)
+0	10:04:36.936	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 300.36 ms)
+0	10:04:38.855	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:06:17.073	'14109544': login datacenter on Exness-Real4
+0	10:06:23.187	'14109544': login on Exness-Real4 through DC00 (ping: 226.40 ms)
+0	10:06:27.310	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 226.40 ms)
+0	10:06:37.534	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:07:18.789	'14109544': login datacenter on Exness-Real4
+0	10:07:20.475	'14109544': login on Exness-Real4 through DC05 (ping: 551.48 ms)
+0	10:08:21.468	'14109544': login datacenter on Exness-Real4
+0	10:08:28.555	'14109544': login on Exness-Real4 through DC09 (ping: 661.17 ms)
+0	10:08:49.021	'14109544': ping to current access point DC09 is 689.08 ms
+0	10:08:49.619	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 689.08 ms)
+0	10:08:55.744	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:10:29.683	'14109544': datacenter connecting failed [6]
+0	10:10:34.884	'14109544': login on Exness-Real4 through DC00 (ping: 226.91 ms)
+0	10:10:39.589	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 226.91 ms)
+0	10:10:41.028	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:11:25.956	'14109544': login datacenter on Exness-Real4
+0	10:11:28.208	'14109544': login on Exness-Real4 through DC06 (ping: 304.09 ms)
+0	10:12:29.314	'14109544': login datacenter on Exness-Real4
+0	10:12:36.757	'14109544': login on Exness-Real4 through DC05 (ping: 576.73 ms)
+0	10:12:47.324	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 576.73 ms)
+0	10:12:50.775	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:12:56.199	'14109544': ping to current access point DC05 is 567.89 ms
+0	10:16:45.460	'14109544': login datacenter on Exness-Real4
+0	10:16:57.040	'14109544': login on Exness-Real4 through DC00 (ping: 212.24 ms)
+0	10:17:06.312	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 212.24 ms)
+0	10:17:08.894	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:18:14.024	'14109544': datacenter connecting failed [6]
+0	10:18:16.340	'14109544': login on Exness-Real4 through DC06 (ping: 320.91 ms)
+1	10:19:16.987	'14109544': datacenter connecting failed [6]
+1	10:19:22.736	'14109544': connect failed [Connection échouée]
+0	10:26:41.148	'14109544': login on Exness-Real4 through DC05 (ping: n/a)
+0	10:26:45.535	'14109544': login datacenter on Exness-Real4 through DC05 (ping: n/a)
+0	10:26:46.837	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:27:31.035	'14109544': ping to current access point DC05 is 551.17 ms
+1	10:40:50.477	'14109544': datacenter connecting failed [6]
+0	10:41:02.780	'14109544': login on Exness-Real4 through DC06 (ping: 298.24 ms)
+0	10:41:16.509	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 298.24 ms)
+0	10:41:17.283	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:42:59.478	'14109544': datacenter connecting failed [6]
+0	10:43:01.224	'14109544': login on Exness-Real4 through DC09 (ping: 676.31 ms)
+0	10:44:02.268	'14109544': login datacenter on Exness-Real4
+0	10:44:11.211	'14109544': login on Exness-Real4 through DC15 (ping: 717.32 ms)
+0	10:44:19.884	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 717.32 ms)
+0	10:44:22.113	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:44:35.149	'14109544': ping to current access point DC15 is 700.62 ms
+1	10:45:34.477	'14109544': datacenter connecting failed [6]
+0	10:45:39.816	'14109544': login on Exness-Real4 through DC00 (ping: 229.65 ms)
+0	10:45:53.642	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 229.65 ms)
+0	10:45:54.802	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:46:59.698	'14109544': datacenter connecting failed [6]
+0	10:47:00.782	'14109544': login on Exness-Real4 through DC06 (ping: 313.89 ms)
+0	10:47:14.264	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 313.89 ms)
+0	10:47:26.868	'14109544': previous successful authorization performed from 220.242.138.213
+1	10:48:44.477	'14109544': datacenter connecting failed [6]
+0	10:48:45.893	'14109544': login on Exness-Real4 through DC05 (ping: 583.23 ms)
+0	10:49:16.665	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 701.93 ms)
+0	10:49:23.662	'14109544': login on Exness-Real4 through DC05 (ping: 583.23 ms)
+0	10:49:29.072	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 583.23 ms)
+0	10:49:31.814	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:49:33.920	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+0	10:51:25.780	'14109544': login on Exness-Real4 through DC09 (ping: 701.93 ms)
+0	10:51:34.529	'14109544': login on Exness-Real4 through DC05 (ping: 583.23 ms)
+0	10:52:33.084	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 583.23 ms)
+0	10:52:35.720	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:53:13.720	'14109544': datacenter connecting failed [6]
+0	10:53:15.537	'14109544': login on Exness-Real4 through DC09 (ping: 701.93 ms)
+0	10:54:09.160	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 701.93 ms)
+0	10:54:15.776	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:55:07.319	'14109544': datacenter connecting failed [6]
+1	10:55:07.400	'14109544': connect failed [Connection échouée]
+0	10:55:13.306	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	10:55:23.221	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	10:55:24.860	'14109544': previous successful authorization performed from 197.149.32.67
+0	10:55:48.698	'14109544': ping to current access point DC06 is 286.51 ms
+1	10:57:34.479	'14109544': datacenter connecting failed [6]
+0	10:57:36.479	'14109544': login on Exness-Real4 through DC00 (ping: 250.64 ms)
+0	10:57:43.937	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 250.64 ms)
+0	10:57:44.816	'14109544': previous successful authorization performed from 197.149.32.67
+1	10:58:49.734	'14109544': datacenter connecting failed [6]
+0	10:58:51.234	'14109544': login on Exness-Real4 through DC05 (ping: 551.52 ms)
+0	10:59:05.414	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 551.52 ms)
+0	10:59:06.553	'14109544': previous successful authorization performed from 163.171.128.146
+1	11:02:19.479	'14109544': datacenter connecting failed [6]
+0	11:02:21.063	'14109544': login on Exness-Real4 through DC09 (ping: 684.30 ms)
+0	11:03:23.244	'14109544': login datacenter on Exness-Real4
+0	11:03:30.858	'14109544': login on Exness-Real4 through DC15 (ping: 695.50 ms)
+0	11:03:35.359	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 695.50 ms)
+0	11:03:36.659	'14109544': previous successful authorization performed from 197.149.32.67
+1	11:09:05.907	'14109544': datacenter connecting failed [6]
+1	11:09:06.254	'14109544': connect failed [Connection échouée]
+0	11:09:12.300	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	11:09:15.480	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	11:09:16.450	'14109544': previous successful authorization performed from 197.149.32.67
+0	11:09:34.189	'14109544': ping to current access point DC06 is 329.15 ms
+0	11:32:48.124	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+0	11:36:51.089	'14109544': instant order sell 0.20 DE30 at 12390.1 sl: 0.0 tp: 0.0
+0	11:36:51.639	'14109544': order was opened : #189051056 sell 0.20 DE30 at 12390.1 sl: 0.0 tp: 0.0
+0	11:36:52.757	Notifications: 'order opened #189051056 sell 0.20 DE30 at 12390.1' sent to 'A37163A9'
+0	11:36:57.679	'14109544': modify order #189051056 sell 0.20 DE30 at 12390.1 sl: 0.0 tp: 0.0 -> sl: 12422.8 tp: 0.0
+0	11:37:01.649	'14109544': order #189051056 sell 0.20 DE30 at 12390.1 was modified -> sl: 12422.8 tp: 0.0
+0	11:37:02.857	Notifications: 'order #189051056 sell 0.20 DE30 at 12390.1 modified: sl: 0.0 tp: 0.0 -> sl: 12422.8 tp: 0.0' sent to 'A37163A9'
+2	11:39:55.119	Expert Admiral - Mini Terminal DE30,M1: loaded successfully
+1	11:45:44.559	'14109544': modification of order #189051056 sell 0.20 DE30 at 12390.1 sl: 12422.8 tp: 0.0 -> sl: 12389.4 tp: 0.0 failed [Invalid S/L or T/P]
+1	11:45:50.924	'14109544': modification of order #189051056 sell 0.20 DE30 at 12390.1 sl: 12422.8 tp: 0.0 -> sl: 12395.8 tp: 0.0 failed [Invalid S/L or T/P]
+1	11:45:57.013	'14109544': modification of order #189051056 sell 0.20 DE30 at 12390.1 sl: 12422.8 tp: 0.0 -> sl: 12393.6 tp: 0.0 failed [Invalid S/L or T/P]
+0	11:49:25.777	'14109544': close order #189051056 sell 0.20 DE30 at 12390.1 sl: 12422.8 tp: 0.0 at price 12396.7
+0	11:49:26.330	'14109544': order #189051056 sell 0.20 DE30 at 12390.1 sl: 12422.8 tp: 0.0 closed at price 12396.7
+0	11:49:27.478	Notifications: 'order #189051056 sell 0.20 DE30 at 12390.1 closed at price 12396.7, profit: -1.49 USD' sent to 'A37163A9'
+0	11:49:36.802	'14109544': instant order buy 0.20 DE30 at 12395.0 sl: 0.0 tp: 0.0
+0	11:49:37.270	'14109544': order was opened : #189052910 buy 0.20 DE30 at 12395.0 sl: 0.0 tp: 0.0
+0	11:49:38.438	Notifications: 'order opened #189052910 buy 0.20 DE30 at 12395.0' sent to 'A37163A9'
+0	11:49:47.278	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+0	11:50:47.678	'14109544': close order #189052910 buy 0.20 DE30 at 12395.0 sl: 0.0 tp: 0.0 at price 12378.6
+0	11:50:48.208	'14109544': order #189052910 buy 0.20 DE30 at 12395.0 sl: 0.0 tp: 0.0 closed at price 12378.6
+0	11:50:48.209	'14109544': instant order sell 0.20 DE30 at 12378.6 sl: 0.0 tp: 0.0
+0	11:50:48.689	Trades: use hosting service to speed up the execution - 11.78 ms via 'MQL5 London 11 (MQL5.community)' instead of 329.15 ms
+0	11:50:48.689	'14109544': order was opened : #189053088 sell 0.20 DE30 at 12378.6 sl: 0.0 tp: 0.0
+0	11:50:49.317	Notifications: 'order #189052910 buy 0.20 DE30 at 12395.0 closed at price 12378.6, profit: -3.69 USD' sent to 'A37163A9'
+0	11:50:50.447	Notifications: 'order opened #189053088 sell 0.20 DE30 at 12378.6' sent to 'A37163A9'
+1	11:53:46.952	'14109544': modification of order #189053088 sell 0.20 DE30 at 12378.6 sl: 0.0 tp: 0.0 -> sl: 12383.9 tp: 0.0 failed [Invalid S/L or T/P]
+1	11:53:51.015	'14109544': modification of order #189053088 sell 0.20 DE30 at 12378.6 sl: 0.0 tp: 0.0 -> sl: 12392.6 tp: 0.0 failed [Invalid S/L or T/P]
+1	11:55:01.564	'14109544': modification of order #189053088 sell 0.20 DE30 at 12378.6 sl: 0.0 tp: 0.0 -> sl: 12394.0 tp: 0.0 failed [Invalid S/L or T/P]
+0	11:55:04.471	'14109544': modify order #189053088 sell 0.20 DE30 at 12378.6 sl: 0.0 tp: 0.0 -> sl: 12402.3 tp: 0.0
+0	11:55:05.271	'14109544': order #189053088 sell 0.20 DE30 at 12378.6 was modified -> sl: 12402.3 tp: 0.0
+0	11:55:06.319	Notifications: 'order #189053088 sell 0.20 DE30 at 12378.6 modified: sl: 0.0 tp: 0.0 -> sl: 12402.3 tp: 0.0' sent to 'A37163A9'
+0	11:56:17.543	'14109544': close order #189053088 sell 0.20 DE30 at 12378.6 sl: 12402.3 tp: 0.0 at price 12380.2
+0	11:56:18.360	'14109544': order #189053088 sell 0.20 DE30 at 12378.6 sl: 12402.3 tp: 0.0 closed at price 12380.2
+0	11:56:19.458	Notifications: 'order #189053088 sell 0.20 DE30 at 12378.6 closed at price 12380.2, profit: -0.36 USD' sent to 'A37163A9'
+2	12:02:27.437	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	12:02:27.513	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	12:02:27.520	Custom indicator CandleTimer GBPNZD,H1: loaded successfully
+2	12:02:27.595	Custom indicator #Signal_Bars_v6 GBPNZD,H1: loaded successfully
+2	12:02:27.668	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	12:02:27.678	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	12:02:27.688	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+0	12:02:47.409	Notifications: 'Classical RSI bullish divergence on:  EURJPY' sent to 'A37163A9'
+0	12:14:49.150	Notifications: 'Classical RSI bearish divergence on:  JP225' sent to 'A37163A9'
+0	12:15:42.768	Notifications: 'Classical RSI bearish divergence on:  JP225' sent to 'A37163A9'
+0	12:16:50.094	'14109544': instant order sell 0.50 DE30 at 12361.5 sl: 0.0 tp: 0.0
+0	12:16:50.567	'14109544': order was opened : #189057310 sell 0.50 DE30 at 12361.5 sl: 0.0 tp: 0.0
+0	12:16:51.527	Notifications: 'order opened #189057310 sell 0.50 DE30 at 12361.5' sent to 'A37163A9'
+0	12:17:02.535	'14109544': modify order #189057310 sell 0.50 DE30 at 12361.5 sl: 0.0 tp: 0.0 -> sl: 12392.2 tp: 0.0
+0	12:17:07.058	'14109544': order #189057310 sell 0.50 DE30 at 12361.5 was modified -> sl: 12392.2 tp: 0.0
+0	12:17:08.086	Notifications: 'order #189057310 sell 0.50 DE30 at 12361.5 modified: sl: 0.0 tp: 0.0 -> sl: 12392.2 tp: 0.0' sent to 'A37163A9'
+0	12:20:17.514	'14109544': close order #189057310 sell 0.50 DE30 at 12361.5 sl: 12392.2 tp: 0.0 at price 12343.6
+0	12:20:17.943	'14109544': order #189057310 sell 0.50 DE30 at 12361.5 sl: 12392.2 tp: 0.0 closed at price 12343.6
+0	12:20:18.942	Notifications: 'order #189057310 sell 0.50 DE30 at 12361.5 closed at price 12343.6, profit: 10.06 USD' sent to 'A37163A9'
+0	12:21:51.041	'14109544': instant order sell 0.50 DE30 at 12328.4 sl: 0.0 tp: 0.0
+0	12:21:51.460	'14109544': order was opened : #189058114 sell 0.50 DE30 at 12328.4 sl: 0.0 tp: 0.0
+0	12:21:52.429	Notifications: 'order opened #189058114 sell 0.50 DE30 at 12328.4' sent to 'A37163A9'
+1	12:22:22.675	'14109544': modification of order #189058114 sell 0.50 DE30 at 12328.4 sl: 0.0 tp: 0.0 -> sl: 12342.8 tp: 0.0 failed [Invalid S/L or T/P]
+0	12:22:47.397	Notifications: 'Classical RSI bullish divergence on:  US30' sent to 'A37163A9'
+0	12:22:58.341	'14109544': modify order #189058114 sell 0.50 DE30 at 12328.4 sl: 0.0 tp: 0.0 -> sl: 12360.1 tp: 0.0
+0	12:22:58.759	'14109544': order #189058114 sell 0.50 DE30 at 12328.4 was modified -> sl: 12360.1 tp: 0.0
+0	12:22:59.797	Notifications: 'order #189058114 sell 0.50 DE30 at 12328.4 modified: sl: 0.0 tp: 0.0 -> sl: 12360.1 tp: 0.0' sent to 'A37163A9'
+1	12:23:03.772	'14109544': modification of order #189058114 sell 0.50 DE30 at 12328.4 sl: 12360.1 tp: 0.0 -> sl: 12353.7 tp: 0.0 failed [Invalid S/L or T/P]
+0	12:27:53.240	Notifications: 'Classical RSI bullish divergence on:  DE30' sent to 'A37163A9'
+0	12:28:38.199	Notifications: 'Classical RSI bullish divergence on:  DE30' sent to 'A37163A9'
+0	12:33:47.945	'14109544': instant order buy 0.50 DE30 at 12346.0 sl: 0.0 tp: 0.0
+0	12:33:48.381	'14109544': order was opened : #189059496 buy 0.50 DE30 at 12346.0 sl: 0.0 tp: 0.0
+0	12:33:49.480	Notifications: 'order opened #189059496 buy 0.50 DE30 at 12346.0' sent to 'A37163A9'
+0	12:34:55.721	'14109544': close order #189058114 sell 0.50 DE30 at 12328.4 sl: 12360.1 tp: 0.0 at price 12336.8
+0	12:34:56.170	'14109544': order #189058114 sell 0.50 DE30 at 12328.4 sl: 12360.1 tp: 0.0 closed at price 12336.8
+0	12:34:57.159	Notifications: 'order #189058114 sell 0.50 DE30 at 12328.4 closed at price 12336.8, profit: -4.72 USD' sent to 'A37163A9'
+0	12:35:48.768	'14109544': instant order sell 0.50 DE30 at 12318.3 sl: 0.0 tp: 0.0
+0	12:35:49.220	'14109544': order was opened : #189059848 sell 0.50 DE30 at 12318.3 sl: 0.0 tp: 0.0
+0	12:35:50.257	Notifications: 'order opened #189059848 sell 0.50 DE30 at 12318.3' sent to 'A37163A9'
+0	12:36:48.784	'14109544': close order #189059496 buy 0.50 DE30 at 12346.0 sl: 0.0 tp: 0.0 at price 12314.8
+0	12:36:49.537	'14109544': order #189059496 buy 0.50 DE30 at 12346.0 sl: 0.0 tp: 0.0 closed at price 12314.8
+0	12:36:50.566	Notifications: 'order #189059496 buy 0.50 DE30 at 12346.0 closed at price 12314.8, profit: -17.53 USD' sent to 'A37163A9'
+0	12:38:27.260	'14109544': modify order #189059848 sell 0.50 DE30 at 12318.3 sl: 0.0 tp: 0.0 -> sl: 12357.1 tp: 0.0
+0	12:38:27.715	'14109544': order #189059848 sell 0.50 DE30 at 12318.3 was modified -> sl: 12357.1 tp: 0.0
+0	12:38:28.705	Notifications: 'order #189059848 sell 0.50 DE30 at 12318.3 modified: sl: 0.0 tp: 0.0 -> sl: 12357.1 tp: 0.0' sent to 'A37163A9'
+0	12:38:47.632	Notifications: 'Classical RSI bullish divergence on:  US30' sent to 'A37163A9'
+0	12:38:56.272	Notifications: 'Classical RSI bullish divergence on:  EURJPY' sent to 'A37163A9'
+1	12:42:35.875	'14109544': modification of order #189059848 sell 0.50 DE30 at 12318.3 sl: 12357.1 tp: 0.0 -> sl: 12370.6 tp: 0.0 failed [Invalid S/L or T/P]
+0	12:42:39.970	'14109544': modify order #189059848 sell 0.50 DE30 at 12318.3 sl: 12357.1 tp: 0.0 -> sl: 12373.9 tp: 0.0
+0	12:42:40.378	'14109544': order #189059848 sell 0.50 DE30 at 12318.3 was modified -> sl: 12373.9 tp: 0.0
+0	12:42:41.497	Notifications: 'order #189059848 sell 0.50 DE30 at 12318.3 modified: sl: 12357.1 tp: 0.0 -> sl: 12373.9 tp: 0.0' sent to 'A37163A9'
+0	12:44:15.197	'14109544': modify order #189059848 sell 0.50 DE30 at 12318.3 sl: 12373.9 tp: 0.0 -> sl: 12404.3 tp: 0.0
+0	12:44:15.715	'14109544': order #189059848 sell 0.50 DE30 at 12318.3 was modified -> sl: 12404.3 tp: 0.0
+0	12:44:16.684	Notifications: 'order #189059848 sell 0.50 DE30 at 12318.3 modified: sl: 12373.9 tp: 0.0 -> sl: 12404.3 tp: 0.0' sent to 'A37163A9'
+0	12:47:52.099	'14109544': instant order sell 0.50 DE30 at 12317.2 sl: 0.0 tp: 0.0
+0	12:47:52.620	'14109544': order was opened : #189061271 sell 0.50 DE30 at 12317.2 sl: 0.0 tp: 0.0
+0	12:47:53.700	Notifications: 'order opened #189061271 sell 0.50 DE30 at 12317.2' sent to 'A37163A9'
+0	12:49:55.274	'14109544': close order #189059848 sell 0.50 DE30 at 12318.3 sl: 12404.3 tp: 0.0 at price 12294.6
+0	12:49:56.067	'14109544': requote 12285.7 / 12290.9 for order #189059848 sell 0.50 DE30 closing at 12294.6
+0	12:50:13.481	'14109544': close order #189059848 sell 0.50 DE30 at 12318.3 sl: 12404.3 tp: 0.0 at price 12287.6
+0	12:50:13.887	'14109544': order #189059848 sell 0.50 DE30 at 12318.3 sl: 12404.3 tp: 0.0 closed at price 12287.6
+0	12:50:14.656	'14109544': close order #189061271 sell 0.50 DE30 at 12317.2 sl: 0.0 tp: 0.0 at price 12287.6
+0	12:50:14.885	Notifications: 'order #189059848 sell 0.50 DE30 at 12318.3 closed at price 12287.6, profit: 17.24 USD' sent to 'A37163A9'
+0	12:50:15.127	'14109544': requote 12283.0 / 12288.2 for order #189061271 sell 0.50 DE30 closing at 12287.6
+0	12:50:17.518	'14109544': close order #189061271 sell 0.50 DE30 at 12317.2 sl: 0.0 tp: 0.0 at price 12286.4
+0	12:50:17.996	'14109544': order #189061271 sell 0.50 DE30 at 12317.2 sl: 0.0 tp: 0.0 closed at price 12286.4
+0	12:50:18.986	Notifications: 'order #189061271 sell 0.50 DE30 at 12317.2 closed at price 12286.4, profit: 17.29 USD' sent to 'A37163A9'
+0	12:55:40.737	'8221994': login on Exness-Trial2 through DC00 (ping: 230.38 ms)
+0	12:55:43.267	'8221994': login datacenter on Exness-Trial2 through DC00 (ping: 230.38 ms)
+0	12:55:44.006	'8221994': previous successful authorization performed from 197.149.32.67
+0	12:55:53.536	'8221994': ping to current access point DC00 is 229.33 ms
+0	12:56:23.794	'8221994': instant order sell 0.20 JP225 at 22601.7 sl: 0.0 tp: 0.0
+1	12:56:24.837	'8221994': order sell 0.20 JP225 opening at 22601.7 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:56:39.981	'8221994': instant order sell 0.20 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:56:42.016	'8221994': order sell 0.20 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:56:43.269	'8221994': instant order sell 0.20 JP225 at 22596.2 sl: 0.0 tp: 0.0
+1	12:56:46.228	'8221994': order sell 0.20 JP225 opening at 22596.2 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:56:57.028	'8221994': instant order sell 1.00 JP225 at 22604.0 sl: 0.0 tp: 0.0
+1	12:56:57.427	'8221994': order sell 1.00 JP225 opening at 22604.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:02.034	'8221994': instant order sell 0.01 JP225 at 22604.0 sl: 0.0 tp: 0.0
+1	12:57:03.426	'8221994': order sell 0.01 JP225 opening at 22604.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:08.459	'8221994': instant order sell 0.01 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:08.815	'8221994': order sell 0.01 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:10.060	'8221994': instant order sell 0.01 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:10.625	'8221994': order sell 0.01 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:11.062	'8221994': instant order sell 0.01 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:11.446	'8221994': order sell 0.01 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:11.771	'8221994': instant order sell 0.01 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:12.856	'8221994': order sell 0.01 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:16.840	'8221994': instant order sell 0.05 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:17.745	'8221994': order sell 0.05 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:23.683	'8221994': instant order sell 1.00 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:24.055	'8221994': order sell 1.00 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:33.076	'8221994': instant order sell 1.00 JP225 at 22599.0 sl: 0.0 tp: 0.0
+1	12:57:33.916	'8221994': order sell 1.00 JP225 opening at 22599.0 sl: 0.0 tp: 0.0 failed [Trade is disabled]
+0	12:57:41.322	'14109544': login on Exness-Real4 through DC06 (ping: 329.15 ms)
+0	12:57:47.775	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 329.15 ms)
+0	12:57:49.233	'14109544': previous successful authorization performed from 197.149.32.67
+0	12:58:21.293	'14109544': auto connecting to a better access point DC00 (ping is 259.71 ms)
+0	12:58:23.281	'14109544': login on Exness-Real4 through DC00 (ping: 259.71 ms)
+0	12:58:28.504	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 259.71 ms)
+0	12:58:31.323	'14109544': previous successful authorization performed from 154.126.12.138
+2	13:05:30.429	Custom indicator AIMS Levels V2 USDCAD,H1: loaded successfully
+2	13:05:30.511	Custom indicator AIMS Entry Alert V1 USDCAD,H1: loaded successfully
+2	13:05:30.520	Custom indicator CandleTimer USDCAD,H1: loaded successfully
+2	13:05:30.614	Custom indicator #Signal_Bars_v6 USDCAD,H1: loaded successfully
+2	13:05:30.697	Custom indicator AIMS AO V.2.1 USDCAD,H1: loaded successfully
+2	13:05:30.711	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	13:05:30.724	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+0	13:07:50.159	Notifications: 'Classical RSI bullish divergence on:  USOIL' sent to 'A37163A9'
+2	13:10:04.928	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	13:10:04.930	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	13:10:04.933	Custom indicator CandleTimer GBPNZD,H1: removed
+2	13:10:04.933	Custom indicator #Signal_Bars_v6 GBPNZD,H1: removed
+2	13:10:04.933	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	13:10:04.934	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	13:10:04.936	Custom indicator RSI Divergence Levels GBPNZD,H1: removed
+2	13:10:08.725	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	13:10:08.725	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	13:10:08.727	Custom indicator CandleTimer GBPUSD,H1: removed
+2	13:10:08.727	Custom indicator #Signal_Bars_v6 GBPUSD,H1: removed
+2	13:10:08.727	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	13:10:08.729	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	13:10:08.732	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	13:10:22.709	Custom indicator AIMS Levels V2 US500_x100,H1: removed
+2	13:10:22.709	Custom indicator AIMS Entry Alert V1 US500_x100,H1: removed
+2	13:10:22.711	Custom indicator CandleTimer US500_x100,H1: removed
+2	13:10:22.711	Custom indicator #Signal_Bars_v6 US500_x100,H1: removed
+2	13:10:22.712	Custom indicator AIMS AO V.2.1 US500_x100,H1: removed
+2	13:10:22.713	Custom indicator IVT_MACD_ZERO_LAG US500_x100,H1: removed
+2	13:10:22.715	Custom indicator RSI Divergence Levels US500_x100,H1: removed
+0	13:16:06.316	'14109544': instant order sell 0.10 EURUSD at 1.12293 sl: 0.00000 tp: 0.00000
+0	13:16:06.676	'14109544': order was opened : #189065196 sell 0.10 EURUSD at 1.12293 sl: 0.00000 tp: 0.00000
+0	13:16:07.786	Notifications: 'order opened #189065196 sell 0.10 EURUSD at 1.12293' sent to 'A37163A9'
+0	13:16:10.250	'14109544': modify order #189065196 sell 0.10 EURUSD at 1.12293 sl: 0.00000 tp: 0.00000 -> sl: 1.14354 tp: 0.00000
+0	13:16:15.105	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 was modified -> sl: 1.14354 tp: 0.00000
+0	13:16:16.125	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.14354 tp: 0.00000' sent to 'A37163A9'
+0	13:16:16.328	'14109544': modify order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.14354 tp: 0.00000 -> sl: 1.14354 tp: 1.09908
+0	13:16:16.667	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 was modified -> sl: 1.14354 tp: 1.09908
+0	13:16:17.765	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 modified: sl: 1.14354 tp: 0.00000 -> sl: 1.14354 tp: 1.09908' sent to 'A37163A9'
+0	13:17:01.877	'14109544': modify order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.14354 tp: 1.09908 -> sl: 1.12843 tp: 1.09908
+0	13:17:02.595	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 was modified -> sl: 1.12843 tp: 1.09908
+0	13:17:03.574	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 modified: sl: 1.14354 tp: 1.09908 -> sl: 1.12843 tp: 1.09908' sent to 'A37163A9'
+2	13:18:23.995	Custom indicator AIMS Levels V2 AUDCAD,H1: removed
+2	13:18:23.995	Custom indicator AIMS Entry Alert V1 AUDCAD,H1: removed
+2	13:18:23.997	Custom indicator CandleTimer AUDCAD,H1: removed
+2	13:18:23.997	Custom indicator #Signal_Bars_v6 AUDCAD,H1: removed
+2	13:18:23.997	Custom indicator AIMS AO V.2.1 AUDCAD,H1: removed
+2	13:18:23.999	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,H1: removed
+2	13:18:24.000	Custom indicator RSI Divergence Levels AUDCAD,H1: removed
+0	13:27:47.838	Notifications: 'Classical RSI bearish divergence on:  USTEC' sent to 'A37163A9'
+0	13:37:47.223	Notifications: 'Classical RSI bearish divergence on:  EURUSD' sent to 'A37163A9'
+2	13:39:10.235	Custom indicator AIMS Levels V2 EURNZD,M1: loaded successfully
+2	13:39:10.332	Custom indicator AIMS Entry Alert V1 EURNZD,M1: loaded successfully
+2	13:39:10.343	Custom indicator CandleTimer EURNZD,M1: loaded successfully
+2	13:39:10.441	Custom indicator #Signal_Bars_v6 EURNZD,M1: loaded successfully
+2	13:39:10.540	Custom indicator AIMS AO V.2.1 EURNZD,M1: loaded successfully
+2	13:39:10.553	Custom indicator IVT_MACD_ZERO_LAG EURNZD,M1: loaded successfully
+2	13:39:10.568	Custom indicator RSI Divergence Levels EURNZD,M1: loaded successfully
+0	13:40:48.669	Notifications: 'Classical RSI bearish divergence on:  USTEC' sent to 'A37163A9'
+0	13:40:49.770	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+0	15:26:47.216	Notifications: 'Classical RSI bearish divergence on:  USOIL' sent to 'A37163A9'
+2	15:30:01.554	Custom indicator AIMS Levels V2 EURCAD,H1: loaded successfully
+2	15:30:01.739	Custom indicator AIMS Entry Alert V1 EURCAD,H1: loaded successfully
+2	15:30:01.764	Custom indicator CandleTimer EURCAD,H1: loaded successfully
+2	15:30:01.930	Custom indicator #Signal_Bars_v6 EURCAD,H1: loaded successfully
+2	15:30:02.099	Custom indicator AIMS AO V.2.1 EURCAD,H1: loaded successfully
+2	15:30:02.122	Custom indicator IVT_MACD_ZERO_LAG EURCAD,H1: loaded successfully
+2	15:30:02.151	Custom indicator RSI Divergence Levels EURCAD,H1: loaded successfully
+0	15:30:31.894	'14109544': instant order sell 0.10 EURCAD at 1.52039 sl: 0.00000 tp: 0.00000
+0	15:30:32.312	'14109544': order was opened : #189080486 sell 0.10 EURCAD at 1.52039 sl: 0.00000 tp: 0.00000
+0	15:30:33.690	Notifications: 'order opened #189080486 sell 0.10 EURCAD at 1.52039' sent to 'A37163A9'
+0	15:31:02.931	'14109544': modify order #189080486 sell 0.10 EURCAD at 1.52039 sl: 0.00000 tp: 0.00000 -> sl: 1.52400 tp: 1.51650
+0	15:31:03.509	'14109544': order #189080486 sell 0.10 EURCAD at 1.52039 was modified -> sl: 1.52400 tp: 1.51650
+0	15:31:04.638	Notifications: 'order #189080486 sell 0.10 EURCAD at 1.52039 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.52400 tp: 1.51650' sent to 'A37163A9'
+0	15:51:54.060	'14109544': instant order sell 0.20 US30 at 26418.2 sl: 0.0 tp: 0.0
+0	15:51:54.556	'14109544': order was opened : #189082810 sell 0.20 US30 at 26418.2 sl: 0.0 tp: 0.0
+0	15:51:55.785	Notifications: 'order opened #189082810 sell 0.20 US30 at 26418.2' sent to 'A37163A9'
+1	15:52:02.844	'14109544': modification of order #189082810 sell 0.20 US30 at 26418.2 sl: 0.0 tp: 0.0 -> sl: 26470.0 tp: 0.0 failed [Invalid S/L or T/P]
+1	15:52:08.377	'14109544': modification of order #189082810 sell 0.20 US30 at 26418.2 sl: 0.0 tp: 0.0 -> sl: 26472.1 tp: 0.0 failed [Invalid S/L or T/P]
+0	15:52:12.601	'14109544': modify order #189082810 sell 0.20 US30 at 26418.2 sl: 0.0 tp: 0.0 -> sl: 26475.9 tp: 0.0
+0	15:52:13.445	'14109544': order #189082810 sell 0.20 US30 at 26418.2 was modified -> sl: 26475.9 tp: 0.0
+0	15:52:16.014	Notifications: 'order #189082810 sell 0.20 US30 at 26418.2 modified: sl: 0.0 tp: 0.0 -> sl: 26475.9 tp: 0.0' sent to 'A37163A9'
+1	15:55:48.557	'14109544': modification of order #189082810 sell 0.20 US30 at 26418.2 sl: 26475.9 tp: 0.0 -> sl: 26418.0 tp: 0.0 failed [Invalid S/L or T/P]
+1	15:55:56.812	'14109544': modification of order #189082810 sell 0.20 US30 at 26418.2 sl: 26475.9 tp: 0.0 -> sl: 26419.8 tp: 0.0 failed [Invalid S/L or T/P]
+0	15:56:08.202	'14109544': modify order #189082810 sell 0.20 US30 at 26418.2 sl: 26475.9 tp: 0.0 -> sl: 26418.1 tp: 0.0
+0	15:56:08.711	'14109544': order #189082810 sell 0.20 US30 at 26418.2 was modified -> sl: 26418.1 tp: 0.0
+0	15:56:09.888	Notifications: 'order #189082810 sell 0.20 US30 at 26418.2 modified: sl: 26475.9 tp: 0.0 -> sl: 26418.1 tp: 0.0' sent to 'A37163A9'
+0	15:56:54.319	'14109544': close order #189082810 sell 0.20 US30 at 26418.2 sl: 26418.1 tp: 0.0 at price 26367.2
+0	15:56:54.708	'14109544': order #189082810 sell 0.20 US30 at 26418.2 sl: 26418.1 tp: 0.0 closed at price 26367.2
+0	15:56:55.746	Notifications: 'order #189082810 sell 0.20 US30 at 26418.2 closed at price 26367.2, profit: 10.20 USD' sent to 'A37163A9'
+0	15:57:47.935	Notifications: 'Classical RSI bearish divergence on:  EURNZD' sent to 'A37163A9'
+0	16:10:53.834	'14109544': instant order sell 0.20 US30 at 26388.5 sl: 0.0 tp: 0.0
+0	16:10:54.215	'14109544': order was opened : #189085149 sell 0.20 US30 at 26388.5 sl: 0.0 tp: 0.0
+0	16:10:55.694	Notifications: 'order opened #189085149 sell 0.20 US30 at 26388.5' sent to 'A37163A9'
+1	16:11:02.022	'14109544': modification of order #189085149 sell 0.20 US30 at 26388.5 sl: 0.0 tp: 0.0 -> sl: 26426.2 tp: 0.0 failed [Invalid S/L or T/P]
+1	16:11:23.818	'14109544': modification of order #189085149 sell 0.20 US30 at 26388.5 sl: 0.0 tp: 0.0 -> sl: 26438.7 tp: 0.0 failed [Invalid S/L or T/P]
+0	16:11:27.550	'14109544': modify order #189085149 sell 0.20 US30 at 26388.5 sl: 0.0 tp: 0.0 -> sl: 26452.9 tp: 0.0
+0	16:11:30.934	'14109544': order #189085149 sell 0.20 US30 at 26388.5 was modified -> sl: 26452.9 tp: 0.0
+0	16:11:32.102	Notifications: 'order #189085149 sell 0.20 US30 at 26388.5 modified: sl: 0.0 tp: 0.0 -> sl: 26452.9 tp: 0.0' sent to 'A37163A9'
+1	16:11:35.823	'14109544': modification of order #189085149 sell 0.20 US30 at 26388.5 sl: 26452.9 tp: 0.0 -> sl: 26432.8 tp: 0.0 failed [Invalid S/L or T/P]
+0	16:11:40.276	'14109544': modify order #189085149 sell 0.20 US30 at 26388.5 sl: 26452.9 tp: 0.0 -> sl: 26445.2 tp: 0.0
+0	16:11:43.692	'14109544': order #189085149 sell 0.20 US30 at 26388.5 was modified -> sl: 26445.2 tp: 0.0
+0	16:11:44.772	Notifications: 'order #189085149 sell 0.20 US30 at 26388.5 modified: sl: 26452.9 tp: 0.0 -> sl: 26445.2 tp: 0.0' sent to 'A37163A9'
+1	16:14:15.691	'14109544': modification of order #189085149 sell 0.20 US30 at 26388.5 sl: 26445.2 tp: 0.0 -> sl: 26435.1 tp: 0.0 failed [Invalid S/L or T/P]
+1	16:14:18.754	'14109544': modification of order #189085149 sell 0.20 US30 at 26388.5 sl: 26445.2 tp: 0.0 -> sl: 26441.1 tp: 0.0 failed [Invalid S/L or T/P]
+1	16:17:55.472	'14109544': modification of order #189085149 sell 0.20 US30 at 26388.5 sl: 26445.2 tp: 0.0 -> sl: 26428.0 tp: 0.0 failed [Invalid S/L or T/P]
+0	16:20:49.206	'14109544': close order #189085149 sell 0.20 US30 at 26388.5 sl: 26445.2 tp: 0.0 at price 26405.7
+0	16:20:49.589	'14109544': order #189085149 sell 0.20 US30 at 26388.5 sl: 26445.2 tp: 0.0 closed at price 26405.7
+0	16:20:50.618	Notifications: 'order #189085149 sell 0.20 US30 at 26388.5 closed at price 26405.7, profit: -3.44 USD' sent to 'A37163A9'
+0	16:34:42.763	'14109544': modify order #189080486 sell 0.10 EURCAD at 1.52039 sl: 1.52400 tp: 1.51650 -> sl: 1.52860 tp: 1.51650
+0	16:34:43.337	'14109544': order #189080486 sell 0.10 EURCAD at 1.52039 was modified -> sl: 1.52860 tp: 1.51650
+0	16:34:44.356	Notifications: 'order #189080486 sell 0.10 EURCAD at 1.52039 modified: sl: 1.52400 tp: 1.51650 -> sl: 1.52860 tp: 1.51650' sent to 'A37163A9'
+0	16:37:14.021	'14109544': instant order sell 0.50 DE30 at 12366.5 sl: 0.0 tp: 0.0
+0	16:37:14.413	'14109544': requote 12365.8 / 12369.8 for open sell 0.50 DE30 at 12366.5 sl: 0.0 tp: 0.0
+0	16:37:16.057	'14109544': instant order sell 0.50 DE30 at 12368.0 sl: 0.0 tp: 0.0
+0	16:37:16.452	'14109544': requote 12365.5 / 12369.5 for open sell 0.50 DE30 at 12368.0 sl: 0.0 tp: 0.0
+0	16:37:18.105	'14109544': instant order sell 0.50 DE30 at 12364.7 sl: 0.0 tp: 0.0
+0	16:37:18.593	'14109544': order was opened : #189088368 sell 0.50 DE30 at 12364.7 sl: 0.0 tp: 0.0
+0	16:37:19.682	Notifications: 'order opened #189088368 sell 0.50 DE30 at 12364.7' sent to 'A37163A9'
+0	16:37:30.670	'14109544': instant order sell 0.20 US30 at 26295.7 sl: 0.0 tp: 0.0
+0	16:37:31.052	'14109544': order was opened : #189088403 sell 0.20 US30 at 26295.7 sl: 0.0 tp: 0.0
+0	16:37:32.662	Notifications: 'order opened #189088403 sell 0.20 US30 at 26295.7' sent to 'A37163A9'
+0	16:37:51.793	'14109544': modify order #189088403 sell 0.20 US30 at 26295.7 sl: 0.0 tp: 0.0 -> sl: 26385.2 tp: 0.0
+0	16:37:52.262	'14109544': order #189088403 sell 0.20 US30 at 26295.7 was modified -> sl: 26385.2 tp: 0.0
+0	16:37:53.260	Notifications: 'order #189088403 sell 0.20 US30 at 26295.7 modified: sl: 0.0 tp: 0.0 -> sl: 26385.2 tp: 0.0' sent to 'A37163A9'
+1	16:39:18.355	'14109544': modification of order #189088368 sell 0.50 DE30 at 12364.7 sl: 0.0 tp: 0.0 -> sl: 12390.9 tp: 0.0 failed [Invalid S/L or T/P]
+0	16:39:21.888	'14109544': modify order #189088368 sell 0.50 DE30 at 12364.7 sl: 0.0 tp: 0.0 -> sl: 12398.7 tp: 0.0
+0	16:39:22.269	'14109544': order #189088368 sell 0.50 DE30 at 12364.7 was modified -> sl: 12398.7 tp: 0.0
+0	16:39:23.318	Notifications: 'order #189088368 sell 0.50 DE30 at 12364.7 modified: sl: 0.0 tp: 0.0 -> sl: 12398.7 tp: 0.0' sent to 'A37163A9'
+0	16:50:14.552	'14109544': order #189088403 sell 0.20 US30 at 26295.7 closed due stop-loss at price 26385.2
+0	16:50:15.620	Notifications: 'order #189088403 sell 0.20 US30 at 26295.7 closed due stop-loss at price 26385.2, profit: -17.90 USD' sent to 'A37163A9'
+0	16:50:44.236	'14109544': close order #189088368 sell 0.50 DE30 at 12364.7 sl: 12398.7 tp: 0.0 at price 12392.6
+0	16:50:44.622	'14109544': order #189088368 sell 0.50 DE30 at 12364.7 sl: 12398.7 tp: 0.0 closed at price 12392.6
+0	16:50:45.621	Notifications: 'order #189088368 sell 0.50 DE30 at 12364.7 closed at price 12392.6, profit: -15.68 USD' sent to 'A37163A9'
+0	16:55:51.675	'14109544': instant order sell 1.00 US30 at 26289.7 sl: 0.0 tp: 0.0
+0	16:55:52.093	'14109544': requote 26288.1 / 26293.6 for open sell 1.00 US30 at 26289.7 sl: 0.0 tp: 0.0
+0	16:55:54.091	'14109544': instant order sell 1.00 US30 at 26289.7 sl: 0.0 tp: 0.0
+0	16:55:54.523	'14109544': requote 26287.2 / 26292.7 for open sell 1.00 US30 at 26289.7 sl: 0.0 tp: 0.0
+0	16:55:58.640	'14109544': instant order sell 1.00 US30 at 26289.1 sl: 0.0 tp: 0.0
+0	16:55:59.054	'14109544': order was opened : #189090996 sell 1.00 US30 at 26289.1 sl: 0.0 tp: 0.0
+0	16:56:00.102	Notifications: 'order opened #189090996 sell 1.00 US30 at 26289.1' sent to 'A37163A9'
+0	16:56:10.315	'14109544': close order #189090996 sell 1.00 US30 at 26289.1 sl: 0.0 tp: 0.0 at price 26288.6
+0	16:56:12.972	'14109544': order #189090996 sell 1.00 US30 at 26289.1 sl: 0.0 tp: 0.0 closed at price 26288.6
+0	16:56:13.611	Notifications: 'order #189090996 sell 1.00 US30 at 26289.1 closed at price 26288.6, profit: 0.50 USD' sent to 'A37163A9'
+0	16:56:56.811	'14109544': instant order sell 1.00 US30 at 26279.6 sl: 0.0 tp: 0.0
+0	16:56:57.232	'14109544': requote 26277.3 / 26282.8 for open sell 1.00 US30 at 26279.6 sl: 0.0 tp: 0.0
+0	16:56:59.018	'14109544': instant order sell 1.00 US30 at 26274.0 sl: 0.0 tp: 0.0
+0	16:56:59.452	'14109544': order was opened : #189091188 sell 1.00 US30 at 26274.0 sl: 0.0 tp: 0.0
+0	16:57:00.410	Notifications: 'order opened #189091188 sell 1.00 US30 at 26274.0' sent to 'A37163A9'
+0	16:57:49.278	'14109544': close order #189091188 sell 1.00 US30 at 26274.0 sl: 0.0 tp: 0.0 at price 26252.8
+0	16:57:51.330	'14109544': requote 26228.9 / 26234.7 for order #189091188 sell 1.00 US30 closing at 26252.8
+0	16:57:53.287	'14109544': close order #189091188 sell 1.00 US30 at 26274.0 sl: 0.0 tp: 0.0 at price 26228.8
+0	16:57:55.651	'14109544': order #189091188 sell 1.00 US30 at 26274.0 sl: 0.0 tp: 0.0 closed at price 26228.8
+0	16:57:57.719	Notifications: 'order #189091188 sell 1.00 US30 at 26274.0 closed at price 26228.8, profit: 45.20 USD' sent to 'A37163A9'
+2	16:58:42.934	Custom indicator Admiral Pivot US30,M1: loaded successfully
+0	17:03:49.725	'14109544': instant order sell 1.00 US30 at 26264.9 sl: 0.0 tp: 0.0
+0	17:03:50.369	'14109544': requote 26261.2 / 26266.9 for open sell 1.00 US30 at 26264.9 sl: 0.0 tp: 0.0
+0	17:03:51.197	'14109544': instant order sell 1.00 US30 at 26258.4 sl: 0.0 tp: 0.0
+0	17:03:51.650	'14109544': order was opened : #189093027 sell 1.00 US30 at 26258.4 sl: 0.0 tp: 0.0
+0	17:03:52.779	Notifications: 'order opened #189093027 sell 1.00 US30 at 26258.4' sent to 'A37163A9'
+0	17:03:56.956	'14109544': instant order sell 1.00 DE30 at 12344.6 sl: 0.0 tp: 0.0
+0	17:03:57.732	'14109544': order was opened : #189093047 sell 1.00 DE30 at 12344.6 sl: 0.0 tp: 0.0
+0	17:03:58.509	Notifications: 'order opened #189093047 sell 1.00 DE30 at 12344.6' sent to 'A37163A9'
+0	17:06:38.843	'14109544': modify order #189093027 sell 1.00 US30 at 26258.4 sl: 0.0 tp: 0.0 -> sl: 26414.8 tp: 0.0
+0	17:06:39.335	'14109544': order #189093027 sell 1.00 US30 at 26258.4 was modified -> sl: 26414.8 tp: 0.0
+0	17:06:40.494	Notifications: 'order #189093027 sell 1.00 US30 at 26258.4 modified: sl: 0.0 tp: 0.0 -> sl: 26414.8 tp: 0.0' sent to 'A37163A9'
+0	17:19:47.597	'14109544': close order #189093027 sell 1.00 US30 at 26258.4 sl: 26414.8 tp: 0.0 at price 26210.8
+0	17:19:48.034	'14109544': requote 26207.1 / 26214.6 for order #189093027 sell 1.00 US30 closing at 26210.8
+0	17:19:49.037	'14109544': close order #189093027 sell 1.00 US30 at 26258.4 sl: 26414.8 tp: 0.0 at price 26214.7
+0	17:19:49.494	'14109544': requote 26208.3 / 26215.7 for order #189093027 sell 1.00 US30 closing at 26214.7
+0	17:20:27.640	'14109544': close order #189093027 sell 1.00 US30 at 26258.4 sl: 26414.8 tp: 0.0 at price 26217.8
+0	17:20:28.215	'14109544': order #189093027 sell 1.00 US30 at 26258.4 sl: 26414.8 tp: 0.0 closed at price 26217.8
+0	17:20:29.332	Notifications: 'order #189093027 sell 1.00 US30 at 26258.4 closed at price 26217.8, profit: 40.60 USD' sent to 'A37163A9'
+0	17:20:36.309	'14109544': close order #189093047 sell 1.00 DE30 at 12344.6 sl: 0.0 tp: 0.0 at price 12340.3
+0	17:20:36.854	'14109544': order #189093047 sell 1.00 DE30 at 12344.6 sl: 0.0 tp: 0.0 closed at price 12340.3
+0	17:20:37.953	Notifications: 'order #189093047 sell 1.00 DE30 at 12344.6 closed at price 12340.3, profit: 4.82 USD' sent to 'A37163A9'
+0	17:22:04.086	'14109544': modify order #188983161 sell 0.10 EURJPY at 120.793 sl: 121.795 tp: 0.000 -> sl: 120.424 tp: 0.000
+0	17:22:04.511	'14109544': order #188983161 sell 0.10 EURJPY at 120.793 was modified -> sl: 120.424 tp: 0.000
+0	17:22:05.550	Notifications: 'order #188983161 sell 0.10 EURJPY at 120.793 modified: sl: 121.795 tp: 0.000 -> sl: 120.424 tp: 0.000' sent to 'A37163A9'
+0	17:22:23.743	'14109544': modify order #188983242 sell 0.10 GBPJPY at 134.904 sl: 135.951 tp: 0.000 -> sl: 134.551 tp: 0.000
+0	17:22:24.159	'14109544': order #188983242 sell 0.10 GBPJPY at 134.904 was modified -> sl: 134.551 tp: 0.000
+0	17:22:25.311	Notifications: 'order #188983242 sell 0.10 GBPJPY at 134.904 modified: sl: 135.951 tp: 0.000 -> sl: 134.551 tp: 0.000' sent to 'A37163A9'
+0	17:24:24.092	'14109544': close order #188983161 sell 0.10 EURJPY at 120.793 sl: 120.424 tp: 0.000 at price 120.273
+0	17:24:25.068	'14109544': order #188983161 sell 0.10 EURJPY at 120.793 sl: 120.424 tp: 0.000 closed at price 120.273
+0	17:24:25.458	'14109544': close order #188983242 sell 0.10 GBPJPY at 134.904 sl: 134.551 tp: 0.000 at price 134.260
+0	17:24:25.706	Notifications: 'order #188983161 sell 0.10 EURJPY at 120.793 closed at price 120.273, profit: 48.51 USD' sent to 'A37163A9'
+0	17:24:26.086	'14109544': order #188983242 sell 0.10 GBPJPY at 134.904 sl: 134.551 tp: 0.000 closed at price 134.260
+0	17:24:27.116	Notifications: 'order #188983242 sell 0.10 GBPJPY at 134.904 closed at price 134.260, profit: 60.08 USD' sent to 'A37163A9'
+0	17:39:40.354	'14109544': instant order sell 0.10 EURNZD at 1.73790 sl: 0.00000 tp: 0.00000
+0	17:39:40.874	'14109544': order was opened : #189098915 sell 0.10 EURNZD at 1.73790 sl: 0.00000 tp: 0.00000
+0	17:39:41.912	Notifications: 'order opened #189098915 sell 0.10 EURNZD at 1.73790' sent to 'A37163A9'
+0	17:40:13.353	'14109544': modify order #189098915 sell 0.10 EURNZD at 1.73790 sl: 0.00000 tp: 0.00000 -> sl: 1.74255 tp: 1.72045
+0	17:40:14.052	'14109544': order #189098915 sell 0.10 EURNZD at 1.73790 was modified -> sl: 1.74255 tp: 1.72045
+0	17:40:14.781	Notifications: 'order #189098915 sell 0.10 EURNZD at 1.73790 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.74255 tp: 1.72045' sent to 'A37163A9'
+0	17:41:00.832	'14109544': modify order #189098915 sell 0.10 EURNZD at 1.73790 sl: 1.74255 tp: 1.72045 -> sl: 1.75350 tp: 1.72045
+0	17:41:01.281	'14109544': order #189098915 sell 0.10 EURNZD at 1.73790 was modified -> sl: 1.75350 tp: 1.72045
+0	17:41:02.370	Notifications: 'order #189098915 sell 0.10 EURNZD at 1.73790 modified: sl: 1.74255 tp: 1.72045 -> sl: 1.75350 tp: 1.72045' sent to 'A37163A9'
+0	17:58:48.195	'14109544': close order #189098915 sell 0.10 EURNZD at 1.73790 sl: 1.75350 tp: 1.72045 at price 1.73438
+0	17:58:48.581	'14109544': order #189098915 sell 0.10 EURNZD at 1.73790 sl: 1.75350 tp: 1.72045 closed at price 1.73438
+0	17:58:49.601	Notifications: 'order #189098915 sell 0.10 EURNZD at 1.73790 closed at price 1.73438, profit: 22.78 USD' sent to 'A37163A9'
+2	18:08:27.914	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	18:08:28.076	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	18:08:28.095	Custom indicator CandleTimer GBPAUD,H1: loaded successfully
+2	18:08:28.246	Custom indicator #Signal_Bars_v6 GBPAUD,H1: loaded successfully
+2	18:08:28.409	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	18:08:28.431	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	18:08:28.457	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	18:09:15.045	Custom indicator AIMS Levels V2 GBPAUD,H1: removed
+2	18:09:15.045	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: removed
+2	18:09:15.049	Custom indicator CandleTimer GBPAUD,H1: removed
+2	18:09:15.049	Custom indicator #Signal_Bars_v6 GBPAUD,H1: removed
+2	18:09:15.049	Custom indicator AIMS AO V.2.1 GBPAUD,H1: removed
+2	18:09:15.052	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: removed
+2	18:09:15.055	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	18:10:33.558	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	18:10:33.678	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	18:10:33.689	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	18:10:33.806	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	18:10:33.943	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	18:10:33.960	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	18:10:33.977	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+0	18:15:10.651	'14109544': modify order #188983269 sell 0.10 AUDJPY at 73.893 sl: 75.128 tp: 0.000 -> sl: 75.128 tp: 72.839
+0	18:15:11.039	'14109544': order #188983269 sell 0.10 AUDJPY at 73.893 was modified -> sl: 75.128 tp: 72.839
+0	18:15:12.139	Notifications: 'order #188983269 sell 0.10 AUDJPY at 73.893 modified: sl: 75.128 tp: 0.000 -> sl: 75.128 tp: 72.839' sent to 'A37163A9'
+2	18:16:36.372	Expert ForexSignals-NakedTrading-v1.3 AUDUSD,H1: removed
+2	18:16:36.475	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	18:16:36.596	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	18:16:36.609	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	18:16:36.730	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	18:16:36.859	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	18:16:36.877	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	18:16:36.897	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	18:16:50.373	Expert ForexSignals-PatternFinder-1.2 GBPUSD,H1: removed
+2	18:16:50.489	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	18:16:50.613	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	18:16:50.627	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	18:16:50.762	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	18:16:50.906	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	18:16:50.922	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	18:16:50.940	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+0	18:37:10.878	'14109544': instant order sell 0.10 EURJPY at 120.316 sl: 0.000 tp: 0.000
+0	18:37:11.310	'14109544': order was opened : #189107980 sell 0.10 EURJPY at 120.316 sl: 0.000 tp: 0.000
+0	18:37:12.549	Notifications: 'order opened #189107980 sell 0.10 EURJPY at 120.316' sent to 'A37163A9'
+0	18:37:18.815	'14109544': instant order sell 0.20 GBPJPY at 134.359 sl: 0.000 tp: 0.000
+0	18:37:19.549	'14109544': order was opened : #189107992 sell 0.20 GBPJPY at 134.359 sl: 0.000 tp: 0.000
+0	18:37:20.318	Notifications: 'order opened #189107992 sell 0.20 GBPJPY at 134.359' sent to 'A37163A9'
+0	18:37:32.318	'14109544': close order #189107992 sell 0.20 GBPJPY at 134.359 sl: 0.000 tp: 0.000 at price 134.359
+0	18:37:34.639	'14109544': order #189107992 sell 0.20 GBPJPY at 134.359 sl: 0.000 tp: 0.000 closed at price 134.359
+0	18:37:35.788	Notifications: 'order #189107992 sell 0.20 GBPJPY at 134.359 closed at price 134.359' sent to 'A37163A9'
+0	18:37:41.940	'14109544': instant order sell 0.10 GBPJPY at 134.356 sl: 0.000 tp: 0.000
+0	18:37:42.348	'14109544': order was opened : #189108049 sell 0.10 GBPJPY at 134.356 sl: 0.000 tp: 0.000
+0	18:37:43.468	Notifications: 'order opened #189108049 sell 0.10 GBPJPY at 134.356' sent to 'A37163A9'
+0	18:38:44.190	'14109544': modify order #189107980 sell 0.10 EURJPY at 120.316 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 117.847
+0	18:38:44.647	'14109544': order #189107980 sell 0.10 EURJPY at 120.316 was modified -> sl: 0.000 tp: 117.847
+0	18:38:45.836	Notifications: 'order #189107980 sell 0.10 EURJPY at 120.316 modified: sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 117.847' sent to 'A37163A9'
+0	18:38:57.699	'14109544': modify order #189107980 sell 0.10 EURJPY at 120.316 sl: 0.000 tp: 117.847 -> sl: 122.265 tp: 117.847
+0	18:38:58.396	'14109544': order #189107980 sell 0.10 EURJPY at 120.316 was modified -> sl: 122.265 tp: 117.847
+0	18:38:59.195	Notifications: 'order #189107980 sell 0.10 EURJPY at 120.316 modified: sl: 0.000 tp: 117.847 -> sl: 122.265 tp: 117.847' sent to 'A37163A9'
+0	18:39:04.231	'14109544': modify order #189107980 sell 0.10 EURJPY at 120.316 sl: 122.265 tp: 117.847 -> sl: 121.894 tp: 117.847
+0	18:39:04.707	'14109544': order #189107980 sell 0.10 EURJPY at 120.316 was modified -> sl: 121.894 tp: 117.847
+0	18:39:05.855	Notifications: 'order #189107980 sell 0.10 EURJPY at 120.316 modified: sl: 122.265 tp: 117.847 -> sl: 121.894 tp: 117.847' sent to 'A37163A9'
+0	18:39:07.434	'14109544': modify order #189107980 sell 0.10 EURJPY at 120.316 sl: 121.894 tp: 117.847 -> sl: 121.726 tp: 117.847
+0	18:39:11.796	'14109544': order #189107980 sell 0.10 EURJPY at 120.316 was modified -> sl: 121.726 tp: 117.847
+0	18:39:12.955	Notifications: 'order #189107980 sell 0.10 EURJPY at 120.316 modified: sl: 121.894 tp: 117.847 -> sl: 121.726 tp: 117.847' sent to 'A37163A9'
+0	18:39:35.979	'14109544': modify order #189108049 sell 0.10 GBPJPY at 134.356 sl: 0.000 tp: 0.000 -> sl: 135.905 tp: 0.000
+0	18:39:36.375	'14109544': order #189108049 sell 0.10 GBPJPY at 134.356 was modified -> sl: 135.905 tp: 0.000
+0	18:39:37.965	Notifications: 'order #189108049 sell 0.10 GBPJPY at 134.356 modified: sl: 0.000 tp: 0.000 -> sl: 135.905 tp: 0.000' sent to 'A37163A9'
+0	18:39:44.085	'14109544': modify order #189108049 sell 0.10 GBPJPY at 134.356 sl: 135.905 tp: 0.000 -> sl: 135.586 tp: 0.000
+0	18:39:44.525	'14109544': order #189108049 sell 0.10 GBPJPY at 134.356 was modified -> sl: 135.586 tp: 0.000
+0	18:39:45.825	Notifications: 'order #189108049 sell 0.10 GBPJPY at 134.356 modified: sl: 135.905 tp: 0.000 -> sl: 135.586 tp: 0.000' sent to 'A37163A9'
+0	18:39:59.532	'14109544': modify order #189108049 sell 0.10 GBPJPY at 134.356 sl: 135.586 tp: 0.000 -> sl: 135.586 tp: 130.901
+0	18:39:59.956	'14109544': order #189108049 sell 0.10 GBPJPY at 134.356 was modified -> sl: 135.586 tp: 130.901
+0	18:40:01.054	Notifications: 'order #189108049 sell 0.10 GBPJPY at 134.356 modified: sl: 135.586 tp: 0.000 -> sl: 135.586 tp: 130.901' sent to 'A37163A9'
+0	18:40:53.066	'14109544': modify order #188983269 sell 0.10 AUDJPY at 73.893 sl: 75.128 tp: 72.839 -> sl: 74.784 tp: 72.839
+0	18:40:53.573	'14109544': order #188983269 sell 0.10 AUDJPY at 73.893 was modified -> sl: 74.784 tp: 72.839
+0	18:40:54.812	Notifications: 'order #188983269 sell 0.10 AUDJPY at 73.893 modified: sl: 75.128 tp: 72.839 -> sl: 74.784 tp: 72.839' sent to 'A37163A9'
+0	18:41:38.470	'14109544': modify order #189108049 sell 0.10 GBPJPY at 134.356 sl: 135.586 tp: 130.901 -> sl: 135.586 tp: 133.200
+0	18:41:38.893	'14109544': order #189108049 sell 0.10 GBPJPY at 134.356 was modified -> sl: 135.586 tp: 133.200
+0	18:41:40.242	Notifications: 'order #189108049 sell 0.10 GBPJPY at 134.356 modified: sl: 135.586 tp: 130.901 -> sl: 135.586 tp: 133.200' sent to 'A37163A9'
+0	18:42:04.561	'14109544': modify order #188983269 sell 0.10 AUDJPY at 73.893 sl: 74.784 tp: 72.839 -> sl: 74.784 tp: 72.812
+0	18:42:04.962	'14109544': order #188983269 sell 0.10 AUDJPY at 73.893 was modified -> sl: 74.784 tp: 72.812
+0	18:42:06.190	Notifications: 'order #188983269 sell 0.10 AUDJPY at 73.893 modified: sl: 74.784 tp: 72.839 -> sl: 74.784 tp: 72.812' sent to 'A37163A9'
+0	18:43:47.720	'14109544': modify order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.12843 tp: 1.09908 -> sl: 1.12843 tp: 1.10399
+0	18:43:48.389	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 was modified -> sl: 1.12843 tp: 1.10399
+0	18:43:49.738	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 modified: sl: 1.12843 tp: 1.09908 -> sl: 1.12843 tp: 1.10399' sent to 'A37163A9'
+0	18:44:13.803	'14109544': modify order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.12843 tp: 1.10399 -> sl: 1.13458 tp: 1.10399
+0	18:44:14.229	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 was modified -> sl: 1.13458 tp: 1.10399
+0	18:44:15.307	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 modified: sl: 1.12843 tp: 1.10399 -> sl: 1.13458 tp: 1.10399' sent to 'A37163A9'
+0	18:44:16.969	'14109544': modify order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.13458 tp: 1.10399 -> sl: 1.13326 tp: 1.10399
+0	18:44:22.208	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 was modified -> sl: 1.13326 tp: 1.10399
+0	18:44:23.517	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 modified: sl: 1.13458 tp: 1.10399 -> sl: 1.13326 tp: 1.10399' sent to 'A37163A9'
+1	19:06:24.626	MQL5.community: authorization failed
+1	19:06:24.635	'14109544': connect failed [Connection échouée]
+0	19:11:04.916	'14109544': login on Exness-Real4 through DC00 (ping: 259.71 ms)
+0	19:11:08.632	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 259.71 ms)
+0	19:11:10.342	'14109544': previous successful authorization performed from 220.242.130.17
+0	19:11:39.592	'14109544': ping to current access point DC00 is 225.72 ms
+0	19:21:52.398	Notifications: 'Classical RSI bearish divergence on:  EURCAD' sent to 'A37163A9'
+0	20:24:28.457	Notifications: 'Classical RSI bullish divergence on:  EURUSD' sent to 'A37163A9'
+0	20:25:06.818	'14109544': close order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.13326 tp: 1.10399 at price 1.12392
+0	20:25:07.552	'14109544': order #189065196 sell 0.10 EURUSD at 1.12293 sl: 1.13326 tp: 1.10399 closed at price 1.12392
+0	20:25:08.841	Notifications: 'order #189065196 sell 0.10 EURUSD at 1.12293 closed at price 1.12392, profit: -9.90 USD' sent to 'A37163A9'
+2	20:25:13.714	Custom indicator AIMS Levels V2 EURUSD,M1: removed
+2	20:25:13.717	Custom indicator AIMS Entry Alert V1 EURUSD,M1: removed
+2	20:25:13.777	Custom indicator CandleTimer EURUSD,M1: removed
+2	20:25:13.778	Custom indicator #Signal_Bars_v6 EURUSD,M1: removed
+2	20:25:13.779	Custom indicator AIMS AO V.2.1 EURUSD,M1: removed
+2	20:25:13.784	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M1: removed
+2	20:25:13.787	Custom indicator RSI Divergence Levels EURUSD,M1: removed
+0	20:27:17.516	'14109544': modify order #189107980 sell 0.10 EURJPY at 120.316 sl: 121.726 tp: 117.847 -> sl: 121.165 tp: 117.847
+0	20:27:17.858	'14109544': order #189107980 sell 0.10 EURJPY at 120.316 was modified -> sl: 121.165 tp: 117.847
+0	20:27:19.814	Notifications: 'order #189107980 sell 0.10 EURJPY at 120.316 modified: sl: 121.726 tp: 117.847 -> sl: 121.165 tp: 117.847' sent to 'A37163A9'
+0	20:28:21.372	'14109544': modify order #189108049 sell 0.10 GBPJPY at 134.356 sl: 135.586 tp: 133.200 -> sl: 135.080 tp: 133.200
+0	20:28:21.726	'14109544': order #189108049 sell 0.10 GBPJPY at 134.356 was modified -> sl: 135.080 tp: 133.200
+0	20:28:23.253	Notifications: 'order #189108049 sell 0.10 GBPJPY at 134.356 modified: sl: 135.586 tp: 133.200 -> sl: 135.080 tp: 133.200' sent to 'A37163A9'
+2	20:59:34.130	Expert Admiral - Mini Terminal DE30,M5: removed
+2	20:59:34.355	Custom indicator AIMS Levels V2 DE30,M5: removed
+2	20:59:34.356	Custom indicator AIMS Entry Alert V1 DE30,M5: removed
+2	20:59:34.358	Custom indicator CandleTimer DE30,M5: removed
+2	20:59:34.358	Custom indicator #Signal_Bars_v6 DE30,M5: removed
+2	20:59:34.358	Custom indicator AIMS AO V.2.1 DE30,M5: removed
+2	20:59:34.361	Custom indicator IVT_MACD_ZERO_LAG DE30,M5: removed
+2	20:59:34.363	Custom indicator RSI Divergence Levels DE30,M5: removed
+2	20:59:34.369	Custom indicator AIMS Levels V2 US30,M5: removed
+2	20:59:34.370	Custom indicator AIMS Entry Alert V1 US30,M5: removed
+2	20:59:34.373	Custom indicator CandleTimer US30,M5: removed
+2	20:59:34.374	Custom indicator #Signal_Bars_v6 US30,M5: removed
+2	20:59:34.376	Custom indicator Admiral Pivot US30,M5: removed
+2	20:59:34.377	Custom indicator AIMS AO V.2.1 US30,M5: removed
+2	20:59:34.379	Custom indicator IVT_MACD_ZERO_LAG US30,M5: removed
+2	20:59:34.381	Custom indicator RSI Divergence Levels US30,M5: removed
+2	20:59:34.384	Custom indicator AIMS Levels V2 FR40,M5: removed
+2	20:59:34.385	Custom indicator AIMS Entry Alert V1 FR40,M5: removed
+2	20:59:34.387	Custom indicator CandleTimer FR40,M5: removed
+2	20:59:34.387	Custom indicator #Signal_Bars_v6 FR40,M5: removed
+2	20:59:34.387	Custom indicator AIMS AO V.2.1 FR40,M5: removed
+2	20:59:34.390	Custom indicator IVT_MACD_ZERO_LAG FR40,M5: removed
+2	20:59:34.392	Custom indicator RSI Divergence Levels FR40,M5: removed
+2	20:59:34.395	Custom indicator AIMS Levels V2 USTEC,M5: removed
+2	20:59:34.395	Custom indicator AIMS Entry Alert V1 USTEC,M5: removed
+2	20:59:34.398	Custom indicator CandleTimer USTEC,M5: removed
+2	20:59:34.399	Custom indicator #Signal_Bars_v6 USTEC,M5: removed
+2	20:59:34.399	Custom indicator AIMS AO V.2.1 USTEC,M5: removed
+2	20:59:34.401	Custom indicator IVT_MACD_ZERO_LAG USTEC,M5: removed
+2	20:59:34.404	Custom indicator RSI Divergence Levels USTEC,M5: removed
+2	20:59:34.406	Custom indicator AIMS Levels V2 USOIL,M5: removed
+2	20:59:34.407	Custom indicator AIMS Entry Alert V1 USOIL,M5: removed
+2	20:59:34.409	Custom indicator CandleTimer USOIL,M5: removed
+2	20:59:34.410	Custom indicator #Signal_Bars_v6 USOIL,M5: removed
+2	20:59:34.410	Custom indicator AIMS AO V.2.1 USOIL,M5: removed
+2	20:59:34.412	Custom indicator IVT_MACD_ZERO_LAG USOIL,M5: removed
+2	20:59:34.414	Custom indicator RSI Divergence Levels USOIL,M5: removed
+2	20:59:34.419	Custom indicator AIMS Levels V2 XAUUSD,M5: removed
+2	20:59:34.419	Custom indicator AIMS Entry Alert V1 XAUUSD,M5: removed
+2	20:59:34.422	Custom indicator CandleTimer XAUUSD,M5: removed
+2	20:59:34.423	Custom indicator #Signal_Bars_v6 XAUUSD,M5: removed
+2	20:59:34.423	Custom indicator AIMS AO V.2.1 XAUUSD,M5: removed
+2	20:59:34.425	Custom indicator IVT_MACD_ZERO_LAG XAUUSD,M5: removed
+2	20:59:34.427	Custom indicator RSI Divergence Levels XAUUSD,M5: removed
+2	20:59:34.430	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	20:59:34.430	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	20:59:34.433	Custom indicator CandleTimer AUDUSD,H1: removed
+2	20:59:34.433	Custom indicator #Signal_Bars_v6 AUDUSD,H1: removed
+2	20:59:34.433	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	20:59:34.436	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	20:59:34.438	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	20:59:34.442	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	20:59:34.442	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	20:59:34.444	Custom indicator CandleTimer GBPUSD,H1: removed
+2	20:59:34.445	Custom indicator #Signal_Bars_v6 GBPUSD,H1: removed
+2	20:59:34.446	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	20:59:34.448	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	20:59:34.451	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	20:59:34.463	Custom indicator AIMS Levels V2 AUDJPY,H1: removed
+2	20:59:34.463	Custom indicator AIMS Entry Alert V1 AUDJPY,H1: removed
+2	20:59:34.465	Custom indicator CandleTimer AUDJPY,H1: removed
+2	20:59:34.466	Custom indicator #Signal_Bars_v6 AUDJPY,H1: removed
+2	20:59:34.466	Custom indicator AIMS AO V.2.1 AUDJPY,H1: removed
+2	20:59:34.468	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H1: removed
+2	20:59:34.471	Custom indicator RSI Divergence Levels AUDJPY,H1: removed
+2	20:59:34.482	Custom indicator AIMS Levels V2 GBPJPY,H1: removed
+2	20:59:34.483	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: removed
+2	20:59:34.485	Custom indicator CandleTimer GBPJPY,H1: removed
+2	20:59:34.485	Custom indicator #Signal_Bars_v6 GBPJPY,H1: removed
+2	20:59:34.485	Custom indicator AIMS AO V.2.1 GBPJPY,H1: removed
+2	20:59:34.488	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: removed
+2	20:59:34.491	Custom indicator RSI Divergence Levels GBPJPY,H1: removed
+2	20:59:34.502	Custom indicator AIMS Levels V2 EURJPY,H1: removed
+2	20:59:34.502	Custom indicator AIMS Entry Alert V1 EURJPY,H1: removed
+2	20:59:34.505	Custom indicator CandleTimer EURJPY,H1: removed
+2	20:59:34.506	Custom indicator #Signal_Bars_v6 EURJPY,H1: removed
+2	20:59:34.506	Custom indicator AIMS AO V.2.1 EURJPY,H1: removed
+2	20:59:34.510	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: removed
+2	20:59:34.513	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	20:59:34.518	Custom indicator AIMS Levels V2 JP225,M5: removed
+2	20:59:34.519	Custom indicator AIMS Entry Alert V1 JP225,M5: removed
+2	20:59:34.521	Custom indicator CandleTimer JP225,M5: removed
+2	20:59:34.521	Custom indicator #Signal_Bars_v6 JP225,M5: removed
+2	20:59:34.521	Custom indicator AIMS AO V.2.1 JP225,M5: removed
+2	20:59:34.524	Custom indicator IVT_MACD_ZERO_LAG JP225,M5: removed
+2	20:59:34.526	Custom indicator RSI Divergence Levels JP225,M5: removed
+2	20:59:34.530	Custom indicator AIMS Levels V2 USDCAD,H1: removed
+2	20:59:34.530	Custom indicator AIMS Entry Alert V1 USDCAD,H1: removed
+2	20:59:34.533	Custom indicator CandleTimer USDCAD,H1: removed
+2	20:59:34.533	Custom indicator #Signal_Bars_v6 USDCAD,H1: removed
+2	20:59:34.533	Custom indicator AIMS AO V.2.1 USDCAD,H1: removed
+2	20:59:34.537	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: removed
+2	20:59:34.539	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	20:59:34.543	Custom indicator AIMS Levels V2 EURNZD,H1: removed
+2	20:59:34.543	Custom indicator AIMS Entry Alert V1 EURNZD,H1: removed
+2	20:59:34.546	Custom indicator CandleTimer EURNZD,H1: removed
+2	20:59:34.546	Custom indicator #Signal_Bars_v6 EURNZD,H1: removed
+2	20:59:34.546	Custom indicator AIMS AO V.2.1 EURNZD,H1: removed
+2	20:59:34.549	Custom indicator IVT_MACD_ZERO_LAG EURNZD,H1: removed
+2	20:59:34.551	Custom indicator RSI Divergence Levels EURNZD,H1: removed
+2	20:59:34.561	Custom indicator AIMS Levels V2 EURCAD,H4: removed
+2	20:59:34.561	Custom indicator AIMS Entry Alert V1 EURCAD,H4: removed
+2	20:59:34.564	Custom indicator CandleTimer EURCAD,H4: removed
+2	20:59:34.564	Custom indicator #Signal_Bars_v6 EURCAD,H4: removed
+2	20:59:34.565	Custom indicator AIMS AO V.2.1 EURCAD,H4: removed
+2	20:59:34.567	Custom indicator IVT_MACD_ZERO_LAG EURCAD,H4: removed
+2	20:59:34.569	Custom indicator RSI Divergence Levels EURCAD,H4: removed
+2	20:59:34.575	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	20:59:34.575	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	20:59:34.578	Custom indicator CandleTimer AUDUSD,H1: removed
+2	20:59:34.578	Custom indicator #Signal_Bars_v6 AUDUSD,H1: removed
+2	20:59:34.578	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	20:59:34.580	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	20:59:34.583	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+0	20:59:37.345	Admiral Markets build 1260 stopped

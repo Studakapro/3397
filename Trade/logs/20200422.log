@@ -1,0 +1,1449 @@
+2	03:22:19.756	Custom indicator MBFX Timing [DJI30],M15: removed
+2	03:22:19.906	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+2	03:25:11.881	Custom indicator MBFX Timing GBPJPY,H1: removed
+2	03:25:12.670	Custom indicator MBFX Timing GBPJPY,Daily: loaded successfully
+2	03:26:16.107	Custom indicator MBFX Timing GBPJPY,Daily: removed
+2	03:26:16.248	Custom indicator MBFX Timing GBPJPY,H1: loaded successfully
+2	05:04:04.406	Custom indicator #P4L CandleTime USDCAD,H1: loaded successfully
+2	05:04:04.421	Custom indicator TURBO PLUS+ USDCAD,H1: loaded successfully
+2	05:04:04.432	Custom indicator ALERT SIGNAL USDCAD,H1: loaded successfully
+2	05:04:04.446	Custom indicator Trend Trading\TrendTradingCloud USDCAD,H1: loaded successfully
+2	05:04:04.460	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	05:04:04.472	Custom indicator MACD_Volumes-2 USDCAD,H1: loaded successfully
+2	05:04:04.482	Custom indicator Trend Trading\CloudSignalLines USDCAD,H1: loaded successfully
+2	05:04:04.683	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+0	05:05:35.723	'27123197': order buy market 0.10 USDCAD sl: 0.00000 tp: 0.00000
+0	05:05:36.139	'27123197': order was opened : #64955120 buy 0.10 USDCAD at 1.41996 sl: 0.00000 tp: 0.00000
+0	05:06:16.996	'27123197': modify order #64955120 buy 0.10 USDCAD at 1.41996 sl: 0.00000 tp: 0.00000 -> sl: 1.40831 tp: 1.42239
+0	05:06:17.308	'27123197': order #64955120 buy 0.10 USDCAD at 1.41996 was modified -> sl: 1.40831 tp: 1.42239
+0	05:06:41.482	'27123197': order #64931295 buy 0.10 GBPAUD at 1.95308 closed due stop-loss at price 1.94948
+0	05:06:52.919	'27123197': order #64928551 sell 0.10 AUDCAD at 0.89355 closed due stop-loss at price 0.90167
+0	05:07:00.327	'27123197': order buy market 0.10 GBPAUD sl: 0.00000 tp: 0.00000
+0	05:07:00.733	'27123197': order was opened : #64955197 buy 0.10 GBPAUD at 1.94292 sl: 0.00000 tp: 0.00000
+0	05:10:07.973	'27123197': close order #64955197 buy 0.10 GBPAUD at 1.94292 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	05:10:08.637	'27123197': order #64955197 buy 0.10 GBPAUD at 1.94292 sl: 0.00000 tp: 0.00000 closed at price 1.94734
+2	05:18:55.588	Expert Admiral - Trade Terminal GBPAUD,H1: loaded successfully
+1	06:06:09.522	'27123197': ping failed
+0	06:06:09.996	'27123197': login datacenter on AdmiralMarkets-Live
+0	06:06:11.171	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 322.83 ms)
+0	06:06:14.025	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 322.83 ms)
+0	06:06:14.954	'27123197': previous successful authorization performed from 197.149.28.6
+0	06:06:44.016	'27123197': auto connecting to a better access point Access Point #4 (ping is 211.63 ms)
+0	06:06:44.798	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 211.63 ms)
+0	06:06:47.094	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 211.63 ms)
+0	06:06:48.454	'27123197': previous successful authorization performed from 197.149.28.6
+0	07:14:44.142	'27123197': order #64955120 buy 0.10 USDCAD at 1.41996 closed due take-profit at price 1.42239
+0	07:26:54.809	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 211.63 ms)
+0	07:26:57.829	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 211.63 ms)
+0	07:26:59.339	'27123197': previous successful authorization performed from 197.149.28.6
+0	07:27:27.064	'27123197': ping to current access point Access Point #4 is 230.51 ms
+2	07:59:02.881	Custom indicator #P4L CandleTime EURNZD,H1: loaded successfully
+2	07:59:02.895	Custom indicator TURBO PLUS+ EURNZD,H1: loaded successfully
+2	07:59:02.906	Custom indicator ALERT SIGNAL EURNZD,H1: loaded successfully
+2	07:59:02.917	Custom indicator Trend Trading\TrendTradingCloud EURNZD,H1: loaded successfully
+2	07:59:02.929	Custom indicator RSI Divergence Levels EURNZD,H1: loaded successfully
+2	07:59:02.939	Custom indicator MACD_Volumes-2 EURNZD,H1: loaded successfully
+2	07:59:02.949	Custom indicator Trend Trading\CloudSignalLines EURNZD,H1: loaded successfully
+2	07:59:03.131	Custom indicator MBFX Timing EURNZD,H1: loaded successfully
+0	08:00:21.023	'27123197': order buy market 0.10 EURNZD sl: 0.00000 tp: 0.00000
+0	08:00:21.682	'27123197': order was opened : #64959584 buy 0.10 EURNZD at 1.82063 sl: 0.00000 tp: 0.00000
+0	08:00:54.371	'27123197': modify order #64959584 buy 0.10 EURNZD at 1.82063 sl: 0.00000 tp: 0.00000 -> sl: 1.80540 tp: 1.82323
+0	08:00:54.899	'27123197': order #64959584 buy 0.10 EURNZD at 1.82063 was modified -> sl: 1.80540 tp: 1.82323
+1	08:57:26.401	'27123197': ping failed
+0	08:57:31.092	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 243.13 ms)
+0	08:57:33.156	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 243.13 ms)
+0	08:57:33.786	'27123197': previous successful authorization performed from 154.126.12.253
+0	08:57:48.556	'27123197': auto connecting to a better access point Access Point #4 (ping is 217.62 ms)
+0	08:57:49.426	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 217.62 ms)
+0	08:57:53.026	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 217.62 ms)
+0	08:57:53.611	'27123197': previous successful authorization performed from 197.149.28.6
+2	08:59:35.755	Custom indicator #P4L CandleTime EURJPY,H1: loaded successfully
+2	08:59:35.774	Custom indicator TURBO PLUS+ EURJPY,H1: loaded successfully
+2	08:59:35.793	Custom indicator ALERT SIGNAL EURJPY,H1: loaded successfully
+2	08:59:35.813	Custom indicator Trend Trading\TrendTradingCloud EURJPY,H1: loaded successfully
+2	08:59:35.834	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	08:59:35.853	Custom indicator MACD_Volumes-2 EURJPY,H1: loaded successfully
+2	08:59:35.867	Custom indicator Trend Trading\CloudSignalLines EURJPY,H1: loaded successfully
+2	08:59:36.194	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+0	08:59:49.707	'27123197': order buy market 0.10 EURJPY sl: 0.000 tp: 0.000
+0	08:59:50.136	'27123197': order was opened : #64961859 buy 0.10 EURJPY at 116.762 sl: 0.000 tp: 0.000
+0	09:00:32.115	'27123197': modify order #64961859 buy 0.10 EURJPY at 116.762 sl: 0.000 tp: 0.000 -> sl: 116.200 tp: 118.000
+0	09:00:32.455	'27123197': order #64961859 buy 0.10 EURJPY at 116.762 was modified -> sl: 116.200 tp: 118.000
+2	09:13:17.409	Custom indicator MBFX Timing AUDCAD,H1: removed
+2	09:13:17.436	Custom indicator #P4L CandleTime AUDCAD,H1: removed
+2	09:13:17.442	Custom indicator TURBO PLUS+ AUDCAD,H1: removed
+2	09:13:17.446	Custom indicator ALERT SIGNAL AUDCAD,H1: removed
+2	09:13:17.451	Custom indicator TrendTradingCloud AUDCAD,H1: removed
+2	09:13:17.457	Custom indicator RSI Divergence Levels AUDCAD,H1: removed
+2	09:13:17.461	Custom indicator MACD_Volumes-2 AUDCAD,H1: removed
+2	09:13:17.464	Custom indicator CloudSignalLines AUDCAD,H1: removed
+2	09:13:20.538	Custom indicator MBFX Timing AUDNZD,H1: removed
+2	09:13:20.570	Custom indicator #P4L CandleTime AUDNZD,H1: removed
+2	09:13:20.577	Custom indicator TURBO PLUS+ AUDNZD,H1: removed
+2	09:13:20.585	Custom indicator ALERT SIGNAL AUDNZD,H1: removed
+2	09:13:20.590	Custom indicator TrendTradingCloud AUDNZD,H1: removed
+2	09:13:20.595	Custom indicator RSI Divergence Levels AUDNZD,H1: removed
+2	09:13:20.599	Custom indicator MACD_Volumes-2 AUDNZD,H1: removed
+2	09:13:20.604	Custom indicator CloudSignalLines AUDNZD,H1: removed
+2	09:13:23.206	Custom indicator MBFX Timing EURRUB,H1: removed
+2	09:13:23.232	Custom indicator #P4L CandleTime EURRUB,H1: removed
+2	09:13:23.240	Custom indicator TURBO PLUS+ EURRUB,H1: removed
+2	09:13:23.244	Custom indicator ALERT SIGNAL EURRUB,H1: removed
+2	09:13:23.250	Custom indicator TrendTradingCloud EURRUB,H1: removed
+2	09:13:23.256	Custom indicator RSI Divergence Levels EURRUB,H1: removed
+2	09:13:23.260	Custom indicator MACD_Volumes-2 EURRUB,H1: removed
+2	09:13:23.269	Custom indicator CloudSignalLines EURRUB,H1: removed
+2	09:17:59.667	Custom indicator MBFX Timing USDCAD,H1: removed
+2	09:17:59.703	Custom indicator #P4L CandleTime USDCAD,H1: removed
+2	09:17:59.713	Custom indicator TURBO PLUS+ USDCAD,H1: removed
+2	09:17:59.720	Custom indicator ALERT SIGNAL USDCAD,H1: removed
+2	09:17:59.730	Custom indicator TrendTradingCloud USDCAD,H1: removed
+2	09:17:59.739	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	09:17:59.747	Custom indicator MACD_Volumes-2 USDCAD,H1: removed
+2	09:17:59.754	Custom indicator CloudSignalLines USDCAD,H1: removed
+2	09:18:04.582	Custom indicator MBFX Timing EURAUD,H1: removed
+2	09:18:04.616	Custom indicator #P4L CandleTime EURAUD,H1: removed
+2	09:18:04.625	Custom indicator TURBO PLUS+ EURAUD,H1: removed
+2	09:18:04.631	Custom indicator ALERT SIGNAL EURAUD,H1: removed
+2	09:18:04.638	Custom indicator TrendTradingCloud EURAUD,H1: removed
+2	09:18:04.648	Custom indicator RSI Divergence Levels EURAUD,H1: removed
+2	09:18:04.652	Custom indicator MACD_Volumes-2 EURAUD,H1: removed
+2	09:18:04.661	Custom indicator CloudSignalLines EURAUD,H1: removed
+2	09:18:11.607	Custom indicator MBFX Timing NZDUSD,H1: removed
+2	09:18:11.642	Custom indicator #P4L CandleTime NZDUSD,H1: removed
+2	09:18:11.646	Custom indicator TURBO PLUS+ NZDUSD,H1: removed
+2	09:18:11.653	Custom indicator ALERT SIGNAL NZDUSD,H1: removed
+2	09:18:11.661	Custom indicator TrendTradingCloud NZDUSD,H1: removed
+2	09:18:11.675	Custom indicator RSI Divergence Levels NZDUSD,H1: removed
+2	09:18:11.680	Custom indicator MACD_Volumes-2 NZDUSD,H1: removed
+2	09:18:11.685	Custom indicator CloudSignalLines NZDUSD,H1: removed
+2	09:18:14.612	Custom indicator MBFX Timing USDCAD,H1: removed
+2	09:18:14.639	Custom indicator #P4L CandleTime USDCAD,H1: removed
+2	09:18:14.643	Custom indicator TURBO PLUS+ USDCAD,H1: removed
+2	09:18:14.649	Custom indicator ALERT SIGNAL USDCAD,H1: removed
+2	09:18:14.654	Custom indicator TrendTradingCloud USDCAD,H1: removed
+2	09:18:14.660	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	09:18:14.666	Custom indicator MACD_Volumes-2 USDCAD,H1: removed
+2	09:18:14.672	Custom indicator CloudSignalLines USDCAD,H1: removed
+2	09:18:25.959	Custom indicator MBFX Timing EURGBP,H1: removed
+2	09:18:25.985	Custom indicator #P4L CandleTime EURGBP,H1: removed
+2	09:18:25.991	Custom indicator TURBO PLUS+ EURGBP,H1: removed
+2	09:18:25.998	Custom indicator ALERT SIGNAL EURGBP,H1: removed
+2	09:18:26.006	Custom indicator TrendTradingCloud EURGBP,H1: removed
+2	09:18:26.014	Custom indicator RSI Divergence Levels EURGBP,H1: removed
+2	09:18:26.020	Custom indicator MACD_Volumes-2 EURGBP,H1: removed
+2	09:18:26.026	Custom indicator CloudSignalLines EURGBP,H1: removed
+2	09:19:11.105	Custom indicator MBFX Timing USDJPY,H1: removed
+2	09:19:11.140	Custom indicator #P4L CandleTime USDJPY,H1: removed
+2	09:19:11.144	Custom indicator TURBO PLUS+ USDJPY,H1: removed
+2	09:19:11.149	Custom indicator ALERT SIGNAL USDJPY,H1: removed
+2	09:19:11.156	Custom indicator TrendTradingCloud USDJPY,H1: removed
+2	09:19:11.165	Custom indicator RSI Divergence Levels USDJPY,H1: removed
+2	09:19:11.170	Custom indicator MACD_Volumes-2 USDJPY,H1: removed
+2	09:19:11.175	Custom indicator CloudSignalLines USDJPY,H1: removed
+2	09:19:19.905	Custom indicator MBFX Timing EURUSD,H1: removed
+2	09:19:19.932	Custom indicator #P4L CandleTime EURUSD,H1: removed
+2	09:19:19.939	Custom indicator TURBO PLUS+ EURUSD,H1: removed
+2	09:19:19.944	Custom indicator ALERT SIGNAL EURUSD,H1: removed
+2	09:19:19.950	Custom indicator TrendTradingCloud EURUSD,H1: removed
+2	09:19:19.959	Custom indicator RSI Divergence Levels EURUSD,H1: removed
+2	09:19:19.965	Custom indicator MACD_Volumes-2 EURUSD,H1: removed
+2	09:19:19.972	Custom indicator CloudSignalLines EURUSD,H1: removed
+0	09:45:51.332	'27123197': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	09:45:51.813	'27123197': order was opened : #64965738 buy 0.10 [DJI30] at 23311.47 sl: 0.00 tp: 0.00
+0	09:46:15.488	'27123197': modify order #64965738 buy 0.10 [DJI30] at 23311.47 sl: 0.00 tp: 0.00 -> sl: 22935.00 tp: 23650.00
+0	09:46:15.809	'27123197': order #64965738 buy 0.10 [DJI30] at 23311.47 was modified -> sl: 22935.00 tp: 23650.00
+0	09:47:21.862	'27123197': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	09:47:22.439	'27123197': order was opened : #64965866 sell 0.10 [DAX30] at 10382.56 sl: 0.00 tp: 0.00
+0	09:47:59.276	'27123197': modify order #64965866 sell 0.10 [DAX30] at 10382.56 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 10100.00
+0	09:47:59.576	'27123197': order #64965866 sell 0.10 [DAX30] at 10382.56 was modified -> sl: 0.00 tp: 10100.00
+0	09:49:19.990	'27123197': modify order #64965866 sell 0.10 [DAX30] at 10382.56 sl: 0.00 tp: 10100.00 -> sl: 10509.55 tp: 10100.00
+0	09:49:20.313	'27123197': order #64965866 sell 0.10 [DAX30] at 10382.56 was modified -> sl: 10509.55 tp: 10100.00
+0	09:52:41.837	'27123197': login datacenter on AdmiralMarkets-Live
+0	09:52:43.450	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 217.33 ms)
+0	09:52:46.300	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 217.33 ms)
+0	09:52:47.064	'27123197': previous successful authorization performed from 197.149.28.6
+0	10:10:27.300	'27123197': login datacenter on AdmiralMarkets-Live
+0	10:10:30.288	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 244.76 ms)
+0	10:10:34.496	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 244.76 ms)
+0	10:10:36.686	'27123197': previous successful authorization performed from 197.149.28.6
+0	10:11:22.481	'27123197': auto connecting to a better access point Access Point #4 (ping is 219.02 ms)
+0	10:11:23.659	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 219.02 ms)
+0	10:11:26.860	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 219.02 ms)
+0	10:11:28.396	'27123197': previous successful authorization performed from 197.149.28.6
+1	10:13:33.760	'27123197': datacenter connecting failed [6]
+0	10:13:37.075	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 220.32 ms)
+0	10:13:40.504	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 220.32 ms)
+0	10:13:41.705	'27123197': previous successful authorization performed from 197.149.28.6
+1	10:15:40.765	'27123197': datacenter connecting failed [6]
+0	10:15:42.834	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 262.42 ms)
+0	10:15:47.996	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 262.42 ms)
+0	10:15:50.524	'27123197': previous successful authorization performed from 197.149.28.6
+0	10:18:02.070	'27123197': login datacenter on AdmiralMarkets-Live
+0	10:18:08.544	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 321.15 ms)
+0	10:18:14.843	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 321.15 ms)
+0	10:18:16.007	'27123197': previous successful authorization performed from 197.149.28.6
+0	10:19:25.952	'27123197': login datacenter on AdmiralMarkets-Live
+0	10:19:29.284	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 667.37 ms)
+0	10:19:42.310	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 667.37 ms)
+0	10:19:45.115	'27123197': previous successful authorization performed from 197.149.28.6
+1	10:23:27.769	'27123197': datacenter connecting failed [6]
+0	10:23:29.176	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 209.70 ms)
+0	10:23:38.234	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 209.70 ms)
+0	10:23:40.612	'27123197': previous successful authorization performed from 197.149.28.6
+1	10:26:13.761	'27123197': datacenter connecting failed [6]
+1	10:26:14.221	'27123197': connect failed [Connection échouée]
+0	10:26:21.267	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	10:27:00.510	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	10:27:07.540	'27123197': previous successful authorization performed from 197.149.28.6
+0	10:27:27.250	'27123197': ping to current access point Access Point #8 is 655.72 ms
+0	10:29:11.568	'27123197': login datacenter on AdmiralMarkets-Live
+0	10:29:13.151	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 215.62 ms)
+0	10:29:40.972	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 215.62 ms)
+0	10:29:45.694	'27123197': previous successful authorization performed from 197.149.28.6
+1	10:32:53.760	'27123197': datacenter connecting failed [6]
+0	10:32:55.578	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 228.55 ms)
+0	10:33:56.237	'27123197': login datacenter on AdmiralMarkets-Live
+0	10:34:18.344	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 294.10 ms)
+0	10:35:31.580	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	10:36:30.577	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	10:36:37.596	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	10:36:39.448	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	10:36:40.206	'27123197': previous successful authorization performed from 197.149.28.6
+0	10:49:58.775	'27123197': order sell market 0.10 AUDUSD sl: 0.00000 tp: 0.00000
+0	10:49:59.266	'27123197': order was opened : #64971882 sell 0.10 AUDUSD at 0.63436 sl: 0.00000 tp: 0.00000
+0	10:51:20.321	'27123197': modify order #64971882 sell 0.10 AUDUSD at 0.63436 sl: 0.00000 tp: 0.00000 -> sl: 0.63950 tp: 0.62550
+0	10:51:21.627	'27123197': order #64971882 sell 0.10 AUDUSD at 0.63436 was modified -> sl: 0.63950 tp: 0.62550
+0	10:53:28.981	'27123197': modify order #64965866 sell 0.10 [DAX30] at 10382.56 sl: 10509.55 tp: 10100.00 -> sl: 10509.55 tp: 10270.00
+0	10:53:29.382	'27123197': order #64965866 sell 0.10 [DAX30] at 10382.56 was modified -> sl: 10509.55 tp: 10270.00
+0	10:53:36.239	'27123197': modify order #64965866 sell 0.10 [DAX30] at 10382.56 sl: 10509.55 tp: 10270.00 -> sl: 10509.55 tp: 10243.32
+0	10:53:36.580	'27123197': order #64965866 sell 0.10 [DAX30] at 10382.56 was modified -> sl: 10509.55 tp: 10243.32
+0	11:13:26.118	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 267.70 ms)
+0	11:13:28.289	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 267.70 ms)
+0	11:13:28.883	'23853581': previous successful authorization performed from 197.149.28.6
+0	11:13:37.472	'23853581': ping to current access point Access Point #6 is 219.95 ms
+2	11:14:11.943	Custom indicator #P4L CandleTime EURAUD,H1: loaded successfully
+2	11:14:11.953	Custom indicator TURBO PLUS+ EURAUD,H1: loaded successfully
+2	11:14:11.963	Custom indicator ALERT SIGNAL EURAUD,H1: loaded successfully
+2	11:14:11.973	Custom indicator Trend Trading\TrendTradingCloud EURAUD,H1: loaded successfully
+2	11:14:11.983	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	11:14:11.993	Custom indicator MACD_Volumes-2 EURAUD,H1: loaded successfully
+2	11:14:12.000	Custom indicator Trend Trading\CloudSignalLines EURAUD,H1: loaded successfully
+2	11:14:12.185	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+0	11:15:47.946	'23853581': login on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	11:15:49.761	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	11:15:50.372	'23853581': previous successful authorization performed from 197.149.28.6
+2	11:19:17.389	Custom indicator MBFX Timing GBPUSD,M30: removed
+2	11:19:17.403	Expert Admiral - Connect GBPUSD,M30: removed
+2	11:19:17.408	Custom indicator CandleTimer GBPUSD,M30: removed
+2	11:19:17.409	Custom indicator #P4L CandleTime GBPUSD,M30: removed
+2	11:19:17.411	Custom indicator TURBO PLUS+ GBPUSD,M30: removed
+2	11:19:17.413	Custom indicator ALERT SIGNAL GBPUSD,M30: removed
+2	11:19:17.414	Custom indicator RSI Divergence Levels GBPUSD,M30: removed
+2	11:19:17.416	Custom indicator MACD_Volumes-2 GBPUSD,M30: removed
+2	11:19:20.106	Expert Admiral - Connect [DJI30],H1: loaded successfully
+0	11:20:13.566	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	11:20:15.573	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	11:20:16.188	'27123197': previous successful authorization performed from 197.149.28.6
+0	11:29:30.215	'23853581': login on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	11:29:32.576	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	11:29:33.170	'23853581': previous successful authorization performed from 197.149.28.6
+2	11:31:27.807	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	11:31:27.816	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	11:31:27.825	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	11:31:27.835	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	11:31:27.845	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	11:31:27.855	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	11:31:27.863	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	11:31:28.022	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+0	11:31:31.787	'23853581': order buy market 0.10 GBPCAD sl: 0.00000 tp: 0.00000
+0	11:31:32.420	'23853581': order was opened : #177257224 buy 0.10 GBPCAD at 1.74419 sl: 0.00000 tp: 0.00000
+2	11:31:43.694	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	11:31:43.826	Custom indicator MBFX Timing GBPCAD,M5: loaded successfully
+0	11:32:05.615	'23853581': modify order #177257224 buy 0.10 GBPCAD at 1.74419 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.74455
+0	11:32:05.920	'23853581': order #177257224 buy 0.10 GBPCAD at 1.74419 was modified -> sl: 0.00000 tp: 1.74455
+2	11:32:36.838	Custom indicator MBFX Timing [DJI30],H1: removed
+2	11:32:36.851	Expert Admiral - Connect [DJI30],H1: removed
+2	11:32:36.854	Custom indicator #P4L CandleTime [DJI30],H1: removed
+2	11:32:36.859	Custom indicator TURBO PLUS+ [DJI30],H1: removed
+2	11:32:36.861	Custom indicator ALERT SIGNAL [DJI30],H1: removed
+2	11:32:36.863	Custom indicator TrendTradingCloud [DJI30],H1: removed
+2	11:32:36.865	Custom indicator RSI Divergence Levels [DJI30],H1: removed
+2	11:32:36.868	Custom indicator MACD_Volumes-2 [DJI30],H1: removed
+2	11:32:36.870	Custom indicator CloudSignalLines [DJI30],H1: removed
+2	11:32:40.568	Expert Admiral - Connect GBPCAD,M5: loaded successfully
+2	11:35:52.575	Custom indicator #P4L CandleTime GBPCAD,M5: loaded successfully
+2	11:35:52.582	Custom indicator TURBO PLUS+ GBPCAD,M5: loaded successfully
+2	11:35:52.590	Custom indicator ALERT SIGNAL GBPCAD,M5: loaded successfully
+2	11:35:52.598	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,M5: loaded successfully
+2	11:35:52.609	Custom indicator RSI Divergence Levels GBPCAD,M5: loaded successfully
+2	11:35:52.617	Custom indicator MACD_Volumes-2 GBPCAD,M5: loaded successfully
+2	11:35:52.624	Custom indicator Trend Trading\CloudSignalLines GBPCAD,M5: loaded successfully
+2	11:35:52.782	Custom indicator MBFX Timing GBPCAD,M5: loaded successfully
+2	11:37:51.541	Custom indicator #P4L CandleTime EURJPY,H1: loaded successfully
+2	11:37:51.548	Custom indicator TURBO PLUS+ EURJPY,H1: loaded successfully
+2	11:37:51.556	Custom indicator ALERT SIGNAL EURJPY,H1: loaded successfully
+2	11:37:51.567	Custom indicator Trend Trading\TrendTradingCloud EURJPY,H1: loaded successfully
+2	11:37:51.576	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	11:37:51.584	Custom indicator MACD_Volumes-2 EURJPY,H1: loaded successfully
+2	11:37:51.591	Custom indicator Trend Trading\CloudSignalLines EURJPY,H1: loaded successfully
+2	11:37:51.741	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+0	11:37:53.794	'23853581': order buy market 0.10 EURJPY sl: 0.000 tp: 0.000
+0	11:37:54.177	'23853581': order was opened : #177257860 buy 0.10 EURJPY at 116.852 sl: 0.000 tp: 0.000
+0	11:37:55.361	'23853581': order #177257224 buy 0.10 GBPCAD at 1.74419 closed due take-profit at price 1.74461
+0	11:38:02.811	'23853581': modify order #177257860 buy 0.10 EURJPY at 116.852 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 116.891
+0	11:38:03.111	'23853581': order #177257860 buy 0.10 EURJPY at 116.852 was modified -> sl: 0.000 tp: 116.891
+2	11:38:44.036	Custom indicator #P4L CandleTime GBPAUD,H1: loaded successfully
+2	11:38:44.044	Custom indicator TURBO PLUS+ GBPAUD,H1: loaded successfully
+2	11:38:44.051	Custom indicator ALERT SIGNAL GBPAUD,H1: loaded successfully
+2	11:38:44.059	Custom indicator Trend Trading\TrendTradingCloud GBPAUD,H1: loaded successfully
+2	11:38:44.069	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	11:38:44.078	Custom indicator MACD_Volumes-2 GBPAUD,H1: loaded successfully
+2	11:38:44.086	Custom indicator Trend Trading\CloudSignalLines GBPAUD,H1: loaded successfully
+2	11:38:44.261	Custom indicator MBFX Timing GBPAUD,H1: loaded successfully
+0	11:38:54.815	'23853581': order buy market 0.10 GBPAUD sl: 0.00000 tp: 0.00000
+0	11:38:55.188	'23853581': order was opened : #177257937 buy 0.10 GBPAUD at 1.94556 sl: 0.00000 tp: 0.00000
+0	11:39:01.992	'23853581': modify order #177257937 buy 0.10 GBPAUD at 1.94556 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.94610
+0	11:39:02.730	'23853581': order #177257937 buy 0.10 GBPAUD at 1.94556 was modified -> sl: 0.00000 tp: 1.94610
+2	11:39:24.076	Custom indicator #P4L CandleTime AUDCAD,H1: loaded successfully
+2	11:39:24.083	Custom indicator TURBO PLUS+ AUDCAD,H1: loaded successfully
+2	11:39:24.092	Custom indicator ALERT SIGNAL AUDCAD,H1: loaded successfully
+2	11:39:24.101	Custom indicator Trend Trading\TrendTradingCloud AUDCAD,H1: loaded successfully
+2	11:39:24.111	Custom indicator RSI Divergence Levels AUDCAD,H1: loaded successfully
+2	11:39:24.120	Custom indicator MACD_Volumes-2 AUDCAD,H1: loaded successfully
+2	11:39:24.127	Custom indicator Trend Trading\CloudSignalLines AUDCAD,H1: loaded successfully
+2	11:39:24.281	Custom indicator MBFX Timing AUDCAD,H1: loaded successfully
+0	11:39:53.296	'23853581': order #177257937 buy 0.10 GBPAUD at 1.94556 closed due take-profit at price 1.94610
+2	11:40:06.181	Custom indicator MBFX Timing AUDCAD,H1: removed
+2	11:40:06.186	Custom indicator #P4L CandleTime AUDCAD,H1: removed
+2	11:40:06.188	Custom indicator TURBO PLUS+ AUDCAD,H1: removed
+2	11:40:06.189	Custom indicator ALERT SIGNAL AUDCAD,H1: removed
+2	11:40:06.190	Custom indicator TrendTradingCloud AUDCAD,H1: removed
+2	11:40:06.192	Custom indicator RSI Divergence Levels AUDCAD,H1: removed
+2	11:40:06.193	Custom indicator MACD_Volumes-2 AUDCAD,H1: removed
+2	11:40:06.194	Custom indicator CloudSignalLines AUDCAD,H1: removed
+2	11:40:08.947	Custom indicator MBFX Timing GBPAUD,H1: removed
+2	11:40:08.951	Custom indicator #P4L CandleTime GBPAUD,H1: removed
+2	11:40:08.953	Custom indicator TURBO PLUS+ GBPAUD,H1: removed
+2	11:40:08.954	Custom indicator ALERT SIGNAL GBPAUD,H1: removed
+2	11:40:08.955	Custom indicator TrendTradingCloud GBPAUD,H1: removed
+2	11:40:08.957	Custom indicator RSI Divergence Levels GBPAUD,H1: removed
+2	11:40:08.958	Custom indicator MACD_Volumes-2 GBPAUD,H1: removed
+2	11:40:08.960	Custom indicator CloudSignalLines GBPAUD,H1: removed
+2	11:41:46.702	Custom indicator #P4L CandleTime GBPCHF,H1: loaded successfully
+2	11:41:46.714	Custom indicator TURBO PLUS+ GBPCHF,H1: loaded successfully
+2	11:41:46.727	Custom indicator ALERT SIGNAL GBPCHF,H1: loaded successfully
+2	11:41:46.741	Custom indicator Trend Trading\TrendTradingCloud GBPCHF,H1: loaded successfully
+2	11:41:46.757	Custom indicator RSI Divergence Levels GBPCHF,H1: loaded successfully
+2	11:41:46.774	Custom indicator MACD_Volumes-2 GBPCHF,H1: loaded successfully
+2	11:41:46.787	Custom indicator Trend Trading\CloudSignalLines GBPCHF,H1: loaded successfully
+2	11:41:47.104	Custom indicator MBFX Timing GBPCHF,H1: loaded successfully
+0	11:41:49.410	'23853581': order buy market 0.10 GBPCHF sl: 0.00000 tp: 0.00000
+0	11:41:50.857	'23853581': order was opened : #177258316 buy 0.10 GBPCHF at 1.19596 sl: 0.00000 tp: 0.00000
+0	11:41:59.691	'23853581': modify order #177258316 buy 0.10 GBPCHF at 1.19596 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.19635
+0	11:42:08.476	'23853581': order #177258316 buy 0.10 GBPCHF at 1.19596 was modified -> sl: 0.00000 tp: 1.19635
+2	11:43:17.208	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	11:43:17.216	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	11:43:17.225	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	11:43:17.236	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	11:43:17.246	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	11:43:17.254	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	11:43:17.262	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	11:43:17.424	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+0	11:43:21.009	'23853581': order buy market 0.10 GBPCAD sl: 0.00000 tp: 0.00000
+0	11:43:21.836	'23853581': order was opened : #177258497 buy 0.10 GBPCAD at 1.74601 sl: 0.00000 tp: 0.00000
+0	11:43:31.043	'23853581': modify order #177258497 buy 0.10 GBPCAD at 1.74601 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.74685
+0	11:43:31.618	'23853581': order #177258497 buy 0.10 GBPCAD at 1.74601 was modified -> sl: 0.00000 tp: 1.74685
+0	11:44:29.443	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	11:44:31.981	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 266.19 ms)
+0	11:44:34.180	'27123197': previous successful authorization performed from 197.149.28.6
+0	11:44:47.664	'27123197': auto connecting to a better access point Access Point #4 (ping is 210.82 ms)
+0	11:44:48.475	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 210.82 ms)
+0	11:44:50.328	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 210.82 ms)
+0	11:44:50.904	'27123197': previous successful authorization performed from 197.149.28.6
+2	11:50:01.321	Expert Acuity Market Alerts GBPCAD,H1: loaded successfully
+2	12:01:04.482	Custom indicator MBFX Timing [DAX30],H1: removed
+2	12:01:04.609	Custom indicator MBFX Timing [DAX30],M30: loaded successfully
+2	12:01:06.677	Custom indicator MBFX Timing [DAX30],M30: removed
+2	12:01:06.785	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+2	12:01:14.973	Custom indicator MBFX Timing [DAX30],M15: removed
+2	12:01:15.065	Custom indicator MBFX Timing [DAX30],M30: loaded successfully
+2	12:01:25.688	Custom indicator MBFX Timing [DAX30],M30: removed
+2	12:01:25.796	Custom indicator MBFX Timing [DAX30],M5: loaded successfully
+2	12:01:38.114	Custom indicator MBFX Timing [DAX30],M5: removed
+2	12:01:38.245	Custom indicator MBFX Timing [DAX30],M30: loaded successfully
+2	12:01:45.526	Custom indicator MBFX Timing [DAX30],M30: removed
+2	12:01:45.654	Custom indicator MBFX Timing [DAX30],H1: loaded successfully
+0	12:02:12.228	'23853581': login on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	12:02:14.054	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	12:02:14.638	'23853581': previous successful authorization performed from 197.149.28.6
+2	12:03:47.608	Custom indicator #P4L CandleTime CADCHF,H1: loaded successfully
+2	12:03:47.619	Custom indicator TURBO PLUS+ CADCHF,H1: loaded successfully
+2	12:03:47.628	Custom indicator ALERT SIGNAL CADCHF,H1: loaded successfully
+2	12:03:47.639	Custom indicator Trend Trading\TrendTradingCloud CADCHF,H1: loaded successfully
+2	12:03:47.651	Custom indicator RSI Divergence Levels CADCHF,H1: loaded successfully
+2	12:03:47.661	Custom indicator MACD_Volumes-2 CADCHF,H1: loaded successfully
+2	12:03:47.670	Custom indicator Trend Trading\CloudSignalLines CADCHF,H1: loaded successfully
+2	12:03:47.843	Custom indicator MBFX Timing CADCHF,H1: loaded successfully
+0	12:04:22.798	'23853581': order buy market 0.10 CADCHF sl: 0.00000 tp: 0.00000
+0	12:04:23.187	'23853581': order was opened : #177261224 buy 0.10 CADCHF at 0.68511 sl: 0.00000 tp: 0.00000
+0	12:04:30.377	'23853581': order buy market 0.10 CADCHF sl: 0.00000 tp: 0.00000
+0	12:04:30.770	'23853581': order was opened : #177261231 buy 0.10 CADCHF at 0.68516 sl: 0.00000 tp: 0.00000
+0	12:04:39.177	'23853581': modify order #177261224 buy 0.10 CADCHF at 0.68511 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.68609
+0	12:04:39.551	'23853581': order #177261224 buy 0.10 CADCHF at 0.68511 was modified -> sl: 0.00000 tp: 0.68609
+0	12:04:49.296	'23853581': modify order #177261224 buy 0.10 CADCHF at 0.68511 sl: 0.00000 tp: 0.68609 -> sl: 0.00000 tp: 0.68659
+0	12:04:49.639	'23853581': order #177261224 buy 0.10 CADCHF at 0.68511 was modified -> sl: 0.00000 tp: 0.68659
+2	12:05:54.493	Custom indicator #P4L CandleTime EURCAD,H1: loaded successfully
+2	12:05:54.501	Custom indicator TURBO PLUS+ EURCAD,H1: loaded successfully
+2	12:05:54.511	Custom indicator ALERT SIGNAL EURCAD,H1: loaded successfully
+2	12:05:54.520	Custom indicator Trend Trading\TrendTradingCloud EURCAD,H1: loaded successfully
+2	12:05:54.530	Custom indicator RSI Divergence Levels EURCAD,H1: loaded successfully
+2	12:05:54.538	Custom indicator MACD_Volumes-2 EURCAD,H1: loaded successfully
+2	12:05:54.547	Custom indicator Trend Trading\CloudSignalLines EURCAD,H1: loaded successfully
+2	12:05:54.730	Custom indicator MBFX Timing EURCAD,H1: loaded successfully
+2	12:06:02.379	Custom indicator #P4L CandleTime USDCAD,H1: loaded successfully
+2	12:06:02.387	Custom indicator TURBO PLUS+ USDCAD,H1: loaded successfully
+2	12:06:02.394	Custom indicator ALERT SIGNAL USDCAD,H1: loaded successfully
+2	12:06:02.403	Custom indicator Trend Trading\TrendTradingCloud USDCAD,H1: loaded successfully
+2	12:06:02.411	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	12:06:02.420	Custom indicator MACD_Volumes-2 USDCAD,H1: loaded successfully
+2	12:06:02.428	Custom indicator Trend Trading\CloudSignalLines USDCAD,H1: loaded successfully
+2	12:06:02.592	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+0	12:06:06.488	'23853581': order sell market 0.10 EURCAD sl: 0.00000 tp: 0.00000
+0	12:06:07.017	'23853581': order was opened : #177261333 sell 0.10 EURCAD at 1.53666 sl: 0.00000 tp: 0.00000
+0	12:06:17.684	'23853581': modify order #177261333 sell 0.10 EURCAD at 1.53666 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.53519
+0	12:06:18.043	'23853581': order #177261333 sell 0.10 EURCAD at 1.53666 was modified -> sl: 0.00000 tp: 1.53519
+0	12:06:24.839	'23853581': order sell market 0.10 USDCAD sl: 0.00000 tp: 0.00000
+0	12:06:25.216	'23853581': order was opened : #177261357 sell 0.10 USDCAD at 1.41411 sl: 0.00000 tp: 0.00000
+0	12:06:30.600	'23853581': modify order #177261357 sell 0.10 USDCAD at 1.41411 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.41258
+0	12:06:30.923	'23853581': order #177261357 sell 0.10 USDCAD at 1.41411 was modified -> sl: 0.00000 tp: 1.41258
+0	12:07:47.438	'23853581': modify order #177261231 buy 0.10 CADCHF at 0.68516 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.68550
+0	12:07:47.802	'23853581': order #177261231 buy 0.10 CADCHF at 0.68516 was modified -> sl: 0.00000 tp: 0.68550
+0	12:09:26.284	'23853581': order #177258316 buy 0.10 GBPCHF at 1.19596 closed due take-profit at price 1.19636
+0	12:09:36.873	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 210.82 ms)
+0	12:09:38.725	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 210.82 ms)
+0	12:09:39.680	'27123197': previous successful authorization performed from 197.149.28.6
+2	12:10:11.834	Custom indicator MBFX Timing GBPCHF,H1: removed
+2	12:10:11.840	Custom indicator #P4L CandleTime GBPCHF,H1: removed
+2	12:10:11.842	Custom indicator TURBO PLUS+ GBPCHF,H1: removed
+2	12:10:11.843	Custom indicator ALERT SIGNAL GBPCHF,H1: removed
+2	12:10:11.845	Custom indicator TrendTradingCloud GBPCHF,H1: removed
+2	12:10:11.846	Custom indicator RSI Divergence Levels GBPCHF,H1: removed
+2	12:10:11.848	Custom indicator MACD_Volumes-2 GBPCHF,H1: removed
+2	12:10:11.850	Custom indicator CloudSignalLines GBPCHF,H1: removed
+2	12:10:14.258	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	12:10:14.352	Expert Acuity Market Alerts GBPCAD,H1: removed
+2	12:10:14.353	Custom indicator #P4L CandleTime GBPCAD,H1: removed
+2	12:10:14.356	Custom indicator TURBO PLUS+ GBPCAD,H1: removed
+2	12:10:14.358	Custom indicator ALERT SIGNAL GBPCAD,H1: removed
+2	12:10:14.360	Custom indicator TrendTradingCloud GBPCAD,H1: removed
+2	12:10:14.362	Custom indicator RSI Divergence Levels GBPCAD,H1: removed
+2	12:10:14.365	Custom indicator MACD_Volumes-2 GBPCAD,H1: removed
+2	12:10:14.366	Custom indicator CloudSignalLines GBPCAD,H1: removed
+2	12:10:16.546	Custom indicator MBFX Timing CADCHF,H1: removed
+2	12:10:16.550	Custom indicator #P4L CandleTime CADCHF,H1: removed
+2	12:10:16.552	Custom indicator TURBO PLUS+ CADCHF,H1: removed
+2	12:10:16.553	Custom indicator ALERT SIGNAL CADCHF,H1: removed
+2	12:10:16.554	Custom indicator TrendTradingCloud CADCHF,H1: removed
+2	12:10:16.556	Custom indicator RSI Divergence Levels CADCHF,H1: removed
+2	12:10:16.557	Custom indicator MACD_Volumes-2 CADCHF,H1: removed
+2	12:10:16.558	Custom indicator CloudSignalLines CADCHF,H1: removed
+2	12:10:18.706	Custom indicator MBFX Timing EURCAD,H1: removed
+2	12:10:18.711	Custom indicator #P4L CandleTime EURCAD,H1: removed
+2	12:10:18.713	Custom indicator TURBO PLUS+ EURCAD,H1: removed
+2	12:10:18.715	Custom indicator ALERT SIGNAL EURCAD,H1: removed
+2	12:10:18.716	Custom indicator TrendTradingCloud EURCAD,H1: removed
+2	12:10:18.718	Custom indicator RSI Divergence Levels EURCAD,H1: removed
+2	12:10:18.719	Custom indicator MACD_Volumes-2 EURCAD,H1: removed
+2	12:10:18.720	Custom indicator CloudSignalLines EURCAD,H1: removed
+2	12:10:21.465	Custom indicator MBFX Timing USDCAD,H1: removed
+2	12:10:21.470	Custom indicator #P4L CandleTime USDCAD,H1: removed
+2	12:10:21.471	Custom indicator TURBO PLUS+ USDCAD,H1: removed
+2	12:10:21.473	Custom indicator ALERT SIGNAL USDCAD,H1: removed
+2	12:10:21.475	Custom indicator TrendTradingCloud USDCAD,H1: removed
+2	12:10:21.477	Custom indicator RSI Divergence Levels USDCAD,H1: removed
+2	12:10:21.478	Custom indicator MACD_Volumes-2 USDCAD,H1: removed
+2	12:10:21.480	Custom indicator CloudSignalLines USDCAD,H1: removed
+2	12:15:23.089	Expert Acuity Linear Gauge [DAX30],H1: loaded successfully
+2	12:17:13.568	Expert Acuity Linear Gauge EURJPY,H1: loaded successfully
+2	12:18:28.146	Expert Acuity Linear Gauge GBPCAD,M5: loaded successfully
+0	12:18:54.400	'23853581': login on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	12:18:56.192	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 201.37 ms)
+0	12:18:57.098	'23853581': previous successful authorization performed from 197.149.28.6
+0	12:19:06.278	'23853581': auto connecting to a better access point Access Point #6 (ping is 218.35 ms)
+0	12:19:07.937	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 218.35 ms)
+0	12:19:09.770	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 218.35 ms)
+0	12:19:10.327	'23853581': previous successful authorization performed from 197.149.28.6
+2	12:21:42.772	Custom indicator #P4L CandleTime USDSGD,H1: loaded successfully
+2	12:21:42.782	Custom indicator TURBO PLUS+ USDSGD,H1: loaded successfully
+2	12:21:42.794	Custom indicator ALERT SIGNAL USDSGD,H1: loaded successfully
+2	12:21:42.807	Custom indicator Trend Trading\TrendTradingCloud USDSGD,H1: loaded successfully
+2	12:21:42.821	Custom indicator RSI Divergence Levels USDSGD,H1: loaded successfully
+2	12:21:42.832	Custom indicator MACD_Volumes-2 USDSGD,H1: loaded successfully
+2	12:21:42.843	Custom indicator Trend Trading\CloudSignalLines USDSGD,H1: loaded successfully
+2	12:21:43.067	Custom indicator MBFX Timing USDSGD,H1: loaded successfully
+2	12:22:36.292	Custom indicator MBFX Timing USDSGD,H1: removed
+2	12:22:36.297	Custom indicator #P4L CandleTime USDSGD,H1: removed
+2	12:22:36.299	Custom indicator TURBO PLUS+ USDSGD,H1: removed
+2	12:22:36.301	Custom indicator ALERT SIGNAL USDSGD,H1: removed
+2	12:22:36.302	Custom indicator TrendTradingCloud USDSGD,H1: removed
+2	12:22:36.305	Custom indicator RSI Divergence Levels USDSGD,H1: removed
+2	12:22:36.308	Custom indicator MACD_Volumes-2 USDSGD,H1: removed
+2	12:22:36.310	Custom indicator CloudSignalLines USDSGD,H1: removed
+2	12:22:40.717	Custom indicator #P4L CandleTime EURUSD,H1: loaded successfully
+2	12:22:40.725	Custom indicator TURBO PLUS+ EURUSD,H1: loaded successfully
+2	12:22:40.734	Custom indicator ALERT SIGNAL EURUSD,H1: loaded successfully
+2	12:22:40.743	Custom indicator Trend Trading\TrendTradingCloud EURUSD,H1: loaded successfully
+2	12:22:40.752	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	12:22:40.760	Custom indicator MACD_Volumes-2 EURUSD,H1: loaded successfully
+2	12:22:40.768	Custom indicator Trend Trading\CloudSignalLines EURUSD,H1: loaded successfully
+2	12:22:40.939	Custom indicator MBFX Timing EURUSD,H1: loaded successfully
+2	12:22:50.914	Expert Acuity Linear Gauge EURUSD,H1: loaded successfully
+0	12:23:15.831	'23853581': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	12:23:16.186	'23853581': order was opened : #177263469 buy 0.10 EURUSD at 1.08642 sl: 0.00000 tp: 0.00000
+0	12:23:38.315	'23853581': modify order #177263469 buy 0.10 EURUSD at 1.08642 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.08745
+0	12:23:38.616	'23853581': order #177263469 buy 0.10 EURUSD at 1.08642 was modified -> sl: 0.00000 tp: 1.08745
+2	12:24:04.733	Expert Acuity Linear Gauge WTI,H1: loaded successfully
+2	12:26:49.463	Expert Acuity Linear Gauge WTI,H1: removed
+2	12:26:49.544	Custom indicator #P4L CandleTime WTI,H1: loaded successfully
+2	12:26:49.554	Custom indicator TURBO PLUS+ WTI,H1: loaded successfully
+2	12:26:49.564	Custom indicator ALERT SIGNAL WTI,H1: loaded successfully
+2	12:26:49.574	Custom indicator Trend Trading\TrendTradingCloud WTI,H1: loaded successfully
+2	12:26:49.585	Custom indicator RSI Divergence Levels WTI,H1: loaded successfully
+2	12:26:49.596	Custom indicator MACD_Volumes-2 WTI,H1: loaded successfully
+2	12:26:49.605	Custom indicator Trend Trading\CloudSignalLines WTI,H1: loaded successfully
+2	12:26:49.814	Custom indicator MBFX Timing WTI,H1: loaded successfully
+2	12:28:22.382	Custom indicator #P4L CandleTime USDCAD,H1: loaded successfully
+2	12:28:22.390	Custom indicator TURBO PLUS+ USDCAD,H1: loaded successfully
+2	12:28:22.408	Custom indicator ALERT SIGNAL USDCAD,H1: loaded successfully
+2	12:28:22.417	Custom indicator Trend Trading\TrendTradingCloud USDCAD,H1: loaded successfully
+2	12:28:22.428	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	12:28:22.438	Custom indicator MACD_Volumes-2 USDCAD,H1: loaded successfully
+2	12:28:22.446	Custom indicator Trend Trading\CloudSignalLines USDCAD,H1: loaded successfully
+2	12:28:22.640	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+2	12:28:33.922	Expert Acuity Linear Gauge USDCAD,H1: loaded successfully
+0	12:29:06.033	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 210.82 ms)
+0	12:29:19.297	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 210.82 ms)
+0	12:29:19.835	'27123197': previous successful authorization performed from 197.149.28.6
+2	12:29:38.181	Expert Acuity Linear Gauge [DAX30],H1: removed
+2	12:29:38.200	Expert Acuity Linear Gauge [DAX30],H1: loaded successfully
+2	12:30:17.880	Expert Acuity Linear Gauge EURNZD,H1: loaded successfully
+2	12:32:48.875	Expert Acuity Linear Gauge EURNZD,H1: removed
+2	12:32:48.914	Expert Acuity Linear Gauge EURNZD,H1: loaded successfully
+1	13:06:18.561	'27123197': ping failed
+0	13:06:37.917	'27123197': login on AdmiralMarkets-Live
+0	13:07:07.054	'27123197': login datacenter on AdmiralMarkets-Live
+0	13:07:08.561	'27123197': previous successful authorization performed from 197.149.28.6
+0	13:08:10.676	'27123197': auto connecting to a better access point Access Point #4 (ping is 412.35 ms)
+0	13:08:11.914	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 412.35 ms)
+1	13:08:14.235	MQL5.community: authorization failed
+0	13:08:14.348	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 412.35 ms)
+0	13:08:14.975	'27123197': previous successful authorization performed from 197.149.28.6
+0	13:13:35.812	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 218.35 ms)
+0	13:13:39.014	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 218.35 ms)
+0	13:13:40.730	'23853581': previous successful authorization performed from 197.149.28.6
+2	13:21:32.240	Expert Acuity Linear Gauge USDCAD,H1: removed
+2	13:21:32.286	Expert Acuity Market Alerts USDCAD,H1: loaded successfully
+2	13:24:51.307	Custom indicator MBFX Timing USDCAD,H1: removed
+2	13:24:52.470	Custom indicator MBFX Timing USDCAD,H4: loaded successfully
+2	13:25:13.810	Custom indicator MBFX Timing USDCAD,H4: removed
+2	13:25:13.907	Custom indicator MBFX Timing USDCAD,M30: loaded successfully
+2	13:25:16.697	Custom indicator MBFX Timing USDCAD,M30: removed
+2	13:25:16.797	Custom indicator MBFX Timing USDCAD,Daily: loaded successfully
+0	13:25:34.629	'23853581': order buy market 0.10 USDCAD sl: 0.00000 tp: 0.00000
+0	13:25:35.662	'23853581': order was opened : #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 0.00000
+2	13:26:02.297	Custom indicator MBFX Timing USDCAD,Daily: removed
+2	13:26:02.403	Custom indicator MBFX Timing USDCAD,M30: loaded successfully
+0	13:26:18.404	'23853581': modify order #177261357 sell 0.10 USDCAD at 1.41411 sl: 0.00000 tp: 1.41258 -> sl: 1.42276 tp: 1.41258
+0	13:26:35.799	'23853581': order #177261357 sell 0.10 USDCAD at 1.41411 was modified -> sl: 1.42276 tp: 1.41258
+0	13:27:00.893	'23853581': modify order #177261357 sell 0.10 USDCAD at 1.41411 sl: 1.42276 tp: 1.41258 -> sl: 1.41651 tp: 1.41258
+0	13:27:02.009	'23853581': order #177261357 sell 0.10 USDCAD at 1.41411 was modified -> sl: 1.41651 tp: 1.41258
+0	13:27:07.739	'23853581': modify order #177261357 sell 0.10 USDCAD at 1.41411 sl: 1.41651 tp: 1.41258 -> sl: 1.41854 tp: 1.41258
+0	13:27:08.088	'23853581': order #177261357 sell 0.10 USDCAD at 1.41411 was modified -> sl: 1.41854 tp: 1.41258
+0	13:27:10.053	'23853581': modify order #177261357 sell 0.10 USDCAD at 1.41411 sl: 1.41854 tp: 1.41258 -> sl: 1.41731 tp: 1.41258
+0	13:27:11.450	'23853581': order #177261357 sell 0.10 USDCAD at 1.41411 was modified -> sl: 1.41731 tp: 1.41258
+2	13:27:14.813	Custom indicator MBFX Timing USDCAD,M30: removed
+2	13:27:14.915	Custom indicator MBFX Timing USDCAD,M5: loaded successfully
+0	13:27:27.437	'23853581': modify order #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.41562
+0	13:27:27.734	'23853581': order #177270958 buy 0.10 USDCAD at 1.41442 was modified -> sl: 0.00000 tp: 1.41562
+2	13:27:29.989	Custom indicator MBFX Timing USDCAD,M5: removed
+2	13:27:30.087	Custom indicator MBFX Timing USDCAD,M30: loaded successfully
+0	13:27:34.546	'23853581': modify order #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 1.41562 -> sl: 0.00000 tp: 1.42021
+0	13:27:35.047	'23853581': order #177270958 buy 0.10 USDCAD at 1.41442 was modified -> sl: 0.00000 tp: 1.42021
+2	13:27:36.994	Custom indicator MBFX Timing USDCAD,M30: removed
+2	13:27:37.095	Custom indicator MBFX Timing USDCAD,Daily: loaded successfully
+2	13:27:40.264	Custom indicator MBFX Timing USDCAD,Daily: removed
+2	13:27:40.374	Custom indicator MBFX Timing USDCAD,M30: loaded successfully
+0	13:27:44.738	'23853581': modify order #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 1.42021 -> sl: 0.00000 tp: 1.42276
+0	13:27:45.066	'23853581': order #177270958 buy 0.10 USDCAD at 1.41442 was modified -> sl: 0.00000 tp: 1.42276
+2	13:27:46.755	Custom indicator MBFX Timing USDCAD,M30: removed
+2	13:27:46.883	Custom indicator MBFX Timing USDCAD,Daily: loaded successfully
+2	13:27:52.820	Custom indicator MBFX Timing USDCAD,Daily: removed
+2	13:27:52.916	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+0	13:27:56.730	'23853581': modify order #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 1.42276 -> sl: 0.00000 tp: 1.42536
+0	13:27:57.110	'23853581': order #177270958 buy 0.10 USDCAD at 1.41442 was modified -> sl: 0.00000 tp: 1.42536
+2	13:27:58.803	Custom indicator MBFX Timing USDCAD,H1: removed
+2	13:27:58.919	Custom indicator MBFX Timing USDCAD,Daily: loaded successfully
+0	13:28:04.578	'23853581': modify order #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 1.42536 -> sl: 0.00000 tp: 1.43952
+0	13:28:04.881	'23853581': order #177270958 buy 0.10 USDCAD at 1.41442 was modified -> sl: 0.00000 tp: 1.43952
+0	13:28:21.740	'23853581': modify order #177270958 buy 0.10 USDCAD at 1.41442 sl: 0.00000 tp: 1.43952 -> sl: 0.00000 tp: 1.45101
+0	13:28:22.047	'23853581': order #177270958 buy 0.10 USDCAD at 1.41442 was modified -> sl: 0.00000 tp: 1.45101
+0	13:30:04.211	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 412.35 ms)
+0	13:30:09.896	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 412.35 ms)
+0	13:30:11.166	'27123197': previous successful authorization performed from 197.149.28.6
+2	13:30:52.917	Expert Acuity Linear Gauge [DAX30],H1: removed
+2	13:30:52.944	Expert Acuity Linear Gauge [DAX30],H1: loaded successfully
+2	13:31:31.902	Expert Acuity Linear Gauge [DAX30],H1: removed
+2	13:31:31.922	Expert Acuity Radial Gauge [DAX30],H1: loaded successfully
+2	13:32:32.980	Expert Acuity Radial Gauge [DAX30],H1: removed
+2	13:32:33.000	Expert Admiral - Alarm Manager [DAX30],H1: loaded successfully
+0	13:39:54.005	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 218.35 ms)
+0	13:39:56.135	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 218.35 ms)
+0	13:39:57.205	'23853581': previous successful authorization performed from 197.149.28.6
+2	13:40:26.540	Expert Admiral - Alarm Manager [DAX30],H1: removed
+2	13:40:26.562	Expert Acuity Market Alerts [DAX30],H1: loaded successfully
+0	13:40:26.987	'23853581': ping to current access point Access Point #6 is 220.03 ms
+2	13:40:38.153	Expert Acuity Market Alerts [DAX30],H1: removed
+2	13:40:38.165	Expert Admiral - Alarm Manager [DAX30],H1: loaded successfully
+2	13:56:17.801	Expert Admiral - Correlation Matrix WTI,H1: loaded successfully
+1	13:59:13.645	AccountHistory: '23853581' cannot login to: AdmiralMarkets-Demo
+2	13:59:59.355	Expert Admiral - Correlation Matrix WTI,H1: removed
+0	14:00:38.975	'23853581': order #177263469 buy 0.10 EURUSD at 1.08642 closed due take-profit at price 1.08745
+2	14:19:56.770	Expert Admiral - Alarm Manager [DAX30],H1: removed
+2	14:19:56.794	Expert Admiral - Correlation Matrix [DAX30],H1: loaded successfully
+2	14:31:27.670	Expert Admiral - Correlation Matrix [DAX30],H1: removed
+0	14:31:44.272	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 412.35 ms)
+0	14:31:50.800	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 412.35 ms)
+0	14:31:52.915	'27123197': previous successful authorization performed from 197.149.28.6
+1	14:32:06.956	MQL5.community: authorization failed
+0	14:32:51.944	'27123197': auto connecting to a better access point Access Point #3 (ping is 281.75 ms)
+0	14:32:55.966	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 281.75 ms)
+0	14:33:05.323	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 281.75 ms)
+0	14:33:05.929	'27123197': previous successful authorization performed from 197.149.28.6
+2	14:33:22.828	Custom indicator #P4L CandleTime [DJI30],H1: loaded successfully
+2	14:33:22.839	Custom indicator TURBO PLUS+ [DJI30],H1: loaded successfully
+2	14:33:22.851	Custom indicator ALERT SIGNAL [DJI30],H1: loaded successfully
+2	14:33:22.863	Custom indicator Trend Trading\TrendTradingCloud [DJI30],H1: loaded successfully
+2	14:33:22.878	Custom indicator RSI Divergence Levels [DJI30],H1: loaded successfully
+2	14:33:22.891	Custom indicator MACD_Volumes-2 [DJI30],H1: loaded successfully
+2	14:33:22.901	Custom indicator Trend Trading\CloudSignalLines [DJI30],H1: loaded successfully
+2	14:33:23.112	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+0	14:34:59.228	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 220.03 ms)
+0	14:35:00.917	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 220.03 ms)
+0	14:35:01.832	'23853581': previous successful authorization performed from 197.149.28.6
+2	14:35:45.078	Custom indicator #P4L CandleTime CADCHF,H1: loaded successfully
+2	14:35:45.091	Custom indicator TURBO PLUS+ CADCHF,H1: loaded successfully
+2	14:35:45.101	Custom indicator ALERT SIGNAL CADCHF,H1: loaded successfully
+2	14:35:45.112	Custom indicator Trend Trading\TrendTradingCloud CADCHF,H1: loaded successfully
+2	14:35:45.125	Custom indicator RSI Divergence Levels CADCHF,H1: loaded successfully
+2	14:35:45.135	Custom indicator MACD_Volumes-2 CADCHF,H1: loaded successfully
+2	14:35:45.145	Custom indicator Trend Trading\CloudSignalLines CADCHF,H1: loaded successfully
+2	14:35:45.351	Custom indicator MBFX Timing CADCHF,H1: loaded successfully
+2	14:37:39.369	Expert Admiral - Correlation Trader CADCHF,H1: loaded successfully
+2	14:38:40.856	Expert Admiral - Correlation Trader CADCHF,H1: removed
+2	14:38:44.785	Expert Admiral - Excel RTD CADCHF,H1: loaded successfully
+2	14:53:18.834	Expert Admiral - Excel RTD CADCHF,H1: removed
+2	15:05:55.466	Custom indicator #P4L CandleTime [DAX30],H1: loaded successfully
+2	15:05:55.490	Custom indicator TURBO PLUS+ [DAX30],H1: loaded successfully
+2	15:05:55.510	Custom indicator ALERT SIGNAL [DAX30],H1: loaded successfully
+2	15:05:55.529	Custom indicator Trend Trading\TrendTradingCloud [DAX30],H1: loaded successfully
+2	15:05:55.550	Custom indicator RSI Divergence Levels [DAX30],H1: loaded successfully
+2	15:05:55.571	Custom indicator MACD_Volumes-2 [DAX30],H1: loaded successfully
+2	15:05:55.584	Custom indicator Trend Trading\CloudSignalLines [DAX30],H1: loaded successfully
+2	15:05:55.885	Custom indicator MBFX Timing [DAX30],H1: loaded successfully
+0	15:09:43.757	'23853581': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	15:09:44.349	'23853581': order was opened : #177285673 sell 0.10 [DAX30] at 10334.78 sl: 0.00 tp: 0.00
+0	15:10:53.948	'23853581': close order #177285673 sell 0.10 [DAX30] at 10334.78 sl: 0.00 tp: 0.00 at price 0.00
+0	15:10:54.568	'23853581': order #177285673 sell 0.10 [DAX30] at 10334.78 sl: 0.00 tp: 0.00 closed at price 10330.10
+0	15:11:09.472	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 281.75 ms)
+0	15:11:11.776	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 281.75 ms)
+0	15:11:12.421	'27123197': previous successful authorization performed from 197.149.28.6
+0	15:11:52.170	'27123197': close order #64965738 buy 0.10 [DJI30] at 23311.47 sl: 22935.00 tp: 23650.00 at price 0.00
+0	15:11:52.748	'27123197': order #64965738 buy 0.10 [DJI30] at 23311.47 sl: 22935.00 tp: 23650.00 closed at price 23260.67
+0	15:12:16.848	'27123197': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	15:12:17.416	'27123197': order was opened : #64989088 sell 0.10 [DJI30] at 23267.66 sl: 0.00 tp: 0.00
+0	15:12:31.492	'27123197': modify order #64989088 sell 0.10 [DJI30] at 23267.66 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 23125.19
+0	15:12:31.870	'27123197': order #64989088 sell 0.10 [DJI30] at 23267.66 was modified -> sl: 0.00 tp: 23125.19
+0	15:12:45.723	'27123197': modify order #64989088 sell 0.10 [DJI30] at 23267.66 sl: 0.00 tp: 23125.19 -> sl: 23436.40 tp: 23125.19
+0	15:12:46.041	'27123197': order #64989088 sell 0.10 [DJI30] at 23267.66 was modified -> sl: 23436.40 tp: 23125.19
+2	15:14:52.805	Custom indicator MBFX Timing USDCAD,Daily: removed
+2	15:14:52.889	Expert Acuity Market Alerts USDCAD,Daily: removed
+2	15:14:52.893	Custom indicator #P4L CandleTime USDCAD,Daily: removed
+2	15:14:52.898	Custom indicator TURBO PLUS+ USDCAD,Daily: removed
+2	15:14:52.901	Custom indicator ALERT SIGNAL USDCAD,Daily: removed
+2	15:14:52.902	Custom indicator TrendTradingCloud USDCAD,Daily: removed
+2	15:14:52.907	Custom indicator RSI Divergence Levels USDCAD,Daily: removed
+2	15:14:52.909	Custom indicator MACD_Volumes-2 USDCAD,Daily: removed
+2	15:14:52.913	Custom indicator CloudSignalLines USDCAD,Daily: removed
+2	15:14:55.874	Custom indicator MBFX Timing EURUSD,H1: removed
+2	15:14:55.936	Expert Acuity Linear Gauge EURUSD,H1: removed
+2	15:14:55.939	Custom indicator #P4L CandleTime EURUSD,H1: removed
+2	15:14:55.942	Custom indicator TURBO PLUS+ EURUSD,H1: removed
+2	15:14:55.945	Custom indicator ALERT SIGNAL EURUSD,H1: removed
+2	15:14:55.949	Custom indicator TrendTradingCloud EURUSD,H1: removed
+2	15:14:55.951	Custom indicator RSI Divergence Levels EURUSD,H1: removed
+2	15:14:55.953	Custom indicator MACD_Volumes-2 EURUSD,H1: removed
+2	15:14:55.955	Custom indicator CloudSignalLines EURUSD,H1: removed
+2	15:14:58.637	Custom indicator MBFX Timing WTI,H1: removed
+2	15:14:58.649	Custom indicator #P4L CandleTime WTI,H1: removed
+2	15:14:58.652	Custom indicator TURBO PLUS+ WTI,H1: removed
+2	15:14:58.654	Custom indicator ALERT SIGNAL WTI,H1: removed
+2	15:14:58.658	Custom indicator TrendTradingCloud WTI,H1: removed
+2	15:14:58.663	Custom indicator RSI Divergence Levels WTI,H1: removed
+2	15:14:58.666	Custom indicator MACD_Volumes-2 WTI,H1: removed
+2	15:14:58.668	Custom indicator CloudSignalLines WTI,H1: removed
+2	15:15:03.016	Custom indicator MBFX Timing CADCHF,H1: removed
+2	15:15:03.028	Custom indicator #P4L CandleTime CADCHF,H1: removed
+2	15:15:03.030	Custom indicator TURBO PLUS+ CADCHF,H1: removed
+2	15:15:03.032	Custom indicator ALERT SIGNAL CADCHF,H1: removed
+2	15:15:03.034	Custom indicator TrendTradingCloud CADCHF,H1: removed
+2	15:15:03.037	Custom indicator RSI Divergence Levels CADCHF,H1: removed
+2	15:15:03.042	Custom indicator MACD_Volumes-2 CADCHF,H1: removed
+2	15:15:03.045	Custom indicator CloudSignalLines CADCHF,H1: removed
+2	15:15:12.060	Custom indicator MBFX Timing [DAX30],H1: removed
+2	15:15:12.067	Custom indicator #P4L CandleTime [DAX30],H1: removed
+2	15:15:12.069	Custom indicator TURBO PLUS+ [DAX30],H1: removed
+2	15:15:12.070	Custom indicator ALERT SIGNAL [DAX30],H1: removed
+2	15:15:12.072	Custom indicator TrendTradingCloud [DAX30],H1: removed
+2	15:15:12.073	Custom indicator RSI Divergence Levels [DAX30],H1: removed
+2	15:15:12.075	Custom indicator MACD_Volumes-2 [DAX30],H1: removed
+2	15:15:12.076	Custom indicator CloudSignalLines [DAX30],H1: removed
+0	15:16:13.143	'27123197': close order #64989088 sell 0.10 [DJI30] at 23267.66 sl: 23436.40 tp: 23125.19 at price 0.00
+0	15:16:13.716	'27123197': order #64989088 sell 0.10 [DJI30] at 23267.66 sl: 23436.40 tp: 23125.19 closed at price 23264.27
+2	15:19:56.597	Custom indicator #P4L CandleTime AUDJPY,H1: loaded successfully
+2	15:19:56.605	Custom indicator TURBO PLUS+ AUDJPY,H1: loaded successfully
+2	15:19:56.614	Custom indicator ALERT SIGNAL AUDJPY,H1: loaded successfully
+2	15:19:56.624	Custom indicator Trend Trading\TrendTradingCloud AUDJPY,H1: loaded successfully
+2	15:19:56.636	Custom indicator RSI Divergence Levels AUDJPY,H1: loaded successfully
+2	15:19:56.648	Custom indicator MACD_Volumes-2 AUDJPY,H1: loaded successfully
+2	15:19:56.656	Custom indicator Trend Trading\CloudSignalLines AUDJPY,H1: loaded successfully
+2	15:19:56.821	Custom indicator MBFX Timing AUDJPY,H1: loaded successfully
+2	15:25:13.993	Custom indicator #P4L CandleTime EURAUD,H1: loaded successfully
+2	15:25:14.012	Custom indicator TURBO PLUS+ EURAUD,H1: loaded successfully
+2	15:25:14.029	Custom indicator ALERT SIGNAL EURAUD,H1: loaded successfully
+2	15:25:14.044	Custom indicator Trend Trading\TrendTradingCloud EURAUD,H1: loaded successfully
+2	15:25:14.063	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	15:25:14.082	Custom indicator MACD_Volumes-2 EURAUD,H1: loaded successfully
+2	15:25:14.097	Custom indicator Trend Trading\CloudSignalLines EURAUD,H1: loaded successfully
+2	15:25:14.377	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+2	15:25:43.114	Custom indicator MBFX Timing EURAUD,H1: removed
+2	15:25:44.779	Custom indicator MBFX Timing EURAUD,M30: loaded successfully
+2	15:25:48.824	Custom indicator MBFX Timing EURAUD,M30: removed
+2	15:25:50.310	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	15:25:56.393	Custom indicator MBFX Timing EURAUD,M15: removed
+2	15:25:56.555	Custom indicator MBFX Timing EURAUD,M30: loaded successfully
+2	15:26:00.330	Custom indicator MBFX Timing EURAUD,M30: removed
+2	15:26:00.454	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+0	15:27:32.527	'27123197': order sell market 0.10 EURAUD sl: 0.00000 tp: 0.00000
+0	15:27:32.937	'27123197': order was opened : #64989873 sell 0.10 EURAUD at 1.71961 sl: 0.00000 tp: 0.00000
+0	15:27:50.392	'27123197': modify order #64989873 sell 0.10 EURAUD at 1.71961 sl: 0.00000 tp: 0.00000 -> sl: 1.72310 tp: 0.00000
+0	15:27:52.082	'27123197': order #64989873 sell 0.10 EURAUD at 1.71961 was modified -> sl: 1.72310 tp: 0.00000
+2	15:32:02.095	Expert Admiral - Market Manager AUDJPY,H1: loaded successfully
+2	15:32:58.819	Expert Admiral - Market Manager AUDJPY,H1: removed
+2	15:33:03.039	Expert Admiral - Market Manager AUDJPY,H1: loaded successfully
+2	15:36:19.575	Expert Admiral - Market Manager AUDJPY,H1: removed
+2	15:36:24.777	Expert Admiral - Mini Terminal AUDJPY,H1: loaded successfully
+2	15:36:43.820	Expert Admiral - Mini Terminal AUDJPY,H1: removed
+2	15:37:35.921	Custom indicator #P4L CandleTime USDCAD,H1: loaded successfully
+2	15:37:35.935	Custom indicator TURBO PLUS+ USDCAD,H1: loaded successfully
+2	15:37:35.950	Custom indicator ALERT SIGNAL USDCAD,H1: loaded successfully
+2	15:37:35.968	Custom indicator Trend Trading\TrendTradingCloud USDCAD,H1: loaded successfully
+2	15:37:35.982	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	15:37:35.994	Custom indicator MACD_Volumes-2 USDCAD,H1: loaded successfully
+2	15:37:36.002	Custom indicator Trend Trading\CloudSignalLines USDCAD,H1: loaded successfully
+2	15:37:36.210	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+0	15:38:08.503	'27123197': order buy market 0.10 USDCAD sl: 0.00000 tp: 0.00000
+0	15:38:09.442	'27123197': order was opened : #64990539 buy 0.10 USDCAD at 1.41348 sl: 0.00000 tp: 0.00000
+0	15:38:15.937	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:38:26.730	'27123197': login on AdmiralMarkets-Live through Access Point #1 (ping: 339.04 ms)
+2	15:38:46.431	Custom indicator MBFX Timing USDCAD,H1: removed
+2	15:38:46.539	Custom indicator MBFX Timing USDCAD,M30: loaded successfully
+0	15:39:29.423	'27123197': login datacenter on AdmiralMarkets-Live
+0	15:39:36.882	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 535.77 ms)
+2	15:39:54.863	Custom indicator MBFX Timing USDCAD,M30: removed
+2	15:39:54.992	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+1	15:40:06.632	'27123197': datacenter connecting failed [6]
+0	15:40:12.615	'27123197': previous successful authorization performed from 197.149.28.6
+0	15:40:26.440	'27123197': modify order #64990539 buy 0.10 USDCAD at 1.41348 sl: 0.00000 tp: 0.00000 -> sl: 1.41260 tp: 1.42050
+0	15:40:26.617	'27123197': ping to current access point Access Point #4 is 229.51 ms
+0	15:42:27.286	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 1057.89 ms)
+0	15:42:40.089	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 1057.89 ms)
+0	15:42:42.240	'27123197': previous successful authorization performed from 197.149.28.6
+2	15:43:38.865	Expert Acuity Radial Gauge USDCAD,H1: loaded successfully
+0	15:44:40.524	'27123197': close order #64965866 sell 0.10 [DAX30] at 10382.56 sl: 10509.55 tp: 10243.32 at price 0.00
+0	15:44:44.970	'27123197': order #64965866 sell 0.10 [DAX30] at 10382.56 sl: 10509.55 tp: 10243.32 closed at price 10371.73
+1	15:45:38.425	'27123197': order buy 0.10 USDCAD opening at market sl: 0.00000 tp: 1.42050 failed [No connection]
+1	15:45:46.449	'27123197': datacenter connecting failed [6]
+0	15:45:53.442	'27123197': login on AdmiralMarkets-Live through Access Point #2 (ping: 341.42 ms)
+0	15:46:07.683	'27123197': order buy market 0.10 USDCAD sl: 0.00000 tp: 1.42050
+0	15:46:42.267	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 341.42 ms)
+0	15:46:43.997	'27123197': previous successful authorization performed from 197.149.28.6
+0	15:47:15.246	'27123197': order buy market 0.10 USDCAD sl: 0.00000 tp: 1.42050
+0	15:47:15.661	'27123197': order was opened : #64991244 buy 0.10 USDCAD at 1.41316 sl: 0.00000 tp: 1.42050
+0	15:47:41.710	'27123197': modify order #64991244 buy 0.10 USDCAD at 1.41316 sl: 0.00000 tp: 1.42050 -> sl: 1.41103 tp: 1.42050
+0	15:47:46.946	'27123197': order #64991244 buy 0.10 USDCAD at 1.41316 was modified -> sl: 1.41103 tp: 1.42050
+0	15:47:54.343	'27123197': modify order #64991244 buy 0.10 USDCAD at 1.41316 sl: 1.41103 tp: 1.42050 -> sl: 1.41017 tp: 1.42050
+0	15:47:59.410	'27123197': order #64991244 buy 0.10 USDCAD at 1.41316 was modified -> sl: 1.41017 tp: 1.42050
+0	15:52:16.458	'27123197': auto connecting to a better access point Access Point #4 (ping is 208.75 ms)
+0	15:52:18.094	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 208.75 ms)
+0	15:52:24.804	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 208.75 ms)
+0	15:52:25.757	'27123197': previous successful authorization performed from 197.149.28.6
+0	15:52:56.514	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	15:52:57.519	'27123197': order was opened : #64991818 sell 0.50 [DJI30] at 23432.66 sl: 0.00 tp: 0.00
+0	15:53:29.591	'27123197': modify order #64991818 sell 0.50 [DJI30] at 23432.66 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 23230.00
+0	15:53:30.983	'27123197': order #64991818 sell 0.50 [DJI30] at 23432.66 was modified -> sl: 0.00 tp: 23230.00
+0	15:58:46.453	'27123197': modify order #64991818 sell 0.50 [DJI30] at 23432.66 sl: 0.00 tp: 23230.00 -> sl: 23722.78 tp: 23230.00
+0	15:58:46.760	'27123197': order #64991818 sell 0.50 [DJI30] at 23432.66 was modified -> sl: 23722.78 tp: 23230.00
+0	15:58:50.102	'27123197': modify order #64991818 sell 0.50 [DJI30] at 23432.66 sl: 23722.78 tp: 23230.00 -> sl: 23607.07 tp: 23230.00
+0	15:58:50.556	'27123197': order #64991818 sell 0.50 [DJI30] at 23432.66 was modified -> sl: 23607.07 tp: 23230.00
+2	16:01:46.875	Expert Admiral - Mini Terminal [DJI30],H1: loaded successfully
+2	16:12:40.352	Custom indicator MBFX Timing [DJI30],H1: removed
+2	16:12:40.537	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+1	16:13:45.607	'27123197': datacenter connecting failed [6]
+0	16:13:49.488	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	16:13:52.710	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	16:13:53.339	'27123197': previous successful authorization performed from 197.149.28.6
+2	16:15:48.078	Expert Acuity Radial Gauge USDCAD,H1: removed
+2	16:15:48.103	Expert Admiral - Mini Terminal USDCAD,H1: loaded successfully
+0	16:20:36.221	'27123197': pending order sell limit 0.10 USDCAD at 1.41980 sl: 1.42390 tp: 1.40520
+0	16:20:36.520	'27123197': order was opened : #64993782 sell limit 0.10 USDCAD at 1.41980 sl: 1.42390 tp: 1.40520
+0	16:20:38.330	Trades: use hosting service to speed up the execution - 6.68 ms via 'MQL5 London 13 (MQL5.community)' instead of 221.00 ms
+2	16:21:08.316	Custom indicator MBFX Timing [DJI30],M15: removed
+2	16:21:08.491	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	16:21:18.961	Custom indicator MBFX Timing [DJI30],M30: removed
+2	16:21:19.145	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+2	16:27:02.921	Custom indicator MBFX Timing [DJI30],H1: removed
+2	16:27:03.059	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	16:32:21.903	Custom indicator #P4L CandleTime #MSFT,H1: loaded successfully
+2	16:32:21.914	Custom indicator TURBO PLUS+ #MSFT,H1: loaded successfully
+2	16:32:21.925	Custom indicator ALERT SIGNAL #MSFT,H1: loaded successfully
+2	16:32:21.936	Custom indicator Trend Trading\TrendTradingCloud #MSFT,H1: loaded successfully
+2	16:32:21.948	Custom indicator RSI Divergence Levels #MSFT,H1: loaded successfully
+2	16:32:21.959	Custom indicator MACD_Volumes-2 #MSFT,H1: loaded successfully
+2	16:32:21.968	Custom indicator Trend Trading\CloudSignalLines #MSFT,H1: loaded successfully
+2	16:32:22.147	Custom indicator MBFX Timing #MSFT,H1: loaded successfully
+0	16:33:59.184	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 220.03 ms)
+0	16:34:01.969	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 220.03 ms)
+0	16:34:02.674	'23853581': previous successful authorization performed from 197.149.28.6
+0	16:34:14.743	'23853581': ping to current access point Access Point #6 is 228.21 ms
+0	16:34:21.659	'23853581': order sell market 1.00 #MSFT sl: 0.00 tp: 0.00
+1	16:34:21.952	'23853581': order sell 1.00 #MSFT opening at market sl: 0.00 tp: 0.00 failed [Market is closed]
+2	16:34:42.489	Expert Acuity Radial Gauge #MSFT,H1: loaded successfully
+0	16:35:09.667	'23853581': order sell market 1.00 #MSFT sl: 0.00 tp: 0.00
+1	16:35:09.970	'23853581': order sell 1.00 #MSFT opening at market sl: 0.00 tp: 0.00 failed [Market is closed]
+0	16:35:15.766	'23853581': order sell market 1.00 #MSFT sl: 0.00 tp: 0.00
+1	16:35:16.064	'23853581': order sell 1.00 #MSFT opening at market sl: 0.00 tp: 0.00 failed [Market is closed]
+0	16:35:27.948	'23853581': order sell market 1.00 #MSFT sl: 0.00 tp: 0.00
+1	16:35:28.265	'23853581': order sell 1.00 #MSFT opening at market sl: 0.00 tp: 0.00 failed [Market is closed]
+2	16:37:18.043	Custom indicator #P4L CandleTime #AAPL,H1: loaded successfully
+2	16:37:18.052	Custom indicator TURBO PLUS+ #AAPL,H1: loaded successfully
+2	16:37:18.064	Custom indicator ALERT SIGNAL #AAPL,H1: loaded successfully
+2	16:37:18.077	Custom indicator Trend Trading\TrendTradingCloud #AAPL,H1: loaded successfully
+2	16:37:18.089	Custom indicator RSI Divergence Levels #AAPL,H1: loaded successfully
+2	16:37:18.102	Custom indicator MACD_Volumes-2 #AAPL,H1: loaded successfully
+2	16:37:18.112	Custom indicator Trend Trading\CloudSignalLines #AAPL,H1: loaded successfully
+2	16:37:18.349	Custom indicator MBFX Timing #AAPL,H1: loaded successfully
+0	16:38:13.421	'23853581': order sell market 1.00 #AAPL sl: 0.00 tp: 0.00
+1	16:38:14.073	'23853581': order sell 1.00 #AAPL opening at market sl: 0.00 tp: 0.00 failed [Market is closed]
+2	16:42:15.848	Custom indicator #P4L CandleTime #BA,H1: loaded successfully
+2	16:42:15.867	Custom indicator TURBO PLUS+ #BA,H1: loaded successfully
+2	16:42:15.886	Custom indicator ALERT SIGNAL #BA,H1: loaded successfully
+2	16:42:15.904	Custom indicator Trend Trading\TrendTradingCloud #BA,H1: loaded successfully
+2	16:42:15.925	Custom indicator RSI Divergence Levels #BA,H1: loaded successfully
+2	16:42:15.946	Custom indicator MACD_Volumes-2 #BA,H1: loaded successfully
+2	16:42:15.966	Custom indicator Trend Trading\CloudSignalLines #BA,H1: loaded successfully
+2	16:42:16.267	Custom indicator MBFX Timing #BA,H1: loaded successfully
+2	16:42:24.741	Custom indicator MBFX Timing #BA,H1: removed
+2	16:42:26.373	Custom indicator MBFX Timing #BA,H4: loaded successfully
+2	16:42:26.399	Custom indicator MBFX Timing #BA,H4: removed
+2	16:42:26.584	Custom indicator MBFX Timing #BA,H1: loaded successfully
+0	16:43:14.948	'23853581': order sell market 1.00 #BA sl: 0.00 tp: 0.00
+1	16:43:16.167	'23853581': order sell 1.00 #BA opening at market sl: 0.00 tp: 0.00 failed [Market is closed]
+2	16:46:33.150	Custom indicator #P4L CandleTime #FB,H1: loaded successfully
+2	16:46:33.160	Custom indicator TURBO PLUS+ #FB,H1: loaded successfully
+2	16:46:33.172	Custom indicator ALERT SIGNAL #FB,H1: loaded successfully
+2	16:46:33.187	Custom indicator Trend Trading\TrendTradingCloud #FB,H1: loaded successfully
+2	16:46:33.201	Custom indicator RSI Divergence Levels #FB,H1: loaded successfully
+2	16:46:33.213	Custom indicator MACD_Volumes-2 #FB,H1: loaded successfully
+2	16:46:33.225	Custom indicator Trend Trading\CloudSignalLines #FB,H1: loaded successfully
+2	16:46:45.540	Custom indicator MBFX Timing #FB,H1: loaded successfully
+0	16:47:11.559	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	16:47:15.494	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	16:47:16.184	'27123197': previous successful authorization performed from 197.149.28.6
+0	16:48:17.550	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	16:48:24.127	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	16:48:24.735	'27123197': previous successful authorization performed from 197.149.28.6
+2	16:52:40.316	Expert Acuity Radial Gauge #MSFT,H1: removed
+2	16:52:40.337	Expert Admiral - Mini Terminal #MSFT,H1: loaded successfully
+2	16:57:42.608	Custom indicator MBFX Timing #AAPL,H1: removed
+2	16:58:19.014	Expert Admiral - Mini Terminal #AAPL,H1: loaded successfully
+1	16:59:10.236	Signal: '27123197': failed get list of signals, connection error
+0	16:59:26.103	'27123197': order sell market 1.00 #AAPL sl: 0.00 tp: 0.00
+0	16:59:35.979	'27123197': order was opened : #64997629 sell 1.00 #AAPL at 273.33 sl: 0.00 tp: 0.00
+0	17:00:28.593	'27123197': modify order #64997629 sell 1.00 #AAPL at 273.33 sl: 0.00 tp: 0.00 -> sl: 371.03 tp: 271.23
+0	17:00:30.877	'27123197': order #64997629 sell 1.00 #AAPL at 273.33 was modified -> sl: 371.03 tp: 271.23
+2	17:00:43.828	Custom indicator MBFX Timing #AAPL,Daily: loaded successfully
+2	17:00:46.904	Custom indicator MBFX Timing #AAPL,Daily: removed
+2	17:00:49.262	Custom indicator MBFX Timing #AAPL,H4: loaded successfully
+2	17:00:53.650	Custom indicator MBFX Timing #AAPL,H4: removed
+2	17:01:15.110	Custom indicator MBFX Timing #AAPL,Daily: loaded successfully
+2	17:01:43.333	Custom indicator MBFX Timing #AAPL,Daily: removed
+2	17:01:48.903	Custom indicator MBFX Timing #AAPL,Monthly: loaded successfully
+2	17:02:02.906	Custom indicator MBFX Timing #AAPL,Monthly: removed
+2	17:02:03.025	Custom indicator MBFX Timing #AAPL,Daily: loaded successfully
+2	17:02:15.826	Custom indicator MBFX Timing #AAPL,Daily: removed
+2	17:02:15.941	Custom indicator MBFX Timing #AAPL,H4: loaded successfully
+2	17:02:22.811	Custom indicator MBFX Timing #AAPL,H4: removed
+2	17:02:28.883	Custom indicator MBFX Timing #AAPL,H4: loaded successfully
+0	17:05:55.021	'27123197': order sell market 15.00 #AAPL sl: 0.00 tp: 273.09
+0	17:05:56.376	'27123197': order was opened : #64998040 sell 15.00 #AAPL at 273.24 sl: 0.00 tp: 273.09
+2	17:06:34.977	Custom indicator MBFX Timing #AAPL,H4: removed
+2	17:06:37.214	Custom indicator MBFX Timing #AAPL,M30: loaded successfully
+0	17:07:35.268	'27123197': modify order #64998040 sell 15.00 #AAPL at 273.24 sl: 0.00 tp: 273.09 -> sl: 0.00 tp: 271.23
+0	17:07:35.563	'27123197': order #64998040 sell 15.00 #AAPL at 273.24 was modified -> sl: 0.00 tp: 271.23
+0	17:08:09.605	'27123197': modify order #64997629 sell 1.00 #AAPL at 273.33 sl: 371.03 tp: 271.23 -> sl: 371.03 tp: 263.00
+0	17:08:09.893	'27123197': order #64997629 sell 1.00 #AAPL at 273.33 was modified -> sl: 371.03 tp: 263.00
+0	17:08:44.027	'27123197': modify order #64998040 sell 15.00 #AAPL at 273.24 sl: 0.00 tp: 271.23 -> sl: 371.03 tp: 271.23
+0	17:08:44.315	'27123197': order #64998040 sell 15.00 #AAPL at 273.24 was modified -> sl: 371.03 tp: 271.23
+2	17:08:55.004	Custom indicator MBFX Timing #AAPL,M30: removed
+2	17:09:01.555	Custom indicator MBFX Timing #AAPL,H4: loaded successfully
+2	17:09:10.410	Custom indicator MBFX Timing #AAPL,H4: removed
+2	17:09:10.550	Custom indicator MBFX Timing #AAPL,Daily: loaded successfully
+2	17:09:13.520	Custom indicator MBFX Timing #AAPL,Daily: removed
+2	17:09:13.680	Custom indicator MBFX Timing #AAPL,Weekly: loaded successfully
+2	17:09:34.341	Custom indicator MBFX Timing #AAPL,Weekly: removed
+2	17:09:45.639	Custom indicator MBFX Timing #AAPL,H4: loaded successfully
+0	17:12:42.938	'27123197': close order #64991818 sell 0.50 [DJI30] at 23432.66 sl: 23607.07 tp: 23230.00 at price 0.00
+0	17:12:43.441	'27123197': order #64991818 sell 0.50 [DJI30] at 23432.66 sl: 23607.07 tp: 23230.00 closed at price 23348.58
+2	17:13:14.060	Custom indicator MBFX Timing [DJI30],M30: removed
+2	17:13:14.230	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	17:13:21.044	Custom indicator MBFX Timing [DJI30],M15: removed
+2	17:13:21.199	Custom indicator MBFX Timing [DJI30],M5: loaded successfully
+2	17:13:24.497	Custom indicator MBFX Timing [DJI30],M5: removed
+2	17:13:24.654	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	17:13:26.813	Custom indicator MBFX Timing [DJI30],M15: removed
+2	17:13:26.918	Custom indicator MBFX Timing [DJI30],M5: loaded successfully
+2	17:13:43.718	Custom indicator MBFX Timing [DJI30],M5: removed
+2	17:13:43.861	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	17:13:48.651	Custom indicator MBFX Timing [DJI30],M15: removed
+2	17:13:48.797	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	17:13:52.032	Custom indicator MBFX Timing [DJI30],M30: removed
+2	17:13:52.188	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	17:13:54.493	Custom indicator MBFX Timing [DJI30],M15: removed
+2	17:13:54.670	Custom indicator MBFX Timing [DJI30],M5: loaded successfully
+0	17:14:49.846	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	17:14:50.641	'27123197': order was opened : #64998741 sell 0.50 [DJI30] at 23368.76 sl: 0.00 tp: 0.00
+2	17:15:04.733	Custom indicator MBFX Timing [DJI30],M5: removed
+2	17:15:04.903	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+0	17:16:43.373	'27123197': modify order #64998741 sell 0.50 [DJI30] at 23368.76 sl: 0.00 tp: 0.00 -> sl: 23607.00 tp: 23230.00
+0	17:16:44.291	'27123197': order #64998741 sell 0.50 [DJI30] at 23368.76 was modified -> sl: 23607.00 tp: 23230.00
+2	17:17:07.353	Custom indicator MBFX Timing [DJI30],H1: removed
+2	17:17:07.495	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	17:17:10.590	Custom indicator MBFX Timing [DJI30],M30: removed
+2	17:17:10.729	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	17:17:14.859	Custom indicator MBFX Timing [DJI30],M15: removed
+2	17:17:14.987	Custom indicator MBFX Timing [DJI30],M5: loaded successfully
+2	17:17:17.285	Custom indicator MBFX Timing [DJI30],M5: removed
+2	17:17:17.472	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	17:18:17.074	Custom indicator MBFX Timing #AAPL,H4: removed
+0	17:18:23.925	HistoryCenter: synchronize '#AAPL60'
+2	17:18:26.404	Custom indicator MBFX Timing #AAPL,M30: loaded successfully
+0	17:18:26.606	HistoryCenter: 2048 bars imported in '#AAPL60'
+0	17:18:53.486	'27123197': close order #64998040 sell 15.00 #AAPL at 273.24 sl: 371.03 tp: 271.23 at price 0.00
+0	17:18:53.932	'27123197': order #64998040 sell 15.00 #AAPL at 273.24 sl: 371.03 tp: 271.23 closed at price 274.35
+0	17:20:15.064	'27123197': order sell market 1.00 #MSFT sl: 0.00 tp: 0.00
+0	17:20:15.478	'27123197': order was opened : #64999316 sell 1.00 #MSFT at 171.70 sl: 0.00 tp: 0.00
+0	17:20:52.512	'27123197': modify order #64999316 sell 1.00 #MSFT at 171.70 sl: 0.00 tp: 0.00 -> sl: 270.66 tp: 161.18
+0	17:20:52.818	'27123197': order #64999316 sell 1.00 #MSFT at 171.70 was modified -> sl: 270.66 tp: 161.18
+2	17:29:43.731	Custom indicator MBFX Timing [DJI30],M15: removed
+2	17:29:43.887	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+0	17:30:07.698	'27123197': modify order #64998741 sell 0.50 [DJI30] at 23368.76 sl: 23607.00 tp: 23230.00 -> sl: 23560.11 tp: 23230.00
+0	17:30:10.176	'27123197': order #64998741 sell 0.50 [DJI30] at 23368.76 was modified -> sl: 23560.11 tp: 23230.00
+0	17:33:14.589	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 228.21 ms)
+0	17:34:01.147	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 228.21 ms)
+0	17:34:02.326	'23853581': previous successful authorization performed from 197.149.28.6
+1	17:34:26.588	AccountHistory: '23853581' cannot login to: AdmiralMarkets-Demo
+1	17:36:25.688	'23853581': datacenter connecting failed [6]
+0	17:36:26.899	'23853581': login on AdmiralMarkets-Demo through Access Point #3 (ping: 280.70 ms)
+0	17:37:18.139	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 280.70 ms)
+0	17:37:41.492	'23853581': previous successful authorization performed from 197.149.28.6
+0	17:37:47.651	'23853581': auto connecting to a better access point Access Point #2 (ping is n/a)
+0	17:38:02.290	'23853581': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	17:38:44.210	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	17:38:46.410	'23853581': previous successful authorization performed from 197.149.28.6
+0	17:39:18.648	'23853581': ping to current access point Access Point #2 is n/a
+0	17:50:57.255	'23853581': login datacenter on AdmiralMarkets-Demo
+0	17:50:58.920	'23853581': login on AdmiralMarkets-Demo through Access Point #1 (ping: 260.58 ms)
+0	17:51:09.718	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 260.58 ms)
+0	17:51:11.538	'23853581': previous successful authorization performed from 197.149.28.6
+0	17:56:11.523	'23853581': close order #177261224 buy 0.10 CADCHF at 0.68511 sl: 0.00000 tp: 0.68659 at price 0.00000
+0	17:56:11.982	'23853581': order #177261224 buy 0.10 CADCHF at 0.68511 sl: 0.00000 tp: 0.68659 closed at price 0.68612
+0	17:56:29.075	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	17:56:33.088	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 221.00 ms)
+0	17:56:34.010	'27123197': previous successful authorization performed from 197.149.28.6
+0	17:56:55.507	'27123197': auto connecting to a better access point Access Point #4 (ping is 204.63 ms)
+0	17:56:56.386	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 204.63 ms)
+0	17:56:58.764	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 204.63 ms)
+0	17:56:59.439	'27123197': previous successful authorization performed from 197.149.28.6
+2	18:16:55.075	Custom indicator MBFX Timing [DJI30],H1: removed
+2	18:16:55.266	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	18:17:10.929	Custom indicator MBFX Timing [DJI30],M30: removed
+2	18:17:11.042	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+2	18:19:22.218	Custom indicator MBFX Timing [DJI30],H1: removed
+2	18:19:22.360	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	18:19:25.567	Custom indicator MBFX Timing [DJI30],M30: removed
+2	18:19:25.694	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	18:27:21.939	Custom indicator MBFX Timing [DJI30],M15: removed
+2	18:27:22.066	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	18:27:28.363	Custom indicator MBFX Timing [DJI30],M30: removed
+2	18:27:28.492	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+2	18:27:40.956	Custom indicator MBFX Timing [DJI30],H1: removed
+2	18:27:41.108	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	18:29:06.734	Custom indicator MBFX Timing [DJI30],M30: removed
+2	18:29:06.855	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+2	18:29:10.176	Custom indicator MBFX Timing [DJI30],M15: removed
+2	18:29:10.300	Custom indicator MBFX Timing [DJI30],M5: loaded successfully
+2	18:29:16.109	Custom indicator MBFX Timing [DJI30],M5: removed
+2	18:29:16.229	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+0	18:33:04.557	'27123197': close order #64998741 sell 0.50 [DJI30] at 23368.76 sl: 23560.11 tp: 23230.00 at price 0.00
+0	18:33:06.600	'27123197': order #64998741 sell 0.50 [DJI30] at 23368.76 sl: 23560.11 tp: 23230.00 closed at price 23420.76
+0	18:35:07.268	'23853581': login on AdmiralMarkets-Demo through Access Point #1 (ping: 260.58 ms)
+0	18:35:10.145	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 260.58 ms)
+0	18:35:11.448	'23853581': previous successful authorization performed from 197.149.28.6
+0	19:06:30.380	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 204.63 ms)
+0	19:06:38.585	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 204.63 ms)
+0	19:06:57.157	'27123197': ping to current access point Access Point #4 is 209.76 ms
+0	19:07:14.104	'27123197': previous successful authorization performed from 197.149.28.6
+0	19:13:27.072	'27123197': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	19:13:27.888	'27123197': order was opened : #65007730 sell 0.10 [DAX30] at 10411.47 sl: 0.00 tp: 0.00
+0	19:13:38.871	'27123197': modify order #65007730 sell 0.10 [DAX30] at 10411.47 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 10265.75
+0	19:13:39.331	'27123197': order #65007730 sell 0.10 [DAX30] at 10411.47 was modified -> sl: 0.00 tp: 10265.75
+0	19:13:56.399	'27123197': modify order #65007730 sell 0.10 [DAX30] at 10411.47 sl: 0.00 tp: 10265.75 -> sl: 10527.17 tp: 10265.75
+0	19:13:58.655	'27123197': order #65007730 sell 0.10 [DAX30] at 10411.47 was modified -> sl: 10527.17 tp: 10265.75
+2	19:33:33.774	Custom indicator MBFX Timing [DAX30],H1: removed
+2	19:33:34.019	Custom indicator MBFX Timing [DAX30],M30: loaded successfully
+2	19:33:35.607	Custom indicator MBFX Timing [DAX30],M30: removed
+2	19:33:35.751	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+1	20:31:25.473	'27123197': ping failed
+1	20:31:26.468	'27123197': connect failed [Connection échouée]
+0	20:31:35.162	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 209.76 ms)
+0	20:31:46.242	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 209.76 ms)
+0	20:31:47.673	'27123197': previous successful authorization performed from 197.149.28.6
+0	20:32:25.281	'27123197': ping to current access point Access Point #4 is 238.82 ms
+0	20:34:15.394	'23853581': login on AdmiralMarkets-Demo through Access Point #1 (ping: 260.58 ms)
+0	20:34:21.443	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 260.58 ms)
+0	20:34:25.109	'23853581': previous successful authorization performed from 197.149.28.6
+0	20:34:54.673	'23853581': auto connecting to a better access point Access Point #6 (ping is 228.28 ms)
+0	20:34:55.741	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 228.28 ms)
+0	20:34:57.530	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 228.28 ms)
+0	20:34:58.268	'23853581': previous successful authorization performed from 197.149.28.6
+2	20:51:15.769	Expert Admiral - Trade Terminal AUDCHF,H1: loaded successfully
+2	20:52:54.790	Expert Admiral - Mini Terminal EURNZD,H1: loaded successfully
+0	20:56:19.705	'23853581': order buy market 0.10 EURNZD sl: 0.00000 tp: 0.00000
+0	20:56:20.137	'23853581': order was opened : #177339311 buy 0.10 EURNZD at 1.81888 sl: 0.00000 tp: 0.00000
+0	20:56:54.698	'23853581': modify order #177339311 buy 0.10 EURNZD at 1.81888 sl: 0.00000 tp: 0.00000 -> sl: 1.81696 tp: 0.00000
+0	20:56:55.039	'23853581': order #177339311 buy 0.10 EURNZD at 1.81888 was modified -> sl: 1.81696 tp: 0.00000
+0	20:57:44.280	'23853581': modify order #177339311 buy 0.10 EURNZD at 1.81888 sl: 1.81696 tp: 0.00000 -> sl: 1.81706 tp: 0.00000
+0	20:57:45.067	'23853581': order #177339311 buy 0.10 EURNZD at 1.81888 was modified -> sl: 1.81706 tp: 0.00000
+0	20:58:01.198	'23853581': modify order #177339311 buy 0.10 EURNZD at 1.81888 sl: 1.81706 tp: 0.00000 -> sl: 1.81716 tp: 0.00000
+0	20:58:02.874	'23853581': order #177339311 buy 0.10 EURNZD at 1.81888 was modified -> sl: 1.81716 tp: 0.00000
+0	20:58:17.103	'23853581': modify order #177339311 buy 0.10 EURNZD at 1.81888 sl: 1.81716 tp: 0.00000 -> sl: 1.81728 tp: 0.00000
+0	20:58:17.395	'23853581': order #177339311 buy 0.10 EURNZD at 1.81888 was modified -> sl: 1.81728 tp: 0.00000
+0	21:01:59.000	'23853581': modify order #177339311 buy 0.10 EURNZD at 1.81888 sl: 1.81728 tp: 0.00000 -> sl: 1.81738 tp: 0.00000
+0	21:01:59.307	'23853581': order #177339311 buy 0.10 EURNZD at 1.81888 was modified -> sl: 1.81738 tp: 0.00000
+0	21:31:30.426	'23853581': order #177339311 buy 0.10 EURNZD at 1.81888 closed due stop-loss at price 1.81737
+0	21:48:12.373	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 238.82 ms)
+0	21:48:14.824	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 238.82 ms)
+0	21:48:15.560	'27123197': previous successful authorization performed from 197.149.28.6
+1	21:48:16.395	MQL5.community: failed to start thread
+0	21:48:34.698	'27123197': ping to current access point Access Point #4 is 210.27 ms
+2	21:51:08.644	Custom indicator MBFX Timing EURAUD,H1: removed
+2	21:51:08.960	Custom indicator MBFX Timing EURAUD,H4: loaded successfully
+2	21:51:17.106	Custom indicator MBFX Timing EURAUD,H4: removed
+2	21:51:17.324	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+2	21:51:23.848	Custom indicator MBFX Timing EURAUD,H1: removed
+2	21:51:24.201	Custom indicator MBFX Timing EURAUD,M30: loaded successfully
+0	21:51:46.740	'27123197': close order #64989873 sell 0.10 EURAUD at 1.71961 sl: 1.72310 tp: 0.00000 at price 0.00000
+0	21:51:47.234	'27123197': order #64989873 sell 0.10 EURAUD at 1.71961 sl: 1.72310 tp: 0.00000 closed at price 1.71125
+2	21:53:23.834	Expert Admiral - Mini Terminal [DAX30],M15: loaded successfully
+2	21:59:00.758	Custom indicator #P4L CandleTime [DJI30],H1: loaded successfully
+2	21:59:00.783	Custom indicator TURBO PLUS+ [DJI30],H1: loaded successfully
+2	21:59:00.810	Custom indicator ALERT SIGNAL [DJI30],H1: loaded successfully
+2	21:59:00.836	Custom indicator Trend Trading\TrendTradingCloud [DJI30],H1: loaded successfully
+2	21:59:00.869	Custom indicator RSI Divergence Levels [DJI30],H1: loaded successfully
+2	21:59:00.901	Custom indicator MACD_Volumes-2 [DJI30],H1: loaded successfully
+2	21:59:00.921	Custom indicator Trend Trading\CloudSignalLines [DJI30],H1: loaded successfully
+2	21:59:01.400	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+0	21:59:12.451	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	21:59:13.141	'27123197': order was opened : #65019989 sell 0.50 [DJI30] at 23531.72 sl: 0.00 tp: 0.00
+0	21:59:52.075	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 0.00 tp: 0.00 -> sl: 23633.00 tp: 0.00
+0	21:59:52.464	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23633.00 tp: 0.00
+0	22:01:00.902	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23633.00 tp: 0.00 -> sl: 23633.00 tp: 23233.00
+0	22:01:01.266	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23633.00 tp: 23233.00
+2	22:06:13.295	Custom indicator #P4L CandleTime GBPJPY,H1: loaded successfully
+2	22:06:13.318	Custom indicator TURBO PLUS+ GBPJPY,H1: loaded successfully
+2	22:06:13.349	Custom indicator ALERT SIGNAL GBPJPY,H1: loaded successfully
+2	22:06:13.377	Custom indicator Trend Trading\TrendTradingCloud GBPJPY,H1: loaded successfully
+2	22:06:13.407	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	22:06:13.429	Custom indicator MACD_Volumes-2 GBPJPY,H1: loaded successfully
+2	22:06:13.452	Custom indicator Trend Trading\CloudSignalLines GBPJPY,H1: loaded successfully
+2	22:06:13.936	Custom indicator MBFX Timing GBPJPY,H1: loaded successfully
+2	22:06:22.298	Expert Admiral - Mini Terminal GBPJPY,H1: loaded successfully
+0	22:12:03.170	'27123197': pending order buy limit 0.10 GBPJPY at 132.170 sl: 131.850 tp: 133.600
+0	22:12:03.570	'27123197': order was opened : #65020448 buy limit 0.10 GBPJPY at 132.170 sl: 131.850 tp: 133.600
+0	22:16:02.465	'27123197': close order #64991244 buy 0.10 USDCAD at 1.41316 sl: 1.41017 tp: 1.42050 at price 0.00000
+0	22:16:03.025	'27123197': order #64991244 buy 0.10 USDCAD at 1.41316 sl: 1.41017 tp: 1.42050 closed at price 1.41934
+2	22:24:14.157	Custom indicator MBFX Timing EURNZD,H1: removed
+2	22:24:14.255	Expert Acuity Linear Gauge EURNZD,H1: removed
+2	22:24:14.267	Custom indicator #P4L CandleTime EURNZD,H1: removed
+2	22:24:14.273	Custom indicator TURBO PLUS+ EURNZD,H1: removed
+2	22:24:14.280	Custom indicator ALERT SIGNAL EURNZD,H1: removed
+2	22:24:14.286	Custom indicator TrendTradingCloud EURNZD,H1: removed
+2	22:24:14.293	Custom indicator RSI Divergence Levels EURNZD,H1: removed
+2	22:24:14.298	Custom indicator MACD_Volumes-2 EURNZD,H1: removed
+2	22:24:14.304	Custom indicator CloudSignalLines EURNZD,H1: removed
+2	22:24:37.273	Custom indicator MBFX Timing EURAUD,H1: removed
+2	22:24:37.321	Custom indicator #P4L CandleTime EURAUD,H1: removed
+2	22:24:37.332	Custom indicator TURBO PLUS+ EURAUD,H1: removed
+2	22:24:37.342	Custom indicator ALERT SIGNAL EURAUD,H1: removed
+2	22:24:37.350	Custom indicator TrendTradingCloud EURAUD,H1: removed
+2	22:24:37.364	Custom indicator RSI Divergence Levels EURAUD,H1: removed
+2	22:24:37.372	Custom indicator MACD_Volumes-2 EURAUD,H1: removed
+2	22:24:37.380	Custom indicator CloudSignalLines EURAUD,H1: removed
+2	22:24:40.874	Custom indicator MBFX Timing GBPCAD,M5: removed
+2	22:24:40.945	Expert Acuity Linear Gauge GBPCAD,M5: removed
+2	22:24:40.954	Custom indicator #P4L CandleTime GBPCAD,M5: removed
+2	22:24:40.962	Custom indicator TURBO PLUS+ GBPCAD,M5: removed
+2	22:24:40.969	Custom indicator ALERT SIGNAL GBPCAD,M5: removed
+2	22:24:40.976	Custom indicator TrendTradingCloud GBPCAD,M5: removed
+2	22:24:40.983	Custom indicator RSI Divergence Levels GBPCAD,M5: removed
+2	22:24:40.987	Custom indicator MACD_Volumes-2 GBPCAD,M5: removed
+2	22:24:40.992	Custom indicator CloudSignalLines GBPCAD,M5: removed
+2	22:24:48.422	Custom indicator MBFX Timing EURJPY,H1: removed
+2	22:24:48.473	Expert Acuity Linear Gauge EURJPY,H1: removed
+2	22:24:48.478	Custom indicator #P4L CandleTime EURJPY,H1: removed
+2	22:24:48.484	Custom indicator TURBO PLUS+ EURJPY,H1: removed
+2	22:24:48.490	Custom indicator ALERT SIGNAL EURJPY,H1: removed
+2	22:24:48.497	Custom indicator TrendTradingCloud EURJPY,H1: removed
+2	22:24:48.503	Custom indicator RSI Divergence Levels EURJPY,H1: removed
+2	22:24:48.509	Custom indicator MACD_Volumes-2 EURJPY,H1: removed
+2	22:24:48.514	Custom indicator CloudSignalLines EURJPY,H1: removed
+2	22:24:52.357	Custom indicator MBFX Timing EURAUD,M30: removed
+2	22:24:52.391	Custom indicator #P4L CandleTime EURAUD,M30: removed
+2	22:24:52.399	Custom indicator TURBO PLUS+ EURAUD,M30: removed
+2	22:24:52.407	Custom indicator ALERT SIGNAL EURAUD,M30: removed
+2	22:24:52.416	Custom indicator TrendTradingCloud EURAUD,M30: removed
+2	22:24:52.426	Custom indicator RSI Divergence Levels EURAUD,M30: removed
+2	22:24:52.433	Custom indicator MACD_Volumes-2 EURAUD,M30: removed
+2	22:24:52.440	Custom indicator CloudSignalLines EURAUD,M30: removed
+2	22:24:57.226	Custom indicator MBFX Timing AUDJPY,H1: removed
+2	22:24:57.259	Custom indicator #P4L CandleTime AUDJPY,H1: removed
+2	22:24:57.267	Custom indicator TURBO PLUS+ AUDJPY,H1: removed
+2	22:24:57.274	Custom indicator ALERT SIGNAL AUDJPY,H1: removed
+2	22:24:57.281	Custom indicator TrendTradingCloud AUDJPY,H1: removed
+2	22:24:57.293	Custom indicator RSI Divergence Levels AUDJPY,H1: removed
+2	22:24:57.302	Custom indicator MACD_Volumes-2 AUDJPY,H1: removed
+2	22:24:57.310	Custom indicator CloudSignalLines AUDJPY,H1: removed
+1	22:26:49.562	'27123197': ping failed
+1	22:26:50.868	'27123197': connect failed [Connection échouée]
+0	22:27:00.846	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	22:27:06.652	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	22:27:07.973	'27123197': previous successful authorization performed from 197.149.28.6
+0	22:27:26.091	'27123197': ping to current access point Access Point #8 is 644.56 ms
+2	22:28:36.192	Custom indicator MBFX Timing #BA,H1: removed
+2	22:28:36.216	Custom indicator #P4L CandleTime #BA,H1: removed
+2	22:28:36.222	Custom indicator TURBO PLUS+ #BA,H1: removed
+2	22:28:36.226	Custom indicator ALERT SIGNAL #BA,H1: removed
+2	22:28:36.229	Custom indicator TrendTradingCloud #BA,H1: removed
+2	22:28:36.232	Custom indicator RSI Divergence Levels #BA,H1: removed
+2	22:28:36.236	Custom indicator MACD_Volumes-2 #BA,H1: removed
+2	22:28:36.239	Custom indicator CloudSignalLines #BA,H1: removed
+2	22:28:39.302	Custom indicator MBFX Timing #FB,H1: removed
+2	22:28:39.319	Custom indicator #P4L CandleTime #FB,H1: removed
+2	22:28:39.321	Custom indicator TURBO PLUS+ #FB,H1: removed
+2	22:28:39.323	Custom indicator ALERT SIGNAL #FB,H1: removed
+2	22:28:39.325	Custom indicator TrendTradingCloud #FB,H1: removed
+2	22:28:39.327	Custom indicator RSI Divergence Levels #FB,H1: removed
+2	22:28:39.329	Custom indicator MACD_Volumes-2 #FB,H1: removed
+2	22:28:39.333	Custom indicator CloudSignalLines #FB,H1: removed
+2	22:28:43.619	Expert Admiral - Trade Terminal AUDCHF,H1: removed
+2	22:28:46.913	Expert Admiral - Mini Terminal EURNZD,H1: removed
+2	22:28:53.701	Custom indicator MBFX Timing GBPJPY,H1: removed
+2	22:28:53.714	Expert Admiral - Mini Terminal GBPJPY,H1: removed
+2	22:28:53.716	Custom indicator #P4L CandleTime GBPJPY,H1: removed
+2	22:28:53.718	Custom indicator TURBO PLUS+ GBPJPY,H1: removed
+2	22:28:53.721	Custom indicator ALERT SIGNAL GBPJPY,H1: removed
+2	22:28:53.723	Custom indicator TrendTradingCloud GBPJPY,H1: removed
+2	22:28:53.725	Custom indicator RSI Divergence Levels GBPJPY,H1: removed
+2	22:28:53.726	Custom indicator MACD_Volumes-2 GBPJPY,H1: removed
+2	22:28:53.728	Custom indicator CloudSignalLines GBPJPY,H1: removed
+2	22:29:26.722	Custom indicator MBFX Timing #AAPL,M30: removed
+2	22:29:26.865	Custom indicator MBFX Timing #AAPL,H1: loaded successfully
+0	22:33:21.729	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23633.00 tp: 23233.00 -> sl: 23633.00 tp: 23342.53
+0	22:33:22.424	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23633.00 tp: 23342.53
+2	22:34:21.258	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	22:34:21.270	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	22:34:21.282	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	22:34:21.293	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	22:34:21.306	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	22:34:21.318	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	22:34:21.328	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	22:34:21.509	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+0	22:36:17.532	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23633.00 tp: 23342.53 -> sl: 23686.54 tp: 23342.53
+0	22:36:18.252	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23686.54 tp: 23342.53
+0	22:36:31.085	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23686.54 tp: 23342.53 -> sl: 23675.79 tp: 23342.53
+0	22:36:31.800	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23675.79 tp: 23342.53
+0	22:37:40.383	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23675.79 tp: 23342.53 -> sl: 23675.79 tp: 23233.00
+0	22:37:41.102	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23675.79 tp: 23233.00
+0	22:57:28.191	'27123197': modify order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23675.79 tp: 23233.00 -> sl: 23546.79 tp: 23233.00
+0	22:57:28.849	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 was modified -> sl: 23546.79 tp: 23233.00
+0	22:58:58.983	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	22:58:58.983	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1285 / 8014 Mb, Disk: 91 / 237 Gb, GMT+3
+0	22:58:58.983	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	22:59:01.746	Custom indicator #P4L CandleTime GBPCAD,M5: loaded successfully
+2	22:59:01.760	Custom indicator TURBO PLUS+ GBPCAD,M5: loaded successfully
+2	22:59:01.773	Custom indicator ALERT SIGNAL GBPCAD,M5: loaded successfully
+2	22:59:01.788	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,M5: loaded successfully
+2	22:59:01.800	Custom indicator RSI Divergence Levels GBPCAD,M5: loaded successfully
+2	22:59:01.812	Custom indicator MACD_Volumes-2 GBPCAD,M5: loaded successfully
+2	22:59:01.822	Custom indicator Trend Trading\CloudSignalLines GBPCAD,M5: loaded successfully
+2	22:59:01.838	Expert Admiral - Connect GBPCAD,M5: loaded successfully
+2	22:59:02.086	Custom indicator MBFX Timing GBPCAD,M5: loaded successfully
+2	22:59:02.210	Custom indicator #P4L CandleTime GBPAUD,H1: loaded successfully
+2	22:59:02.219	Custom indicator TURBO PLUS+ GBPAUD,H1: loaded successfully
+2	22:59:02.229	Custom indicator ALERT SIGNAL GBPAUD,H1: loaded successfully
+2	22:59:02.240	Custom indicator Trend Trading\TrendTradingCloud GBPAUD,H1: loaded successfully
+2	22:59:02.251	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	22:59:02.261	Custom indicator MACD_Volumes-2 GBPAUD,H1: loaded successfully
+2	22:59:02.270	Custom indicator Trend Trading\CloudSignalLines GBPAUD,H1: loaded successfully
+2	22:59:02.294	Expert Admiral - Trade Terminal GBPAUD,H1: loaded successfully
+2	22:59:02.527	Custom indicator MBFX Timing GBPAUD,H1: loaded successfully
+2	22:59:02.695	Custom indicator #P4L CandleTime WTI,H1: loaded successfully
+2	22:59:02.706	Custom indicator TURBO PLUS+ WTI,H1: loaded successfully
+2	22:59:02.718	Custom indicator ALERT SIGNAL WTI,H1: loaded successfully
+2	22:59:02.730	Custom indicator Trend Trading\TrendTradingCloud WTI,H1: loaded successfully
+2	22:59:02.743	Custom indicator RSI Divergence Levels WTI,H1: loaded successfully
+2	22:59:02.754	Custom indicator MACD_Volumes-2 WTI,H1: loaded successfully
+2	22:59:02.765	Custom indicator Trend Trading\CloudSignalLines WTI,H1: loaded successfully
+2	22:59:02.984	Custom indicator MBFX Timing WTI,H1: loaded successfully
+2	22:59:03.102	Custom indicator #P4L CandleTime [DJI30],M30: loaded successfully
+2	22:59:03.111	Custom indicator TURBO PLUS+ [DJI30],M30: loaded successfully
+2	22:59:03.121	Custom indicator ALERT SIGNAL [DJI30],M30: loaded successfully
+2	22:59:03.131	Custom indicator Trend Trading\TrendTradingCloud [DJI30],M30: loaded successfully
+2	22:59:03.142	Custom indicator RSI Divergence Levels [DJI30],M30: loaded successfully
+2	22:59:03.153	Custom indicator MACD_Volumes-2 [DJI30],M30: loaded successfully
+2	22:59:03.162	Custom indicator Trend Trading\CloudSignalLines [DJI30],M30: loaded successfully
+2	22:59:03.179	Expert Admiral - Mini Terminal [DJI30],M30: loaded successfully
+2	22:59:03.379	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	22:59:03.518	Custom indicator #P4L CandleTime [DAX30],M15: loaded successfully
+2	22:59:03.527	Custom indicator TURBO PLUS+ [DAX30],M15: loaded successfully
+2	22:59:03.538	Custom indicator ALERT SIGNAL [DAX30],M15: loaded successfully
+2	22:59:03.549	Custom indicator Trend Trading\TrendTradingCloud [DAX30],M15: loaded successfully
+2	22:59:03.560	Custom indicator RSI Divergence Levels [DAX30],M15: loaded successfully
+2	22:59:03.571	Custom indicator MACD_Volumes-2 [DAX30],M15: loaded successfully
+2	22:59:03.580	Custom indicator Trend Trading\CloudSignalLines [DAX30],M15: loaded successfully
+2	22:59:03.596	Expert Admiral - Mini Terminal [DAX30],M15: loaded successfully
+2	22:59:03.800	Custom indicator MBFX Timing [DAX30],M15: loaded successfully
+2	22:59:03.941	Custom indicator #P4L CandleTime [DJI30],H1: loaded successfully
+2	22:59:03.950	Custom indicator TURBO PLUS+ [DJI30],H1: loaded successfully
+2	22:59:03.960	Custom indicator ALERT SIGNAL [DJI30],H1: loaded successfully
+2	22:59:03.970	Custom indicator Trend Trading\TrendTradingCloud [DJI30],H1: loaded successfully
+2	22:59:03.981	Custom indicator RSI Divergence Levels [DJI30],H1: loaded successfully
+2	22:59:03.991	Custom indicator MACD_Volumes-2 [DJI30],H1: loaded successfully
+2	22:59:04.000	Custom indicator Trend Trading\CloudSignalLines [DJI30],H1: loaded successfully
+2	22:59:04.199	Custom indicator MBFX Timing [DJI30],H1: loaded successfully
+2	22:59:04.325	Custom indicator #P4L CandleTime USDCHF,H1: loaded successfully
+2	22:59:04.333	Custom indicator TURBO PLUS+ USDCHF,H1: loaded successfully
+2	22:59:04.343	Custom indicator ALERT SIGNAL USDCHF,H1: loaded successfully
+2	22:59:04.353	Custom indicator Trend Trading\TrendTradingCloud USDCHF,H1: loaded successfully
+2	22:59:04.367	Custom indicator RSI Divergence Levels USDCHF,H1: loaded successfully
+2	22:59:04.380	Custom indicator MACD_Volumes-2 USDCHF,H1: loaded successfully
+2	22:59:04.391	Custom indicator Trend Trading\CloudSignalLines USDCHF,H1: loaded successfully
+2	22:59:04.649	Custom indicator MBFX Timing USDCHF,H1: loaded successfully
+2	22:59:04.789	Custom indicator #P4L CandleTime AUDUSD,H1: loaded successfully
+2	22:59:04.799	Custom indicator TURBO PLUS+ AUDUSD,H1: loaded successfully
+2	22:59:04.810	Custom indicator ALERT SIGNAL AUDUSD,H1: loaded successfully
+2	22:59:04.821	Custom indicator Trend Trading\TrendTradingCloud AUDUSD,H1: loaded successfully
+2	22:59:04.832	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	22:59:04.842	Custom indicator MACD_Volumes-2 AUDUSD,H1: loaded successfully
+2	22:59:04.851	Custom indicator Trend Trading\CloudSignalLines AUDUSD,H1: loaded successfully
+2	22:59:05.056	Custom indicator MBFX Timing AUDUSD,H1: loaded successfully
+2	22:59:05.182	Custom indicator #P4L CandleTime AUDCHF,H4: loaded successfully
+2	22:59:05.191	Custom indicator TURBO PLUS+ AUDCHF,H4: loaded successfully
+2	22:59:05.201	Custom indicator ALERT SIGNAL AUDCHF,H4: loaded successfully
+2	22:59:05.211	Custom indicator Trend Trading\TrendTradingCloud AUDCHF,H4: loaded successfully
+2	22:59:05.222	Custom indicator RSI Divergence Levels AUDCHF,H4: loaded successfully
+2	22:59:05.232	Custom indicator MACD_Volumes-2 AUDCHF,H4: loaded successfully
+2	22:59:05.240	Custom indicator Trend Trading\CloudSignalLines AUDCHF,H4: loaded successfully
+2	22:59:05.493	Custom indicator MBFX Timing AUDCHF,H4: loaded successfully
+2	22:59:05.630	Custom indicator #P4L CandleTime GBPJPY,H1: loaded successfully
+2	22:59:05.640	Custom indicator TURBO PLUS+ GBPJPY,H1: loaded successfully
+2	22:59:05.650	Custom indicator ALERT SIGNAL GBPJPY,H1: loaded successfully
+2	22:59:05.661	Custom indicator Trend Trading\TrendTradingCloud GBPJPY,H1: loaded successfully
+2	22:59:05.672	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	22:59:05.682	Custom indicator MACD_Volumes-2 GBPJPY,H1: loaded successfully
+2	22:59:05.692	Custom indicator Trend Trading\CloudSignalLines GBPJPY,H1: loaded successfully
+2	22:59:05.906	Custom indicator MBFX Timing GBPJPY,H1: loaded successfully
+2	22:59:06.047	Custom indicator #P4L CandleTime EURJPY,H1: loaded successfully
+2	22:59:06.060	Custom indicator TURBO PLUS+ EURJPY,H1: loaded successfully
+2	22:59:06.075	Custom indicator ALERT SIGNAL EURJPY,H1: loaded successfully
+2	22:59:06.089	Custom indicator Trend Trading\TrendTradingCloud EURJPY,H1: loaded successfully
+2	22:59:06.105	Custom indicator RSI Divergence Levels EURJPY,H1: loaded successfully
+2	22:59:06.119	Custom indicator MACD_Volumes-2 EURJPY,H1: loaded successfully
+2	22:59:06.131	Custom indicator Trend Trading\CloudSignalLines EURJPY,H1: loaded successfully
+2	22:59:06.386	Custom indicator MBFX Timing EURJPY,H1: loaded successfully
+2	22:59:06.527	Custom indicator #P4L CandleTime USDCAD,H1: loaded successfully
+2	22:59:06.537	Custom indicator TURBO PLUS+ USDCAD,H1: loaded successfully
+2	22:59:06.547	Custom indicator ALERT SIGNAL USDCAD,H1: loaded successfully
+2	22:59:06.558	Custom indicator Trend Trading\TrendTradingCloud USDCAD,H1: loaded successfully
+2	22:59:06.569	Custom indicator RSI Divergence Levels USDCAD,H1: loaded successfully
+2	22:59:06.580	Custom indicator MACD_Volumes-2 USDCAD,H1: loaded successfully
+2	22:59:06.589	Custom indicator Trend Trading\CloudSignalLines USDCAD,H1: loaded successfully
+2	22:59:06.605	Expert Admiral - Mini Terminal USDCAD,H1: loaded successfully
+2	22:59:06.809	Custom indicator MBFX Timing USDCAD,H1: loaded successfully
+2	22:59:06.937	Custom indicator #P4L CandleTime #MSFT,H1: loaded successfully
+2	22:59:06.946	Custom indicator TURBO PLUS+ #MSFT,H1: loaded successfully
+2	22:59:06.956	Custom indicator ALERT SIGNAL #MSFT,H1: loaded successfully
+2	22:59:06.966	Custom indicator Trend Trading\TrendTradingCloud #MSFT,H1: loaded successfully
+2	22:59:06.977	Custom indicator RSI Divergence Levels #MSFT,H1: loaded successfully
+2	22:59:06.987	Custom indicator MACD_Volumes-2 #MSFT,H1: loaded successfully
+2	22:59:06.996	Custom indicator Trend Trading\CloudSignalLines #MSFT,H1: loaded successfully
+2	22:59:07.013	Expert Admiral - Mini Terminal #MSFT,H1: loaded successfully
+2	22:59:07.226	Custom indicator MBFX Timing #MSFT,H1: loaded successfully
+2	22:59:07.361	Custom indicator #P4L CandleTime #AAPL,H1: loaded successfully
+2	22:59:07.371	Custom indicator TURBO PLUS+ #AAPL,H1: loaded successfully
+2	22:59:07.381	Custom indicator ALERT SIGNAL #AAPL,H1: loaded successfully
+2	22:59:07.392	Custom indicator Trend Trading\TrendTradingCloud #AAPL,H1: loaded successfully
+2	22:59:07.403	Custom indicator RSI Divergence Levels #AAPL,H1: loaded successfully
+2	22:59:07.413	Custom indicator MACD_Volumes-2 #AAPL,H1: loaded successfully
+2	22:59:07.422	Custom indicator Trend Trading\CloudSignalLines #AAPL,H1: loaded successfully
+2	22:59:07.438	Expert Admiral - Mini Terminal #AAPL,H1: loaded successfully
+2	22:59:07.640	Custom indicator MBFX Timing #AAPL,H1: loaded successfully
+2	22:59:07.788	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	22:59:07.801	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	22:59:07.816	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	22:59:07.831	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	22:59:07.846	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	22:59:07.860	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	22:59:07.873	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	22:59:08.122	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+0	22:59:11.825	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	22:59:17.443	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	22:59:18.604	'27123197': previous successful authorization performed from 197.149.28.6
+2	23:02:41.887	Custom indicator MBFX Timing [DJI30],H1: removed
+2	23:02:42.017	Custom indicator MBFX Timing [DJI30],M30: loaded successfully
+2	23:02:45.015	Custom indicator MBFX Timing [DJI30],M30: removed
+2	23:02:45.164	Custom indicator MBFX Timing [DJI30],M15: loaded successfully
+0	23:03:18.210	'27123197': close order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23546.79 tp: 23233.00 at price 0.00
+0	23:03:19.099	'27123197': order #65019989 sell 0.50 [DJI30] at 23531.72 sl: 23546.79 tp: 23233.00 closed at price 23438.89
+2	23:09:07.875	Expert Admiral - Trade Terminal GBPCAD,H1: loaded successfully
+2	23:09:18.868	Custom indicator MBFX Timing GBPCAD,H1: removed
+2	23:09:18.876	Expert Admiral - Trade Terminal GBPCAD,H1: removed
+2	23:09:18.878	Custom indicator #P4L CandleTime GBPCAD,H1: removed
+2	23:09:18.881	Custom indicator TURBO PLUS+ GBPCAD,H1: removed
+2	23:09:18.883	Custom indicator ALERT SIGNAL GBPCAD,H1: removed
+2	23:09:18.885	Custom indicator TrendTradingCloud GBPCAD,H1: removed
+2	23:09:18.887	Custom indicator RSI Divergence Levels GBPCAD,H1: removed
+2	23:09:18.890	Custom indicator MACD_Volumes-2 GBPCAD,H1: removed
+2	23:09:18.892	Custom indicator CloudSignalLines GBPCAD,H1: removed
+2	23:09:46.011	Custom indicator #P4L CandleTime GBPCAD,H1: loaded successfully
+2	23:09:46.020	Custom indicator TURBO PLUS+ GBPCAD,H1: loaded successfully
+2	23:09:46.032	Custom indicator ALERT SIGNAL GBPCAD,H1: loaded successfully
+2	23:09:46.044	Custom indicator Trend Trading\TrendTradingCloud GBPCAD,H1: loaded successfully
+2	23:09:46.056	Custom indicator RSI Divergence Levels GBPCAD,H1: loaded successfully
+2	23:09:46.068	Custom indicator MACD_Volumes-2 GBPCAD,H1: loaded successfully
+2	23:09:46.079	Custom indicator Trend Trading\CloudSignalLines GBPCAD,H1: loaded successfully
+2	23:09:46.310	Custom indicator MBFX Timing GBPCAD,H1: loaded successfully
+2	23:09:53.703	Expert Admiral - Mini Terminal GBPCAD,H1: loaded successfully
+0	23:15:08.417	'27123197': order sell market 0.10 GBPCAD sl: 0.00000 tp: 0.00000
+0	23:15:09.321	'27123197': order was opened : #65022457 sell 0.10 GBPCAD at 1.74679 sl: 0.00000 tp: 0.00000
+0	23:16:04.437	'27123197': modify order #65022457 sell 0.10 GBPCAD at 1.74679 sl: 0.00000 tp: 0.00000 -> sl: 1.75200 tp: 0.00000
+0	23:16:05.141	'27123197': order #65022457 sell 0.10 GBPCAD at 1.74679 was modified -> sl: 1.75200 tp: 0.00000
+0	23:16:29.138	'27123197': modify order #65022457 sell 0.10 GBPCAD at 1.74679 sl: 1.75200 tp: 0.00000 -> sl: 1.75200 tp: 1.74648
+0	23:16:29.826	'27123197': order #65022457 sell 0.10 GBPCAD at 1.74679 was modified -> sl: 1.75200 tp: 1.74648
+0	23:16:50.169	'27123197': modify order #65022457 sell 0.10 GBPCAD at 1.74679 sl: 1.75200 tp: 1.74648 -> sl: 1.75200 tp: 1.73400
+0	23:16:50.904	'27123197': order #65022457 sell 0.10 GBPCAD at 1.74679 was modified -> sl: 1.75200 tp: 1.73400
+0	23:19:34.660	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	23:19:39.133	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	23:19:40.271	'27123197': previous successful authorization performed from 197.149.28.6
+0	23:20:32.917	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	23:20:37.341	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	23:20:38.541	'27123197': previous successful authorization performed from 197.149.28.6
+0	23:21:03.623	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 228.28 ms)
+0	23:21:05.516	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 228.28 ms)
+0	23:21:06.403	'23853581': previous successful authorization performed from 197.149.28.6
+0	23:21:13.620	'23853581': ping to current access point Access Point #6 is 215.96 ms
+2	23:23:55.270	Custom indicator #P4L CandleTime EURAUD,H1: loaded successfully
+2	23:23:55.282	Custom indicator TURBO PLUS+ EURAUD,H1: loaded successfully
+2	23:23:55.293	Custom indicator ALERT SIGNAL EURAUD,H1: loaded successfully
+2	23:23:55.304	Custom indicator Trend Trading\TrendTradingCloud EURAUD,H1: loaded successfully
+2	23:23:55.317	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	23:23:55.330	Custom indicator MACD_Volumes-2 EURAUD,H1: loaded successfully
+2	23:23:55.339	Custom indicator Trend Trading\CloudSignalLines EURAUD,H1: loaded successfully
+2	23:23:55.567	Custom indicator MBFX Timing EURAUD,H1: loaded successfully
+0	23:24:59.857	'23853581': order buy market 0.10 EURAUD sl: 0.00000 tp: 0.00000
+0	23:25:00.260	'23853581': order was opened : #177350294 buy 0.10 EURAUD at 1.71242 sl: 0.00000 tp: 0.00000
+0	23:25:35.694	'23853581': modify order #177350294 buy 0.10 EURAUD at 1.71242 sl: 0.00000 tp: 0.00000 -> sl: 1.70464 tp: 1.71460
+0	23:25:36.359	'23853581': order #177350294 buy 0.10 EURAUD at 1.71242 was modified -> sl: 1.70464 tp: 1.71460
+2	23:26:29.770	Custom indicator #P4L CandleTime USDCNH,H1: loaded successfully
+2	23:26:29.784	Custom indicator TURBO PLUS+ USDCNH,H1: loaded successfully
+2	23:26:29.797	Custom indicator ALERT SIGNAL USDCNH,H1: loaded successfully
+2	23:26:29.813	Custom indicator Trend Trading\TrendTradingCloud USDCNH,H1: loaded successfully
+2	23:26:29.830	Custom indicator RSI Divergence Levels USDCNH,H1: loaded successfully
+2	23:26:29.842	Custom indicator MACD_Volumes-2 USDCNH,H1: loaded successfully
+2	23:26:29.855	Custom indicator Trend Trading\CloudSignalLines USDCNH,H1: loaded successfully
+2	23:26:30.104	Custom indicator MBFX Timing USDCNH,H1: loaded successfully
+0	23:27:46.173	'23853581': order buy market 0.10 USDCNH sl: 7.0913 tp: 7.1010
+1	23:27:46.731	'23853581': order buy 0.10 USDCNH opening at market sl: 7.0913 tp: 7.1010 failed [Invalid S/L or T/P]
+0	23:27:57.965	'23853581': order buy market 0.10 USDCNH sl: 7.0913 tp: 7.1020
+0	23:27:58.775	'23853581': order was opened : #177350448 buy 0.10 USDCNH at 7.1035 sl: 7.0913 tp: 7.1020
+0	23:28:58.005	'23853581': modify order #177350448 buy 0.10 USDCNH at 7.1035 sl: 7.0913 tp: 7.1020 -> sl: 7.0913 tp: 7.1054
+0	23:28:58.534	'23853581': order #177350448 buy 0.10 USDCNH at 7.1035 was modified -> sl: 7.0913 tp: 7.1054
+2	23:31:43.032	Custom indicator #P4L CandleTime AUDCAD,H1: loaded successfully
+2	23:31:43.047	Custom indicator TURBO PLUS+ AUDCAD,H1: loaded successfully
+2	23:31:43.067	Custom indicator ALERT SIGNAL AUDCAD,H1: loaded successfully
+2	23:31:43.089	Custom indicator Trend Trading\TrendTradingCloud AUDCAD,H1: loaded successfully
+2	23:31:43.117	Custom indicator RSI Divergence Levels AUDCAD,H1: loaded successfully
+2	23:31:43.137	Custom indicator MACD_Volumes-2 AUDCAD,H1: loaded successfully
+2	23:31:43.154	Custom indicator Trend Trading\CloudSignalLines AUDCAD,H1: loaded successfully
+2	23:31:43.556	Custom indicator MBFX Timing AUDCAD,H1: loaded successfully
+0	23:32:46.045	'23853581': order buy market 0.10 AUDCAD sl: 0.89141 tp: 0.90000
+0	23:32:46.674	'23853581': order was opened : #177350607 buy 0.10 AUDCAD at 0.89552 sl: 0.89141 tp: 0.90000
+0	23:34:49.465	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 215.96 ms)
+0	23:34:51.697	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 215.96 ms)
+0	23:34:52.524	'23853581': previous successful authorization performed from 197.149.28.6
+0	23:35:27.891	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	23:35:34.724	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 644.56 ms)
+0	23:35:36.580	'27123197': previous successful authorization performed from 197.149.28.6
+0	23:36:04.581	'27123197': auto connecting to a better access point Access Point #3 (ping is 291.15 ms)
+0	23:36:05.750	'27123197': login on AdmiralMarkets-Live through Access Point #3 (ping: 291.15 ms)
+0	23:36:10.710	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 291.15 ms)
+0	23:36:11.691	'27123197': previous successful authorization performed from 197.149.28.6
+1	23:38:00.349	'27123197': datacenter connecting failed [6]
+0	23:38:01.394	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 314.40 ms)
+0	23:38:15.894	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 314.40 ms)
+0	23:38:18.106	'27123197': previous successful authorization performed from 197.149.28.6
+0	23:39:22.671	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 215.96 ms)
+0	23:39:26.608	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 215.96 ms)
+0	23:39:27.421	'23853581': previous successful authorization performed from 197.149.28.6
+0	23:40:04.001	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 314.40 ms)
+0	23:40:07.390	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 314.40 ms)
+0	23:40:08.270	'27123197': previous successful authorization performed from 197.149.28.6
+0	23:40:56.272	'23853581': login on AdmiralMarkets-Demo through Access Point #6 (ping: 215.96 ms)
+0	23:40:58.594	'23853581': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 215.96 ms)
+0	23:40:59.334	'23853581': previous successful authorization performed from 197.149.28.6
+2	23:41:19.657	Custom indicator #P4L CandleTime AUDCHF,H1: loaded successfully
+2	23:41:19.667	Custom indicator TURBO PLUS+ AUDCHF,H1: loaded successfully
+2	23:41:19.677	Custom indicator ALERT SIGNAL AUDCHF,H1: loaded successfully
+2	23:41:19.688	Custom indicator Trend Trading\TrendTradingCloud AUDCHF,H1: loaded successfully
+2	23:41:19.699	Custom indicator RSI Divergence Levels AUDCHF,H1: loaded successfully
+2	23:41:19.710	Custom indicator MACD_Volumes-2 AUDCHF,H1: loaded successfully
+2	23:41:19.719	Custom indicator Trend Trading\CloudSignalLines AUDCHF,H1: loaded successfully
+2	23:41:19.947	Custom indicator MBFX Timing AUDCHF,H1: loaded successfully
+0	23:42:14.684	'23853581': order buy market 0.10 AUDCHF sl: 0.61074 tp: 0.63000
+0	23:42:15.356	'23853581': order was opened : #177350929 buy 0.10 AUDCHF at 0.61425 sl: 0.61074 tp: 0.63000
+2	23:42:32.007	Custom indicator MBFX Timing AUDCHF,H1: removed
+2	23:42:32.133	Custom indicator MBFX Timing AUDCHF,H4: loaded successfully
+0	23:44:24.032	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: 314.40 ms)
+0	23:44:28.483	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 314.40 ms)
+0	23:44:30.147	'27123197': previous successful authorization performed from 197.149.28.6

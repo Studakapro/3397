@@ -1,0 +1,586 @@
+0	00:05:58.284	'27143750': order #74833647 sell 0.20 [DJI30] at 30023.61 closed due stop-loss at price 30076.81
+1	01:01:53.112	'27143750': connect failed [Connection échouée]
+0	01:02:22.790	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 282.96 ms)
+0	01:02:33.221	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 282.96 ms)
+0	01:02:36.275	'27143750': previous successful authorization performed from 154.126.99.196
+0	01:03:22.803	'27143750': auto connecting to a better access point Access Point #5 (ping is 222.23 ms)
+0	01:03:23.726	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 222.23 ms)
+0	01:03:27.858	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 222.23 ms)
+0	01:03:30.142	'27143750': previous successful authorization performed from 154.126.99.196
+0	05:45:10.925	'27143750': order sell market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	05:45:11.476	'27143750': order was opened : #74843436 sell 0.20 [DJI30] at 30158.75 sl: 0.00 tp: 0.00
+0	06:43:06.861	'27143750': close order #74843436 sell 0.10 [DJI30] at 30158.75 sl: 0.00 tp: 0.00 at price 0.00
+0	06:43:07.314	'27143750': order #74843436 sell 0.10 [DJI30] at 30158.75 sl: 0.00 tp: 0.00 closed at price 30112.43
+0	06:43:07.314	'27143750': remainder of order #74843436 was opened : #74844179 sell 0.10 [DJI30] at 30158.75 sl: 0.00 tp: 0.00
+0	06:45:42.476	'27143750': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	06:45:44.108	'27143750': order was opened : #74844217 sell 0.10 [DAX30] at 13326.02 sl: 0.00 tp: 0.00
+0	09:29:26.855	'27143750': close order #74811071 buy 0.03 EURNZD at 1.70538 sl: 1.69470 tp: 1.72140 at price 0.00000
+0	09:29:27.293	'27143750': order #74811071 buy 0.03 EURNZD at 1.70538 sl: 1.69470 tp: 1.72140 closed at price 1.70790
+0	09:29:35.031	'27143750': close order #74844217 sell 0.10 [DAX30] at 13326.02 sl: 0.00 tp: 0.00 at price 0.00
+0	09:29:36.427	'27143750': order #74844217 sell 0.10 [DAX30] at 13326.02 sl: 0.00 tp: 0.00 closed at price 13296.23
+0	09:46:18.786	'27143750': close order #74844179 sell 0.10 [DJI30] at 30158.75 sl: 0.00 tp: 0.00 at price 0.00
+0	09:46:20.531	'27143750': order #74844179 sell 0.10 [DJI30] at 30158.75 sl: 0.00 tp: 0.00 closed at price 30058.87
+2	09:58:37.670	Custom indicator AIMS Levels V2 EURAUD,H1: loaded successfully
+2	09:58:37.805	Custom indicator AIMS Entry Alert V1 EURAUD,H1: loaded successfully
+2	09:58:37.815	Custom indicator CandleTimer EURAUD,H1: loaded successfully
+2	09:58:37.885	Custom indicator #Signal_Bars_v6 EURAUD,H1: loaded successfully
+2	09:58:37.895	Custom indicator TrendEnvelopes_v1 EURAUD,H1: loaded successfully
+2	09:58:37.905	Custom indicator guppy_multiple_moving_averages EURAUD,H1: loaded successfully
+2	09:58:37.910	Custom indicator wedges EURAUD,H1: loaded successfully
+2	09:58:37.920	Custom indicator Admiral Pivot EURAUD,H1: loaded successfully
+2	09:58:37.925	Custom indicator AutoTrendChannel EURAUD,H1: loaded successfully
+2	09:58:37.950	Custom indicator FRZ Channel Auto Plotter EURAUD,H1: loaded successfully
+2	09:58:37.967	Custom indicator FRZ News Indicator MT4 EURAUD,H1: loaded successfully
+2	09:58:37.972	Custom indicator Forex Uranus direction EURAUD,H1: loaded successfully
+2	09:58:37.982	Custom indicator Quadrilateral EURAUD,H1: loaded successfully
+2	09:58:38.045	Custom indicator AIMS AO V.2.1 EURAUD,H1: loaded successfully
+2	09:58:38.050	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: loaded successfully
+2	09:58:38.060	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	09:58:38.070	Custom indicator JoeChalhoub_FXForecasterV1 EURAUD,H1: loaded successfully
+2	09:58:38.080	Custom indicator TDI-With_Alerts EURAUD,H1: loaded successfully
+2	09:58:38.085	Custom indicator FRZ Forex Market Session Indicator EURAUD,H1: loaded successfully
+0	09:59:10.973	'27143750': order buy market 0.04 EURAUD sl: 0.00000 tp: 0.00000
+0	09:59:11.424	'27143750': order was opened : #74848058 buy 0.04 EURAUD at 1.62227 sl: 0.00000 tp: 0.00000
+0	09:59:36.062	'27143750': modify order #74848058 buy 0.04 EURAUD at 1.62227 sl: 0.00000 tp: 0.00000 -> sl: 1.61300 tp: 1.62550
+0	09:59:36.338	'27143750': order #74848058 buy 0.04 EURAUD at 1.62227 was modified -> sl: 1.61300 tp: 1.62550
+2	10:00:15.305	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	10:00:15.375	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	10:00:15.385	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	10:00:15.450	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	10:00:15.455	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	10:00:15.460	Custom indicator guppy_multiple_moving_averages EURUSD,H1: loaded successfully
+2	10:00:15.469	Custom indicator wedges EURUSD,H1: loaded successfully
+2	10:00:15.474	Custom indicator Admiral Pivot EURUSD,H1: loaded successfully
+2	10:00:15.484	Custom indicator AutoTrendChannel EURUSD,H1: loaded successfully
+2	10:00:15.489	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: loaded successfully
+2	10:00:15.496	Custom indicator FRZ News Indicator MT4 EURUSD,H1: loaded successfully
+2	10:00:15.505	Custom indicator Forex Uranus direction EURUSD,H1: loaded successfully
+2	10:00:15.515	Custom indicator Quadrilateral EURUSD,H1: loaded successfully
+2	10:00:15.575	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	10:00:15.580	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	10:00:15.590	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	10:00:15.600	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: loaded successfully
+2	10:00:15.605	Custom indicator TDI-With_Alerts EURUSD,H1: loaded successfully
+2	10:00:15.610	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: loaded successfully
+0	10:00:44.809	'27143750': order sell market 0.03 EURUSD sl: 0.00000 tp: 0.00000
+0	10:00:45.219	'27143750': order was opened : #74848147 sell 0.03 EURUSD at 1.18975 sl: 0.00000 tp: 0.00000
+0	10:01:08.538	'27143750': modify order #74848147 sell 0.03 EURUSD at 1.18975 sl: 0.00000 tp: 0.00000 -> sl: 1.19800 tp: 1.17800
+0	10:01:08.934	'27143750': order #74848147 sell 0.03 EURUSD at 1.18975 was modified -> sl: 1.19800 tp: 1.17800
+1	10:10:04.788	'27143750': ping failed
+0	10:10:06.528	'27143750': login datacenter on AdmiralMarkets-Live
+0	10:10:08.377	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 237.74 ms)
+0	10:10:17.316	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 237.74 ms)
+0	10:10:18.488	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:11:28.218	'27143750': auto connecting to a better access point Access Point #5 (ping is 281.20 ms)
+0	10:11:29.047	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 281.20 ms)
+0	10:11:32.506	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 281.20 ms)
+0	10:11:33.192	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:17:06.036	'27143750': login datacenter on AdmiralMarkets-Live
+0	10:17:07.589	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 299.49 ms)
+0	10:17:10.337	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 299.49 ms)
+0	10:17:11.102	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:23:07.391	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 307.08 ms)
+0	10:24:07.975	'27143750': login datacenter on AdmiralMarkets-Live
+0	10:24:22.072	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 331.25 ms)
+0	10:25:04.236	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 331.25 ms)
+0	10:25:23.238	'27143750': ping to current access point Access Point #6 is 272.79 ms
+0	10:26:03.916	'27143750': previous successful authorization performed from 154.126.99.196
+1	10:26:24.417	'27143750': datacenter connecting failed [6]
+0	10:26:25.741	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 277.89 ms)
+0	10:27:05.325	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 277.89 ms)
+0	10:27:07.097	'27143750': previous successful authorization performed from 154.126.99.196
+1	10:30:36.418	'27143750': datacenter connecting failed [6]
+0	10:30:37.522	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 322.13 ms)
+0	10:30:46.808	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 322.13 ms)
+0	10:30:49.766	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:32:01.345	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 336.50 ms)
+0	10:33:01.896	'27143750': login datacenter on AdmiralMarkets-Live
+0	10:33:09.055	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 352.20 ms)
+0	10:33:22.319	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 352.20 ms)
+0	10:33:23.495	'27143750': previous successful authorization performed from 154.126.99.196
+1	10:35:24.416	'27143750': datacenter connecting failed [6]
+0	10:35:26.276	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: 677.50 ms)
+0	10:35:57.076	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 677.50 ms)
+0	10:35:59.491	'27143750': previous successful authorization performed from 154.126.99.196
+1	10:38:20.418	'27143750': datacenter connecting failed [6]
+0	10:38:21.505	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 253.72 ms)
+0	10:38:30.309	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 253.72 ms)
+0	10:38:35.531	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:43:02.452	'27143750': login datacenter on AdmiralMarkets-Live
+1	10:43:02.877	'27143750': connect failed [Connection échouée]
+0	10:43:09.589	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	10:43:22.262	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	10:43:52.636	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:44:51.599	'27143750': ping to current access point Access Point #8 is 686.45 ms
+1	10:45:52.421	'27143750': datacenter connecting failed [6]
+0	10:45:54.460	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 225.35 ms)
+0	10:45:59.339	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 225.35 ms)
+0	10:46:00.011	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:47:04.306	'27143750': login datacenter on AdmiralMarkets-Live
+0	10:47:05.824	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 296.85 ms)
+0	10:48:15.469	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 279.77 ms)
+0	10:48:24.896	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 279.77 ms)
+0	10:48:25.674	'27143750': previous successful authorization performed from 154.126.99.196
+2	10:51:25.172	Expert Admiral - Mini Terminal GBPJPY,M1: removed
+2	10:51:25.173	Custom indicator AIMS Levels V2 GBPJPY,M1: removed
+2	10:51:25.173	Custom indicator AIMS Entry Alert V1 GBPJPY,M1: removed
+2	10:51:25.189	Custom indicator CandleTimer GBPJPY,M1: removed
+2	10:51:25.190	Custom indicator #Signal_Bars_v6 GBPJPY,M1: removed
+2	10:51:25.231	Custom indicator TrendEnvelopes_v1 GBPJPY,M1: removed
+2	10:51:25.233	Custom indicator guppy_multiple_moving_averages GBPJPY,M1: removed
+2	10:51:25.235	Custom indicator wedges GBPJPY,M1: removed
+2	10:51:25.237	Custom indicator Admiral Pivot GBPJPY,M1: removed
+2	10:51:25.265	Custom indicator AutoTrendChannel GBPJPY,M1: removed
+2	10:51:25.267	Custom indicator FRZ Channel Auto Plotter GBPJPY,M1: removed
+2	10:51:25.268	Custom indicator FRZ News Indicator MT4 GBPJPY,M1: removed
+2	10:51:25.270	Custom indicator Forex Uranus direction GBPJPY,M1: removed
+2	10:51:25.272	Custom indicator Quadrilateral GBPJPY,M1: removed
+2	10:51:25.272	Custom indicator AIMS AO V.2.1 GBPJPY,M1: removed
+2	10:51:25.291	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,M1: removed
+2	10:51:25.293	Custom indicator RSI Divergence Levels GBPJPY,M1: removed
+2	10:51:25.295	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,M1: removed
+2	10:51:25.306	Custom indicator TDI-With_Alerts GBPJPY,M1: removed
+2	10:51:25.308	Custom indicator FRZ Forex Market Session Indicator GBPJPY,M1: removed
+2	10:51:25.376	Custom indicator AIMS Levels V2 GBPJPY,M1: loaded successfully
+2	10:51:25.441	Custom indicator AIMS Entry Alert V1 GBPJPY,M1: loaded successfully
+2	10:51:25.447	Custom indicator CandleTimer GBPJPY,M1: loaded successfully
+2	10:51:25.514	Custom indicator #Signal_Bars_v6 GBPJPY,M1: loaded successfully
+2	10:51:25.521	Custom indicator TrendEnvelopes_v1 GBPJPY,M1: loaded successfully
+2	10:51:25.528	Custom indicator guppy_multiple_moving_averages GBPJPY,M1: loaded successfully
+2	10:51:25.536	Custom indicator wedges GBPJPY,M1: loaded successfully
+2	10:51:25.543	Custom indicator Admiral Pivot GBPJPY,M1: loaded successfully
+2	10:51:25.550	Custom indicator AutoTrendChannel GBPJPY,M1: loaded successfully
+2	10:51:25.557	Custom indicator FRZ Channel Auto Plotter GBPJPY,M1: loaded successfully
+2	10:51:25.565	Custom indicator FRZ News Indicator MT4 GBPJPY,M1: loaded successfully
+2	10:51:25.573	Custom indicator Forex Uranus direction GBPJPY,M1: loaded successfully
+2	10:51:25.580	Custom indicator Quadrilateral GBPJPY,M1: loaded successfully
+2	10:51:25.645	Custom indicator AIMS AO V.2.1 GBPJPY,M1: loaded successfully
+2	10:51:25.652	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,M1: loaded successfully
+2	10:51:25.660	Custom indicator RSI Divergence Levels GBPJPY,M1: loaded successfully
+2	10:51:25.668	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,M1: loaded successfully
+2	10:51:25.676	Custom indicator TDI-With_Alerts GBPJPY,M1: loaded successfully
+2	10:51:25.684	Custom indicator FRZ Forex Market Session Indicator GBPJPY,M1: loaded successfully
+0	10:53:15.293	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 314.80 ms)
+0	10:53:24.317	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 279.77 ms)
+0	10:53:32.970	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 279.77 ms)
+0	10:54:08.543	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:54:54.498	'27143750': order sell market 0.10 GBPJPY sl: 0.000 tp: 0.000
+1	10:54:55.892	'27143750': order sell 0.10 GBPJPY opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+1	10:55:28.437	'27143750': datacenter connecting failed [6]
+0	10:55:29.390	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 351.12 ms)
+0	10:55:41.521	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 351.12 ms)
+0	10:55:43.834	'27143750': previous successful authorization performed from 154.126.99.196
+0	10:58:16.748	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 376.65 ms)
+0	10:58:38.205	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 376.65 ms)
+0	10:58:40.788	'27143750': previous successful authorization performed from 154.126.99.196
+1	10:59:44.439	'27143750': datacenter connecting failed [6]
+0	10:59:49.625	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 725.19 ms)
+0	11:00:15.490	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 725.19 ms)
+0	11:00:19.803	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:01:11.921	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 314.80 ms)
+0	11:02:13.266	'27143750': login datacenter on AdmiralMarkets-Live
+0	11:02:25.635	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 725.19 ms)
+0	11:02:37.844	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 725.19 ms)
+0	11:02:39.357	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:05:21.584	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 725.19 ms)
+0	11:05:38.571	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 725.19 ms)
+0	11:05:39.909	'27143750': previous successful authorization performed from 154.126.99.196
+2	11:06:27.987	Custom indicator AIMS Levels V2 GBPNZD,H1: removed
+2	11:06:27.988	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: removed
+2	11:06:27.989	Custom indicator CandleTimer GBPNZD,H1: removed
+2	11:06:27.989	Custom indicator #Signal_Bars_v6 GBPNZD,H1: removed
+2	11:06:27.999	Custom indicator TrendEnvelopes_v1 GBPNZD,H1: removed
+2	11:06:28.005	Custom indicator guppy_multiple_moving_averages GBPNZD,H1: removed
+2	11:06:28.007	Custom indicator wedges GBPNZD,H1: removed
+2	11:06:28.015	Custom indicator Admiral Pivot GBPNZD,H1: removed
+2	11:06:28.021	Custom indicator AutoTrendChannel GBPNZD,H1: removed
+2	11:06:28.031	Custom indicator FRZ Channel Auto Plotter GBPNZD,H1: removed
+2	11:06:28.036	Custom indicator FRZ News Indicator MT4 GBPNZD,H1: removed
+2	11:06:28.041	Custom indicator Forex Uranus direction GBPNZD,H1: removed
+2	11:06:28.046	Custom indicator Quadrilateral GBPNZD,H1: removed
+2	11:06:28.046	Custom indicator AIMS AO V.2.1 GBPNZD,H1: removed
+2	11:06:28.048	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: removed
+2	11:06:28.048	Custom indicator RSI Divergence Levels GBPNZD,H1: removed
+2	11:06:28.054	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,H1: removed
+2	11:06:28.056	Custom indicator TDI-With_Alerts GBPNZD,H1: removed
+2	11:06:28.056	Custom indicator FRZ Forex Market Session Indicator GBPNZD,H1: removed
+2	11:06:40.199	Custom indicator AIMS Levels V2 EURAUD,M15: removed
+2	11:06:40.199	Custom indicator AIMS Entry Alert V1 EURAUD,M15: removed
+2	11:06:40.201	Custom indicator CandleTimer EURAUD,M15: removed
+2	11:06:40.201	Custom indicator #Signal_Bars_v6 EURAUD,M15: removed
+2	11:06:40.203	Custom indicator TrendEnvelopes_v1 EURAUD,M15: removed
+2	11:06:40.203	Custom indicator guppy_multiple_moving_averages EURAUD,M15: removed
+2	11:06:40.203	Custom indicator wedges EURAUD,M15: removed
+2	11:06:40.208	Custom indicator Admiral Pivot EURAUD,M15: removed
+2	11:06:40.208	Custom indicator AutoTrendChannel EURAUD,M15: removed
+2	11:06:40.213	Custom indicator FRZ Channel Auto Plotter EURAUD,M15: removed
+2	11:06:40.214	Custom indicator FRZ News Indicator MT4 EURAUD,M15: removed
+2	11:06:40.218	Custom indicator Forex Uranus direction EURAUD,M15: removed
+2	11:06:40.219	Custom indicator Quadrilateral EURAUD,M15: removed
+2	11:06:40.219	Custom indicator AIMS AO V.2.1 EURAUD,M15: removed
+2	11:06:40.219	Custom indicator IVT_MACD_ZERO_LAG EURAUD,M15: removed
+2	11:06:40.570	Custom indicator RSI Divergence Levels EURAUD,M15: removed
+2	11:06:40.579	Custom indicator JoeChalhoub_FXForecasterV1 EURAUD,M15: removed
+2	11:06:40.588	Custom indicator TDI-With_Alerts EURAUD,M15: removed
+2	11:06:40.594	Custom indicator FRZ Forex Market Session Indicator EURAUD,M15: removed
+2	11:06:49.981	Custom indicator AIMS Levels V2 EURUSD,M15: removed
+2	11:06:49.981	Custom indicator AIMS Entry Alert V1 EURUSD,M15: removed
+2	11:06:49.983	Custom indicator CandleTimer EURUSD,M15: removed
+2	11:06:49.983	Custom indicator #Signal_Bars_v6 EURUSD,M15: removed
+2	11:06:49.986	Custom indicator TrendEnvelopes_v1 EURUSD,M15: removed
+2	11:06:49.987	Custom indicator guppy_multiple_moving_averages EURUSD,M15: removed
+2	11:06:49.992	Custom indicator wedges EURUSD,M15: removed
+2	11:06:49.994	Custom indicator Admiral Pivot EURUSD,M15: removed
+2	11:06:49.995	Custom indicator AutoTrendChannel EURUSD,M15: removed
+2	11:06:50.000	Custom indicator FRZ Channel Auto Plotter EURUSD,M15: removed
+2	11:06:50.000	Custom indicator FRZ News Indicator MT4 EURUSD,M15: removed
+2	11:06:50.005	Custom indicator Forex Uranus direction EURUSD,M15: removed
+2	11:06:50.009	Custom indicator Quadrilateral EURUSD,M15: removed
+2	11:06:50.009	Custom indicator AIMS AO V.2.1 EURUSD,M15: removed
+2	11:06:50.012	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M15: removed
+2	11:06:50.012	Custom indicator RSI Divergence Levels EURUSD,M15: removed
+2	11:06:50.017	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,M15: removed
+2	11:06:50.023	Custom indicator TDI-With_Alerts EURUSD,M15: removed
+2	11:06:50.027	Custom indicator FRZ Forex Market Session Indicator EURUSD,M15: removed
+2	11:06:58.070	Custom indicator AIMS Levels V2 GBPAUD,M15: removed
+2	11:06:58.070	Custom indicator AIMS Entry Alert V1 GBPAUD,M15: removed
+2	11:06:58.072	Custom indicator CandleTimer GBPAUD,M15: removed
+2	11:06:58.072	Custom indicator #Signal_Bars_v6 GBPAUD,M15: removed
+2	11:06:58.075	Custom indicator TrendEnvelopes_v1 GBPAUD,M15: removed
+2	11:06:58.078	Custom indicator guppy_multiple_moving_averages GBPAUD,M15: removed
+2	11:06:58.080	Custom indicator wedges GBPAUD,M15: removed
+2	11:06:58.080	Custom indicator Admiral Pivot GBPAUD,M15: removed
+2	11:06:58.205	Custom indicator AutoTrendChannel GBPAUD,M15: removed
+2	11:06:58.211	Custom indicator FRZ Channel Auto Plotter GBPAUD,M15: removed
+2	11:06:58.217	Custom indicator FRZ News Indicator MT4 GBPAUD,M15: removed
+2	11:06:58.219	Custom indicator Forex Uranus direction GBPAUD,M15: removed
+2	11:06:58.220	Custom indicator Quadrilateral GBPAUD,M15: removed
+2	11:06:58.220	Custom indicator AIMS AO V.2.1 GBPAUD,M15: removed
+2	11:06:58.228	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,M15: removed
+2	11:06:58.231	Custom indicator RSI Divergence Levels GBPAUD,M15: removed
+2	11:06:58.232	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,M15: removed
+2	11:06:58.242	Custom indicator TDI-With_Alerts GBPAUD,M15: removed
+2	11:06:58.249	Custom indicator FRZ Forex Market Session Indicator GBPAUD,M15: removed
+1	11:08:22.632	'27143750': datacenter connecting failed [6]
+1	11:08:22.742	'27143750': connect failed [Connection échouée]
+0	11:08:29.652	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:08:40.579	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:08:41.900	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:09:43.807	'27143750': ping to current access point Access Point #8 is 578.85 ms
+1	11:10:01.495	'27143750': datacenter connecting failed [6]
+0	11:10:02.607	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 224.57 ms)
+0	11:10:08.696	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 224.57 ms)
+0	11:10:09.362	'27143750': previous successful authorization performed from 154.126.99.196
+1	11:11:19.478	'27143750': datacenter connecting failed [6]
+0	11:11:20.749	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 231.01 ms)
+0	11:11:41.880	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 231.01 ms)
+0	11:11:43.616	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:18:11.402	'27143750': login datacenter on AdmiralMarkets-Live
+0	11:18:16.446	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 250.44 ms)
+0	11:18:23.690	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 250.44 ms)
+0	11:18:28.297	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:18:49.586	'27143750': order sell market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	11:18:52.154	'27143750': order was opened : #74855054 sell 0.20 [DJI30] at 30046.90 sl: 0.00 tp: 0.00
+2	11:19:11.059	Expert Admiral - Mini Terminal [DJI30],M5: removed
+2	11:19:14.999	Expert Admiral - Mini Terminal [DJI30],M5: loaded successfully
+0	11:29:18.936	'27143750': login datacenter on AdmiralMarkets-Live
+0	11:29:29.064	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 319.54 ms)
+0	11:29:36.241	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 319.54 ms)
+0	11:29:41.341	'27143750': previous successful authorization performed from 154.126.99.196
+1	11:30:40.497	'27143750': datacenter connecting failed [6]
+0	11:30:41.755	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 331.79 ms)
+0	11:30:44.542	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 331.79 ms)
+0	11:30:46.076	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:37:01.148	'27143750': close order #74855054 sell 0.10 [DJI30] at 30046.90 sl: 0.00 tp: 0.00 at price 0.00
+0	11:37:02.796	'27143750': order #74855054 sell 0.10 [DJI30] at 30046.90 sl: 0.00 tp: 0.00 closed at price 30099.39
+0	11:37:02.796	'27143750': remainder of order #74855054 was opened : #74856947 sell 0.10 [DJI30] at 30046.90 sl: 0.00 tp: 0.00
+0	11:40:09.553	'27143750': close order #74856947 sell 0.10 [DJI30] at 30046.90 sl: 0.00 tp: 0.00 at price 0.00
+0	11:40:11.118	'27143750': order #74856947 sell 0.10 [DJI30] at 30046.90 sl: 0.00 tp: 0.00 closed at price 30071.90
+0	11:40:11.120	'27143750': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	11:40:11.869	'27143750': order was opened : #74857329 buy 0.10 [DJI30] at 30073.40 sl: 0.00 tp: 0.00
+1	11:40:47.247	'27143750': datacenter connecting failed [6]
+0	11:40:48.551	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 331.79 ms)
+0	11:40:58.424	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 331.79 ms)
+0	11:40:59.451	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:45:20.283	'27143750': close order #74857329 buy 0.10 [DJI30] at 30073.40 sl: 0.00 tp: 0.00 at price 0.00
+0	11:45:22.002	'27143750': order #74857329 buy 0.10 [DJI30] at 30073.40 sl: 0.00 tp: 0.00 closed at price 30052.91
+0	11:45:22.006	'27143750': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	11:45:22.723	'27143750': order was opened : #74857868 sell 0.10 [DJI30] at 30052.91 sl: 0.00 tp: 0.00
+0	11:48:31.583	'27143750': login datacenter on AdmiralMarkets-Live
+0	11:48:34.453	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 599.48 ms)
+0	11:48:43.004	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 599.48 ms)
+0	11:48:44.554	'27143750': previous successful authorization performed from 154.126.99.196
+1	11:52:26.546	'27143750': datacenter connecting failed [6]
+0	11:52:27.905	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 362.74 ms)
+0	11:52:38.417	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 362.74 ms)
+0	11:53:02.611	'27143750': previous successful authorization performed from 154.126.9.120
+1	11:56:51.896	'27143750': datacenter connecting failed [6]
+1	11:56:52.077	'27143750': connect failed [Connection échouée]
+0	11:57:02.323	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:57:27.898	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	11:57:37.526	'27143750': previous successful authorization performed from 154.126.99.196
+0	11:58:15.719	'27143750': ping to current access point Access Point #8 is 695.03 ms
+1	12:01:17.545	'27143750': datacenter connecting failed [6]
+0	12:01:20.189	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 307.06 ms)
+0	12:01:37.852	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 307.06 ms)
+0	12:01:40.105	'27143750': previous successful authorization performed from 154.126.10.94
+1	12:02:50.726	'27143750': datacenter connecting failed [6]
+0	12:02:55.192	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 348.58 ms)
+0	12:03:08.278	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 348.58 ms)
+0	12:03:09.602	'27143750': previous successful authorization performed from 154.126.99.196
+1	12:09:33.620	'27143750': datacenter connecting failed [6]
+1	12:09:34.312	'27143750': connect failed [Connection échouée]
+0	12:10:06.923	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	12:10:34.643	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	12:10:36.276	'27143750': previous successful authorization performed from 154.126.99.196
+0	12:11:27.784	'27143750': ping to current access point Access Point #8 is 822.73 ms
+0	12:15:54.357	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 287.28 ms)
+0	12:15:58.903	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 287.28 ms)
+0	12:15:59.959	'27143750': previous successful authorization performed from 154.126.99.196
+0	12:17:32.994	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 307.22 ms)
+0	12:17:36.998	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 307.22 ms)
+0	12:17:38.707	'27143750': previous successful authorization performed from 154.126.99.196
+0	12:21:13.709	'27143750': login datacenter on AdmiralMarkets-Live
+0	12:21:16.719	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 350.59 ms)
+0	12:21:23.694	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 350.59 ms)
+0	12:21:24.768	'27143750': previous successful authorization performed from 154.126.99.196
+0	12:52:20.904	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 350.59 ms)
+0	12:52:50.851	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 350.59 ms)
+0	12:52:51.790	'27143750': previous successful authorization performed from 154.126.99.196
+1	12:56:51.431	'27143750': ping failed
+1	12:56:51.436	'27143750': datacenter connecting failed [6]
+0	12:56:52.764	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 395.29 ms)
+0	12:56:59.471	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 395.29 ms)
+0	12:57:01.318	'27143750': previous successful authorization performed from 154.126.98.9
+0	13:28:27.749	'27143750': close order #74857868 sell 0.10 [DJI30] at 30052.91 sl: 0.00 tp: 0.00 at price 0.00
+0	13:28:29.214	'27143750': order #74857868 sell 0.10 [DJI30] at 30052.91 sl: 0.00 tp: 0.00 closed at price 30014.93
+0	13:28:29.215	'27143750': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	13:28:30.747	'27143750': order was opened : #74866155 buy 0.10 [DJI30] at 30014.93 sl: 0.00 tp: 0.00
+0	13:30:15.915	'27143750': close order #74866155 buy 0.10 [DJI30] at 30014.93 sl: 0.00 tp: 0.00 at price 0.00
+0	13:30:26.445	'27143750': order #74866155 buy 0.10 [DJI30] at 30014.93 sl: 0.00 tp: 0.00 closed at price 29999.43
+0	13:30:26.446	'27143750': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	13:30:27.222	'27143750': order was opened : #74866299 sell 0.10 [DJI30] at 30002.43 sl: 0.00 tp: 0.00
+0	14:40:15.007	'27143750': close order #74866299 sell 0.10 [DJI30] at 30002.43 sl: 0.00 tp: 0.00 at price 0.00
+0	14:40:15.594	'27143750': order #74866299 sell 0.10 [DJI30] at 30002.43 sl: 0.00 tp: 0.00 closed at price 29981.45
+0	14:40:15.594	'27143750': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	14:40:16.167	'27143750': order was opened : #74870537 buy 0.10 [DJI30] at 29981.45 sl: 0.00 tp: 0.00
+0	15:45:07.939	'27143750': close order #74870537 buy 0.10 [DJI30] at 29981.45 sl: 0.00 tp: 0.00 at price 0.00
+0	15:45:08.557	'27143750': order #74870537 buy 0.10 [DJI30] at 29981.45 sl: 0.00 tp: 0.00 closed at price 29993.98
+0	15:45:08.638	'27143750': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	15:45:09.376	'27143750': order was opened : #74873003 sell 0.10 [DJI30] at 29993.98 sl: 0.00 tp: 0.00
+0	16:15:11.745	'27143750': close order #74873003 sell 0.10 [DJI30] at 29993.98 sl: 0.00 tp: 0.00 at price 0.00
+0	16:15:12.367	'27143750': order #74873003 sell 0.10 [DJI30] at 29993.98 sl: 0.00 tp: 0.00 closed at price 30000.94
+0	16:15:12.462	'27143750': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	16:15:13.059	'27143750': order was opened : #74874692 buy 0.10 [DJI30] at 30000.94 sl: 0.00 tp: 0.00
+0	16:18:15.496	'27143750': close order #74874692 buy 0.10 [DJI30] at 30000.94 sl: 0.00 tp: 0.00 at price 0.00
+0	16:18:16.724	'27143750': order #74874692 buy 0.10 [DJI30] at 30000.94 sl: 0.00 tp: 0.00 closed at price 29972.95
+0	16:18:16.724	'27143750': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	16:18:18.276	'27143750': order was opened : #74874841 sell 0.10 [DJI30] at 29969.95 sl: 0.00 tp: 0.00
+1	16:32:07.607	'27143750': datacenter connecting failed [6]
+0	16:32:08.766	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 412.60 ms)
+1	16:33:01.114	'27143750': datacenter connecting failed [6]
+0	16:33:01.623	'27143750': previous successful authorization performed from 154.126.98.9
+0	16:33:24.007	'27143750': auto connecting to a better access point Access Point #3 (ping is 281.74 ms)
+0	16:33:24.982	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 281.74 ms)
+0	16:33:34.901	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 281.74 ms)
+0	16:33:36.461	'27143750': previous successful authorization performed from 154.126.98.9
+0	16:36:44.843	'27143750': close order #74874841 sell 0.10 [DJI30] at 29969.95 sl: 0.00 tp: 0.00 at price 0.00
+0	16:36:45.433	'27143750': order #74874841 sell 0.10 [DJI30] at 29969.95 sl: 0.00 tp: 0.00 closed at price 29988.95
+0	16:36:45.433	'27143750': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	16:36:47.235	'27143750': order was opened : #74876140 buy 0.10 [DJI30] at 29988.95 sl: 0.00 tp: 0.00
+1	16:44:28.607	'27143750': datacenter connecting failed [6]
+0	16:44:29.705	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 285.30 ms)
+0	16:44:34.357	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 285.30 ms)
+0	16:44:35.140	'27143750': previous successful authorization performed from 154.126.98.9
+0	16:55:42.346	'27143750': close order #74876140 buy 0.10 [DJI30] at 29988.95 sl: 0.00 tp: 0.00 at price 0.00
+0	16:55:44.156	'27143750': order #74876140 buy 0.10 [DJI30] at 29988.95 sl: 0.00 tp: 0.00 closed at price 29985.45
+0	16:55:44.156	'27143750': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	16:55:44.845	'27143750': order was opened : #74876974 sell 0.10 [DJI30] at 29985.95 sl: 0.00 tp: 0.00
+0	17:15:15.608	'27143750': close order #74876974 sell 0.10 [DJI30] at 29985.95 sl: 0.00 tp: 0.00 at price 0.00
+0	17:15:16.751	'27143750': order #74876974 sell 0.10 [DJI30] at 29985.95 sl: 0.00 tp: 0.00 closed at price 30004.46
+0	17:15:16.751	'27143750': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	17:15:17.374	'27143750': order was opened : #74877795 buy 0.10 [DJI30] at 30004.96 sl: 0.00 tp: 0.00
+1	17:29:28.609	'27143750': datacenter connecting failed [6]
+0	17:29:29.643	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 306.29 ms)
+0	17:29:33.080	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 306.29 ms)
+0	17:29:34.355	'27143750': previous successful authorization performed from 154.126.9.10
+0	17:35:12.468	'27143750': close order #74877795 buy 0.10 [DJI30] at 30004.96 sl: 0.00 tp: 0.00 at price 0.00
+0	17:35:13.065	'27143750': order #74877795 buy 0.10 [DJI30] at 30004.96 sl: 0.00 tp: 0.00 closed at price 29947.22
+0	17:35:13.065	'27143750': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	17:35:14.189	'27143750': order was opened : #74879565 sell 0.10 [DJI30] at 29949.22 sl: 0.00 tp: 0.00
+1	18:00:00.280	'27143750': connect failed [Connection échouée]
+0	18:00:46.582	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 306.29 ms)
+0	18:00:53.283	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 306.29 ms)
+0	18:00:53.959	'27143750': previous successful authorization performed from 154.126.9.10
+0	18:01:15.475	'27143750': auto connecting to a better access point Access Point #4 (ping is 202.12 ms)
+0	18:01:16.306	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 202.12 ms)
+0	18:01:21.864	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 202.12 ms)
+0	18:01:23.700	'27143750': previous successful authorization performed from 154.126.98.9
+1	18:05:59.743	'27143750': datacenter connecting failed [6]
+0	18:06:00.562	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 211.74 ms)
+0	18:06:09.321	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 211.74 ms)
+0	18:06:14.153	'27143750': previous successful authorization performed from 154.126.11.16
+0	18:09:21.774	'27143750': order sell market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	18:09:23.034	'27143750': order was opened : #74886618 sell 0.20 [DJI30] at 29856.95 sl: 0.00 tp: 0.00
+1	18:11:29.608	'27143750': datacenter connecting failed [6]
+0	18:11:31.040	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 231.69 ms)
+0	18:11:37.576	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 231.69 ms)
+0	18:11:41.183	'27143750': previous successful authorization performed from 154.126.98.9
+1	18:22:25.362	'27143750': datacenter connecting failed [6]
+0	18:22:26.311	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 264.51 ms)
+0	18:22:30.617	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 264.51 ms)
+0	18:22:31.381	'27143750': previous successful authorization performed from 154.126.98.9
+1	18:26:18.606	'27143750': datacenter connecting failed [6]
+0	18:26:19.922	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 269.16 ms)
+0	18:26:25.661	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 269.16 ms)
+0	18:26:26.460	'27143750': previous successful authorization performed from 154.126.98.9
+0	18:35:08.358	'27143750': close order #74886618 sell 0.20 [DJI30] at 29856.95 sl: 0.00 tp: 0.00 at price 0.00
+0	18:35:13.964	'27143750': order #74886618 sell 0.20 [DJI30] at 29856.95 sl: 0.00 tp: 0.00 closed at price 29907.24
+0	18:35:13.964	'27143750': order buy market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	18:35:14.919	'27143750': order was opened : #74888342 buy 0.20 [DJI30] at 29908.24 sl: 0.00 tp: 0.00
+1	18:40:05.632	'27143750': datacenter connecting failed [6]
+0	18:40:08.516	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 588.12 ms)
+0	18:40:22.653	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 588.12 ms)
+0	18:40:34.335	'27143750': previous successful authorization performed from 154.126.98.9
+1	18:43:43.607	'27143750': datacenter connecting failed [6]
+0	18:43:55.195	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: 720.34 ms)
+0	18:44:10.020	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 720.34 ms)
+0	18:44:11.355	'27143750': previous successful authorization performed from 154.126.98.9
+0	18:48:28.000	'27143750': close order #74888342 buy 0.20 [DJI30] at 29908.24 sl: 0.00 tp: 0.00 at price 0.00
+0	18:48:29.017	'27143750': order #74888342 buy 0.20 [DJI30] at 29908.24 sl: 0.00 tp: 0.00 closed at price 29901.92
+0	18:48:29.017	'27143750': order sell market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	18:48:29.998	'27143750': order was opened : #74889730 sell 0.20 [DJI30] at 29900.43 sl: 0.00 tp: 0.00
+1	18:49:10.605	'27143750': datacenter connecting failed [6]
+0	18:49:12.673	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 208.65 ms)
+0	18:49:17.293	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 208.65 ms)
+0	18:49:19.290	'27143750': previous successful authorization performed from 154.126.98.9
+0	18:50:23.033	'27143750': close order #74889730 sell 0.20 [DJI30] at 29900.43 sl: 0.00 tp: 0.00 at price 0.00
+0	18:50:25.501	'27143750': order #74889730 sell 0.20 [DJI30] at 29900.43 sl: 0.00 tp: 0.00 closed at price 29911.95
+0	18:50:25.501	'27143750': order buy market 0.20 [DJI30] sl: 0.00 tp: 0.00
+0	18:50:29.483	'27143750': order was opened : #74889884 buy 0.20 [DJI30] at 29911.95 sl: 0.00 tp: 0.00
+0	18:53:57.893	'27143750': login on AdmiralMarkets-Live through Access Point #2 (ping: 208.65 ms)
+0	18:54:00.449	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #2 (ping: 208.65 ms)
+0	18:54:01.624	'27143750': previous successful authorization performed from 154.126.98.9
+1	18:56:20.023	'27143750': datacenter connecting failed [6]
+1	18:56:20.102	'27143750': connect failed [Connection échouée]
+0	18:56:30.459	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	18:56:35.441	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	18:56:38.201	'27143750': previous successful authorization performed from 154.126.98.9
+0	18:57:28.554	'27143750': ping to current access point Access Point #8 is 809.41 ms
+1	19:10:05.611	'27143750': datacenter connecting failed [6]
+0	19:10:07.056	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 226.11 ms)
+0	19:10:12.331	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 226.11 ms)
+0	19:10:14.803	'27143750': previous successful authorization performed from 154.126.98.9
+1	19:13:15.744	'27143750': datacenter connecting failed [6]
+0	19:13:16.689	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 233.72 ms)
+1	19:13:27.526	'27143750': datacenter connecting failed [6]
+0	19:13:30.234	'27143750': previous successful authorization performed from 154.126.98.9
+1	19:21:40.351	'27143750': connect failed [Connection échouée]
+0	19:21:49.666	'27143750': login on AdmiralMarkets-Live through Access Point #1 (ping: 233.72 ms)
+0	19:21:54.190	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 233.72 ms)
+0	19:21:56.172	'27143750': previous successful authorization performed from 154.126.98.9
+1	19:27:31.613	'27143750': datacenter connecting failed [6]
+1	19:27:34.954	'27143750': connect failed [Connection échouée]
+0	19:27:42.217	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: 306.26 ms)
+0	19:28:43.926	'27143750': login datacenter on AdmiralMarkets-Live
+0	19:28:52.703	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 651.48 ms)
+0	19:29:05.599	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 651.48 ms)
+0	19:29:07.738	'27143750': previous successful authorization performed from 154.126.98.9
+0	19:30:02.048	'27143750': ping to current access point Access Point #7 is 1312.88 ms
+1	19:41:31.644	'27143750': datacenter connecting failed [6]
+0	19:41:35.149	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 221.71 ms)
+0	19:42:04.949	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 221.71 ms)
+0	19:42:16.143	'27143750': previous successful authorization performed from 154.126.98.9
+0	19:42:35.080	'27143750': close order #74889884 buy 0.20 [DJI30] at 29911.95 sl: 0.00 tp: 0.00 at price 0.00
+0	19:42:37.694	'27143750': order #74889884 buy 0.20 [DJI30] at 29911.95 sl: 0.00 tp: 0.00 closed at price 29818.09
+0	19:42:54.365	'27143750': close order #74810486 sell 0.03 GBPUSD at 1.32944 sl: 1.34250 tp: 1.31070 at price 0.00000
+0	19:42:56.502	'27143750': order #74810486 sell 0.03 GBPUSD at 1.32944 sl: 1.34250 tp: 1.31070 closed at price 1.33803
+1	19:44:52.605	'27143750': datacenter connecting failed [6]
+0	19:45:03.546	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 230.85 ms)
+0	19:45:10.288	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 230.85 ms)
+0	19:45:11.163	'27143750': previous successful authorization performed from 154.126.98.9
+1	20:00:39.603	'27143750': datacenter connecting failed [6]
+1	20:00:49.378	'27143750': connect failed [Connection échouée]
+0	20:00:55.492	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 297.93 ms)
+0	20:00:59.267	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 297.93 ms)
+0	20:00:59.879	'27143750': previous successful authorization performed from 154.126.33.56
+1	20:27:01.616	'27143750': datacenter connecting failed [6]
+0	20:27:36.768	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: 1382.27 ms)
+0	20:28:43.407	'27143750': login on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	20:28:45.269	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: n/a)
+0	20:28:45.991	'27143750': previous successful authorization performed from 154.126.98.9
+0	20:29:39.240	'27143750': ping to current access point Access Point #5 is 253.34 ms
+1	20:34:29.607	'27143750': connect failed [Connection échouée]
+0	20:34:43.225	'27143750': login on AdmiralMarkets-Live through Access Point #7 (ping: 701.13 ms)
+0	20:34:56.733	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #7 (ping: 701.13 ms)
+0	20:34:58.159	'27143750': previous successful authorization performed from 154.126.98.9
+1	20:40:17.493	'27143750': datacenter connecting failed [6]
+0	20:40:22.114	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: 791.10 ms)
+0	20:40:29.396	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 791.10 ms)
+0	20:40:35.005	'27143750': previous successful authorization performed from 154.126.98.9
+1	20:46:40.609	'27143750': datacenter connecting failed [6]
+1	20:47:41.602	'27143750': connect failed [Connection échouée]
+0	20:48:21.918	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	20:49:27.855	'27143750': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	20:49:36.395	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	20:49:38.357	'27143750': previous successful authorization performed from 154.126.98.9
+0	20:50:27.696	'27143750': ping to current access point Access Point #8 is 845.21 ms
+1	20:58:46.609	'27143750': datacenter connecting failed [6]
+0	20:58:48.691	'27143750': login on AdmiralMarkets-Live through Access Point #6 (ping: 231.29 ms)
+0	20:58:59.611	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 231.29 ms)
+0	20:59:03.653	'27143750': previous successful authorization performed from 154.126.98.9
+1	21:14:22.606	'27143750': datacenter connecting failed [6]
+0	21:14:25.239	'27143750': login on AdmiralMarkets-Live through Access Point #4 (ping: 246.20 ms)
+0	21:14:28.499	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 246.20 ms)
+0	21:14:29.162	'27143750': previous successful authorization performed from 154.126.98.9
+0	21:17:01.190	'27143750': login on AdmiralMarkets-Live through Access Point #3 (ping: 256.33 ms)
+0	21:17:05.336	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #3 (ping: 256.33 ms)
+0	21:17:06.946	'27143750': previous successful authorization performed from 154.126.98.9
+0	22:51:47.964	'27143750': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	22:51:48.528	'27143750': order was opened : #74899432 sell 1.00 [DJI30] at 29839.75 sl: 0.00 tp: 0.00
+0	22:51:56.958	'27143750': modify order #74899432 sell 1.00 [DJI30] at 29839.75 sl: 0.00 tp: 0.00 -> sl: 29852.86 tp: 0.00
+0	22:51:57.277	'27143750': order #74899432 sell 1.00 [DJI30] at 29839.75 was modified -> sl: 29852.86 tp: 0.00
+0	22:54:58.791	'27143750': order #74899432 sell 1.00 [DJI30] at 29839.75 closed due stop-loss at price 29852.25
+0	22:56:00.115	'27143750': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	22:56:00.656	'27143750': order was opened : #74899559 buy 1.00 [DJI30] at 29854.75 sl: 0.00 tp: 0.00
+0	22:56:14.273	'27143750': modify order #74899559 buy 1.00 [DJI30] at 29854.75 sl: 0.00 tp: 0.00 -> sl: 29823.25 tp: 0.00
+0	22:56:15.172	'27143750': order #74899559 buy 1.00 [DJI30] at 29854.75 was modified -> sl: 29823.25 tp: 0.00
+0	23:04:32.338	'27143750': close order #74899559 buy 1.00 [DJI30] at 29854.75 sl: 29823.25 tp: 0.00 at price 0.00
+0	23:04:32.892	'27143750': order #74899559 buy 1.00 [DJI30] at 29854.75 sl: 29823.25 tp: 0.00 closed at price 29866.25
+0	23:04:56.848	'27143750': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	23:04:57.378	'27143750': order was opened : #74899847 buy 1.00 [DJI30] at 29860.25 sl: 0.00 tp: 0.00
+0	23:05:13.635	'27143750': modify order #74899847 buy 1.00 [DJI30] at 29860.25 sl: 0.00 tp: 0.00 -> sl: 29834.39 tp: 0.00
+0	23:05:13.974	'27143750': order #74899847 buy 1.00 [DJI30] at 29860.25 was modified -> sl: 29834.39 tp: 0.00
+1	23:07:29.966	'27143750': modification of order #74899847 buy 1.00 [DJI30] at 29860.25 sl: 29834.39 tp: 0.00 -> sl: 29861.07 tp: 0.00 failed [Invalid S/L or T/P]
+0	23:10:34.228	'27143750': modify order #74899847 buy 1.00 [DJI30] at 29860.25 sl: 29834.39 tp: 0.00 -> sl: 29832.04 tp: 0.00
+0	23:10:34.549	'27143750': order #74899847 buy 1.00 [DJI30] at 29860.25 was modified -> sl: 29832.04 tp: 0.00
+0	23:10:41.705	'27143750': modify order #74899847 buy 1.00 [DJI30] at 29860.25 sl: 29832.04 tp: 0.00 -> sl: 29873.97 tp: 0.00
+0	23:10:42.034	'27143750': order #74899847 buy 1.00 [DJI30] at 29860.25 was modified -> sl: 29873.97 tp: 0.00
+0	23:11:14.909	'27143750': modify order #74899847 buy 1.00 [DJI30] at 29860.25 sl: 29873.97 tp: 0.00 -> sl: 29886.28 tp: 0.00
+0	23:11:15.238	'27143750': order #74899847 buy 1.00 [DJI30] at 29860.25 was modified -> sl: 29886.28 tp: 0.00
+0	23:11:20.637	'27143750': modify order #74899847 buy 1.00 [DJI30] at 29860.25 sl: 29886.28 tp: 0.00 -> sl: 29890.39 tp: 0.00
+0	23:11:20.962	'27143750': order #74899847 buy 1.00 [DJI30] at 29860.25 was modified -> sl: 29890.39 tp: 0.00
+0	23:11:24.873	'27143750': order #74899847 buy 1.00 [DJI30] at 29860.25 closed due stop-loss at price 29890.25
+0	23:12:40.258	'27143750': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	23:12:41.268	'27143750': order was opened : #74900098 buy 1.00 [DJI30] at 29894.75 sl: 0.00 tp: 0.00
+0	23:12:55.375	'27143750': modify order #74900098 buy 1.00 [DJI30] at 29894.75 sl: 0.00 tp: 0.00 -> sl: 29894.20 tp: 0.00
+0	23:12:55.687	'27143750': order #74900098 buy 1.00 [DJI30] at 29894.75 was modified -> sl: 29894.20 tp: 0.00
+0	23:12:57.071	'27143750': order #74900098 buy 1.00 [DJI30] at 29894.75 closed due stop-loss at price 29893.75
+0	23:13:05.984	'27143750': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	23:13:06.474	'27143750': order was opened : #74900113 buy 1.00 [DJI30] at 29892.75 sl: 0.00 tp: 0.00
+1	23:13:26.585	'27143750': modification of order #74900113 buy 1.00 [DJI30] at 29892.75 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 29894.20 failed [Invalid S/L or T/P]
+0	23:13:31.162	'27143750': modify order #74900113 buy 1.00 [DJI30] at 29892.75 sl: 0.00 tp: 0.00 -> sl: 29892.15 tp: 0.00
+0	23:13:31.467	'27143750': order #74900113 buy 1.00 [DJI30] at 29892.75 was modified -> sl: 29892.15 tp: 0.00
+0	23:13:34.831	'27143750': modify order #74900113 buy 1.00 [DJI30] at 29892.75 sl: 29892.15 tp: 0.00 -> sl: 29900.36 tp: 0.00
+0	23:13:35.158	'27143750': order #74900113 buy 1.00 [DJI30] at 29892.75 was modified -> sl: 29900.36 tp: 0.00
+0	23:13:40.631	'27143750': order #74900113 buy 1.00 [DJI30] at 29892.75 closed due stop-loss at price 29900.25
+0	23:14:04.193	'27143750': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	23:14:04.808	'27143750': order was opened : #74900155 buy 1.00 [DJI30] at 29900.25 sl: 0.00 tp: 0.00
+0	23:14:15.198	'27143750': modify order #74900155 buy 1.00 [DJI30] at 29900.25 sl: 0.00 tp: 0.00 -> sl: 29881.88 tp: 0.00
+0	23:14:15.517	'27143750': order #74900155 buy 1.00 [DJI30] at 29900.25 was modified -> sl: 29881.88 tp: 0.00
+1	23:15:27.465	'27143750': modification of order #74900155 buy 1.00 [DJI30] at 29900.25 sl: 29881.88 tp: 0.00 -> sl: 29900.94 tp: 0.00 failed [Invalid S/L or T/P]
+0	23:16:30.770	'27143750': order #74900155 buy 1.00 [DJI30] at 29900.25 closed due stop-loss at price 29881.75
+0	23:17:21.392	'27143750': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	23:17:21.947	'27143750': order was opened : #74900260 sell 1.00 [DJI30] at 29878.25 sl: 0.00 tp: 0.00
+0	23:17:33.042	'27143750': modify order #74900260 sell 1.00 [DJI30] at 29878.25 sl: 0.00 tp: 0.00 -> sl: 29903.87 tp: 0.00
+0	23:17:34.406	'27143750': order #74900260 sell 1.00 [DJI30] at 29878.25 was modified -> sl: 29903.87 tp: 0.00

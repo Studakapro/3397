@@ -1,0 +1,636 @@
+0	07:26:29.385	Admiral Markets build 1330 started (Admiral Markets Group AS)
+0	07:26:29.386	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 2921 / 8014 Mb, Disk: 54 / 197 Gb, GMT+3
+0	07:26:29.386	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	07:26:40.181	Custom indicator breakout-zones\breakout-zones SILVER,H1: loaded successfully
+2	07:26:40.219	Custom indicator PositionSizeCalculator\PositionSizeCalculator SILVER,H1: loaded successfully
+2	07:26:40.673	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	07:26:40.744	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	07:26:40.744	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	07:26:40.836	Custom indicator #Signal_Bars_v6 [DAX30],M1: loaded successfully
+2	07:26:40.844	Custom indicator TrendEnvelopes_v1 [DAX30],M1: loaded successfully
+2	07:26:40.886	Custom indicator guppy_multiple_moving_averages [DAX30],M1: loaded successfully
+2	07:26:40.903	Custom indicator wedges [DAX30],M1: loaded successfully
+2	07:26:40.903	Custom indicator Admiral Pivot [DAX30],M1: loaded successfully
+2	07:26:40.923	Custom indicator AutoTrendChannel [DAX30],M1: loaded successfully
+2	07:26:40.970	Custom indicator FRZ Channel Auto Plotter [DAX30],M1: loaded successfully
+2	07:26:40.970	Custom indicator FRZ News Indicator MT4 [DAX30],M1: loaded successfully
+2	07:26:41.008	Custom indicator Forex Uranus direction [DAX30],M1: loaded successfully
+2	07:26:41.117	Custom indicator aVSA\aVSA clasters [DAX30],M1: loaded successfully
+2	07:26:41.180	Custom indicator aVSA\aVSA Golden Zone [DAX30],M1: loaded successfully
+2	07:26:41.180	Custom indicator breakout-zones\breakout-zones [DAX30],M1: loaded successfully
+2	07:26:41.211	Custom indicator breakout-zones\SL&TP Values [DAX30],M1: loaded successfully
+2	07:26:41.289	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	07:26:41.289	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: loaded successfully
+2	07:26:41.305	Custom indicator RSI Divergence Levels [DAX30],M1: loaded successfully
+2	07:26:41.336	Custom indicator FRZ Forex Market Session Indicator [DAX30],M1: loaded successfully
+2	07:26:57.499	Custom indicator AIMS Levels V2 [DAX30],M5: loaded successfully
+2	07:26:57.583	Custom indicator AIMS Entry Alert V1 [DAX30],M5: loaded successfully
+2	07:26:57.591	Custom indicator CandleTimer [DAX30],M5: loaded successfully
+2	07:26:57.670	Custom indicator #Signal_Bars_v6 [DAX30],M5: loaded successfully
+2	07:26:57.680	Custom indicator TrendEnvelopes_v1 [DAX30],M5: loaded successfully
+2	07:26:57.688	Custom indicator guppy_multiple_moving_averages [DAX30],M5: loaded successfully
+2	07:26:57.697	Custom indicator wedges [DAX30],M5: loaded successfully
+2	07:26:57.706	Custom indicator Admiral Pivot [DAX30],M5: loaded successfully
+2	07:26:57.714	Custom indicator AutoTrendChannel [DAX30],M5: loaded successfully
+2	07:26:57.723	Custom indicator FRZ Channel Auto Plotter [DAX30],M5: loaded successfully
+2	07:26:57.733	Custom indicator FRZ News Indicator MT4 [DAX30],M5: loaded successfully
+2	07:26:57.742	Custom indicator Forex Uranus direction [DAX30],M5: loaded successfully
+2	07:26:57.818	Custom indicator aVSA\aVSA clasters [DAX30],M5: loaded successfully
+2	07:26:57.835	Custom indicator aVSA\aVSA Golden Zone [DAX30],M5: loaded successfully
+2	07:26:57.843	Custom indicator breakout-zones\breakout-zones [DAX30],M5: loaded successfully
+2	07:26:57.852	Custom indicator breakout-zones\SL&TP Values [DAX30],M5: loaded successfully
+2	07:26:57.924	Custom indicator AIMS AO V.2.1 [DAX30],M5: loaded successfully
+2	07:26:57.933	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M5: loaded successfully
+2	07:26:57.942	Custom indicator RSI Divergence Levels [DAX30],M5: loaded successfully
+2	07:26:57.950	Custom indicator FRZ Forex Market Session Indicator [DAX30],M5: loaded successfully
+2	07:27:14.343	Custom indicator AIMS Levels V2 [DAX30],M15: loaded successfully
+2	07:27:14.437	Custom indicator AIMS Entry Alert V1 [DAX30],M15: loaded successfully
+2	07:27:14.447	Custom indicator CandleTimer [DAX30],M15: loaded successfully
+2	07:27:14.542	Custom indicator #Signal_Bars_v6 [DAX30],M15: loaded successfully
+2	07:27:14.553	Custom indicator TrendEnvelopes_v1 [DAX30],M15: loaded successfully
+2	07:27:14.565	Custom indicator guppy_multiple_moving_averages [DAX30],M15: loaded successfully
+2	07:27:14.581	Custom indicator wedges [DAX30],M15: loaded successfully
+2	07:27:14.593	Custom indicator Admiral Pivot [DAX30],M15: loaded successfully
+2	07:27:14.604	Custom indicator AutoTrendChannel [DAX30],M15: loaded successfully
+2	07:27:14.614	Custom indicator FRZ Channel Auto Plotter [DAX30],M15: loaded successfully
+2	07:27:14.626	Custom indicator FRZ News Indicator MT4 [DAX30],M15: loaded successfully
+2	07:27:14.636	Custom indicator Forex Uranus direction [DAX30],M15: loaded successfully
+2	07:27:14.732	Custom indicator aVSA\aVSA clasters [DAX30],M15: loaded successfully
+2	07:27:14.753	Custom indicator aVSA\aVSA Golden Zone [DAX30],M15: loaded successfully
+2	07:27:14.763	Custom indicator breakout-zones\breakout-zones [DAX30],M15: loaded successfully
+2	07:27:14.773	Custom indicator breakout-zones\SL&TP Values [DAX30],M15: loaded successfully
+2	07:27:14.863	Custom indicator AIMS AO V.2.1 [DAX30],M15: loaded successfully
+2	07:27:14.874	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M15: loaded successfully
+2	07:27:14.884	Custom indicator RSI Divergence Levels [DAX30],M15: loaded successfully
+2	07:27:14.894	Custom indicator FRZ Forex Market Session Indicator [DAX30],M15: loaded successfully
+2	07:27:21.475	Custom indicator AIMS Levels V2 [DAX30],H1: loaded successfully
+2	07:27:21.576	Custom indicator AIMS Entry Alert V1 [DAX30],H1: loaded successfully
+2	07:27:21.585	Custom indicator CandleTimer [DAX30],H1: loaded successfully
+2	07:27:21.679	Custom indicator #Signal_Bars_v6 [DAX30],H1: loaded successfully
+2	07:27:21.690	Custom indicator TrendEnvelopes_v1 [DAX30],H1: loaded successfully
+2	07:27:21.700	Custom indicator guppy_multiple_moving_averages [DAX30],H1: loaded successfully
+2	07:27:21.710	Custom indicator wedges [DAX30],H1: loaded successfully
+2	07:27:21.720	Custom indicator Admiral Pivot [DAX30],H1: loaded successfully
+2	07:27:21.730	Custom indicator AutoTrendChannel [DAX30],H1: loaded successfully
+2	07:27:21.740	Custom indicator FRZ Channel Auto Plotter [DAX30],H1: loaded successfully
+2	07:27:21.751	Custom indicator FRZ News Indicator MT4 [DAX30],H1: loaded successfully
+2	07:27:21.762	Custom indicator Forex Uranus direction [DAX30],H1: loaded successfully
+2	07:27:21.851	Custom indicator aVSA\aVSA clasters [DAX30],H1: loaded successfully
+2	07:27:21.872	Custom indicator aVSA\aVSA Golden Zone [DAX30],H1: loaded successfully
+2	07:27:21.882	Custom indicator breakout-zones\breakout-zones [DAX30],H1: loaded successfully
+2	07:27:21.891	Custom indicator breakout-zones\SL&TP Values [DAX30],H1: loaded successfully
+2	07:27:21.981	Custom indicator AIMS AO V.2.1 [DAX30],H1: loaded successfully
+2	07:27:21.991	Custom indicator IVT_MACD_ZERO_LAG [DAX30],H1: loaded successfully
+2	07:27:22.003	Custom indicator RSI Divergence Levels [DAX30],H1: loaded successfully
+2	07:27:22.015	Custom indicator FRZ Forex Market Session Indicator [DAX30],H1: loaded successfully
+2	07:27:24.299	Custom indicator AIMS Levels V2 [NQ100],M1: loaded successfully
+2	07:27:24.380	Custom indicator AIMS Entry Alert V1 [NQ100],M1: loaded successfully
+2	07:27:24.387	Custom indicator CandleTimer [NQ100],M1: loaded successfully
+2	07:27:24.466	Custom indicator #Signal_Bars_v6 [NQ100],M1: loaded successfully
+2	07:27:24.476	Custom indicator TrendEnvelopes_v1 [NQ100],M1: loaded successfully
+2	07:27:24.484	Custom indicator guppy_multiple_moving_averages [NQ100],M1: loaded successfully
+2	07:27:24.494	Custom indicator wedges [NQ100],M1: loaded successfully
+2	07:27:24.503	Custom indicator Admiral Pivot [NQ100],M1: loaded successfully
+2	07:27:24.512	Custom indicator AutoTrendChannel [NQ100],M1: loaded successfully
+2	07:27:24.521	Custom indicator FRZ Channel Auto Plotter [NQ100],M1: loaded successfully
+2	07:27:24.531	Custom indicator FRZ News Indicator MT4 [NQ100],M1: loaded successfully
+2	07:27:24.540	Custom indicator Forex Uranus direction [NQ100],M1: loaded successfully
+2	07:27:24.617	Custom indicator aVSA\aVSA clasters [NQ100],M1: loaded successfully
+2	07:27:24.633	Custom indicator aVSA\aVSA Golden Zone [NQ100],M1: loaded successfully
+2	07:27:24.642	Custom indicator breakout-zones\breakout-zones [NQ100],M1: loaded successfully
+2	07:27:24.650	Custom indicator breakout-zones\SL&TP Values [NQ100],M1: loaded successfully
+2	07:27:24.736	Custom indicator AIMS AO V.2.1 [NQ100],M1: loaded successfully
+2	07:27:24.745	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M1: loaded successfully
+2	07:27:24.753	Custom indicator RSI Divergence Levels [NQ100],M1: loaded successfully
+2	07:27:24.762	Custom indicator FRZ Forex Market Session Indicator [NQ100],M1: loaded successfully
+2	07:27:43.513	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	07:27:43.605	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	07:27:43.614	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:27:43.703	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	07:27:43.713	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	07:27:43.722	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	07:27:43.732	Custom indicator wedges [DJI30],M1: loaded successfully
+2	07:27:43.742	Custom indicator Admiral Pivot [DJI30],M1: loaded successfully
+2	07:27:43.751	Custom indicator AutoTrendChannel [DJI30],M1: loaded successfully
+2	07:27:43.761	Custom indicator FRZ Channel Auto Plotter [DJI30],M1: loaded successfully
+2	07:27:43.773	Custom indicator FRZ News Indicator MT4 [DJI30],M1: loaded successfully
+2	07:27:43.783	Custom indicator Forex Uranus direction [DJI30],M1: loaded successfully
+2	07:27:43.875	Custom indicator aVSA\aVSA clasters [DJI30],M1: loaded successfully
+2	07:27:43.895	Custom indicator aVSA\aVSA Golden Zone [DJI30],M1: loaded successfully
+2	07:27:43.905	Custom indicator breakout-zones\breakout-zones [DJI30],M1: loaded successfully
+2	07:27:43.915	Custom indicator breakout-zones\SL&TP Values [DJI30],M1: loaded successfully
+2	07:27:44.001	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	07:27:44.011	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	07:27:44.021	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	07:27:44.031	Custom indicator FRZ Forex Market Session Indicator [DJI30],M1: loaded successfully
+2	07:28:00.677	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	07:28:00.792	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	07:28:00.803	Custom indicator CandleTimer [DJI30],M5: loaded successfully
+2	07:28:00.956	Custom indicator #Signal_Bars_v6 [DJI30],M5: loaded successfully
+2	07:28:00.974	Custom indicator TrendEnvelopes_v1 [DJI30],M5: loaded successfully
+2	07:28:00.989	Custom indicator guppy_multiple_moving_averages [DJI30],M5: loaded successfully
+2	07:28:01.008	Custom indicator wedges [DJI30],M5: loaded successfully
+2	07:28:01.025	Custom indicator Admiral Pivot [DJI30],M5: loaded successfully
+2	07:28:01.043	Custom indicator AutoTrendChannel [DJI30],M5: loaded successfully
+2	07:28:01.062	Custom indicator FRZ Channel Auto Plotter [DJI30],M5: loaded successfully
+2	07:28:01.083	Custom indicator FRZ News Indicator MT4 [DJI30],M5: loaded successfully
+2	07:28:01.103	Custom indicator Forex Uranus direction [DJI30],M5: loaded successfully
+2	07:28:01.260	Custom indicator aVSA\aVSA clasters [DJI30],M5: loaded successfully
+2	07:28:01.294	Custom indicator aVSA\aVSA Golden Zone [DJI30],M5: loaded successfully
+2	07:28:01.308	Custom indicator breakout-zones\breakout-zones [DJI30],M5: loaded successfully
+2	07:28:01.321	Custom indicator breakout-zones\SL&TP Values [DJI30],M5: loaded successfully
+2	07:28:01.484	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	07:28:01.502	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: loaded successfully
+2	07:28:01.524	Custom indicator RSI Divergence Levels [DJI30],M5: loaded successfully
+2	07:28:01.539	Custom indicator FRZ Forex Market Session Indicator [DJI30],M5: loaded successfully
+2	07:28:17.533	Custom indicator AIMS Levels V2 [DJI30],M15: loaded successfully
+2	07:28:17.609	Custom indicator AIMS Entry Alert V1 [DJI30],M15: loaded successfully
+2	07:28:17.616	Custom indicator CandleTimer [DJI30],M15: loaded successfully
+2	07:28:17.689	Custom indicator #Signal_Bars_v6 [DJI30],M15: loaded successfully
+2	07:28:17.698	Custom indicator TrendEnvelopes_v1 [DJI30],M15: loaded successfully
+2	07:28:17.722	Custom indicator guppy_multiple_moving_averages [DJI30],M15: loaded successfully
+2	07:28:17.734	Custom indicator wedges [DJI30],M15: loaded successfully
+2	07:28:17.743	Custom indicator Admiral Pivot [DJI30],M15: loaded successfully
+2	07:28:17.752	Custom indicator AutoTrendChannel [DJI30],M15: loaded successfully
+2	07:28:17.760	Custom indicator FRZ Channel Auto Plotter [DJI30],M15: loaded successfully
+2	07:28:17.770	Custom indicator FRZ News Indicator MT4 [DJI30],M15: loaded successfully
+2	07:28:17.779	Custom indicator Forex Uranus direction [DJI30],M15: loaded successfully
+2	07:28:17.856	Custom indicator aVSA\aVSA clasters [DJI30],M15: loaded successfully
+2	07:28:17.873	Custom indicator aVSA\aVSA Golden Zone [DJI30],M15: loaded successfully
+2	07:28:17.882	Custom indicator breakout-zones\breakout-zones [DJI30],M15: loaded successfully
+2	07:28:17.891	Custom indicator breakout-zones\SL&TP Values [DJI30],M15: loaded successfully
+2	07:28:17.965	Custom indicator AIMS AO V.2.1 [DJI30],M15: loaded successfully
+2	07:28:17.974	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M15: loaded successfully
+2	07:28:17.983	Custom indicator RSI Divergence Levels [DJI30],M15: loaded successfully
+2	07:28:17.992	Custom indicator FRZ Forex Market Session Indicator [DJI30],M15: loaded successfully
+2	07:28:25.221	Custom indicator AIMS Levels V2 [DJI30],H1: loaded successfully
+2	07:28:25.291	Custom indicator AIMS Entry Alert V1 [DJI30],H1: loaded successfully
+2	07:28:25.298	Custom indicator CandleTimer [DJI30],H1: loaded successfully
+2	07:28:25.367	Custom indicator #Signal_Bars_v6 [DJI30],H1: loaded successfully
+2	07:28:25.375	Custom indicator TrendEnvelopes_v1 [DJI30],H1: loaded successfully
+2	07:28:25.382	Custom indicator guppy_multiple_moving_averages [DJI30],H1: loaded successfully
+2	07:28:25.390	Custom indicator wedges [DJI30],H1: loaded successfully
+2	07:28:25.399	Custom indicator Admiral Pivot [DJI30],H1: loaded successfully
+2	07:28:25.406	Custom indicator AutoTrendChannel [DJI30],H1: loaded successfully
+2	07:28:25.415	Custom indicator FRZ Channel Auto Plotter [DJI30],H1: loaded successfully
+2	07:28:25.425	Custom indicator FRZ News Indicator MT4 [DJI30],H1: loaded successfully
+2	07:28:25.433	Custom indicator Forex Uranus direction [DJI30],H1: loaded successfully
+2	07:28:25.507	Custom indicator aVSA\aVSA clasters [DJI30],H1: loaded successfully
+2	07:28:25.525	Custom indicator aVSA\aVSA Golden Zone [DJI30],H1: loaded successfully
+2	07:28:25.534	Custom indicator breakout-zones\breakout-zones [DJI30],H1: loaded successfully
+2	07:28:25.543	Custom indicator breakout-zones\SL&TP Values [DJI30],H1: loaded successfully
+2	07:28:25.620	Custom indicator AIMS AO V.2.1 [DJI30],H1: loaded successfully
+2	07:28:25.630	Custom indicator IVT_MACD_ZERO_LAG [DJI30],H1: loaded successfully
+2	07:28:25.639	Custom indicator RSI Divergence Levels [DJI30],H1: loaded successfully
+2	07:28:25.648	Custom indicator FRZ Forex Market Session Indicator [DJI30],H1: loaded successfully
+2	07:28:28.242	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	07:28:28.316	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	07:28:28.323	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	07:28:28.395	Custom indicator #Signal_Bars_v6 GOLD,H1: loaded successfully
+2	07:28:28.403	Custom indicator TrendEnvelopes_v1 GOLD,H1: loaded successfully
+2	07:28:28.411	Custom indicator guppy_multiple_moving_averages GOLD,H1: loaded successfully
+2	07:28:28.419	Custom indicator wedges GOLD,H1: loaded successfully
+2	07:28:28.427	Custom indicator Admiral Pivot GOLD,H1: loaded successfully
+2	07:28:28.435	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	07:28:28.443	Custom indicator FRZ Channel Auto Plotter GOLD,H1: loaded successfully
+2	07:28:28.453	Custom indicator FRZ News Indicator MT4 GOLD,H1: loaded successfully
+2	07:28:28.462	Custom indicator Forex Uranus direction GOLD,H1: loaded successfully
+2	07:28:28.536	Custom indicator aVSA\aVSA clasters GOLD,H1: loaded successfully
+2	07:28:28.553	Custom indicator aVSA\aVSA Golden Zone GOLD,H1: loaded successfully
+2	07:28:28.562	Custom indicator breakout-zones\breakout-zones GOLD,H1: loaded successfully
+2	07:28:28.570	Custom indicator breakout-zones\SL&TP Values GOLD,H1: loaded successfully
+2	07:28:28.643	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	07:28:28.652	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	07:28:28.661	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	07:28:28.669	Custom indicator FRZ Forex Market Session Indicator GOLD,H1: loaded successfully
+2	07:28:30.777	Custom indicator AIMS Levels V2 [NQ100],M5: loaded successfully
+2	07:28:30.850	Custom indicator AIMS Entry Alert V1 [NQ100],M5: loaded successfully
+2	07:28:30.856	Custom indicator CandleTimer [NQ100],M5: loaded successfully
+2	07:28:30.928	Custom indicator #Signal_Bars_v6 [NQ100],M5: loaded successfully
+2	07:28:30.937	Custom indicator TrendEnvelopes_v1 [NQ100],M5: loaded successfully
+2	07:28:30.944	Custom indicator guppy_multiple_moving_averages [NQ100],M5: loaded successfully
+2	07:28:30.952	Custom indicator wedges [NQ100],M5: loaded successfully
+2	07:28:30.960	Custom indicator Admiral Pivot [NQ100],M5: loaded successfully
+2	07:28:30.967	Custom indicator AutoTrendChannel [NQ100],M5: loaded successfully
+2	07:28:30.975	Custom indicator FRZ Channel Auto Plotter [NQ100],M5: loaded successfully
+2	07:28:30.984	Custom indicator FRZ News Indicator MT4 [NQ100],M5: loaded successfully
+2	07:28:30.992	Custom indicator Forex Uranus direction [NQ100],M5: loaded successfully
+2	07:28:31.062	Custom indicator aVSA\aVSA clasters [NQ100],M5: loaded successfully
+2	07:28:31.078	Custom indicator aVSA\aVSA Golden Zone [NQ100],M5: loaded successfully
+2	07:28:31.086	Custom indicator breakout-zones\breakout-zones [NQ100],M5: loaded successfully
+2	07:28:31.093	Custom indicator breakout-zones\SL&TP Values [NQ100],M5: loaded successfully
+2	07:28:31.162	Custom indicator AIMS AO V.2.1 [NQ100],M5: loaded successfully
+2	07:28:31.170	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M5: loaded successfully
+2	07:28:31.179	Custom indicator RSI Divergence Levels [NQ100],M5: loaded successfully
+2	07:28:31.187	Custom indicator FRZ Forex Market Session Indicator [NQ100],M5: loaded successfully
+2	07:28:51.994	Custom indicator AIMS Levels V2 [NQ100],M15: loaded successfully
+2	07:28:52.086	Custom indicator AIMS Entry Alert V1 [NQ100],M15: loaded successfully
+2	07:28:52.094	Custom indicator CandleTimer [NQ100],M15: loaded successfully
+2	07:28:52.205	Custom indicator #Signal_Bars_v6 [NQ100],M15: loaded successfully
+2	07:28:52.224	Custom indicator TrendEnvelopes_v1 [NQ100],M15: loaded successfully
+2	07:28:52.242	Custom indicator guppy_multiple_moving_averages [NQ100],M15: loaded successfully
+2	07:28:52.265	Custom indicator wedges [NQ100],M15: loaded successfully
+2	07:28:52.284	Custom indicator Admiral Pivot [NQ100],M15: loaded successfully
+2	07:28:52.307	Custom indicator AutoTrendChannel [NQ100],M15: loaded successfully
+2	07:28:52.327	Custom indicator FRZ Channel Auto Plotter [NQ100],M15: loaded successfully
+2	07:28:52.350	Custom indicator FRZ News Indicator MT4 [NQ100],M15: loaded successfully
+2	07:28:52.372	Custom indicator Forex Uranus direction [NQ100],M15: loaded successfully
+2	07:28:52.509	Custom indicator aVSA\aVSA clasters [NQ100],M15: loaded successfully
+2	07:28:52.535	Custom indicator aVSA\aVSA Golden Zone [NQ100],M15: loaded successfully
+2	07:28:52.552	Custom indicator breakout-zones\breakout-zones [NQ100],M15: loaded successfully
+2	07:28:52.565	Custom indicator breakout-zones\SL&TP Values [NQ100],M15: loaded successfully
+2	07:28:52.682	Custom indicator AIMS AO V.2.1 [NQ100],M15: loaded successfully
+2	07:28:52.694	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M15: loaded successfully
+2	07:28:52.708	Custom indicator RSI Divergence Levels [NQ100],M15: loaded successfully
+2	07:28:52.720	Custom indicator FRZ Forex Market Session Indicator [NQ100],M15: loaded successfully
+2	07:28:59.655	Custom indicator AIMS Levels V2 US100CASH,M15: loaded successfully
+2	07:28:59.738	Custom indicator AIMS Entry Alert V1 US100CASH,M15: loaded successfully
+2	07:28:59.746	Custom indicator CandleTimer US100CASH,M15: loaded successfully
+2	07:28:59.824	Custom indicator #Signal_Bars_v6 US100CASH,M15: loaded successfully
+2	07:28:59.832	Custom indicator TrendEnvelopes_v1 US100CASH,M15: loaded successfully
+2	07:28:59.840	Custom indicator guppy_multiple_moving_averages US100CASH,M15: loaded successfully
+2	07:28:59.849	Custom indicator wedges US100CASH,M15: loaded successfully
+2	07:28:59.857	Custom indicator Admiral Pivot US100CASH,M15: loaded successfully
+2	07:28:59.866	Custom indicator AutoTrendChannel US100CASH,M15: loaded successfully
+2	07:28:59.874	Custom indicator FRZ Channel Auto Plotter US100CASH,M15: loaded successfully
+2	07:28:59.884	Custom indicator FRZ News Indicator MT4 US100CASH,M15: loaded successfully
+2	07:28:59.893	Custom indicator Forex Uranus direction US100CASH,M15: loaded successfully
+2	07:28:59.968	Custom indicator aVSA\aVSA clasters US100CASH,M15: loaded successfully
+2	07:28:59.984	Custom indicator aVSA\aVSA Golden Zone US100CASH,M15: loaded successfully
+2	07:28:59.993	Custom indicator breakout-zones\breakout-zones US100CASH,M15: loaded successfully
+2	07:29:00.002	Custom indicator breakout-zones\SL&TP Values US100CASH,M15: loaded successfully
+2	07:29:00.076	Custom indicator AIMS AO V.2.1 US100CASH,M15: loaded successfully
+2	07:29:00.085	Custom indicator IVT_MACD_ZERO_LAG US100CASH,M15: loaded successfully
+2	07:29:00.093	Custom indicator RSI Divergence Levels US100CASH,M15: loaded successfully
+2	07:29:00.102	Custom indicator FRZ Forex Market Session Indicator US100CASH,M15: loaded successfully
+2	07:29:00.444	Custom indicator AIMS Levels V2 GBPUSD,M1: loaded successfully
+2	07:29:00.513	Custom indicator AIMS Entry Alert V1 GBPUSD,M1: loaded successfully
+2	07:29:00.519	Custom indicator CandleTimer GBPUSD,M1: loaded successfully
+2	07:29:00.587	Custom indicator #Signal_Bars_v6 GBPUSD,M1: loaded successfully
+2	07:29:00.595	Custom indicator TrendEnvelopes_v1 GBPUSD,M1: loaded successfully
+2	07:29:00.603	Custom indicator guppy_multiple_moving_averages GBPUSD,M1: loaded successfully
+2	07:29:00.611	Custom indicator wedges GBPUSD,M1: loaded successfully
+2	07:29:00.618	Custom indicator Admiral Pivot GBPUSD,M1: loaded successfully
+2	07:29:00.626	Custom indicator AutoTrendChannel GBPUSD,M1: loaded successfully
+2	07:29:00.633	Custom indicator FRZ Channel Auto Plotter GBPUSD,M1: loaded successfully
+2	07:29:00.642	Custom indicator FRZ News Indicator MT4 GBPUSD,M1: loaded successfully
+2	07:29:00.650	Custom indicator Forex Uranus direction GBPUSD,M1: loaded successfully
+2	07:29:00.718	Custom indicator aVSA\aVSA clasters GBPUSD,M1: loaded successfully
+2	07:29:00.733	Custom indicator aVSA\aVSA Golden Zone GBPUSD,M1: loaded successfully
+2	07:29:00.741	Custom indicator breakout-zones\breakout-zones GBPUSD,M1: loaded successfully
+2	07:29:00.749	Custom indicator breakout-zones\SL&TP Values GBPUSD,M1: loaded successfully
+2	07:29:00.816	Custom indicator AIMS AO V.2.1 GBPUSD,M1: loaded successfully
+2	07:29:00.824	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M1: loaded successfully
+2	07:29:00.832	Custom indicator RSI Divergence Levels GBPUSD,M1: loaded successfully
+2	07:29:00.840	Custom indicator FRZ Forex Market Session Indicator GBPUSD,M1: loaded successfully
+0	07:29:46.571	'27153390': login on AdmiralMarkets-Live through Access Point #4 (ping: 222.94 ms)
+0	07:29:56.807	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 222.94 ms)
+0	07:29:58.634	'27153390': previous successful authorization performed from 154.126.12.160
+0	07:31:22.166	'27153390': auto connecting to a better access point Access Point #6 (ping is 247.99 ms)
+0	07:31:23.018	'27153390': login on AdmiralMarkets-Live through Access Point #6 (ping: 247.99 ms)
+0	07:31:36.854	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 247.99 ms)
+0	07:31:37.452	'27153390': previous successful authorization performed from 197.215.202.57
+0	07:32:53.019	'27153390': modify order #81430118 sell 0.02 GOLD at 1724.360 sl: 1734.000 tp: 1715.000 -> sl: 1734.000 tp: 1697.969
+0	07:32:53.481	'27153390': order #81430118 sell 0.02 GOLD at 1724.360 was modified -> sl: 1734.000 tp: 1697.969
+2	10:07:28.534	Expert Admiral - Mini Terminal GOLD,M5: loaded successfully
+0	10:18:45.107	'27153390': login on AdmiralMarkets-Live through Access Point #4 (ping: 284.15 ms)
+0	10:18:49.050	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 284.15 ms)
+0	10:18:49.709	'27153390': previous successful authorization performed from 154.126.12.160
+0	10:20:00.157	'27153390': auto connecting to a better access point Access Point #6 (ping is 223.88 ms)
+0	10:20:02.006	'27153390': login on AdmiralMarkets-Live through Access Point #6 (ping: 223.88 ms)
+0	10:20:04.449	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 223.88 ms)
+0	10:20:05.666	'27153390': previous successful authorization performed from 197.215.202.57
+2	10:31:53.755	Custom indicator AIMS Levels V2 EURAUD,H1: loaded successfully
+2	10:31:53.821	Custom indicator AIMS Entry Alert V1 EURAUD,H1: loaded successfully
+2	10:31:53.828	Custom indicator CandleTimer EURAUD,H1: loaded successfully
+2	10:31:53.892	Custom indicator #Signal_Bars_v6 EURAUD,H1: loaded successfully
+2	10:31:53.901	Custom indicator TrendEnvelopes_v1 EURAUD,H1: loaded successfully
+2	10:31:53.909	Custom indicator guppy_multiple_moving_averages EURAUD,H1: loaded successfully
+2	10:31:53.917	Custom indicator wedges EURAUD,H1: loaded successfully
+2	10:31:53.925	Custom indicator Admiral Pivot EURAUD,H1: loaded successfully
+2	10:31:53.932	Custom indicator AutoTrendChannel EURAUD,H1: loaded successfully
+2	10:31:53.941	Custom indicator FRZ Channel Auto Plotter EURAUD,H1: loaded successfully
+2	10:31:53.950	Custom indicator FRZ News Indicator MT4 EURAUD,H1: loaded successfully
+2	10:31:53.958	Custom indicator Forex Uranus direction EURAUD,H1: loaded successfully
+2	10:31:54.023	Custom indicator aVSA\aVSA clasters EURAUD,H1: loaded successfully
+2	10:31:54.040	Custom indicator aVSA\aVSA Golden Zone EURAUD,H1: loaded successfully
+2	10:31:54.048	Custom indicator breakout-zones\breakout-zones EURAUD,H1: loaded successfully
+2	10:31:54.057	Custom indicator breakout-zones\SL&TP Values EURAUD,H1: loaded successfully
+2	10:31:54.120	Custom indicator AIMS AO V.2.1 EURAUD,H1: loaded successfully
+2	10:31:54.128	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: loaded successfully
+2	10:31:54.136	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+2	10:31:54.147	Custom indicator FRZ Forex Market Session Indicator EURAUD,H1: loaded successfully
+0	10:32:55.116	'27153390': pending order sell limit 0.01 EURAUD at 1.54430 sl: 0.00000 tp: 0.00000
+0	10:32:55.434	'27153390': order was opened : #81431855 sell limit 0.01 EURAUD at 1.54430 sl: 0.00000 tp: 0.00000
+0	10:33:40.907	'27153390': modify pending order #81431855 sell limit 0.01 EURAUD at 1.54430 sl: 0.00000 tp: 0.00000 -> price: 1.54430 sl: 1.54570 tp: 0.00000
+0	10:33:41.266	'27153390': pending order #81431855 sell limit 0.01 EURAUD was modified -> price: 1.54430 sl: 1.54570 tp: 0.00000
+0	10:47:33.132	'27153390': delete pending order #81431855 sell limit 0.01 EURAUD at 1.54430 sl: 1.54570 tp: 0.00000
+0	10:47:33.438	'27153390': pending order #81431855 was deleted
+0	10:51:56.548	'27153390': order sell market 0.10 EURAUD sl: 0.00000 tp: 0.00000
+1	10:51:56.862	'27153390': order sell 0.10 EURAUD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	10:53:27.958	'27153390': order sell market 0.02 EURAUD sl: 0.00000 tp: 0.00000
+1	10:53:28.295	'27153390': order sell 0.02 EURAUD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	10:53:41.057	'27153390': order sell market 0.01 EURAUD sl: 0.00000 tp: 0.00000
+1	10:53:41.362	'27153390': order sell 0.01 EURAUD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	10:53:47.777	'27153390': order sell market 0.01 EURAUD sl: 0.00000 tp: 0.00000
+1	10:53:48.099	'27153390': order sell 0.01 EURAUD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	11:17:38.610	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: 234.71 ms)
+1	11:18:05.538	'27153390': datacenter connecting failed [6]
+0	11:18:05.900	'27153390': previous successful authorization performed from 197.215.202.57
+0	11:18:25.122	'27153390': auto connecting to a better access point Access Point #9 (ping is 217.98 ms)
+0	11:18:26.414	'27153390': login on AdmiralMarkets-Live through Access Point #9 (ping: 217.98 ms)
+0	11:18:29.022	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #9 (ping: 217.98 ms)
+0	11:18:29.630	'27153390': previous successful authorization performed from 197.215.202.57
+0	12:37:49.572	'27153390': modify order #81430118 sell 0.02 GOLD at 1724.360 sl: 1734.000 tp: 1697.969 -> sl: 1725.662 tp: 1697.969
+0	12:37:50.310	'27153390': order #81430118 sell 0.02 GOLD at 1724.360 was modified -> sl: 1725.662 tp: 1697.969
+0	12:37:54.779	'27153390': modify order #81430118 sell 0.02 GOLD at 1724.360 sl: 1725.662 tp: 1697.969 -> sl: 1725.750 tp: 1697.969
+0	12:37:55.097	'27153390': order #81430118 sell 0.02 GOLD at 1724.360 was modified -> sl: 1725.750 tp: 1697.969
+0	12:38:15.980	'27153390': modify order #81430118 sell 0.02 GOLD at 1724.360 sl: 1725.750 tp: 1697.969 -> sl: 1725.817 tp: 1697.969
+0	12:38:16.429	'27153390': order #81430118 sell 0.02 GOLD at 1724.360 was modified -> sl: 1725.817 tp: 1697.969
+0	12:38:19.174	'27153390': modify order #81430118 sell 0.02 GOLD at 1724.360 sl: 1725.817 tp: 1697.969 -> sl: 1725.794 tp: 1697.969
+0	12:38:19.480	'27153390': order #81430118 sell 0.02 GOLD at 1724.360 was modified -> sl: 1725.794 tp: 1697.969
+0	12:38:23.714	'27153390': order #81430118 sell 0.02 GOLD at 1724.360 closed due stop-loss at price 1725.840
+0	12:53:37.240	'27153390': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	12:53:37.998	'27153390': order was opened : #81434485 sell 0.10 [NQ100] at 13383.54 sl: 0.00 tp: 0.00
+0	12:54:10.991	'27153390': modify order #81434485 sell 0.10 [NQ100] at 13383.54 sl: 0.00 tp: 0.00 -> sl: 13404.12 tp: 0.00
+0	12:54:11.537	'27153390': order #81434485 sell 0.10 [NQ100] at 13383.54 was modified -> sl: 13404.12 tp: 0.00
+0	12:59:33.887	'27153390': modify order #81434485 sell 0.10 [NQ100] at 13383.54 sl: 13404.12 tp: 0.00 -> sl: 13404.12 tp: 13352.39
+0	12:59:34.180	'27153390': order #81434485 sell 0.10 [NQ100] at 13383.54 was modified -> sl: 13404.12 tp: 13352.39
+0	13:00:17.164	'27153390': modify order #81434485 sell 0.10 [NQ100] at 13383.54 sl: 13404.12 tp: 13352.39 -> sl: 13404.12 tp: 13004.80
+0	13:00:19.413	'27153390': order #81434485 sell 0.10 [NQ100] at 13383.54 was modified -> sl: 13404.12 tp: 13004.80
+0	13:01:55.824	'27153390': order sell market 0.02 GOLD sl: 0.000 tp: 0.000
+1	13:02:01.069	'27153390': order sell 0.02 GOLD opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+0	13:02:07.728	'27153390': order sell market 0.01 GOLD sl: 0.000 tp: 0.000
+0	13:02:17.516	'27153390': order was opened : #81434586 sell 0.01 GOLD at 1725.210 sl: 0.000 tp: 0.000
+0	13:02:52.293	'27153390': modify order #81434586 sell 0.01 GOLD at 1725.210 sl: 0.000 tp: 0.000 -> sl: 1731.224 tp: 0.000
+0	13:02:53.371	'27153390': order #81434586 sell 0.01 GOLD at 1725.210 was modified -> sl: 1731.224 tp: 0.000
+0	13:03:27.232	'27153390': modify order #81434586 sell 0.01 GOLD at 1725.210 sl: 1731.224 tp: 0.000 -> sl: 1731.224 tp: 1679.721
+0	13:03:27.668	'27153390': order #81434586 sell 0.01 GOLD at 1725.210 was modified -> sl: 1731.224 tp: 1679.721
+0	13:06:09.915	'27153390': modify order #81434586 sell 0.01 GOLD at 1725.210 sl: 1731.224 tp: 1679.721 -> sl: 1725.229 tp: 1679.721
+0	13:06:10.492	'27153390': order #81434586 sell 0.01 GOLD at 1725.210 was modified -> sl: 1725.229 tp: 1679.721
+0	13:06:12.843	'27153390': modify order #81434586 sell 0.01 GOLD at 1725.210 sl: 1725.229 tp: 1679.721 -> sl: 1725.178 tp: 1679.721
+0	13:06:13.642	'27153390': order #81434586 sell 0.01 GOLD at 1725.210 was modified -> sl: 1725.178 tp: 1679.721
+0	13:06:18.953	'27153390': modify order #81434586 sell 0.01 GOLD at 1725.210 sl: 1725.178 tp: 1679.721 -> sl: 1725.076 tp: 1679.721
+0	13:06:19.282	'27153390': order #81434586 sell 0.01 GOLD at 1725.210 was modified -> sl: 1725.076 tp: 1679.721
+0	13:10:47.085	'27153390': order #81434586 sell 0.01 GOLD at 1725.210 closed due stop-loss at price 1725.080
+0	13:16:35.400	'27153390': close order #81434485 sell 0.10 [NQ100] at 13383.54 sl: 13404.12 tp: 13004.80 at price 0.00
+0	13:16:36.071	'27153390': order #81434485 sell 0.10 [NQ100] at 13383.54 sl: 13404.12 tp: 13004.80 closed at price 13388.66
+0	13:20:09.467	'27153390': order buy market 0.20 [NQ100] sl: 0.00 tp: 0.00
+0	13:20:10.681	'27153390': order was opened : #81434834 buy 0.20 [NQ100] at 13391.66 sl: 0.00 tp: 0.00
+0	13:20:19.518	'27153390': modify order #81434834 buy 0.20 [NQ100] at 13391.66 sl: 0.00 tp: 0.00 -> sl: 13379.50 tp: 0.00
+0	13:20:19.952	'27153390': order #81434834 buy 0.20 [NQ100] at 13391.66 was modified -> sl: 13379.50 tp: 0.00
+0	13:21:14.483	'27153390': order sell market 0.01 GOLD sl: 0.000 tp: 0.000
+1	13:21:14.812	'27153390': order sell 0.01 GOLD opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+2	13:23:50.558	Expert Admiral - Mini Terminal [NQ100],M5: loaded successfully
+0	13:40:27.951	'27153390': close order #81434834 buy 0.10 [NQ100] at 13391.66 sl: 13379.50 tp: 0.00 at price 0.00
+0	13:40:29.609	'27153390': order #81434834 buy 0.10 [NQ100] at 13391.66 sl: 13379.50 tp: 0.00 closed at price 13384.17
+0	13:40:29.609	'27153390': remainder of order #81434834 was opened : #81435118 buy 0.10 [NQ100] at 13391.66 sl: 13379.50 tp: 0.00
+0	13:40:44.891	'27153390': modify order #81435118 buy 0.10 [NQ100] at 13391.66 sl: 13379.50 tp: 0.00 -> sl: 0.00 tp: 0.00
+0	13:40:45.223	'27153390': order #81435118 buy 0.10 [NQ100] at 13391.66 was modified -> sl: 0.00 tp: 0.00
+0	13:41:03.575	'27153390': close order #81435118 buy 0.10 [NQ100] at 13391.66 sl: 0.00 tp: 0.00 at price 0.00
+0	13:41:04.422	'27153390': order #81435118 buy 0.10 [NQ100] at 13391.66 sl: 0.00 tp: 0.00 closed at price 13384.17
+0	13:41:04.422	'27153390': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	13:41:05.241	Trades: use hosting service to speed up the execution - 2.07 ms via 'MQL5 London LD4 16 (MQL5.community)' instead of 217.98 ms
+0	13:41:05.241	'27153390': order was opened : #81435121 sell 0.10 [NQ100] at 13384.17 sl: 0.00 tp: 0.00
+0	13:41:19.151	'27153390': order sell market 0.01 GOLD sl: 0.000 tp: 0.000
+0	13:41:19.595	'27153390': order was opened : #81435123 sell 0.01 GOLD at 1723.810 sl: 0.000 tp: 0.000
+2	13:42:03.082	Expert Admiral - Mini Terminal [NQ100],H1: removed
+2	13:42:03.083	Custom indicator AIMS Levels V2 [NQ100],H1: removed
+2	13:42:03.083	Custom indicator AIMS Entry Alert V1 [NQ100],H1: removed
+2	13:42:03.084	Custom indicator CandleTimer [NQ100],H1: removed
+2	13:42:03.084	Custom indicator #Signal_Bars_v6 [NQ100],H1: removed
+2	13:42:03.085	Custom indicator TrendEnvelopes_v1 [NQ100],H1: removed
+2	13:42:03.087	Custom indicator guppy_multiple_moving_averages [NQ100],H1: removed
+2	13:42:03.090	Custom indicator wedges [NQ100],H1: removed
+2	13:42:03.092	Custom indicator Admiral Pivot [NQ100],H1: removed
+2	13:42:03.094	Custom indicator AutoTrendChannel [NQ100],H1: removed
+2	13:42:03.095	Custom indicator FRZ Channel Auto Plotter [NQ100],H1: removed
+2	13:42:03.096	Custom indicator FRZ News Indicator MT4 [NQ100],H1: removed
+2	13:42:03.098	Custom indicator Forex Uranus direction [NQ100],H1: removed
+2	13:42:03.099	Custom indicator aVSA clasters [NQ100],H1: removed
+2	13:42:03.101	Custom indicator aVSA Golden Zone [NQ100],H1: removed
+2	13:42:03.103	Custom indicator breakout-zones [NQ100],H1: removed
+2	13:42:03.104	Custom indicator SL&TP Values [NQ100],H1: removed
+2	13:42:03.104	Custom indicator AIMS AO V.2.1 [NQ100],H1: removed
+2	13:42:03.106	Custom indicator IVT_MACD_ZERO_LAG [NQ100],H1: removed
+2	13:42:03.108	Custom indicator RSI Divergence Levels [NQ100],H1: removed
+2	13:42:03.109	Custom indicator FRZ Forex Market Session Indicator [NQ100],H1: removed
+2	13:42:03.190	Custom indicator AIMS Levels V2 [NQ100],H1: loaded successfully
+2	13:42:03.262	Custom indicator AIMS Entry Alert V1 [NQ100],H1: loaded successfully
+2	13:42:03.270	Custom indicator CandleTimer [NQ100],H1: loaded successfully
+2	13:42:03.343	Custom indicator #Signal_Bars_v6 [NQ100],H1: loaded successfully
+2	13:42:03.352	Custom indicator TrendEnvelopes_v1 [NQ100],H1: loaded successfully
+2	13:42:03.361	Custom indicator guppy_multiple_moving_averages [NQ100],H1: loaded successfully
+2	13:42:03.371	Custom indicator wedges [NQ100],H1: loaded successfully
+2	13:42:03.381	Custom indicator Admiral Pivot [NQ100],H1: loaded successfully
+2	13:42:03.390	Custom indicator AutoTrendChannel [NQ100],H1: loaded successfully
+2	13:42:03.400	Custom indicator FRZ Channel Auto Plotter [NQ100],H1: loaded successfully
+2	13:42:03.411	Custom indicator FRZ News Indicator MT4 [NQ100],H1: loaded successfully
+2	13:42:03.421	Custom indicator Forex Uranus direction [NQ100],H1: loaded successfully
+2	13:42:03.503	Custom indicator aVSA\aVSA clasters [NQ100],H1: loaded successfully
+2	13:42:03.523	Custom indicator aVSA\aVSA Golden Zone [NQ100],H1: loaded successfully
+2	13:42:03.535	Custom indicator breakout-zones\breakout-zones [NQ100],H1: loaded successfully
+2	13:42:03.546	Custom indicator breakout-zones\SL&TP Values [NQ100],H1: loaded successfully
+2	13:42:03.630	Custom indicator AIMS AO V.2.1 [NQ100],H1: loaded successfully
+2	13:42:03.641	Custom indicator IVT_MACD_ZERO_LAG [NQ100],H1: loaded successfully
+2	13:42:03.652	Custom indicator RSI Divergence Levels [NQ100],H1: loaded successfully
+2	13:42:03.666	Custom indicator FRZ Forex Market Session Indicator [NQ100],H1: loaded successfully
+0	13:42:22.411	'27153390': modify order #81435121 sell 0.10 [NQ100] at 13384.17 sl: 0.00 tp: 0.00 -> sl: 13404.34 tp: 0.00
+0	13:42:23.059	'27153390': order #81435121 sell 0.10 [NQ100] at 13384.17 was modified -> sl: 13404.34 tp: 0.00
+0	13:42:46.326	'27153390': modify order #81435123 sell 0.01 GOLD at 1723.810 sl: 0.000 tp: 0.000 -> sl: 1731.203 tp: 0.000
+0	13:42:46.609	'27153390': order #81435123 sell 0.01 GOLD at 1723.810 was modified -> sl: 1731.203 tp: 0.000
+0	13:44:17.004	'27153390': modify order #81435123 sell 0.01 GOLD at 1723.810 sl: 1731.203 tp: 0.000 -> sl: 1731.203 tp: 1680.513
+0	13:44:17.438	'27153390': order #81435123 sell 0.01 GOLD at 1723.810 was modified -> sl: 1731.203 tp: 1680.513
+0	13:44:46.959	'27153390': modify order #81435121 sell 0.10 [NQ100] at 13384.17 sl: 13404.34 tp: 0.00 -> sl: 13404.34 tp: 12745.60
+0	13:44:47.316	'27153390': order #81435121 sell 0.10 [NQ100] at 13384.17 was modified -> sl: 13404.34 tp: 12745.60
+0	14:05:24.382	'27153390': modify order #81435121 sell 0.10 [NQ100] at 13384.17 sl: 13404.34 tp: 12745.60 -> sl: 13384.37 tp: 12745.60
+0	14:05:25.438	'27153390': order #81435121 sell 0.10 [NQ100] at 13384.17 was modified -> sl: 13384.37 tp: 12745.60
+0	14:05:27.875	'27153390': modify order #81435121 sell 0.10 [NQ100] at 13384.17 sl: 13384.37 tp: 12745.60 -> sl: 13384.00 tp: 12745.60
+0	14:05:28.180	'27153390': order #81435121 sell 0.10 [NQ100] at 13384.17 was modified -> sl: 13384.00 tp: 12745.60
+0	14:06:06.159	'27153390': modify order #81435121 sell 0.10 [NQ100] at 13384.17 sl: 13384.00 tp: 12745.60 -> sl: 13383.08 tp: 12745.60
+0	14:06:06.486	'27153390': order #81435121 sell 0.10 [NQ100] at 13384.17 was modified -> sl: 13383.08 tp: 12745.60
+0	14:07:37.454	'27153390': order #81435121 sell 0.10 [NQ100] at 13384.17 closed due stop-loss at price 13383.17
+0	14:17:02.113	'27153390': order sell market 0.01 GOLD sl: 0.000 tp: 0.000
+0	14:17:02.669	'27153390': order was opened : #81435643 sell 0.01 GOLD at 1725.650 sl: 0.000 tp: 0.000
+0	15:02:10.545	'27153390': modify order #81435643 sell 0.01 GOLD at 1725.650 sl: 0.000 tp: 0.000 -> sl: 1725.675 tp: 0.000
+0	15:02:11.602	'27153390': order #81435643 sell 0.01 GOLD at 1725.650 was modified -> sl: 1725.675 tp: 0.000
+0	15:02:14.723	'27153390': modify order #81435643 sell 0.01 GOLD at 1725.650 sl: 1725.675 tp: 0.000 -> sl: 1725.198 tp: 0.000
+0	15:02:15.044	'27153390': order #81435643 sell 0.01 GOLD at 1725.650 was modified -> sl: 1725.198 tp: 0.000
+0	15:02:35.434	'27153390': modify order #81435643 sell 0.01 GOLD at 1725.650 sl: 1725.198 tp: 0.000 -> sl: 1723.677 tp: 0.000
+0	15:02:35.764	'27153390': order #81435643 sell 0.01 GOLD at 1725.650 was modified -> sl: 1723.677 tp: 0.000
+0	15:02:54.501	'27153390': modify order #81435643 sell 0.01 GOLD at 1725.650 sl: 1723.677 tp: 0.000 -> sl: 1723.531 tp: 0.000
+0	15:02:54.825	'27153390': order #81435643 sell 0.01 GOLD at 1725.650 was modified -> sl: 1723.531 tp: 0.000
+0	15:09:25.188	'27153390': modify order #81435123 sell 0.01 GOLD at 1723.810 sl: 1731.203 tp: 1680.513 -> sl: 1723.851 tp: 1680.513
+0	15:09:25.935	'27153390': order #81435123 sell 0.01 GOLD at 1723.810 was modified -> sl: 1723.851 tp: 1680.513
+0	15:09:29.100	'27153390': modify order #81435123 sell 0.01 GOLD at 1723.810 sl: 1723.851 tp: 1680.513 -> sl: 1723.743 tp: 1680.513
+0	15:09:29.801	'27153390': order #81435123 sell 0.01 GOLD at 1723.810 was modified -> sl: 1723.743 tp: 1680.513
+0	15:10:49.789	'27153390': order #81435643 sell 0.01 GOLD at 1725.650 closed due stop-loss at price 1723.570
+0	15:11:35.057	'27153390': order sell market 0.01 GOLD sl: 0.000 tp: 0.000
+0	15:11:35.479	'27153390': order was opened : #81436577 sell 0.01 GOLD at 1722.900 sl: 0.000 tp: 0.000
+0	15:12:06.573	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 0.000 tp: 0.000 -> sl: 1724.571 tp: 0.000
+0	15:12:06.934	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1724.571 tp: 0.000
+0	15:12:08.898	'27153390': order #81435123 sell 0.01 GOLD at 1723.810 closed due stop-loss at price 1723.750
+0	15:13:30.593	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1724.571 tp: 0.000 -> sl: 1725.041 tp: 0.000
+0	15:13:31.361	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1725.041 tp: 0.000
+0	15:13:42.260	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1725.041 tp: 0.000 -> sl: 1725.175 tp: 0.000
+0	15:13:43.122	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1725.175 tp: 0.000
+0	15:15:05.021	'27153390': order sell market 0.01 GOLD sl: 0.000 tp: 0.000
+0	15:15:25.324	'27153390': order was opened : #81436698 sell 0.01 GOLD at 1723.770 sl: 0.000 tp: 0.000
+0	15:16:02.329	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 0.000 tp: 0.000 -> sl: 1724.933 tp: 0.000
+0	15:16:22.880	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1724.933 tp: 0.000
+0	15:17:21.440	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1725.175 tp: 0.000 -> sl: 1724.880 tp: 0.000
+0	15:17:21.832	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1724.880 tp: 0.000
+0	15:17:49.519	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1724.933 tp: 0.000 -> sl: 1730.000 tp: 0.000
+0	15:17:50.456	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1730.000 tp: 0.000
+0	15:17:58.948	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1724.880 tp: 0.000 -> sl: 1730.000 tp: 0.000
+0	15:18:00.797	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1730.000 tp: 0.000
+0	15:18:23.638	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1730.000 tp: 0.000 -> sl: 1730.000 tp: 1700.000
+0	15:18:30.179	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1730.000 tp: 1700.000
+0	15:18:40.648	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1730.000 tp: 0.000 -> sl: 1730.000 tp: 1700.000
+0	15:18:40.988	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1730.000 tp: 1700.000
+0	15:39:18.735	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1730.000 tp: 1700.000 -> sl: 1730.635 tp: 1700.000
+0	15:39:19.037	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1730.635 tp: 1700.000
+0	15:39:23.806	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1730.000 tp: 1700.000 -> sl: 1730.772 tp: 1700.000
+0	15:39:24.132	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1730.772 tp: 1700.000
+0	16:18:34.860	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1730.772 tp: 1700.000 -> sl: 1730.772 tp: 1690.000
+0	16:18:35.210	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1730.772 tp: 1690.000
+0	16:18:54.952	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1730.635 tp: 1700.000 -> sl: 1730.635 tp: 1690.000
+0	16:18:55.275	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1730.635 tp: 1690.000
+0	17:16:58.571	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1730.772 tp: 1690.000 -> sl: 1732.565 tp: 1690.000
+0	17:16:58.879	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1732.565 tp: 1690.000
+0	17:17:05.869	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1730.635 tp: 1690.000 -> sl: 1732.379 tp: 1690.000
+0	17:17:06.231	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1732.379 tp: 1690.000
+0	17:23:28.574	'27153390': modify order #81436577 sell 0.01 GOLD at 1722.900 sl: 1732.379 tp: 1690.000 -> sl: 1744.868 tp: 1690.000
+0	17:23:28.895	'27153390': order #81436577 sell 0.01 GOLD at 1722.900 was modified -> sl: 1744.868 tp: 1690.000
+0	17:23:40.331	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1732.565 tp: 1690.000 -> sl: 1743.162 tp: 1690.000
+0	17:23:40.764	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1743.162 tp: 1690.000
+0	17:26:02.436	'27153390': modify order #81436698 sell 0.01 GOLD at 1723.770 sl: 1743.162 tp: 1690.000 -> sl: 1747.085 tp: 1690.000
+0	17:26:05.129	'27153390': order #81436698 sell 0.01 GOLD at 1723.770 was modified -> sl: 1747.085 tp: 1690.000
+2	20:02:51.265	Custom indicator AIMS Levels V2 GOLD,M1: removed
+2	20:02:51.266	Custom indicator AIMS Entry Alert V1 GOLD,M1: removed
+2	20:02:51.270	Custom indicator CandleTimer GOLD,M1: removed
+2	20:02:51.270	Custom indicator #Signal_Bars_v6 GOLD,M1: removed
+2	20:02:51.272	Custom indicator TrendEnvelopes_v1 GOLD,M1: removed
+2	20:02:51.274	Custom indicator guppy_multiple_moving_averages GOLD,M1: removed
+2	20:02:51.276	Custom indicator wedges GOLD,M1: removed
+2	20:02:51.278	Custom indicator Admiral Pivot GOLD,M1: removed
+2	20:02:51.279	Custom indicator AutoTrendChannel GOLD,M1: removed
+2	20:02:51.281	Custom indicator FRZ Channel Auto Plotter GOLD,M1: removed
+2	20:02:51.282	Custom indicator FRZ News Indicator MT4 GOLD,M1: removed
+2	20:02:51.285	Custom indicator Forex Uranus direction GOLD,M1: removed
+2	20:02:51.285	Custom indicator aVSA clasters GOLD,M1: removed
+2	20:02:51.288	Custom indicator aVSA Golden Zone GOLD,M1: removed
+2	20:02:51.289	Custom indicator breakout-zones GOLD,M1: removed
+2	20:02:51.292	Custom indicator SL&TP Values GOLD,M1: removed
+2	20:02:51.293	Custom indicator AIMS AO V.2.1 GOLD,M1: removed
+2	20:02:51.295	Custom indicator IVT_MACD_ZERO_LAG GOLD,M1: removed
+2	20:02:51.296	Custom indicator RSI Divergence Levels GOLD,M1: removed
+2	20:02:51.298	Custom indicator FRZ Forex Market Session Indicator GOLD,M1: removed
+2	20:02:51.382	Custom indicator AIMS Levels V2 GOLD,M1: loaded successfully
+2	20:02:51.458	Custom indicator AIMS Entry Alert V1 GOLD,M1: loaded successfully
+2	20:02:51.468	Custom indicator CandleTimer GOLD,M1: loaded successfully
+2	20:02:51.542	Custom indicator #Signal_Bars_v6 GOLD,M1: loaded successfully
+2	20:02:51.553	Custom indicator TrendEnvelopes_v1 GOLD,M1: loaded successfully
+2	20:02:51.562	Custom indicator guppy_multiple_moving_averages GOLD,M1: loaded successfully
+2	20:02:51.574	Custom indicator wedges GOLD,M1: loaded successfully
+2	20:02:51.585	Custom indicator Admiral Pivot GOLD,M1: loaded successfully
+2	20:02:51.594	Custom indicator AutoTrendChannel GOLD,M1: loaded successfully
+2	20:02:51.605	Custom indicator FRZ Channel Auto Plotter GOLD,M1: loaded successfully
+2	20:02:51.615	Custom indicator FRZ News Indicator MT4 GOLD,M1: loaded successfully
+2	20:02:51.626	Custom indicator Forex Uranus direction GOLD,M1: loaded successfully
+2	20:02:51.698	Custom indicator aVSA\aVSA clasters GOLD,M1: loaded successfully
+2	20:02:51.718	Custom indicator aVSA\aVSA Golden Zone GOLD,M1: loaded successfully
+2	20:02:51.728	Custom indicator breakout-zones\breakout-zones GOLD,M1: loaded successfully
+2	20:02:51.738	Custom indicator breakout-zones\SL&TP Values GOLD,M1: loaded successfully
+2	20:02:51.814	Custom indicator AIMS AO V.2.1 GOLD,M1: loaded successfully
+2	20:02:51.826	Custom indicator IVT_MACD_ZERO_LAG GOLD,M1: loaded successfully
+2	20:02:51.837	Custom indicator RSI Divergence Levels GOLD,M1: loaded successfully
+2	20:02:51.851	Custom indicator FRZ Forex Market Session Indicator GOLD,M1: loaded successfully
+2	22:03:50.482	Expert Acuity Linear Gauge [DAX30],H1: loaded successfully
+2	22:04:18.289	Expert Acuity Linear Gauge GBPUSD,M1: loaded successfully
+2	22:04:33.290	Expert Acuity Linear Gauge GBPUSD,M1: removed
+2	22:04:48.855	Expert Acuity Radial Gauge GBPUSD,M1: loaded successfully
+2	22:05:09.989	Expert Acuity Radial Gauge GBPUSD,M1: removed
+2	22:05:10.005	Expert Acuity Radial Gauge GBPUSD,M1: loaded successfully
+2	22:05:19.065	Expert Acuity Radial Gauge GBPUSD,M1: removed
+2	22:05:19.077	Expert Admiral - Alarm Manager GBPUSD,M1: loaded successfully
+2	22:05:45.934	Expert Admiral - Alarm Manager GBPUSD,M1: removed
+2	22:05:45.943	Expert Admiral - Alarm Manager GBPUSD,M1: loaded successfully
+2	22:06:21.098	Expert Admiral - Alarm Manager GBPUSD,M1: removed
+2	22:06:24.246	Expert Admiral - Connect GBPUSD,M1: loaded successfully
+2	22:07:15.496	Expert Admiral - Correlation Matrix EURAUD,H1: loaded successfully
+2	22:09:41.561	Custom indicator AIMS Levels V2 GOLD,M1: removed
+2	22:09:41.562	Custom indicator AIMS Entry Alert V1 GOLD,M1: removed
+2	22:09:41.564	Custom indicator CandleTimer GOLD,M1: removed
+2	22:09:41.565	Custom indicator #Signal_Bars_v6 GOLD,M1: removed
+2	22:09:41.567	Custom indicator TrendEnvelopes_v1 GOLD,M1: removed
+2	22:09:41.569	Custom indicator guppy_multiple_moving_averages GOLD,M1: removed
+2	22:09:41.571	Custom indicator wedges GOLD,M1: removed
+2	22:09:41.575	Custom indicator Admiral Pivot GOLD,M1: removed
+2	22:09:41.577	Custom indicator AutoTrendChannel GOLD,M1: removed
+2	22:09:41.578	Custom indicator FRZ Channel Auto Plotter GOLD,M1: removed
+2	22:09:41.580	Custom indicator FRZ News Indicator MT4 GOLD,M1: removed
+2	22:09:41.582	Custom indicator Forex Uranus direction GOLD,M1: removed
+2	22:09:41.582	Custom indicator aVSA clasters GOLD,M1: removed
+2	22:09:41.585	Custom indicator aVSA Golden Zone GOLD,M1: removed
+2	22:09:41.587	Custom indicator breakout-zones GOLD,M1: removed
+2	22:09:41.589	Custom indicator SL&TP Values GOLD,M1: removed
+2	22:09:41.590	Custom indicator AIMS AO V.2.1 GOLD,M1: removed
+2	22:09:41.592	Custom indicator IVT_MACD_ZERO_LAG GOLD,M1: removed
+2	22:09:41.594	Custom indicator RSI Divergence Levels GOLD,M1: removed
+2	22:09:41.596	Custom indicator FRZ Forex Market Session Indicator GOLD,M1: removed
+2	22:09:41.676	Custom indicator AIMS Levels V2 GOLD,M1: loaded successfully
+2	22:09:41.749	Custom indicator AIMS Entry Alert V1 GOLD,M1: loaded successfully
+2	22:09:41.756	Custom indicator CandleTimer GOLD,M1: loaded successfully
+2	22:09:41.827	Custom indicator #Signal_Bars_v6 GOLD,M1: loaded successfully
+2	22:09:41.836	Custom indicator TrendEnvelopes_v1 GOLD,M1: loaded successfully
+2	22:09:41.844	Custom indicator guppy_multiple_moving_averages GOLD,M1: loaded successfully
+2	22:09:41.853	Custom indicator wedges GOLD,M1: loaded successfully
+2	22:09:41.862	Custom indicator Admiral Pivot GOLD,M1: loaded successfully
+2	22:09:41.872	Custom indicator AutoTrendChannel GOLD,M1: loaded successfully
+2	22:09:41.881	Custom indicator FRZ Channel Auto Plotter GOLD,M1: loaded successfully
+2	22:09:41.891	Custom indicator FRZ News Indicator MT4 GOLD,M1: loaded successfully
+2	22:09:41.902	Custom indicator Forex Uranus direction GOLD,M1: loaded successfully
+2	22:09:41.973	Custom indicator aVSA\aVSA clasters GOLD,M1: loaded successfully
+2	22:09:41.991	Custom indicator aVSA\aVSA Golden Zone GOLD,M1: loaded successfully
+2	22:09:42.000	Custom indicator breakout-zones\breakout-zones GOLD,M1: loaded successfully
+2	22:09:42.009	Custom indicator breakout-zones\SL&TP Values GOLD,M1: loaded successfully
+2	22:09:42.081	Custom indicator AIMS AO V.2.1 GOLD,M1: loaded successfully
+2	22:09:42.090	Custom indicator IVT_MACD_ZERO_LAG GOLD,M1: loaded successfully
+2	22:09:42.099	Custom indicator RSI Divergence Levels GOLD,M1: loaded successfully
+2	22:09:42.112	Custom indicator FRZ Forex Market Session Indicator GOLD,M1: loaded successfully
+2	22:14:27.147	Expert Admiral - Connect GBPUSD,M1: removed
+2	22:14:27.149	Custom indicator AIMS Levels V2 GBPUSD,M1: removed
+2	22:14:27.150	Custom indicator AIMS Entry Alert V1 GBPUSD,M1: removed
+2	22:14:27.152	Custom indicator CandleTimer GBPUSD,M1: removed
+2	22:14:27.152	Custom indicator #Signal_Bars_v6 GBPUSD,M1: removed
+2	22:14:27.154	Custom indicator TrendEnvelopes_v1 GBPUSD,M1: removed
+2	22:14:27.155	Custom indicator guppy_multiple_moving_averages GBPUSD,M1: removed
+2	22:14:27.157	Custom indicator wedges GBPUSD,M1: removed
+2	22:14:27.159	Custom indicator Admiral Pivot GBPUSD,M1: removed
+2	22:14:27.161	Custom indicator AutoTrendChannel GBPUSD,M1: removed
+2	22:14:27.163	Custom indicator FRZ Channel Auto Plotter GBPUSD,M1: removed
+2	22:14:27.164	Custom indicator FRZ News Indicator MT4 GBPUSD,M1: removed
+2	22:14:27.166	Custom indicator Forex Uranus direction GBPUSD,M1: removed
+2	22:14:27.166	Custom indicator aVSA clasters GBPUSD,M1: removed
+2	22:14:27.170	Custom indicator aVSA Golden Zone GBPUSD,M1: removed
+2	22:14:27.171	Custom indicator breakout-zones GBPUSD,M1: removed
+2	22:14:27.173	Custom indicator SL&TP Values GBPUSD,M1: removed
+2	22:14:27.173	Custom indicator AIMS AO V.2.1 GBPUSD,M1: removed
+2	22:14:27.176	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,M1: removed
+2	22:14:27.177	Custom indicator RSI Divergence Levels GBPUSD,M1: removed
+2	22:14:27.179	Custom indicator FRZ Forex Market Session Indicator GBPUSD,M1: removed
+2	22:16:02.665	Expert Admiral - Correlation Matrix EURAUD,H1: removed
+2	22:16:02.676	Expert Admiral - Correlation Trader EURAUD,H1: loaded successfully
+2	22:18:03.495	Expert Admiral - Correlation Trader EURAUD,H1: removed
+0	22:18:50.320	'27153390': login on AdmiralMarkets-Live through Access Point #2 (ping: 217.49 ms)
+0	22:18:53.733	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #9 (ping: 217.98 ms)
+0	22:18:59.938	'27153390': login on AdmiralMarkets-Live through Access Point #9 (ping: 217.98 ms)
+0	22:19:01.959	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #9 (ping: 217.98 ms)
+0	22:19:02.547	'27153390': previous successful authorization performed from 197.215.202.57
+0	22:19:07.106	'27153390': auto connecting to a better access point Access Point #10 (ping is 209.96 ms)
+0	22:19:07.887	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: 209.96 ms)
+0	22:19:10.032	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: 209.96 ms)
+0	22:19:10.648	'27153390': previous successful authorization performed from 197.215.202.57
+2	22:35:28.763	Expert Admiral - Correlation Matrix EURAUD,H1: loaded successfully
+2	22:37:54.138	Expert Admiral - Correlation Matrix EURAUD,H1: removed

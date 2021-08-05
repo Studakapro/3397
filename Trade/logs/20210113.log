@@ -1,0 +1,442 @@
+1	05:32:03.151	MQL5.community: authorization failed
+0	05:32:16.889	'27143750': login on AdmiralMarkets-Live through Access Point #10 (ping: n/a)
+0	05:32:20.962	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: n/a)
+0	05:32:23.061	'27143750': previous successful authorization performed from 197.149.28.104
+0	05:32:38.148	'27143750': ping to current access point Access Point #10 is 199.78 ms
+0	05:35:02.435	'27143750': close order #77258290 buy 0.02 AUDUSD at 0.77349 sl: 0.76850 tp: 0.78550 at price 0.00000
+0	05:35:02.902	'27143750': order #77258290 buy 0.02 AUDUSD at 0.77349 sl: 0.76850 tp: 0.78550 closed at price 0.77700
+0	07:51:17.427	'27143750': close order #77258655 buy 0.02 GBPCHF at 1.21086 sl: 1.20540 tp: 1.23150 at price 0.00000
+0	07:51:17.960	'27143750': order #77258655 buy 0.02 GBPCHF at 1.21086 sl: 1.20540 tp: 1.23150 closed at price 1.21205
+2	07:51:25.551	Custom indicator AIMS Levels V2 GBPCHF,M5: removed
+2	07:51:25.558	Custom indicator AIMS Entry Alert V1 GBPCHF,M5: removed
+2	07:51:25.573	Custom indicator CandleTimer GBPCHF,M5: removed
+2	07:51:25.613	Custom indicator #Signal_Bars_v6 GBPCHF,M5: removed
+2	07:51:25.633	Custom indicator TrendEnvelopes_v1 GBPCHF,M5: removed
+2	07:51:25.685	Custom indicator guppy_multiple_moving_averages GBPCHF,M5: removed
+2	07:51:25.707	Custom indicator wedges GBPCHF,M5: removed
+2	07:51:25.721	Custom indicator Admiral Pivot GBPCHF,M5: removed
+2	07:51:25.724	Custom indicator AutoTrendChannel GBPCHF,M5: removed
+2	07:51:25.727	Custom indicator FRZ Channel Auto Plotter GBPCHF,M5: removed
+2	07:51:25.810	Custom indicator FRZ News Indicator MT4 GBPCHF,M5: removed
+2	07:51:25.835	Custom indicator Forex Uranus direction GBPCHF,M5: removed
+2	07:51:25.845	Custom indicator Quadrilateral GBPCHF,M5: removed
+2	07:51:25.845	Custom indicator AIMS AO V.2.1 GBPCHF,M5: removed
+2	07:51:25.846	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M5: removed
+2	07:51:25.852	Custom indicator RSI Divergence Levels GBPCHF,M5: removed
+2	07:51:25.903	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,M5: removed
+2	07:51:26.065	Custom indicator TDI-With_Alerts GBPCHF,M5: removed
+2	07:51:26.067	Custom indicator FRZ Forex Market Session Indicator GBPCHF,M5: removed
+2	07:51:30.250	Custom indicator AIMS Levels V2 AUDUSD,Daily: removed
+2	07:51:30.289	Custom indicator AIMS Entry Alert V1 AUDUSD,Daily: removed
+2	07:51:30.291	Custom indicator CandleTimer AUDUSD,Daily: removed
+2	07:51:30.344	Custom indicator #Signal_Bars_v6 AUDUSD,Daily: removed
+2	07:51:30.347	Custom indicator TrendEnvelopes_v1 AUDUSD,Daily: removed
+2	07:51:30.374	Custom indicator guppy_multiple_moving_averages AUDUSD,Daily: removed
+2	07:51:30.404	Custom indicator wedges AUDUSD,Daily: removed
+2	07:51:30.425	Custom indicator Admiral Pivot AUDUSD,Daily: removed
+2	07:51:30.426	Custom indicator AutoTrendChannel AUDUSD,Daily: removed
+2	07:51:30.428	Custom indicator FRZ Channel Auto Plotter AUDUSD,Daily: removed
+2	07:51:30.429	Custom indicator FRZ News Indicator MT4 AUDUSD,Daily: removed
+2	07:51:30.438	Custom indicator Forex Uranus direction AUDUSD,Daily: removed
+2	07:51:30.439	Custom indicator Quadrilateral AUDUSD,Daily: removed
+2	07:51:30.439	Custom indicator AIMS AO V.2.1 AUDUSD,Daily: removed
+2	07:51:30.455	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,Daily: removed
+2	07:51:30.457	Custom indicator RSI Divergence Levels AUDUSD,Daily: removed
+2	07:51:30.477	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,Daily: removed
+2	07:51:30.479	Custom indicator TDI-With_Alerts AUDUSD,Daily: removed
+2	07:51:30.550	Custom indicator FRZ Forex Market Session Indicator AUDUSD,Daily: removed
+0	10:07:09.010	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: 199.78 ms)
+0	10:07:11.953	'27143750': login on AdmiralMarkets-Live through Access Point #10 (ping: 199.78 ms)
+0	10:07:15.076	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: 199.78 ms)
+0	10:07:15.726	'27143750': previous successful authorization performed from 197.149.31.139
+0	10:07:35.762	'27143750': ping to current access point Access Point #10 is 197.74 ms
+0	10:31:46.046	'27143750': order buy market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	10:31:47.315	'27143750': order was opened : #77332043 buy 0.10 [DAX30] at 13935.33 sl: 0.00 tp: 0.00
+0	10:31:55.157	'27143750': modify order #77332043 buy 0.10 [DAX30] at 13935.33 sl: 0.00 tp: 0.00 -> sl: 13911.11 tp: 0.00
+0	10:31:55.536	'27143750': order #77332043 buy 0.10 [DAX30] at 13935.33 was modified -> sl: 13911.11 tp: 0.00
+0	10:37:16.379	'27143750': close order #77332043 buy 0.10 [DAX30] at 13935.33 sl: 13911.11 tp: 0.00 at price 0.00
+0	10:37:17.168	'27143750': order #77332043 buy 0.10 [DAX30] at 13935.33 sl: 13911.11 tp: 0.00 closed at price 13935.53
+0	10:39:37.751	'27143750': order buy market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	10:39:38.312	'27143750': order was opened : #77332480 buy 0.10 [DAX30] at 13938.85 sl: 0.00 tp: 0.00
+0	10:39:45.823	'27143750': modify order #77332480 buy 0.10 [DAX30] at 13938.85 sl: 0.00 tp: 0.00 -> sl: 13910.57 tp: 0.00
+0	10:39:46.206	'27143750': order #77332480 buy 0.10 [DAX30] at 13938.85 was modified -> sl: 13910.57 tp: 0.00
+0	11:02:20.992	'27143750': order #77332480 buy 0.10 [DAX30] at 13938.85 closed due stop-loss at price 13910.49
+0	11:15:09.883	'27143750': order buy market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	11:15:10.588	'27143750': order was opened : #77335961 buy 0.30 [DAX30] at 13922.31 sl: 0.00 tp: 0.00
+0	11:15:21.824	'27143750': modify order #77335961 buy 0.30 [DAX30] at 13922.31 sl: 0.00 tp: 0.00 -> sl: 13892.43 tp: 0.00
+0	11:15:22.169	'27143750': order #77335961 buy 0.30 [DAX30] at 13922.31 was modified -> sl: 13892.43 tp: 0.00
+0	11:16:06.901	'27143750': modify order #77335961 buy 0.30 [DAX30] at 13922.31 sl: 13892.43 tp: 0.00 -> sl: 13922.95 tp: 0.00
+0	11:16:07.185	'27143750': order #77335961 buy 0.30 [DAX30] at 13922.31 was modified -> sl: 13922.95 tp: 0.00
+0	11:18:49.447	'27143750': close order #77335961 buy 0.30 [DAX30] at 13922.31 sl: 13922.95 tp: 0.00 at price 0.00
+0	11:18:50.140	'27143750': order #77335961 buy 0.30 [DAX30] at 13922.31 sl: 13922.95 tp: 0.00 closed at price 13928.71
+0	11:23:28.670	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	11:23:29.235	'27143750': order was opened : #77336628 buy 0.50 [DAX30] at 13932.97 sl: 0.00 tp: 0.00
+0	11:23:43.589	'27143750': modify order #77336628 buy 0.50 [DAX30] at 13932.97 sl: 0.00 tp: 0.00 -> sl: 13926.12 tp: 0.00
+0	11:23:43.916	'27143750': order #77336628 buy 0.50 [DAX30] at 13932.97 was modified -> sl: 13926.12 tp: 0.00
+0	11:23:47.634	'27143750': modify order #77336628 buy 0.50 [DAX30] at 13932.97 sl: 13926.12 tp: 0.00 -> sl: 13933.56 tp: 0.00
+0	11:23:48.063	'27143750': order #77336628 buy 0.50 [DAX30] at 13932.97 was modified -> sl: 13933.56 tp: 0.00
+0	11:24:05.720	'27143750': order #77336628 buy 0.50 [DAX30] at 13932.97 closed due stop-loss at price 13932.64
+0	11:25:04.672	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	11:25:05.295	'27143750': order was opened : #77336723 buy 0.50 [DAX30] at 13935.85 sl: 0.00 tp: 0.00
+0	11:25:55.712	'27143750': modify order #77336723 buy 0.50 [DAX30] at 13935.85 sl: 0.00 tp: 0.00 -> sl: 13900.00 tp: 0.00
+0	11:25:56.027	'27143750': order #77336723 buy 0.50 [DAX30] at 13935.85 was modified -> sl: 13900.00 tp: 0.00
+0	11:27:07.182	'27143750': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	11:27:07.971	'27143750': order was opened : #77336913 sell 0.50 [DAX30] at 13913.61 sl: 0.00 tp: 0.00
+0	11:27:32.145	'27143750': close order #77336913 sell 0.50 [DAX30] at 13913.61 sl: 0.00 tp: 0.00 at price 0.00
+0	11:27:32.934	'27143750': order #77336913 sell 0.50 [DAX30] at 13913.61 sl: 0.00 tp: 0.00 closed at price 13913.44
+0	11:30:23.601	'27143750': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:30:24.183	'27143750': order was opened : #77337149 sell 1.00 [DAX30] at 13904.46 sl: 0.00 tp: 0.00
+0	11:30:43.853	'27143750': order #77336723 buy 0.50 [DAX30] at 13935.85 closed due stop-loss at price 13899.46
+0	11:31:37.591	'27143750': modify order #77337149 sell 1.00 [DAX30] at 13904.46 sl: 0.00 tp: 0.00 -> sl: 13905.27 tp: 0.00
+0	11:31:37.872	'27143750': order #77337149 sell 1.00 [DAX30] at 13904.46 was modified -> sl: 13905.27 tp: 0.00
+0	11:31:40.185	'27143750': modify order #77337149 sell 1.00 [DAX30] at 13904.46 sl: 13905.27 tp: 0.00 -> sl: 13902.67 tp: 0.00
+0	11:31:40.480	'27143750': order #77337149 sell 1.00 [DAX30] at 13904.46 was modified -> sl: 13902.67 tp: 0.00
+0	11:31:50.450	'27143750': modify order #77337149 sell 1.00 [DAX30] at 13904.46 sl: 13902.67 tp: 0.00 -> sl: 13898.30 tp: 0.00
+0	11:31:50.768	'27143750': order #77337149 sell 1.00 [DAX30] at 13904.46 was modified -> sl: 13898.30 tp: 0.00
+0	11:31:58.698	'27143750': modify order #77337149 sell 1.00 [DAX30] at 13904.46 sl: 13898.30 tp: 0.00 -> sl: 13893.82 tp: 0.00
+0	11:31:58.983	'27143750': order #77337149 sell 1.00 [DAX30] at 13904.46 was modified -> sl: 13893.82 tp: 0.00
+0	11:32:05.471	'27143750': modify order #77337149 sell 1.00 [DAX30] at 13904.46 sl: 13893.82 tp: 0.00 -> sl: 13889.56 tp: 0.00
+0	11:32:05.793	'27143750': order #77337149 sell 1.00 [DAX30] at 13904.46 was modified -> sl: 13889.56 tp: 0.00
+0	11:32:22.292	'27143750': order #77337149 sell 1.00 [DAX30] at 13904.46 closed due stop-loss at price 13890.34
+0	11:34:22.933	'27143750': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:34:23.548	'27143750': order was opened : #77337576 sell 1.00 [DAX30] at 13891.49 sl: 0.00 tp: 0.00
+0	11:34:31.071	'27143750': modify order #77337576 sell 1.00 [DAX30] at 13891.49 sl: 0.00 tp: 0.00 -> sl: 13905.33 tp: 0.00
+0	11:34:31.477	'27143750': order #77337576 sell 1.00 [DAX30] at 13891.49 was modified -> sl: 13905.33 tp: 0.00
+1	11:35:09.862	'27143750': modification of order #77337576 sell 1.00 [DAX30] at 13891.49 sl: 13905.33 tp: 0.00 -> sl: 13891.07 tp: 0.00 failed [Invalid S/L or T/P]
+0	11:35:16.648	'27143750': order #77337576 sell 1.00 [DAX30] at 13891.49 closed due stop-loss at price 13905.71
+0	11:35:49.596	'27143750': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:35:50.341	'27143750': order was opened : #77337794 buy 1.00 [DAX30] at 13910.17 sl: 0.00 tp: 0.00
+2	11:39:32.907	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	11:39:33.161	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	11:39:33.276	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	11:39:33.468	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	11:39:33.561	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	11:39:33.688	Custom indicator guppy_multiple_moving_averages EURUSD,H1: loaded successfully
+2	11:39:33.740	Custom indicator wedges EURUSD,H1: loaded successfully
+2	11:39:33.788	Custom indicator Admiral Pivot EURUSD,H1: loaded successfully
+2	11:39:33.900	Custom indicator AutoTrendChannel EURUSD,H1: loaded successfully
+2	11:39:33.947	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: loaded successfully
+2	11:39:33.995	Custom indicator FRZ News Indicator MT4 EURUSD,H1: loaded successfully
+2	11:39:34.073	Custom indicator Forex Uranus direction EURUSD,H1: loaded successfully
+2	11:39:34.139	Custom indicator Quadrilateral EURUSD,H1: loaded successfully
+2	11:39:34.309	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	11:39:34.400	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	11:39:34.435	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	11:39:34.529	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: loaded successfully
+2	11:39:34.655	Custom indicator TDI-With_Alerts EURUSD,H1: loaded successfully
+2	11:39:34.691	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: loaded successfully
+0	11:41:36.854	'27143750': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:41:37.499	'27143750': order was opened : #77338189 sell 1.00 [DAX30] at 13899.28 sl: 0.00 tp: 0.00
+0	11:43:51.039	'27143750': close order #77338189 sell 0.50 [DAX30] at 13899.28 sl: 0.00 tp: 0.00 at price 0.00
+0	11:43:51.652	'27143750': order #77338189 sell 0.50 [DAX30] at 13899.28 sl: 0.00 tp: 0.00 closed at price 13910.97
+0	11:43:51.652	'27143750': remainder of order #77338189 was opened : #77338307 sell 0.50 [DAX30] at 13899.28 sl: 0.00 tp: 0.00
+0	11:44:32.999	'27143750': close order #77338307 sell 0.50 [DAX30] at 13899.28 sl: 0.00 tp: 0.00 at price 0.00
+0	11:44:33.680	'27143750': order #77338307 sell 0.50 [DAX30] at 13899.28 sl: 0.00 tp: 0.00 closed at price 13910.92
+0	11:55:14.820	'27143750': modify order #77337794 buy 1.00 [DAX30] at 13910.17 sl: 0.00 tp: 0.00 -> sl: 13909.18 tp: 0.00
+0	11:55:15.117	'27143750': order #77337794 buy 1.00 [DAX30] at 13910.17 was modified -> sl: 13909.18 tp: 0.00
+0	11:55:25.026	'27143750': modify order #77337794 buy 1.00 [DAX30] at 13910.17 sl: 13909.18 tp: 0.00 -> sl: 13928.05 tp: 0.00
+0	11:55:25.618	'27143750': order #77337794 buy 1.00 [DAX30] at 13910.17 was modified -> sl: 13928.05 tp: 0.00
+0	11:55:50.183	'27143750': order #77337794 buy 1.00 [DAX30] at 13910.17 closed due stop-loss at price 13927.13
+0	11:57:24.497	'27143750': order buy market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	11:57:25.185	'27143750': order was opened : #77339292 buy 0.30 [DAX30] at 13927.55 sl: 0.00 tp: 0.00
+0	11:57:34.228	'27143750': modify order #77339292 buy 0.30 [DAX30] at 13927.55 sl: 0.00 tp: 0.00 -> sl: 13921.50 tp: 0.00
+0	11:57:34.526	'27143750': order #77339292 buy 0.30 [DAX30] at 13927.55 was modified -> sl: 13921.50 tp: 0.00
+0	11:57:56.283	'27143750': modify order #77339292 buy 0.30 [DAX30] at 13927.55 sl: 13921.50 tp: 0.00 -> sl: 13928.05 tp: 0.00
+0	11:57:56.656	'27143750': order #77339292 buy 0.30 [DAX30] at 13927.55 was modified -> sl: 13928.05 tp: 0.00
+0	11:58:05.203	'27143750': order #77339292 buy 0.30 [DAX30] at 13927.55 closed due stop-loss at price 13926.75
+0	11:58:39.340	'27143750': order sell market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	11:58:39.943	'27143750': order was opened : #77339411 sell 0.30 [DAX30] at 13927.23 sl: 0.00 tp: 0.00
+0	11:58:46.590	'27143750': modify order #77339411 sell 0.30 [DAX30] at 13927.23 sl: 0.00 tp: 0.00 -> sl: 13933.25 tp: 0.00
+0	11:58:46.912	'27143750': order #77339411 sell 0.30 [DAX30] at 13927.23 was modified -> sl: 13933.25 tp: 0.00
+0	11:59:15.566	'27143750': modify order #77339411 sell 0.30 [DAX30] at 13927.23 sl: 13933.25 tp: 0.00 -> sl: 13926.70 tp: 0.00
+0	11:59:15.883	'27143750': order #77339411 sell 0.30 [DAX30] at 13927.23 was modified -> sl: 13926.70 tp: 0.00
+0	11:59:58.289	'27143750': modify order #77339411 sell 0.30 [DAX30] at 13927.23 sl: 13926.70 tp: 0.00 -> sl: 13923.43 tp: 0.00
+0	11:59:58.570	'27143750': order #77339411 sell 0.30 [DAX30] at 13927.23 was modified -> sl: 13923.43 tp: 0.00
+0	12:00:03.390	'27143750': modify order #77339411 sell 0.30 [DAX30] at 13927.23 sl: 13923.43 tp: 0.00 -> sl: 13921.70 tp: 0.00
+0	12:00:03.835	'27143750': order #77339411 sell 0.30 [DAX30] at 13927.23 was modified -> sl: 13921.70 tp: 0.00
+0	12:00:33.244	'27143750': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	12:00:33.839	'27143750': order was opened : #77339582 sell 0.50 [DAX30] at 13915.36 sl: 0.00 tp: 0.00
+0	12:00:41.106	'27143750': modify order #77339582 sell 0.50 [DAX30] at 13915.36 sl: 0.00 tp: 0.00 -> sl: 13933.06 tp: 0.00
+0	12:00:41.461	'27143750': order #77339582 sell 0.50 [DAX30] at 13915.36 was modified -> sl: 13933.06 tp: 0.00
+0	12:00:52.806	'27143750': modify order #77339582 sell 0.50 [DAX30] at 13915.36 sl: 13933.06 tp: 0.00 -> sl: 13914.76 tp: 0.00
+1	12:00:53.097	'27143750': modification of order #77339582 sell 0.50 [DAX30] at 13915.36 sl: 13933.06 tp: 0.00 -> sl: 13914.76 tp: 0.00 failed [Invalid S/L or T/P]
+1	12:01:26.738	'27143750': modification of order #77339582 sell 0.50 [DAX30] at 13915.36 sl: 13933.06 tp: 0.00 -> sl: 13914.96 tp: 0.00 failed [Invalid S/L or T/P]
+0	12:01:29.281	'27143750': close order #77339411 sell 0.30 [DAX30] at 13927.23 sl: 13921.70 tp: 0.00 at price 0.00
+0	12:01:30.356	'27143750': order #77339411 sell 0.30 [DAX30] at 13927.23 sl: 13921.70 tp: 0.00 closed at price 13916.18
+0	12:02:04.959	'27143750': modify order #77339582 sell 0.50 [DAX30] at 13915.36 sl: 13933.06 tp: 0.00 -> sl: 13914.96 tp: 0.00
+0	12:02:05.265	'27143750': order #77339582 sell 0.50 [DAX30] at 13915.36 was modified -> sl: 13914.96 tp: 0.00
+0	12:02:05.476	'27143750': order #77339582 sell 0.50 [DAX30] at 13915.36 closed due stop-loss at price 13915.18
+0	12:17:21.641	'27143750': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	12:17:22.998	'27143750': order was opened : #77340591 buy 1.00 [DAX30] at 13939.79 sl: 0.00 tp: 0.00
+0	12:17:59.438	'27143750': modify order #77340591 buy 1.00 [DAX30] at 13939.79 sl: 0.00 tp: 0.00 -> sl: 13927.22 tp: 0.00
+0	12:17:59.749	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 was modified -> sl: 13927.22 tp: 0.00
+0	12:19:01.524	'27143750': modify order #77340591 buy 1.00 [DAX30] at 13939.79 sl: 13927.22 tp: 0.00 -> sl: 13940.11 tp: 0.00
+0	12:19:01.873	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 was modified -> sl: 13940.11 tp: 0.00
+0	12:19:07.032	'27143750': modify order #77340591 buy 1.00 [DAX30] at 13939.79 sl: 13940.11 tp: 0.00 -> sl: 13940.68 tp: 0.00
+0	12:19:07.404	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 was modified -> sl: 13940.68 tp: 0.00
+0	12:19:20.622	'27143750': modify order #77340591 buy 1.00 [DAX30] at 13939.79 sl: 13940.68 tp: 0.00 -> sl: 13947.68 tp: 0.00
+0	12:19:20.922	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 was modified -> sl: 13947.68 tp: 0.00
+0	12:19:27.498	'27143750': modify order #77340591 buy 1.00 [DAX30] at 13939.79 sl: 13947.68 tp: 0.00 -> sl: 13950.37 tp: 0.00
+0	12:19:27.816	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 was modified -> sl: 13950.37 tp: 0.00
+0	12:20:56.166	'27143750': modify order #77340591 buy 1.00 [DAX30] at 13939.79 sl: 13950.37 tp: 0.00 -> sl: 13954.56 tp: 0.00
+0	12:20:56.479	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 was modified -> sl: 13954.56 tp: 0.00
+0	12:21:13.522	'27143750': order #77340591 buy 1.00 [DAX30] at 13939.79 closed due stop-loss at price 13954.15
+0	12:30:11.800	'27143750': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	12:30:12.457	'27143750': order was opened : #77341539 buy 1.00 [DAX30] at 13939.36 sl: 0.00 tp: 0.00
+0	12:30:17.504	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 0.00 tp: 0.00 -> sl: 13933.29 tp: 0.00
+0	12:30:17.855	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13933.29 tp: 0.00
+0	12:34:20.477	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 13933.29 tp: 0.00 -> sl: 13939.89 tp: 0.00
+0	12:34:20.796	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13939.89 tp: 0.00
+0	12:34:56.516	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 13939.89 tp: 0.00 -> sl: 13939.89 tp: 14150.00
+0	12:34:56.992	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13939.89 tp: 14150.00
+0	12:35:24.132	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 13939.89 tp: 14150.00 -> sl: 13941.84 tp: 14150.00
+0	12:35:24.438	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13941.84 tp: 14150.00
+0	12:37:20.414	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 13941.84 tp: 14150.00 -> sl: 13943.80 tp: 14150.00
+0	12:37:20.712	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13943.80 tp: 14150.00
+0	12:37:44.721	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 13943.80 tp: 14150.00 -> sl: 13945.27 tp: 14150.00
+0	12:37:45.006	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13945.27 tp: 14150.00
+0	12:38:13.249	'27143750': modify order #77341539 buy 1.00 [DAX30] at 13939.36 sl: 13945.27 tp: 14150.00 -> sl: 13949.67 tp: 14150.00
+0	12:38:13.535	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 was modified -> sl: 13949.67 tp: 14150.00
+0	12:38:23.485	'27143750': order #77341539 buy 1.00 [DAX30] at 13939.36 closed due stop-loss at price 13949.21
+0	12:39:16.886	'27143750': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	12:39:17.670	'27143750': order was opened : #77342006 sell 1.00 [DAX30] at 13945.88 sl: 0.00 tp: 0.00
+0	12:39:25.906	'27143750': modify order #77342006 sell 1.00 [DAX30] at 13945.88 sl: 0.00 tp: 0.00 -> sl: 13952.36 tp: 0.00
+0	12:39:26.866	'27143750': order #77342006 sell 1.00 [DAX30] at 13945.88 was modified -> sl: 13952.36 tp: 0.00
+1	12:39:34.853	'27143750': modification of order #77342006 sell 1.00 [DAX30] at 13945.88 sl: 13952.36 tp: 0.00 -> sl: 13945.51 tp: 0.00 failed [Invalid S/L or T/P]
+1	12:39:49.732	'27143750': modification of order #77342006 sell 1.00 [DAX30] at 13945.88 sl: 13952.36 tp: 0.00 -> sl: 13945.51 tp: 0.00 failed [Invalid S/L or T/P]
+1	12:39:59.283	'27143750': modification of order #77342006 sell 1.00 [DAX30] at 13945.88 sl: 13952.36 tp: 0.00 -> sl: 13945.51 tp: 0.00 failed [Invalid S/L or T/P]
+0	12:40:07.751	'27143750': modify order #77342006 sell 1.00 [DAX30] at 13945.88 sl: 13952.36 tp: 0.00 -> sl: 13945.51 tp: 0.00
+0	12:40:08.050	'27143750': order #77342006 sell 1.00 [DAX30] at 13945.88 was modified -> sl: 13945.51 tp: 0.00
+0	12:40:18.442	'27143750': modify order #77342006 sell 1.00 [DAX30] at 13945.88 sl: 13945.51 tp: 0.00 -> sl: 13945.02 tp: 0.00
+0	12:40:18.827	'27143750': order #77342006 sell 1.00 [DAX30] at 13945.88 was modified -> sl: 13945.02 tp: 0.00
+0	12:40:39.929	'27143750': order #77342006 sell 1.00 [DAX30] at 13945.88 closed due stop-loss at price 13946.01
+1	13:22:44.506	'27143750': ping failed
+1	13:22:44.568	'27143750': datacenter connecting failed [6]
+0	13:22:45.432	'27143750': login on AdmiralMarkets-Live through Access Point #9 (ping: 204.37 ms)
+0	13:22:50.421	'27143750': login datacenter on AdmiralMarkets-Live through Access Point #9 (ping: 204.37 ms)
+0	13:22:52.477	'27143750': previous successful authorization performed from 197.149.15.84
+0	13:23:24.753	'27143750': ping to current access point Access Point #9 is 219.29 ms
+0	13:29:44.562	'27143750': order sell market 0.05 EURUSD sl: 0.00000 tp: 0.00000
+0	13:29:45.775	'27143750': order was opened : #77344557 sell 0.05 EURUSD at 1.21751 sl: 0.00000 tp: 0.00000
+0	13:30:28.223	'27143750': order sell market 0.30 [DAX30] sl: 0.00 tp: 0.00
+0	13:30:28.907	'27143750': order was opened : #77344896 sell 0.30 [DAX30] at 13911.86 sl: 0.00 tp: 0.00
+0	13:30:53.194	'27143750': modify order #77344557 sell 0.05 EURUSD at 1.21751 sl: 0.00000 tp: 0.00000 -> sl: 1.22083 tp: 0.00000
+0	13:30:58.285	'27143750': close order #77344896 sell 0.30 [DAX30] at 13911.86 sl: 0.00 tp: 0.00 at price 0.00
+0	13:31:00.483	'27143750': order #77344557 sell 0.05 EURUSD at 1.21751 was modified -> sl: 1.22083 tp: 0.00000
+0	13:31:01.844	'27143750': order #77344896 sell 0.30 [DAX30] at 13911.86 sl: 0.00 tp: 0.00 closed at price 13895.73
+0	13:34:46.372	'27143750': modify order #77344557 sell 0.05 EURUSD at 1.21751 sl: 1.22083 tp: 0.00000 -> sl: 1.22083 tp: 1.15352
+0	13:34:48.445	'27143750': order #77344557 sell 0.05 EURUSD at 1.21751 was modified -> sl: 1.22083 tp: 1.15352
+0	13:37:41.382	'27143750': order sell market 0.40 [DAX30] sl: 0.00 tp: 0.00
+0	13:37:42.090	'27143750': order was opened : #77347038 sell 0.40 [DAX30] at 13882.40 sl: 0.00 tp: 0.00
+0	13:38:03.805	'27143750': modify order #77347038 sell 0.40 [DAX30] at 13882.40 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 13850.00
+0	13:38:13.644	'27143750': order #77347038 sell 0.40 [DAX30] at 13882.40 was modified -> sl: 0.00 tp: 13850.00
+0	13:38:17.919	'27143750': modify order #77347038 sell 0.40 [DAX30] at 13882.40 sl: 0.00 tp: 13850.00 -> sl: 13882.46 tp: 13850.00
+0	13:38:27.082	'27143750': order #77347038 sell 0.40 [DAX30] at 13882.40 was modified -> sl: 13882.46 tp: 13850.00
+0	13:38:31.113	'27143750': modify order #77347038 sell 0.40 [DAX30] at 13882.40 sl: 13882.46 tp: 13850.00 -> sl: 13878.62 tp: 13850.00
+0	13:38:31.473	'27143750': order #77347038 sell 0.40 [DAX30] at 13882.40 was modified -> sl: 13878.62 tp: 13850.00
+0	13:38:55.017	'27143750': order #77347038 sell 0.40 [DAX30] at 13882.40 closed due stop-loss at price 13878.83
+0	13:41:33.420	'27143750': order buy market 0.40 [DAX30] sl: 0.00 tp: 0.00
+0	13:41:34.035	'27143750': order was opened : #77347333 buy 0.40 [DAX30] at 13885.80 sl: 0.00 tp: 0.00
+0	13:41:44.426	'27143750': modify order #77347333 buy 0.40 [DAX30] at 13885.80 sl: 0.00 tp: 0.00 -> sl: 13870.53 tp: 0.00
+0	13:41:44.704	'27143750': order #77347333 buy 0.40 [DAX30] at 13885.80 was modified -> sl: 13870.53 tp: 0.00
+0	13:42:25.529	'27143750': modify order #77347333 buy 0.40 [DAX30] at 13885.80 sl: 13870.53 tp: 0.00 -> sl: 13886.35 tp: 0.00
+0	13:42:25.816	'27143750': order #77347333 buy 0.40 [DAX30] at 13885.80 was modified -> sl: 13886.35 tp: 0.00
+0	13:47:17.259	'27143750': order #77347333 buy 0.40 [DAX30] at 13885.80 closed due stop-loss at price 13885.95
+0	13:49:14.889	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	13:49:15.438	'27143750': order was opened : #77347784 buy 0.50 [DAX30] at 13889.38 sl: 0.00 tp: 0.00
+0	13:49:22.535	'27143750': modify order #77347784 buy 0.50 [DAX30] at 13889.38 sl: 0.00 tp: 0.00 -> sl: 13882.32 tp: 0.00
+0	13:49:22.904	'27143750': order #77347784 buy 0.50 [DAX30] at 13889.38 was modified -> sl: 13882.32 tp: 0.00
+0	13:49:31.516	'27143750': modify order #77347784 buy 0.50 [DAX30] at 13889.38 sl: 13882.32 tp: 0.00 -> sl: 13889.51 tp: 0.00
+0	13:49:31.777	'27143750': order #77347784 buy 0.50 [DAX30] at 13889.38 was modified -> sl: 13889.51 tp: 0.00
+0	13:51:06.967	'27143750': modify order #77347784 buy 0.50 [DAX30] at 13889.38 sl: 13889.51 tp: 0.00 -> sl: 13901.02 tp: 0.00
+0	13:51:07.231	'27143750': order #77347784 buy 0.50 [DAX30] at 13889.38 was modified -> sl: 13901.02 tp: 0.00
+0	13:51:27.150	'27143750': order #77347784 buy 0.50 [DAX30] at 13889.38 closed due stop-loss at price 13899.44
+0	13:52:29.313	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	13:52:29.837	'27143750': order was opened : #77347949 buy 0.50 [DAX30] at 13906.79 sl: 0.00 tp: 0.00
+0	13:53:31.696	'27143750': modify order #77347949 buy 0.50 [DAX30] at 13906.79 sl: 0.00 tp: 0.00 -> sl: 13906.48 tp: 0.00
+0	13:53:32.019	'27143750': order #77347949 buy 0.50 [DAX30] at 13906.79 was modified -> sl: 13906.48 tp: 0.00
+0	13:53:33.886	'27143750': modify order #77347949 buy 0.50 [DAX30] at 13906.79 sl: 13906.48 tp: 0.00 -> sl: 13907.35 tp: 0.00
+0	13:53:34.151	'27143750': order #77347949 buy 0.50 [DAX30] at 13906.79 was modified -> sl: 13907.35 tp: 0.00
+0	13:53:52.042	'27143750': close order #77347949 buy 0.50 [DAX30] at 13906.79 sl: 13907.35 tp: 0.00 at price 0.00
+0	13:53:52.571	'27143750': order #77347949 buy 0.50 [DAX30] at 13906.79 sl: 13907.35 tp: 0.00 closed at price 13910.17
+2	13:54:24.733	Expert Admiral - Mini Terminal EURUSD,M15: loaded successfully
+0	13:54:36.485	'27143750': modify order #77344557 sell 0.05 EURUSD at 1.21751 sl: 1.22083 tp: 1.15352 -> sl: 1.22083 tp: 1.21751
+0	13:54:36.800	'27143750': order #77344557 sell 0.05 EURUSD at 1.21751 was modified -> sl: 1.22083 tp: 1.21751
+0	13:55:11.798	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	13:55:32.197	'27143750': order was opened : #77348078 buy 0.50 [DAX30] at 13908.00 sl: 0.00 tp: 0.00
+0	13:56:17.913	'27143750': modify order #77348078 buy 0.50 [DAX30] at 13908.00 sl: 0.00 tp: 0.00 -> sl: 13903.32 tp: 0.00
+0	13:56:18.301	'27143750': order #77348078 buy 0.50 [DAX30] at 13908.00 was modified -> sl: 13903.32 tp: 0.00
+1	13:58:00.086	'27143750': modification of order #77348078 buy 0.50 [DAX30] at 13908.00 sl: 13903.32 tp: 0.00 -> sl: 13907.92 tp: 0.00 failed [Invalid S/L or T/P]
+0	13:58:23.163	'27143750': order #77348078 buy 0.50 [DAX30] at 13908.00 closed due stop-loss at price 13903.31
+0	14:00:00.985	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:00:16.830	'27143750': order was opened : #77348329 buy 0.50 [DAX30] at 13907.67 sl: 0.00 tp: 0.00
+1	14:00:30.516	'27143750': modification of order #77348329 buy 0.50 [DAX30] at 13907.67 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 13908.21 failed [Invalid S/L or T/P]
+0	14:00:43.254	'27143750': modify order #77348329 buy 0.50 [DAX30] at 13907.67 sl: 0.00 tp: 0.00 -> sl: 13870.53 tp: 0.00
+0	14:00:43.519	'27143750': order #77348329 buy 0.50 [DAX30] at 13907.67 was modified -> sl: 13870.53 tp: 0.00
+0	14:01:39.503	'27143750': modify order #77348329 buy 0.50 [DAX30] at 13907.67 sl: 13870.53 tp: 0.00 -> sl: 13912.81 tp: 0.00
+0	14:01:41.505	'27143750': order #77348329 buy 0.50 [DAX30] at 13907.67 was modified -> sl: 13912.81 tp: 0.00
+0	14:02:22.673	'27143750': order #77348329 buy 0.50 [DAX30] at 13907.67 closed due stop-loss at price 13912.79
+0	14:02:37.463	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:02:38.102	'27143750': order was opened : #77348435 buy 0.50 [DAX30] at 13918.08 sl: 0.00 tp: 0.00
+0	14:02:46.886	'27143750': modify order #77348435 buy 0.50 [DAX30] at 13918.08 sl: 0.00 tp: 0.00 -> sl: 13870.53 tp: 0.00
+0	14:02:47.160	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 was modified -> sl: 13870.53 tp: 0.00
+0	14:04:28.741	'27143750': order #77344557 sell 0.05 EURUSD at 1.21751 closed due take-profit at price 1.21750
+0	14:05:28.212	'27143750': modify order #77348435 buy 0.50 [DAX30] at 13918.08 sl: 13870.53 tp: 0.00 -> sl: 13870.53 tp: 13918.08
+0	14:05:29.666	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 was modified -> sl: 13870.53 tp: 13918.08
+0	14:06:27.167	'27143750': modify order #77348435 buy 0.50 [DAX30] at 13918.08 sl: 13870.53 tp: 13918.08 -> sl: 13870.53 tp: 13932.95
+0	14:06:27.426	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 was modified -> sl: 13870.53 tp: 13932.95
+0	14:06:39.401	'27143750': modify order #77348435 buy 0.50 [DAX30] at 13918.08 sl: 13870.53 tp: 13932.95 -> sl: 13870.53 tp: 13943.30
+0	14:06:39.675	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 was modified -> sl: 13870.53 tp: 13943.30
+0	14:07:20.807	'27143750': modify order #77348435 buy 0.50 [DAX30] at 13918.08 sl: 13870.53 tp: 13943.30 -> sl: 13870.53 tp: 14005.00
+0	14:07:49.858	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 was modified -> sl: 13870.53 tp: 14005.00
+0	14:20:46.759	'27143750': modify order #77348435 buy 0.50 [DAX30] at 13918.08 sl: 13870.53 tp: 14005.00 -> sl: 13918.85 tp: 14005.00
+0	14:20:47.038	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 was modified -> sl: 13918.85 tp: 14005.00
+0	14:22:03.778	'27143750': order #77348435 buy 0.50 [DAX30] at 13918.08 closed due stop-loss at price 13918.52
+0	14:24:28.985	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:24:29.837	'27143750': order was opened : #77349469 buy 0.50 [DAX30] at 13920.15 sl: 0.00 tp: 0.00
+0	14:28:23.597	'27143750': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:28:37.799	'27143750': order was opened : #77349671 sell 0.50 [DAX30] at 13897.42 sl: 0.00 tp: 0.00
+0	14:33:13.714	'27143750': close order #77349671 sell 0.50 [DAX30] at 13897.42 sl: 0.00 tp: 0.00 at price 0.00
+0	14:33:14.494	'27143750': order #77349671 sell 0.50 [DAX30] at 13897.42 sl: 0.00 tp: 0.00 closed at price 13900.17
+0	14:33:14.838	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:33:15.578	'27143750': order was opened : #77350351 buy 0.50 [DAX30] at 13900.17 sl: 0.00 tp: 0.00
+0	14:33:17.739	Trades: use hosting service to speed up the execution - 2.22 ms via 'MQL5 London LD4 08 (MQL5.community)' instead of 219.29 ms
+0	14:34:27.338	'27143750': modify order #77350351 buy 0.50 [DAX30] at 13900.17 sl: 0.00 tp: 0.00 -> sl: 13899.87 tp: 0.00
+0	14:34:27.616	'27143750': order #77350351 buy 0.50 [DAX30] at 13900.17 was modified -> sl: 13899.87 tp: 0.00
+0	14:34:30.399	'27143750': modify order #77350351 buy 0.50 [DAX30] at 13900.17 sl: 13899.87 tp: 0.00 -> sl: 13900.73 tp: 0.00
+0	14:34:30.667	'27143750': order #77350351 buy 0.50 [DAX30] at 13900.17 was modified -> sl: 13900.73 tp: 0.00
+0	14:38:40.637	'27143750': close order #77350351 buy 0.50 [DAX30] at 13900.17 sl: 13900.73 tp: 0.00 at price 0.00
+0	14:38:41.258	'27143750': order #77350351 buy 0.50 [DAX30] at 13900.17 sl: 13900.73 tp: 0.00 closed at price 13902.41
+0	14:42:22.020	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:42:22.520	'27143750': order was opened : #77350789 buy 0.50 [DAX30] at 13906.54 sl: 0.00 tp: 0.00
+0	14:42:47.804	'27143750': modify order #77350789 buy 0.50 [DAX30] at 13906.54 sl: 0.00 tp: 0.00 -> sl: 13900.73 tp: 0.00
+0	14:42:48.069	'27143750': order #77350789 buy 0.50 [DAX30] at 13906.54 was modified -> sl: 13900.73 tp: 0.00
+0	14:43:03.783	'27143750': modify order #77350789 buy 0.50 [DAX30] at 13906.54 sl: 13900.73 tp: 0.00 -> sl: 13907.06 tp: 0.00
+0	14:43:04.052	'27143750': order #77350789 buy 0.50 [DAX30] at 13906.54 was modified -> sl: 13907.06 tp: 0.00
+0	14:50:16.412	'27143750': modify order #77350789 buy 0.50 [DAX30] at 13906.54 sl: 13907.06 tp: 0.00 -> sl: 13897.03 tp: 0.00
+0	14:50:18.232	'27143750': order #77350789 buy 0.50 [DAX30] at 13906.54 was modified -> sl: 13897.03 tp: 0.00
+0	14:50:52.967	'27143750': modify order #77350789 buy 0.50 [DAX30] at 13906.54 sl: 13897.03 tp: 0.00 -> sl: 13888.84 tp: 0.00
+0	14:50:53.281	'27143750': order #77350789 buy 0.50 [DAX30] at 13906.54 was modified -> sl: 13888.84 tp: 0.00
+0	14:57:29.375	'27143750': close order #77350789 buy 0.50 [DAX30] at 13906.54 sl: 13888.84 tp: 0.00 at price 0.00
+0	14:57:29.922	'27143750': order #77350789 buy 0.50 [DAX30] at 13906.54 sl: 13888.84 tp: 0.00 closed at price 13905.09
+0	14:57:29.922	'27143750': order sell market 0.50 [DAX30] sl: 0.00 tp: 13888.84
+0	14:57:30.561	'27143750': order was opened : #77351445 sell 0.50 [DAX30] at 13904.59 sl: 0.00 tp: 13888.84
+0	14:57:54.532	'27143750': modify order #77351445 sell 0.50 [DAX30] at 13904.59 sl: 0.00 tp: 13888.84 -> sl: 0.00 tp: 0.00
+0	14:57:54.808	'27143750': order #77351445 sell 0.50 [DAX30] at 13904.59 was modified -> sl: 0.00 tp: 0.00
+0	15:00:39.046	'27143750': close order #77351445 sell 0.50 [DAX30] at 13904.59 sl: 0.00 tp: 0.00 at price 0.00
+0	15:00:39.572	'27143750': order #77351445 sell 0.50 [DAX30] at 13904.59 sl: 0.00 tp: 0.00 closed at price 13915.75
+0	15:00:39.572	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	15:00:40.104	'27143750': order was opened : #77351684 buy 0.50 [DAX30] at 13916.25 sl: 0.00 tp: 0.00
+0	15:02:10.661	'27143750': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:02:11.275	'27143750': order was opened : #77351778 sell 1.00 [DAX30] at 13903.91 sl: 0.00 tp: 0.00
+0	15:07:19.315	'27143750': close order #77351778 sell 1.00 [DAX30] at 13903.91 sl: 0.00 tp: 0.00 at price 0.00
+0	15:07:19.862	'27143750': order #77351778 sell 1.00 [DAX30] at 13903.91 sl: 0.00 tp: 0.00 closed at price 13903.71
+0	15:07:19.862	'27143750': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:07:20.893	'27143750': order was opened : #77352078 buy 1.00 [DAX30] at 13904.21 sl: 0.00 tp: 0.00
+0	15:15:01.049	'27143750': order sell market 2.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:15:01.785	'27143750': order was opened : #77352473 sell 2.00 [DAX30] at 13893.78 sl: 0.00 tp: 0.00
+0	15:23:44.942	'27143750': close order #77352473 sell 2.00 [DAX30] at 13893.78 sl: 0.00 tp: 0.00 at price 0.00
+0	15:23:45.557	'27143750': order #77352473 sell 2.00 [DAX30] at 13893.78 sl: 0.00 tp: 0.00 closed at price 13899.08
+0	15:23:45.557	'27143750': order buy market 2.00 [DAX30] sl: 0.00 tp: 0.00
+1	15:23:45.821	'27143750': order buy 2.00 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	15:25:36.401	'27143750': order sell market 2.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:25:37.038	'27143750': order was opened : #77353058 sell 2.00 [DAX30] at 13896.24 sl: 0.00 tp: 0.00
+0	15:30:38.095	'27143750': close order #77353058 sell 2.00 [DAX30] at 13896.24 sl: 0.00 tp: 0.00 at price 0.00
+0	15:30:38.648	'27143750': order #77353058 sell 2.00 [DAX30] at 13896.24 sl: 0.00 tp: 0.00 closed at price 13875.06
+0	15:31:09.363	'27143750': order sell market 2.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:31:09.874	'27143750': order was opened : #77354354 sell 2.00 [DAX30] at 13867.77 sl: 0.00 tp: 0.00
+0	15:31:15.598	'27143750': close order #77354354 sell 2.00 [DAX30] at 13867.77 sl: 0.00 tp: 0.00 at price 0.00
+0	15:31:16.149	'27143750': order #77354354 sell 2.00 [DAX30] at 13867.77 sl: 0.00 tp: 0.00 closed at price 13873.07
+0	15:31:50.019	'27143750': close order #77352078 buy 0.50 [DAX30] at 13904.21 sl: 0.00 tp: 0.00 at price 0.00
+0	15:31:50.691	'27143750': order #77352078 buy 0.50 [DAX30] at 13904.21 sl: 0.00 tp: 0.00 closed at price 13868.25
+0	15:31:50.691	'27143750': remainder of order #77352078 was opened : #77354405 buy 0.50 [DAX30] at 13904.21 sl: 0.00 tp: 0.00
+0	15:41:44.322	'27143750': modify order #77351684 buy 0.50 [DAX30] at 13916.25 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 14150.00
+0	15:41:44.613	'27143750': order #77351684 buy 0.50 [DAX30] at 13916.25 was modified -> sl: 0.00 tp: 14150.00
+0	15:51:49.434	'27143750': order sell market 2.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:51:50.192	'27143750': order was opened : #77355302 sell 2.00 [DAX30] at 13876.36 sl: 0.00 tp: 0.00
+0	15:53:34.337	'27143750': close order #77355302 sell 2.00 [DAX30] at 13876.36 sl: 0.00 tp: 0.00 at price 0.00
+0	15:53:34.941	'27143750': order #77355302 sell 2.00 [DAX30] at 13876.36 sl: 0.00 tp: 0.00 closed at price 13884.52
+0	15:55:12.118	'27143750': order sell market 2.00 [DAX30] sl: 0.00 tp: 0.00
+1	15:55:12.386	'27143750': order sell 2.00 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	16:17:28.340	'27143750': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:17:29.957	'27143750': order was opened : #77357168 buy 1.00 [DAX30] at 13891.77 sl: 0.00 tp: 0.00
+0	16:17:38.744	'27143750': modify order #77357168 buy 1.00 [DAX30] at 13891.77 sl: 0.00 tp: 0.00 -> sl: 13881.89 tp: 0.00
+0	16:17:39.031	'27143750': order #77357168 buy 1.00 [DAX30] at 13891.77 was modified -> sl: 13881.89 tp: 0.00
+0	16:18:41.708	'27143750': modify order #77357168 buy 1.00 [DAX30] at 13891.77 sl: 13881.89 tp: 0.00 -> sl: 13892.17 tp: 0.00
+0	16:18:42.151	'27143750': order #77357168 buy 1.00 [DAX30] at 13891.77 was modified -> sl: 13892.17 tp: 0.00
+0	16:19:20.996	'27143750': modify order #77357168 buy 1.00 [DAX30] at 13891.77 sl: 13892.17 tp: 0.00 -> sl: 13892.38 tp: 0.00
+0	16:19:21.656	'27143750': order #77357168 buy 1.00 [DAX30] at 13891.77 was modified -> sl: 13892.38 tp: 0.00
+0	16:20:03.818	'27143750': order #77357168 buy 1.00 [DAX30] at 13891.77 closed due stop-loss at price 13891.96
+0	16:20:19.023	'27143750': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:20:19.715	'27143750': order was opened : #77357293 buy 1.00 [DAX30] at 13895.78 sl: 0.00 tp: 0.00
+0	16:20:25.699	'27143750': modify order #77357293 buy 1.00 [DAX30] at 13895.78 sl: 0.00 tp: 0.00 -> sl: 13890.08 tp: 0.00
+0	16:20:26.756	'27143750': order #77357293 buy 1.00 [DAX30] at 13895.78 was modified -> sl: 13890.08 tp: 0.00
+0	16:22:24.470	'27143750': modify order #77357293 buy 1.00 [DAX30] at 13895.78 sl: 13890.08 tp: 0.00 -> sl: 13896.37 tp: 0.00
+0	16:22:25.256	'27143750': order #77357293 buy 1.00 [DAX30] at 13895.78 was modified -> sl: 13896.37 tp: 0.00
+0	16:23:17.104	'27143750': modify order #77357293 buy 1.00 [DAX30] at 13895.78 sl: 13896.37 tp: 0.00 -> sl: 13900.15 tp: 0.00
+0	16:23:17.401	'27143750': order #77357293 buy 1.00 [DAX30] at 13895.78 was modified -> sl: 13900.15 tp: 0.00
+0	16:23:49.352	'27143750': modify order #77357293 buy 1.00 [DAX30] at 13895.78 sl: 13900.15 tp: 0.00 -> sl: 13901.83 tp: 0.00
+0	16:23:49.661	'27143750': order #77357293 buy 1.00 [DAX30] at 13895.78 was modified -> sl: 13901.83 tp: 0.00
+0	16:24:17.993	'27143750': order #77357293 buy 1.00 [DAX30] at 13895.78 closed due stop-loss at price 13901.60
+0	16:27:05.414	'27143750': modify order #77354405 buy 0.50 [DAX30] at 13904.21 sl: 0.00 tp: 0.00 -> sl: 13903.93 tp: 0.00
+0	16:27:05.708	'27143750': order #77354405 buy 0.50 [DAX30] at 13904.21 was modified -> sl: 13903.93 tp: 0.00
+0	16:27:08.648	'27143750': modify order #77354405 buy 0.50 [DAX30] at 13904.21 sl: 13903.93 tp: 0.00 -> sl: 13904.56 tp: 0.00
+0	16:27:08.911	'27143750': order #77354405 buy 0.50 [DAX30] at 13904.21 was modified -> sl: 13904.56 tp: 0.00
+0	16:30:05.367	'27143750': modify order #77354405 buy 0.50 [DAX30] at 13904.21 sl: 13904.56 tp: 0.00 -> sl: 13911.27 tp: 0.00
+0	16:30:05.638	'27143750': order #77354405 buy 0.50 [DAX30] at 13904.21 was modified -> sl: 13911.27 tp: 0.00
+0	16:30:22.907	'27143750': modify order #77354405 buy 0.50 [DAX30] at 13904.21 sl: 13911.27 tp: 0.00 -> sl: 13913.16 tp: 0.00
+0	16:30:23.178	'27143750': order #77354405 buy 0.50 [DAX30] at 13904.21 was modified -> sl: 13913.16 tp: 0.00
+0	16:30:28.297	'27143750': modify order #77354405 buy 0.50 [DAX30] at 13904.21 sl: 13913.16 tp: 0.00 -> sl: 13914.84 tp: 0.00
+0	16:30:28.568	'27143750': order #77354405 buy 0.50 [DAX30] at 13904.21 was modified -> sl: 13914.84 tp: 0.00
+0	16:30:42.177	'27143750': order #77354405 buy 0.50 [DAX30] at 13904.21 closed due stop-loss at price 13914.66
+0	16:31:21.411	'27143750': modify order #77351684 buy 0.50 [DAX30] at 13916.25 sl: 0.00 tp: 14150.00 -> sl: 13910.43 tp: 14150.00
+0	16:31:21.677	'27143750': order #77351684 buy 0.50 [DAX30] at 13916.25 was modified -> sl: 13910.43 tp: 14150.00
+0	16:31:31.812	'27143750': modify order #77351684 buy 0.50 [DAX30] at 13916.25 sl: 13910.43 tp: 14150.00 -> sl: 13916.52 tp: 14150.00
+0	16:31:32.084	'27143750': order #77351684 buy 0.50 [DAX30] at 13916.25 was modified -> sl: 13916.52 tp: 14150.00
+0	16:31:43.553	'27143750': order #77351684 buy 0.50 [DAX30] at 13916.25 closed due stop-loss at price 13916.18
+0	16:32:01.284	'27143750': modify order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 0.00 tp: 0.00 -> sl: 13866.36 tp: 0.00
+0	16:32:01.582	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13866.36 tp: 0.00
+0	16:34:43.232	'27143750': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	16:34:43.702	'27143750': order was opened : #77358330 sell 0.50 [DAX30] at 13913.23 sl: 0.00 tp: 0.00
+0	16:34:56.633	'27143750': modify order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 13866.36 tp: 0.00 -> sl: 0.00 tp: 0.00
+0	16:34:56.969	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 0.00 tp: 0.00
+0	16:36:07.718	'27143750': close order #77358330 sell 0.50 [DAX30] at 13913.23 sl: 0.00 tp: 0.00 at price 0.00
+0	16:36:09.275	'27143750': order #77358330 sell 0.50 [DAX30] at 13913.23 sl: 0.00 tp: 0.00 closed at price 13920.15
+0	16:36:09.275	'27143750': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	16:36:09.940	'27143750': order was opened : #77358448 buy 0.50 [DAX30] at 13920.15 sl: 0.00 tp: 0.00
+0	16:39:07.839	'27143750': modify order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 0.00 tp: 0.00 -> sl: 13910.64 tp: 0.00
+0	16:39:08.130	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13910.64 tp: 0.00
+0	17:04:37.337	'27143750': modify order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 13910.64 tp: 0.00 -> sl: 13929.16 tp: 0.00
+0	17:04:38.563	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13929.16 tp: 0.00
+0	17:04:54.182	'27143750': modify order #77358448 buy 0.50 [DAX30] at 13920.15 sl: 0.00 tp: 0.00 -> sl: 13929.30 tp: 0.00
+0	17:04:54.627	'27143750': order #77358448 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13929.30 tp: 0.00
+0	17:05:09.122	'27143750': modify order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 13929.16 tp: 0.00 -> sl: 13931.65 tp: 0.00
+0	17:05:11.071	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13931.65 tp: 0.00
+1	17:05:20.032	'27143750': modification of order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 13931.65 tp: 0.00 -> sl: 13935.04 tp: 0.00 failed [Invalid S/L or T/P]
+0	17:05:29.426	'27143750': modify order #77358448 buy 0.50 [DAX30] at 13920.15 sl: 13929.30 tp: 0.00 -> sl: 13931.65 tp: 0.00
+0	17:05:34.616	'27143750': order #77358448 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13931.65 tp: 0.00
+0	17:06:26.518	'27143750': modify order #77349469 buy 0.50 [DAX30] at 13920.15 sl: 13931.65 tp: 0.00 -> sl: 13934.14 tp: 0.00
+0	17:06:26.826	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13934.14 tp: 0.00
+0	17:06:28.564	'27143750': order #77349469 buy 0.50 [DAX30] at 13920.15 closed due stop-loss at price 13934.10
+0	17:07:00.728	'27143750': modify order #77358448 buy 0.50 [DAX30] at 13920.15 sl: 13931.65 tp: 0.00 -> sl: 13932.49 tp: 0.00
+0	17:07:01.015	'27143750': order #77358448 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13932.49 tp: 0.00
+0	17:08:17.178	'27143750': modify order #77358448 buy 0.50 [DAX30] at 13920.15 sl: 13932.49 tp: 0.00 -> sl: 13934.59 tp: 0.00
+0	17:08:17.498	'27143750': order #77358448 buy 0.50 [DAX30] at 13920.15 was modified -> sl: 13934.59 tp: 0.00
+0	17:08:55.890	'27143750': order #77358448 buy 0.50 [DAX30] at 13920.15 closed due stop-loss at price 13934.00
+1	20:14:39.637	'27143750': connect failed [Connection échouée]
+1	20:14:40.789	MQL5.community: authorization failed
+1	20:14:41.448	MQL5.community: authorization failed
+1	22:50:24.862	MQL5.community: authorization failed
+1	22:55:24.902	MQL5.community: authorization failed
+1	23:00:24.859	MQL5.community: authorization failed
+1	23:05:24.879	MQL5.community: authorization failed
+1	23:10:24.167	MQL5.community: authorization failed
+1	23:15:24.857	MQL5.community: authorization failed
+1	23:20:25.129	MQL5.community: authorization failed
+1	23:25:24.912	MQL5.community: authorization failed
+1	23:30:24.973	MQL5.community: authorization failed
+1	23:35:24.914	MQL5.community: authorization failed
+1	23:40:25.095	MQL5.community: authorization failed
+1	23:45:24.924	MQL5.community: authorization failed
+1	23:50:24.894	MQL5.community: authorization failed
+1	23:55:24.927	MQL5.community: authorization failed

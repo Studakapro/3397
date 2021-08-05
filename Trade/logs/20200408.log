@@ -1,0 +1,1209 @@
+1	07:05:10.227	'23842653': ping failed
+1	07:05:10.233	'23842653': datacenter connecting failed [6]
+0	07:05:11.318	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 537.38 ms)
+0	07:05:14.425	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 537.38 ms)
+0	07:05:15.072	'23842653': previous successful authorization performed from 41.188.54.52
+0	07:05:22.821	'23842653': auto connecting to a better access point Access Point #6 (ping is 217.21 ms)
+0	07:05:23.552	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 217.21 ms)
+0	07:05:25.608	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 217.21 ms)
+0	07:05:26.502	'23842653': previous successful authorization performed from 41.188.54.52
+1	10:58:32.605	'23842653': ping failed
+1	10:58:33.004	'23842653': connect failed [Connection échouée]
+0	10:58:57.774	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	10:59:04.732	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	10:59:05.751	'23842653': previous successful authorization performed from 41.188.54.52
+0	10:59:20.664	'23842653': auto connecting to a better access point Access Point #6 (ping is 213.89 ms)
+0	10:59:22.191	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 213.89 ms)
+0	10:59:23.904	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 213.89 ms)
+0	10:59:24.456	'23842653': previous successful authorization performed from 41.188.54.155
+1	11:21:45.538	'23842653': ping failed
+0	11:21:47.921	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 213.89 ms)
+0	11:21:50.234	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 213.89 ms)
+0	11:21:51.643	'23842653': previous successful authorization performed from 41.188.54.155
+0	11:39:05.446	'23842653': login datacenter on AdmiralMarkets-Demo
+0	11:39:07.650	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 436.29 ms)
+0	11:39:09.682	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 436.29 ms)
+0	11:39:11.925	'23842653': previous successful authorization performed from 41.188.54.155
+2	11:40:56.506	Custom indicator CandleTimer GBPUSD,M1: removed
+2	11:40:56.508	Custom indicator RSI Divergence Levels GBPUSD,M1: removed
+2	11:40:56.519	Custom indicator CandleTimer AUDJPY,M1: removed
+2	11:40:56.520	Custom indicator RSI Divergence Levels AUDJPY,M1: removed
+2	11:40:56.533	Custom indicator CandleTimer USDJPY,M1: removed
+2	11:40:56.535	Custom indicator RSI Divergence Levels USDJPY,M1: removed
+2	11:40:56.546	Custom indicator CandleTimer GBPJPY,M1: removed
+2	11:40:56.547	Custom indicator RSI Divergence Levels GBPJPY,M1: removed
+2	11:40:56.559	Custom indicator CandleTimer AUDUSD,M1: removed
+2	11:40:56.560	Custom indicator RSI Divergence Levels AUDUSD,M1: removed
+2	11:40:56.571	Custom indicator CandleTimer EURCHF,M1: removed
+2	11:40:56.573	Custom indicator RSI Divergence Levels EURCHF,M1: removed
+2	11:40:56.583	Custom indicator CandleTimer EURCAD,M1: removed
+2	11:40:56.585	Custom indicator RSI Divergence Levels EURCAD,M1: removed
+2	11:40:56.596	Custom indicator CandleTimer GBPAUD,M1: removed
+2	11:40:56.597	Custom indicator RSI Divergence Levels GBPAUD,M1: removed
+2	11:40:56.609	Custom indicator CandleTimer EURJPY,M1: removed
+2	11:40:56.610	Custom indicator RSI Divergence Levels EURJPY,M1: removed
+2	11:40:56.620	Custom indicator CandleTimer EURAUD,M1: removed
+2	11:40:56.622	Custom indicator RSI Divergence Levels EURAUD,M1: removed
+2	11:40:56.632	Custom indicator CandleTimer EURGBP,M1: removed
+2	11:40:56.634	Custom indicator RSI Divergence Levels EURGBP,M1: removed
+2	11:40:56.645	Custom indicator CandleTimer EURUSD,M1: removed
+2	11:40:56.647	Custom indicator RSI Divergence Levels EURUSD,M1: removed
+2	11:40:56.654	Custom indicator CandleTimer USDCHF,M1: removed
+2	11:40:56.656	Custom indicator RSI Divergence Levels USDCHF,M1: removed
+2	11:40:56.742	Custom indicator #P4L CandleTime AUDCAD,M1: loaded successfully
+2	11:40:56.752	Custom indicator TURBO PLUS+ AUDCAD,M1: loaded successfully
+2	11:40:56.761	Custom indicator ALERT SIGNAL AUDCAD,M1: loaded successfully
+2	11:40:56.877	Custom indicator MBFX Timing AUDCAD,M1: loaded successfully
+2	11:40:56.992	Custom indicator #P4L CandleTime AUDJPY,M1: loaded successfully
+2	11:40:56.998	Custom indicator TURBO PLUS+ AUDJPY,M1: loaded successfully
+2	11:40:57.006	Custom indicator ALERT SIGNAL AUDJPY,M1: loaded successfully
+2	11:40:57.125	Custom indicator MBFX Timing AUDJPY,M1: loaded successfully
+2	11:40:57.246	Custom indicator #P4L CandleTime AUDNZD,M1: loaded successfully
+2	11:40:57.253	Custom indicator TURBO PLUS+ AUDNZD,M1: loaded successfully
+2	11:40:57.260	Custom indicator ALERT SIGNAL AUDNZD,M1: loaded successfully
+2	11:40:57.372	Custom indicator MBFX Timing AUDNZD,M1: loaded successfully
+2	11:40:57.479	Custom indicator #P4L CandleTime AUDUSD,M1: loaded successfully
+2	11:40:57.486	Custom indicator TURBO PLUS+ AUDUSD,M1: loaded successfully
+2	11:40:57.495	Custom indicator ALERT SIGNAL AUDUSD,M1: loaded successfully
+2	11:40:57.606	Custom indicator MBFX Timing AUDUSD,M1: loaded successfully
+2	11:40:57.716	Custom indicator #P4L CandleTime AUDCHF,M1: loaded successfully
+2	11:40:57.724	Custom indicator TURBO PLUS+ AUDCHF,M1: loaded successfully
+2	11:40:57.731	Custom indicator ALERT SIGNAL AUDCHF,M1: loaded successfully
+2	11:40:57.844	Custom indicator MBFX Timing AUDCHF,M1: loaded successfully
+2	11:40:57.953	Custom indicator #P4L CandleTime CADJPY,M1: loaded successfully
+2	11:40:57.959	Custom indicator TURBO PLUS+ CADJPY,M1: loaded successfully
+2	11:40:57.967	Custom indicator ALERT SIGNAL CADJPY,M1: loaded successfully
+2	11:40:58.082	Custom indicator MBFX Timing CADJPY,M1: loaded successfully
+2	11:40:58.191	Custom indicator #P4L CandleTime CADCHF,M1: loaded successfully
+2	11:40:58.198	Custom indicator TURBO PLUS+ CADCHF,M1: loaded successfully
+2	11:40:58.207	Custom indicator ALERT SIGNAL CADCHF,M1: loaded successfully
+2	11:40:58.320	Custom indicator MBFX Timing CADCHF,M1: loaded successfully
+2	11:40:58.428	Custom indicator #P4L CandleTime CHFJPY,M1: loaded successfully
+2	11:40:58.435	Custom indicator TURBO PLUS+ CHFJPY,M1: loaded successfully
+2	11:40:58.442	Custom indicator ALERT SIGNAL CHFJPY,M1: loaded successfully
+2	11:40:58.555	Custom indicator MBFX Timing CHFJPY,M1: loaded successfully
+2	11:40:58.677	Custom indicator #P4L CandleTime EURUSD,M1: loaded successfully
+2	11:40:58.684	Custom indicator TURBO PLUS+ EURUSD,M1: loaded successfully
+2	11:40:58.692	Custom indicator ALERT SIGNAL EURUSD,M1: loaded successfully
+2	11:40:58.805	Custom indicator MBFX Timing EURUSD,M1: loaded successfully
+2	11:40:58.924	Custom indicator #P4L CandleTime EURAUD,M1: loaded successfully
+2	11:40:58.931	Custom indicator TURBO PLUS+ EURAUD,M1: loaded successfully
+2	11:40:58.939	Custom indicator ALERT SIGNAL EURAUD,M1: loaded successfully
+2	11:40:59.054	Custom indicator MBFX Timing EURAUD,M1: loaded successfully
+2	11:40:59.174	Custom indicator #P4L CandleTime EURGBP,M1: loaded successfully
+2	11:40:59.180	Custom indicator TURBO PLUS+ EURGBP,M1: loaded successfully
+2	11:40:59.187	Custom indicator ALERT SIGNAL EURGBP,M1: loaded successfully
+2	11:40:59.299	Custom indicator MBFX Timing EURGBP,M1: loaded successfully
+2	11:40:59.413	Custom indicator #P4L CandleTime EURCAD,M1: loaded successfully
+2	11:40:59.420	Custom indicator TURBO PLUS+ EURCAD,M1: loaded successfully
+2	11:40:59.428	Custom indicator ALERT SIGNAL EURCAD,M1: loaded successfully
+2	11:40:59.543	Custom indicator MBFX Timing EURCAD,M1: loaded successfully
+2	11:40:59.656	Custom indicator #P4L CandleTime EURJPY,M1: loaded successfully
+2	11:40:59.663	Custom indicator TURBO PLUS+ EURJPY,M1: loaded successfully
+2	11:40:59.671	Custom indicator ALERT SIGNAL EURJPY,M1: loaded successfully
+2	11:40:59.782	Custom indicator MBFX Timing EURJPY,M1: loaded successfully
+2	11:40:59.896	Custom indicator #P4L CandleTime EURNZD,M1: loaded successfully
+2	11:40:59.903	Custom indicator TURBO PLUS+ EURNZD,M1: loaded successfully
+2	11:40:59.911	Custom indicator ALERT SIGNAL EURNZD,M1: loaded successfully
+2	11:41:00.026	Custom indicator MBFX Timing EURNZD,M1: loaded successfully
+2	11:41:00.143	Custom indicator #P4L CandleTime EURCHF,M1: loaded successfully
+2	11:41:00.150	Custom indicator TURBO PLUS+ EURCHF,M1: loaded successfully
+2	11:41:00.158	Custom indicator ALERT SIGNAL EURCHF,M1: loaded successfully
+2	11:41:00.275	Custom indicator MBFX Timing EURCHF,M1: loaded successfully
+2	11:41:00.385	Custom indicator #P4L CandleTime GBPUSD,M1: loaded successfully
+2	11:41:00.392	Custom indicator TURBO PLUS+ GBPUSD,M1: loaded successfully
+2	11:41:00.399	Custom indicator ALERT SIGNAL GBPUSD,M1: loaded successfully
+2	11:41:00.512	Custom indicator MBFX Timing GBPUSD,M1: loaded successfully
+2	11:41:00.637	Custom indicator #P4L CandleTime GBPAUD,M1: loaded successfully
+2	11:41:00.643	Custom indicator TURBO PLUS+ GBPAUD,M1: loaded successfully
+2	11:41:00.651	Custom indicator ALERT SIGNAL GBPAUD,M1: loaded successfully
+2	11:41:00.761	Custom indicator MBFX Timing GBPAUD,M1: loaded successfully
+2	11:41:00.878	Custom indicator #P4L CandleTime GBPCAD,M1: loaded successfully
+2	11:41:00.885	Custom indicator TURBO PLUS+ GBPCAD,M1: loaded successfully
+2	11:41:00.893	Custom indicator ALERT SIGNAL GBPCAD,M1: loaded successfully
+2	11:41:01.005	Custom indicator MBFX Timing GBPCAD,M1: loaded successfully
+2	11:41:01.121	Custom indicator #P4L CandleTime GBPJPY,M1: loaded successfully
+2	11:41:01.128	Custom indicator TURBO PLUS+ GBPJPY,M1: loaded successfully
+2	11:41:01.137	Custom indicator ALERT SIGNAL GBPJPY,M1: loaded successfully
+2	11:41:01.247	Custom indicator MBFX Timing GBPJPY,M1: loaded successfully
+2	11:41:01.358	Custom indicator #P4L CandleTime GBPNZD,M1: loaded successfully
+2	11:41:01.364	Custom indicator TURBO PLUS+ GBPNZD,M1: loaded successfully
+2	11:41:01.372	Custom indicator ALERT SIGNAL GBPNZD,M1: loaded successfully
+2	11:41:01.480	Custom indicator MBFX Timing GBPNZD,M1: loaded successfully
+2	11:41:01.591	Custom indicator #P4L CandleTime GBPCHF,M1: loaded successfully
+2	11:41:01.597	Custom indicator TURBO PLUS+ GBPCHF,M1: loaded successfully
+2	11:41:01.606	Custom indicator ALERT SIGNAL GBPCHF,M1: loaded successfully
+2	11:41:01.718	Custom indicator MBFX Timing GBPCHF,M1: loaded successfully
+2	11:41:01.836	Custom indicator #P4L CandleTime NZDCAD,M1: loaded successfully
+2	11:41:01.843	Custom indicator TURBO PLUS+ NZDCAD,M1: loaded successfully
+2	11:41:01.851	Custom indicator ALERT SIGNAL NZDCAD,M1: loaded successfully
+2	11:41:01.961	Custom indicator MBFX Timing NZDCAD,M1: loaded successfully
+2	11:41:02.076	Custom indicator #P4L CandleTime NZDJPY,M1: loaded successfully
+2	11:41:02.087	Custom indicator TURBO PLUS+ NZDJPY,M1: loaded successfully
+2	11:41:02.100	Custom indicator ALERT SIGNAL NZDJPY,M1: loaded successfully
+2	11:41:02.233	Custom indicator MBFX Timing NZDJPY,M1: loaded successfully
+2	11:41:02.340	Custom indicator #P4L CandleTime NZDUSD,M1: loaded successfully
+2	11:41:02.348	Custom indicator TURBO PLUS+ NZDUSD,M1: loaded successfully
+2	11:41:02.355	Custom indicator ALERT SIGNAL NZDUSD,M1: loaded successfully
+2	11:41:02.468	Custom indicator MBFX Timing NZDUSD,M1: loaded successfully
+2	11:41:02.576	Custom indicator #P4L CandleTime NZDCHF,M1: loaded successfully
+2	11:41:02.583	Custom indicator TURBO PLUS+ NZDCHF,M1: loaded successfully
+2	11:41:02.591	Custom indicator ALERT SIGNAL NZDCHF,M1: loaded successfully
+2	11:41:02.701	Custom indicator MBFX Timing NZDCHF,M1: loaded successfully
+2	11:41:02.805	Custom indicator #P4L CandleTime USDJPY,M1: loaded successfully
+2	11:41:02.812	Custom indicator TURBO PLUS+ USDJPY,M1: loaded successfully
+2	11:41:02.820	Custom indicator ALERT SIGNAL USDJPY,M1: loaded successfully
+2	11:41:02.932	Custom indicator MBFX Timing USDJPY,M1: loaded successfully
+2	11:41:03.054	Custom indicator #P4L CandleTime USDCAD,M1: loaded successfully
+2	11:41:03.060	Custom indicator TURBO PLUS+ USDCAD,M1: loaded successfully
+2	11:41:03.070	Custom indicator ALERT SIGNAL USDCAD,M1: loaded successfully
+2	11:41:03.199	Custom indicator MBFX Timing USDCAD,M1: loaded successfully
+2	11:41:03.315	Custom indicator #P4L CandleTime USDCHF,M1: loaded successfully
+2	11:41:03.322	Custom indicator TURBO PLUS+ USDCHF,M1: loaded successfully
+2	11:41:03.330	Custom indicator ALERT SIGNAL USDCHF,M1: loaded successfully
+2	11:41:03.441	Custom indicator MBFX Timing USDCHF,M1: loaded successfully
+2	11:42:10.222	Custom indicator MBFX Timing AUDCAD,M1: removed
+2	11:42:10.225	Custom indicator MBFX Timing AUDJPY,M1: removed
+2	11:42:10.228	Custom indicator MBFX Timing AUDNZD,M1: removed
+2	11:42:10.231	Custom indicator MBFX Timing AUDUSD,M1: removed
+2	11:42:10.234	Custom indicator MBFX Timing AUDCHF,M1: removed
+2	11:42:10.237	Custom indicator MBFX Timing CADJPY,M1: removed
+2	11:42:10.240	Custom indicator MBFX Timing CADCHF,M1: removed
+2	11:42:10.244	Custom indicator MBFX Timing CHFJPY,M1: removed
+2	11:42:10.248	Custom indicator MBFX Timing EURUSD,M1: removed
+2	11:42:10.250	Custom indicator MBFX Timing EURAUD,M1: removed
+2	11:42:10.253	Custom indicator MBFX Timing EURGBP,M1: removed
+2	11:42:10.256	Custom indicator MBFX Timing EURCAD,M1: removed
+2	11:42:10.259	Custom indicator MBFX Timing EURJPY,M1: removed
+2	11:42:10.262	Custom indicator MBFX Timing EURNZD,M1: removed
+2	11:42:10.265	Custom indicator MBFX Timing EURCHF,M1: removed
+2	11:42:10.268	Custom indicator MBFX Timing GBPUSD,M1: removed
+2	11:42:10.271	Custom indicator MBFX Timing GBPAUD,M1: removed
+2	11:42:10.274	Custom indicator MBFX Timing GBPCAD,M1: removed
+2	11:42:10.277	Custom indicator MBFX Timing GBPJPY,M1: removed
+2	11:42:10.280	Custom indicator MBFX Timing GBPNZD,M1: removed
+2	11:42:10.283	Custom indicator MBFX Timing GBPCHF,M1: removed
+2	11:42:10.286	Custom indicator MBFX Timing NZDCAD,M1: removed
+2	11:42:10.289	Custom indicator MBFX Timing NZDJPY,M1: removed
+2	11:42:10.292	Custom indicator MBFX Timing NZDUSD,M1: removed
+2	11:42:10.295	Custom indicator MBFX Timing NZDCHF,M1: removed
+2	11:42:10.298	Custom indicator MBFX Timing USDJPY,M1: removed
+2	11:42:10.301	Custom indicator MBFX Timing USDCAD,M1: removed
+2	11:42:10.304	Custom indicator MBFX Timing USDCHF,M1: removed
+2	11:42:10.367	Custom indicator #P4L CandleTime EURUSD,M1: removed
+2	11:42:10.368	Custom indicator TURBO PLUS+ EURUSD,M1: removed
+2	11:42:10.370	Custom indicator ALERT SIGNAL EURUSD,M1: removed
+2	11:42:10.385	Custom indicator #P4L CandleTime NZDCAD,M1: removed
+2	11:42:10.386	Custom indicator TURBO PLUS+ NZDCAD,M1: removed
+2	11:42:10.388	Custom indicator ALERT SIGNAL NZDCAD,M1: removed
+2	11:42:10.402	Custom indicator #P4L CandleTime GBPCHF,M1: removed
+2	11:42:10.403	Custom indicator TURBO PLUS+ GBPCHF,M1: removed
+2	11:42:10.405	Custom indicator ALERT SIGNAL GBPCHF,M1: removed
+2	11:42:10.419	Custom indicator #P4L CandleTime AUDNZD,M1: removed
+2	11:42:10.421	Custom indicator TURBO PLUS+ AUDNZD,M1: removed
+2	11:42:10.422	Custom indicator ALERT SIGNAL AUDNZD,M1: removed
+2	11:42:10.436	Custom indicator #P4L CandleTime USDCHF,M1: removed
+2	11:42:10.437	Custom indicator TURBO PLUS+ USDCHF,M1: removed
+2	11:42:10.439	Custom indicator ALERT SIGNAL USDCHF,M1: removed
+2	11:42:10.452	Custom indicator #P4L CandleTime USDCAD,M1: removed
+2	11:42:10.454	Custom indicator TURBO PLUS+ USDCAD,M1: removed
+2	11:42:10.456	Custom indicator ALERT SIGNAL USDCAD,M1: removed
+2	11:42:10.471	Custom indicator #P4L CandleTime GBPUSD,M1: removed
+2	11:42:10.473	Custom indicator TURBO PLUS+ GBPUSD,M1: removed
+2	11:42:10.475	Custom indicator ALERT SIGNAL GBPUSD,M1: removed
+2	11:42:10.489	Custom indicator #P4L CandleTime EURCHF,M1: removed
+2	11:42:10.490	Custom indicator TURBO PLUS+ EURCHF,M1: removed
+2	11:42:10.492	Custom indicator ALERT SIGNAL EURCHF,M1: removed
+2	11:42:10.506	Custom indicator #P4L CandleTime EURAUD,M1: removed
+2	11:42:10.508	Custom indicator TURBO PLUS+ EURAUD,M1: removed
+2	11:42:10.510	Custom indicator ALERT SIGNAL EURAUD,M1: removed
+2	11:42:10.523	Custom indicator #P4L CandleTime AUDCHF,M1: removed
+2	11:42:10.524	Custom indicator TURBO PLUS+ AUDCHF,M1: removed
+2	11:42:10.526	Custom indicator ALERT SIGNAL AUDCHF,M1: removed
+2	11:42:10.539	Custom indicator #P4L CandleTime AUDUSD,M1: removed
+2	11:42:10.541	Custom indicator TURBO PLUS+ AUDUSD,M1: removed
+2	11:42:10.543	Custom indicator ALERT SIGNAL AUDUSD,M1: removed
+2	11:42:10.557	Custom indicator #P4L CandleTime EURNZD,M1: removed
+2	11:42:10.559	Custom indicator TURBO PLUS+ EURNZD,M1: removed
+2	11:42:10.562	Custom indicator ALERT SIGNAL EURNZD,M1: removed
+2	11:42:10.574	Custom indicator #P4L CandleTime GBPNZD,M1: removed
+2	11:42:10.576	Custom indicator TURBO PLUS+ GBPNZD,M1: removed
+2	11:42:10.579	Custom indicator ALERT SIGNAL GBPNZD,M1: removed
+2	11:42:10.592	Custom indicator #P4L CandleTime USDJPY,M1: removed
+2	11:42:10.596	Custom indicator TURBO PLUS+ USDJPY,M1: removed
+2	11:42:10.598	Custom indicator ALERT SIGNAL USDJPY,M1: removed
+2	11:42:10.613	Custom indicator #P4L CandleTime NZDCHF,M1: removed
+2	11:42:10.615	Custom indicator TURBO PLUS+ NZDCHF,M1: removed
+2	11:42:10.617	Custom indicator ALERT SIGNAL NZDCHF,M1: removed
+2	11:42:10.629	Custom indicator #P4L CandleTime GBPJPY,M1: removed
+2	11:42:10.631	Custom indicator TURBO PLUS+ GBPJPY,M1: removed
+2	11:42:10.633	Custom indicator ALERT SIGNAL GBPJPY,M1: removed
+2	11:42:10.643	Custom indicator #P4L CandleTime EURJPY,M1: removed
+2	11:42:10.646	Custom indicator TURBO PLUS+ EURJPY,M1: removed
+2	11:42:10.648	Custom indicator ALERT SIGNAL EURJPY,M1: removed
+2	11:42:10.658	Custom indicator #P4L CandleTime CHFJPY,M1: removed
+2	11:42:10.661	Custom indicator TURBO PLUS+ CHFJPY,M1: removed
+2	11:42:10.663	Custom indicator ALERT SIGNAL CHFJPY,M1: removed
+2	11:42:10.673	Custom indicator #P4L CandleTime NZDUSD,M1: removed
+2	11:42:10.675	Custom indicator TURBO PLUS+ NZDUSD,M1: removed
+2	11:42:10.677	Custom indicator ALERT SIGNAL NZDUSD,M1: removed
+2	11:42:10.690	Custom indicator #P4L CandleTime GBPCAD,M1: removed
+2	11:42:10.692	Custom indicator TURBO PLUS+ GBPCAD,M1: removed
+2	11:42:10.693	Custom indicator ALERT SIGNAL GBPCAD,M1: removed
+2	11:42:10.705	Custom indicator #P4L CandleTime EURCAD,M1: removed
+2	11:42:10.707	Custom indicator TURBO PLUS+ EURCAD,M1: removed
+2	11:42:10.708	Custom indicator ALERT SIGNAL EURCAD,M1: removed
+2	11:42:10.719	Custom indicator #P4L CandleTime CADCHF,M1: removed
+2	11:42:10.721	Custom indicator TURBO PLUS+ CADCHF,M1: removed
+2	11:42:10.723	Custom indicator ALERT SIGNAL CADCHF,M1: removed
+2	11:42:10.734	Custom indicator #P4L CandleTime AUDJPY,M1: removed
+2	11:42:10.736	Custom indicator TURBO PLUS+ AUDJPY,M1: removed
+2	11:42:10.737	Custom indicator ALERT SIGNAL AUDJPY,M1: removed
+2	11:42:10.748	Custom indicator #P4L CandleTime NZDJPY,M1: removed
+2	11:42:10.750	Custom indicator TURBO PLUS+ NZDJPY,M1: removed
+2	11:42:10.752	Custom indicator ALERT SIGNAL NZDJPY,M1: removed
+2	11:42:10.761	Custom indicator #P4L CandleTime GBPAUD,M1: removed
+2	11:42:10.764	Custom indicator TURBO PLUS+ GBPAUD,M1: removed
+2	11:42:10.766	Custom indicator ALERT SIGNAL GBPAUD,M1: removed
+2	11:42:10.774	Custom indicator #P4L CandleTime EURGBP,M1: removed
+2	11:42:10.776	Custom indicator TURBO PLUS+ EURGBP,M1: removed
+2	11:42:10.779	Custom indicator ALERT SIGNAL EURGBP,M1: removed
+2	11:42:10.790	Custom indicator #P4L CandleTime CADJPY,M1: removed
+2	11:42:10.792	Custom indicator TURBO PLUS+ CADJPY,M1: removed
+2	11:42:10.794	Custom indicator ALERT SIGNAL CADJPY,M1: removed
+2	11:42:10.800	Custom indicator #P4L CandleTime AUDCAD,M1: removed
+2	11:42:10.802	Custom indicator TURBO PLUS+ AUDCAD,M1: removed
+2	11:42:10.803	Custom indicator ALERT SIGNAL AUDCAD,M1: removed
+2	11:42:10.901	Custom indicator #P4L CandleTime AUDJPY,M5: loaded successfully
+2	11:42:10.910	Custom indicator TURBO PLUS+ AUDJPY,M5: loaded successfully
+2	11:42:10.920	Custom indicator ALERT SIGNAL AUDJPY,M5: loaded successfully
+2	11:42:11.053	Custom indicator MBFX Timing AUDJPY,M5: loaded successfully
+2	11:42:11.149	Custom indicator #P4L CandleTime AUDNZD,M1: loaded successfully
+2	11:42:11.157	Custom indicator TURBO PLUS+ AUDNZD,M1: loaded successfully
+2	11:42:11.166	Custom indicator ALERT SIGNAL AUDNZD,M1: loaded successfully
+2	11:42:11.294	Custom indicator MBFX Timing AUDNZD,M1: loaded successfully
+2	11:42:11.418	Custom indicator #P4L CandleTime AUDUSD,M15: loaded successfully
+2	11:42:11.425	Custom indicator TURBO PLUS+ AUDUSD,M15: loaded successfully
+2	11:42:11.434	Custom indicator ALERT SIGNAL AUDUSD,M15: loaded successfully
+2	11:42:11.555	Custom indicator MBFX Timing AUDUSD,M15: loaded successfully
+2	11:42:11.654	Custom indicator #P4L CandleTime AUDCHF,M15: loaded successfully
+2	11:42:11.662	Custom indicator TURBO PLUS+ AUDCHF,M15: loaded successfully
+2	11:42:11.672	Custom indicator ALERT SIGNAL AUDCHF,M15: loaded successfully
+2	11:42:11.807	Custom indicator MBFX Timing AUDCHF,M15: loaded successfully
+2	11:42:11.911	Custom indicator #P4L CandleTime CADJPY,M15: loaded successfully
+2	11:42:11.920	Custom indicator TURBO PLUS+ CADJPY,M15: loaded successfully
+2	11:42:11.930	Custom indicator ALERT SIGNAL CADJPY,M15: loaded successfully
+2	11:42:12.080	Custom indicator MBFX Timing CADJPY,M15: loaded successfully
+2	11:42:12.192	Custom indicator #P4L CandleTime CADCHF,M15: loaded successfully
+2	11:42:12.202	Custom indicator TURBO PLUS+ CADCHF,M15: loaded successfully
+2	11:42:12.212	Custom indicator ALERT SIGNAL CADCHF,M15: loaded successfully
+2	11:42:12.383	Custom indicator MBFX Timing CADCHF,M15: loaded successfully
+2	11:42:12.529	Custom indicator #P4L CandleTime CHFJPY,M15: loaded successfully
+2	11:42:12.540	Custom indicator TURBO PLUS+ CHFJPY,M15: loaded successfully
+2	11:42:12.554	Custom indicator ALERT SIGNAL CHFJPY,M15: loaded successfully
+2	11:42:12.734	Custom indicator MBFX Timing CHFJPY,M15: loaded successfully
+2	11:42:12.853	Custom indicator #P4L CandleTime EURUSD,M15: loaded successfully
+2	11:42:12.863	Custom indicator TURBO PLUS+ EURUSD,M15: loaded successfully
+2	11:42:12.874	Custom indicator ALERT SIGNAL EURUSD,M15: loaded successfully
+2	11:42:13.027	Custom indicator MBFX Timing EURUSD,M15: loaded successfully
+2	11:42:13.150	Custom indicator #P4L CandleTime EURAUD,M15: loaded successfully
+2	11:42:13.160	Custom indicator TURBO PLUS+ EURAUD,M15: loaded successfully
+2	11:42:13.170	Custom indicator ALERT SIGNAL EURAUD,M15: loaded successfully
+2	11:42:13.320	Custom indicator MBFX Timing EURAUD,M15: loaded successfully
+2	11:42:13.436	Custom indicator #P4L CandleTime EURGBP,M15: loaded successfully
+2	11:42:13.444	Custom indicator TURBO PLUS+ EURGBP,M15: loaded successfully
+2	11:42:13.454	Custom indicator ALERT SIGNAL EURGBP,M15: loaded successfully
+2	11:42:13.588	Custom indicator MBFX Timing EURGBP,M15: loaded successfully
+2	11:42:13.684	Custom indicator #P4L CandleTime EURCAD,M15: loaded successfully
+2	11:42:13.692	Custom indicator TURBO PLUS+ EURCAD,M15: loaded successfully
+2	11:42:13.701	Custom indicator ALERT SIGNAL EURCAD,M15: loaded successfully
+2	11:42:13.823	Custom indicator MBFX Timing EURCAD,M15: loaded successfully
+2	11:42:13.914	Custom indicator #P4L CandleTime EURJPY,M15: loaded successfully
+2	11:42:13.921	Custom indicator TURBO PLUS+ EURJPY,M15: loaded successfully
+2	11:42:13.930	Custom indicator ALERT SIGNAL EURJPY,M15: loaded successfully
+2	11:42:14.051	Custom indicator MBFX Timing EURJPY,M15: loaded successfully
+2	11:42:14.157	Custom indicator #P4L CandleTime EURNZD,M15: loaded successfully
+2	11:42:14.166	Custom indicator TURBO PLUS+ EURNZD,M15: loaded successfully
+2	11:42:14.175	Custom indicator ALERT SIGNAL EURNZD,M15: loaded successfully
+2	11:42:14.325	Custom indicator MBFX Timing EURNZD,M15: loaded successfully
+2	11:42:14.436	Custom indicator #P4L CandleTime EURCHF,M15: loaded successfully
+2	11:42:14.445	Custom indicator TURBO PLUS+ EURCHF,M15: loaded successfully
+2	11:42:14.455	Custom indicator ALERT SIGNAL EURCHF,M15: loaded successfully
+2	11:42:14.609	Custom indicator MBFX Timing EURCHF,M15: loaded successfully
+2	11:42:14.719	Custom indicator #P4L CandleTime GBPUSD,M15: loaded successfully
+2	11:42:14.728	Custom indicator TURBO PLUS+ GBPUSD,M15: loaded successfully
+2	11:42:14.737	Custom indicator ALERT SIGNAL GBPUSD,M15: loaded successfully
+2	11:42:14.880	Custom indicator MBFX Timing GBPUSD,M15: loaded successfully
+2	11:42:14.992	Custom indicator #P4L CandleTime GBPAUD,M15: loaded successfully
+2	11:42:15.000	Custom indicator TURBO PLUS+ GBPAUD,M15: loaded successfully
+2	11:42:15.009	Custom indicator ALERT SIGNAL GBPAUD,M15: loaded successfully
+2	11:42:15.159	Custom indicator MBFX Timing GBPAUD,M15: loaded successfully
+2	11:42:15.272	Custom indicator #P4L CandleTime GBPCAD,M15: loaded successfully
+2	11:42:15.281	Custom indicator TURBO PLUS+ GBPCAD,M15: loaded successfully
+2	11:42:15.291	Custom indicator ALERT SIGNAL GBPCAD,M15: loaded successfully
+2	11:42:15.441	Custom indicator MBFX Timing GBPCAD,M15: loaded successfully
+2	11:42:15.543	Custom indicator #P4L CandleTime GBPJPY,M15: loaded successfully
+2	11:42:15.551	Custom indicator TURBO PLUS+ GBPJPY,M15: loaded successfully
+2	11:42:15.560	Custom indicator ALERT SIGNAL GBPJPY,M15: loaded successfully
+2	11:42:15.687	Custom indicator MBFX Timing GBPJPY,M15: loaded successfully
+2	11:42:15.781	Custom indicator #P4L CandleTime GBPNZD,M15: loaded successfully
+2	11:42:15.788	Custom indicator TURBO PLUS+ GBPNZD,M15: loaded successfully
+2	11:42:15.796	Custom indicator ALERT SIGNAL GBPNZD,M15: loaded successfully
+2	11:42:15.916	Custom indicator MBFX Timing GBPNZD,M15: loaded successfully
+2	11:42:16.007	Custom indicator #P4L CandleTime GBPCHF,M15: loaded successfully
+2	11:42:16.014	Custom indicator TURBO PLUS+ GBPCHF,M15: loaded successfully
+2	11:42:16.022	Custom indicator ALERT SIGNAL GBPCHF,M15: loaded successfully
+2	11:42:16.174	Custom indicator MBFX Timing GBPCHF,M15: loaded successfully
+2	11:42:16.279	Custom indicator #P4L CandleTime NZDCAD,M15: loaded successfully
+2	11:42:16.288	Custom indicator TURBO PLUS+ NZDCAD,M15: loaded successfully
+2	11:42:16.297	Custom indicator ALERT SIGNAL NZDCAD,M15: loaded successfully
+2	11:42:16.458	Custom indicator MBFX Timing NZDCAD,M15: loaded successfully
+2	11:42:16.570	Custom indicator #P4L CandleTime NZDJPY,M15: loaded successfully
+2	11:42:16.579	Custom indicator TURBO PLUS+ NZDJPY,M15: loaded successfully
+2	11:42:16.589	Custom indicator ALERT SIGNAL NZDJPY,M15: loaded successfully
+2	11:42:16.739	Custom indicator MBFX Timing NZDJPY,M15: loaded successfully
+2	11:42:16.844	Custom indicator #P4L CandleTime NZDUSD,M15: loaded successfully
+2	11:42:16.854	Custom indicator TURBO PLUS+ NZDUSD,M15: loaded successfully
+2	11:42:16.865	Custom indicator ALERT SIGNAL NZDUSD,M15: loaded successfully
+2	11:42:17.011	Custom indicator MBFX Timing NZDUSD,M15: loaded successfully
+2	11:42:17.126	Custom indicator #P4L CandleTime NZDCHF,M15: loaded successfully
+2	11:42:17.135	Custom indicator TURBO PLUS+ NZDCHF,M15: loaded successfully
+2	11:42:17.146	Custom indicator ALERT SIGNAL NZDCHF,M15: loaded successfully
+2	11:42:17.298	Custom indicator MBFX Timing NZDCHF,M15: loaded successfully
+2	11:42:17.410	Custom indicator #P4L CandleTime USDJPY,M15: loaded successfully
+2	11:42:17.418	Custom indicator TURBO PLUS+ USDJPY,M15: loaded successfully
+2	11:42:17.428	Custom indicator ALERT SIGNAL USDJPY,M15: loaded successfully
+2	11:42:17.562	Custom indicator MBFX Timing USDJPY,M15: loaded successfully
+2	11:42:17.658	Custom indicator #P4L CandleTime USDCAD,M15: loaded successfully
+2	11:42:17.666	Custom indicator TURBO PLUS+ USDCAD,M15: loaded successfully
+2	11:42:17.674	Custom indicator ALERT SIGNAL USDCAD,M15: loaded successfully
+2	11:42:17.800	Custom indicator MBFX Timing USDCAD,M15: loaded successfully
+2	11:42:17.896	Custom indicator #P4L CandleTime USDCHF,M15: loaded successfully
+2	11:42:17.903	Custom indicator TURBO PLUS+ USDCHF,M15: loaded successfully
+2	11:42:17.911	Custom indicator ALERT SIGNAL USDCHF,M15: loaded successfully
+2	11:42:18.033	Custom indicator MBFX Timing USDCHF,M15: loaded successfully
+2	11:44:16.626	Custom indicator MBFX Timing CADJPY,M15: removed
+2	11:44:16.629	Custom indicator #P4L CandleTime CADJPY,M15: removed
+2	11:44:16.630	Custom indicator TURBO PLUS+ CADJPY,M15: removed
+2	11:44:16.632	Custom indicator ALERT SIGNAL CADJPY,M15: removed
+2	11:44:16.690	Custom indicator HolyCandleTime CADJPY,M15: loaded successfully
+2	11:44:16.748	Custom indicator USAIN-BOLT CADJPY,M15: loaded successfully
+2	11:44:23.373	Custom indicator HolyCandleTime AUDCAD,M1: loaded successfully
+2	11:44:23.431	Custom indicator USAIN-BOLT AUDCAD,M1: loaded successfully
+2	11:44:55.664	Custom indicator MBFX Timing EURCAD,M15: removed
+2	11:44:55.669	Custom indicator #P4L CandleTime EURCAD,M15: removed
+2	11:44:55.671	Custom indicator TURBO PLUS+ EURCAD,M15: removed
+2	11:44:55.673	Custom indicator ALERT SIGNAL EURCAD,M15: removed
+2	11:44:55.768	Custom indicator HolyCandleTime EURCAD,M15: loaded successfully
+2	11:44:55.855	Custom indicator USAIN-BOLT EURCAD,M15: loaded successfully
+2	11:45:04.790	Custom indicator MBFX Timing GBPAUD,M15: removed
+2	11:45:04.794	Custom indicator #P4L CandleTime GBPAUD,M15: removed
+2	11:45:04.795	Custom indicator TURBO PLUS+ GBPAUD,M15: removed
+2	11:45:04.797	Custom indicator ALERT SIGNAL GBPAUD,M15: removed
+2	11:45:04.860	Custom indicator HolyCandleTime GBPAUD,M15: loaded successfully
+2	11:45:04.920	Custom indicator USAIN-BOLT GBPAUD,M15: loaded successfully
+2	11:47:00.380	Custom indicator MBFX Timing NZDJPY,M15: removed
+2	11:47:00.383	Custom indicator #P4L CandleTime NZDJPY,M15: removed
+2	11:47:00.384	Custom indicator TURBO PLUS+ NZDJPY,M15: removed
+2	11:47:00.385	Custom indicator ALERT SIGNAL NZDJPY,M15: removed
+2	11:47:00.444	Custom indicator HolyCandleTime NZDJPY,M15: loaded successfully
+2	11:47:00.500	Custom indicator USAIN-BOLT NZDJPY,M15: loaded successfully
+2	11:47:12.928	Custom indicator MBFX Timing AUDJPY,M5: removed
+2	11:47:12.931	Custom indicator #P4L CandleTime AUDJPY,M5: removed
+2	11:47:12.932	Custom indicator TURBO PLUS+ AUDJPY,M5: removed
+2	11:47:12.933	Custom indicator ALERT SIGNAL AUDJPY,M5: removed
+2	11:47:12.992	Custom indicator HolyCandleTime AUDJPY,M5: loaded successfully
+2	11:47:13.049	Custom indicator USAIN-BOLT AUDJPY,M5: loaded successfully
+2	11:47:20.479	Custom indicator MBFX Timing CADCHF,M15: removed
+2	11:47:20.482	Custom indicator #P4L CandleTime CADCHF,M15: removed
+2	11:47:20.484	Custom indicator TURBO PLUS+ CADCHF,M15: removed
+2	11:47:20.485	Custom indicator ALERT SIGNAL CADCHF,M15: removed
+2	11:47:20.547	Custom indicator HolyCandleTime CADCHF,M15: loaded successfully
+2	11:47:20.604	Custom indicator USAIN-BOLT CADCHF,M15: loaded successfully
+2	11:48:13.451	Custom indicator MBFX Timing EURGBP,M15: removed
+2	11:48:13.454	Custom indicator #P4L CandleTime EURGBP,M15: removed
+2	11:48:13.455	Custom indicator TURBO PLUS+ EURGBP,M15: removed
+2	11:48:13.456	Custom indicator ALERT SIGNAL EURGBP,M15: removed
+2	11:48:13.517	Custom indicator HolyCandleTime EURGBP,M15: loaded successfully
+2	11:48:13.573	Custom indicator USAIN-BOLT EURGBP,M15: loaded successfully
+2	11:48:20.517	Custom indicator MBFX Timing GBPCAD,M15: removed
+2	11:48:20.520	Custom indicator #P4L CandleTime GBPCAD,M15: removed
+2	11:48:20.522	Custom indicator TURBO PLUS+ GBPCAD,M15: removed
+2	11:48:20.524	Custom indicator ALERT SIGNAL GBPCAD,M15: removed
+2	11:48:20.593	Custom indicator HolyCandleTime GBPCAD,M15: loaded successfully
+2	11:48:20.651	Custom indicator USAIN-BOLT GBPCAD,M15: loaded successfully
+2	11:48:27.045	Custom indicator MBFX Timing NZDUSD,M15: removed
+2	11:48:27.048	Custom indicator #P4L CandleTime NZDUSD,M15: removed
+2	11:48:27.049	Custom indicator TURBO PLUS+ NZDUSD,M15: removed
+2	11:48:27.051	Custom indicator ALERT SIGNAL NZDUSD,M15: removed
+2	11:48:27.113	Custom indicator HolyCandleTime NZDUSD,M15: loaded successfully
+2	11:48:27.169	Custom indicator USAIN-BOLT NZDUSD,M15: loaded successfully
+2	11:48:33.788	Custom indicator MBFX Timing AUDNZD,M1: removed
+2	11:48:33.791	Custom indicator #P4L CandleTime AUDNZD,M1: removed
+2	11:48:33.793	Custom indicator TURBO PLUS+ AUDNZD,M1: removed
+2	11:48:33.795	Custom indicator ALERT SIGNAL AUDNZD,M1: removed
+2	11:48:33.857	Custom indicator HolyCandleTime AUDNZD,M1: loaded successfully
+2	11:48:33.913	Custom indicator USAIN-BOLT AUDNZD,M1: loaded successfully
+2	11:48:41.891	Custom indicator MBFX Timing CHFJPY,M15: removed
+2	11:48:41.894	Custom indicator #P4L CandleTime CHFJPY,M15: removed
+2	11:48:41.896	Custom indicator TURBO PLUS+ CHFJPY,M15: removed
+2	11:48:41.898	Custom indicator ALERT SIGNAL CHFJPY,M15: removed
+2	11:48:41.960	Custom indicator HolyCandleTime CHFJPY,M15: loaded successfully
+2	11:48:42.018	Custom indicator USAIN-BOLT CHFJPY,M15: loaded successfully
+2	11:48:48.389	Custom indicator MBFX Timing EURJPY,M15: removed
+2	11:48:48.392	Custom indicator #P4L CandleTime EURJPY,M15: removed
+2	11:48:48.394	Custom indicator TURBO PLUS+ EURJPY,M15: removed
+2	11:48:48.395	Custom indicator ALERT SIGNAL EURJPY,M15: removed
+2	11:48:48.459	Custom indicator HolyCandleTime EURJPY,M15: loaded successfully
+2	11:48:48.523	Custom indicator USAIN-BOLT EURJPY,M15: loaded successfully
+2	11:48:56.711	Custom indicator MBFX Timing GBPJPY,M15: removed
+2	11:48:56.714	Custom indicator #P4L CandleTime GBPJPY,M15: removed
+2	11:48:56.715	Custom indicator TURBO PLUS+ GBPJPY,M15: removed
+2	11:48:56.716	Custom indicator ALERT SIGNAL GBPJPY,M15: removed
+2	11:48:56.779	Custom indicator HolyCandleTime GBPJPY,M15: loaded successfully
+2	11:48:56.841	Custom indicator USAIN-BOLT GBPJPY,M15: loaded successfully
+2	11:49:03.008	Custom indicator MBFX Timing NZDCHF,M15: removed
+2	11:49:03.011	Custom indicator #P4L CandleTime NZDCHF,M15: removed
+2	11:49:03.013	Custom indicator TURBO PLUS+ NZDCHF,M15: removed
+2	11:49:03.014	Custom indicator ALERT SIGNAL NZDCHF,M15: removed
+2	11:49:03.079	Custom indicator HolyCandleTime NZDCHF,M15: loaded successfully
+2	11:49:03.141	Custom indicator USAIN-BOLT NZDCHF,M15: loaded successfully
+2	11:49:12.722	Custom indicator MBFX Timing AUDUSD,M15: removed
+2	11:49:12.726	Custom indicator #P4L CandleTime AUDUSD,M15: removed
+2	11:49:12.728	Custom indicator TURBO PLUS+ AUDUSD,M15: removed
+2	11:49:12.730	Custom indicator ALERT SIGNAL AUDUSD,M15: removed
+2	11:49:12.793	Custom indicator HolyCandleTime AUDUSD,M15: loaded successfully
+2	11:49:12.857	Custom indicator USAIN-BOLT AUDUSD,M15: loaded successfully
+2	11:49:30.780	Custom indicator MBFX Timing EURUSD,M15: removed
+2	11:49:30.783	Custom indicator #P4L CandleTime EURUSD,M15: removed
+2	11:49:30.785	Custom indicator TURBO PLUS+ EURUSD,M15: removed
+2	11:49:30.786	Custom indicator ALERT SIGNAL EURUSD,M15: removed
+2	11:49:30.851	Custom indicator HolyCandleTime EURUSD,M15: loaded successfully
+2	11:49:30.914	Custom indicator USAIN-BOLT EURUSD,M15: loaded successfully
+2	11:49:37.299	Custom indicator MBFX Timing EURCHF,M15: removed
+2	11:49:37.302	Custom indicator #P4L CandleTime EURCHF,M15: removed
+2	11:49:37.304	Custom indicator TURBO PLUS+ EURCHF,M15: removed
+2	11:49:37.305	Custom indicator ALERT SIGNAL EURCHF,M15: removed
+2	11:49:37.367	Custom indicator HolyCandleTime EURCHF,M15: loaded successfully
+2	11:49:37.430	Custom indicator USAIN-BOLT EURCHF,M15: loaded successfully
+2	11:49:42.942	Custom indicator MBFX Timing EURNZD,M15: removed
+2	11:49:42.946	Custom indicator #P4L CandleTime EURNZD,M15: removed
+2	11:49:42.947	Custom indicator TURBO PLUS+ EURNZD,M15: removed
+2	11:49:42.949	Custom indicator ALERT SIGNAL EURNZD,M15: removed
+2	11:49:43.019	Custom indicator HolyCandleTime EURNZD,M15: loaded successfully
+2	11:49:43.085	Custom indicator USAIN-BOLT EURNZD,M15: loaded successfully
+2	11:49:47.574	Custom indicator MBFX Timing GBPNZD,M15: removed
+2	11:49:47.577	Custom indicator #P4L CandleTime GBPNZD,M15: removed
+2	11:49:47.579	Custom indicator TURBO PLUS+ GBPNZD,M15: removed
+2	11:49:47.580	Custom indicator ALERT SIGNAL GBPNZD,M15: removed
+2	11:49:47.643	Custom indicator HolyCandleTime GBPNZD,M15: loaded successfully
+2	11:49:47.700	Custom indicator USAIN-BOLT GBPNZD,M15: loaded successfully
+2	11:49:52.190	Custom indicator MBFX Timing USDJPY,M15: removed
+2	11:49:52.194	Custom indicator #P4L CandleTime USDJPY,M15: removed
+2	11:49:52.196	Custom indicator TURBO PLUS+ USDJPY,M15: removed
+2	11:49:52.198	Custom indicator ALERT SIGNAL USDJPY,M15: removed
+2	11:49:52.281	Custom indicator HolyCandleTime USDJPY,M15: loaded successfully
+2	11:49:52.359	Custom indicator USAIN-BOLT USDJPY,M15: loaded successfully
+2	11:49:58.822	Custom indicator MBFX Timing GBPCHF,M15: removed
+2	11:49:58.825	Custom indicator #P4L CandleTime GBPCHF,M15: removed
+2	11:49:58.827	Custom indicator TURBO PLUS+ GBPCHF,M15: removed
+2	11:49:58.829	Custom indicator ALERT SIGNAL GBPCHF,M15: removed
+2	11:49:58.889	Custom indicator HolyCandleTime GBPCHF,M15: loaded successfully
+2	11:49:58.947	Custom indicator USAIN-BOLT GBPCHF,M15: loaded successfully
+2	11:50:03.900	Custom indicator MBFX Timing USDCAD,M15: removed
+2	11:50:03.904	Custom indicator #P4L CandleTime USDCAD,M15: removed
+2	11:50:03.906	Custom indicator TURBO PLUS+ USDCAD,M15: removed
+2	11:50:03.908	Custom indicator ALERT SIGNAL USDCAD,M15: removed
+2	11:50:03.969	Custom indicator HolyCandleTime USDCAD,M15: loaded successfully
+2	11:50:04.028	Custom indicator USAIN-BOLT USDCAD,M15: loaded successfully
+2	11:50:09.834	Custom indicator MBFX Timing USDCHF,M15: removed
+2	11:50:09.838	Custom indicator #P4L CandleTime USDCHF,M15: removed
+2	11:50:09.839	Custom indicator TURBO PLUS+ USDCHF,M15: removed
+2	11:50:09.841	Custom indicator ALERT SIGNAL USDCHF,M15: removed
+2	11:50:09.901	Custom indicator HolyCandleTime USDCHF,M15: loaded successfully
+2	11:50:09.959	Custom indicator USAIN-BOLT USDCHF,M15: loaded successfully
+2	11:50:16.349	Custom indicator MBFX Timing NZDCAD,M15: removed
+2	11:50:16.352	Custom indicator #P4L CandleTime NZDCAD,M15: removed
+2	11:50:16.353	Custom indicator TURBO PLUS+ NZDCAD,M15: removed
+2	11:50:16.355	Custom indicator ALERT SIGNAL NZDCAD,M15: removed
+2	11:50:16.418	Custom indicator HolyCandleTime NZDCAD,M15: loaded successfully
+2	11:50:16.479	Custom indicator USAIN-BOLT NZDCAD,M15: loaded successfully
+2	11:50:21.930	Custom indicator MBFX Timing GBPUSD,M15: removed
+2	11:50:21.933	Custom indicator #P4L CandleTime GBPUSD,M15: removed
+2	11:50:21.934	Custom indicator TURBO PLUS+ GBPUSD,M15: removed
+2	11:50:21.936	Custom indicator ALERT SIGNAL GBPUSD,M15: removed
+2	11:50:21.998	Custom indicator HolyCandleTime GBPUSD,M15: loaded successfully
+2	11:50:22.065	Custom indicator USAIN-BOLT GBPUSD,M15: loaded successfully
+2	11:50:28.028	Custom indicator MBFX Timing EURAUD,M15: removed
+2	11:50:28.028	Custom indicator #P4L CandleTime EURAUD,M15: removed
+2	11:50:28.028	Custom indicator TURBO PLUS+ EURAUD,M15: removed
+2	11:50:28.033	Custom indicator ALERT SIGNAL EURAUD,M15: removed
+2	11:50:28.100	Custom indicator HolyCandleTime EURAUD,M15: loaded successfully
+2	11:50:28.163	Custom indicator USAIN-BOLT EURAUD,M15: loaded successfully
+2	11:50:33.327	Custom indicator MBFX Timing AUDCHF,M15: removed
+2	11:50:33.330	Custom indicator #P4L CandleTime AUDCHF,M15: removed
+2	11:50:33.332	Custom indicator TURBO PLUS+ AUDCHF,M15: removed
+2	11:50:33.333	Custom indicator ALERT SIGNAL AUDCHF,M15: removed
+2	11:50:33.398	Custom indicator HolyCandleTime AUDCHF,M15: loaded successfully
+2	11:50:33.461	Custom indicator USAIN-BOLT AUDCHF,M15: loaded successfully
+0	11:57:42.895	'51260446': login on FXCM-USDDemo02 through AsiaDC (ping: 618.64 ms)
+0	11:57:47.805	'51260446': login datacenter on FXCM-USDDemo02 through AsiaDC (ping: 618.64 ms)
+0	11:57:49.311	'51260446': previous successful authorization performed from 41.188.54.52
+0	11:57:56.691	'51260446': auto connecting to a better access point External (ping is 291.38 ms)
+0	11:57:57.457	'51260446': login on FXCM-USDDemo02 through External (ping: 291.38 ms)
+0	11:58:00.356	'51260446': previous successful authorization performed from 41.188.54.155
+0	11:59:56.747	'51260446': login on FXCM-USDDemo02 through External (ping: 291.38 ms)
+0	11:59:58.537	'51260446': previous successful authorization performed from 41.188.54.155
+0	12:02:25.354	'51260446': instant order buy 0.10 EURNZD at 1.82590 sl: 0.00000 tp: 0.00000
+1	12:02:25.683	'51260446': order buy 0.10 EURNZD opening at 1.82590 sl: 0.00000 tp: 0.00000 failed [Off quotes]
+0	12:02:27.158	'51260446': instant order buy 0.10 EURNZD at 1.82589 sl: 0.00000 tp: 0.00000
+0	12:02:27.483	'51260446': order was opened : #170328029 buy 0.10 EURNZD at 1.82589 sl: 0.00000 tp: 0.00000
+0	12:03:35.734	'51260446': modify order #170328029 buy 0.10 EURNZD at 1.82589 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.82680
+0	12:03:36.750	'51260446': order #170328029 buy 0.10 EURNZD at 1.82589 was modified -> sl: 0.00000 tp: 1.82680
+2	12:46:19.134	Custom indicator HolyCandleTime EURCHF,M1: removed
+2	12:46:19.136	Custom indicator USAIN-BOLT EURCHF,M1: removed
+2	12:46:19.172	Custom indicator HolyCandleTime EURGBP,M1: removed
+2	12:46:19.172	Custom indicator USAIN-BOLT EURGBP,M1: removed
+2	12:46:19.194	Custom indicator HolyCandleTime EURCAD,M1: removed
+2	12:46:19.194	Custom indicator USAIN-BOLT EURCAD,M1: removed
+2	12:46:19.212	Custom indicator HolyCandleTime AUDNZD,M1: removed
+2	12:46:19.212	Custom indicator USAIN-BOLT AUDNZD,M1: removed
+2	12:46:19.234	Custom indicator HolyCandleTime NZDCAD,M1: removed
+2	12:46:19.234	Custom indicator USAIN-BOLT NZDCAD,M1: removed
+2	12:46:19.252	Custom indicator HolyCandleTime GBPNZD,M1: removed
+2	12:46:19.252	Custom indicator USAIN-BOLT GBPNZD,M1: removed
+2	12:46:19.270	Custom indicator HolyCandleTime USDCHF,M1: removed
+2	12:46:19.270	Custom indicator USAIN-BOLT USDCHF,M1: removed
+2	12:46:19.288	Custom indicator HolyCandleTime USDCAD,M1: removed
+2	12:46:19.288	Custom indicator USAIN-BOLT USDCAD,M1: removed
+2	12:46:19.309	Custom indicator HolyCandleTime GBPUSD,M1: removed
+2	12:46:19.309	Custom indicator USAIN-BOLT GBPUSD,M1: removed
+2	12:46:19.326	Custom indicator HolyCandleTime EURAUD,M1: removed
+2	12:46:19.326	Custom indicator USAIN-BOLT EURAUD,M1: removed
+2	12:46:19.343	Custom indicator HolyCandleTime AUDCHF,M1: removed
+2	12:46:19.343	Custom indicator USAIN-BOLT AUDCHF,M1: removed
+2	12:46:19.360	Custom indicator HolyCandleTime AUDUSD,M1: removed
+2	12:46:19.361	Custom indicator USAIN-BOLT AUDUSD,M1: removed
+2	12:46:19.376	Custom indicator HolyCandleTime EURUSD,M1: removed
+2	12:46:19.376	Custom indicator USAIN-BOLT EURUSD,M1: removed
+2	12:46:19.393	Custom indicator HolyCandleTime GBPCHF,M1: removed
+2	12:46:19.393	Custom indicator USAIN-BOLT GBPCHF,M1: removed
+2	12:46:19.409	Custom indicator HolyCandleTime EURNZD,M1: removed
+2	12:46:19.409	Custom indicator USAIN-BOLT EURNZD,M1: removed
+2	12:46:19.425	Custom indicator HolyCandleTime USDJPY,M1: removed
+2	12:46:19.425	Custom indicator USAIN-BOLT USDJPY,M1: removed
+2	12:46:19.441	Custom indicator HolyCandleTime NZDCHF,M1: removed
+2	12:46:19.442	Custom indicator USAIN-BOLT NZDCHF,M1: removed
+2	12:46:19.459	Custom indicator HolyCandleTime GBPJPY,M1: removed
+2	12:46:19.459	Custom indicator USAIN-BOLT GBPJPY,M1: removed
+2	12:46:19.476	Custom indicator HolyCandleTime EURJPY,M1: removed
+2	12:46:19.476	Custom indicator USAIN-BOLT EURJPY,M1: removed
+2	12:46:19.489	Custom indicator HolyCandleTime CHFJPY,M1: removed
+2	12:46:19.490	Custom indicator USAIN-BOLT CHFJPY,M1: removed
+2	12:46:19.504	Custom indicator HolyCandleTime AUDJPY,M1: removed
+2	12:46:19.505	Custom indicator USAIN-BOLT AUDJPY,M1: removed
+2	12:46:19.520	Custom indicator HolyCandleTime CADCHF,M1: removed
+2	12:46:19.520	Custom indicator USAIN-BOLT CADCHF,M1: removed
+2	12:46:19.536	Custom indicator HolyCandleTime GBPCAD,M1: removed
+2	12:46:19.536	Custom indicator USAIN-BOLT GBPCAD,M1: removed
+2	12:46:19.551	Custom indicator HolyCandleTime NZDUSD,M1: removed
+2	12:46:19.551	Custom indicator USAIN-BOLT NZDUSD,M1: removed
+2	12:46:19.565	Custom indicator HolyCandleTime NZDJPY,M1: removed
+2	12:46:19.565	Custom indicator USAIN-BOLT NZDJPY,M1: removed
+2	12:46:19.579	Custom indicator HolyCandleTime GBPAUD,M1: removed
+2	12:46:19.580	Custom indicator USAIN-BOLT GBPAUD,M1: removed
+2	12:46:19.594	Custom indicator HolyCandleTime CADJPY,M1: removed
+2	12:46:19.594	Custom indicator USAIN-BOLT CADJPY,M1: removed
+2	12:46:19.600	Custom indicator HolyCandleTime AUDCAD,M1: removed
+2	12:46:19.600	Custom indicator USAIN-BOLT AUDCAD,M1: removed
+2	12:46:19.831	Custom indicator #P4L CandleTime AUDCAD,M1: loaded successfully
+2	12:46:19.860	Custom indicator TURBO PLUS+ AUDCAD,M1: loaded successfully
+2	12:46:19.886	Custom indicator ALERT SIGNAL AUDCAD,M1: loaded successfully
+2	12:46:20.181	Custom indicator MBFX Timing AUDCAD,M1: loaded successfully
+2	12:46:20.339	Custom indicator #P4L CandleTime AUDJPY,M1: loaded successfully
+2	12:46:20.347	Custom indicator TURBO PLUS+ AUDJPY,M1: loaded successfully
+2	12:46:20.357	Custom indicator ALERT SIGNAL AUDJPY,M1: loaded successfully
+2	12:46:20.530	Custom indicator MBFX Timing AUDJPY,M1: loaded successfully
+2	12:46:20.655	Custom indicator #P4L CandleTime AUDNZD,M1: loaded successfully
+2	12:46:20.667	Custom indicator TURBO PLUS+ AUDNZD,M1: loaded successfully
+2	12:46:20.678	Custom indicator ALERT SIGNAL AUDNZD,M1: loaded successfully
+2	12:46:20.928	Custom indicator MBFX Timing AUDNZD,M1: loaded successfully
+2	12:46:21.126	Custom indicator #P4L CandleTime AUDUSD,M1: loaded successfully
+2	12:46:21.138	Custom indicator TURBO PLUS+ AUDUSD,M1: loaded successfully
+2	12:46:21.146	Custom indicator ALERT SIGNAL AUDUSD,M1: loaded successfully
+2	12:46:21.378	Custom indicator MBFX Timing AUDUSD,M1: loaded successfully
+2	12:46:21.568	Custom indicator #P4L CandleTime AUDCHF,M1: loaded successfully
+2	12:46:21.576	Custom indicator TURBO PLUS+ AUDCHF,M1: loaded successfully
+2	12:46:21.588	Custom indicator ALERT SIGNAL AUDCHF,M1: loaded successfully
+2	12:46:21.737	Custom indicator MBFX Timing AUDCHF,M1: loaded successfully
+2	12:46:21.923	Custom indicator #P4L CandleTime CADJPY,M1: loaded successfully
+2	12:46:21.935	Custom indicator TURBO PLUS+ CADJPY,M1: loaded successfully
+2	12:46:21.943	Custom indicator ALERT SIGNAL CADJPY,M1: loaded successfully
+2	12:46:22.102	Custom indicator MBFX Timing CADJPY,M1: loaded successfully
+2	12:46:22.261	Custom indicator #P4L CandleTime CADCHF,M1: loaded successfully
+2	12:46:22.271	Custom indicator TURBO PLUS+ CADCHF,M1: loaded successfully
+2	12:46:22.280	Custom indicator ALERT SIGNAL CADCHF,M1: loaded successfully
+2	12:46:22.468	Custom indicator MBFX Timing CADCHF,M1: loaded successfully
+2	12:46:22.671	Custom indicator #P4L CandleTime CHFJPY,M1: loaded successfully
+2	12:46:22.679	Custom indicator TURBO PLUS+ CHFJPY,M1: loaded successfully
+2	12:46:22.688	Custom indicator ALERT SIGNAL CHFJPY,M1: loaded successfully
+2	12:46:22.862	Custom indicator MBFX Timing CHFJPY,M1: loaded successfully
+2	12:46:23.016	Custom indicator #P4L CandleTime EURUSD,M1: loaded successfully
+2	12:46:23.029	Custom indicator TURBO PLUS+ EURUSD,M1: loaded successfully
+2	12:46:23.045	Custom indicator ALERT SIGNAL EURUSD,M1: loaded successfully
+2	12:46:23.236	Custom indicator MBFX Timing EURUSD,M1: loaded successfully
+2	12:46:23.366	Custom indicator #P4L CandleTime EURAUD,M1: loaded successfully
+2	12:46:23.375	Custom indicator TURBO PLUS+ EURAUD,M1: loaded successfully
+2	12:46:23.383	Custom indicator ALERT SIGNAL EURAUD,M1: loaded successfully
+2	12:46:23.527	Custom indicator MBFX Timing EURAUD,M1: loaded successfully
+2	12:46:23.737	Custom indicator #P4L CandleTime EURGBP,M1: loaded successfully
+2	12:46:23.754	Custom indicator TURBO PLUS+ EURGBP,M1: loaded successfully
+2	12:46:23.770	Custom indicator ALERT SIGNAL EURGBP,M1: loaded successfully
+2	12:46:23.960	Custom indicator MBFX Timing EURGBP,M1: loaded successfully
+2	12:46:24.081	Custom indicator #P4L CandleTime EURCAD,M1: loaded successfully
+2	12:46:24.090	Custom indicator TURBO PLUS+ EURCAD,M1: loaded successfully
+2	12:46:24.102	Custom indicator ALERT SIGNAL EURCAD,M1: loaded successfully
+2	12:46:24.250	Custom indicator MBFX Timing EURCAD,M1: loaded successfully
+2	12:46:24.449	Custom indicator #P4L CandleTime EURJPY,M1: loaded successfully
+2	12:46:24.458	Custom indicator TURBO PLUS+ EURJPY,M1: loaded successfully
+2	12:46:24.468	Custom indicator ALERT SIGNAL EURJPY,M1: loaded successfully
+2	12:46:24.689	Custom indicator MBFX Timing EURJPY,M1: loaded successfully
+2	12:46:24.837	Custom indicator #P4L CandleTime EURNZD,M1: loaded successfully
+2	12:46:24.860	Custom indicator TURBO PLUS+ EURNZD,M1: loaded successfully
+2	12:46:24.880	Custom indicator ALERT SIGNAL EURNZD,M1: loaded successfully
+2	12:46:25.050	Custom indicator MBFX Timing EURNZD,M1: loaded successfully
+2	12:46:25.269	Custom indicator #P4L CandleTime EURCHF,M1: loaded successfully
+2	12:46:25.282	Custom indicator TURBO PLUS+ EURCHF,M1: loaded successfully
+2	12:46:25.290	Custom indicator ALERT SIGNAL EURCHF,M1: loaded successfully
+2	12:46:25.438	Custom indicator MBFX Timing EURCHF,M1: loaded successfully
+2	12:46:25.642	Custom indicator #P4L CandleTime GBPUSD,M1: loaded successfully
+2	12:46:25.651	Custom indicator TURBO PLUS+ GBPUSD,M1: loaded successfully
+2	12:46:25.659	Custom indicator ALERT SIGNAL GBPUSD,M1: loaded successfully
+2	12:46:25.805	Custom indicator MBFX Timing GBPUSD,M1: loaded successfully
+2	12:46:26.001	Custom indicator #P4L CandleTime GBPAUD,M1: loaded successfully
+2	12:46:26.013	Custom indicator TURBO PLUS+ GBPAUD,M1: loaded successfully
+2	12:46:26.021	Custom indicator ALERT SIGNAL GBPAUD,M1: loaded successfully
+2	12:46:26.192	Custom indicator MBFX Timing GBPAUD,M1: loaded successfully
+2	12:46:26.384	Custom indicator #P4L CandleTime GBPCAD,M1: loaded successfully
+2	12:46:26.392	Custom indicator TURBO PLUS+ GBPCAD,M1: loaded successfully
+2	12:46:26.406	Custom indicator ALERT SIGNAL GBPCAD,M1: loaded successfully
+2	12:46:26.590	Custom indicator MBFX Timing GBPCAD,M1: loaded successfully
+2	12:46:26.793	Custom indicator #P4L CandleTime GBPJPY,M1: loaded successfully
+2	12:46:26.804	Custom indicator TURBO PLUS+ GBPJPY,M1: loaded successfully
+2	12:46:26.813	Custom indicator ALERT SIGNAL GBPJPY,M1: loaded successfully
+2	12:46:26.977	Custom indicator MBFX Timing GBPJPY,M1: loaded successfully
+2	12:46:27.263	Custom indicator #P4L CandleTime GBPNZD,M1: loaded successfully
+2	12:46:27.272	Custom indicator TURBO PLUS+ GBPNZD,M1: loaded successfully
+2	12:46:27.286	Custom indicator ALERT SIGNAL GBPNZD,M1: loaded successfully
+2	12:46:27.437	Custom indicator MBFX Timing GBPNZD,M1: loaded successfully
+2	12:46:27.560	Custom indicator #P4L CandleTime GBPCHF,M1: loaded successfully
+2	12:46:27.568	Custom indicator TURBO PLUS+ GBPCHF,M1: loaded successfully
+2	12:46:27.578	Custom indicator ALERT SIGNAL GBPCHF,M1: loaded successfully
+2	12:46:27.728	Custom indicator MBFX Timing GBPCHF,M1: loaded successfully
+2	12:46:27.911	Custom indicator #P4L CandleTime NZDCAD,M1: loaded successfully
+2	12:46:27.920	Custom indicator TURBO PLUS+ NZDCAD,M1: loaded successfully
+2	12:46:27.933	Custom indicator ALERT SIGNAL NZDCAD,M1: loaded successfully
+2	12:46:28.091	Custom indicator MBFX Timing NZDCAD,M1: loaded successfully
+2	12:46:28.251	Custom indicator #P4L CandleTime NZDJPY,M1: loaded successfully
+2	12:46:28.260	Custom indicator TURBO PLUS+ NZDJPY,M1: loaded successfully
+2	12:46:28.270	Custom indicator ALERT SIGNAL NZDJPY,M1: loaded successfully
+2	12:46:28.413	Custom indicator MBFX Timing NZDJPY,M1: loaded successfully
+2	12:46:28.600	Custom indicator #P4L CandleTime NZDUSD,M1: loaded successfully
+2	12:46:28.608	Custom indicator TURBO PLUS+ NZDUSD,M1: loaded successfully
+2	12:46:28.619	Custom indicator ALERT SIGNAL NZDUSD,M1: loaded successfully
+2	12:46:28.764	Custom indicator MBFX Timing NZDUSD,M1: loaded successfully
+2	12:46:28.920	Custom indicator #P4L CandleTime NZDCHF,M1: loaded successfully
+2	12:46:28.932	Custom indicator TURBO PLUS+ NZDCHF,M1: loaded successfully
+2	12:46:28.944	Custom indicator ALERT SIGNAL NZDCHF,M1: loaded successfully
+2	12:46:29.178	Custom indicator MBFX Timing NZDCHF,M1: loaded successfully
+2	12:46:29.371	Custom indicator #P4L CandleTime USDJPY,M1: loaded successfully
+2	12:46:29.379	Custom indicator TURBO PLUS+ USDJPY,M1: loaded successfully
+2	12:46:29.387	Custom indicator ALERT SIGNAL USDJPY,M1: loaded successfully
+2	12:46:29.535	Custom indicator MBFX Timing USDJPY,M1: loaded successfully
+2	12:46:29.737	Custom indicator #P4L CandleTime USDCAD,M1: loaded successfully
+2	12:46:29.757	Custom indicator TURBO PLUS+ USDCAD,M1: loaded successfully
+2	12:46:29.781	Custom indicator ALERT SIGNAL USDCAD,M1: loaded successfully
+2	12:46:30.126	Custom indicator MBFX Timing USDCAD,M1: loaded successfully
+2	12:46:30.400	Custom indicator #P4L CandleTime USDCHF,M1: loaded successfully
+2	12:46:30.420	Custom indicator TURBO PLUS+ USDCHF,M1: loaded successfully
+2	12:46:30.444	Custom indicator ALERT SIGNAL USDCHF,M1: loaded successfully
+2	12:46:30.781	Custom indicator MBFX Timing USDCHF,M1: loaded successfully
+2	13:43:39.158	Custom indicator MBFX Timing AUDCAD,M1: removed
+2	13:43:39.173	Custom indicator MBFX Timing AUDJPY,M1: removed
+2	13:43:39.181	Custom indicator MBFX Timing AUDNZD,M1: removed
+2	13:43:39.191	Custom indicator MBFX Timing AUDUSD,M1: removed
+2	13:43:39.203	Custom indicator MBFX Timing AUDCHF,M1: removed
+2	13:43:39.213	Custom indicator MBFX Timing CADJPY,M1: removed
+2	13:43:39.224	Custom indicator MBFX Timing CADCHF,M1: removed
+2	13:43:39.234	Custom indicator MBFX Timing CHFJPY,M1: removed
+2	13:43:39.244	Custom indicator MBFX Timing EURUSD,M1: removed
+2	13:43:39.253	Custom indicator MBFX Timing EURAUD,M1: removed
+2	13:43:39.269	Custom indicator MBFX Timing EURGBP,M1: removed
+2	13:43:39.276	Custom indicator MBFX Timing EURCAD,M1: removed
+2	13:43:39.290	Custom indicator MBFX Timing EURJPY,M1: removed
+2	13:43:39.298	Custom indicator MBFX Timing EURNZD,M1: removed
+2	13:43:39.306	Custom indicator MBFX Timing EURCHF,M1: removed
+2	13:43:39.315	Custom indicator MBFX Timing GBPUSD,M1: removed
+2	13:43:39.328	Custom indicator MBFX Timing GBPAUD,M1: removed
+2	13:43:39.338	Custom indicator MBFX Timing GBPCAD,M1: removed
+2	13:43:39.346	Custom indicator MBFX Timing GBPJPY,M1: removed
+2	13:43:39.357	Custom indicator MBFX Timing GBPNZD,M1: removed
+2	13:43:39.369	Custom indicator MBFX Timing GBPCHF,M1: removed
+2	13:43:39.379	Custom indicator MBFX Timing NZDCAD,M1: removed
+2	13:43:39.387	Custom indicator MBFX Timing NZDJPY,M1: removed
+2	13:43:39.395	Custom indicator MBFX Timing NZDUSD,M1: removed
+2	13:43:39.407	Custom indicator MBFX Timing NZDCHF,M1: removed
+2	13:43:39.414	Custom indicator MBFX Timing USDJPY,M1: removed
+2	13:43:39.426	Custom indicator MBFX Timing USDCAD,M1: removed
+2	13:43:39.432	Custom indicator MBFX Timing USDCHF,M1: removed
+2	13:43:39.565	Custom indicator #P4L CandleTime EURCHF,M1: removed
+2	13:43:39.566	Custom indicator TURBO PLUS+ EURCHF,M1: removed
+2	13:43:39.570	Custom indicator ALERT SIGNAL EURCHF,M1: removed
+2	13:43:39.598	Custom indicator #P4L CandleTime USDCHF,M1: removed
+2	13:43:39.600	Custom indicator TURBO PLUS+ USDCHF,M1: removed
+2	13:43:39.603	Custom indicator ALERT SIGNAL USDCHF,M1: removed
+2	13:43:39.644	Custom indicator #P4L CandleTime GBPNZD,M1: removed
+2	13:43:39.646	Custom indicator TURBO PLUS+ GBPNZD,M1: removed
+2	13:43:39.649	Custom indicator ALERT SIGNAL GBPNZD,M1: removed
+2	13:43:39.683	Custom indicator #P4L CandleTime EURUSD,M1: removed
+2	13:43:39.685	Custom indicator TURBO PLUS+ EURUSD,M1: removed
+2	13:43:39.688	Custom indicator ALERT SIGNAL EURUSD,M1: removed
+2	13:43:39.716	Custom indicator #P4L CandleTime EURAUD,M1: removed
+2	13:43:39.720	Custom indicator TURBO PLUS+ EURAUD,M1: removed
+2	13:43:39.723	Custom indicator ALERT SIGNAL EURAUD,M1: removed
+2	13:43:39.763	Custom indicator #P4L CandleTime EURJPY,M1: removed
+2	13:43:39.765	Custom indicator TURBO PLUS+ EURJPY,M1: removed
+2	13:43:39.765	Custom indicator ALERT SIGNAL EURJPY,M1: removed
+2	13:43:39.795	Custom indicator #P4L CandleTime EURGBP,M1: removed
+2	13:43:39.797	Custom indicator TURBO PLUS+ EURGBP,M1: removed
+2	13:43:39.801	Custom indicator ALERT SIGNAL EURGBP,M1: removed
+2	13:43:39.827	Custom indicator #P4L CandleTime GBPUSD,M1: removed
+2	13:43:39.829	Custom indicator TURBO PLUS+ GBPUSD,M1: removed
+2	13:43:39.831	Custom indicator ALERT SIGNAL GBPUSD,M1: removed
+2	13:43:39.856	Custom indicator #P4L CandleTime NZDCAD,M1: removed
+2	13:43:39.857	Custom indicator TURBO PLUS+ NZDCAD,M1: removed
+2	13:43:39.861	Custom indicator ALERT SIGNAL NZDCAD,M1: removed
+2	13:43:39.885	Custom indicator #P4L CandleTime GBPCHF,M1: removed
+2	13:43:39.888	Custom indicator TURBO PLUS+ GBPCHF,M1: removed
+2	13:43:39.889	Custom indicator ALERT SIGNAL GBPCHF,M1: removed
+2	13:43:39.912	Custom indicator #P4L CandleTime AUDNZD,M1: removed
+2	13:43:39.914	Custom indicator TURBO PLUS+ AUDNZD,M1: removed
+2	13:43:39.914	Custom indicator ALERT SIGNAL AUDNZD,M1: removed
+2	13:43:39.948	Custom indicator #P4L CandleTime USDCAD,M1: removed
+2	13:43:39.950	Custom indicator TURBO PLUS+ USDCAD,M1: removed
+2	13:43:39.953	Custom indicator ALERT SIGNAL USDCAD,M1: removed
+2	13:43:39.979	Custom indicator #P4L CandleTime AUDCHF,M1: removed
+2	13:43:39.982	Custom indicator TURBO PLUS+ AUDCHF,M1: removed
+2	13:43:39.987	Custom indicator ALERT SIGNAL AUDCHF,M1: removed
+2	13:43:40.013	Custom indicator #P4L CandleTime AUDUSD,M1: removed
+2	13:43:40.015	Custom indicator TURBO PLUS+ AUDUSD,M1: removed
+2	13:43:40.020	Custom indicator ALERT SIGNAL AUDUSD,M1: removed
+2	13:43:40.046	Custom indicator #P4L CandleTime EURNZD,M1: removed
+2	13:43:40.048	Custom indicator TURBO PLUS+ EURNZD,M1: removed
+2	13:43:40.052	Custom indicator ALERT SIGNAL EURNZD,M1: removed
+2	13:43:40.080	Custom indicator #P4L CandleTime USDJPY,M1: removed
+2	13:43:40.084	Custom indicator TURBO PLUS+ USDJPY,M1: removed
+2	13:43:40.088	Custom indicator ALERT SIGNAL USDJPY,M1: removed
+2	13:43:40.122	Custom indicator #P4L CandleTime NZDCHF,M1: removed
+2	13:43:40.123	Custom indicator TURBO PLUS+ NZDCHF,M1: removed
+2	13:43:40.127	Custom indicator ALERT SIGNAL NZDCHF,M1: removed
+2	13:43:40.153	Custom indicator #P4L CandleTime GBPJPY,M1: removed
+2	13:43:40.156	Custom indicator TURBO PLUS+ GBPJPY,M1: removed
+2	13:43:40.159	Custom indicator ALERT SIGNAL GBPJPY,M1: removed
+2	13:43:40.180	Custom indicator #P4L CandleTime CHFJPY,M1: removed
+2	13:43:40.181	Custom indicator TURBO PLUS+ CHFJPY,M1: removed
+2	13:43:40.184	Custom indicator ALERT SIGNAL CHFJPY,M1: removed
+2	13:43:40.208	Custom indicator #P4L CandleTime NZDUSD,M1: removed
+2	13:43:40.211	Custom indicator TURBO PLUS+ NZDUSD,M1: removed
+2	13:43:40.213	Custom indicator ALERT SIGNAL NZDUSD,M1: removed
+2	13:43:40.235	Custom indicator #P4L CandleTime GBPCAD,M1: removed
+2	13:43:40.237	Custom indicator TURBO PLUS+ GBPCAD,M1: removed
+2	13:43:40.241	Custom indicator ALERT SIGNAL GBPCAD,M1: removed
+2	13:43:40.261	Custom indicator #P4L CandleTime EURCAD,M1: removed
+2	13:43:40.262	Custom indicator TURBO PLUS+ EURCAD,M1: removed
+2	13:43:40.266	Custom indicator ALERT SIGNAL EURCAD,M1: removed
+2	13:43:40.285	Custom indicator #P4L CandleTime CADCHF,M1: removed
+2	13:43:40.289	Custom indicator TURBO PLUS+ CADCHF,M1: removed
+2	13:43:40.291	Custom indicator ALERT SIGNAL CADCHF,M1: removed
+2	13:43:40.310	Custom indicator #P4L CandleTime AUDJPY,M1: removed
+2	13:43:40.312	Custom indicator TURBO PLUS+ AUDJPY,M1: removed
+2	13:43:40.312	Custom indicator ALERT SIGNAL AUDJPY,M1: removed
+2	13:43:40.332	Custom indicator #P4L CandleTime NZDJPY,M1: removed
+2	13:43:40.334	Custom indicator TURBO PLUS+ NZDJPY,M1: removed
+2	13:43:40.338	Custom indicator ALERT SIGNAL NZDJPY,M1: removed
+2	13:43:40.356	Custom indicator #P4L CandleTime GBPAUD,M1: removed
+2	13:43:40.359	Custom indicator TURBO PLUS+ GBPAUD,M1: removed
+2	13:43:40.361	Custom indicator ALERT SIGNAL GBPAUD,M1: removed
+2	13:43:40.379	Custom indicator #P4L CandleTime CADJPY,M1: removed
+2	13:43:40.382	Custom indicator TURBO PLUS+ CADJPY,M1: removed
+2	13:43:40.383	Custom indicator ALERT SIGNAL CADJPY,M1: removed
+2	13:43:40.396	Custom indicator #P4L CandleTime AUDCAD,M1: removed
+2	13:43:40.397	Custom indicator TURBO PLUS+ AUDCAD,M1: removed
+2	13:43:40.402	Custom indicator ALERT SIGNAL AUDCAD,M1: removed
+2	13:43:40.596	Custom indicator HolyCandleTime AUDJPY,M1: loaded successfully
+2	13:43:40.792	Custom indicator USAIN-BOLT AUDJPY,M1: loaded successfully
+2	13:43:40.922	Custom indicator HolyCandleTime AUDNZD,M1: loaded successfully
+2	13:43:41.004	Custom indicator USAIN-BOLT AUDNZD,M1: loaded successfully
+2	13:43:41.216	Custom indicator HolyCandleTime AUDUSD,M1: loaded successfully
+2	13:43:41.323	Custom indicator USAIN-BOLT AUDUSD,M1: loaded successfully
+2	13:43:41.515	Custom indicator HolyCandleTime AUDCHF,M1: loaded successfully
+2	13:43:41.653	Custom indicator USAIN-BOLT AUDCHF,M1: loaded successfully
+2	13:43:41.758	Custom indicator HolyCandleTime CADJPY,M1: loaded successfully
+2	13:43:41.844	Custom indicator USAIN-BOLT CADJPY,M1: loaded successfully
+2	13:43:42.014	Custom indicator HolyCandleTime CADCHF,M1: loaded successfully
+2	13:43:42.110	Custom indicator USAIN-BOLT CADCHF,M1: loaded successfully
+2	13:43:42.273	Custom indicator HolyCandleTime CHFJPY,M1: loaded successfully
+2	13:43:42.348	Custom indicator USAIN-BOLT CHFJPY,M1: loaded successfully
+2	13:43:42.501	Custom indicator HolyCandleTime EURUSD,M1: loaded successfully
+2	13:43:42.580	Custom indicator USAIN-BOLT EURUSD,M1: loaded successfully
+2	13:43:42.777	Custom indicator HolyCandleTime EURAUD,M1: loaded successfully
+2	13:43:42.867	Custom indicator USAIN-BOLT EURAUD,M1: loaded successfully
+2	13:43:43.038	Custom indicator HolyCandleTime EURGBP,M1: loaded successfully
+2	13:43:43.131	Custom indicator USAIN-BOLT EURGBP,M1: loaded successfully
+2	13:43:43.287	Custom indicator HolyCandleTime EURCAD,M1: loaded successfully
+2	13:43:43.369	Custom indicator USAIN-BOLT EURCAD,M1: loaded successfully
+2	13:43:43.531	Custom indicator HolyCandleTime EURJPY,M1: loaded successfully
+2	13:43:43.626	Custom indicator USAIN-BOLT EURJPY,M1: loaded successfully
+2	13:43:43.756	Custom indicator HolyCandleTime EURNZD,M1: loaded successfully
+2	13:43:43.852	Custom indicator USAIN-BOLT EURNZD,M1: loaded successfully
+2	13:43:43.989	Custom indicator HolyCandleTime EURCHF,M1: loaded successfully
+2	13:43:44.092	Custom indicator USAIN-BOLT EURCHF,M1: loaded successfully
+2	13:43:44.238	Custom indicator HolyCandleTime GBPUSD,M1: loaded successfully
+2	13:43:44.318	Custom indicator USAIN-BOLT GBPUSD,M1: loaded successfully
+2	13:43:44.497	Custom indicator HolyCandleTime GBPAUD,M1: loaded successfully
+2	13:43:44.574	Custom indicator USAIN-BOLT GBPAUD,M1: loaded successfully
+2	13:43:44.853	Custom indicator HolyCandleTime GBPCAD,M1: loaded successfully
+2	13:43:44.965	Custom indicator USAIN-BOLT GBPCAD,M1: loaded successfully
+2	13:43:45.107	Custom indicator HolyCandleTime GBPJPY,M1: loaded successfully
+2	13:43:45.225	Custom indicator USAIN-BOLT GBPJPY,M1: loaded successfully
+2	13:43:45.396	Custom indicator HolyCandleTime GBPNZD,M1: loaded successfully
+2	13:43:45.482	Custom indicator USAIN-BOLT GBPNZD,M1: loaded successfully
+2	13:43:45.652	Custom indicator HolyCandleTime GBPCHF,M1: loaded successfully
+2	13:43:45.748	Custom indicator USAIN-BOLT GBPCHF,M1: loaded successfully
+2	13:43:45.930	Custom indicator HolyCandleTime NZDCAD,M1: loaded successfully
+2	13:43:46.022	Custom indicator USAIN-BOLT NZDCAD,M1: loaded successfully
+2	13:43:46.232	Custom indicator HolyCandleTime NZDJPY,M1: loaded successfully
+2	13:43:46.317	Custom indicator USAIN-BOLT NZDJPY,M1: loaded successfully
+2	13:43:46.467	Custom indicator HolyCandleTime NZDUSD,M1: loaded successfully
+2	13:43:46.629	Custom indicator USAIN-BOLT NZDUSD,M1: loaded successfully
+2	13:43:46.807	Custom indicator HolyCandleTime NZDCHF,M1: loaded successfully
+2	13:43:46.898	Custom indicator USAIN-BOLT NZDCHF,M1: loaded successfully
+2	13:43:47.098	Custom indicator HolyCandleTime USDJPY,M1: loaded successfully
+2	13:43:47.189	Custom indicator USAIN-BOLT USDJPY,M1: loaded successfully
+2	13:43:47.394	Custom indicator HolyCandleTime USDCAD,M1: loaded successfully
+2	13:43:47.480	Custom indicator USAIN-BOLT USDCAD,M1: loaded successfully
+2	13:43:47.683	Custom indicator HolyCandleTime USDCHF,M1: loaded successfully
+2	13:43:47.764	Custom indicator USAIN-BOLT USDCHF,M1: loaded successfully
+2	13:43:47.980	Custom indicator HolyCandleTime AUDCAD,M1: loaded successfully
+2	13:43:48.060	Custom indicator USAIN-BOLT AUDCAD,M1: loaded successfully
+2	13:44:20.029	Custom indicator HolyCandleTime EURUSD,M1: removed
+2	13:44:20.029	Custom indicator USAIN-BOLT EURUSD,M1: removed
+2	13:44:20.053	Custom indicator HolyCandleTime CHFJPY,M1: removed
+2	13:44:20.053	Custom indicator USAIN-BOLT CHFJPY,M1: removed
+2	13:44:20.076	Custom indicator HolyCandleTime EURCHF,M1: removed
+2	13:44:20.076	Custom indicator USAIN-BOLT EURCHF,M1: removed
+2	13:44:20.099	Custom indicator HolyCandleTime EURGBP,M1: removed
+2	13:44:20.099	Custom indicator USAIN-BOLT EURGBP,M1: removed
+2	13:44:20.125	Custom indicator HolyCandleTime EURCAD,M1: removed
+2	13:44:20.125	Custom indicator USAIN-BOLT EURCAD,M1: removed
+2	13:44:20.142	Custom indicator HolyCandleTime AUDNZD,M1: removed
+2	13:44:20.142	Custom indicator USAIN-BOLT AUDNZD,M1: removed
+2	13:44:20.159	Custom indicator HolyCandleTime NZDCAD,M1: removed
+2	13:44:20.159	Custom indicator USAIN-BOLT NZDCAD,M1: removed
+2	13:44:20.177	Custom indicator HolyCandleTime GBPNZD,M1: removed
+2	13:44:20.177	Custom indicator USAIN-BOLT GBPNZD,M1: removed
+2	13:44:20.195	Custom indicator HolyCandleTime USDCHF,M1: removed
+2	13:44:20.195	Custom indicator USAIN-BOLT USDCHF,M1: removed
+2	13:44:20.214	Custom indicator HolyCandleTime USDCAD,M1: removed
+2	13:44:20.214	Custom indicator USAIN-BOLT USDCAD,M1: removed
+2	13:44:20.232	Custom indicator HolyCandleTime GBPUSD,M1: removed
+2	13:44:20.232	Custom indicator USAIN-BOLT GBPUSD,M1: removed
+2	13:44:20.249	Custom indicator HolyCandleTime EURAUD,M1: removed
+2	13:44:20.250	Custom indicator USAIN-BOLT EURAUD,M1: removed
+2	13:44:20.265	Custom indicator HolyCandleTime AUDCHF,M1: removed
+2	13:44:20.265	Custom indicator USAIN-BOLT AUDCHF,M1: removed
+2	13:44:20.280	Custom indicator HolyCandleTime AUDUSD,M1: removed
+2	13:44:20.280	Custom indicator USAIN-BOLT AUDUSD,M1: removed
+2	13:44:20.297	Custom indicator HolyCandleTime GBPCHF,M1: removed
+2	13:44:20.297	Custom indicator USAIN-BOLT GBPCHF,M1: removed
+2	13:44:20.313	Custom indicator HolyCandleTime EURNZD,M1: removed
+2	13:44:20.313	Custom indicator USAIN-BOLT EURNZD,M1: removed
+2	13:44:20.328	Custom indicator HolyCandleTime USDJPY,M1: removed
+2	13:44:20.328	Custom indicator USAIN-BOLT USDJPY,M1: removed
+2	13:44:20.344	Custom indicator HolyCandleTime NZDCHF,M1: removed
+2	13:44:20.344	Custom indicator USAIN-BOLT NZDCHF,M1: removed
+2	13:44:20.359	Custom indicator HolyCandleTime GBPJPY,M1: removed
+2	13:44:20.359	Custom indicator USAIN-BOLT GBPJPY,M1: removed
+2	13:44:20.374	Custom indicator HolyCandleTime EURJPY,M1: removed
+2	13:44:20.374	Custom indicator USAIN-BOLT EURJPY,M1: removed
+2	13:44:20.387	Custom indicator HolyCandleTime AUDJPY,M1: removed
+2	13:44:20.387	Custom indicator USAIN-BOLT AUDJPY,M1: removed
+2	13:44:20.402	Custom indicator HolyCandleTime CADCHF,M1: removed
+2	13:44:20.402	Custom indicator USAIN-BOLT CADCHF,M1: removed
+2	13:44:20.417	Custom indicator HolyCandleTime GBPCAD,M1: removed
+2	13:44:20.417	Custom indicator USAIN-BOLT GBPCAD,M1: removed
+2	13:44:20.433	Custom indicator HolyCandleTime NZDUSD,M1: removed
+2	13:44:20.433	Custom indicator USAIN-BOLT NZDUSD,M1: removed
+2	13:44:20.446	Custom indicator HolyCandleTime NZDJPY,M1: removed
+2	13:44:20.446	Custom indicator USAIN-BOLT NZDJPY,M1: removed
+2	13:44:20.458	Custom indicator HolyCandleTime GBPAUD,M1: removed
+2	13:44:20.459	Custom indicator USAIN-BOLT GBPAUD,M1: removed
+2	13:44:20.472	Custom indicator HolyCandleTime CADJPY,M1: removed
+2	13:44:20.473	Custom indicator USAIN-BOLT CADJPY,M1: removed
+2	13:44:20.479	Custom indicator HolyCandleTime AUDCAD,M1: removed
+2	13:44:20.479	Custom indicator USAIN-BOLT AUDCAD,M1: removed
+2	13:44:20.742	Custom indicator #P4L CandleTime AUDCAD,M1: loaded successfully
+2	13:44:20.758	Custom indicator TURBO PLUS+ AUDCAD,M1: loaded successfully
+2	13:44:20.770	Custom indicator ALERT SIGNAL AUDCAD,M1: loaded successfully
+2	13:44:20.938	Custom indicator MBFX Timing AUDCAD,M1: loaded successfully
+2	13:44:21.070	Custom indicator #P4L CandleTime AUDJPY,M1: loaded successfully
+2	13:44:21.080	Custom indicator TURBO PLUS+ AUDJPY,M1: loaded successfully
+2	13:44:21.102	Custom indicator ALERT SIGNAL AUDJPY,M1: loaded successfully
+2	13:44:21.348	Custom indicator MBFX Timing AUDJPY,M1: loaded successfully
+2	13:44:21.487	Custom indicator #P4L CandleTime AUDNZD,M1: loaded successfully
+2	13:44:21.497	Custom indicator TURBO PLUS+ AUDNZD,M1: loaded successfully
+2	13:44:21.507	Custom indicator ALERT SIGNAL AUDNZD,M1: loaded successfully
+2	13:44:21.651	Custom indicator MBFX Timing AUDNZD,M1: loaded successfully
+2	13:44:21.786	Custom indicator #P4L CandleTime AUDUSD,M1: loaded successfully
+2	13:44:21.792	Custom indicator TURBO PLUS+ AUDUSD,M1: loaded successfully
+2	13:44:21.803	Custom indicator ALERT SIGNAL AUDUSD,M1: loaded successfully
+2	13:44:21.951	Custom indicator MBFX Timing AUDUSD,M1: loaded successfully
+2	13:44:22.145	Custom indicator #P4L CandleTime AUDCHF,M1: loaded successfully
+2	13:44:22.161	Custom indicator TURBO PLUS+ AUDCHF,M1: loaded successfully
+2	13:44:22.181	Custom indicator ALERT SIGNAL AUDCHF,M1: loaded successfully
+2	13:44:22.374	Custom indicator MBFX Timing AUDCHF,M1: loaded successfully
+2	13:44:22.508	Custom indicator #P4L CandleTime CADJPY,M1: loaded successfully
+2	13:44:22.517	Custom indicator TURBO PLUS+ CADJPY,M1: loaded successfully
+2	13:44:22.525	Custom indicator ALERT SIGNAL CADJPY,M1: loaded successfully
+2	13:44:22.670	Custom indicator MBFX Timing CADJPY,M1: loaded successfully
+2	13:44:22.810	Custom indicator #P4L CandleTime CADCHF,M1: loaded successfully
+2	13:44:22.826	Custom indicator TURBO PLUS+ CADCHF,M1: loaded successfully
+2	13:44:22.853	Custom indicator ALERT SIGNAL CADCHF,M1: loaded successfully
+2	13:44:23.078	Custom indicator MBFX Timing CADCHF,M1: loaded successfully
+2	13:44:23.195	Custom indicator #P4L CandleTime CHFJPY,M1: loaded successfully
+2	13:44:23.205	Custom indicator TURBO PLUS+ CHFJPY,M1: loaded successfully
+2	13:44:23.217	Custom indicator ALERT SIGNAL CHFJPY,M1: loaded successfully
+2	13:44:23.454	Custom indicator MBFX Timing CHFJPY,M1: loaded successfully
+2	13:44:23.584	Custom indicator #P4L CandleTime EURUSD,M1: loaded successfully
+2	13:44:23.595	Custom indicator TURBO PLUS+ EURUSD,M1: loaded successfully
+2	13:44:23.606	Custom indicator ALERT SIGNAL EURUSD,M1: loaded successfully
+2	13:44:23.749	Custom indicator MBFX Timing EURUSD,M1: loaded successfully
+2	13:44:23.893	Custom indicator #P4L CandleTime EURAUD,M1: loaded successfully
+2	13:44:23.902	Custom indicator TURBO PLUS+ EURAUD,M1: loaded successfully
+2	13:44:23.912	Custom indicator ALERT SIGNAL EURAUD,M1: loaded successfully
+2	13:44:24.179	Custom indicator MBFX Timing EURAUD,M1: loaded successfully
+2	13:44:24.296	Custom indicator #P4L CandleTime EURGBP,M1: loaded successfully
+2	13:44:24.306	Custom indicator TURBO PLUS+ EURGBP,M1: loaded successfully
+2	13:44:24.313	Custom indicator ALERT SIGNAL EURGBP,M1: loaded successfully
+2	13:44:24.464	Custom indicator MBFX Timing EURGBP,M1: loaded successfully
+2	13:44:24.582	Custom indicator #P4L CandleTime EURCAD,M1: loaded successfully
+2	13:44:24.590	Custom indicator TURBO PLUS+ EURCAD,M1: loaded successfully
+2	13:44:24.601	Custom indicator ALERT SIGNAL EURCAD,M1: loaded successfully
+2	13:44:24.760	Custom indicator MBFX Timing EURCAD,M1: loaded successfully
+2	13:44:24.877	Custom indicator #P4L CandleTime EURJPY,M1: loaded successfully
+2	13:44:24.886	Custom indicator TURBO PLUS+ EURJPY,M1: loaded successfully
+2	13:44:24.896	Custom indicator ALERT SIGNAL EURJPY,M1: loaded successfully
+2	13:44:25.041	Custom indicator MBFX Timing EURJPY,M1: loaded successfully
+2	13:44:25.182	Custom indicator #P4L CandleTime EURNZD,M1: loaded successfully
+2	13:44:25.192	Custom indicator TURBO PLUS+ EURNZD,M1: loaded successfully
+2	13:44:25.202	Custom indicator ALERT SIGNAL EURNZD,M1: loaded successfully
+2	13:44:25.350	Custom indicator MBFX Timing EURNZD,M1: loaded successfully
+2	13:44:25.460	Custom indicator #P4L CandleTime EURCHF,M1: loaded successfully
+2	13:44:25.468	Custom indicator TURBO PLUS+ EURCHF,M1: loaded successfully
+2	13:44:25.476	Custom indicator ALERT SIGNAL EURCHF,M1: loaded successfully
+2	13:44:25.623	Custom indicator MBFX Timing EURCHF,M1: loaded successfully
+2	13:44:25.765	Custom indicator #P4L CandleTime GBPUSD,M1: loaded successfully
+2	13:44:25.779	Custom indicator TURBO PLUS+ GBPUSD,M1: loaded successfully
+2	13:44:25.792	Custom indicator ALERT SIGNAL GBPUSD,M1: loaded successfully
+2	13:44:25.970	Custom indicator MBFX Timing GBPUSD,M1: loaded successfully
+2	13:44:26.125	Custom indicator #P4L CandleTime GBPAUD,M1: loaded successfully
+2	13:44:26.140	Custom indicator TURBO PLUS+ GBPAUD,M1: loaded successfully
+2	13:44:26.152	Custom indicator ALERT SIGNAL GBPAUD,M1: loaded successfully
+2	13:44:26.303	Custom indicator MBFX Timing GBPAUD,M1: loaded successfully
+2	13:44:26.480	Custom indicator #P4L CandleTime GBPCAD,M1: loaded successfully
+2	13:44:26.488	Custom indicator TURBO PLUS+ GBPCAD,M1: loaded successfully
+2	13:44:26.499	Custom indicator ALERT SIGNAL GBPCAD,M1: loaded successfully
+2	13:44:26.644	Custom indicator MBFX Timing GBPCAD,M1: loaded successfully
+2	13:44:26.775	Custom indicator #P4L CandleTime GBPJPY,M1: loaded successfully
+2	13:44:26.784	Custom indicator TURBO PLUS+ GBPJPY,M1: loaded successfully
+2	13:44:26.792	Custom indicator ALERT SIGNAL GBPJPY,M1: loaded successfully
+2	13:44:26.940	Custom indicator MBFX Timing GBPJPY,M1: loaded successfully
+2	13:44:27.076	Custom indicator #P4L CandleTime GBPNZD,M1: loaded successfully
+2	13:44:27.094	Custom indicator TURBO PLUS+ GBPNZD,M1: loaded successfully
+2	13:44:27.108	Custom indicator ALERT SIGNAL GBPNZD,M1: loaded successfully
+2	13:44:27.316	Custom indicator MBFX Timing GBPNZD,M1: loaded successfully
+2	13:44:27.462	Custom indicator #P4L CandleTime GBPCHF,M1: loaded successfully
+2	13:44:27.470	Custom indicator TURBO PLUS+ GBPCHF,M1: loaded successfully
+2	13:44:27.479	Custom indicator ALERT SIGNAL GBPCHF,M1: loaded successfully
+2	13:44:27.623	Custom indicator MBFX Timing GBPCHF,M1: loaded successfully
+2	13:44:27.766	Custom indicator #P4L CandleTime NZDCAD,M1: loaded successfully
+2	13:44:27.783	Custom indicator TURBO PLUS+ NZDCAD,M1: loaded successfully
+2	13:44:27.799	Custom indicator ALERT SIGNAL NZDCAD,M1: loaded successfully
+2	13:44:27.981	Custom indicator MBFX Timing NZDCAD,M1: loaded successfully
+2	13:44:28.153	Custom indicator #P4L CandleTime NZDJPY,M1: loaded successfully
+2	13:44:28.164	Custom indicator TURBO PLUS+ NZDJPY,M1: loaded successfully
+2	13:44:28.173	Custom indicator ALERT SIGNAL NZDJPY,M1: loaded successfully
+2	13:44:28.323	Custom indicator MBFX Timing NZDJPY,M1: loaded successfully
+2	13:44:28.566	Custom indicator #P4L CandleTime NZDUSD,M1: loaded successfully
+2	13:44:28.577	Custom indicator TURBO PLUS+ NZDUSD,M1: loaded successfully
+2	13:44:28.592	Custom indicator ALERT SIGNAL NZDUSD,M1: loaded successfully
+2	13:44:28.750	Custom indicator MBFX Timing NZDUSD,M1: loaded successfully
+2	13:44:28.886	Custom indicator #P4L CandleTime NZDCHF,M1: loaded successfully
+2	13:44:28.894	Custom indicator TURBO PLUS+ NZDCHF,M1: loaded successfully
+2	13:44:28.905	Custom indicator ALERT SIGNAL NZDCHF,M1: loaded successfully
+2	13:44:29.051	Custom indicator MBFX Timing NZDCHF,M1: loaded successfully
+2	13:44:29.214	Custom indicator #P4L CandleTime USDJPY,M1: loaded successfully
+2	13:44:29.226	Custom indicator TURBO PLUS+ USDJPY,M1: loaded successfully
+2	13:44:29.239	Custom indicator ALERT SIGNAL USDJPY,M1: loaded successfully
+2	13:44:29.483	Custom indicator MBFX Timing USDJPY,M1: loaded successfully
+2	13:44:29.637	Custom indicator #P4L CandleTime USDCAD,M1: loaded successfully
+2	13:44:29.649	Custom indicator TURBO PLUS+ USDCAD,M1: loaded successfully
+2	13:44:29.660	Custom indicator ALERT SIGNAL USDCAD,M1: loaded successfully
+2	13:44:29.806	Custom indicator MBFX Timing USDCAD,M1: loaded successfully
+2	13:44:29.954	Custom indicator #P4L CandleTime USDCHF,M1: loaded successfully
+2	13:44:29.963	Custom indicator TURBO PLUS+ USDCHF,M1: loaded successfully
+2	13:44:29.975	Custom indicator ALERT SIGNAL USDCHF,M1: loaded successfully
+2	13:44:30.141	Custom indicator MBFX Timing USDCHF,M1: loaded successfully
+2	13:44:51.293	Custom indicator HolyCandleTime EURCHF,M1: loaded successfully
+2	13:45:29.024	Custom indicator USAIN-BOLT EURCHF,M1: loaded successfully
+2	13:53:26.391	Custom indicator HolyCandleTime EURCHF,M1: removed
+2	13:53:30.077	Custom indicator USAIN-BOLT EURCHF,M1: removed
+2	13:53:41.695	Custom indicator MBFX Timing AUDCAD,M1: removed
+2	13:53:41.699	Custom indicator MBFX Timing AUDJPY,M1: removed
+2	13:53:41.707	Custom indicator MBFX Timing AUDNZD,M1: removed
+2	13:53:41.712	Custom indicator MBFX Timing AUDUSD,M1: removed
+2	13:53:41.719	Custom indicator MBFX Timing AUDCHF,M1: removed
+2	13:53:41.727	Custom indicator MBFX Timing CADJPY,M1: removed
+2	13:53:41.731	Custom indicator MBFX Timing CADCHF,M1: removed
+2	13:53:41.735	Custom indicator MBFX Timing CHFJPY,M1: removed
+2	13:53:41.743	Custom indicator MBFX Timing EURUSD,M1: removed
+2	13:53:41.747	Custom indicator MBFX Timing EURAUD,M1: removed
+2	13:53:41.753	Custom indicator MBFX Timing EURGBP,M1: removed
+2	13:53:41.755	Custom indicator MBFX Timing EURCAD,M1: removed
+2	13:53:41.760	Custom indicator MBFX Timing EURJPY,M1: removed
+2	13:53:41.764	Custom indicator MBFX Timing EURNZD,M1: removed
+2	13:53:41.768	Custom indicator MBFX Timing EURCHF,M1: removed
+2	13:53:41.768	Custom indicator MBFX Timing GBPUSD,M1: removed
+2	13:53:41.772	Custom indicator MBFX Timing GBPAUD,M1: removed
+2	13:53:41.778	Custom indicator MBFX Timing GBPCAD,M1: removed
+2	13:53:41.782	Custom indicator MBFX Timing GBPJPY,M1: removed
+2	13:53:41.786	Custom indicator MBFX Timing GBPNZD,M1: removed
+2	13:53:41.790	Custom indicator MBFX Timing GBPCHF,M1: removed
+2	13:53:41.793	Custom indicator MBFX Timing NZDCAD,M1: removed
+2	13:53:41.797	Custom indicator MBFX Timing NZDJPY,M1: removed
+2	13:53:41.801	Custom indicator MBFX Timing NZDUSD,M1: removed
+2	13:53:41.801	Custom indicator MBFX Timing NZDCHF,M1: removed
+2	13:53:41.805	Custom indicator MBFX Timing USDJPY,M1: removed
+2	13:53:41.809	Custom indicator MBFX Timing USDCAD,M1: removed
+2	13:53:41.813	Custom indicator MBFX Timing USDCHF,M1: removed
+2	13:53:41.933	Custom indicator #P4L CandleTime EURCHF,M1: removed
+2	13:53:41.934	Custom indicator TURBO PLUS+ EURCHF,M1: removed
+2	13:53:41.934	Custom indicator ALERT SIGNAL EURCHF,M1: removed
+2	13:53:41.964	Custom indicator #P4L CandleTime USDCHF,M1: removed
+2	13:53:41.965	Custom indicator TURBO PLUS+ USDCHF,M1: removed
+2	13:53:41.965	Custom indicator ALERT SIGNAL USDCHF,M1: removed
+2	13:53:41.996	Custom indicator #P4L CandleTime GBPNZD,M1: removed
+2	13:53:41.997	Custom indicator TURBO PLUS+ GBPNZD,M1: removed
+2	13:53:41.997	Custom indicator ALERT SIGNAL GBPNZD,M1: removed
+2	13:53:42.025	Custom indicator #P4L CandleTime EURUSD,M1: removed
+2	13:53:42.027	Custom indicator TURBO PLUS+ EURUSD,M1: removed
+2	13:53:42.029	Custom indicator ALERT SIGNAL EURUSD,M1: removed
+2	13:53:42.054	Custom indicator #P4L CandleTime EURAUD,M1: removed
+2	13:53:42.056	Custom indicator TURBO PLUS+ EURAUD,M1: removed
+2	13:53:42.058	Custom indicator ALERT SIGNAL EURAUD,M1: removed
+2	13:53:42.090	Custom indicator #P4L CandleTime EURJPY,M1: removed
+2	13:53:42.092	Custom indicator TURBO PLUS+ EURJPY,M1: removed
+2	13:53:42.092	Custom indicator ALERT SIGNAL EURJPY,M1: removed
+2	13:53:42.129	Custom indicator #P4L CandleTime EURGBP,M1: removed
+2	13:53:42.132	Custom indicator TURBO PLUS+ EURGBP,M1: removed
+2	13:53:42.132	Custom indicator ALERT SIGNAL EURGBP,M1: removed
+2	13:53:42.160	Custom indicator #P4L CandleTime GBPUSD,M1: removed
+2	13:53:42.160	Custom indicator TURBO PLUS+ GBPUSD,M1: removed
+2	13:53:42.164	Custom indicator ALERT SIGNAL GBPUSD,M1: removed
+2	13:53:42.194	Custom indicator #P4L CandleTime NZDCAD,M1: removed
+2	13:53:42.196	Custom indicator TURBO PLUS+ NZDCAD,M1: removed
+2	13:53:42.196	Custom indicator ALERT SIGNAL NZDCAD,M1: removed
+2	13:53:42.223	Custom indicator #P4L CandleTime GBPCHF,M1: removed
+2	13:53:42.225	Custom indicator TURBO PLUS+ GBPCHF,M1: removed
+2	13:53:42.227	Custom indicator ALERT SIGNAL GBPCHF,M1: removed
+2	13:53:42.252	Custom indicator #P4L CandleTime AUDNZD,M1: removed
+2	13:53:42.253	Custom indicator TURBO PLUS+ AUDNZD,M1: removed
+2	13:53:42.253	Custom indicator ALERT SIGNAL AUDNZD,M1: removed
+2	13:53:42.282	Custom indicator #P4L CandleTime USDCAD,M1: removed
+2	13:53:42.284	Custom indicator TURBO PLUS+ USDCAD,M1: removed
+2	13:53:42.286	Custom indicator ALERT SIGNAL USDCAD,M1: removed
+2	13:53:42.309	Custom indicator #P4L CandleTime AUDCHF,M1: removed
+2	13:53:42.311	Custom indicator TURBO PLUS+ AUDCHF,M1: removed
+2	13:53:42.311	Custom indicator ALERT SIGNAL AUDCHF,M1: removed
+2	13:53:42.338	Custom indicator #P4L CandleTime AUDUSD,M1: removed
+2	13:53:42.340	Custom indicator TURBO PLUS+ AUDUSD,M1: removed
+2	13:53:42.343	Custom indicator ALERT SIGNAL AUDUSD,M1: removed
+2	13:53:42.364	Custom indicator #P4L CandleTime EURNZD,M1: removed
+2	13:53:42.366	Custom indicator TURBO PLUS+ EURNZD,M1: removed
+2	13:53:42.366	Custom indicator ALERT SIGNAL EURNZD,M1: removed
+2	13:53:42.391	Custom indicator #P4L CandleTime USDJPY,M1: removed
+2	13:53:42.394	Custom indicator TURBO PLUS+ USDJPY,M1: removed
+2	13:53:42.395	Custom indicator ALERT SIGNAL USDJPY,M1: removed
+2	13:53:42.417	Custom indicator #P4L CandleTime NZDCHF,M1: removed
+2	13:53:42.419	Custom indicator TURBO PLUS+ NZDCHF,M1: removed
+2	13:53:42.419	Custom indicator ALERT SIGNAL NZDCHF,M1: removed
+2	13:53:42.441	Custom indicator #P4L CandleTime GBPJPY,M1: removed
+2	13:53:42.444	Custom indicator TURBO PLUS+ GBPJPY,M1: removed
+2	13:53:42.444	Custom indicator ALERT SIGNAL GBPJPY,M1: removed
+2	13:53:42.467	Custom indicator #P4L CandleTime CHFJPY,M1: removed
+2	13:53:42.469	Custom indicator TURBO PLUS+ CHFJPY,M1: removed
+2	13:53:42.469	Custom indicator ALERT SIGNAL CHFJPY,M1: removed
+2	13:53:42.491	Custom indicator #P4L CandleTime NZDUSD,M1: removed
+2	13:53:42.493	Custom indicator TURBO PLUS+ NZDUSD,M1: removed
+2	13:53:42.494	Custom indicator ALERT SIGNAL NZDUSD,M1: removed
+2	13:53:42.514	Custom indicator #P4L CandleTime GBPCAD,M1: removed
+2	13:53:42.517	Custom indicator TURBO PLUS+ GBPCAD,M1: removed
+2	13:53:42.519	Custom indicator ALERT SIGNAL GBPCAD,M1: removed
+2	13:53:42.538	Custom indicator #P4L CandleTime EURCAD,M1: removed
+2	13:53:42.541	Custom indicator TURBO PLUS+ EURCAD,M1: removed
+2	13:53:42.543	Custom indicator ALERT SIGNAL EURCAD,M1: removed
+2	13:53:42.562	Custom indicator #P4L CandleTime CADCHF,M1: removed
+2	13:53:42.563	Custom indicator TURBO PLUS+ CADCHF,M1: removed
+2	13:53:42.563	Custom indicator ALERT SIGNAL CADCHF,M1: removed
+2	13:53:42.584	Custom indicator #P4L CandleTime AUDJPY,M1: removed
+2	13:53:42.586	Custom indicator TURBO PLUS+ AUDJPY,M1: removed
+2	13:53:42.586	Custom indicator ALERT SIGNAL AUDJPY,M1: removed
+2	13:53:42.607	Custom indicator #P4L CandleTime NZDJPY,M1: removed
+2	13:53:42.610	Custom indicator TURBO PLUS+ NZDJPY,M1: removed
+2	13:53:42.612	Custom indicator ALERT SIGNAL NZDJPY,M1: removed
+2	13:53:42.630	Custom indicator #P4L CandleTime GBPAUD,M1: removed
+2	13:53:42.633	Custom indicator TURBO PLUS+ GBPAUD,M1: removed
+2	13:53:42.633	Custom indicator ALERT SIGNAL GBPAUD,M1: removed
+2	13:53:42.652	Custom indicator #P4L CandleTime CADJPY,M1: removed
+2	13:53:42.653	Custom indicator TURBO PLUS+ CADJPY,M1: removed
+2	13:53:42.657	Custom indicator ALERT SIGNAL CADJPY,M1: removed
+2	13:53:42.668	Custom indicator #P4L CandleTime AUDCAD,M1: removed
+2	13:53:42.671	Custom indicator TURBO PLUS+ AUDCAD,M1: removed
+2	13:53:42.673	Custom indicator ALERT SIGNAL AUDCAD,M1: removed
+2	13:53:42.713	Custom indicator CandleTimer AUDJPY,M1: loaded successfully
+2	13:53:42.743	Custom indicator RSI Divergence Levels AUDJPY,M1: loaded successfully
+2	13:53:42.831	Custom indicator CandleTimer AUDUSD,M1: loaded successfully
+2	13:53:42.844	Custom indicator RSI Divergence Levels AUDUSD,M1: loaded successfully
+2	13:53:42.911	Custom indicator CandleTimer EURUSD,M1: loaded successfully
+2	13:53:42.930	Custom indicator RSI Divergence Levels EURUSD,M1: loaded successfully
+2	13:53:43.030	Custom indicator CandleTimer EURAUD,M1: loaded successfully
+2	13:53:43.044	Custom indicator RSI Divergence Levels EURAUD,M1: loaded successfully
+2	13:53:43.131	Custom indicator CandleTimer EURGBP,M1: loaded successfully
+2	13:53:43.143	Custom indicator RSI Divergence Levels EURGBP,M1: loaded successfully
+2	13:53:43.215	Custom indicator CandleTimer EURCAD,M1: loaded successfully
+2	13:53:43.226	Custom indicator RSI Divergence Levels EURCAD,M1: loaded successfully
+2	13:53:43.296	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	13:53:43.309	Custom indicator RSI Divergence Levels EURJPY,M1: loaded successfully
+2	13:53:43.403	Custom indicator CandleTimer EURCHF,M1: loaded successfully
+2	13:53:43.415	Custom indicator RSI Divergence Levels EURCHF,M1: loaded successfully
+2	13:53:43.496	Custom indicator CandleTimer GBPUSD,M1: loaded successfully
+2	13:53:43.513	Custom indicator RSI Divergence Levels GBPUSD,M1: loaded successfully
+2	13:53:43.586	Custom indicator CandleTimer GBPAUD,M1: loaded successfully
+2	13:53:43.603	Custom indicator RSI Divergence Levels GBPAUD,M1: loaded successfully
+2	13:53:43.677	Custom indicator CandleTimer GBPJPY,M1: loaded successfully
+2	13:53:43.689	Custom indicator RSI Divergence Levels GBPJPY,M1: loaded successfully
+2	13:53:43.761	Custom indicator CandleTimer USDJPY,M1: loaded successfully
+2	13:53:43.777	Custom indicator RSI Divergence Levels USDJPY,M1: loaded successfully
+2	13:53:43.858	Custom indicator CandleTimer USDCHF,M1: loaded successfully
+2	13:53:43.874	Custom indicator RSI Divergence Levels USDCHF,M1: loaded successfully
+1	15:55:37.180	'51260446': connect failed [Connection échouée]

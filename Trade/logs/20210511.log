@@ -1,0 +1,491 @@
+0	09:48:22.446	Admiral Markets build 1330 started (Admiral Markets Group AS)
+0	09:48:22.446	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 4399 / 8014 Mb, Disk: 33 / 197 Gb, GMT+3
+0	09:48:22.446	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	09:48:33.683	Custom indicator breakout-zones\breakout-zones [JP225],H1: loaded successfully
+2	09:48:33.718	Custom indicator PositionSizeCalculator\PositionSizeCalculator [JP225],H1: loaded successfully
+2	09:48:34.431	Custom indicator AIMS Levels V2 [DAX30],M15: loaded successfully
+2	09:48:34.919	Custom indicator AIMS Entry Alert V1 [DAX30],M15: loaded successfully
+2	09:48:34.944	Custom indicator CandleTimer [DAX30],M15: loaded successfully
+2	09:48:35.305	Custom indicator #Signal_Bars_v6 [DAX30],M15: loaded successfully
+2	09:48:35.563	Custom indicator AIMS AO V.2.1 [DAX30],M15: loaded successfully
+2	09:48:35.584	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M15: loaded successfully
+2	09:48:36.492	Custom indicator AIMS Levels V2 [SP500],H1: loaded successfully
+2	09:48:36.749	Custom indicator AIMS Entry Alert V1 [SP500],H1: loaded successfully
+2	09:48:36.765	Custom indicator CandleTimer [SP500],H1: loaded successfully
+2	09:48:36.909	Custom indicator #Signal_Bars_v6 [SP500],H1: loaded successfully
+2	09:48:36.922	Custom indicator TrendEnvelopes_v1 [SP500],H1: loaded successfully
+2	09:48:36.983	Custom indicator guppy_multiple_moving_averages [SP500],H1: loaded successfully
+2	09:48:36.999	Custom indicator wedges [SP500],H1: loaded successfully
+2	09:48:37.023	Custom indicator Admiral Pivot [SP500],H1: loaded successfully
+2	09:48:37.061	Custom indicator AutoTrendChannel [SP500],H1: loaded successfully
+2	09:48:37.104	Custom indicator FRZ Channel Auto Plotter [SP500],H1: loaded successfully
+2	09:48:37.139	Custom indicator FRZ News Indicator MT4 [SP500],H1: loaded successfully
+2	09:48:37.179	Custom indicator Forex Uranus direction [SP500],H1: loaded successfully
+2	09:48:37.331	Custom indicator aVSA\aVSA clasters [SP500],H1: loaded successfully
+2	09:48:37.363	Custom indicator aVSA\aVSA Golden Zone [SP500],H1: loaded successfully
+2	09:48:37.367	Custom indicator breakout-zones\breakout-zones [SP500],H1: loaded successfully
+2	09:48:37.381	Custom indicator breakout-zones\SL&TP Values [SP500],H1: loaded successfully
+2	09:48:37.502	Custom indicator AIMS AO V.2.1 [SP500],H1: loaded successfully
+2	09:48:37.503	Custom indicator IVT_MACD_ZERO_LAG [SP500],H1: loaded successfully
+2	09:48:37.521	Custom indicator RSI Divergence Levels [SP500],H1: loaded successfully
+2	09:48:37.628	Custom indicator FRZ Forex Market Session Indicator [SP500],H1: loaded successfully
+2	09:48:42.296	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	09:48:42.322	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	09:48:42.674	Custom indicator #Signal_Bars_v6 GOLD,H1: loaded successfully
+2	09:48:42.975	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	09:48:43.002	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	09:48:43.576	Custom indicator AIMS Levels V2 WTI,H1: loaded successfully
+2	09:48:44.028	Custom indicator AIMS Entry Alert V1 WTI,H1: loaded successfully
+2	09:48:44.045	Custom indicator CandleTimer WTI,H1: loaded successfully
+2	09:48:44.260	Custom indicator #Signal_Bars_v6 WTI,H1: loaded successfully
+2	09:48:44.277	Custom indicator TrendEnvelopes_v1 WTI,H1: loaded successfully
+2	09:48:44.293	Custom indicator guppy_multiple_moving_averages WTI,H1: loaded successfully
+2	09:48:44.310	Custom indicator wedges WTI,H1: loaded successfully
+2	09:48:44.329	Custom indicator Admiral Pivot WTI,H1: loaded successfully
+2	09:48:44.348	Custom indicator AutoTrendChannel WTI,H1: loaded successfully
+2	09:48:44.369	Custom indicator FRZ Channel Auto Plotter WTI,H1: loaded successfully
+2	09:48:44.388	Custom indicator FRZ News Indicator MT4 WTI,H1: loaded successfully
+2	09:48:44.408	Custom indicator Forex Uranus direction WTI,H1: loaded successfully
+2	09:48:44.531	Custom indicator aVSA\aVSA clasters WTI,H1: loaded successfully
+2	09:48:45.774	Custom indicator aVSA\aVSA Golden Zone WTI,H1: loaded successfully
+2	09:48:45.794	Custom indicator breakout-zones\breakout-zones WTI,H1: loaded successfully
+2	09:48:45.846	Custom indicator breakout-zones\SL&TP Values WTI,H1: loaded successfully
+2	09:48:46.171	Custom indicator AIMS AO V.2.1 WTI,H1: loaded successfully
+2	09:48:46.230	Custom indicator IVT_MACD_ZERO_LAG WTI,H1: loaded successfully
+2	09:48:46.273	Custom indicator RSI Divergence Levels WTI,H1: loaded successfully
+2	09:48:46.306	Custom indicator FRZ Forex Market Session Indicator WTI,H1: loaded successfully
+2	09:48:49.584	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	09:48:49.781	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	09:48:49.796	Custom indicator CandleTimer [DJI30],M5: loaded successfully
+2	09:48:49.981	Custom indicator #Signal_Bars_v6 [DJI30],M5: loaded successfully
+2	09:48:50.112	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	09:48:50.123	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: loaded successfully
+0	09:48:54.104	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: 205.17 ms)
+0	09:48:57.011	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: 205.17 ms)
+0	09:48:58.108	'27153390': previous successful authorization performed from 154.126.98.205
+0	09:49:49.084	'27153390': close order #82365618 sell 0.10 [SP500] at 4232.08 sl: 4280.00 tp: 4142.00 at price 0.00
+0	09:49:50.041	'27153390': order #82365618 sell 0.10 [SP500] at 4232.08 sl: 4280.00 tp: 4142.00 closed at price 4173.70
+0	09:49:50.725	'27153390': close order #82365607 sell 0.10 [SP500] at 4232.33 sl: 4280.00 tp: 4142.00 at price 0.00
+0	09:49:51.561	'27153390': order #82365607 sell 0.10 [SP500] at 4232.33 sl: 4280.00 tp: 4142.00 closed at price 4173.83
+0	09:49:52.473	'27153390': close order #82365266 sell 0.10 [DAX30] at 15405.38 sl: 15536.37 tp: 14900.00 at price 0.00
+0	09:49:53.160	'27153390': order #82365266 sell 0.10 [DAX30] at 15405.38 sl: 15536.37 tp: 14900.00 closed at price 15235.08
+0	09:50:13.490	'27153390': close order #82365598 sell 0.10 [SP500] at 4232.08 sl: 4280.00 tp: 4142.00 at price 0.00
+0	09:50:14.253	'27153390': order #82365598 sell 0.10 [SP500] at 4232.08 sl: 4280.00 tp: 4142.00 closed at price 4173.58
+0	09:50:15.807	'27153390': close order #82365590 sell 0.10 [SP500] at 4231.82 sl: 4280.00 tp: 4142.00 at price 0.00
+0	09:50:16.723	'27153390': order #82365590 sell 0.10 [SP500] at 4231.82 sl: 4280.00 tp: 4142.00 closed at price 4173.83
+2	10:06:02.278	Custom indicator AIMS Levels V2 [NQ100],H1: loaded successfully
+2	10:06:02.455	Custom indicator AIMS Entry Alert V1 [NQ100],H1: loaded successfully
+2	10:06:02.510	Custom indicator CandleTimer [NQ100],H1: loaded successfully
+2	10:06:02.648	Custom indicator #Signal_Bars_v6 [NQ100],H1: loaded successfully
+2	10:06:02.661	Custom indicator TrendEnvelopes_v1 [NQ100],H1: loaded successfully
+2	10:06:02.678	Custom indicator guppy_multiple_moving_averages [NQ100],H1: loaded successfully
+2	10:06:02.699	Custom indicator wedges [NQ100],H1: loaded successfully
+2	10:06:02.722	Custom indicator Admiral Pivot [NQ100],H1: loaded successfully
+2	10:06:02.748	Custom indicator AutoTrendChannel [NQ100],H1: loaded successfully
+2	10:06:02.769	Custom indicator FRZ Channel Auto Plotter [NQ100],H1: loaded successfully
+2	10:06:02.783	Custom indicator FRZ News Indicator MT4 [NQ100],H1: loaded successfully
+2	10:06:02.799	Custom indicator Forex Uranus direction [NQ100],H1: loaded successfully
+2	10:06:02.900	Custom indicator aVSA\aVSA clasters [NQ100],H1: loaded successfully
+2	10:06:02.921	Custom indicator aVSA\aVSA Golden Zone [NQ100],H1: loaded successfully
+2	10:06:02.941	Custom indicator breakout-zones\breakout-zones [NQ100],H1: loaded successfully
+2	10:06:02.950	Custom indicator breakout-zones\SL&TP Values [NQ100],H1: loaded successfully
+2	10:06:03.050	Custom indicator AIMS AO V.2.1 [NQ100],H1: loaded successfully
+2	10:06:03.069	Custom indicator IVT_MACD_ZERO_LAG [NQ100],H1: loaded successfully
+2	10:06:03.081	Custom indicator RSI Divergence Levels [NQ100],H1: loaded successfully
+2	10:06:03.094	Custom indicator FRZ Forex Market Session Indicator [NQ100],H1: loaded successfully
+2	10:10:43.188	Custom indicator breakout-zones [JP225],H1: removed
+2	10:10:43.190	Custom indicator PositionSizeCalculator [JP225],H1: removed
+2	10:10:43.207	Custom indicator AIMS Levels V2 [DAX30],M15: removed
+2	10:10:43.208	Custom indicator AIMS Entry Alert V1 [DAX30],M15: removed
+2	10:10:43.212	Custom indicator CandleTimer [DAX30],M15: removed
+2	10:10:43.213	Custom indicator #Signal_Bars_v6 [DAX30],M15: removed
+2	10:10:43.213	Custom indicator AIMS AO V.2.1 [DAX30],M15: removed
+2	10:10:43.215	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M15: removed
+2	10:10:43.231	Custom indicator AIMS Levels V2 [SP500],H1: removed
+2	10:10:43.232	Custom indicator AIMS Entry Alert V1 [SP500],H1: removed
+2	10:10:43.235	Custom indicator CandleTimer [SP500],H1: removed
+2	10:10:43.235	Custom indicator #Signal_Bars_v6 [SP500],H1: removed
+2	10:10:43.239	Custom indicator TrendEnvelopes_v1 [SP500],H1: removed
+2	10:10:43.244	Custom indicator guppy_multiple_moving_averages [SP500],H1: removed
+2	10:10:43.246	Custom indicator wedges [SP500],H1: removed
+2	10:10:43.254	Custom indicator Admiral Pivot [SP500],H1: removed
+2	10:10:43.260	Custom indicator AutoTrendChannel [SP500],H1: removed
+2	10:10:43.261	Custom indicator FRZ Channel Auto Plotter [SP500],H1: removed
+2	10:10:43.261	Custom indicator FRZ News Indicator MT4 [SP500],H1: removed
+2	10:10:43.273	Custom indicator Forex Uranus direction [SP500],H1: removed
+2	10:10:43.274	Custom indicator aVSA clasters [SP500],H1: removed
+2	10:10:43.275	Custom indicator aVSA Golden Zone [SP500],H1: removed
+2	10:10:43.283	Custom indicator breakout-zones [SP500],H1: removed
+2	10:10:43.290	Custom indicator SL&TP Values [SP500],H1: removed
+2	10:10:43.290	Custom indicator AIMS AO V.2.1 [SP500],H1: removed
+2	10:10:43.292	Custom indicator IVT_MACD_ZERO_LAG [SP500],H1: removed
+2	10:10:43.292	Custom indicator RSI Divergence Levels [SP500],H1: removed
+2	10:10:43.303	Custom indicator FRZ Forex Market Session Indicator [SP500],H1: removed
+2	10:10:43.308	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	10:10:43.310	Custom indicator CandleTimer GOLD,H1: removed
+2	10:10:43.310	Custom indicator #Signal_Bars_v6 GOLD,H1: removed
+2	10:10:43.310	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+2	10:10:43.318	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	10:10:43.328	Custom indicator AIMS Levels V2 WTI,H1: removed
+2	10:10:43.329	Custom indicator AIMS Entry Alert V1 WTI,H1: removed
+2	10:10:43.331	Custom indicator CandleTimer WTI,H1: removed
+2	10:10:43.331	Custom indicator #Signal_Bars_v6 WTI,H1: removed
+2	10:10:43.338	Custom indicator TrendEnvelopes_v1 WTI,H1: removed
+2	10:10:43.339	Custom indicator guppy_multiple_moving_averages WTI,H1: removed
+2	10:10:43.339	Custom indicator wedges WTI,H1: removed
+2	10:10:43.347	Custom indicator Admiral Pivot WTI,H1: removed
+2	10:10:43.347	Custom indicator AutoTrendChannel WTI,H1: removed
+2	10:10:43.357	Custom indicator FRZ Channel Auto Plotter WTI,H1: removed
+2	10:10:43.357	Custom indicator FRZ News Indicator MT4 WTI,H1: removed
+2	10:10:43.366	Custom indicator Forex Uranus direction WTI,H1: removed
+2	10:10:43.366	Custom indicator aVSA clasters WTI,H1: removed
+2	10:10:43.376	Custom indicator aVSA Golden Zone WTI,H1: removed
+2	10:10:43.379	Custom indicator breakout-zones WTI,H1: removed
+2	10:10:43.379	Custom indicator SL&TP Values WTI,H1: removed
+2	10:10:43.379	Custom indicator AIMS AO V.2.1 WTI,H1: removed
+2	10:10:43.388	Custom indicator IVT_MACD_ZERO_LAG WTI,H1: removed
+2	10:10:43.390	Custom indicator RSI Divergence Levels WTI,H1: removed
+2	10:10:43.390	Custom indicator FRZ Forex Market Session Indicator WTI,H1: removed
+2	10:10:43.403	Custom indicator AIMS Levels V2 [DJI30],M15: removed
+2	10:10:43.403	Custom indicator AIMS Entry Alert V1 [DJI30],M15: removed
+2	10:10:43.406	Custom indicator CandleTimer [DJI30],M15: removed
+2	10:10:43.406	Custom indicator #Signal_Bars_v6 [DJI30],M15: removed
+2	10:10:43.406	Custom indicator AIMS AO V.2.1 [DJI30],M15: removed
+2	10:10:43.411	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M15: removed
+2	10:10:43.428	Custom indicator AIMS Levels V2 [NQ100],H1: removed
+2	10:10:43.429	Custom indicator AIMS Entry Alert V1 [NQ100],H1: removed
+2	10:10:43.430	Custom indicator CandleTimer [NQ100],H1: removed
+2	10:10:43.430	Custom indicator #Signal_Bars_v6 [NQ100],H1: removed
+2	10:10:43.430	Custom indicator TrendEnvelopes_v1 [NQ100],H1: removed
+2	10:10:43.443	Custom indicator guppy_multiple_moving_averages [NQ100],H1: removed
+2	10:10:43.446	Custom indicator wedges [NQ100],H1: removed
+2	10:10:43.450	Custom indicator Admiral Pivot [NQ100],H1: removed
+2	10:10:43.454	Custom indicator AutoTrendChannel [NQ100],H1: removed
+2	10:10:43.459	Custom indicator FRZ Channel Auto Plotter [NQ100],H1: removed
+2	10:10:43.462	Custom indicator FRZ News Indicator MT4 [NQ100],H1: removed
+2	10:10:43.465	Custom indicator Forex Uranus direction [NQ100],H1: removed
+2	10:10:43.465	Custom indicator aVSA clasters [NQ100],H1: removed
+2	10:10:43.474	Custom indicator aVSA Golden Zone [NQ100],H1: removed
+2	10:10:43.477	Custom indicator breakout-zones [NQ100],H1: removed
+2	10:10:43.481	Custom indicator SL&TP Values [NQ100],H1: removed
+2	10:10:43.481	Custom indicator AIMS AO V.2.1 [NQ100],H1: removed
+2	10:10:43.481	Custom indicator IVT_MACD_ZERO_LAG [NQ100],H1: removed
+2	10:10:43.491	Custom indicator RSI Divergence Levels [NQ100],H1: removed
+2	10:10:43.496	Custom indicator FRZ Forex Market Session Indicator [NQ100],H1: removed
+0	10:10:44.928	Admiral Markets build 1330 stopped
+0	10:18:59.548	Admiral Markets build 1330 started (Admiral Markets Group AS)
+0	10:18:59.549	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1943 / 8014 Mb, Disk: 34 / 197 Gb, GMT+3
+0	10:18:59.549	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	10:19:09.975	Custom indicator breakout-zones\breakout-zones [JP225],H1: loaded successfully
+2	10:19:10.056	Custom indicator PositionSizeCalculator\PositionSizeCalculator [JP225],H1: loaded successfully
+2	10:19:10.492	Custom indicator AIMS Levels V2 [DAX30],M15: loaded successfully
+2	10:19:10.590	Custom indicator AIMS Entry Alert V1 [DAX30],M15: loaded successfully
+2	10:19:10.598	Custom indicator CandleTimer [DAX30],M15: loaded successfully
+2	10:19:10.697	Custom indicator #Signal_Bars_v6 [DAX30],M15: loaded successfully
+2	10:19:10.796	Custom indicator AIMS AO V.2.1 [DAX30],M15: loaded successfully
+2	10:19:10.806	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M15: loaded successfully
+2	10:19:11.051	Custom indicator AIMS Levels V2 [SP500],H1: loaded successfully
+2	10:19:11.213	Custom indicator AIMS Entry Alert V1 [SP500],H1: loaded successfully
+2	10:19:11.233	Custom indicator CandleTimer [SP500],H1: loaded successfully
+2	10:19:11.356	Custom indicator #Signal_Bars_v6 [SP500],H1: loaded successfully
+2	10:19:11.369	Custom indicator TrendEnvelopes_v1 [SP500],H1: loaded successfully
+2	10:19:11.384	Custom indicator guppy_multiple_moving_averages [SP500],H1: loaded successfully
+2	10:19:11.398	Custom indicator wedges [SP500],H1: loaded successfully
+2	10:19:11.413	Custom indicator Admiral Pivot [SP500],H1: loaded successfully
+2	10:19:11.428	Custom indicator AutoTrendChannel [SP500],H1: loaded successfully
+2	10:19:11.443	Custom indicator FRZ Channel Auto Plotter [SP500],H1: loaded successfully
+2	10:19:11.461	Custom indicator FRZ News Indicator MT4 [SP500],H1: loaded successfully
+2	10:19:11.473	Custom indicator Forex Uranus direction [SP500],H1: loaded successfully
+2	10:19:11.572	Custom indicator aVSA\aVSA clasters [SP500],H1: loaded successfully
+2	10:19:11.593	Custom indicator aVSA\aVSA Golden Zone [SP500],H1: loaded successfully
+2	10:19:11.604	Custom indicator breakout-zones\breakout-zones [SP500],H1: loaded successfully
+2	10:19:11.615	Custom indicator breakout-zones\SL&TP Values [SP500],H1: loaded successfully
+2	10:19:11.712	Custom indicator AIMS AO V.2.1 [SP500],H1: loaded successfully
+2	10:19:11.722	Custom indicator IVT_MACD_ZERO_LAG [SP500],H1: loaded successfully
+2	10:19:11.732	Custom indicator RSI Divergence Levels [SP500],H1: loaded successfully
+2	10:19:11.743	Custom indicator FRZ Forex Market Session Indicator [SP500],H1: loaded successfully
+2	10:19:13.221	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	10:19:13.229	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	10:19:13.324	Custom indicator #Signal_Bars_v6 GOLD,H1: loaded successfully
+2	10:19:13.418	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	10:19:13.428	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	10:19:13.655	Custom indicator AIMS Levels V2 WTI,H1: loaded successfully
+2	10:19:13.760	Custom indicator AIMS Entry Alert V1 WTI,H1: loaded successfully
+2	10:19:13.769	Custom indicator CandleTimer WTI,H1: loaded successfully
+2	10:19:13.868	Custom indicator #Signal_Bars_v6 WTI,H1: loaded successfully
+2	10:19:13.878	Custom indicator TrendEnvelopes_v1 WTI,H1: loaded successfully
+2	10:19:13.888	Custom indicator guppy_multiple_moving_averages WTI,H1: loaded successfully
+2	10:19:13.898	Custom indicator wedges WTI,H1: loaded successfully
+2	10:19:13.908	Custom indicator Admiral Pivot WTI,H1: loaded successfully
+2	10:19:13.918	Custom indicator AutoTrendChannel WTI,H1: loaded successfully
+2	10:19:13.928	Custom indicator FRZ Channel Auto Plotter WTI,H1: loaded successfully
+2	10:19:13.939	Custom indicator FRZ News Indicator MT4 WTI,H1: loaded successfully
+2	10:19:13.949	Custom indicator Forex Uranus direction WTI,H1: loaded successfully
+2	10:19:14.045	Custom indicator aVSA\aVSA clasters WTI,H1: loaded successfully
+2	10:19:14.065	Custom indicator aVSA\aVSA Golden Zone WTI,H1: loaded successfully
+2	10:19:14.075	Custom indicator breakout-zones\breakout-zones WTI,H1: loaded successfully
+2	10:19:14.084	Custom indicator breakout-zones\SL&TP Values WTI,H1: loaded successfully
+2	10:19:14.179	Custom indicator AIMS AO V.2.1 WTI,H1: loaded successfully
+2	10:19:14.189	Custom indicator IVT_MACD_ZERO_LAG WTI,H1: loaded successfully
+2	10:19:14.200	Custom indicator RSI Divergence Levels WTI,H1: loaded successfully
+2	10:19:14.209	Custom indicator FRZ Forex Market Session Indicator WTI,H1: loaded successfully
+2	10:19:15.537	Custom indicator AIMS Levels V2 [DJI30],M15: loaded successfully
+2	10:19:15.632	Custom indicator AIMS Entry Alert V1 [DJI30],M15: loaded successfully
+2	10:19:15.642	Custom indicator CandleTimer [DJI30],M15: loaded successfully
+2	10:19:15.739	Custom indicator #Signal_Bars_v6 [DJI30],M15: loaded successfully
+2	10:19:15.835	Custom indicator AIMS AO V.2.1 [DJI30],M15: loaded successfully
+2	10:19:15.846	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M15: loaded successfully
+2	10:19:16.092	Custom indicator AIMS Levels V2 [NQ100],H1: loaded successfully
+2	10:19:16.196	Custom indicator AIMS Entry Alert V1 [NQ100],H1: loaded successfully
+2	10:19:16.204	Custom indicator CandleTimer [NQ100],H1: loaded successfully
+2	10:19:16.302	Custom indicator #Signal_Bars_v6 [NQ100],H1: loaded successfully
+2	10:19:16.313	Custom indicator TrendEnvelopes_v1 [NQ100],H1: loaded successfully
+2	10:19:16.323	Custom indicator guppy_multiple_moving_averages [NQ100],H1: loaded successfully
+2	10:19:16.333	Custom indicator wedges [NQ100],H1: loaded successfully
+2	10:19:16.343	Custom indicator Admiral Pivot [NQ100],H1: loaded successfully
+2	10:19:16.353	Custom indicator AutoTrendChannel [NQ100],H1: loaded successfully
+2	10:19:16.364	Custom indicator FRZ Channel Auto Plotter [NQ100],H1: loaded successfully
+2	10:19:16.376	Custom indicator FRZ News Indicator MT4 [NQ100],H1: loaded successfully
+2	10:19:16.387	Custom indicator Forex Uranus direction [NQ100],H1: loaded successfully
+2	10:19:16.489	Custom indicator aVSA\aVSA clasters [NQ100],H1: loaded successfully
+2	10:19:16.511	Custom indicator aVSA\aVSA Golden Zone [NQ100],H1: loaded successfully
+2	10:19:16.521	Custom indicator breakout-zones\breakout-zones [NQ100],H1: loaded successfully
+2	10:19:16.532	Custom indicator breakout-zones\SL&TP Values [NQ100],H1: loaded successfully
+2	10:19:16.629	Custom indicator AIMS AO V.2.1 [NQ100],H1: loaded successfully
+2	10:19:16.640	Custom indicator IVT_MACD_ZERO_LAG [NQ100],H1: loaded successfully
+2	10:19:16.650	Custom indicator RSI Divergence Levels [NQ100],H1: loaded successfully
+2	10:19:16.660	Custom indicator FRZ Forex Market Session Indicator [NQ100],H1: loaded successfully
+0	10:19:19.635	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: 205.17 ms)
+0	10:19:25.108	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: 205.17 ms)
+0	10:19:26.333	'27153390': previous successful authorization performed from 154.126.98.205
+0	10:25:14.997	'27153390': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	10:25:15.650	'27153390': order was opened : #82421294 sell 0.10 [DAX30] at 15130.40 sl: 0.00 tp: 0.00
+0	10:25:38.997	'27153390': modify order #82421294 sell 0.10 [DAX30] at 15130.40 sl: 0.00 tp: 0.00 -> sl: 15287.03 tp: 0.00
+0	10:25:39.327	'27153390': order #82421294 sell 0.10 [DAX30] at 15130.40 was modified -> sl: 15287.03 tp: 0.00
+0	10:30:20.786	'27153390': modify order #82421294 sell 0.10 [DAX30] at 15130.40 sl: 15287.03 tp: 0.00 -> sl: 15129.32 tp: 0.00
+0	10:30:21.115	'27153390': order #82421294 sell 0.10 [DAX30] at 15130.40 was modified -> sl: 15129.32 tp: 0.00
+0	10:35:41.623	'27153390': order #82421294 sell 0.10 [DAX30] at 15130.40 closed due stop-loss at price 15129.58
+0	10:45:49.305	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	10:45:49.890	'27153390': order was opened : #82422362 sell 0.20 [DAX30] at 15106.41 sl: 0.00 tp: 0.00
+0	10:46:26.676	'27153390': modify order #82422362 sell 0.20 [DAX30] at 15106.41 sl: 0.00 tp: 0.00 -> sl: 15139.00 tp: 0.00
+0	10:46:27.058	'27153390': order #82422362 sell 0.20 [DAX30] at 15106.41 was modified -> sl: 15139.00 tp: 0.00
+0	10:46:57.635	'27153390': modify order #82422362 sell 0.20 [DAX30] at 15106.41 sl: 15139.00 tp: 0.00 -> sl: 15106.85 tp: 0.00
+0	10:46:57.964	'27153390': order #82422362 sell 0.20 [DAX30] at 15106.41 was modified -> sl: 15106.85 tp: 0.00
+0	10:47:01.212	'27153390': order #82422362 sell 0.20 [DAX30] at 15106.41 closed due stop-loss at price 15107.65
+0	10:47:53.627	'27153390': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	10:47:54.319	'27153390': order was opened : #82422457 buy 0.20 [DAX30] at 15103.13 sl: 0.00 tp: 0.00
+0	10:48:03.379	'27153390': modify order #82422457 buy 0.20 [DAX30] at 15103.13 sl: 0.00 tp: 0.00 -> sl: 15096.67 tp: 0.00
+0	10:48:03.734	'27153390': order #82422457 buy 0.20 [DAX30] at 15103.13 was modified -> sl: 15096.67 tp: 0.00
+0	10:48:24.788	'27153390': modify order #82422457 buy 0.20 [DAX30] at 15103.13 sl: 15096.67 tp: 0.00 -> sl: 15103.75 tp: 0.00
+0	10:48:25.102	'27153390': order #82422457 buy 0.20 [DAX30] at 15103.13 was modified -> sl: 15103.75 tp: 0.00
+0	10:48:30.174	'27153390': order #82422457 buy 0.20 [DAX30] at 15103.13 closed due stop-loss at price 15103.75
+0	10:48:36.930	'27153390': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	10:48:37.582	'27153390': order was opened : #82422482 buy 0.20 [DAX30] at 15108.04 sl: 0.00 tp: 0.00
+0	10:48:54.124	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 0.00 tp: 0.00 -> sl: 15095.83 tp: 0.00
+0	10:48:54.463	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15095.83 tp: 0.00
+0	10:48:58.958	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15095.83 tp: 0.00 -> sl: 15093.23 tp: 0.00
+0	10:48:59.274	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15093.23 tp: 0.00
+0	10:53:14.091	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15093.23 tp: 0.00 -> sl: 15090.37 tp: 0.00
+0	10:53:14.485	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15090.37 tp: 0.00
+0	10:53:44.548	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15090.37 tp: 0.00 -> sl: 15089.85 tp: 0.00
+0	10:53:44.859	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15089.85 tp: 0.00
+0	10:53:55.621	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15089.85 tp: 0.00 -> sl: 15085.96 tp: 0.00
+0	10:53:55.967	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15085.96 tp: 0.00
+0	10:54:03.119	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15085.96 tp: 0.00 -> sl: 15084.02 tp: 0.00
+0	10:54:03.457	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15084.02 tp: 0.00
+0	10:54:09.266	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15084.02 tp: 0.00 -> sl: 15083.05 tp: 0.00
+0	10:54:09.607	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15083.05 tp: 0.00
+0	10:54:15.114	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15083.05 tp: 0.00 -> sl: 15084.51 tp: 0.00
+0	10:54:15.470	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15084.51 tp: 0.00
+0	10:55:28.517	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15084.51 tp: 0.00 -> sl: 15084.51 tp: 15195.14
+0	10:55:28.856	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15084.51 tp: 15195.14
+0	10:57:14.842	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15084.51 tp: 15195.14 -> sl: 15109.25 tp: 15195.14
+0	10:57:15.191	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15109.25 tp: 15195.14
+0	10:58:32.083	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15109.25 tp: 15195.14 -> sl: 15122.36 tp: 15195.14
+0	10:58:32.421	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15122.36 tp: 15195.14
+0	10:59:24.229	'27153390': modify order #82422482 buy 0.20 [DAX30] at 15108.04 sl: 15122.36 tp: 15195.14 -> sl: 15133.03 tp: 15195.14
+0	10:59:24.581	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 was modified -> sl: 15133.03 tp: 15195.14
+0	10:59:48.268	'27153390': order #82422482 buy 0.20 [DAX30] at 15108.04 closed due stop-loss at price 15132.20
+0	11:04:41.057	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	11:04:41.734	'27153390': order was opened : #82423411 sell 0.20 [DAX30] at 15088.69 sl: 0.00 tp: 0.00
+0	11:05:00.797	'27153390': modify order #82423411 sell 0.20 [DAX30] at 15088.69 sl: 0.00 tp: 0.00 -> sl: 15090.38 tp: 0.00
+0	11:05:01.126	'27153390': order #82423411 sell 0.20 [DAX30] at 15088.69 was modified -> sl: 15090.38 tp: 0.00
+0	11:05:05.444	'27153390': modify order #82423411 sell 0.20 [DAX30] at 15088.69 sl: 15090.38 tp: 0.00 -> sl: 15087.02 tp: 0.00
+0	11:05:05.793	'27153390': order #82423411 sell 0.20 [DAX30] at 15088.69 was modified -> sl: 15087.02 tp: 0.00
+0	11:05:33.246	'27153390': order #82423411 sell 0.20 [DAX30] at 15088.69 closed due stop-loss at price 15087.49
+0	11:07:04.923	'27153390': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	11:07:05.731	'27153390': order was opened : #82423685 buy 0.20 [DAX30] at 15101.90 sl: 0.00 tp: 0.00
+0	11:07:22.950	'27153390': modify order #82423685 buy 0.20 [DAX30] at 15101.90 sl: 0.00 tp: 0.00 -> sl: 15082.69 tp: 0.00
+0	11:07:24.593	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 was modified -> sl: 15082.69 tp: 0.00
+0	11:08:19.944	'27153390': modify order #82423685 buy 0.20 [DAX30] at 15101.90 sl: 15082.69 tp: 0.00 -> sl: 15079.03 tp: 0.00
+0	11:08:20.314	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 was modified -> sl: 15079.03 tp: 0.00
+0	11:09:18.891	'27153390': modify order #82423685 buy 0.20 [DAX30] at 15101.90 sl: 15079.03 tp: 0.00 -> sl: 15079.03 tp: 15192.74
+0	11:09:19.317	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 was modified -> sl: 15079.03 tp: 15192.74
+0	11:10:42.256	'27153390': modify order #82423685 buy 0.20 [DAX30] at 15101.90 sl: 15079.03 tp: 15192.74 -> sl: 15079.49 tp: 15192.74
+0	11:10:42.615	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 was modified -> sl: 15079.49 tp: 15192.74
+0	11:14:35.009	'27153390': modify order #82423685 buy 0.20 [DAX30] at 15101.90 sl: 15079.49 tp: 15192.74 -> sl: 15077.19 tp: 15192.74
+0	11:14:35.372	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 was modified -> sl: 15077.19 tp: 15192.74
+0	11:14:40.862	'27153390': modify order #82423685 buy 0.20 [DAX30] at 15101.90 sl: 15077.19 tp: 15192.74 -> sl: 15075.82 tp: 15192.74
+0	11:14:41.205	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 was modified -> sl: 15075.82 tp: 15192.74
+0	11:14:52.755	'27153390': order #82423685 buy 0.20 [DAX30] at 15101.90 closed due stop-loss at price 15075.56
+0	11:15:03.931	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	11:15:04.670	'27153390': order was opened : #82423921 sell 0.20 [DAX30] at 15076.59 sl: 0.00 tp: 0.00
+0	11:15:18.126	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 0.00 tp: 0.00 -> sl: 15112.50 tp: 0.00
+0	11:15:18.419	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15112.50 tp: 0.00
+0	11:20:35.422	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15112.50 tp: 0.00 -> sl: 15112.50 tp: 15003.94
+0	11:20:35.779	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15112.50 tp: 15003.94
+0	11:20:43.886	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15112.50 tp: 15003.94 -> sl: 15112.50 tp: 14900.00
+0	11:20:44.256	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15112.50 tp: 14900.00
+0	11:41:01.759	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15112.50 tp: 14900.00 -> sl: 15153.03 tp: 14900.00
+0	11:41:02.078	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15153.03 tp: 14900.00
+0	11:41:06.766	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15153.03 tp: 14900.00 -> sl: 15177.73 tp: 14900.00
+0	11:41:07.183	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15177.73 tp: 14900.00
+0	11:41:12.853	'27153390': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	11:41:13.541	'27153390': order was opened : #82424764 buy 0.20 [DAX30] at 15108.37 sl: 0.00 tp: 0.00
+0	11:41:34.572	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15177.73 tp: 14900.00 -> sl: 15338.24 tp: 14900.00
+0	11:41:34.952	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15338.24 tp: 14900.00
+1	12:19:50.568	'27153390': datacenter connecting failed [6]
+0	12:19:51.766	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: 205.17 ms)
+0	12:19:56.504	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: 205.17 ms)
+0	12:19:58.338	'27153390': previous successful authorization performed from 154.126.98.205
+0	12:20:17.609	'27153390': auto connecting to a better access point Access Point #4 (ping is 229.34 ms)
+0	12:20:18.686	'27153390': login on AdmiralMarkets-Live through Access Point #4 (ping: 229.34 ms)
+0	12:20:21.753	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 229.34 ms)
+0	12:20:22.511	'27153390': previous successful authorization performed from 154.126.98.205
+0	13:04:03.890	'27153390': close order #82424764 buy 0.20 [DAX30] at 15108.37 sl: 0.00 tp: 0.00 at price 0.00
+0	13:04:04.628	'27153390': order #82424764 buy 0.20 [DAX30] at 15108.37 sl: 0.00 tp: 0.00 closed at price 15057.40
+0	13:06:13.456	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15338.24 tp: 14900.00 -> sl: 15075.35 tp: 14900.00
+0	13:06:14.115	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15075.35 tp: 14900.00
+0	13:11:13.440	'27153390': modify order #82423921 sell 0.20 [DAX30] at 15076.59 sl: 15075.35 tp: 14900.00 -> sl: 15059.32 tp: 14900.00
+0	13:11:13.774	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 was modified -> sl: 15059.32 tp: 14900.00
+0	13:16:05.934	'27153390': order #82423921 sell 0.20 [DAX30] at 15076.59 closed due stop-loss at price 15059.74
+2	13:28:51.616	Custom indicator AIMS Levels V2 EURJPY,H1: loaded successfully
+2	13:28:51.691	Custom indicator AIMS Entry Alert V1 EURJPY,H1: loaded successfully
+2	13:28:51.786	Custom indicator CandleTimer EURJPY,H1: loaded successfully
+2	13:28:51.864	Custom indicator #Signal_Bars_v6 EURJPY,H1: loaded successfully
+2	13:28:51.939	Custom indicator AIMS AO V.2.1 EURJPY,H1: loaded successfully
+2	13:28:51.948	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H1: loaded successfully
+0	13:33:58.747	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	13:33:59.681	'27153390': order was opened : #82429387 sell 0.20 [DAX30] at 15035.21 sl: 0.00 tp: 0.00
+0	14:01:23.728	'27153390': modify order #82429387 sell 0.20 [DAX30] at 15035.21 sl: 0.00 tp: 0.00 -> sl: 15086.03 tp: 0.00
+0	14:01:24.058	'27153390': order #82429387 sell 0.20 [DAX30] at 15035.21 was modified -> sl: 15086.03 tp: 0.00
+0	16:41:47.833	'27153390': order #82429387 sell 0.20 [DAX30] at 15035.21 closed due stop-loss at price 15086.20
+0	16:45:26.506	'27153390': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	16:45:27.277	'27153390': order was opened : #82441069 buy 0.20 [DAX30] at 15102.30 sl: 0.00 tp: 0.00
+0	17:00:28.081	'27153390': modify order #82441069 buy 0.20 [DAX30] at 15102.30 sl: 0.00 tp: 0.00 -> sl: 15088.71 tp: 0.00
+0	17:00:28.444	'27153390': order #82441069 buy 0.20 [DAX30] at 15102.30 was modified -> sl: 15088.71 tp: 0.00
+0	17:00:36.956	'27153390': modify order #82441069 buy 0.20 [DAX30] at 15102.30 sl: 15088.71 tp: 0.00 -> sl: 15129.80 tp: 0.00
+0	17:00:37.290	'27153390': order #82441069 buy 0.20 [DAX30] at 15102.30 was modified -> sl: 15129.80 tp: 0.00
+0	17:06:51.753	'27153390': modify order #82441069 buy 0.20 [DAX30] at 15102.30 sl: 15129.80 tp: 0.00 -> sl: 15139.16 tp: 0.00
+0	17:06:52.172	'27153390': order #82441069 buy 0.20 [DAX30] at 15102.30 was modified -> sl: 15139.16 tp: 0.00
+0	17:08:08.842	'27153390': order #82441069 buy 0.20 [DAX30] at 15102.30 closed due stop-loss at price 15138.94
+0	17:09:51.737	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	17:09:52.521	'27153390': order was opened : #82443034 sell 0.20 [DAX30] at 15131.49 sl: 0.00 tp: 0.00
+0	17:10:07.884	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+1	17:10:08.233	'27153390': order sell 0.20 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	17:10:14.970	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+1	17:10:15.288	'27153390': order sell 0.20 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	17:10:32.672	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+1	17:10:33.017	'27153390': order sell 0.20 [DAX30] opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	17:11:24.075	'27153390': modify order #82443034 sell 0.20 [DAX30] at 15131.49 sl: 0.00 tp: 0.00 -> sl: 15162.68 tp: 0.00
+0	17:11:24.407	'27153390': order #82443034 sell 0.20 [DAX30] at 15131.49 was modified -> sl: 15162.68 tp: 0.00
+0	17:18:09.181	'27153390': modify order #82443034 sell 0.20 [DAX30] at 15131.49 sl: 15162.68 tp: 0.00 -> sl: 15130.54 tp: 0.00
+0	17:18:09.520	'27153390': order #82443034 sell 0.20 [DAX30] at 15131.49 was modified -> sl: 15130.54 tp: 0.00
+0	17:18:23.186	'27153390': modify order #82443034 sell 0.20 [DAX30] at 15131.49 sl: 15130.54 tp: 0.00 -> sl: 15126.77 tp: 0.00
+0	17:18:23.538	'27153390': order #82443034 sell 0.20 [DAX30] at 15131.49 was modified -> sl: 15126.77 tp: 0.00
+0	17:20:26.681	'27153390': order #82443034 sell 0.20 [DAX30] at 15131.49 closed due stop-loss at price 15127.13
+0	17:24:07.088	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	17:24:07.820	'27153390': order was opened : #82444145 sell 0.20 [DAX30] at 15106.07 sl: 0.00 tp: 0.00
+0	17:30:08.924	'27153390': modify order #82444145 sell 0.20 [DAX30] at 15106.07 sl: 0.00 tp: 0.00 -> sl: 15112.23 tp: 0.00
+0	17:30:09.307	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 was modified -> sl: 15112.23 tp: 0.00
+0	17:30:12.755	'27153390': modify order #82444145 sell 0.20 [DAX30] at 15106.07 sl: 15112.23 tp: 0.00 -> sl: 15068.05 tp: 0.00
+0	17:30:13.112	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 was modified -> sl: 15068.05 tp: 0.00
+0	17:30:17.992	'27153390': modify order #82444145 sell 0.20 [DAX30] at 15106.07 sl: 15068.05 tp: 0.00 -> sl: 15059.97 tp: 0.00
+0	17:30:18.325	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 was modified -> sl: 15059.97 tp: 0.00
+0	17:30:21.756	'27153390': modify order #82444145 sell 0.20 [DAX30] at 15106.07 sl: 15059.97 tp: 0.00 -> sl: 15063.74 tp: 0.00
+0	17:30:22.099	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 was modified -> sl: 15063.74 tp: 0.00
+0	17:32:21.592	'27153390': modify order #82444145 sell 0.20 [DAX30] at 15106.07 sl: 15063.74 tp: 0.00 -> sl: 15047.04 tp: 0.00
+0	17:32:21.935	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 was modified -> sl: 15047.04 tp: 0.00
+0	17:37:31.586	'27153390': modify order #82444145 sell 0.20 [DAX30] at 15106.07 sl: 15047.04 tp: 0.00 -> sl: 15035.85 tp: 0.00
+0	17:37:31.940	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 was modified -> sl: 15035.85 tp: 0.00
+0	17:40:17.582	'27153390': order #82444145 sell 0.20 [DAX30] at 15106.07 closed due stop-loss at price 15036.43
+1	17:54:48.698	'27153390': ping failed
+1	17:54:48.701	'27153390': datacenter connecting failed [6]
+1	17:54:49.675	'27153390': connect failed [Connection échouée]
+0	17:57:47.610	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: n/a)
+0	17:57:49.530	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: n/a)
+0	17:57:50.401	'27153390': previous successful authorization performed from 154.126.98.205
+0	17:58:04.903	'27153390': ping to current access point Access Point #10 is 204.14 ms
+0	18:03:12.908	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:03:13.642	'27153390': order was opened : #82447253 sell 0.20 [DAX30] at 15048.13 sl: 0.00 tp: 0.00
+0	18:05:25.394	'27153390': modify order #82447253 sell 0.20 [DAX30] at 15048.13 sl: 0.00 tp: 0.00 -> sl: 15048.88 tp: 0.00
+0	18:05:25.709	'27153390': order #82447253 sell 0.20 [DAX30] at 15048.13 was modified -> sl: 15048.88 tp: 0.00
+0	18:05:29.501	'27153390': modify order #82447253 sell 0.20 [DAX30] at 15048.13 sl: 15048.88 tp: 0.00 -> sl: 15046.35 tp: 0.00
+0	18:05:29.844	'27153390': order #82447253 sell 0.20 [DAX30] at 15048.13 was modified -> sl: 15046.35 tp: 0.00
+0	18:05:42.067	'27153390': order #82447253 sell 0.20 [DAX30] at 15048.13 closed due stop-loss at price 15046.58
+0	18:09:54.226	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:09:54.825	'27153390': order was opened : #82447658 sell 0.20 [DAX30] at 15049.28 sl: 0.00 tp: 0.00
+0	18:10:20.632	'27153390': modify order #82447658 sell 0.20 [DAX30] at 15049.28 sl: 0.00 tp: 0.00 -> sl: 15072.27 tp: 0.00
+0	18:10:20.941	'27153390': order #82447658 sell 0.20 [DAX30] at 15049.28 was modified -> sl: 15072.27 tp: 0.00
+0	18:16:36.965	'27153390': order #82447658 sell 0.20 [DAX30] at 15049.28 closed due stop-loss at price 15072.36
+0	18:26:41.244	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	18:26:41.814	'27153390': order was opened : #82448530 sell 0.20 [DAX30] at 15090.04 sl: 0.00 tp: 0.00
+0	18:26:58.808	'27153390': modify order #82448530 sell 0.20 [DAX30] at 15090.04 sl: 0.00 tp: 0.00 -> sl: 15129.17 tp: 0.00
+0	18:26:59.091	'27153390': order #82448530 sell 0.20 [DAX30] at 15090.04 was modified -> sl: 15129.17 tp: 0.00
+0	18:54:35.890	'27153390': order #82448530 sell 0.20 [DAX30] at 15090.04 closed due stop-loss at price 15129.47
+0	19:05:17.582	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	19:05:18.281	'27153390': order was opened : #82449975 sell 0.20 [DAX30] at 15119.47 sl: 0.00 tp: 0.00
+0	19:09:32.577	'27153390': modify order #82449975 sell 0.20 [DAX30] at 15119.47 sl: 0.00 tp: 0.00 -> sl: 15163.94 tp: 0.00
+0	19:09:32.886	'27153390': order #82449975 sell 0.20 [DAX30] at 15119.47 was modified -> sl: 15163.94 tp: 0.00
+1	19:31:14.191	'27153390': ping failed
+1	19:31:14.192	'27153390': datacenter connecting failed [6]
+1	19:31:14.909	'27153390': connect failed [Connection échouée]
+0	19:39:53.029	'27153390': login on AdmiralMarkets-Live through Access Point #10 (ping: n/a)
+0	19:39:57.841	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #10 (ping: n/a)
+0	19:39:59.570	'27153390': previous successful authorization performed from 197.149.33.59
+0	19:40:19.960	'27153390': auto connecting to a better access point Access Point #4 (ping is 229.31 ms)
+0	19:40:21.098	'27153390': login on AdmiralMarkets-Live through Access Point #4 (ping: 229.31 ms)
+0	19:40:23.445	'27153390': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 229.31 ms)
+0	19:40:24.167	'27153390': previous successful authorization performed from 41.63.133.195
+0	19:59:15.106	'27153390': order #82449975 sell 0.20 [DAX30] at 15119.47 closed due stop-loss at price 15088.96
+0	20:09:05.545	'27153390': order #82451983 sell 0.20 [DAX30] at 15102.47 closed due stop-loss at price 15101.97
+0	20:18:02.942	'27153390': order #82452216 sell 0.20 [DAX30] at 15096.47 closed due stop-loss at price 15109.97
+0	20:34:58.563	'27153390': order #82452687 sell 0.20 [DAX30] at 15122.97 closed due stop-loss at price 15130.97
+0	20:45:30.131	'27153390': order #82452899 sell 0.20 [DAX30] at 15124.47 closed due stop-loss at price 15135.47
+2	20:58:03.247	Custom indicator AIMS Levels V2 [DAX30],H1: loaded successfully
+2	20:58:03.316	Custom indicator AIMS Entry Alert V1 [DAX30],H1: loaded successfully
+2	20:58:03.345	Custom indicator CandleTimer [DAX30],H1: loaded successfully
+2	20:58:03.420	Custom indicator #Signal_Bars_v6 [DAX30],H1: loaded successfully
+2	20:58:03.444	Custom indicator TrendEnvelopes_v1 [DAX30],H1: loaded successfully
+2	20:58:03.454	Custom indicator guppy_multiple_moving_averages [DAX30],H1: loaded successfully
+2	20:58:03.464	Custom indicator wedges [DAX30],H1: loaded successfully
+2	20:58:03.473	Custom indicator Admiral Pivot [DAX30],H1: loaded successfully
+2	20:58:03.511	Custom indicator AutoTrendChannel [DAX30],H1: loaded successfully
+2	20:58:03.545	Custom indicator FRZ Channel Auto Plotter [DAX30],H1: loaded successfully
+2	20:58:03.555	Custom indicator FRZ News Indicator MT4 [DAX30],H1: loaded successfully
+2	20:58:03.564	Custom indicator Forex Uranus direction [DAX30],H1: loaded successfully
+2	20:58:03.633	Custom indicator aVSA\aVSA clasters [DAX30],H1: loaded successfully
+2	20:58:03.681	Custom indicator aVSA\aVSA Golden Zone [DAX30],H1: loaded successfully
+2	20:58:03.691	Custom indicator breakout-zones\breakout-zones [DAX30],H1: loaded successfully
+2	20:58:03.699	Custom indicator breakout-zones\SL&TP Values [DAX30],H1: loaded successfully
+2	20:58:03.767	Custom indicator AIMS AO V.2.1 [DAX30],H1: loaded successfully
+2	20:58:03.775	Custom indicator IVT_MACD_ZERO_LAG [DAX30],H1: loaded successfully
+2	20:58:03.784	Custom indicator RSI Divergence Levels [DAX30],H1: loaded successfully
+2	20:58:03.795	Custom indicator FRZ Forex Market Session Indicator [DAX30],H1: loaded successfully
+0	21:00:34.344	'27153390': order #82453143 sell 0.20 [DAX30] at 15129.97 closed due stop-loss at price 15132.47
+0	21:05:31.611	'27153390': order buy market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	21:05:32.366	'27153390': order was opened : #82453691 buy 0.20 [DAX30] at 15132.97 sl: 0.00 tp: 0.00
+0	21:05:44.902	'27153390': modify order #82453691 buy 0.20 [DAX30] at 15132.97 sl: 0.00 tp: 0.00 -> sl: 15070.37 tp: 0.00
+0	21:05:45.260	'27153390': order #82453691 buy 0.20 [DAX30] at 15132.97 was modified -> sl: 15070.37 tp: 0.00
+0	21:06:03.034	'27153390': modify order #82453691 buy 0.20 [DAX30] at 15132.97 sl: 15070.37 tp: 0.00 -> sl: 15079.77 tp: 0.00
+0	21:06:03.358	'27153390': order #82453691 buy 0.20 [DAX30] at 15132.97 was modified -> sl: 15079.77 tp: 0.00
+0	21:06:07.813	'27153390': modify order #82453691 buy 0.20 [DAX30] at 15132.97 sl: 15079.77 tp: 0.00 -> sl: 15083.43 tp: 0.00
+0	21:06:08.136	'27153390': order #82453691 buy 0.20 [DAX30] at 15132.97 was modified -> sl: 15083.43 tp: 0.00
+0	21:06:12.783	'27153390': modify order #82453691 buy 0.20 [DAX30] at 15132.97 sl: 15083.43 tp: 0.00 -> sl: 15087.10 tp: 0.00
+0	21:06:13.105	'27153390': order #82453691 buy 0.20 [DAX30] at 15132.97 was modified -> sl: 15087.10 tp: 0.00
+0	21:15:03.197	'27153390': order sell market 0.20 [DAX30] sl: 0.00 tp: 0.00
+0	21:15:03.837	'27153390': order was opened : #82453990 sell 0.20 [DAX30] at 15111.47 sl: 0.00 tp: 0.00
+0	21:15:10.805	'27153390': modify order #82453691 buy 0.20 [DAX30] at 15132.97 sl: 15087.10 tp: 0.00 -> sl: 15066.58 tp: 0.00
+0	21:15:11.119	'27153390': order #82453691 buy 0.20 [DAX30] at 15132.97 was modified -> sl: 15066.58 tp: 0.00
+0	21:15:17.603	'27153390': modify order #82453990 sell 0.20 [DAX30] at 15111.47 sl: 0.00 tp: 0.00 -> sl: 15162.68 tp: 0.00
+0	21:15:17.946	'27153390': order #82453990 sell 0.20 [DAX30] at 15111.47 was modified -> sl: 15162.68 tp: 0.00

@@ -1,0 +1,31 @@
+UseTimeframe=1440
+BarsToInclude=1
+UseCalcType=0
+s_Visual==== Lines and labels ===
+ContinuousLines=0
+ShowLabels=1
+LabelBarOffset=0
+LabelFontName=Arial
+LabelFontSize=8
+LabelText={LINE}
+s_Colours==== Colours ===
+PP_Colour=5275647
+PP_Style=20
+R1_Colour=3937500
+R1_Style=20
+R2_Colour=3937500
+R2_Style=1
+R3_Colour=3937500
+R3_Style=2
+S1_Colour=64636
+S1_Style=20
+S2_Colour=64636
+S2_Style=1
+S3_Colour=64636
+S3_Style=2
+s_Alerts==== Alerts ===
+DoAlerts=0
+AlertText={SYMBOL} {TF} {LINE} pivot hit {PRICE}
+AlertSound=
+WidenBy=0.0
+WideMode=1

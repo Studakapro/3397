@@ -1,0 +1,323 @@
+1	06:29:07.855	MQL5.community: authorization failed
+0	06:29:13.576	'51260446': login on FXCM-USDDemo02 through AsiaDC (ping: n/a)
+0	06:29:17.678	'51260446': login datacenter on FXCM-USDDemo02 through AsiaDC (ping: n/a)
+0	06:29:18.913	'51260446': previous successful authorization performed from 41.188.54.155
+0	06:29:30.076	'51260446': auto connecting to a better access point External (ping is 371.25 ms)
+0	06:29:31.994	'51260446': login on FXCM-USDDemo02 through External (ping: 371.25 ms)
+0	06:29:34.279	'51260446': previous successful authorization performed from 41.188.54.155
+1	06:50:58.577	'51260446': order sell 0.10 GBPJPY opening at 135.095 sl: 0.000 tp: 0.000 failed [Not enough money]
+1	06:50:58.577	'51260446': order #0 sell 0.10 GBPJPY at 135.095 failed [Not enough money]
+1	06:51:03.327	'51260446': order sell 0.10 GBPJPY opening at 135.095 sl: 0.000 tp: 0.000 failed [Not enough money]
+1	06:51:03.327	'51260446': order #0 sell 0.10 GBPJPY at 135.095 failed [Not enough money]
+1	06:51:04.651	'51260446': order sell 0.10 GBPJPY opening at 135.095 sl: 0.000 tp: 0.000 failed [Not enough money]
+1	06:51:04.653	'51260446': order #0 sell 0.10 GBPJPY at 135.095 failed [Not enough money]
+1	06:51:05.481	'51260446': order sell 0.10 GBPJPY opening at 135.095 sl: 0.000 tp: 0.000 failed [Not enough money]
+1	06:51:05.481	'51260446': order #0 sell 0.10 GBPJPY at 135.095 failed [Not enough money]
+0	06:51:14.737	'51260446': instant order sell 0.01 GBPJPY at 135.077 sl: 0.000 tp: 0.000
+0	06:51:15.226	'51260446': order was opened : #170385925 sell 0.01 GBPJPY at 135.077 sl: 0.000 tp: 0.000
+0	06:51:30.110	'51260446': modify order #170385925 sell 0.01 GBPJPY at 135.077 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 135.047
+0	06:51:30.539	'51260446': order #170385925 sell 0.01 GBPJPY at 135.077 was modified -> sl: 0.000 tp: 135.047
+0	07:09:41.640	'51260446': order #170385925 sell 0.01 GBPJPY at 135.077 closed due take-profit at price 135.045
+1	10:24:56.024	'51260446': ping failed
+0	10:24:58.807	'51260446': login on FXCM-USDDemo02 through External (ping: 371.25 ms)
+0	10:25:05.442	'51260446': previous successful authorization performed from 41.188.54.155
+0	10:25:13.455	'51260446': ping to current access point External is 305.49 ms
+2	11:09:56.779	Custom indicator CandleTimer GBPJPY,M1: removed
+2	11:09:56.781	Custom indicator RSI Divergence Levels GBPJPY,M1: removed
+2	11:09:56.798	Custom indicator CandleTimer EURCHF,M1: removed
+2	11:09:56.800	Custom indicator RSI Divergence Levels EURCHF,M1: removed
+2	11:09:56.815	Custom indicator CandleTimer EURGBP,M1: removed
+2	11:09:56.816	Custom indicator RSI Divergence Levels EURGBP,M1: removed
+2	11:09:56.830	Custom indicator CandleTimer GBPUSD,M1: removed
+2	11:09:56.832	Custom indicator RSI Divergence Levels GBPUSD,M1: removed
+2	11:09:56.847	Custom indicator CandleTimer AUDJPY,M1: removed
+2	11:09:56.849	Custom indicator RSI Divergence Levels AUDJPY,M1: removed
+2	11:09:56.863	Custom indicator CandleTimer USDJPY,M1: removed
+2	11:09:56.864	Custom indicator RSI Divergence Levels USDJPY,M1: removed
+2	11:09:56.879	Custom indicator CandleTimer AUDUSD,M1: removed
+2	11:09:56.880	Custom indicator RSI Divergence Levels AUDUSD,M1: removed
+2	11:09:56.893	Custom indicator CandleTimer EURCAD,M1: removed
+2	11:09:56.895	Custom indicator RSI Divergence Levels EURCAD,M1: removed
+2	11:09:56.908	Custom indicator CandleTimer GBPAUD,M1: removed
+2	11:09:56.910	Custom indicator RSI Divergence Levels GBPAUD,M1: removed
+2	11:09:56.923	Custom indicator CandleTimer EURJPY,M1: removed
+2	11:09:56.924	Custom indicator RSI Divergence Levels EURJPY,M1: removed
+2	11:09:56.937	Custom indicator CandleTimer EURAUD,M1: removed
+2	11:09:56.939	Custom indicator RSI Divergence Levels EURAUD,M1: removed
+2	11:09:56.951	Custom indicator CandleTimer EURUSD,M1: removed
+2	11:09:56.953	Custom indicator RSI Divergence Levels EURUSD,M1: removed
+2	11:09:56.963	Custom indicator CandleTimer USDCHF,M1: removed
+2	11:09:56.964	Custom indicator RSI Divergence Levels USDCHF,M1: removed
+2	11:09:57.047	Custom indicator HolyCandleTime AUDJPY,M1: loaded successfully
+2	11:09:57.104	Custom indicator USAIN-BOLT AUDJPY,M1: loaded successfully
+2	11:09:57.177	Custom indicator HolyCandleTime AUDNZD,M1: loaded successfully
+2	11:09:57.239	Custom indicator USAIN-BOLT AUDNZD,M1: loaded successfully
+2	11:09:57.315	Custom indicator HolyCandleTime AUDUSD,M1: loaded successfully
+2	11:09:57.377	Custom indicator USAIN-BOLT AUDUSD,M1: loaded successfully
+2	11:09:57.452	Custom indicator HolyCandleTime AUDCHF,M1: loaded successfully
+2	11:09:57.508	Custom indicator USAIN-BOLT AUDCHF,M1: loaded successfully
+2	11:09:57.584	Custom indicator HolyCandleTime CADJPY,M1: loaded successfully
+2	11:09:57.645	Custom indicator USAIN-BOLT CADJPY,M1: loaded successfully
+2	11:09:57.723	Custom indicator HolyCandleTime CADCHF,M1: loaded successfully
+2	11:09:57.782	Custom indicator USAIN-BOLT CADCHF,M1: loaded successfully
+2	11:09:57.856	Custom indicator HolyCandleTime CHFJPY,M1: loaded successfully
+2	11:09:57.913	Custom indicator USAIN-BOLT CHFJPY,M1: loaded successfully
+2	11:09:57.990	Custom indicator HolyCandleTime EURUSD,M1: loaded successfully
+2	11:09:58.047	Custom indicator USAIN-BOLT EURUSD,M1: loaded successfully
+2	11:09:58.121	Custom indicator HolyCandleTime EURAUD,M1: loaded successfully
+2	11:09:58.177	Custom indicator USAIN-BOLT EURAUD,M1: loaded successfully
+2	11:09:58.255	Custom indicator HolyCandleTime EURGBP,M1: loaded successfully
+2	11:09:58.315	Custom indicator USAIN-BOLT EURGBP,M1: loaded successfully
+2	11:09:58.396	Custom indicator HolyCandleTime EURCAD,M1: loaded successfully
+2	11:09:58.456	Custom indicator USAIN-BOLT EURCAD,M1: loaded successfully
+2	11:09:58.531	Custom indicator HolyCandleTime EURJPY,M1: loaded successfully
+2	11:09:58.587	Custom indicator USAIN-BOLT EURJPY,M1: loaded successfully
+2	11:09:58.662	Custom indicator HolyCandleTime EURNZD,M1: loaded successfully
+2	11:09:58.719	Custom indicator USAIN-BOLT EURNZD,M1: loaded successfully
+2	11:09:58.797	Custom indicator HolyCandleTime EURCHF,M1: loaded successfully
+2	11:09:58.854	Custom indicator USAIN-BOLT EURCHF,M1: loaded successfully
+2	11:09:58.929	Custom indicator HolyCandleTime GBPUSD,M1: loaded successfully
+2	11:09:58.985	Custom indicator USAIN-BOLT GBPUSD,M1: loaded successfully
+2	11:09:59.064	Custom indicator HolyCandleTime GBPAUD,M1: loaded successfully
+2	11:09:59.123	Custom indicator USAIN-BOLT GBPAUD,M1: loaded successfully
+2	11:09:59.202	Custom indicator HolyCandleTime GBPCAD,M1: loaded successfully
+2	11:09:59.261	Custom indicator USAIN-BOLT GBPCAD,M1: loaded successfully
+2	11:09:59.340	Custom indicator HolyCandleTime GBPJPY,M1: loaded successfully
+2	11:09:59.400	Custom indicator USAIN-BOLT GBPJPY,M1: loaded successfully
+2	11:09:59.477	Custom indicator HolyCandleTime GBPNZD,M1: loaded successfully
+2	11:09:59.538	Custom indicator USAIN-BOLT GBPNZD,M1: loaded successfully
+2	11:09:59.619	Custom indicator HolyCandleTime GBPCHF,M1: loaded successfully
+2	11:09:59.679	Custom indicator USAIN-BOLT GBPCHF,M1: loaded successfully
+2	11:09:59.759	Custom indicator HolyCandleTime NZDCAD,M1: loaded successfully
+2	11:09:59.819	Custom indicator USAIN-BOLT NZDCAD,M1: loaded successfully
+2	11:09:59.902	Custom indicator HolyCandleTime NZDJPY,M1: loaded successfully
+2	11:09:59.959	Custom indicator USAIN-BOLT NZDJPY,M1: loaded successfully
+2	11:10:00.038	Custom indicator HolyCandleTime NZDUSD,M1: loaded successfully
+2	11:10:00.095	Custom indicator USAIN-BOLT NZDUSD,M1: loaded successfully
+2	11:10:00.175	Custom indicator HolyCandleTime NZDCHF,M1: loaded successfully
+2	11:10:00.236	Custom indicator USAIN-BOLT NZDCHF,M1: loaded successfully
+2	11:10:00.315	Custom indicator HolyCandleTime USDJPY,M1: loaded successfully
+2	11:10:00.373	Custom indicator USAIN-BOLT USDJPY,M1: loaded successfully
+2	11:10:00.450	Custom indicator HolyCandleTime USDCAD,M1: loaded successfully
+2	11:10:00.509	Custom indicator USAIN-BOLT USDCAD,M1: loaded successfully
+2	11:10:00.595	Custom indicator HolyCandleTime USDCHF,M1: loaded successfully
+2	11:10:00.653	Custom indicator USAIN-BOLT USDCHF,M1: loaded successfully
+2	11:10:00.734	Custom indicator HolyCandleTime AUDCAD,M1: loaded successfully
+2	11:10:00.791	Custom indicator USAIN-BOLT AUDCAD,M1: loaded successfully
+0	11:10:26.103	'51260446': instant order sell 0.01 GBPJPY at 135.089 sl: 0.000 tp: 0.000
+1	11:10:38.347	'51260446': order sell 0.01 GBPJPY opening at 135.089 sl: 0.000 tp: 0.000 failed [Off quotes]
+0	11:10:38.871	'51260446': instant order sell 0.01 GBPJPY at 135.048 sl: 0.000 tp: 0.000
+1	11:10:40.140	'51260446': order sell 0.01 GBPJPY opening at 135.048 sl: 0.000 tp: 0.000 failed [Off quotes]
+0	11:10:40.640	'51260446': instant order sell 0.01 GBPJPY at 135.049 sl: 0.000 tp: 0.000
+1	11:10:41.478	'51260446': order sell 0.01 GBPJPY opening at 135.049 sl: 0.000 tp: 0.000 failed [Off quotes]
+0	11:30:22.494	'51260446': login on FXCM-USDDemo02 through AsiaDC (ping: 558.67 ms)
+0	11:30:42.159	'51260446': login datacenter on FXCM-USDDemo02 through AsiaDC (ping: 558.67 ms)
+0	11:30:43.847	'51260446': previous successful authorization performed from 154.126.98.137
+0	11:30:56.751	'51260446': auto connecting to a better access point External (ping is 557.92 ms)
+0	11:30:58.988	'51260446': login on FXCM-USDDemo02 through External (ping: 557.92 ms)
+0	11:31:10.705	'51260446': previous successful authorization performed from 154.126.98.137
+0	12:33:07.551	'51260446': instant order sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 0.00000
+0	12:33:07.952	'51260446': order was opened : #170394109 sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 0.00000
+0	12:33:26.472	'51260446': modify order #170394109 sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.20397
+0	12:33:27.110	'51260446': order #170394109 sell 0.01 GBPCHF at 1.20425 was modified -> sl: 0.00000 tp: 1.20397
+1	12:33:33.504	'51260446': order sell 1.00 GBPCHF opening at 1.20433 sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	12:33:33.504	'51260446': order #0 sell 1.00 GBPCHF at 1.20433 failed [Not enough money]
+0	12:33:41.546	'51260446': close order #170394109 sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 1.20397 at price 1.20468
+1	12:33:42.653	'51260446': order #170394109 sell 0.01 GBPCHF closing at 1.20468 failed [Off quotes]
+0	12:33:44.494	'51260446': close order #170394109 sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 1.20397 at price 1.20465
+1	12:33:45.562	'51260446': order #170394109 sell 0.01 GBPCHF closing at 1.20465 failed [Off quotes]
+0	12:33:50.096	'51260446': close order #170394109 sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 1.20397 at price 1.20467
+0	12:33:50.492	'51260446': order #170394109 sell 0.01 GBPCHF at 1.20425 sl: 0.00000 tp: 1.20397 closed at price 1.20467
+1	12:33:54.739	'51260446': order sell 1.00 GBPCHF opening at 1.20436 sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	12:33:54.739	'51260446': order #0 sell 1.00 GBPCHF at 1.20436 failed [Not enough money]
+1	12:33:55.846	'51260446': order sell 1.00 GBPCHF opening at 1.20436 sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	12:33:55.846	'51260446': order #0 sell 1.00 GBPCHF at 1.20436 failed [Not enough money]
+1	12:34:00.606	'51260446': order sell 0.10 GBPCHF opening at 1.20443 sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	12:34:00.606	'51260446': order #0 sell 0.10 GBPCHF at 1.20443 failed [Not enough money]
+1	13:04:43.552	'51260446': ping failed
+0	13:04:46.970	'51260446': login on FXCM-USDDemo02 through AsiaDC (ping: 716.60 ms)
+0	13:04:58.644	'51260446': login datacenter on FXCM-USDDemo02 through AsiaDC (ping: 716.60 ms)
+0	13:05:00.419	'51260446': previous successful authorization performed from 154.126.98.137
+0	13:05:04.934	'51260446': auto connecting to a better access point External (ping is 356.97 ms)
+0	13:05:06.166	'51260446': login on FXCM-USDDemo02 through External (ping: 356.97 ms)
+0	13:05:09.868	'51260446': previous successful authorization performed from 154.126.98.137
+1	14:00:02.594	'51260446': ping failed
+1	14:00:02.733	'51260446': connect failed [Connection échouée]
+0	14:00:09.269	'51260446': login on FXCM-USDDemo02 through External (ping: n/a)
+0	14:00:12.958	'51260446': previous successful authorization performed from 154.126.98.137
+0	14:00:28.037	'51260446': ping to current access point External is n/a
+1	14:01:12.810	MQL5.community: authorization failed
+0	15:31:45.713	'51260446': login on FXCM-USDDemo02 through AsiaDC (ping: 561.90 ms)
+0	15:31:51.961	'51260446': login datacenter on FXCM-USDDemo02 through AsiaDC (ping: 561.90 ms)
+0	15:31:53.039	'51260446': previous successful authorization performed from 154.126.98.137
+0	15:32:00.111	'51260446': auto connecting to a better access point External (ping is 286.50 ms)
+0	15:32:01.236	'51260446': login on FXCM-USDDemo02 through External (ping: 286.50 ms)
+0	15:32:03.857	'51260446': previous successful authorization performed from 154.126.98.137
+0	16:26:20.042	'51260446': login on FXCM-USDDemo02 through External (ping: 286.50 ms)
+0	16:26:42.266	'51260446': previous successful authorization performed from 154.126.98.137
+0	16:31:37.573	'51260446': login on FXCM-USDDemo02 through External (ping: 286.50 ms)
+0	16:31:43.841	'51260446': previous successful authorization performed from 154.126.98.137
+2	16:55:25.550	Custom indicator HolyCandleTime GBPCHF,M1: removed
+2	16:55:25.552	Custom indicator USAIN-BOLT GBPCHF,M1: removed
+2	16:55:25.569	Custom indicator HolyCandleTime GBPJPY,M1: removed
+2	16:55:25.569	Custom indicator USAIN-BOLT GBPJPY,M1: removed
+2	16:55:25.586	Custom indicator HolyCandleTime EURUSD,M1: removed
+2	16:55:25.586	Custom indicator USAIN-BOLT EURUSD,M1: removed
+2	16:55:25.604	Custom indicator HolyCandleTime CHFJPY,M1: removed
+2	16:55:25.605	Custom indicator USAIN-BOLT CHFJPY,M1: removed
+2	16:55:25.621	Custom indicator HolyCandleTime EURCHF,M1: removed
+2	16:55:25.622	Custom indicator USAIN-BOLT EURCHF,M1: removed
+2	16:55:25.638	Custom indicator HolyCandleTime EURGBP,M1: removed
+2	16:55:25.638	Custom indicator USAIN-BOLT EURGBP,M1: removed
+2	16:55:25.656	Custom indicator HolyCandleTime EURCAD,M1: removed
+2	16:55:25.656	Custom indicator USAIN-BOLT EURCAD,M1: removed
+2	16:55:25.674	Custom indicator HolyCandleTime AUDNZD,M1: removed
+2	16:55:25.674	Custom indicator USAIN-BOLT AUDNZD,M1: removed
+2	16:55:25.690	Custom indicator HolyCandleTime NZDCAD,M1: removed
+2	16:55:25.690	Custom indicator USAIN-BOLT NZDCAD,M1: removed
+2	16:55:25.705	Custom indicator HolyCandleTime GBPNZD,M1: removed
+2	16:55:25.706	Custom indicator USAIN-BOLT GBPNZD,M1: removed
+2	16:55:25.721	Custom indicator HolyCandleTime USDCHF,M1: removed
+2	16:55:25.722	Custom indicator USAIN-BOLT USDCHF,M1: removed
+2	16:55:25.736	Custom indicator HolyCandleTime USDCAD,M1: removed
+2	16:55:25.736	Custom indicator USAIN-BOLT USDCAD,M1: removed
+2	16:55:25.750	Custom indicator HolyCandleTime GBPUSD,M1: removed
+2	16:55:25.750	Custom indicator USAIN-BOLT GBPUSD,M1: removed
+2	16:55:25.764	Custom indicator HolyCandleTime EURAUD,M1: removed
+2	16:55:25.764	Custom indicator USAIN-BOLT EURAUD,M1: removed
+2	16:55:25.777	Custom indicator HolyCandleTime AUDCHF,M1: removed
+2	16:55:25.777	Custom indicator USAIN-BOLT AUDCHF,M1: removed
+2	16:55:25.790	Custom indicator HolyCandleTime AUDUSD,M1: removed
+2	16:55:25.790	Custom indicator USAIN-BOLT AUDUSD,M1: removed
+2	16:55:25.804	Custom indicator HolyCandleTime EURNZD,M1: removed
+2	16:55:25.804	Custom indicator USAIN-BOLT EURNZD,M1: removed
+2	16:55:25.817	Custom indicator HolyCandleTime USDJPY,M1: removed
+2	16:55:25.817	Custom indicator USAIN-BOLT USDJPY,M1: removed
+2	16:55:25.829	Custom indicator HolyCandleTime NZDCHF,M1: removed
+2	16:55:25.829	Custom indicator USAIN-BOLT NZDCHF,M1: removed
+2	16:55:25.842	Custom indicator HolyCandleTime EURJPY,M1: removed
+2	16:55:25.842	Custom indicator USAIN-BOLT EURJPY,M1: removed
+2	16:55:25.855	Custom indicator HolyCandleTime AUDJPY,M1: removed
+2	16:55:25.855	Custom indicator USAIN-BOLT AUDJPY,M1: removed
+2	16:55:25.866	Custom indicator HolyCandleTime CADCHF,M1: removed
+2	16:55:25.867	Custom indicator USAIN-BOLT CADCHF,M1: removed
+2	16:55:25.878	Custom indicator HolyCandleTime GBPCAD,M1: removed
+2	16:55:25.878	Custom indicator USAIN-BOLT GBPCAD,M1: removed
+2	16:55:25.891	Custom indicator HolyCandleTime NZDUSD,M1: removed
+2	16:55:25.891	Custom indicator USAIN-BOLT NZDUSD,M1: removed
+2	16:55:25.906	Custom indicator HolyCandleTime NZDJPY,M1: removed
+2	16:55:25.906	Custom indicator USAIN-BOLT NZDJPY,M1: removed
+2	16:55:25.918	Custom indicator HolyCandleTime GBPAUD,M1: removed
+2	16:55:25.918	Custom indicator USAIN-BOLT GBPAUD,M1: removed
+2	16:55:25.929	Custom indicator HolyCandleTime CADJPY,M1: removed
+2	16:55:25.929	Custom indicator USAIN-BOLT CADJPY,M1: removed
+2	16:55:25.937	Custom indicator HolyCandleTime AUDCAD,M1: removed
+2	16:55:25.937	Custom indicator USAIN-BOLT AUDCAD,M1: removed
+2	16:55:25.986	Custom indicator CandleTimer AUDJPY,M1: loaded successfully
+2	16:55:25.996	Custom indicator RSI Divergence Levels AUDJPY,M1: loaded successfully
+2	16:55:26.047	Custom indicator CandleTimer AUDUSD,M1: loaded successfully
+2	16:55:26.055	Custom indicator RSI Divergence Levels AUDUSD,M1: loaded successfully
+2	16:55:26.104	Custom indicator CandleTimer EURUSD,M1: loaded successfully
+2	16:55:26.113	Custom indicator RSI Divergence Levels EURUSD,M1: loaded successfully
+2	16:55:26.163	Custom indicator CandleTimer EURAUD,M1: loaded successfully
+2	16:55:26.175	Custom indicator RSI Divergence Levels EURAUD,M1: loaded successfully
+2	16:55:26.226	Custom indicator CandleTimer EURGBP,M1: loaded successfully
+2	16:55:26.235	Custom indicator RSI Divergence Levels EURGBP,M1: loaded successfully
+2	16:55:26.283	Custom indicator CandleTimer EURCAD,M1: loaded successfully
+2	16:55:26.291	Custom indicator RSI Divergence Levels EURCAD,M1: loaded successfully
+2	16:55:26.341	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	16:55:26.350	Custom indicator RSI Divergence Levels EURJPY,M1: loaded successfully
+2	16:55:26.398	Custom indicator CandleTimer EURCHF,M1: loaded successfully
+2	16:55:26.406	Custom indicator RSI Divergence Levels EURCHF,M1: loaded successfully
+2	16:55:26.454	Custom indicator CandleTimer GBPUSD,M1: loaded successfully
+2	16:55:26.463	Custom indicator RSI Divergence Levels GBPUSD,M1: loaded successfully
+2	16:55:26.513	Custom indicator CandleTimer GBPAUD,M1: loaded successfully
+2	16:55:26.522	Custom indicator RSI Divergence Levels GBPAUD,M1: loaded successfully
+2	16:55:26.572	Custom indicator CandleTimer GBPJPY,M1: loaded successfully
+2	16:55:26.581	Custom indicator RSI Divergence Levels GBPJPY,M1: loaded successfully
+2	16:55:26.634	Custom indicator CandleTimer USDJPY,M1: loaded successfully
+2	16:55:26.642	Custom indicator RSI Divergence Levels USDJPY,M1: loaded successfully
+2	16:55:26.699	Custom indicator CandleTimer USDCHF,M1: loaded successfully
+2	16:55:26.707	Custom indicator RSI Divergence Levels USDCHF,M1: loaded successfully
+0	17:43:28.900	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 436.29 ms)
+0	17:43:31.222	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 436.29 ms)
+0	17:43:32.031	'23842653': previous successful authorization performed from 41.188.54.155
+0	17:43:42.829	'23842653': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	17:43:43.675	'23842653': order was opened : #175934571 sell 0.01 EURUSD at 1.09238 sl: 0.00000 tp: 0.00000
+0	17:43:44.322	'23842653': ping to current access point Access Point #1 is 231.91 ms
+0	17:43:46.931	'23842653': close order #175934571 sell 0.01 EURUSD at 1.09238 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	17:43:47.364	'23842653': order #175934571 sell 0.01 EURUSD at 1.09238 sl: 0.00000 tp: 0.00000 closed at price 1.09245
+1	17:43:57.125	'23842653': order sell 1.00 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	17:43:57.125	'23842653': order #0 sell 1.00 EURUSD at 0.00000 failed [Not enough money]
+1	17:44:02.422	'23842653': order sell 0.10 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+1	17:44:02.422	'23842653': order #0 sell 0.10 EURUSD at 0.00000 failed [Not enough money]
+0	17:44:07.612	'23842653': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	17:44:08.521	'23842653': order was opened : #175934656 sell 0.01 EURUSD at 1.09227 sl: 0.00000 tp: 0.00000
+0	17:44:24.807	'23842653': modify order #175934656 sell 0.01 EURUSD at 1.09227 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.08917
+0	17:44:25.147	'23842653': order #175934656 sell 0.01 EURUSD at 1.09227 was modified -> sl: 0.00000 tp: 1.08917
+2	18:39:43.275	Expert [BH] MT4 to Binary Connector v4.0 EURUSD,H1: loaded successfully
+0	18:44:34.608	'23842653': close order #175934656 sell 0.01 EURUSD at 1.09227 sl: 0.00000 tp: 1.08917 at price 0.00000
+0	18:44:35.030	'23842653': order #175934656 sell 0.01 EURUSD at 1.09227 sl: 0.00000 tp: 1.08917 closed at price 1.09317
+2	18:50:19.567	Expert [BH] MT4 to Binary Connector v4.0 EURUSD,H1: removed
+2	18:50:19.578	Expert [BH] MT4 to Binary Connector v4.0 EURUSD,H1: loaded successfully
+2	18:51:46.562	Custom indicator CandleTimer AUDJPY,M1: removed
+2	18:51:46.563	Custom indicator RSI Divergence Levels AUDJPY,M1: removed
+2	18:51:46.572	Custom indicator CandleTimer AUDJPY,M1: loaded successfully
+2	18:51:46.582	Custom indicator RSI Divergence Levels AUDJPY,M1: loaded successfully
+2	18:51:46.592	Expert [BH] MT4 to Binary Connector v4.0 AUDJPY,M1: loaded successfully
+2	18:58:59.566	Custom indicator CandleTimer GBPAUD,M1: removed
+2	18:58:59.569	Custom indicator RSI Divergence Levels GBPAUD,M1: removed
+2	18:58:59.580	Custom indicator CandleTimer GBPAUD,M1: loaded successfully
+2	18:58:59.590	Custom indicator RSI Divergence Levels GBPAUD,M1: loaded successfully
+2	18:58:59.600	Expert [BH] MT4 to Binary Connector v4.0 GBPAUD,M1: loaded successfully
+2	19:07:07.073	Custom indicator CandleTimer EURAUD,M1: removed
+2	19:07:07.075	Custom indicator RSI Divergence Levels EURAUD,M1: removed
+2	19:07:07.083	Custom indicator CandleTimer EURAUD,M1: loaded successfully
+2	19:07:07.091	Custom indicator RSI Divergence Levels EURAUD,M1: loaded successfully
+2	19:07:07.101	Expert [BH] MT4 to Binary Connector v4.0 EURAUD,M1: loaded successfully
+2	19:18:30.490	Custom indicator CandleTimer AUDUSD,M1: removed
+2	19:18:30.492	Custom indicator RSI Divergence Levels AUDUSD,M1: removed
+2	19:18:30.501	Custom indicator CandleTimer AUDUSD,M1: loaded successfully
+2	19:18:30.511	Custom indicator RSI Divergence Levels AUDUSD,M1: loaded successfully
+2	19:18:30.520	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,M1: loaded successfully
+2	19:18:35.306	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,M1: removed
+2	19:18:35.316	Expert [BH] MT4 to Binary Connector v4.0 AUDUSD,M1: loaded successfully
+2	19:27:00.202	Custom indicator CandleTimer EURCAD,M1: removed
+2	19:27:00.204	Custom indicator RSI Divergence Levels EURCAD,M1: removed
+2	19:27:00.214	Custom indicator CandleTimer EURCAD,M1: loaded successfully
+2	19:27:00.223	Custom indicator RSI Divergence Levels EURCAD,M1: loaded successfully
+2	19:27:00.232	Expert [BH] MT4 to Binary Connector v4.0 EURCAD,M1: loaded successfully
+2	19:27:52.340	Custom indicator CandleTimer EURJPY,M1: removed
+2	19:27:52.341	Custom indicator RSI Divergence Levels EURJPY,M1: removed
+2	19:27:52.351	Custom indicator CandleTimer EURJPY,M1: loaded successfully
+2	19:27:52.361	Custom indicator RSI Divergence Levels EURJPY,M1: loaded successfully
+2	19:27:52.371	Expert [BH] MT4 to Binary Connector v4.0 EURJPY,M1: loaded successfully
+0	19:45:39.398	'23842653': login on AdmiralMarkets-Demo through Access Point #3 (ping: 285.74 ms)
+0	19:45:57.003	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 285.74 ms)
+0	19:45:59.721	'23842653': previous successful authorization performed from 154.126.98.137
+0	19:46:43.461	'23842653': auto connecting to a better access point Access Point #1 (ping is 263.69 ms)
+0	19:46:47.902	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 263.69 ms)
+1	19:46:56.781	MQL5.community: authorization failed
+0	19:46:58.047	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 263.69 ms)
+0	19:46:59.041	'23842653': previous successful authorization performed from 154.126.98.137
+0	19:54:10.476	'23842653': login on AdmiralMarkets-Demo through Access Point #3 (ping: 281.58 ms)
+0	19:55:11.272	'23842653': login datacenter on AdmiralMarkets-Demo
+0	19:55:18.537	'23842653': login on AdmiralMarkets-Demo through Access Point #6 (ping: 401.37 ms)
+0	19:55:27.320	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 401.37 ms)
+0	19:55:35.498	'23842653': previous successful authorization performed from 154.126.98.137
+0	19:57:22.203	'23842653': login datacenter on AdmiralMarkets-Demo
+0	19:57:29.799	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: 698.98 ms)
+0	19:58:20.386	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 698.98 ms)
+0	19:58:21.674	'23842653': previous successful authorization performed from 154.126.98.137
+1	20:38:08.789	'23842653': ping failed
+0	20:38:09.506	'23842653': login datacenter on AdmiralMarkets-Demo
+1	20:38:10.033	'23842653': connect failed [Connection échouée]
+0	20:38:17.106	'23842653': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:38:22.934	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	20:38:24.029	'23842653': previous successful authorization performed from 154.126.98.137
+0	20:38:36.845	'23842653': ping to current access point Access Point #2 is 212.68 ms
+0	22:17:52.687	'23842653': login datacenter on AdmiralMarkets-Demo
+0	22:17:54.162	'23842653': login on AdmiralMarkets-Demo through Access Point #1 (ping: 238.13 ms)
+0	22:17:56.324	'23842653': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 238.13 ms)
+0	22:17:56.942	'23842653': previous successful authorization performed from 154.126.98.137
+0	22:18:06.913	'23842653': ping to current access point Access Point #1 is 240.93 ms

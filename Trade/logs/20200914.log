@@ -1,0 +1,889 @@
+0	06:26:36.298	Admiral Markets build 1280 started (Admiral Markets Group AS)
+0	06:26:36.298	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 2407 / 8014 Mb, Disk: 13 / 237 Gb, GMT+3
+0	06:26:36.298	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	06:26:39.308	Expert Admiral - Mini Terminal EURUSD,Daily: loaded successfully
+2	06:26:39.327	Custom indicator CandleTimer EURUSD,M1: loaded successfully
+0	06:26:40.474	'27134140': login on AdmiralMarkets-Live through Access Point #4 (ping: 209.51 ms)
+0	06:26:43.038	'27134140': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 209.51 ms)
+0	06:26:43.616	'27134140': previous successful authorization performed from 197.149.37.168
+0	06:27:00.464	'27134140': ping to current access point Access Point #4 is 198.80 ms
+2	06:35:12.028	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	06:35:12.086	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	06:35:12.091	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	06:35:12.146	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	06:35:12.153	Custom indicator TrendEnvelopes_v1 GBPUSD,H1: loaded successfully
+2	06:35:12.158	Custom indicator guppy_multiple_moving_averages GBPUSD,H1: loaded successfully
+2	06:35:12.165	Custom indicator wedges GBPUSD,H1: loaded successfully
+2	06:35:12.222	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	06:35:12.230	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	06:35:12.237	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	06:35:12.246	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H1: loaded successfully
+2	06:40:15.948	Custom indicator CandleTimer EURUSD,M5: removed
+2	06:40:16.013	Custom indicator AIMS Levels V2 EURUSD,M5: loaded successfully
+2	06:40:16.070	Custom indicator AIMS Entry Alert V1 EURUSD,M5: loaded successfully
+2	06:40:16.075	Custom indicator CandleTimer EURUSD,M5: loaded successfully
+2	06:40:16.132	Custom indicator #Signal_Bars_v6 EURUSD,M5: loaded successfully
+2	06:40:16.139	Custom indicator TrendEnvelopes_v1 EURUSD,M5: loaded successfully
+2	06:40:16.145	Custom indicator guppy_multiple_moving_averages EURUSD,M5: loaded successfully
+2	06:40:16.151	Custom indicator wedges EURUSD,M5: loaded successfully
+2	06:40:16.209	Custom indicator AIMS AO V.2.1 EURUSD,M5: loaded successfully
+2	06:40:16.215	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M5: loaded successfully
+2	06:40:16.222	Custom indicator RSI Divergence Levels EURUSD,M5: loaded successfully
+2	06:40:16.232	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,M5: loaded successfully
+2	06:44:35.741	Custom indicator AIMS Levels V2 GBPUSD,H1: removed
+2	06:44:35.741	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: removed
+2	06:44:35.743	Custom indicator CandleTimer GBPUSD,H1: removed
+2	06:44:35.743	Custom indicator #Signal_Bars_v6 GBPUSD,H1: removed
+2	06:44:35.744	Custom indicator TrendEnvelopes_v1 GBPUSD,H1: removed
+2	06:44:35.746	Custom indicator guppy_multiple_moving_averages GBPUSD,H1: removed
+2	06:44:35.747	Custom indicator wedges GBPUSD,H1: removed
+2	06:44:35.748	Custom indicator AIMS AO V.2.1 GBPUSD,H1: removed
+2	06:44:35.750	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: removed
+2	06:44:35.751	Custom indicator RSI Divergence Levels GBPUSD,H1: removed
+2	06:44:35.753	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H1: removed
+2	06:44:35.780	Custom indicator AIMS Levels V2 EURUSD,M1: removed
+2	06:44:35.780	Custom indicator AIMS Entry Alert V1 EURUSD,M1: removed
+2	06:44:35.782	Custom indicator CandleTimer EURUSD,M1: removed
+2	06:44:35.782	Custom indicator #Signal_Bars_v6 EURUSD,M1: removed
+2	06:44:35.783	Custom indicator TrendEnvelopes_v1 EURUSD,M1: removed
+2	06:44:35.785	Custom indicator guppy_multiple_moving_averages EURUSD,M1: removed
+2	06:44:35.787	Custom indicator wedges EURUSD,M1: removed
+2	06:44:35.787	Custom indicator AIMS AO V.2.1 EURUSD,M1: removed
+2	06:44:35.789	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M1: removed
+2	06:44:35.790	Custom indicator RSI Divergence Levels EURUSD,M1: removed
+2	06:44:35.793	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,M1: removed
+2	06:44:35.816	Expert Admiral - Mini Terminal EURUSD,Daily: removed
+2	06:44:35.895	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	06:44:35.955	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	06:44:35.961	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	06:44:36.018	Custom indicator #Signal_Bars_v6 [DAX30],M1: loaded successfully
+2	06:44:36.025	Custom indicator TrendEnvelopes_v1 [DAX30],M1: loaded successfully
+2	06:44:36.031	Custom indicator guppy_multiple_moving_averages [DAX30],M1: loaded successfully
+2	06:44:36.037	Custom indicator wedges [DAX30],M1: loaded successfully
+2	06:44:36.095	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	06:44:36.102	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: loaded successfully
+2	06:44:36.109	Custom indicator RSI Divergence Levels [DAX30],M1: loaded successfully
+2	06:44:36.115	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: loaded successfully
+2	06:44:36.826	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	06:44:36.882	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	06:44:36.889	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	06:44:36.945	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	06:44:36.952	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	06:44:36.958	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	06:44:36.964	Custom indicator wedges [DJI30],M1: loaded successfully
+2	06:44:37.022	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	06:44:37.028	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	06:44:37.035	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	06:44:37.043	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	06:44:37.813	Custom indicator AIMS Levels V2 [NQ100],M15: loaded successfully
+2	06:44:37.871	Custom indicator AIMS Entry Alert V1 [NQ100],M15: loaded successfully
+2	06:44:37.877	Custom indicator CandleTimer [NQ100],M15: loaded successfully
+2	06:44:37.934	Custom indicator #Signal_Bars_v6 [NQ100],M15: loaded successfully
+2	06:44:37.941	Custom indicator TrendEnvelopes_v1 [NQ100],M15: loaded successfully
+2	06:44:37.947	Custom indicator guppy_multiple_moving_averages [NQ100],M15: loaded successfully
+2	06:44:37.953	Custom indicator wedges [NQ100],M15: loaded successfully
+2	06:44:38.011	Custom indicator AIMS AO V.2.1 [NQ100],M15: loaded successfully
+2	06:44:38.018	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M15: loaded successfully
+2	06:44:38.025	Custom indicator RSI Divergence Levels [NQ100],M15: loaded successfully
+2	06:44:38.033	Custom indicator JoeChalhoub_FXForecasterV1 [NQ100],M15: loaded successfully
+2	06:44:38.340	Custom indicator AIMS Levels V2 WTI,H1: loaded successfully
+2	06:44:38.398	Custom indicator AIMS Entry Alert V1 WTI,H1: loaded successfully
+2	06:44:38.403	Custom indicator CandleTimer WTI,H1: loaded successfully
+2	06:44:38.460	Custom indicator #Signal_Bars_v6 WTI,H1: loaded successfully
+2	06:44:38.467	Custom indicator TrendEnvelopes_v1 WTI,H1: loaded successfully
+2	06:44:38.473	Custom indicator guppy_multiple_moving_averages WTI,H1: loaded successfully
+2	06:44:38.479	Custom indicator wedges WTI,H1: loaded successfully
+2	06:44:38.535	Custom indicator AIMS AO V.2.1 WTI,H1: loaded successfully
+2	06:44:38.541	Custom indicator IVT_MACD_ZERO_LAG WTI,H1: loaded successfully
+2	06:44:38.548	Custom indicator RSI Divergence Levels WTI,H1: loaded successfully
+2	06:44:38.555	Custom indicator JoeChalhoub_FXForecasterV1 WTI,H1: loaded successfully
+2	06:44:38.819	Custom indicator AIMS Levels V2 SILVER,H1: loaded successfully
+2	06:44:38.876	Custom indicator AIMS Entry Alert V1 SILVER,H1: loaded successfully
+2	06:44:38.882	Custom indicator CandleTimer SILVER,H1: loaded successfully
+2	06:44:38.941	Custom indicator #Signal_Bars_v6 SILVER,H1: loaded successfully
+2	06:44:38.947	Custom indicator TrendEnvelopes_v1 SILVER,H1: loaded successfully
+2	06:44:38.953	Custom indicator guppy_multiple_moving_averages SILVER,H1: loaded successfully
+2	06:44:38.960	Custom indicator wedges SILVER,H1: loaded successfully
+2	06:44:39.022	Custom indicator AIMS AO V.2.1 SILVER,H1: loaded successfully
+2	06:44:39.029	Custom indicator IVT_MACD_ZERO_LAG SILVER,H1: loaded successfully
+2	06:44:39.036	Custom indicator RSI Divergence Levels SILVER,H1: loaded successfully
+2	06:44:39.044	Custom indicator JoeChalhoub_FXForecasterV1 SILVER,H1: loaded successfully
+2	06:44:39.295	Custom indicator AIMS Levels V2 [CAC40],H1: loaded successfully
+2	06:44:39.351	Custom indicator AIMS Entry Alert V1 [CAC40],H1: loaded successfully
+2	06:44:39.356	Custom indicator CandleTimer [CAC40],H1: loaded successfully
+2	06:44:39.413	Custom indicator #Signal_Bars_v6 [CAC40],H1: loaded successfully
+2	06:44:39.419	Custom indicator TrendEnvelopes_v1 [CAC40],H1: loaded successfully
+2	06:44:39.426	Custom indicator guppy_multiple_moving_averages [CAC40],H1: loaded successfully
+2	06:44:39.433	Custom indicator wedges [CAC40],H1: loaded successfully
+2	06:44:39.489	Custom indicator AIMS AO V.2.1 [CAC40],H1: loaded successfully
+2	06:44:39.496	Custom indicator IVT_MACD_ZERO_LAG [CAC40],H1: loaded successfully
+2	06:44:39.502	Custom indicator RSI Divergence Levels [CAC40],H1: loaded successfully
+2	06:44:39.510	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],H1: loaded successfully
+2	06:44:39.750	Custom indicator AIMS Levels V2 [SP500],H1: loaded successfully
+2	06:44:39.808	Custom indicator AIMS Entry Alert V1 [SP500],H1: loaded successfully
+2	06:44:39.813	Custom indicator CandleTimer [SP500],H1: loaded successfully
+2	06:44:39.872	Custom indicator #Signal_Bars_v6 [SP500],H1: loaded successfully
+2	06:44:39.879	Custom indicator TrendEnvelopes_v1 [SP500],H1: loaded successfully
+2	06:44:39.885	Custom indicator guppy_multiple_moving_averages [SP500],H1: loaded successfully
+2	06:44:39.892	Custom indicator wedges [SP500],H1: loaded successfully
+2	06:44:39.949	Custom indicator AIMS AO V.2.1 [SP500],H1: loaded successfully
+2	06:44:39.957	Custom indicator IVT_MACD_ZERO_LAG [SP500],H1: loaded successfully
+2	06:44:39.964	Custom indicator RSI Divergence Levels [SP500],H1: loaded successfully
+2	06:44:39.972	Custom indicator JoeChalhoub_FXForecasterV1 [SP500],H1: loaded successfully
+2	06:44:40.203	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	06:44:40.261	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	06:44:40.266	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	06:44:40.330	Custom indicator #Signal_Bars_v6 GOLD,H1: loaded successfully
+2	06:44:40.337	Custom indicator TrendEnvelopes_v1 GOLD,H1: loaded successfully
+2	06:44:40.343	Custom indicator guppy_multiple_moving_averages GOLD,H1: loaded successfully
+2	06:44:40.349	Custom indicator wedges GOLD,H1: loaded successfully
+2	06:44:40.405	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	06:44:40.411	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	06:44:40.419	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	06:44:40.426	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,H1: loaded successfully
+2	06:49:03.925	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	06:49:03.983	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	06:49:03.988	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	06:49:04.045	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	06:49:04.051	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	06:49:04.057	Custom indicator guppy_multiple_moving_averages EURUSD,H1: loaded successfully
+2	06:49:04.064	Custom indicator wedges EURUSD,H1: loaded successfully
+2	06:49:04.121	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	06:49:04.128	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	06:49:04.135	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	06:49:04.144	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: loaded successfully
+2	06:55:51.574	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	06:55:51.632	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	06:55:51.638	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	06:55:51.695	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	06:55:51.701	Custom indicator TrendEnvelopes_v1 AUDUSD,H1: loaded successfully
+2	06:55:51.708	Custom indicator guppy_multiple_moving_averages AUDUSD,H1: loaded successfully
+2	06:55:51.714	Custom indicator wedges AUDUSD,H1: loaded successfully
+2	06:55:51.772	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	06:55:51.778	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	06:55:51.785	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	06:55:51.795	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,H1: loaded successfully
+0	06:56:18.742	'27134140': order buy market 0.10 AUDUSD sl: 0.00000 tp: 0.00000
+0	06:56:19.147	'27134140': order was opened : #71261129 buy 0.10 AUDUSD at 0.72832 sl: 0.00000 tp: 0.00000
+0	06:56:21.282	Notifications: 'order opened #71261129 buy 0.10 AUDUSD at 0.72832' sent to 'A37163A9'
+0	06:57:55.295	'27134140': modify order #71261129 buy 0.10 AUDUSD at 0.72832 sl: 0.00000 tp: 0.00000 -> sl: 0.72474 tp: 0.73609
+0	06:57:56.213	'27134140': order #71261129 buy 0.10 AUDUSD at 0.72832 was modified -> sl: 0.72474 tp: 0.73609
+0	06:57:57.152	Notifications: 'order #71261129 buy 0.10 AUDUSD at 0.72832 modified: sl: 0.00000 tp: 0.00000 -> sl: 0.72474 tp: 0.73609' sent to 'A37163A9'
+2	07:08:20.895	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	07:08:20.895	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	07:08:20.897	Custom indicator CandleTimer [DAX30],M1: removed
+2	07:08:20.897	Custom indicator #Signal_Bars_v6 [DAX30],M1: removed
+2	07:08:20.898	Custom indicator TrendEnvelopes_v1 [DAX30],M1: removed
+2	07:08:20.900	Custom indicator guppy_multiple_moving_averages [DAX30],M1: removed
+2	07:08:20.901	Custom indicator wedges [DAX30],M1: removed
+2	07:08:20.902	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	07:08:20.903	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: removed
+2	07:08:20.905	Custom indicator RSI Divergence Levels [DAX30],M1: removed
+2	07:08:20.907	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: removed
+2	07:08:20.925	Custom indicator AIMS Levels V2 AUDUSD,H1: removed
+2	07:08:20.925	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: removed
+2	07:08:20.926	Custom indicator CandleTimer AUDUSD,H1: removed
+2	07:08:20.926	Custom indicator #Signal_Bars_v6 AUDUSD,H1: removed
+2	07:08:20.928	Custom indicator TrendEnvelopes_v1 AUDUSD,H1: removed
+2	07:08:20.929	Custom indicator guppy_multiple_moving_averages AUDUSD,H1: removed
+2	07:08:20.930	Custom indicator wedges AUDUSD,H1: removed
+2	07:08:20.930	Custom indicator AIMS AO V.2.1 AUDUSD,H1: removed
+2	07:08:20.932	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: removed
+2	07:08:20.933	Custom indicator RSI Divergence Levels AUDUSD,H1: removed
+2	07:08:20.934	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,H1: removed
+2	07:08:20.951	Custom indicator AIMS Levels V2 GOLD,H1: removed
+2	07:08:20.951	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	07:08:20.953	Custom indicator CandleTimer GOLD,H1: removed
+2	07:08:20.953	Custom indicator #Signal_Bars_v6 GOLD,H1: removed
+2	07:08:20.954	Custom indicator TrendEnvelopes_v1 GOLD,H1: removed
+2	07:08:20.955	Custom indicator guppy_multiple_moving_averages GOLD,H1: removed
+2	07:08:20.957	Custom indicator wedges GOLD,H1: removed
+2	07:08:20.957	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+2	07:08:20.958	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	07:08:20.960	Custom indicator RSI Divergence Levels GOLD,H1: removed
+2	07:08:20.961	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,H1: removed
+2	07:08:20.977	Custom indicator AIMS Levels V2 EURUSD,H1: removed
+2	07:08:20.977	Custom indicator AIMS Entry Alert V1 EURUSD,H1: removed
+2	07:08:20.978	Custom indicator CandleTimer EURUSD,H1: removed
+2	07:08:20.978	Custom indicator #Signal_Bars_v6 EURUSD,H1: removed
+2	07:08:20.980	Custom indicator TrendEnvelopes_v1 EURUSD,H1: removed
+2	07:08:20.981	Custom indicator guppy_multiple_moving_averages EURUSD,H1: removed
+2	07:08:20.982	Custom indicator wedges EURUSD,H1: removed
+2	07:08:20.982	Custom indicator AIMS AO V.2.1 EURUSD,H1: removed
+2	07:08:20.983	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: removed
+2	07:08:20.985	Custom indicator RSI Divergence Levels EURUSD,H1: removed
+2	07:08:20.986	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: removed
+2	07:08:21.002	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	07:08:21.002	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	07:08:21.004	Custom indicator CandleTimer [DJI30],M1: removed
+2	07:08:21.005	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	07:08:21.006	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	07:08:21.007	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	07:08:21.009	Custom indicator wedges [DJI30],M1: removed
+2	07:08:21.010	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	07:08:21.011	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	07:08:21.013	Custom indicator RSI Divergence Levels [DJI30],M1: removed
+2	07:08:21.015	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	07:08:21.032	Custom indicator AIMS Levels V2 [CAC40],H1: removed
+2	07:08:21.032	Custom indicator AIMS Entry Alert V1 [CAC40],H1: removed
+2	07:08:21.034	Custom indicator CandleTimer [CAC40],H1: removed
+2	07:08:21.034	Custom indicator #Signal_Bars_v6 [CAC40],H1: removed
+2	07:08:21.035	Custom indicator TrendEnvelopes_v1 [CAC40],H1: removed
+2	07:08:21.036	Custom indicator guppy_multiple_moving_averages [CAC40],H1: removed
+2	07:08:21.038	Custom indicator wedges [CAC40],H1: removed
+2	07:08:21.038	Custom indicator AIMS AO V.2.1 [CAC40],H1: removed
+2	07:08:21.039	Custom indicator IVT_MACD_ZERO_LAG [CAC40],H1: removed
+2	07:08:21.041	Custom indicator RSI Divergence Levels [CAC40],H1: removed
+2	07:08:21.042	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],H1: removed
+2	07:08:21.058	Custom indicator AIMS Levels V2 WTI,H1: removed
+2	07:08:21.058	Custom indicator AIMS Entry Alert V1 WTI,H1: removed
+2	07:08:21.060	Custom indicator CandleTimer WTI,H1: removed
+2	07:08:21.060	Custom indicator #Signal_Bars_v6 WTI,H1: removed
+2	07:08:21.061	Custom indicator TrendEnvelopes_v1 WTI,H1: removed
+2	07:08:21.062	Custom indicator guppy_multiple_moving_averages WTI,H1: removed
+2	07:08:21.063	Custom indicator wedges WTI,H1: removed
+2	07:08:21.063	Custom indicator AIMS AO V.2.1 WTI,H1: removed
+2	07:08:21.064	Custom indicator IVT_MACD_ZERO_LAG WTI,H1: removed
+2	07:08:21.066	Custom indicator RSI Divergence Levels WTI,H1: removed
+2	07:08:21.067	Custom indicator JoeChalhoub_FXForecasterV1 WTI,H1: removed
+2	07:08:21.082	Custom indicator AIMS Levels V2 [NQ100],M15: removed
+2	07:08:21.082	Custom indicator AIMS Entry Alert V1 [NQ100],M15: removed
+2	07:08:21.084	Custom indicator CandleTimer [NQ100],M15: removed
+2	07:08:21.084	Custom indicator #Signal_Bars_v6 [NQ100],M15: removed
+2	07:08:21.085	Custom indicator TrendEnvelopes_v1 [NQ100],M15: removed
+2	07:08:21.087	Custom indicator guppy_multiple_moving_averages [NQ100],M15: removed
+2	07:08:21.088	Custom indicator wedges [NQ100],M15: removed
+2	07:08:21.088	Custom indicator AIMS AO V.2.1 [NQ100],M15: removed
+2	07:08:21.090	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M15: removed
+2	07:08:21.091	Custom indicator RSI Divergence Levels [NQ100],M15: removed
+2	07:08:21.093	Custom indicator JoeChalhoub_FXForecasterV1 [NQ100],M15: removed
+2	07:08:21.123	Custom indicator AIMS Levels V2 [SP500],H1: removed
+2	07:08:21.123	Custom indicator AIMS Entry Alert V1 [SP500],H1: removed
+2	07:08:21.124	Custom indicator CandleTimer [SP500],H1: removed
+2	07:08:21.124	Custom indicator #Signal_Bars_v6 [SP500],H1: removed
+2	07:08:21.125	Custom indicator TrendEnvelopes_v1 [SP500],H1: removed
+2	07:08:21.127	Custom indicator guppy_multiple_moving_averages [SP500],H1: removed
+2	07:08:21.128	Custom indicator wedges [SP500],H1: removed
+2	07:08:21.128	Custom indicator AIMS AO V.2.1 [SP500],H1: removed
+2	07:08:21.129	Custom indicator IVT_MACD_ZERO_LAG [SP500],H1: removed
+2	07:08:21.131	Custom indicator RSI Divergence Levels [SP500],H1: removed
+2	07:08:21.132	Custom indicator JoeChalhoub_FXForecasterV1 [SP500],H1: removed
+2	07:08:21.142	Custom indicator AIMS Levels V2 SILVER,H1: removed
+2	07:08:21.142	Custom indicator AIMS Entry Alert V1 SILVER,H1: removed
+2	07:08:21.144	Custom indicator CandleTimer SILVER,H1: removed
+2	07:08:21.144	Custom indicator #Signal_Bars_v6 SILVER,H1: removed
+2	07:08:21.145	Custom indicator TrendEnvelopes_v1 SILVER,H1: removed
+2	07:08:21.146	Custom indicator guppy_multiple_moving_averages SILVER,H1: removed
+2	07:08:21.148	Custom indicator wedges SILVER,H1: removed
+2	07:08:21.148	Custom indicator AIMS AO V.2.1 SILVER,H1: removed
+2	07:08:21.149	Custom indicator IVT_MACD_ZERO_LAG SILVER,H1: removed
+2	07:08:21.151	Custom indicator RSI Divergence Levels SILVER,H1: removed
+2	07:08:21.152	Custom indicator JoeChalhoub_FXForecasterV1 SILVER,H1: removed
+2	07:08:21.250	Custom indicator RSI AUDCHF,Daily: loaded successfully
+2	07:08:21.320	Expert Admiral - Mini Terminal BTCUSD,Daily: loaded successfully
+2	07:23:31.880	Expert Admiral - Mini Terminal BTCUSD,Daily: removed
+2	07:23:31.914	Custom indicator RSI AUDCHF,Daily: removed
+2	07:23:32.023	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	07:23:32.080	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	07:23:32.086	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	07:23:32.143	Custom indicator #Signal_Bars_v6 [DAX30],M1: loaded successfully
+2	07:23:32.148	Custom indicator TrendEnvelopes_v1 [DAX30],M1: loaded successfully
+2	07:23:32.154	Custom indicator guppy_multiple_moving_averages [DAX30],M1: loaded successfully
+2	07:23:32.161	Custom indicator wedges [DAX30],M1: loaded successfully
+2	07:23:32.218	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	07:23:32.225	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: loaded successfully
+2	07:23:32.232	Custom indicator RSI Divergence Levels [DAX30],M1: loaded successfully
+2	07:23:32.239	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: loaded successfully
+2	07:23:32.933	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	07:23:32.992	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	07:23:32.997	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:23:33.054	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	07:23:33.060	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	07:23:33.066	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	07:23:33.073	Custom indicator wedges [DJI30],M1: loaded successfully
+2	07:23:33.129	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	07:23:33.135	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	07:23:33.142	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	07:23:33.149	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	07:23:33.923	Custom indicator AIMS Levels V2 [NQ100],M15: loaded successfully
+2	07:23:33.982	Custom indicator AIMS Entry Alert V1 [NQ100],M15: loaded successfully
+2	07:23:33.987	Custom indicator CandleTimer [NQ100],M15: loaded successfully
+2	07:23:34.043	Custom indicator #Signal_Bars_v6 [NQ100],M15: loaded successfully
+2	07:23:34.049	Custom indicator TrendEnvelopes_v1 [NQ100],M15: loaded successfully
+2	07:23:34.055	Custom indicator guppy_multiple_moving_averages [NQ100],M15: loaded successfully
+2	07:23:34.062	Custom indicator wedges [NQ100],M15: loaded successfully
+2	07:23:34.118	Custom indicator AIMS AO V.2.1 [NQ100],M15: loaded successfully
+2	07:23:34.124	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M15: loaded successfully
+2	07:23:34.131	Custom indicator RSI Divergence Levels [NQ100],M15: loaded successfully
+2	07:23:34.138	Custom indicator JoeChalhoub_FXForecasterV1 [NQ100],M15: loaded successfully
+2	07:23:34.437	Custom indicator AIMS Levels V2 WTI,H1: loaded successfully
+2	07:23:34.497	Custom indicator AIMS Entry Alert V1 WTI,H1: loaded successfully
+2	07:23:34.502	Custom indicator CandleTimer WTI,H1: loaded successfully
+2	07:23:34.558	Custom indicator #Signal_Bars_v6 WTI,H1: loaded successfully
+2	07:23:34.565	Custom indicator TrendEnvelopes_v1 WTI,H1: loaded successfully
+2	07:23:34.571	Custom indicator guppy_multiple_moving_averages WTI,H1: loaded successfully
+2	07:23:34.577	Custom indicator wedges WTI,H1: loaded successfully
+2	07:23:34.635	Custom indicator AIMS AO V.2.1 WTI,H1: loaded successfully
+2	07:23:34.642	Custom indicator IVT_MACD_ZERO_LAG WTI,H1: loaded successfully
+2	07:23:34.649	Custom indicator RSI Divergence Levels WTI,H1: loaded successfully
+2	07:23:34.656	Custom indicator JoeChalhoub_FXForecasterV1 WTI,H1: loaded successfully
+2	07:23:34.933	Custom indicator AIMS Levels V2 SILVER,H1: loaded successfully
+2	07:23:35.008	Custom indicator AIMS Entry Alert V1 SILVER,H1: loaded successfully
+2	07:23:35.015	Custom indicator CandleTimer SILVER,H1: loaded successfully
+2	07:23:35.082	Custom indicator #Signal_Bars_v6 SILVER,H1: loaded successfully
+2	07:23:35.090	Custom indicator TrendEnvelopes_v1 SILVER,H1: loaded successfully
+2	07:23:35.097	Custom indicator guppy_multiple_moving_averages SILVER,H1: loaded successfully
+2	07:23:35.105	Custom indicator wedges SILVER,H1: loaded successfully
+2	07:23:35.174	Custom indicator AIMS AO V.2.1 SILVER,H1: loaded successfully
+2	07:23:35.182	Custom indicator IVT_MACD_ZERO_LAG SILVER,H1: loaded successfully
+2	07:23:35.189	Custom indicator RSI Divergence Levels SILVER,H1: loaded successfully
+2	07:23:35.197	Custom indicator JoeChalhoub_FXForecasterV1 SILVER,H1: loaded successfully
+2	07:23:35.452	Custom indicator AIMS Levels V2 [CAC40],H1: loaded successfully
+2	07:23:35.510	Custom indicator AIMS Entry Alert V1 [CAC40],H1: loaded successfully
+2	07:23:35.516	Custom indicator CandleTimer [CAC40],H1: loaded successfully
+2	07:23:35.571	Custom indicator #Signal_Bars_v6 [CAC40],H1: loaded successfully
+2	07:23:35.577	Custom indicator TrendEnvelopes_v1 [CAC40],H1: loaded successfully
+2	07:23:35.584	Custom indicator guppy_multiple_moving_averages [CAC40],H1: loaded successfully
+2	07:23:35.590	Custom indicator wedges [CAC40],H1: loaded successfully
+2	07:23:35.647	Custom indicator AIMS AO V.2.1 [CAC40],H1: loaded successfully
+2	07:23:35.654	Custom indicator IVT_MACD_ZERO_LAG [CAC40],H1: loaded successfully
+2	07:23:35.661	Custom indicator RSI Divergence Levels [CAC40],H1: loaded successfully
+2	07:23:35.668	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],H1: loaded successfully
+2	07:23:35.898	Custom indicator AIMS Levels V2 [SP500],H1: loaded successfully
+2	07:23:35.956	Custom indicator AIMS Entry Alert V1 [SP500],H1: loaded successfully
+2	07:23:35.962	Custom indicator CandleTimer [SP500],H1: loaded successfully
+2	07:23:36.018	Custom indicator #Signal_Bars_v6 [SP500],H1: loaded successfully
+2	07:23:36.025	Custom indicator TrendEnvelopes_v1 [SP500],H1: loaded successfully
+2	07:23:36.031	Custom indicator guppy_multiple_moving_averages [SP500],H1: loaded successfully
+2	07:23:36.038	Custom indicator wedges [SP500],H1: loaded successfully
+2	07:23:36.094	Custom indicator AIMS AO V.2.1 [SP500],H1: loaded successfully
+2	07:23:36.101	Custom indicator IVT_MACD_ZERO_LAG [SP500],H1: loaded successfully
+2	07:23:36.108	Custom indicator RSI Divergence Levels [SP500],H1: loaded successfully
+2	07:23:36.115	Custom indicator JoeChalhoub_FXForecasterV1 [SP500],H1: loaded successfully
+2	07:23:36.345	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	07:23:36.402	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	07:23:36.408	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	07:23:36.466	Custom indicator #Signal_Bars_v6 GOLD,H1: loaded successfully
+2	07:23:36.473	Custom indicator TrendEnvelopes_v1 GOLD,H1: loaded successfully
+2	07:23:36.479	Custom indicator guppy_multiple_moving_averages GOLD,H1: loaded successfully
+2	07:23:36.485	Custom indicator wedges GOLD,H1: loaded successfully
+2	07:23:36.542	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	07:23:36.549	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	07:23:36.556	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	07:23:36.564	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,H1: loaded successfully
+2	07:23:36.841	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	07:23:36.917	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	07:23:36.923	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	07:23:36.982	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	07:23:36.989	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	07:23:36.995	Custom indicator guppy_multiple_moving_averages EURUSD,H1: loaded successfully
+2	07:23:37.001	Custom indicator wedges EURUSD,H1: loaded successfully
+2	07:23:37.058	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	07:23:37.065	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	07:23:37.072	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	07:23:37.079	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: loaded successfully
+2	07:23:37.327	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	07:23:37.385	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	07:23:37.390	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	07:23:37.448	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	07:23:37.455	Custom indicator TrendEnvelopes_v1 AUDUSD,H1: loaded successfully
+2	07:23:37.461	Custom indicator guppy_multiple_moving_averages AUDUSD,H1: loaded successfully
+2	07:23:37.468	Custom indicator wedges AUDUSD,H1: loaded successfully
+2	07:23:37.525	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	07:23:37.531	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	07:23:37.538	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	07:23:37.545	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,H1: loaded successfully
+0	07:46:29.291	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	07:46:29.884	'27134140': order was opened : #71263521 sell 1.00 [DAX30] at 13270.75 sl: 0.00 tp: 0.00
+0	07:46:30.870	Notifications: 'order opened #71263521 sell 1.00 [DAX30] at 13270.75' sent to 'A37163A9'
+2	07:51:27.146	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	07:51:27.205	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	07:51:27.210	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	07:51:27.268	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	07:51:27.275	Custom indicator TrendEnvelopes_v1 GBPUSD,H1: loaded successfully
+2	07:51:27.282	Custom indicator guppy_multiple_moving_averages GBPUSD,H1: loaded successfully
+2	07:51:27.290	Custom indicator wedges GBPUSD,H1: loaded successfully
+2	07:51:27.350	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	07:51:27.357	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	07:51:27.365	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+2	07:51:27.374	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,H1: loaded successfully
+0	08:17:57.214	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	08:21:00.375	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+2	08:49:48.832	Expert Admiral - Mini Terminal [DAX30],M1: loaded successfully
+0	08:54:01.323	Notifications: 'Classical RSI bearish divergence on:  [DAX30]' sent to 'A37163A9'
+0	08:56:58.282	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	09:05:25.899	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	09:05:26.537	Trades: use hosting service to speed up the execution - 2.49 ms via 'MQL5 London 01 (MQL5.community)' instead of 198.80 ms
+0	09:05:26.537	'27134140': order was opened : #71266504 buy 1.00 [DAX30] at 13303.89 sl: 0.00 tp: 0.00
+0	09:05:27.430	Notifications: 'order opened #71266504 buy 1.00 [DAX30] at 13303.89' sent to 'A37163A9'
+0	09:06:55.645	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	09:07:06.325	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	09:07:07.304	'27134140': order was opened : #71266573 sell 1.00 [DAX30] at 13293.84 sl: 0.00 tp: 0.00
+0	09:07:12.165	Notifications: 'order opened #71266573 sell 1.00 [DAX30] at 13293.84' sent to 'A37163A9'
+0	09:08:16.465	'27134140': close order #71266504 buy 1.00 [DAX30] at 13303.89 sl: 0.00 tp: 0.00 at price 0.00
+0	09:08:17.163	'27134140': order #71266504 buy 1.00 [DAX30] at 13303.89 sl: 0.00 tp: 0.00 closed at price 13289.84
+0	09:08:18.182	Notifications: 'order #71266504 buy 1.00 [DAX30] at 13303.89 closed at price 13289.84, profit: -16.65 USD' sent to 'A37163A9'
+0	09:08:39.444	'27134140': close order #71266573 sell 1.00 [DAX30] at 13293.84 sl: 0.00 tp: 0.00 at price 0.00
+0	09:08:40.967	'27134140': order #71266573 sell 1.00 [DAX30] at 13293.84 sl: 0.00 tp: 0.00 closed at price 13293.14
+0	09:08:41.983	Notifications: 'order #71266573 sell 1.00 [DAX30] at 13293.84 closed at price 13293.14, profit: 0.83 USD' sent to 'A37163A9'
+0	09:09:12.720	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	09:09:13.371	'27134140': order was opened : #71266645 sell 1.00 [DAX30] at 13291.34 sl: 0.00 tp: 0.00
+0	09:09:14.759	Notifications: 'order opened #71266645 sell 1.00 [DAX30] at 13291.34' sent to 'A37163A9'
+0	09:11:26.798	'27134140': close order #71266645 sell 1.00 [DAX30] at 13291.34 sl: 0.00 tp: 0.00 at price 0.00
+0	09:11:28.097	'27134140': order #71266645 sell 1.00 [DAX30] at 13291.34 sl: 0.00 tp: 0.00 closed at price 13291.64
+0	09:11:30.722	Notifications: 'order #71266645 sell 1.00 [DAX30] at 13291.34 closed at price 13291.64, profit: -0.36 USD' sent to 'A37163A9'
+0	09:23:57.185	Notifications: 'Classical RSI bullish divergence on:  AUDUSD' sent to 'A37163A9'
+0	09:47:57.116	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	09:47:57.869	'27134140': order was opened : #71267890 buy 1.00 [DAX30] at 13303.63 sl: 0.00 tp: 0.00
+0	09:47:58.779	Notifications: 'order opened #71267890 buy 1.00 [DAX30] at 13303.63' sent to 'A37163A9'
+0	09:49:02.936	'27134140': close order #71267890 buy 1.00 [DAX30] at 13303.63 sl: 0.00 tp: 0.00 at price 0.00
+0	09:49:03.537	'27134140': order #71267890 buy 1.00 [DAX30] at 13303.63 sl: 0.00 tp: 0.00 closed at price 13313.08
+0	09:49:04.531	Notifications: 'order #71267890 buy 1.00 [DAX30] at 13303.63 closed at price 13313.08, profit: 11.20 USD' sent to 'A37163A9'
+0	09:58:56.813	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+0	09:58:58.343	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	09:59:56.857	Notifications: 'Classical RSI bearish divergence on:  [DAX30]' sent to 'A37163A9'
+0	10:02:09.840	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	10:02:10.512	'27134140': order was opened : #71268674 buy 1.00 [DAX30] at 13330.63 sl: 0.00 tp: 0.00
+0	10:02:12.681	Notifications: 'order opened #71268674 buy 1.00 [DAX30] at 13330.63' sent to 'A37163A9'
+0	10:02:55.641	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+0	10:03:56.502	Notifications: 'Classical RSI bearish divergence on:  [DAX30]' sent to 'A37163A9'
+0	10:07:19.574	'27134140': close order #71268674 buy 1.00 [DAX30] at 13330.63 sl: 0.00 tp: 0.00 at price 0.00
+0	10:07:20.543	'27134140': order #71268674 buy 1.00 [DAX30] at 13330.63 sl: 0.00 tp: 0.00 closed at price 13333.29
+0	10:07:21.399	Notifications: 'order #71268674 buy 1.00 [DAX30] at 13330.63 closed at price 13333.29, profit: 3.15 USD' sent to 'A37163A9'
+0	10:07:55.475	Notifications: 'Classical RSI bearish divergence on:  [DAX30]' sent to 'A37163A9'
+0	10:08:55.398	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+2	10:24:22.175	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	10:24:22.240	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	10:24:22.247	Custom indicator CandleTimer GBPJPY,H1: loaded successfully
+2	10:24:22.404	Custom indicator #Signal_Bars_v6 GBPJPY,H1: loaded successfully
+2	10:24:22.463	Custom indicator TrendEnvelopes_v1 GBPJPY,H1: loaded successfully
+2	10:24:22.471	Custom indicator guppy_multiple_moving_averages GBPJPY,H1: loaded successfully
+2	10:24:22.480	Custom indicator wedges GBPJPY,H1: loaded successfully
+2	10:24:22.618	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	10:24:22.627	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	10:24:22.649	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	10:24:22.660	Custom indicator JoeChalhoub_FXForecasterV1 GBPJPY,H1: loaded successfully
+0	10:33:19.502	'27134140': close order #71263521 sell 1.00 [DAX30] at 13270.75 sl: 0.00 tp: 0.00 at price 0.00
+0	10:33:20.275	'27134140': order #71263521 sell 1.00 [DAX30] at 13270.75 sl: 0.00 tp: 0.00 closed at price 13267.37
+0	10:33:21.210	Notifications: 'order #71263521 sell 1.00 [DAX30] at 13270.75 closed at price 13267.37, profit: 4.01 USD' sent to 'A37163A9'
+0	10:43:02.133	Notifications: 'Classical RSI bullish divergence on:  [DAX30]' sent to 'A37163A9'
+2	10:56:49.758	Expert Admiral - Mini Terminal [DAX30],M1: removed
+2	10:58:05.561	Expert Admiral - Mini Terminal GBPJPY,M15: loaded successfully
+0	11:09:56.867	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:09:57.435	'27134140': order was opened : #71273907 sell 1.00 [DAX30] at 13265.99 sl: 0.00 tp: 0.00
+0	11:09:58.425	Notifications: 'order opened #71273907 sell 1.00 [DAX30] at 13265.99' sent to 'A37163A9'
+0	11:20:22.459	'27134140': close order #71273907 sell 1.00 [DAX30] at 13265.99 sl: 0.00 tp: 0.00 at price 0.00
+0	11:20:23.408	'27134140': order #71273907 sell 1.00 [DAX30] at 13265.99 sl: 0.00 tp: 0.00 closed at price 13247.21
+0	11:20:25.334	Notifications: 'order #71273907 sell 1.00 [DAX30] at 13265.99 closed at price 13247.21, profit: 22.29 USD' sent to 'A37163A9'
+0	11:21:14.308	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:21:14.920	'27134140': order was opened : #71274627 sell 1.00 [DAX30] at 13255.10 sl: 0.00 tp: 0.00
+0	11:21:15.969	Notifications: 'order opened #71274627 sell 1.00 [DAX30] at 13255.10' sent to 'A37163A9'
+0	11:24:17.599	'27134140': close order #71274627 sell 1.00 [DAX30] at 13255.10 sl: 0.00 tp: 0.00 at price 0.00
+0	11:24:18.429	'27134140': order #71274627 sell 1.00 [DAX30] at 13255.10 sl: 0.00 tp: 0.00 closed at price 13241.29
+0	11:24:19.437	Notifications: 'order #71274627 sell 1.00 [DAX30] at 13255.10 closed at price 13241.29, profit: 16.38 USD' sent to 'A37163A9'
+0	11:25:56.354	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+0	11:29:55.196	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	11:33:55.772	Notifications: 'Classical RSI bullish divergence on:  AUDUSD' sent to 'A37163A9'
+0	11:39:56.062	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	11:40:02.382	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:40:03.532	'27134140': order was opened : #71276779 buy 1.00 [DAX30] at 13233.79 sl: 0.00 tp: 0.00
+0	11:40:06.859	Notifications: 'order opened #71276779 buy 1.00 [DAX30] at 13233.79' sent to 'A37163A9'
+0	11:43:55.844	Notifications: 'Classical RSI bullish divergence on:  AUDUSD' sent to 'A37163A9'
+0	11:43:58.417	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	11:46:56.139	Notifications: 'Classical RSI bullish divergence on:  AUDUSD' sent to 'A37163A9'
+0	11:52:26.260	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:52:26.873	'27134140': order was opened : #71277433 sell 1.00 [DAX30] at 13223.68 sl: 0.00 tp: 0.00
+0	11:52:27.751	Notifications: 'order opened #71277433 sell 1.00 [DAX30] at 13223.68' sent to 'A37163A9'
+0	11:54:40.198	'27134140': close order #71277433 sell 1.00 [DAX30] at 13223.68 sl: 0.00 tp: 0.00 at price 0.00
+0	11:54:40.809	'27134140': order #71277433 sell 1.00 [DAX30] at 13223.68 sl: 0.00 tp: 0.00 closed at price 13224.77
+0	11:54:41.741	Notifications: 'order #71277433 sell 1.00 [DAX30] at 13223.68 closed at price 13224.77, profit: -1.29 USD' sent to 'A37163A9'
+0	11:55:57.597	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	11:55:58.272	'27134140': order was opened : #71277607 sell 1.00 [DAX30] at 13216.98 sl: 0.00 tp: 0.00
+0	11:55:59.340	Notifications: 'order opened #71277607 sell 1.00 [DAX30] at 13216.98' sent to 'A37163A9'
+0	11:56:59.405	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	12:00:06.016	'27134140': close order #71277607 sell 1.00 [DAX30] at 13216.98 sl: 0.00 tp: 0.00 at price 0.00
+0	12:00:06.687	'27134140': order #71277607 sell 1.00 [DAX30] at 13216.98 sl: 0.00 tp: 0.00 closed at price 13216.30
+0	12:00:07.637	Notifications: 'order #71277607 sell 1.00 [DAX30] at 13216.98 closed at price 13216.30, profit: 0.81 USD' sent to 'A37163A9'
+0	12:02:56.537	Notifications: 'Classical RSI bullish divergence on:  [DAX30]' sent to 'A37163A9'
+0	12:03:13.844	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	12:03:14.527	'27134140': order was opened : #71278072 buy 1.00 [DAX30] at 13227.84 sl: 0.00 tp: 0.00
+0	12:03:15.516	Notifications: 'order opened #71278072 buy 1.00 [DAX30] at 13227.84' sent to 'A37163A9'
+0	12:04:21.250	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+0	12:13:04.185	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	12:13:04.874	'27134140': order was opened : #71278571 sell 1.00 [DAX30] at 13211.37 sl: 0.00 tp: 0.00
+0	12:13:08.329	Notifications: 'order opened #71278571 sell 1.00 [DAX30] at 13211.37' sent to 'A37163A9'
+0	12:13:16.770	'27134140': close order #71278072 buy 1.00 [DAX30] at 13227.84 sl: 0.00 tp: 0.00 at price 0.00
+0	12:13:17.426	'27134140': order #71278072 buy 1.00 [DAX30] at 13227.84 sl: 0.00 tp: 0.00 closed at price 13210.14
+0	12:13:18.340	Notifications: 'order #71278072 buy 1.00 [DAX30] at 13227.84 closed at price 13210.14, profit: -20.99 USD' sent to 'A37163A9'
+0	12:13:50.828	'27134140': close order #71278571 sell 1.00 [DAX30] at 13211.37 sl: 0.00 tp: 0.00 at price 0.00
+0	12:13:51.516	'27134140': order #71278571 sell 1.00 [DAX30] at 13211.37 sl: 0.00 tp: 0.00 closed at price 13209.72
+0	12:13:52.524	Notifications: 'order #71278571 sell 1.00 [DAX30] at 13211.37 closed at price 13209.72, profit: 1.96 USD' sent to 'A37163A9'
+0	12:16:00.749	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+2	12:16:22.761	Custom indicator AIMS Levels V2 EURUSD,M5: loaded successfully
+2	12:16:22.861	Custom indicator AIMS Entry Alert V1 EURUSD,M5: loaded successfully
+2	12:16:22.868	Custom indicator CandleTimer EURUSD,M5: loaded successfully
+2	12:16:22.948	Custom indicator #Signal_Bars_v6 EURUSD,M5: loaded successfully
+2	12:16:23.027	Custom indicator TrendEnvelopes_v1 EURUSD,M5: loaded successfully
+2	12:16:23.036	Custom indicator guppy_multiple_moving_averages EURUSD,M5: loaded successfully
+2	12:16:23.046	Custom indicator wedges EURUSD,M5: loaded successfully
+2	12:16:23.126	Custom indicator AIMS AO V.2.1 EURUSD,M5: loaded successfully
+2	12:16:23.136	Custom indicator IVT_MACD_ZERO_LAG EURUSD,M5: loaded successfully
+2	12:16:23.146	Custom indicator RSI Divergence Levels EURUSD,M5: loaded successfully
+2	12:16:23.191	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,M5: loaded successfully
+0	12:19:16.232	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+0	12:47:17.870	Notifications: 'Classical RSI bullish divergence on:  [DAX30]' sent to 'A37163A9'
+0	12:49:27.012	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	12:49:27.698	'27134140': order was opened : #71281696 buy 1.00 [DAX30] at 13191.38 sl: 0.00 tp: 0.00
+0	12:49:28.679	Notifications: 'order opened #71281696 buy 1.00 [DAX30] at 13191.38' sent to 'A37163A9'
+0	12:53:55.112	Notifications: 'Classical RSI bullish divergence on:  AUDUSD' sent to 'A37163A9'
+2	13:22:03.084	Custom indicator AIMS Levels V2 AUDNZD,H1: loaded successfully
+2	13:22:03.164	Custom indicator AIMS Entry Alert V1 AUDNZD,H1: loaded successfully
+2	13:22:03.205	Custom indicator CandleTimer AUDNZD,H1: loaded successfully
+2	13:22:03.279	Custom indicator #Signal_Bars_v6 AUDNZD,H1: loaded successfully
+2	13:22:03.302	Custom indicator TrendEnvelopes_v1 AUDNZD,H1: loaded successfully
+2	13:22:03.372	Custom indicator guppy_multiple_moving_averages AUDNZD,H1: loaded successfully
+2	13:22:03.381	Custom indicator wedges AUDNZD,H1: loaded successfully
+2	13:22:03.455	Custom indicator AIMS AO V.2.1 AUDNZD,H1: loaded successfully
+2	13:22:03.464	Custom indicator IVT_MACD_ZERO_LAG AUDNZD,H1: loaded successfully
+2	13:22:03.485	Custom indicator RSI Divergence Levels AUDNZD,H1: loaded successfully
+2	13:22:03.523	Custom indicator JoeChalhoub_FXForecasterV1 AUDNZD,H1: loaded successfully
+0	13:22:16.435	'27134140': order sell market 0.10 AUDNZD sl: 0.00000 tp: 0.00000
+0	13:22:16.892	'27134140': order was opened : #71283472 sell 0.10 AUDNZD at 1.08610 sl: 0.00000 tp: 0.00000
+0	13:22:17.902	Notifications: 'order opened #71283472 sell 0.10 AUDNZD at 1.08610' sent to 'A37163A9'
+0	13:22:43.418	'27134140': modify order #71283472 sell 0.10 AUDNZD at 1.08610 sl: 0.00000 tp: 0.00000 -> sl: 1.08866 tp: 1.08235
+0	13:22:43.719	'27134140': order #71283472 sell 0.10 AUDNZD at 1.08610 was modified -> sl: 1.08866 tp: 1.08235
+0	13:22:45.379	Notifications: 'order #71283472 sell 0.10 AUDNZD at 1.08610 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.08866 tp: 1.08235' sent to 'A37163A9'
+0	13:51:55.512	Notifications: 'Classical RSI bearish divergence on:  AUDUSD' sent to 'A37163A9'
+0	13:51:57.724	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	14:01:23.663	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	14:01:24.245	'27134140': order was opened : #71285496 buy 1.00 [DAX30] at 13201.33 sl: 0.00 tp: 0.00
+0	14:01:26.549	Notifications: 'order opened #71285496 buy 1.00 [DAX30] at 13201.33' sent to 'A37163A9'
+0	14:02:27.785	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	14:04:58.542	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	14:14:55.174	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+0	14:20:32.122	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	14:20:35.329	'27134140': order was opened : #71286347 sell 1.00 [DAX30] at 13178.88 sl: 0.00 tp: 0.00
+0	14:21:00.834	'27134140': close order #71286347 sell 1.00 [DAX30] at 13178.88 sl: 0.00 tp: 0.00 at price 0.00
+1	14:21:09.568	Notifications: failed send request [0] send request failed [12030]
+1	14:21:09.568	Notifications: 'order opened #71286347 sell 1.00 [DAX30] at 13178.88' not sent to 'A37163A9'
+0	14:21:27.491	'27134140': order #71286347 sell 1.00 [DAX30] at 13178.88 sl: 0.00 tp: 0.00 closed at price 13185.40
+0	14:21:29.804	Notifications: 'order opened #71286347 sell 1.00 [DAX30] at 13178.88' sent to 'A37163A9'
+0	14:21:30.886	Notifications: 'order #71286347 sell 1.00 [DAX30] at 13178.88 closed at price 13185.40, profit: -7.74 USD' sent to 'A37163A9'
+0	14:27:06.297	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	14:31:08.218	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	14:31:08.755	'27134140': order was opened : #71286894 sell 1.00 [DAX30] at 13185.11 sl: 0.00 tp: 0.00
+0	14:31:09.685	Notifications: 'order opened #71286894 sell 1.00 [DAX30] at 13185.11' sent to 'A37163A9'
+0	14:33:00.833	'27134140': close order #71286894 sell 1.00 [DAX30] at 13185.11 sl: 0.00 tp: 0.00 at price 0.00
+0	14:33:01.487	'27134140': order #71286894 sell 1.00 [DAX30] at 13185.11 sl: 0.00 tp: 0.00 closed at price 13195.27
+0	14:33:02.485	Notifications: 'order #71286894 sell 1.00 [DAX30] at 13185.11 closed at price 13195.27, profit: -12.06 USD' sent to 'A37163A9'
+2	14:46:44.676	Custom indicator AIMS Levels V2 AUDCAD,H1: loaded successfully
+2	14:46:44.747	Custom indicator AIMS Entry Alert V1 AUDCAD,H1: loaded successfully
+2	14:46:44.849	Custom indicator CandleTimer AUDCAD,H1: loaded successfully
+2	14:46:44.958	Custom indicator #Signal_Bars_v6 AUDCAD,H1: loaded successfully
+2	14:46:44.967	Custom indicator TrendEnvelopes_v1 AUDCAD,H1: loaded successfully
+2	14:46:44.976	Custom indicator guppy_multiple_moving_averages AUDCAD,H1: loaded successfully
+2	14:46:45.009	Custom indicator wedges AUDCAD,H1: loaded successfully
+2	14:46:45.107	Custom indicator AIMS AO V.2.1 AUDCAD,H1: loaded successfully
+2	14:46:45.130	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,H1: loaded successfully
+2	14:46:45.179	Custom indicator RSI Divergence Levels AUDCAD,H1: loaded successfully
+2	14:46:45.265	Custom indicator JoeChalhoub_FXForecasterV1 AUDCAD,H1: loaded successfully
+0	14:47:04.357	'27134140': order sell market 0.10 AUDCAD sl: 0.00000 tp: 0.00000
+0	14:47:05.127	'27134140': order was opened : #71287566 sell 0.10 AUDCAD at 0.95759 sl: 0.00000 tp: 0.00000
+0	14:47:06.061	Notifications: 'order opened #71287566 sell 0.10 AUDCAD at 0.95759' sent to 'A37163A9'
+0	14:47:32.366	'27134140': modify order #71287566 sell 0.10 AUDCAD at 0.95759 sl: 0.00000 tp: 0.00000 -> sl: 0.95908 tp: 0.95166
+0	14:47:32.661	'27134140': order #71287566 sell 0.10 AUDCAD at 0.95759 was modified -> sl: 0.95908 tp: 0.95166
+0	14:47:33.709	Notifications: 'order #71287566 sell 0.10 AUDCAD at 0.95759 modified: sl: 0.00000 tp: 0.00000 -> sl: 0.95908 tp: 0.95166' sent to 'A37163A9'
+2	14:52:15.048	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	14:52:15.113	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	14:52:15.121	Custom indicator CandleTimer [DAX30],M1: removed
+2	14:52:15.139	Custom indicator #Signal_Bars_v6 [DAX30],M1: removed
+2	14:52:15.169	Custom indicator TrendEnvelopes_v1 [DAX30],M1: removed
+2	14:52:15.200	Custom indicator guppy_multiple_moving_averages [DAX30],M1: removed
+2	14:52:15.250	Custom indicator wedges [DAX30],M1: removed
+2	14:52:15.268	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	14:52:15.294	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: removed
+2	14:52:15.343	Custom indicator RSI Divergence Levels [DAX30],M1: removed
+2	14:52:15.373	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: removed
+2	14:52:15.467	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	14:52:26.018	Custom indicator CandleTimer [DAX30],M1: removed
+2	14:52:26.150	Custom indicator #P4L CandleTime [DAX30],M1: loaded successfully
+2	14:52:26.169	Custom indicator #VISUAL ORDERS [DAX30],M1: loaded successfully
+2	14:52:26.176	Custom indicator GG-TrendBar [DAX30],M1: loaded successfully
+2	14:52:26.191	Custom indicator HighLight_Pins [DAX30],M1: loaded successfully
+2	14:52:26.198	Custom indicator 7-21-55-h2 [DAX30],M1: loaded successfully
+2	14:52:26.309	Custom indicator zigzagtriad-mtf+alerts [DAX30],M1: loaded successfully
+2	14:52:26.316	Custom indicator SHI-SIGNAL [DAX30],M1: loaded successfully
+2	14:52:26.323	Custom indicator T3_08_2Color [DAX30],M1: loaded successfully
+2	14:52:26.331	Custom indicator #LURCH_SRv5 [DAX30],M1: loaded successfully
+2	14:52:26.339	Custom indicator Semafor+123Triangles [DAX30],M1: loaded successfully
+2	14:52:26.401	Custom indicator TrendLineChannel WC_NLR [DAX30],M1: loaded successfully
+2	14:52:26.468	Custom indicator #4X 2011 XARD GOLDBANDS 2B [DAX30],M1: loaded successfully
+2	14:52:26.537	Custom indicator #4X 2011 XARD GOLDBANDS 2B [DAX30],M1: loaded successfully
+2	14:52:26.606	Custom indicator Trend Signal [DAX30],M1: loaded successfully
+2	14:52:26.642	Custom indicator CCI_NUF_v4 mod~ [DAX30],M1: loaded successfully
+2	14:52:26.649	Custom indicator SFET_V_PODVALE [DAX30],M1: loaded successfully
+2	14:52:26.720	Custom indicator ProfitableStrategy_1 [DAX30],M1: loaded successfully
+2	14:52:58.498	Custom indicator #P4L CandleTime [DAX30],M1: removed
+2	14:52:58.499	Custom indicator #VISUAL ORDERS [DAX30],M1: removed
+2	14:52:58.500	Custom indicator GG-TrendBar [DAX30],M1: removed
+2	14:52:58.502	Custom indicator HighLight_Pins [DAX30],M1: removed
+2	14:52:58.503	Custom indicator 7-21-55-h2 [DAX30],M1: removed
+2	14:52:58.503	Custom indicator zigzagtriad-mtf+alerts [DAX30],M1: removed
+2	14:52:58.504	Custom indicator SHI-SIGNAL [DAX30],M1: removed
+2	14:52:58.506	Custom indicator T3_08_2Color [DAX30],M1: removed
+2	14:52:58.508	Custom indicator #LURCH_SRv5 [DAX30],M1: removed
+2	14:52:58.510	Custom indicator Semafor+123Triangles [DAX30],M1: removed
+2	14:52:58.510	Custom indicator TrendLineChannel WC_NLR [DAX30],M1: removed
+2	14:52:58.510	Custom indicator #4X 2011 XARD GOLDBANDS 2B [DAX30],M1: removed
+2	14:52:58.510	Custom indicator #4X 2011 XARD GOLDBANDS 2B [DAX30],M1: removed
+2	14:52:58.510	Custom indicator Trend Signal [DAX30],M1: removed
+2	14:52:58.512	Custom indicator CCI_NUF_v4 mod~ [DAX30],M1: removed
+2	14:52:58.516	Custom indicator SFET_V_PODVALE [DAX30],M1: removed
+2	14:52:58.517	Custom indicator ProfitableStrategy_1 [DAX30],M1: removed
+2	14:52:58.589	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	14:52:58.658	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	14:52:58.665	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	14:52:58.733	Custom indicator #Signal_Bars_v6 [DAX30],M1: loaded successfully
+2	14:52:58.741	Custom indicator TrendEnvelopes_v1 [DAX30],M1: loaded successfully
+2	14:52:58.748	Custom indicator guppy_multiple_moving_averages [DAX30],M1: loaded successfully
+2	14:52:58.757	Custom indicator wedges [DAX30],M1: loaded successfully
+2	14:52:58.826	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	14:52:58.835	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: loaded successfully
+2	14:52:58.844	Custom indicator RSI Divergence Levels [DAX30],M1: loaded successfully
+2	14:52:58.856	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: loaded successfully
+0	15:09:00.659	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:09:01.317	'27134140': order was opened : #71288552 sell 1.00 [DAX30] at 13184.55 sl: 0.00 tp: 0.00
+0	15:09:02.498	Notifications: 'order opened #71288552 sell 1.00 [DAX30] at 13184.55' sent to 'A37163A9'
+0	15:10:12.146	'27134140': close order #71288552 sell 1.00 [DAX30] at 13184.55 sl: 0.00 tp: 0.00 at price 0.00
+0	15:10:12.697	'27134140': order #71288552 sell 1.00 [DAX30] at 13184.55 sl: 0.00 tp: 0.00 closed at price 13189.84
+0	15:10:13.573	Notifications: 'order #71288552 sell 1.00 [DAX30] at 13184.55 closed at price 13189.84, profit: -6.28 USD' sent to 'A37163A9'
+0	15:18:02.135	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+0	15:23:58.765	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+0	15:29:54.924	Notifications: 'Classical RSI bearish divergence on:  GBPUSD' sent to 'A37163A9'
+0	15:35:59.879	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+2	15:41:31.810	Expert Admiral - Mini Terminal [DAX30],M1: loaded successfully
+0	15:41:53.369	'27134140': close order #71281696 buy 1.00 [DAX30] at 13191.38 sl: 0.00 tp: 0.00 at price 0.00
+0	15:41:53.936	'27134140': order #71281696 buy 1.00 [DAX30] at 13191.38 sl: 0.00 tp: 0.00 closed at price 13213.36
+0	15:41:54.807	Notifications: 'order #71281696 buy 1.00 [DAX30] at 13191.38 closed at price 13213.36, profit: 26.10 USD' sent to 'A37163A9'
+0	15:41:56.173	'27134140': close order #71285496 buy 1.00 [DAX30] at 13201.33 sl: 0.00 tp: 0.00 at price 0.00
+0	15:41:57.677	'27134140': order #71285496 buy 1.00 [DAX30] at 13201.33 sl: 0.00 tp: 0.00 closed at price 13212.87
+0	15:41:58.542	Notifications: 'order #71285496 buy 1.00 [DAX30] at 13201.33 closed at price 13212.87, profit: 13.70 USD' sent to 'A37163A9'
+2	15:42:50.506	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	15:42:50.661	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	15:42:50.669	Custom indicator CandleTimer GBPNZD,H1: loaded successfully
+2	15:42:50.738	Custom indicator #Signal_Bars_v6 GBPNZD,H1: loaded successfully
+2	15:42:50.747	Custom indicator TrendEnvelopes_v1 GBPNZD,H1: loaded successfully
+2	15:42:50.845	Custom indicator guppy_multiple_moving_averages GBPNZD,H1: loaded successfully
+2	15:42:50.868	Custom indicator wedges GBPNZD,H1: loaded successfully
+2	15:42:50.971	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	15:42:50.982	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	15:42:51.003	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+2	15:42:51.014	Custom indicator JoeChalhoub_FXForecasterV1 GBPNZD,H1: loaded successfully
+0	15:42:55.524	Notifications: 'Classical RSI bearish divergence on:  [DAX30]' sent to 'A37163A9'
+0	15:53:05.487	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	15:53:06.007	'27134140': order was opened : #71290833 sell 1.00 [DAX30] at 13205.38 sl: 0.00 tp: 0.00
+0	15:53:06.935	Notifications: 'order opened #71290833 sell 1.00 [DAX30] at 13205.38' sent to 'A37163A9'
+0	16:00:07.367	'27134140': close order #71290833 sell 1.00 [DAX30] at 13205.38 sl: 0.00 tp: 0.00 at price 0.00
+0	16:00:07.929	'27134140': order #71290833 sell 1.00 [DAX30] at 13205.38 sl: 0.00 tp: 0.00 closed at price 13218.80
+0	16:00:07.929	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:00:08.538	'27134140': order was opened : #71291369 buy 1.00 [DAX30] at 13219.55 sl: 0.00 tp: 0.00
+0	16:00:08.829	Notifications: 'order #71290833 sell 1.00 [DAX30] at 13205.38 closed at price 13218.80, profit: -15.94 USD' sent to 'A37163A9'
+0	16:00:10.595	Notifications: 'order opened #71291369 buy 1.00 [DAX30] at 13219.55' sent to 'A37163A9'
+0	16:02:59.228	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:02:59.832	'27134140': order was opened : #71291609 sell 1.00 [DAX30] at 13203.40 sl: 0.00 tp: 0.00
+0	16:03:00.685	Notifications: 'order opened #71291609 sell 1.00 [DAX30] at 13203.40' sent to 'A37163A9'
+0	16:04:46.695	'27134140': close order #71291609 sell 1.00 [DAX30] at 13203.40 sl: 0.00 tp: 0.00 at price 0.00
+0	16:04:47.394	'27134140': order #71291609 sell 1.00 [DAX30] at 13203.40 sl: 0.00 tp: 0.00 closed at price 13202.15
+0	16:04:48.396	Notifications: 'order #71291609 sell 1.00 [DAX30] at 13203.40 closed at price 13202.15, profit: 1.49 USD' sent to 'A37163A9'
+0	16:06:47.721	'27134140': order #71287566 sell 0.10 AUDCAD at 0.95759 closed due stop-loss at price 0.95911
+0	16:06:49.484	Notifications: 'order #71287566 sell 0.10 AUDCAD at 0.95759 closed due stop-loss at price 0.95911, profit: -11.55 USD' sent to 'A37163A9'
+0	16:08:27.487	'27134140': order buy market 0.08 GOLD sl: 0.000 tp: 0.000
+0	16:08:27.955	'27134140': order was opened : #71292062 buy 0.08 GOLD at 1957.010 sl: 0.000 tp: 0.000
+0	16:08:28.793	Notifications: 'order opened #71292062 buy 0.08 GOLD at 1957.010' sent to 'A37163A9'
+0	16:09:10.261	'27134140': modify order #71292062 buy 0.08 GOLD at 1957.010 sl: 0.000 tp: 0.000 -> sl: 1939.700 tp: 1999.700
+0	16:09:10.617	'27134140': order #71292062 buy 0.08 GOLD at 1957.010 was modified -> sl: 1939.700 tp: 1999.700
+0	16:09:11.538	Notifications: 'order #71292062 buy 0.08 GOLD at 1957.010 modified: sl: 0.000 tp: 0.000 -> sl: 1939.700 tp: 1999.700' sent to 'A37163A9'
+0	16:11:22.472	'27134140': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	16:11:22.948	'27134140': order was opened : #71292247 buy 0.10 EURUSD at 1.18853 sl: 0.00000 tp: 0.00000
+0	16:11:23.887	Notifications: 'order opened #71292247 buy 0.10 EURUSD at 1.18853' sent to 'A37163A9'
+0	16:11:48.465	'27134140': modify order #71292247 buy 0.10 EURUSD at 1.18853 sl: 0.00000 tp: 0.00000 -> sl: 1.18426 tp: 1.19301
+0	16:11:50.851	'27134140': order #71292247 buy 0.10 EURUSD at 1.18853 was modified -> sl: 1.18426 tp: 1.19301
+0	16:11:54.904	Notifications: 'order #71292247 buy 0.10 EURUSD at 1.18853 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.18426 tp: 1.19301' sent to 'A37163A9'
+0	16:13:41.157	'27134140': order buy market 0.10 GBPUSD sl: 0.00000 tp: 0.00000
+0	16:13:41.597	'27134140': order was opened : #71292349 buy 0.10 GBPUSD at 1.29001 sl: 0.00000 tp: 0.00000
+0	16:13:42.430	Notifications: 'order opened #71292349 buy 0.10 GBPUSD at 1.29001' sent to 'A37163A9'
+0	16:14:18.809	'27134140': order buy market 0.10 GBPJPY sl: 0.000 tp: 0.000
+0	16:14:19.275	'27134140': order was opened : #71292375 buy 0.10 GBPJPY at 136.569 sl: 0.000 tp: 0.000
+0	16:14:20.217	Notifications: 'order opened #71292375 buy 0.10 GBPJPY at 136.569' sent to 'A37163A9'
+2	16:14:43.620	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	16:14:43.697	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	16:14:43.739	Custom indicator CandleTimer GBPAUD,H1: loaded successfully
+2	16:14:43.834	Custom indicator #Signal_Bars_v6 GBPAUD,H1: loaded successfully
+2	16:14:43.846	Custom indicator TrendEnvelopes_v1 GBPAUD,H1: loaded successfully
+2	16:14:43.881	Custom indicator guppy_multiple_moving_averages GBPAUD,H1: loaded successfully
+2	16:14:43.903	Custom indicator wedges GBPAUD,H1: loaded successfully
+2	16:14:43.974	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+2	16:14:43.983	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H1: loaded successfully
+2	16:14:43.995	Custom indicator RSI Divergence Levels GBPAUD,H1: loaded successfully
+2	16:14:44.036	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,H1: loaded successfully
+0	16:15:00.469	'27134140': order buy market 0.10 GBPAUD sl: 0.00000 tp: 0.00000
+0	16:15:00.910	'27134140': order was opened : #71292428 buy 0.10 GBPAUD at 1.77078 sl: 0.00000 tp: 0.00000
+0	16:15:01.939	Notifications: 'order opened #71292428 buy 0.10 GBPAUD at 1.77078' sent to 'A37163A9'
+2	16:18:37.094	Custom indicator AIMS Levels V2 GBPCHF,H1: loaded successfully
+2	16:18:37.173	Custom indicator AIMS Entry Alert V1 GBPCHF,H1: loaded successfully
+2	16:18:37.181	Custom indicator CandleTimer GBPCHF,H1: loaded successfully
+2	16:18:37.332	Custom indicator #Signal_Bars_v6 GBPCHF,H1: loaded successfully
+2	16:18:37.341	Custom indicator TrendEnvelopes_v1 GBPCHF,H1: loaded successfully
+2	16:18:37.349	Custom indicator guppy_multiple_moving_averages GBPCHF,H1: loaded successfully
+2	16:18:37.357	Custom indicator wedges GBPCHF,H1: loaded successfully
+2	16:18:37.429	Custom indicator AIMS AO V.2.1 GBPCHF,H1: loaded successfully
+2	16:18:37.437	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,H1: loaded successfully
+2	16:18:37.446	Custom indicator RSI Divergence Levels GBPCHF,H1: loaded successfully
+2	16:18:37.477	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,H1: loaded successfully
+0	16:20:55.655	Notifications: 'Classical RSI bearish divergence on:  AUDUSD' sent to 'A37163A9'
+0	16:25:38.288	'27134140': modify order #71292428 buy 0.10 GBPAUD at 1.77078 sl: 0.00000 tp: 0.00000 -> sl: 1.76050 tp: 1.77600
+0	16:25:41.430	'27134140': order #71292428 buy 0.10 GBPAUD at 1.77078 was modified -> sl: 1.76050 tp: 1.77600
+0	16:25:44.517	Notifications: 'order #71292428 buy 0.10 GBPAUD at 1.77078 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.76050 tp: 1.77600' sent to 'A37163A9'
+0	16:31:55.542	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	16:33:54.714	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	16:34:33.026	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:34:34.289	'27134140': order was opened : #71293945 sell 1.00 [DAX30] at 13175.37 sl: 0.00 tp: 0.00
+0	16:34:34.692	Notifications: 'order opened #71293945 sell 1.00 [DAX30] at 13175.37' sent to 'A37163A9'
+0	16:35:12.766	'27134140': close order #71291369 buy 1.00 [DAX30] at 13219.55 sl: 0.00 tp: 0.00 at price 0.00
+0	16:35:13.873	'27134140': order #71291369 buy 1.00 [DAX30] at 13219.55 sl: 0.00 tp: 0.00 closed at price 13165.97
+0	16:35:15.132	Notifications: 'order #71291369 buy 1.00 [DAX30] at 13219.55 closed at price 13165.97, profit: -63.64 USD' sent to 'A37163A9'
+0	16:35:17.338	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:35:18.069	'27134140': order was opened : #71294096 sell 1.00 [DAX30] at 13166.49 sl: 0.00 tp: 0.00
+0	16:35:19.048	Notifications: 'order opened #71294096 sell 1.00 [DAX30] at 13166.49' sent to 'A37163A9'
+0	16:35:55.085	'27134140': close order #71293945 sell 1.00 [DAX30] at 13175.37 sl: 0.00 tp: 0.00 at price 0.00
+0	16:35:55.692	'27134140': order #71293945 sell 1.00 [DAX30] at 13175.37 sl: 0.00 tp: 0.00 closed at price 13159.34
+0	16:35:56.526	Notifications: 'order #71293945 sell 1.00 [DAX30] at 13175.37 closed at price 13159.34, profit: 19.04 USD' sent to 'A37163A9'
+0	16:36:02.750	'27134140': close order #71294096 sell 1.00 [DAX30] at 13166.49 sl: 0.00 tp: 0.00 at price 0.00
+0	16:36:03.470	'27134140': order #71294096 sell 1.00 [DAX30] at 13166.49 sl: 0.00 tp: 0.00 closed at price 13160.36
+0	16:36:05.222	Notifications: 'order #71294096 sell 1.00 [DAX30] at 13166.49 closed at price 13160.36, profit: 7.28 USD' sent to 'A37163A9'
+0	16:41:56.452	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	16:42:14.257	'27134140': order buy market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	16:42:14.917	'27134140': order was opened : #71295168 buy 1.00 [DAX30] at 13182.41 sl: 0.00 tp: 0.00
+0	16:42:15.967	Notifications: 'order opened #71295168 buy 1.00 [DAX30] at 13182.41' sent to 'A37163A9'
+0	16:43:57.430	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	16:45:19.954	'27134140': order buy market 0.50 [NQ100] sl: 0.00 tp: 0.00
+0	16:45:20.387	'27134140': order was opened : #71295497 buy 0.50 [NQ100] at 11289.94 sl: 0.00 tp: 0.00
+0	16:45:21.249	Notifications: 'order opened #71295497 buy 0.50 [NQ100] at 11289.94' sent to 'A37163A9'
+0	16:47:14.590	'27134140': modify order #71292375 buy 0.10 GBPJPY at 136.569 sl: 0.000 tp: 0.000 -> sl: 135.734 tp: 137.391
+0	16:47:14.892	'27134140': order #71292375 buy 0.10 GBPJPY at 136.569 was modified -> sl: 135.734 tp: 137.391
+0	16:47:15.929	Notifications: 'order #71292375 buy 0.10 GBPJPY at 136.569 modified: sl: 0.000 tp: 0.000 -> sl: 135.734 tp: 137.391' sent to 'A37163A9'
+0	16:49:22.619	'27134140': modify order #71292349 buy 0.10 GBPUSD at 1.29001 sl: 0.00000 tp: 0.00000 -> sl: 1.28000 tp: 1.29688
+0	16:49:22.997	'27134140': order #71292349 buy 0.10 GBPUSD at 1.29001 was modified -> sl: 1.28000 tp: 1.29688
+0	16:49:24.575	Notifications: 'order #71292349 buy 0.10 GBPUSD at 1.29001 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.28000 tp: 1.29688' sent to 'A37163A9'
+0	16:50:32.553	'27134140': close order #71295168 buy 1.00 [DAX30] at 13182.41 sl: 0.00 tp: 0.00 at price 0.00
+0	16:50:33.418	'27134140': order #71295168 buy 1.00 [DAX30] at 13182.41 sl: 0.00 tp: 0.00 closed at price 13200.32
+0	16:50:34.333	Notifications: 'order #71295168 buy 1.00 [DAX30] at 13182.41 closed at price 13200.32, profit: 21.29 USD' sent to 'A37163A9'
+0	16:53:55.373	Notifications: 'Classical RSI bearish divergence on:  AUDUSD' sent to 'A37163A9'
+0	16:54:33.996	'27134140': close order #71295497 buy 0.50 [NQ100] at 11289.94 sl: 0.00 tp: 0.00 at price 0.00
+0	16:54:34.432	'27134140': order #71295497 buy 0.50 [NQ100] at 11289.94 sl: 0.00 tp: 0.00 closed at price 11292.34
+0	16:54:35.364	Notifications: 'order #71295497 buy 0.50 [NQ100] at 11289.94 closed at price 11292.34, profit: 1.20 USD' sent to 'A37163A9'
+0	16:55:27.758	'27134140': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	16:55:28.299	'27134140': order was opened : #71296538 sell 1.00 [DJI30] at 27933.45 sl: 0.00 tp: 0.00
+0	16:55:29.245	Notifications: 'order opened #71296538 sell 1.00 [DJI30] at 27933.45' sent to 'A37163A9'
+0	16:59:56.066	Notifications: 'Classical RSI bullish divergence on:  AUDNZD' sent to 'A37163A9'
+0	17:01:55.412	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	17:04:55.172	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	17:11:54.731	Notifications: 'Classical RSI bearish divergence on:  AUDUSD' sent to 'A37163A9'
+0	17:12:55.218	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	17:14:55.830	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	17:14:56.229	'27134140': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	17:14:56.722	'27134140': order was opened : #71298310 sell 1.00 [DJI30] at 27985.52 sl: 0.00 tp: 0.00
+0	17:14:57.583	Notifications: 'order opened #71298310 sell 1.00 [DJI30] at 27985.52' sent to 'A37163A9'
+0	17:27:54.670	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	17:30:54.682	Notifications: 'Classical RSI bearish divergence on:  [NQ100]' sent to 'A37163A9'
+0	17:47:55.640	Notifications: 'Classical RSI bullish divergence on:  EURUSD' sent to 'A37163A9'
+0	17:48:58.878	Notifications: 'Classical RSI bullish divergence on:  AUDUSD' sent to 'A37163A9'
+0	17:56:54.810	Notifications: 'Classical RSI bullish divergence on:  [DAX30]' sent to 'A37163A9'
+0	18:01:30.964	'27134140': modify order #71298310 sell 1.00 [DJI30] at 27985.52 sl: 0.00 tp: 0.00 -> sl: 27999.06 tp: 0.00
+0	18:01:31.587	'27134140': order #71298310 sell 1.00 [DJI30] at 27985.52 was modified -> sl: 27999.06 tp: 0.00
+0	18:01:33.050	Notifications: 'order #71298310 sell 1.00 [DJI30] at 27985.52 modified: sl: 0.00 tp: 0.00 -> sl: 27999.06 tp: 0.00' sent to 'A37163A9'
+0	18:01:41.480	'27134140': order #71298310 sell 1.00 [DJI30] at 27985.52 closed due stop-loss at price 27999.48
+0	18:01:42.431	Notifications: 'order #71298310 sell 1.00 [DJI30] at 27985.52 closed due stop-loss at price 27999.48, profit: -13.96 USD' sent to 'A37163A9'
+0	18:03:26.351	'27134140': close order #71292062 buy 0.08 GOLD at 1957.010 sl: 1939.700 tp: 1999.700 at price 0.000
+0	18:03:27.249	'27134140': order #71292062 buy 0.08 GOLD at 1957.010 sl: 1939.700 tp: 1999.700 closed at price 1959.190
+0	18:03:28.174	Notifications: 'order #71292062 buy 0.08 GOLD at 1957.010 closed at price 1959.190, profit: 17.44 USD' sent to 'A37163A9'
+0	18:06:00.865	'27134140': close order #71261129 buy 0.10 AUDUSD at 0.72832 sl: 0.72474 tp: 0.73609 at price 0.00000
+0	18:06:01.316	'27134140': order #71261129 buy 0.10 AUDUSD at 0.72832 sl: 0.72474 tp: 0.73609 closed at price 0.72970
+0	18:06:02.198	Notifications: 'order #71261129 buy 0.10 AUDUSD at 0.72832 closed at price 0.72970, profit: 13.80 USD' sent to 'A37163A9'
+0	18:12:42.589	'27134140': order sell market 1.00 [DAX30] sl: 0.00 tp: 0.00
+0	18:12:43.598	'27134140': order was opened : #71302519 sell 1.00 [DAX30] at 13167.00 sl: 0.00 tp: 0.00
+0	18:12:44.583	Notifications: 'order opened #71302519 sell 1.00 [DAX30] at 13167.00' sent to 'A37163A9'
+0	18:26:11.181	'27134140': close order #71302519 sell 1.00 [DAX30] at 13167.00 sl: 0.00 tp: 0.00 at price 0.00
+0	18:26:12.439	'27134140': order #71302519 sell 1.00 [DAX30] at 13167.00 sl: 0.00 tp: 0.00 closed at price 13194.90
+0	18:26:13.984	Notifications: 'order #71302519 sell 1.00 [DAX30] at 13167.00 closed at price 13194.90, profit: -33.13 USD' sent to 'A37163A9'
+0	18:44:55.796	Notifications: 'Classical RSI bearish divergence on:  AUDUSD' sent to 'A37163A9'
+0	19:11:59.600	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+2	19:23:50.682	Expert Admiral - Mini Terminal [DAX30],M5: removed
+2	19:28:57.668	Custom indicator AIMS Levels V2 SILVER,H1: loaded successfully
+2	19:28:57.749	Custom indicator AIMS Entry Alert V1 SILVER,H1: loaded successfully
+2	19:28:57.757	Custom indicator CandleTimer SILVER,H1: loaded successfully
+2	19:28:57.851	Custom indicator #Signal_Bars_v6 SILVER,H1: loaded successfully
+2	19:28:57.925	Custom indicator TrendEnvelopes_v1 SILVER,H1: loaded successfully
+2	19:28:57.951	Custom indicator guppy_multiple_moving_averages SILVER,H1: loaded successfully
+2	19:28:57.985	Custom indicator wedges SILVER,H1: loaded successfully
+2	19:28:58.165	Custom indicator AIMS AO V.2.1 SILVER,H1: loaded successfully
+2	19:28:58.264	Custom indicator IVT_MACD_ZERO_LAG SILVER,H1: loaded successfully
+2	19:28:58.370	Custom indicator RSI Divergence Levels SILVER,H1: loaded successfully
+2	19:28:58.398	Custom indicator JoeChalhoub_FXForecasterV1 SILVER,H1: loaded successfully
+0	19:29:54.569	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+0	19:33:55.233	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+0	19:35:54.371	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+0	19:39:55.470	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+0	19:40:58.211	Notifications: 'Classical RSI bullish divergence on:  EURUSD' sent to 'A37163A9'
+0	19:45:56.597	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+0	20:00:26.600	'27134140': order buy market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	20:00:27.107	'27134140': order was opened : #71308355 buy 1.00 [DJI30] at 28071.26 sl: 0.00 tp: 0.00
+0	20:00:28.031	Notifications: 'order opened #71308355 buy 1.00 [DJI30] at 28071.26' sent to 'A37163A9'
+0	20:01:01.962	'27134140': close order #71308355 buy 1.00 [DJI30] at 28071.26 sl: 0.00 tp: 0.00 at price 0.00
+0	20:01:02.458	'27134140': order #71308355 buy 1.00 [DJI30] at 28071.26 sl: 0.00 tp: 0.00 closed at price 28076.91
+0	20:01:03.545	Notifications: 'order #71308355 buy 1.00 [DJI30] at 28071.26 closed at price 28076.91, profit: 5.65 USD' sent to 'A37163A9'
+0	20:02:16.146	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	20:12:54.517	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+0	20:21:25.843	Notifications: 'Classical RSI bearish divergence on:  WTI' sent to 'A37163A9'
+0	20:33:56.638	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	20:33:59.472	Notifications: 'Classical RSI bullish divergence on:  [NQ100]' sent to 'A37163A9'
+1	20:51:29.910	'27134140': ping failed
+0	20:51:31.599	'27134140': login on AdmiralMarkets-Live through Access Point #6 (ping: 212.17 ms)
+0	20:51:33.615	'27134140': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 212.17 ms)
+0	20:51:34.177	'27134140': previous successful authorization performed from 154.126.11.191
+0	20:51:53.053	'27134140': auto connecting to a better access point Access Point #5 (ping is 195.35 ms)
+0	20:51:53.954	'27134140': login on AdmiralMarkets-Live through Access Point #5 (ping: 195.35 ms)
+0	20:51:55.816	'27134140': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 195.35 ms)
+0	20:51:56.375	'27134140': previous successful authorization performed from 197.149.29.31
+0	20:54:46.562	'27134140': close order #71296538 sell 1.00 [DJI30] at 27933.45 sl: 0.00 tp: 0.00 at price 0.00
+0	20:54:47.027	'27134140': order #71296538 sell 1.00 [DJI30] at 27933.45 sl: 0.00 tp: 0.00 closed at price 28013.48
+0	20:54:49.292	Notifications: 'order #71296538 sell 1.00 [DJI30] at 27933.45 closed at price 28013.48, profit: -80.03 USD' sent to 'A37163A9'
+0	21:01:23.420	'27134140': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	21:01:24.035	'27134140': order was opened : #71312524 sell 1.00 [DJI30] at 27987.19 sl: 0.00 tp: 0.00
+0	21:01:24.898	Notifications: 'order opened #71312524 sell 1.00 [DJI30] at 27987.19' sent to 'A37163A9'
+0	21:06:09.988	'27134140': close order #71312524 sell 1.00 [DJI30] at 27987.19 sl: 0.00 tp: 0.00 at price 0.00
+0	21:06:10.518	'27134140': order #71312524 sell 1.00 [DJI30] at 27987.19 sl: 0.00 tp: 0.00 closed at price 28027.32
+1	21:06:43.512	Notifications: failed send request [0] send request failed [12002]
+1	21:06:43.512	Notifications: 'order #71312524 sell 1.00 [DJI30] at 27987.19 closed at price 28027.32, profit: -40.13 USD' not sent to 'A37163A9'
+0	21:20:58.949	Notifications: 'order #71312524 sell 1.00 [DJI30] at 27987.19 closed at price 28027.32, profit: -40.13 USD' sent to 'A37163A9'
+0	21:21:04.052	Notifications: 'Classical RSI bullish divergence on:  WTI' sent to 'A37163A9'
+0	21:23:56.945	Notifications: 'Classical RSI bearish divergence on:  [DJI30]' sent to 'A37163A9'
+0	21:41:56.073	Notifications: 'Classical RSI bearish divergence on:  AUDUSD' sent to 'A37163A9'
+0	22:41:15.353	'27134140': modify order #71276779 buy 1.00 [DAX30] at 13233.79 sl: 0.00 tp: 0.00 -> sl: 13153.87 tp: 0.00
+0	22:41:15.961	'27134140': order #71276779 buy 1.00 [DAX30] at 13233.79 was modified -> sl: 13153.87 tp: 0.00
+0	22:41:17.672	Notifications: 'order #71276779 buy 1.00 [DAX30] at 13233.79 modified: sl: 0.00 tp: 0.00 -> sl: 13153.87 tp: 0.00' sent to 'A37163A9'
+0	22:51:08.933	'27134140': modify order #71276779 buy 1.00 [DAX30] at 13233.79 sl: 13153.87 tp: 0.00 -> sl: 13181.77 tp: 0.00
+0	22:51:09.256	'27134140': order #71276779 buy 1.00 [DAX30] at 13233.79 was modified -> sl: 13181.77 tp: 0.00
+0	22:51:10.204	Notifications: 'order #71276779 buy 1.00 [DAX30] at 13233.79 modified: sl: 13153.87 tp: 0.00 -> sl: 13181.77 tp: 0.00' sent to 'A37163A9'
+0	22:58:01.377	'27134140': order #71276779 buy 1.00 [DAX30] at 13233.79 closed due stop-loss at price 13181.53
+0	22:58:02.290	Notifications: 'order #71276779 buy 1.00 [DAX30] at 13233.79 closed due stop-loss at price 13181.53, profit: -62.01 USD' sent to 'A37163A9'
+0	23:37:54.542	Notifications: 'Classical RSI bullish divergence on:  [DAX30]' sent to 'A37163A9'
+0	23:37:55.583	Notifications: 'Classical RSI bullish divergence on:  [DJI30]' sent to 'A37163A9'
+0	23:56:20.979	Notifications: 'Classical RSI bullish divergence on:  [DAX30]' sent to 'A37163A9'
+0	23:58:40.477	'27134140': login on AdmiralMarkets-Live through Access Point #5 (ping: 195.35 ms)
+0	23:58:42.445	'27134140': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 195.35 ms)
+0	23:58:43.153	'27134140': previous successful authorization performed from 41.188.54.111
+0	23:58:58.100	'27134140': auto connecting to a better access point Access Point #6 (ping is 212.31 ms)
+0	23:58:59.437	'27134140': login on AdmiralMarkets-Live through Access Point #6 (ping: 212.31 ms)
+0	23:59:01.105	'27134140': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 212.31 ms)
+0	23:59:01.680	'27134140': previous successful authorization performed from 197.149.29.36

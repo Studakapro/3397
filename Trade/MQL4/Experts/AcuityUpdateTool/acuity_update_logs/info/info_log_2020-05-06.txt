@@ -1,0 +1,54 @@
+
+2020-05-06 08:37:03.6444|Error| Error in UpdateService.LoadResources()
+
+2020-05-06 08:37:03.6534|Error| System.AggregateException: Une ou plusieurs erreurs se sont produites. ---> System.Net.Http.HttpRequestException: Une erreur s'est produite lors de l'envoi de la demande. ---> System.Net.WebException: Le nom distant n'a pas pu être résolu: 'api.acuitytrading.com'
+   à System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   à System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin de la trace de la pile d'exception interne ---
+   --- Fin de la trace de la pile d'exception interne ---
+   à System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   à System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   à System.Threading.Tasks.Task`1.get_Result()
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+---> (Exception interne #0) System.Net.Http.HttpRequestException: Une erreur s'est produite lors de l'envoi de la demande. ---> System.Net.WebException: Le nom distant n'a pas pu être résolu: 'api.acuitytrading.com'
+   à System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   à System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin de la trace de la pile d'exception interne ---<---
+
+
+2020-05-06 08:44:21.2075|Error| Error in UpdateService.LoadResources()
+
+2020-05-06 08:44:21.2188|Error| System.AggregateException: Une ou plusieurs erreurs se sont produites. ---> System.Net.Http.HttpRequestException: Une erreur s'est produite lors de l'envoi de la demande. ---> System.Net.WebException: Le nom distant n'a pas pu être résolu: 'api.acuitytrading.com'
+   à System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   à System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin de la trace de la pile d'exception interne ---
+   --- Fin de la trace de la pile d'exception interne ---
+   à System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   à System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   à System.Threading.Tasks.Task`1.get_Result()
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+---> (Exception interne #0) System.Net.Http.HttpRequestException: Une erreur s'est produite lors de l'envoi de la demande. ---> System.Net.WebException: Le nom distant n'a pas pu être résolu: 'api.acuitytrading.com'
+   à System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   à System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin de la trace de la pile d'exception interne ---<---
+
+
+2020-05-06 11:52:09.1482|Error| Error in UpdateService.LoadResources()
+
+2020-05-06 11:52:09.1655|Error| System.AggregateException: Une ou plusieurs erreurs se sont produites. ---> System.Net.Http.HttpRequestException: Une erreur s'est produite lors de l'envoi de la demande. ---> System.Net.WebException: Le nom distant n'a pas pu être résolu: 'api.acuitytrading.com'
+   à System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   à System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin de la trace de la pile d'exception interne ---
+   --- Fin de la trace de la pile d'exception interne ---
+   à System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   à System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   à System.Threading.Tasks.Task`1.get_Result()
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+---> (Exception interne #0) System.Net.Http.HttpRequestException: Une erreur s'est produite lors de l'envoi de la demande. ---> System.Net.WebException: Le nom distant n'a pas pu être résolu: 'api.acuitytrading.com'
+   à System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   à System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin de la trace de la pile d'exception interne ---<---
+

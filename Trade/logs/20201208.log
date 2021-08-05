@@ -1,0 +1,445 @@
+0	00:00:22.090	'27131809': order buy market 0.30 [DJI30] sl: 0.00 tp: 0.00
+0	00:00:22.600	'27131809': order was opened : #75471939 buy 0.30 [DJI30] at 30082.70 sl: 0.00 tp: 0.00
+0	00:01:02.603	'27131809': modify order #75471939 buy 0.30 [DJI30] at 30082.70 sl: 0.00 tp: 0.00 -> sl: 30042.01 tp: 0.00
+0	00:01:02.906	'27131809': order #75471939 buy 0.30 [DJI30] at 30082.70 was modified -> sl: 30042.01 tp: 0.00
+0	00:01:14.133	'27131809': modify order #75471939 buy 0.30 [DJI30] at 30082.70 sl: 30042.01 tp: 0.00 -> sl: 30043.52 tp: 0.00
+0	00:01:14.609	'27131809': order #75471939 buy 0.30 [DJI30] at 30082.70 was modified -> sl: 30043.52 tp: 0.00
+0	00:03:36.967	'27131809': order #75471939 buy 0.30 [DJI30] at 30082.70 closed due stop-loss at price 30043.51
+0	00:04:00.794	'27131809': order sell market 0.30 [DJI30] sl: 0.00 tp: 0.00
+0	00:04:01.432	'27131809': order was opened : #75472096 sell 0.30 [DJI30] at 30037.51 sl: 0.00 tp: 0.00
+0	00:04:14.799	'27131809': modify order #75472096 sell 0.30 [DJI30] at 30037.51 sl: 0.00 tp: 0.00 -> sl: 30053.31 tp: 0.00
+0	00:04:15.188	'27131809': order #75472096 sell 0.30 [DJI30] at 30037.51 was modified -> sl: 30053.31 tp: 0.00
+0	00:04:21.015	'27131809': modify order #75472096 sell 0.30 [DJI30] at 30037.51 sl: 30053.31 tp: 0.00 -> sl: 30060.09 tp: 0.00
+0	00:04:21.319	'27131809': order #75472096 sell 0.30 [DJI30] at 30037.51 was modified -> sl: 30060.09 tp: 0.00
+0	00:04:28.641	'27131809': modify order #75472096 sell 0.30 [DJI30] at 30037.51 sl: 30060.09 tp: 0.00 -> sl: 30060.84 tp: 0.00
+0	00:04:28.958	'27131809': order #75472096 sell 0.30 [DJI30] at 30037.51 was modified -> sl: 30060.84 tp: 0.00
+0	00:32:56.001	'27131809': modify order #75472096 sell 0.30 [DJI30] at 30037.51 sl: 30060.84 tp: 0.00 -> sl: 30055.57 tp: 0.00
+0	00:32:56.331	'27131809': order #75472096 sell 0.30 [DJI30] at 30037.51 was modified -> sl: 30055.57 tp: 0.00
+0	00:35:07.950	'27131809': order #75472096 sell 0.30 [DJI30] at 30037.51 closed due stop-loss at price 30055.91
+2	01:50:26.422	Custom indicator MBFX Timing [DJI30],M1: removed
+2	01:50:27.775	Custom indicator ChinEtti Candles [DJI30],M1: removed
+2	01:50:27.913	Custom indicator ChinEtti Trend Direction.fix [DJI30],M1: removed
+2	01:50:27.957	Custom indicator ChinEtti Arrows.fix [DJI30],M1: removed
+2	01:50:28.035	Custom indicator ChinEtti Market info [DJI30],M1: removed
+2	01:50:28.062	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	01:50:28.344	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	01:50:28.416	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	01:50:28.419	Custom indicator CandleTimer [DJI30],M1: removed
+2	01:50:28.453	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	01:50:28.455	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	01:50:28.457	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	01:50:28.459	Custom indicator wedges [DJI30],M1: removed
+2	01:50:28.477	Custom indicator Admiral Pivot [DJI30],M1: removed
+2	01:50:28.478	Custom indicator AutoTrendChannel [DJI30],M1: removed
+2	01:50:28.531	Custom indicator FRZ Channel Auto Plotter [DJI30],M1: removed
+2	01:50:28.533	Custom indicator FRZ News Indicator MT4 [DJI30],M1: removed
+2	01:50:28.534	Custom indicator Forex Uranus direction [DJI30],M1: removed
+2	01:50:28.537	Custom indicator Quadrilateral [DJI30],M1: removed
+2	01:50:28.537	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	01:50:28.539	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	01:50:28.540	Custom indicator RSI Divergence Levels [DJI30],M1: removed
+2	01:50:28.542	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	01:50:28.544	Custom indicator TDI-With_Alerts [DJI30],M1: removed
+2	01:50:28.546	Custom indicator FRZ Forex Market Session Indicator [DJI30],M1: removed
+2	01:50:28.556	Custom indicator AIMS Levels V2 [DJI30],H1: removed
+2	01:50:28.580	Custom indicator AIMS Entry Alert V1 [DJI30],H1: removed
+2	01:50:28.582	Custom indicator CandleTimer [DJI30],H1: removed
+2	01:50:28.623	Custom indicator #Signal_Bars_v6 [DJI30],H1: removed
+2	01:50:28.624	Custom indicator TrendEnvelopes_v1 [DJI30],H1: removed
+2	01:50:28.674	Custom indicator guppy_multiple_moving_averages [DJI30],H1: removed
+2	01:50:28.676	Custom indicator wedges [DJI30],H1: removed
+2	01:50:28.677	Custom indicator Admiral Pivot [DJI30],H1: removed
+2	01:50:28.679	Custom indicator AutoTrendChannel [DJI30],H1: removed
+2	01:50:28.680	Custom indicator FRZ Channel Auto Plotter [DJI30],H1: removed
+2	01:50:28.681	Custom indicator FRZ News Indicator MT4 [DJI30],H1: removed
+2	01:50:28.683	Custom indicator Forex Uranus direction [DJI30],H1: removed
+2	01:50:28.685	Custom indicator Quadrilateral [DJI30],H1: removed
+2	01:50:28.685	Custom indicator AIMS AO V.2.1 [DJI30],H1: removed
+2	01:50:28.686	Custom indicator IVT_MACD_ZERO_LAG [DJI30],H1: removed
+2	01:50:28.688	Custom indicator RSI Divergence Levels [DJI30],H1: removed
+2	01:50:28.689	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],H1: removed
+2	01:50:28.691	Custom indicator TDI-With_Alerts [DJI30],H1: removed
+2	01:50:28.693	Custom indicator FRZ Forex Market Session Indicator [DJI30],H1: removed
+2	01:50:28.736	Expert Admiral - Mini Terminal [DAX30],M1: removed
+2	01:50:29.032	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	01:50:29.089	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	01:50:29.117	Custom indicator CandleTimer [DAX30],M1: removed
+2	01:50:29.119	Custom indicator #Signal_Bars_v6 [DAX30],M1: removed
+2	01:50:29.161	Custom indicator TrendEnvelopes_v1 [DAX30],M1: removed
+2	01:50:29.167	Custom indicator guppy_multiple_moving_averages [DAX30],M1: removed
+2	01:50:29.173	Custom indicator wedges [DAX30],M1: removed
+2	01:50:29.198	Custom indicator Admiral Pivot [DAX30],M1: removed
+2	01:50:29.215	Custom indicator AutoTrendChannel [DAX30],M1: removed
+2	01:50:29.217	Custom indicator FRZ Channel Auto Plotter [DAX30],M1: removed
+2	01:50:29.244	Custom indicator FRZ News Indicator MT4 [DAX30],M1: removed
+2	01:50:29.246	Custom indicator Forex Uranus direction [DAX30],M1: removed
+2	01:50:29.247	Custom indicator Quadrilateral [DAX30],M1: removed
+2	01:50:29.262	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	01:50:29.263	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: removed
+2	01:50:29.265	Custom indicator RSI Divergence Levels [DAX30],M1: removed
+2	01:50:29.267	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: removed
+2	01:50:29.269	Custom indicator TDI-With_Alerts [DAX30],M1: removed
+2	01:50:29.270	Custom indicator FRZ Forex Market Session Indicator [DAX30],M1: removed
+2	01:50:29.323	Custom indicator DJPVT [DJI30],M5: removed
+2	01:50:29.325	Custom indicator DJX6 V7.2.8 LOCK [DJI30],M5: removed
+2	01:50:29.347	Custom indicator DJCSM EVO 4 LOCK [DJI30],M5: removed
+2	01:50:29.348	Custom indicator DJ PROJI 2 MOD [DJI30],M5: removed
+2	01:50:29.404	Custom indicator DJPVT [DJI30],M15: removed
+2	01:50:29.430	Custom indicator DJX6 V7.2.8 LOCK [DJI30],M15: removed
+2	01:50:29.495	Custom indicator DJ SPA [DJI30],M15: removed
+2	01:50:29.497	Custom indicator DJCSM EVO 4 LOCK [DJI30],M15: removed
+2	01:50:29.498	Custom indicator DJROCK2.2 [DJI30],M15: removed
+2	01:50:29.504	Custom indicator DJPVT [DJI30],M1: removed
+2	01:50:29.505	Custom indicator DJX6 V7.2.8 LOCK [DJI30],M1: removed
+2	01:50:29.518	Custom indicator DJ SPA [DJI30],M1: removed
+2	01:50:29.520	Custom indicator DJCSM EVO 4 LOCK [DJI30],M1: removed
+2	01:50:29.521	Custom indicator DJROCK2.2 [DJI30],M1: removed
+2	01:50:29.560	Custom indicator AIMS Levels V2 EURUSD,H1: removed
+2	01:50:29.612	Custom indicator AIMS Entry Alert V1 EURUSD,H1: removed
+2	01:50:29.613	Custom indicator CandleTimer EURUSD,H1: removed
+2	01:50:29.629	Custom indicator #Signal_Bars_v6 EURUSD,H1: removed
+2	01:50:29.631	Custom indicator TrendEnvelopes_v1 EURUSD,H1: removed
+2	01:50:29.636	Custom indicator guppy_multiple_moving_averages EURUSD,H1: removed
+2	01:50:29.691	Custom indicator wedges EURUSD,H1: removed
+2	01:50:29.732	Custom indicator Admiral Pivot EURUSD,H1: removed
+2	01:50:29.737	Custom indicator AutoTrendChannel EURUSD,H1: removed
+2	01:50:29.741	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: removed
+2	01:50:29.745	Custom indicator FRZ News Indicator MT4 EURUSD,H1: removed
+2	01:50:29.748	Custom indicator Forex Uranus direction EURUSD,H1: removed
+2	01:50:29.768	Custom indicator Quadrilateral EURUSD,H1: removed
+2	01:50:29.769	Custom indicator AIMS AO V.2.1 EURUSD,H1: removed
+2	01:50:29.787	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: removed
+2	01:50:29.793	Custom indicator RSI Divergence Levels EURUSD,H1: removed
+2	01:50:29.796	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: removed
+2	01:50:29.807	Custom indicator TDI-With_Alerts EURUSD,H1: removed
+2	01:50:29.810	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: removed
+2	01:50:29.847	Custom indicator AIMS Levels V2 NZDUSD,M15: removed
+2	01:50:29.847	Custom indicator AIMS Entry Alert V1 NZDUSD,M15: removed
+2	01:50:29.868	Custom indicator CandleTimer NZDUSD,M15: removed
+2	01:50:29.868	Custom indicator #Signal_Bars_v6 NZDUSD,M15: removed
+2	01:50:29.870	Custom indicator TrendEnvelopes_v1 NZDUSD,M15: removed
+2	01:50:29.871	Custom indicator guppy_multiple_moving_averages NZDUSD,M15: removed
+2	01:50:29.990	Custom indicator wedges NZDUSD,M15: removed
+2	01:50:30.022	Custom indicator Admiral Pivot NZDUSD,M15: removed
+2	01:50:30.024	Custom indicator AutoTrendChannel NZDUSD,M15: removed
+2	01:50:30.026	Custom indicator FRZ Channel Auto Plotter NZDUSD,M15: removed
+2	01:50:30.027	Custom indicator FRZ News Indicator MT4 NZDUSD,M15: removed
+2	01:50:30.029	Custom indicator Forex Uranus direction NZDUSD,M15: removed
+2	01:50:30.030	Custom indicator Quadrilateral NZDUSD,M15: removed
+2	01:50:30.030	Custom indicator AIMS AO V.2.1 NZDUSD,M15: removed
+2	01:50:30.062	Custom indicator IVT_MACD_ZERO_LAG NZDUSD,M15: removed
+2	01:50:30.154	Custom indicator RSI Divergence Levels NZDUSD,M15: removed
+2	01:50:30.156	Custom indicator JoeChalhoub_FXForecasterV1 NZDUSD,M15: removed
+2	01:50:30.218	Custom indicator TDI-With_Alerts NZDUSD,M15: removed
+2	01:50:30.290	Custom indicator FRZ Forex Market Session Indicator NZDUSD,M15: removed
+2	01:50:30.325	Custom indicator CandleTimer [DJI30],M1: removed
+2	01:50:30.325	Custom indicator #P4L CandleTime [DJI30],M1: removed
+2	01:50:30.327	Custom indicator TURBO PLUS+ [DJI30],M1: removed
+2	01:50:30.329	Custom indicator ALERT SIGNAL [DJI30],M1: removed
+2	01:50:30.331	Custom indicator RSI Divergence Levels [DJI30],M1: removed
+2	01:50:30.335	Custom indicator MACD_Volumes-2 [DJI30],M1: removed
+2	01:50:30.339	Custom indicator FL1 [DJI30],M1: removed
+2	01:50:30.372	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.372	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.372	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.373	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.373	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.413	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.449	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.466	Custom indicator FL2 [DJI30],M1: removed
+2	01:50:30.480	Custom indicator Heiken Ashi [DJI30],M1: removed
+2	01:50:30.529	Custom indicator BrainTrend2SigALERT5 [DJI30],M1: removed
+2	01:50:30.530	Custom indicator FL03 [DJI30],M1: removed
+2	01:50:30.531	Custom indicator currency-power-meter-indicator [DJI30],M1: removed
+2	01:50:30.547	Custom indicator DXTrade Info v9 [DJI30],M1: removed
+2	01:50:30.547	Custom indicator THV3 Market Hours [DJI30],M1: removed
+2	01:50:30.549	Custom indicator JokerFilter [DJI30],M1: removed
+2	01:50:30.570	Custom indicator RenkoStreet_channel [DJI30],M5: removed
+2	01:50:30.595	Custom indicator RenkoStreet_MTF [DJI30],M5: removed
+2	01:50:30.596	Custom indicator RenkoStreet_PV [DJI30],M5: removed
+2	01:50:30.597	Custom indicator RenkoStreet_TL [DJI30],M5: removed
+2	01:50:30.599	Custom indicator RenkoStreet_Trend [DJI30],M5: removed
+2	01:50:30.604	Custom indicator CandleTimer_Am [DJI30],M1: removed
+2	01:50:30.604	Custom indicator FX-Agency Advisor 3 [DJI30],M1: removed
+2	01:50:30.665	Custom indicator AIMS Levels V2 [NQ100],M1: removed
+2	01:50:30.665	Custom indicator AIMS Entry Alert V1 [NQ100],M1: removed
+2	01:50:30.667	Custom indicator CandleTimer [NQ100],M1: removed
+2	01:50:30.667	Custom indicator #Signal_Bars_v6 [NQ100],M1: removed
+2	01:50:30.668	Custom indicator TrendEnvelopes_v1 [NQ100],M1: removed
+2	01:50:30.670	Custom indicator guppy_multiple_moving_averages [NQ100],M1: removed
+2	01:50:30.699	Custom indicator wedges [NQ100],M1: removed
+2	01:50:30.702	Custom indicator Admiral Pivot [NQ100],M1: removed
+2	01:50:30.722	Custom indicator AutoTrendChannel [NQ100],M1: removed
+2	01:50:30.724	Custom indicator FRZ Channel Auto Plotter [NQ100],M1: removed
+2	01:50:30.725	Custom indicator FRZ News Indicator MT4 [NQ100],M1: removed
+2	01:50:30.726	Custom indicator Forex Uranus direction [NQ100],M1: removed
+2	01:50:30.728	Custom indicator Quadrilateral [NQ100],M1: removed
+2	01:50:30.729	Custom indicator AIMS AO V.2.1 [NQ100],M1: removed
+2	01:50:30.752	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M1: removed
+2	01:50:30.754	Custom indicator RSI Divergence Levels [NQ100],M1: removed
+2	01:50:30.756	Custom indicator JoeChalhoub_FXForecasterV1 [NQ100],M1: removed
+2	01:50:30.765	Custom indicator TDI-With_Alerts [NQ100],M1: removed
+2	01:50:30.767	Custom indicator FRZ Forex Market Session Indicator [NQ100],M1: removed
+2	01:50:30.774	Expert Admiral - Mini Terminal CADJPY,M1: removed
+2	01:50:31.013	Custom indicator AIMS Levels V2 CADJPY,M1: removed
+2	01:50:31.014	Custom indicator AIMS Entry Alert V1 CADJPY,M1: removed
+2	01:50:31.015	Custom indicator CandleTimer CADJPY,M1: removed
+2	01:50:31.016	Custom indicator #Signal_Bars_v6 CADJPY,M1: removed
+2	01:50:31.017	Custom indicator TrendEnvelopes_v1 CADJPY,M1: removed
+2	01:50:31.019	Custom indicator guppy_multiple_moving_averages CADJPY,M1: removed
+2	01:50:31.020	Custom indicator wedges CADJPY,M1: removed
+2	01:50:31.023	Custom indicator Admiral Pivot CADJPY,M1: removed
+2	01:50:31.024	Custom indicator AutoTrendChannel CADJPY,M1: removed
+2	01:50:31.025	Custom indicator FRZ Channel Auto Plotter CADJPY,M1: removed
+2	01:50:31.026	Custom indicator FRZ News Indicator MT4 CADJPY,M1: removed
+2	01:50:31.028	Custom indicator Forex Uranus direction CADJPY,M1: removed
+2	01:50:31.030	Custom indicator Quadrilateral CADJPY,M1: removed
+2	01:50:31.030	Custom indicator AIMS AO V.2.1 CADJPY,M1: removed
+2	01:50:31.032	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M1: removed
+2	01:50:31.037	Custom indicator RSI Divergence Levels CADJPY,M1: removed
+2	01:50:31.039	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M1: removed
+2	01:50:31.041	Custom indicator TDI-With_Alerts CADJPY,M1: removed
+2	01:50:31.042	Custom indicator FRZ Forex Market Session Indicator CADJPY,M1: removed
+0	01:50:34.677	Admiral Markets build 1280 stopped
+0	07:17:21.899	Admiral Markets build 1280 started (Admiral Markets Group AS)
+0	07:17:21.899	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 1420 / 8014 Mb, Disk: 23 / 237 Gb, GMT+3
+0	07:17:21.899	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	07:17:26.371	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	07:17:26.440	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	07:17:26.447	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	07:17:26.515	Custom indicator #Signal_Bars_v6 [DAX30],M1: loaded successfully
+2	07:17:26.522	Custom indicator TrendEnvelopes_v1 [DAX30],M1: loaded successfully
+2	07:17:26.529	Custom indicator guppy_multiple_moving_averages [DAX30],M1: loaded successfully
+2	07:17:26.537	Custom indicator wedges [DAX30],M1: loaded successfully
+2	07:17:26.545	Custom indicator Admiral Pivot [DAX30],M1: loaded successfully
+2	07:17:26.553	Custom indicator AutoTrendChannel [DAX30],M1: loaded successfully
+2	07:17:26.560	Custom indicator FRZ Channel Auto Plotter [DAX30],M1: loaded successfully
+2	07:17:26.569	Custom indicator FRZ News Indicator MT4 [DAX30],M1: loaded successfully
+2	07:17:26.577	Custom indicator Forex Uranus direction [DAX30],M1: loaded successfully
+2	07:17:26.586	Custom indicator Quadrilateral [DAX30],M1: loaded successfully
+2	07:17:26.655	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	07:17:26.663	Custom indicator IVT_MACD_ZERO_LAG [DAX30],M1: loaded successfully
+2	07:17:26.670	Custom indicator RSI Divergence Levels [DAX30],M1: loaded successfully
+2	07:17:26.679	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],M1: loaded successfully
+2	07:17:26.687	Custom indicator TDI-With_Alerts [DAX30],M1: loaded successfully
+2	07:17:26.695	Custom indicator FRZ Forex Market Session Indicator [DAX30],M1: loaded successfully
+2	07:17:26.711	Expert Admiral - Mini Terminal [DAX30],M1: loaded successfully
+2	07:17:27.891	Custom indicator Quadrilateral [DAX30],M1: removed
+2	07:17:29.205	Custom indicator ChinEtti Candles [DJI30],M1: loaded successfully
+2	07:17:29.215	Custom indicator ChinEtti Trend Direction.fix [DJI30],M1: loaded successfully
+2	07:17:29.225	Custom indicator ChinEtti Arrows.fix [DJI30],M1: loaded successfully
+2	07:17:29.235	Custom indicator ChinEtti Market info [DJI30],M1: loaded successfully
+2	07:17:29.497	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	07:17:29.594	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	07:17:29.601	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:17:29.680	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	07:17:29.688	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	07:17:29.696	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	07:17:29.705	Custom indicator wedges [DJI30],M1: loaded successfully
+2	07:17:29.714	Custom indicator Admiral Pivot [DJI30],M1: loaded successfully
+2	07:17:29.722	Custom indicator AutoTrendChannel [DJI30],M1: loaded successfully
+2	07:17:29.730	Custom indicator FRZ Channel Auto Plotter [DJI30],M1: loaded successfully
+2	07:17:29.740	Custom indicator FRZ News Indicator MT4 [DJI30],M1: loaded successfully
+2	07:17:29.750	Custom indicator Forex Uranus direction [DJI30],M1: loaded successfully
+2	07:17:29.759	Custom indicator Quadrilateral [DJI30],M1: loaded successfully
+2	07:17:29.831	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	07:17:29.840	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	07:17:29.848	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	07:17:29.859	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	07:17:29.868	Custom indicator TDI-With_Alerts [DJI30],M1: loaded successfully
+2	07:17:29.877	Custom indicator FRZ Forex Market Session Indicator [DJI30],M1: loaded successfully
+2	07:17:29.892	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+2	07:17:30.035	Custom indicator Quadrilateral [DJI30],M1: removed
+2	07:17:31.462	Custom indicator AIMS Levels V2 [DJI30],H1: loaded successfully
+2	07:17:31.530	Custom indicator AIMS Entry Alert V1 [DJI30],H1: loaded successfully
+2	07:17:31.536	Custom indicator CandleTimer [DJI30],H1: loaded successfully
+2	07:17:31.608	Custom indicator #Signal_Bars_v6 [DJI30],H1: loaded successfully
+2	07:17:31.616	Custom indicator TrendEnvelopes_v1 [DJI30],H1: loaded successfully
+2	07:17:31.623	Custom indicator guppy_multiple_moving_averages [DJI30],H1: loaded successfully
+2	07:17:31.632	Custom indicator wedges [DJI30],H1: loaded successfully
+2	07:17:31.640	Custom indicator Admiral Pivot [DJI30],H1: loaded successfully
+2	07:17:31.647	Custom indicator AutoTrendChannel [DJI30],H1: loaded successfully
+2	07:17:31.654	Custom indicator FRZ Channel Auto Plotter [DJI30],H1: loaded successfully
+2	07:17:31.664	Custom indicator FRZ News Indicator MT4 [DJI30],H1: loaded successfully
+2	07:17:31.672	Custom indicator Forex Uranus direction [DJI30],H1: loaded successfully
+2	07:17:31.681	Custom indicator Quadrilateral [DJI30],H1: loaded successfully
+2	07:17:31.751	Custom indicator AIMS AO V.2.1 [DJI30],H1: loaded successfully
+2	07:17:31.759	Custom indicator IVT_MACD_ZERO_LAG [DJI30],H1: loaded successfully
+2	07:17:31.767	Custom indicator RSI Divergence Levels [DJI30],H1: loaded successfully
+2	07:17:31.776	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],H1: loaded successfully
+2	07:17:31.784	Custom indicator TDI-With_Alerts [DJI30],H1: loaded successfully
+2	07:17:31.792	Custom indicator FRZ Forex Market Session Indicator [DJI30],H1: loaded successfully
+2	07:17:32.176	Custom indicator DJPVT [DJI30],M5: loaded successfully
+2	07:17:32.184	Custom indicator DJX6 V7.2.8 LOCK [DJI30],M5: loaded successfully
+2	07:17:32.194	Custom indicator DJCSM EVO 4 LOCK [DJI30],M5: loaded successfully
+2	07:17:32.203	Custom indicator DJ PROJI 2 MOD [DJI30],M5: loaded successfully
+2	07:17:32.473	Custom indicator DJPVT [DJI30],M15: loaded successfully
+2	07:17:32.481	Custom indicator DJX6 V7.2.8 LOCK [DJI30],M15: loaded successfully
+2	07:17:32.491	Custom indicator DJ SPA [DJI30],M15: loaded successfully
+2	07:17:32.499	Custom indicator DJCSM EVO 4 LOCK [DJI30],M15: loaded successfully
+2	07:17:32.507	Custom indicator DJROCK2.2 [DJI30],M15: loaded successfully
+2	07:17:32.798	Custom indicator DJPVT [DJI30],M1: loaded successfully
+2	07:17:32.806	Custom indicator DJX6 V7.2.8 LOCK [DJI30],M1: loaded successfully
+2	07:17:32.815	Custom indicator DJ SPA [DJI30],M1: loaded successfully
+2	07:17:32.823	Custom indicator DJCSM EVO 4 LOCK [DJI30],M1: loaded successfully
+2	07:17:32.832	Custom indicator DJROCK2.2 [DJI30],M1: loaded successfully
+2	07:17:33.169	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:17:33.241	Custom indicator #P4L CandleTime [DJI30],M1: loaded successfully
+2	07:17:33.248	Custom indicator TURBO PLUS+ [DJI30],M1: loaded successfully
+2	07:17:33.257	Custom indicator ALERT SIGNAL [DJI30],M1: loaded successfully
+2	07:17:33.266	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	07:17:33.274	Custom indicator MACD_Volumes-2 [DJI30],M1: loaded successfully
+2	07:17:33.456	Custom indicator MBFX Timing [DJI30],M1: loaded successfully
+2	07:17:33.948	Custom indicator FL1 [DJI30],M1: loaded successfully
+2	07:17:34.014	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.081	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.147	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.211	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.276	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.339	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.402	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.464	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:17:34.472	Custom indicator Heiken Ashi [DJI30],M1: loaded successfully
+2	07:17:34.536	Custom indicator BrainTrend2SigALERT5 [DJI30],M1: loaded successfully
+2	07:17:34.601	Custom indicator FL03 [DJI30],M1: loaded successfully
+2	07:17:34.608	Custom indicator currency-power-meter-indicator [DJI30],M1: loaded successfully
+2	07:17:34.671	Custom indicator DXTrade Info v9 [DJI30],M1: loaded successfully
+2	07:17:34.735	Custom indicator THV3 Market Hours [DJI30],M1: loaded successfully
+2	07:17:34.741	Custom indicator JokerFilter [DJI30],M1: loaded successfully
+2	07:17:43.223	Custom indicator RenkoStreet_channel [DJI30],M5: loaded successfully
+2	07:17:43.231	Custom indicator RenkoStreet_MTF [DJI30],M5: loaded successfully
+2	07:17:43.238	Custom indicator RenkoStreet_PV [DJI30],M5: loaded successfully
+2	07:17:43.245	Custom indicator RenkoStreet_TL [DJI30],M5: loaded successfully
+2	07:17:43.251	Custom indicator RenkoStreet_Trend [DJI30],M5: loaded successfully
+2	07:17:43.386	Custom indicator CandleTimer_Am [DJI30],M1: loaded successfully
+2	07:17:43.459	Custom indicator FX-Agency Advisor 3 [DJI30],M1: loaded successfully
+2	07:17:43.582	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	07:17:43.657	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	07:17:43.664	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	07:17:43.737	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	07:17:43.747	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	07:17:43.755	Custom indicator guppy_multiple_moving_averages EURUSD,H1: loaded successfully
+2	07:17:43.763	Custom indicator wedges EURUSD,H1: loaded successfully
+2	07:17:43.771	Custom indicator Admiral Pivot EURUSD,H1: loaded successfully
+2	07:17:43.778	Custom indicator AutoTrendChannel EURUSD,H1: loaded successfully
+2	07:17:43.786	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: loaded successfully
+2	07:17:43.795	Custom indicator FRZ News Indicator MT4 EURUSD,H1: loaded successfully
+2	07:17:43.804	Custom indicator Forex Uranus direction EURUSD,H1: loaded successfully
+2	07:17:43.812	Custom indicator Quadrilateral EURUSD,H1: loaded successfully
+2	07:17:43.888	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	07:17:43.896	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	07:17:43.904	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	07:17:43.913	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,H1: loaded successfully
+2	07:17:43.922	Custom indicator TDI-With_Alerts EURUSD,H1: loaded successfully
+2	07:17:43.930	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: loaded successfully
+2	07:17:44.484	Custom indicator AIMS Levels V2 NZDUSD,M15: loaded successfully
+2	07:17:44.612	Custom indicator AIMS Entry Alert V1 NZDUSD,M15: loaded successfully
+2	07:17:44.626	Custom indicator CandleTimer NZDUSD,M15: loaded successfully
+2	07:17:44.762	Custom indicator #Signal_Bars_v6 NZDUSD,M15: loaded successfully
+2	07:17:44.777	Custom indicator TrendEnvelopes_v1 NZDUSD,M15: loaded successfully
+2	07:17:44.791	Custom indicator guppy_multiple_moving_averages NZDUSD,M15: loaded successfully
+2	07:17:44.808	Custom indicator wedges NZDUSD,M15: loaded successfully
+2	07:17:44.822	Custom indicator Admiral Pivot NZDUSD,M15: loaded successfully
+2	07:17:44.834	Custom indicator AutoTrendChannel NZDUSD,M15: loaded successfully
+2	07:17:44.846	Custom indicator FRZ Channel Auto Plotter NZDUSD,M15: loaded successfully
+2	07:17:44.862	Custom indicator FRZ News Indicator MT4 NZDUSD,M15: loaded successfully
+2	07:17:44.877	Custom indicator Forex Uranus direction NZDUSD,M15: loaded successfully
+2	07:17:44.895	Custom indicator Quadrilateral NZDUSD,M15: loaded successfully
+2	07:17:45.038	Custom indicator AIMS AO V.2.1 NZDUSD,M15: loaded successfully
+2	07:17:45.051	Custom indicator IVT_MACD_ZERO_LAG NZDUSD,M15: loaded successfully
+2	07:17:45.071	Custom indicator RSI Divergence Levels NZDUSD,M15: loaded successfully
+2	07:17:45.085	Custom indicator JoeChalhoub_FXForecasterV1 NZDUSD,M15: loaded successfully
+2	07:17:45.102	Custom indicator TDI-With_Alerts NZDUSD,M15: loaded successfully
+2	07:17:45.116	Custom indicator FRZ Forex Market Session Indicator NZDUSD,M15: loaded successfully
+2	07:17:46.356	Custom indicator AIMS Levels V2 [NQ100],M1: loaded successfully
+2	07:17:46.512	Custom indicator AIMS Entry Alert V1 [NQ100],M1: loaded successfully
+2	07:17:46.524	Custom indicator CandleTimer [NQ100],M1: loaded successfully
+2	07:17:46.668	Custom indicator #Signal_Bars_v6 [NQ100],M1: loaded successfully
+2	07:17:46.683	Custom indicator TrendEnvelopes_v1 [NQ100],M1: loaded successfully
+2	07:17:46.699	Custom indicator guppy_multiple_moving_averages [NQ100],M1: loaded successfully
+2	07:17:46.716	Custom indicator wedges [NQ100],M1: loaded successfully
+2	07:17:46.734	Custom indicator Admiral Pivot [NQ100],M1: loaded successfully
+2	07:17:46.749	Custom indicator AutoTrendChannel [NQ100],M1: loaded successfully
+2	07:17:46.764	Custom indicator FRZ Channel Auto Plotter [NQ100],M1: loaded successfully
+2	07:17:46.783	Custom indicator FRZ News Indicator MT4 [NQ100],M1: loaded successfully
+2	07:17:46.800	Custom indicator Forex Uranus direction [NQ100],M1: loaded successfully
+2	07:17:46.818	Custom indicator Quadrilateral [NQ100],M1: loaded successfully
+2	07:17:46.959	Custom indicator AIMS AO V.2.1 [NQ100],M1: loaded successfully
+2	07:17:46.975	Custom indicator IVT_MACD_ZERO_LAG [NQ100],M1: loaded successfully
+2	07:17:46.989	Custom indicator RSI Divergence Levels [NQ100],M1: loaded successfully
+2	07:17:47.008	Custom indicator JoeChalhoub_FXForecasterV1 [NQ100],M1: loaded successfully
+2	07:17:47.023	Custom indicator TDI-With_Alerts [NQ100],M1: loaded successfully
+2	07:17:47.040	Custom indicator FRZ Forex Market Session Indicator [NQ100],M1: loaded successfully
+2	07:17:47.323	Custom indicator Quadrilateral [NQ100],M1: removed
+2	07:17:49.901	Custom indicator AIMS Levels V2 CADJPY,M1: loaded successfully
+2	07:17:50.050	Custom indicator AIMS Entry Alert V1 CADJPY,M1: loaded successfully
+2	07:17:50.062	Custom indicator CandleTimer CADJPY,M1: loaded successfully
+2	07:17:50.191	Custom indicator #Signal_Bars_v6 CADJPY,M1: loaded successfully
+2	07:17:50.204	Custom indicator TrendEnvelopes_v1 CADJPY,M1: loaded successfully
+2	07:17:50.214	Custom indicator guppy_multiple_moving_averages CADJPY,M1: loaded successfully
+2	07:17:50.229	Custom indicator wedges CADJPY,M1: loaded successfully
+2	07:17:50.245	Custom indicator Admiral Pivot CADJPY,M1: loaded successfully
+2	07:17:50.258	Custom indicator AutoTrendChannel CADJPY,M1: loaded successfully
+2	07:17:50.274	Custom indicator FRZ Channel Auto Plotter CADJPY,M1: loaded successfully
+2	07:17:50.290	Custom indicator FRZ News Indicator MT4 CADJPY,M1: loaded successfully
+2	07:17:50.307	Custom indicator Forex Uranus direction CADJPY,M1: loaded successfully
+2	07:17:50.324	Custom indicator Quadrilateral CADJPY,M1: loaded successfully
+2	07:17:50.465	Custom indicator AIMS AO V.2.1 CADJPY,M1: loaded successfully
+2	07:17:50.479	Custom indicator IVT_MACD_ZERO_LAG CADJPY,M1: loaded successfully
+2	07:17:50.496	Custom indicator RSI Divergence Levels CADJPY,M1: loaded successfully
+2	07:17:50.514	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,M1: loaded successfully
+2	07:17:50.530	Custom indicator TDI-With_Alerts CADJPY,M1: loaded successfully
+2	07:17:50.546	Custom indicator FRZ Forex Market Session Indicator CADJPY,M1: loaded successfully
+2	07:17:50.572	Expert Admiral - Mini Terminal CADJPY,M1: loaded successfully
+2	07:17:50.846	Custom indicator Quadrilateral CADJPY,M1: removed
+0	07:17:55.685	'27131809': login on AdmiralMarkets-Live through Access Point #6 (ping: 226.79 ms)
+0	07:17:58.178	'27131809': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 226.79 ms)
+0	07:17:58.786	'27131809': previous successful authorization performed from 197.149.39.91
+0	07:18:22.072	'27131809': auto connecting to a better access point Access Point #4 (ping is 205.78 ms)
+0	07:18:22.920	'27131809': login on AdmiralMarkets-Live through Access Point #4 (ping: 205.78 ms)
+0	07:18:25.223	'27131809': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: 205.78 ms)
+0	07:18:25.851	'27131809': previous successful authorization performed from 197.149.39.91
+1	09:02:34.619	'27131809': datacenter connecting failed [6]
+1	09:02:39.888	'27131809': connect failed [Connection échouée]
+0	09:03:15.653	'27131809': login on AdmiralMarkets-Live through Access Point #3 (ping: 234.06 ms)
+0	09:04:23.890	'27131809': login datacenter on AdmiralMarkets-Live
+0	09:04:53.372	'27131809': login on AdmiralMarkets-Live through Access Point #1 (ping: 253.36 ms)
+0	09:05:15.256	'27131809': login datacenter on AdmiralMarkets-Live through Access Point #1 (ping: 253.36 ms)
+0	09:05:18.501	'27131809': previous successful authorization performed from 197.149.39.91
+0	09:08:20.743	'27131809': auto connecting to a better access point Access Point #5 (ping is 269.42 ms)
+0	09:08:25.645	'27131809': login on AdmiralMarkets-Live through Access Point #5 (ping: 269.42 ms)
+0	09:09:37.241	'27131809': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 269.42 ms)
+0	09:09:39.487	'27131809': previous successful authorization performed from 197.149.39.91
+1	13:10:31.426	'27131809': connect failed [Connection échouée]
+1	15:13:48.381	MQL5.community: authorization failed
+1	15:18:47.641	MQL5.community: authorization failed
+1	15:23:45.747	MQL5.community: authorization failed
+1	15:28:45.816	MQL5.community: authorization failed
+1	15:33:45.743	MQL5.community: authorization failed
+1	15:38:47.619	MQL5.community: authorization failed
+1	15:43:45.917	MQL5.community: authorization failed
+1	15:48:46.217	MQL5.community: authorization failed
+1	15:53:46.114	MQL5.community: authorization failed
+1	15:58:46.206	MQL5.community: authorization failed
+1	16:03:46.102	MQL5.community: authorization failed
+1	16:08:47.767	MQL5.community: authorization failed
+1	16:13:46.105	MQL5.community: authorization failed
+1	16:18:46.103	MQL5.community: authorization failed
+1	16:23:46.089	MQL5.community: authorization failed
+1	16:28:46.983	MQL5.community: authorization failed
+1	16:33:47.190	MQL5.community: authorization failed
+1	16:38:46.032	MQL5.community: authorization failed
+1	16:58:15.568	MQL5.community: authorization failed
+1	17:03:16.103	MQL5.community: authorization failed
+1	17:08:16.035	MQL5.community: authorization failed
+1	17:13:16.172	MQL5.community: authorization failed
+1	17:18:16.008	MQL5.community: authorization failed
+1	17:23:16.039	MQL5.community: authorization failed
+1	17:28:16.132	MQL5.community: authorization failed
+1	17:33:15.487	MQL5.community: authorization failed
+1	17:38:15.497	MQL5.community: authorization failed
+1	17:43:15.494	MQL5.community: authorization failed
+1	17:48:15.804	MQL5.community: authorization failed
+1	17:53:17.525	MQL5.community: authorization failed
+1	17:58:15.889	MQL5.community: authorization failed
+1	18:12:11.564	MQL5.community: authorization failed

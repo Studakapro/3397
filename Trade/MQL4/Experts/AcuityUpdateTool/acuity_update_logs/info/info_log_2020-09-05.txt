@@ -1,0 +1,12 @@
+
+2020-09-05 19:02:40.1701|Error| Error in UpdateService.LoadResources()
+
+2020-09-05 19:02:40.1821|Error| System.AggregateException: Une ou plusieurs erreurs se sont produites. ---> System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.
+   --- Fin de la trace de la pile d'exception interne ---
+   à System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   à System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   à System.Threading.Tasks.Task`1.get_Result()
+   à AcuityUpdateTool.BusinessLogic.UpdateService.LoadResources()
+   à AcuityUpdateTool.App.OnStartup(StartupEventArgs e)
+---> (Exception interne #0) System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.<---
+

@@ -1,0 +1,850 @@
+0	04:03:45.190	'23900967': close order #186332332 sell 0.50 [DJI30] at 25687.99 sl: 0.00 tp: 0.00 at price 0.00
+0	04:03:45.653	'23900967': order #186332332 sell 0.50 [DJI30] at 25687.99 sl: 0.00 tp: 0.00 closed at price 25734.15
+0	04:03:45.653	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	04:03:46.092	'23900967': order was opened : #186346273 buy 0.50 [DJI30] at 25734.65 sl: 0.00 tp: 0.00
+0	04:03:46.769	Notifications: 'order #186332332 sell 0.50 [DJI30] at 25687.99 closed at price 25734.15, profit: -23.08 USD' sent to 'A37163A9'
+0	04:03:47.660	Notifications: 'order opened #186346273 buy 0.50 [DJI30] at 25734.65' sent to 'A37163A9'
+0	04:13:45.597	'23900967': close order #186346273 buy 0.50 [DJI30] at 25734.65 sl: 0.00 tp: 0.00 at price 0.00
+0	04:13:46.030	'23900967': order #186346273 buy 0.50 [DJI30] at 25734.65 sl: 0.00 tp: 0.00 closed at price 25713.15
+0	04:13:46.030	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	04:13:46.498	'23900967': order was opened : #186346760 sell 0.50 [DJI30] at 25715.15 sl: 0.00 tp: 0.00
+0	04:13:46.963	Notifications: 'order #186346273 buy 0.50 [DJI30] at 25734.65 closed at price 25713.15, profit: -10.75 USD' sent to 'A37163A9'
+0	04:13:47.847	Notifications: 'order opened #186346760 sell 0.50 [DJI30] at 25715.15' sent to 'A37163A9'
+0	04:29:49.323	'23900967': close order #186346760 sell 0.50 [DJI30] at 25715.15 sl: 0.00 tp: 0.00 at price 0.00
+0	04:29:49.796	'23900967': order #186346760 sell 0.50 [DJI30] at 25715.15 sl: 0.00 tp: 0.00 closed at price 25683.18
+0	04:29:49.796	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	04:29:50.298	'23900967': order was opened : #186347660 buy 0.50 [DJI30] at 25683.18 sl: 0.00 tp: 0.00
+0	04:29:50.983	Notifications: 'order #186346760 sell 0.50 [DJI30] at 25715.15 closed at price 25683.18, profit: 15.99 USD' sent to 'A37163A9'
+0	04:29:51.961	Notifications: 'order opened #186347660 buy 0.50 [DJI30] at 25683.18' sent to 'A37163A9'
+0	04:39:38.269	'23900967': close order #186347660 buy 0.50 [DJI30] at 25683.18 sl: 0.00 tp: 0.00 at price 0.00
+0	04:39:38.689	'23900967': order #186347660 buy 0.50 [DJI30] at 25683.18 sl: 0.00 tp: 0.00 closed at price 25674.18
+0	04:39:38.690	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	04:39:39.119	'23900967': order was opened : #186348152 sell 0.50 [DJI30] at 25674.68 sl: 0.00 tp: 0.00
+0	04:39:39.643	Notifications: 'order #186347660 buy 0.50 [DJI30] at 25683.18 closed at price 25674.18, profit: -4.50 USD' sent to 'A37163A9'
+0	04:39:40.616	Notifications: 'order opened #186348152 sell 0.50 [DJI30] at 25674.68' sent to 'A37163A9'
+2	04:41:48.818	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	04:41:48.819	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	04:41:48.880	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	04:41:48.882	Custom indicator CandleTimer [DJI30],M1: removed
+2	04:41:48.882	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	04:41:48.884	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	04:41:48.895	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	04:41:48.896	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	04:41:48.898	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	04:41:48.901	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	04:41:48.944	Custom indicator EDx [DJI30],M1: loaded successfully
+2	04:41:48.956	Custom indicator ESr2 [DJI30],M1: loaded successfully
+2	04:41:48.967	Custom indicator ETr2 [DJI30],M1: loaded successfully
+2	04:41:57.435	Custom indicator EDx [DJI30],M1: removed
+2	04:41:57.437	Custom indicator ESr2 [DJI30],M1: removed
+2	04:41:57.439	Custom indicator ETr2 [DJI30],M1: removed
+2	04:41:57.622	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	04:41:57.732	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	04:41:57.742	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	04:41:57.837	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	04:41:57.849	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	04:41:57.861	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	04:41:57.965	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	04:41:57.979	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	04:41:57.991	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	04:41:58.008	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	04:46:30.632	'23900967': close order #186348152 sell 0.50 [DJI30] at 25674.68 sl: 0.00 tp: 0.00 at price 0.00
+0	04:46:31.066	'23900967': order #186348152 sell 0.50 [DJI30] at 25674.68 sl: 0.00 tp: 0.00 closed at price 25692.67
+0	04:46:31.066	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	04:46:31.470	'23900967': order was opened : #186348441 buy 0.50 [DJI30] at 25692.67 sl: 0.00 tp: 0.00
+0	04:46:32.088	Notifications: 'order #186348152 sell 0.50 [DJI30] at 25674.68 closed at price 25692.67, profit: -9.00 USD' sent to 'A37163A9'
+0	04:46:33.048	Notifications: 'order opened #186348441 buy 0.50 [DJI30] at 25692.67' sent to 'A37163A9'
+0	04:46:59.081	'23900967': order #185799221 buy limit 0.10 USDJPY at 107.050 activated at price 107.050
+0	04:46:59.976	Notifications: 'order #185799221 buy limit 0.10 USDJPY at 107.050 activated at price 107.050' sent to 'A37163A9'
+0	04:51:30.565	'23900967': close order #185799221 buy 0.10 USDJPY at 107.050 sl: 106.780 tp: 108.350 at price 0.000
+0	04:51:30.943	'23900967': order #185799221 buy 0.10 USDJPY at 107.050 sl: 106.780 tp: 108.350 closed at price 107.015
+0	04:51:31.820	Notifications: 'order #185799221 buy 0.10 USDJPY at 107.050 closed at price 107.015, profit: -3.27 USD' sent to 'A37163A9'
+0	05:00:32.675	'23900967': close order #186348441 buy 0.50 [DJI30] at 25692.67 sl: 0.00 tp: 0.00 at price 0.00
+0	05:00:33.113	'23900967': order #186348441 buy 0.50 [DJI30] at 25692.67 sl: 0.00 tp: 0.00 closed at price 25691.17
+0	05:00:33.113	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:00:33.544	'23900967': order was opened : #186349212 sell 0.50 [DJI30] at 25691.17 sl: 0.00 tp: 0.00
+0	05:00:34.003	Notifications: 'order #186348441 buy 0.50 [DJI30] at 25692.67 closed at price 25691.17, profit: -0.75 USD' sent to 'A37163A9'
+0	05:00:34.891	Notifications: 'order opened #186349212 sell 0.50 [DJI30] at 25691.17' sent to 'A37163A9'
+0	05:07:02.075	'23900967': close order #186349212 sell 0.50 [DJI30] at 25691.17 sl: 0.00 tp: 0.00 at price 0.00
+0	05:07:02.505	'23900967': order #186349212 sell 0.50 [DJI30] at 25691.17 sl: 0.00 tp: 0.00 closed at price 25720.16
+0	05:07:02.506	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:07:02.956	'23900967': order was opened : #186349473 buy 0.50 [DJI30] at 25720.16 sl: 0.00 tp: 0.00
+0	05:07:03.382	Notifications: 'order #186349212 sell 0.50 [DJI30] at 25691.17 closed at price 25720.16, profit: -14.50 USD' sent to 'A37163A9'
+0	05:07:04.291	Notifications: 'order opened #186349473 buy 0.50 [DJI30] at 25720.16' sent to 'A37163A9'
+0	05:10:33.238	'23900967': close order #186349473 buy 0.50 [DJI30] at 25720.16 sl: 0.00 tp: 0.00 at price 0.00
+0	05:10:33.697	'23900967': order #186349473 buy 0.50 [DJI30] at 25720.16 sl: 0.00 tp: 0.00 closed at price 25696.17
+0	05:10:33.698	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:10:34.168	'23900967': order was opened : #186349610 sell 0.50 [DJI30] at 25696.17 sl: 0.00 tp: 0.00
+0	05:10:34.554	Notifications: 'order #186349473 buy 0.50 [DJI30] at 25720.16 closed at price 25696.17, profit: -12.00 USD' sent to 'A37163A9'
+0	05:10:35.475	Notifications: 'order opened #186349610 sell 0.50 [DJI30] at 25696.17' sent to 'A37163A9'
+0	05:11:32.636	'23900967': close order #186349610 sell 0.50 [DJI30] at 25696.17 sl: 0.00 tp: 0.00 at price 0.00
+0	05:11:33.052	'23900967': order #186349610 sell 0.50 [DJI30] at 25696.17 sl: 0.00 tp: 0.00 closed at price 25714.17
+0	05:11:33.052	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:11:33.489	'23900967': order was opened : #186349636 buy 0.50 [DJI30] at 25714.17 sl: 0.00 tp: 0.00
+0	05:11:33.927	Notifications: 'order #186349610 sell 0.50 [DJI30] at 25696.17 closed at price 25714.17, profit: -9.00 USD' sent to 'A37163A9'
+0	05:11:34.798	Notifications: 'order opened #186349636 buy 0.50 [DJI30] at 25714.17' sent to 'A37163A9'
+0	05:15:30.475	'23900967': close order #186349636 buy 0.50 [DJI30] at 25714.17 sl: 0.00 tp: 0.00 at price 0.00
+0	05:15:30.909	'23900967': order #186349636 buy 0.50 [DJI30] at 25714.17 sl: 0.00 tp: 0.00 closed at price 25698.17
+0	05:15:30.909	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:15:31.348	'23900967': order was opened : #186349815 sell 0.50 [DJI30] at 25698.17 sl: 0.00 tp: 0.00
+0	05:15:31.769	Notifications: 'order #186349636 buy 0.50 [DJI30] at 25714.17 closed at price 25698.17, profit: -8.00 USD' sent to 'A37163A9'
+0	05:15:32.641	Notifications: 'order opened #186349815 sell 0.50 [DJI30] at 25698.17' sent to 'A37163A9'
+0	05:21:30.247	'23900967': close order #186349815 sell 0.50 [DJI30] at 25698.17 sl: 0.00 tp: 0.00 at price 0.00
+0	05:21:30.711	'23900967': order #186349815 sell 0.50 [DJI30] at 25698.17 sl: 0.00 tp: 0.00 closed at price 25721.66
+0	05:21:30.711	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:21:31.147	'23900967': order was opened : #186350062 buy 0.50 [DJI30] at 25721.66 sl: 0.00 tp: 0.00
+0	05:21:31.603	Notifications: 'order #186349815 sell 0.50 [DJI30] at 25698.17 closed at price 25721.66, profit: -11.75 USD' sent to 'A37163A9'
+0	05:21:32.551	Notifications: 'order opened #186350062 buy 0.50 [DJI30] at 25721.66' sent to 'A37163A9'
+0	05:25:29.680	'23900967': close order #186350062 buy 0.50 [DJI30] at 25721.66 sl: 0.00 tp: 0.00 at price 0.00
+0	05:25:30.116	'23900967': order #186350062 buy 0.50 [DJI30] at 25721.66 sl: 0.00 tp: 0.00 closed at price 25693.17
+0	05:25:30.116	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:25:30.589	'23900967': order was opened : #186350200 sell 0.50 [DJI30] at 25693.17 sl: 0.00 tp: 0.00
+0	05:25:30.981	Notifications: 'order #186350062 buy 0.50 [DJI30] at 25721.66 closed at price 25693.17, profit: -14.25 USD' sent to 'A37163A9'
+0	05:25:31.865	Notifications: 'order opened #186350200 sell 0.50 [DJI30] at 25693.17' sent to 'A37163A9'
+0	05:51:30.389	'23900967': close order #186350200 sell 0.50 [DJI30] at 25693.17 sl: 0.00 tp: 0.00 at price 0.00
+0	05:51:31.134	'23900967': order #186350200 sell 0.50 [DJI30] at 25693.17 sl: 0.00 tp: 0.00 closed at price 25660.20
+0	05:51:31.134	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:51:32.152	'23900967': order was opened : #186351545 buy 0.50 [DJI30] at 25660.20 sl: 0.00 tp: 0.00
+0	05:52:10.079	Notifications: 'order #186350200 sell 0.50 [DJI30] at 25693.17 closed at price 25660.20, profit: 16.49 USD' sent to 'A37163A9'
+0	05:52:28.582	Notifications: 'order opened #186351545 buy 0.50 [DJI30] at 25660.20' sent to 'A37163A9'
+0	05:58:31.990	'23900967': close order #186351545 buy 0.50 [DJI30] at 25660.20 sl: 0.00 tp: 0.00 at price 0.00
+0	05:58:33.530	'23900967': order #186351545 buy 0.50 [DJI30] at 25660.20 sl: 0.00 tp: 0.00 closed at price 25641.20
+0	05:58:33.530	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	05:58:33.711	Notifications: 'order #186351545 buy 0.50 [DJI30] at 25660.20 closed at price 25641.20, profit: -9.50 USD' sent to 'A37163A9'
+0	05:58:33.962	'23900967': order was opened : #186351877 sell 0.50 [DJI30] at 25640.70 sl: 0.00 tp: 0.00
+0	05:58:34.843	Notifications: 'order opened #186351877 sell 0.50 [DJI30] at 25640.70' sent to 'A37163A9'
+0	06:00:30.942	'23900967': close order #186351877 sell 0.50 [DJI30] at 25640.70 sl: 0.00 tp: 0.00 at price 0.00
+0	06:00:31.401	'23900967': order #186351877 sell 0.50 [DJI30] at 25640.70 sl: 0.00 tp: 0.00 closed at price 25666.19
+0	06:00:31.401	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:00:31.837	'23900967': order was opened : #186352154 buy 0.50 [DJI30] at 25666.19 sl: 0.00 tp: 0.00
+0	06:00:32.269	Notifications: 'order #186351877 sell 0.50 [DJI30] at 25640.70 closed at price 25666.19, profit: -12.75 USD' sent to 'A37163A9'
+0	06:00:33.156	Notifications: 'order opened #186352154 buy 0.50 [DJI30] at 25666.19' sent to 'A37163A9'
+0	06:07:37.382	'23900967': login on AdmiralMarkets-Demo through Access Point #4 (ping: 218.57 ms)
+0	06:07:39.282	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 218.57 ms)
+0	06:07:40.807	'23900967': previous successful authorization performed from 154.126.113.91
+0	06:07:51.997	'23900967': auto connecting to a better access point Access Point #6 (ping is 222.32 ms)
+0	06:07:53.034	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: 222.32 ms)
+0	06:07:58.798	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 222.32 ms)
+0	06:07:59.552	'23900967': previous successful authorization performed from 154.126.113.91
+1	06:13:48.881	'23900967': datacenter connecting failed [6]
+0	06:13:51.998	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: 222.32 ms)
+0	06:14:04.299	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 222.32 ms)
+0	06:14:04.883	'23900967': previous successful authorization performed from 154.126.113.91
+0	06:16:34.054	'23900967': close order #186352154 buy 0.50 [DJI30] at 25666.19 sl: 0.00 tp: 0.00 at price 0.00
+0	06:16:34.460	'23900967': order #186352154 buy 0.50 [DJI30] at 25666.19 sl: 0.00 tp: 0.00 closed at price 25649.20
+0	06:16:34.460	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:16:34.871	'23900967': order was opened : #186352702 sell 0.50 [DJI30] at 25649.20 sl: 0.00 tp: 0.00
+0	06:16:35.470	Notifications: 'order #186352154 buy 0.50 [DJI30] at 25666.19 closed at price 25649.20, profit: -8.50 USD' sent to 'A37163A9'
+0	06:16:36.359	Notifications: 'order opened #186352702 sell 0.50 [DJI30] at 25649.20' sent to 'A37163A9'
+0	06:27:30.995	'23900967': close order #186352702 sell 0.50 [DJI30] at 25649.20 sl: 0.00 tp: 0.00 at price 0.00
+0	06:27:31.426	'23900967': order #186352702 sell 0.50 [DJI30] at 25649.20 sl: 0.00 tp: 0.00 closed at price 25644.21
+0	06:27:31.426	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:27:31.849	'23900967': order was opened : #186353170 buy 0.50 [DJI30] at 25644.21 sl: 0.00 tp: 0.00
+0	06:27:32.308	Notifications: 'order #186352702 sell 0.50 [DJI30] at 25649.20 closed at price 25644.21, profit: 2.50 USD' sent to 'A37163A9'
+0	06:27:33.193	Notifications: 'order opened #186353170 buy 0.50 [DJI30] at 25644.21' sent to 'A37163A9'
+0	06:38:37.525	'23900967': close order #186353170 buy 0.50 [DJI30] at 25644.21 sl: 0.00 tp: 0.00 at price 0.00
+0	06:38:37.963	'23900967': order #186353170 buy 0.50 [DJI30] at 25644.21 sl: 0.00 tp: 0.00 closed at price 25642.21
+0	06:38:37.963	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:38:38.416	'23900967': order was opened : #186353606 sell 0.50 [DJI30] at 25642.21 sl: 0.00 tp: 0.00
+0	06:38:38.838	Notifications: 'order #186353170 buy 0.50 [DJI30] at 25644.21 closed at price 25642.21, profit: -1.00 USD' sent to 'A37163A9'
+0	06:38:39.728	Notifications: 'order opened #186353606 sell 0.50 [DJI30] at 25642.21' sent to 'A37163A9'
+0	06:39:38.998	'23900967': close order #186353606 sell 0.50 [DJI30] at 25642.21 sl: 0.00 tp: 0.00 at price 0.00
+0	06:39:39.435	'23900967': order #186353606 sell 0.50 [DJI30] at 25642.21 sl: 0.00 tp: 0.00 closed at price 25655.20
+0	06:39:39.435	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:39:39.857	'23900967': order was opened : #186353651 buy 0.50 [DJI30] at 25655.20 sl: 0.00 tp: 0.00
+0	06:39:40.388	Notifications: 'order #186353606 sell 0.50 [DJI30] at 25642.21 closed at price 25655.20, profit: -6.50 USD' sent to 'A37163A9'
+0	06:39:41.278	Notifications: 'order opened #186353651 buy 0.50 [DJI30] at 25655.20' sent to 'A37163A9'
+0	06:41:38.881	'23900967': close order #186353651 buy 0.50 [DJI30] at 25655.20 sl: 0.00 tp: 0.00 at price 0.00
+0	06:41:39.317	'23900967': order #186353651 buy 0.50 [DJI30] at 25655.20 sl: 0.00 tp: 0.00 closed at price 25640.21
+0	06:41:39.317	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:41:39.726	'23900967': order was opened : #186353711 sell 0.50 [DJI30] at 25640.21 sl: 0.00 tp: 0.00
+0	06:41:40.188	Notifications: 'order #186353651 buy 0.50 [DJI30] at 25655.20 closed at price 25640.21, profit: -7.50 USD' sent to 'A37163A9'
+0	06:41:41.047	Notifications: 'order opened #186353711 sell 0.50 [DJI30] at 25640.21' sent to 'A37163A9'
+0	06:54:50.681	'23900967': close order #186353711 sell 0.50 [DJI30] at 25640.21 sl: 0.00 tp: 0.00 at price 0.00
+0	06:54:51.150	'23900967': order #186353711 sell 0.50 [DJI30] at 25640.21 sl: 0.00 tp: 0.00 closed at price 25658.20
+0	06:54:51.150	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	06:54:51.587	'23900967': order was opened : #186354158 buy 0.50 [DJI30] at 25658.20 sl: 0.00 tp: 0.00
+0	06:54:52.102	Notifications: 'order #186353711 sell 0.50 [DJI30] at 25640.21 closed at price 25658.20, profit: -9.00 USD' sent to 'A37163A9'
+0	06:54:52.993	Notifications: 'order opened #186354158 buy 0.50 [DJI30] at 25658.20' sent to 'A37163A9'
+0	07:06:33.472	'23900967': close order #186354158 buy 0.50 [DJI30] at 25658.20 sl: 0.00 tp: 0.00 at price 0.00
+0	07:06:33.925	'23900967': order #186354158 buy 0.50 [DJI30] at 25658.20 sl: 0.00 tp: 0.00 closed at price 25624.22
+0	07:06:33.925	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	07:06:34.378	'23900967': order was opened : #186354731 sell 0.50 [DJI30] at 25624.22 sl: 0.00 tp: 0.00
+0	07:06:34.862	Notifications: 'order #186354158 buy 0.50 [DJI30] at 25658.20 closed at price 25624.22, profit: -16.99 USD' sent to 'A37163A9'
+0	07:06:35.753	Notifications: 'order opened #186354731 sell 0.50 [DJI30] at 25624.22' sent to 'A37163A9'
+2	07:06:45.344	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	07:06:45.375	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	07:06:45.391	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	07:06:45.391	Custom indicator CandleTimer [DJI30],M1: removed
+2	07:06:45.438	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	07:06:45.438	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	07:06:45.454	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	07:06:45.469	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	07:06:45.485	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	07:06:45.500	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	07:06:45.672	Custom indicator FL1 [DJI30],M1: loaded successfully
+2	07:06:45.766	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:45.860	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:45.985	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:46.078	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:46.203	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:46.328	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:46.453	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:46.531	Custom indicator FL2 [DJI30],M1: loaded successfully
+2	07:06:46.625	Custom indicator Heiken Ashi [DJI30],M1: loaded successfully
+2	07:06:46.656	Custom indicator currency-power-meter-indicator [DJI30],M1: loaded successfully
+2	07:06:46.766	Custom indicator DXTrade Info v9 [DJI30],M1: loaded successfully
+2	07:06:46.797	Custom indicator DDFX_3_BBStop_v4 [DJI30],M1: loaded successfully
+2	07:06:46.906	Custom indicator THV3 Market Hours [DJI30],M1: loaded successfully
+2	07:06:46.906	Custom indicator Forex Alozard Indicator [DJI30],M1: loaded successfully
+2	07:06:47.016	Custom indicator ProfitableStrategy_16 [DJI30],M1: loaded successfully
+2	07:06:47.047	Custom indicator Timer-Best [DJI30],M1: loaded successfully
+2	07:06:47.094	Custom indicator JokerFilter [DJI30],M1: loaded successfully
+0	07:06:58.997	'23900967': login datacenter on AdmiralMarkets-Demo
+0	07:07:00.234	'23900967': login on AdmiralMarkets-Demo through Access Point #4 (ping: 229.95 ms)
+0	07:07:02.015	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 229.95 ms)
+0	07:07:02.676	'23900967': previous successful authorization performed from 154.126.113.91
+1	07:07:07.760	'23900967': datacenter connecting failed [6]
+0	07:07:08.642	'23900967': login on AdmiralMarkets-Demo through Access Point #3 (ping: 247.11 ms)
+0	07:07:10.739	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #3 (ping: 247.11 ms)
+0	07:07:11.392	'23900967': previous successful authorization performed from 154.126.113.91
+1	07:07:18.551	'23900967': datacenter connecting failed [6]
+0	07:07:19.435	'23900967': login on AdmiralMarkets-Demo through Access Point #1 (ping: 256.26 ms)
+0	07:07:21.273	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: 256.26 ms)
+0	07:07:21.966	'23900967': previous successful authorization performed from 154.126.113.91
+2	07:08:30.779	Custom indicator FL1 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator FL2 [DJI30],M1: removed
+2	07:08:30.779	Custom indicator Heiken Ashi [DJI30],M1: removed
+2	07:08:30.779	Custom indicator currency-power-meter-indicator [DJI30],M1: removed
+2	07:08:30.795	Custom indicator DXTrade Info v9 [DJI30],M1: removed
+2	07:08:30.795	Custom indicator DDFX_3_BBStop_v4 [DJI30],M1: removed
+2	07:08:30.795	Custom indicator THV3 Market Hours [DJI30],M1: removed
+2	07:08:30.795	Custom indicator Forex Alozard Indicator [DJI30],M1: removed
+2	07:08:30.811	Custom indicator ProfitableStrategy_16 [DJI30],M1: removed
+2	07:08:30.811	Custom indicator Timer-Best [DJI30],M1: removed
+2	07:08:30.811	Custom indicator JokerFilter [DJI30],M1: removed
+2	07:08:30.920	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	07:08:31.014	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	07:08:31.029	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:08:31.123	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	07:08:31.170	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	07:08:31.186	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	07:08:31.279	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	07:08:31.295	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	07:08:31.326	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	07:08:31.373	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+2	07:14:38.514	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	07:14:38.515	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	07:14:38.515	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	07:14:38.517	Custom indicator CandleTimer [DJI30],M1: removed
+2	07:14:38.517	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	07:14:38.519	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	07:14:38.521	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	07:14:38.522	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	07:14:38.525	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	07:14:38.527	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	07:14:38.630	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	07:14:38.737	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	07:14:38.746	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:14:38.840	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	07:14:38.853	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	07:14:38.864	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	07:14:38.967	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	07:14:38.979	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	07:14:38.993	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	07:14:39.007	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	07:23:27.315	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	07:23:27.315	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	07:23:27.317	Custom indicator CandleTimer [DJI30],M1: removed
+2	07:23:27.317	Custom indicator #Signal_Bars_v6 [DJI30],M1: removed
+2	07:23:27.320	Custom indicator TrendEnvelopes_v1 [DJI30],M1: removed
+2	07:23:27.322	Custom indicator guppy_multiple_moving_averages [DJI30],M1: removed
+2	07:23:27.323	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	07:23:27.325	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: removed
+2	07:23:27.327	Custom indicator RSI Divergence Levels [DJI30],M1: removed
+2	07:23:27.328	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: removed
+2	07:23:27.411	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	07:23:27.478	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	07:23:27.487	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	07:23:27.553	Custom indicator #Signal_Bars_v6 [DJI30],M1: loaded successfully
+2	07:23:27.562	Custom indicator TrendEnvelopes_v1 [DJI30],M1: loaded successfully
+2	07:23:27.570	Custom indicator guppy_multiple_moving_averages [DJI30],M1: loaded successfully
+2	07:23:27.641	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	07:23:27.655	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M1: loaded successfully
+2	07:23:27.666	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M1: loaded successfully
+2	07:23:27.716	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	07:32:35.806	'23900967': close order #186354731 sell 0.50 [DJI30] at 25624.22 sl: 0.00 tp: 0.00 at price 0.00
+0	07:32:36.309	'23900967': order #186354731 sell 0.50 [DJI30] at 25624.22 sl: 0.00 tp: 0.00 closed at price 25625.45
+0	07:32:36.309	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	07:32:36.881	'23900967': order was opened : #186355876 buy 0.50 [DJI30] at 25624.95 sl: 0.00 tp: 0.00
+0	07:32:37.561	Notifications: 'order #186354731 sell 0.50 [DJI30] at 25624.22 closed at price 25625.45, profit: -0.62 USD' sent to 'A37163A9'
+0	07:32:38.494	Notifications: 'order opened #186355876 buy 0.50 [DJI30] at 25624.95' sent to 'A37163A9'
+0	07:38:04.968	'23900967': close order #186355876 buy 0.50 [DJI30] at 25624.95 sl: 0.00 tp: 0.00 at price 0.00
+0	07:38:05.420	'23900967': order #186355876 buy 0.50 [DJI30] at 25624.95 sl: 0.00 tp: 0.00 closed at price 25610.95
+0	07:38:05.420	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	07:38:06.229	'23900967': order was opened : #186356148 sell 0.50 [DJI30] at 25610.95 sl: 0.00 tp: 0.00
+0	07:38:06.839	Notifications: 'order #186355876 buy 0.50 [DJI30] at 25624.95 closed at price 25610.95, profit: -7.00 USD' sent to 'A37163A9'
+0	07:38:08.246	Notifications: 'order opened #186356148 sell 0.50 [DJI30] at 25610.95' sent to 'A37163A9'
+0	07:38:33.832	'23900967': close order #186356148 sell 0.50 [DJI30] at 25610.95 sl: 0.00 tp: 0.00 at price 0.00
+0	07:38:35.364	'23900967': order #186356148 sell 0.50 [DJI30] at 25610.95 sl: 0.00 tp: 0.00 closed at price 25622.95
+0	07:38:35.364	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	07:38:35.874	'23900967': order was opened : #186356186 buy 0.50 [DJI30] at 25622.95 sl: 0.00 tp: 0.00
+0	07:38:37.412	Notifications: 'order #186356148 sell 0.50 [DJI30] at 25610.95 closed at price 25622.95, profit: -6.00 USD' sent to 'A37163A9'
+0	07:38:39.260	Notifications: 'order opened #186356186 buy 0.50 [DJI30] at 25622.95' sent to 'A37163A9'
+0	07:44:33.476	'23900967': close order #186356186 buy 0.50 [DJI30] at 25622.95 sl: 0.00 tp: 0.00 at price 0.00
+0	07:44:34.062	'23900967': order #186356186 buy 0.50 [DJI30] at 25622.95 sl: 0.00 tp: 0.00 closed at price 25605.46
+0	07:44:34.062	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	07:44:34.579	'23900967': order was opened : #186356531 sell 0.50 [DJI30] at 25605.46 sl: 0.00 tp: 0.00
+0	07:44:35.044	Notifications: 'order #186356186 buy 0.50 [DJI30] at 25622.95 closed at price 25605.46, profit: -8.75 USD' sent to 'A37163A9'
+0	07:44:36.500	Notifications: 'order opened #186356531 sell 0.50 [DJI30] at 25605.46' sent to 'A37163A9'
+0	09:09:53.893	'23900967': close order #186356531 sell 0.50 [DJI30] at 25605.46 sl: 0.00 tp: 0.00 at price 0.00
+0	09:09:54.318	'23900967': order #186356531 sell 0.50 [DJI30] at 25605.46 sl: 0.00 tp: 0.00 closed at price 25510.20
+0	09:09:54.319	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	09:09:55.475	'23900967': order was opened : #186362958 buy 0.50 [DJI30] at 25510.20 sl: 0.00 tp: 0.00
+0	09:09:57.268	Notifications: 'order #186356531 sell 0.50 [DJI30] at 25605.46 closed at price 25510.20, profit: 47.63 USD' sent to 'A37163A9'
+0	09:09:58.149	Notifications: 'order opened #186362958 buy 0.50 [DJI30] at 25510.20' sent to 'A37163A9'
+2	09:10:40.537	Expert Admiral - Mini Terminal [DJI30],M5: removed
+2	09:10:40.538	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	09:10:40.539	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	09:10:40.541	Custom indicator CandleTimer [DJI30],M5: removed
+2	09:10:40.542	Custom indicator #Signal_Bars_v6 [DJI30],M5: removed
+2	09:10:40.552	Custom indicator TrendEnvelopes_v1 [DJI30],M5: removed
+2	09:10:40.574	Custom indicator guppy_multiple_moving_averages [DJI30],M5: removed
+2	09:10:40.604	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	09:10:40.649	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: removed
+2	09:10:40.664	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M5: removed
+2	09:10:40.779	Custom indicator TDI Pro Fixed for vitalfx [DJI30],M5: loaded successfully
+2	09:11:01.647	Custom indicator TDI Pro Fixed for vitalfx [DJI30],M5: removed
+2	09:11:01.734	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	09:11:01.821	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	09:11:01.830	Custom indicator CandleTimer [DJI30],M5: loaded successfully
+2	09:11:01.917	Custom indicator #Signal_Bars_v6 [DJI30],M5: loaded successfully
+2	09:11:01.928	Custom indicator TrendEnvelopes_v1 [DJI30],M5: loaded successfully
+2	09:11:01.939	Custom indicator guppy_multiple_moving_averages [DJI30],M5: loaded successfully
+2	09:11:02.124	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	09:11:02.136	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: loaded successfully
+2	09:11:02.147	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M5: loaded successfully
+2	09:11:02.176	Expert Admiral - Mini Terminal [DJI30],M5: loaded successfully
+0	09:11:21.307	'23900967': close order #186362958 buy 0.50 [DJI30] at 25510.20 sl: 0.00 tp: 0.00 at price 0.00
+0	09:11:21.772	'23900967': order #186362958 buy 0.50 [DJI30] at 25510.20 sl: 0.00 tp: 0.00 closed at price 25497.32
+0	09:11:21.772	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	09:11:22.252	'23900967': order was opened : #186363040 sell 0.50 [DJI30] at 25497.32 sl: 0.00 tp: 0.00
+0	09:11:22.675	Notifications: 'order #186362958 buy 0.50 [DJI30] at 25510.20 closed at price 25497.32, profit: -6.44 USD' sent to 'A37163A9'
+0	09:11:23.552	Notifications: 'order opened #186363040 sell 0.50 [DJI30] at 25497.32' sent to 'A37163A9'
+0	09:11:26.469	'23900967': close order #186363040 sell 0.50 [DJI30] at 25497.32 sl: 0.00 tp: 0.00 at price 0.00
+0	09:11:26.923	'23900967': order #186363040 sell 0.50 [DJI30] at 25497.32 sl: 0.00 tp: 0.00 closed at price 25500.32
+0	09:11:26.923	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	09:11:27.392	'23900967': order was opened : #186363045 buy 0.50 [DJI30] at 25499.82 sl: 0.00 tp: 0.00
+0	09:11:27.801	Notifications: 'order #186363040 sell 0.50 [DJI30] at 25497.32 closed at price 25500.32, profit: -1.50 USD' sent to 'A37163A9'
+0	09:11:28.699	Notifications: 'order opened #186363045 buy 0.50 [DJI30] at 25499.82' sent to 'A37163A9'
+0	09:14:40.387	'23900967': close order #186363045 buy 0.50 [DJI30] at 25499.82 sl: 0.00 tp: 0.00 at price 0.00
+0	09:14:40.816	'23900967': order #186363045 buy 0.50 [DJI30] at 25499.82 sl: 0.00 tp: 0.00 closed at price 25480.29
+0	09:14:40.816	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	09:14:41.287	'23900967': order was opened : #186363446 sell 0.50 [DJI30] at 25480.29 sl: 0.00 tp: 0.00
+0	09:14:41.785	Notifications: 'order #186363045 buy 0.50 [DJI30] at 25499.82 closed at price 25480.29, profit: -9.77 USD' sent to 'A37163A9'
+0	09:14:42.720	Notifications: 'order opened #186363446 sell 0.50 [DJI30] at 25480.29' sent to 'A37163A9'
+0	10:09:47.868	'23900967': close order #186363446 sell 0.50 [DJI30] at 25480.29 sl: 0.00 tp: 0.00 at price 0.00
+0	10:09:48.322	'23900967': order #186363446 sell 0.50 [DJI30] at 25480.29 sl: 0.00 tp: 0.00 closed at price 25467.80
+0	10:09:48.323	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	10:09:48.801	'23900967': order was opened : #186371099 buy 0.50 [DJI30] at 25466.80 sl: 0.00 tp: 0.00
+0	10:09:49.287	Notifications: 'order #186363446 sell 0.50 [DJI30] at 25480.29 closed at price 25467.80, profit: 6.25 USD' sent to 'A37163A9'
+0	10:09:50.151	Notifications: 'order opened #186371099 buy 0.50 [DJI30] at 25466.80' sent to 'A37163A9'
+0	10:17:29.912	'23900967': login datacenter on AdmiralMarkets-Demo
+0	10:17:32.677	'23900967': login on AdmiralMarkets-Demo through Access Point #2 (ping: 234.51 ms)
+0	10:17:43.347	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 234.51 ms)
+0	10:17:47.920	'23900967': previous successful authorization performed from 154.126.113.91
+0	10:18:02.480	'23900967': auto connecting to a better access point Access Point #4 (ping is 232.73 ms)
+0	10:18:03.348	'23900967': login on AdmiralMarkets-Demo through Access Point #4 (ping: 232.73 ms)
+0	10:18:06.106	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #4 (ping: 232.73 ms)
+0	10:18:06.788	'23900967': previous successful authorization performed from 154.126.113.91
+0	11:49:48.229	'23900967': close order #186371099 buy 0.50 [DJI30] at 25466.80 sl: 0.00 tp: 0.00 at price 0.00
+0	11:49:48.659	'23900967': order #186371099 buy 0.50 [DJI30] at 25466.80 sl: 0.00 tp: 0.00 closed at price 25543.78
+0	11:49:48.659	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	11:49:49.079	'23900967': order was opened : #186386066 sell 0.50 [DJI30] at 25542.78 sl: 0.00 tp: 0.00
+0	11:49:49.692	Notifications: 'order #186371099 buy 0.50 [DJI30] at 25466.80 closed at price 25543.78, profit: 38.49 USD' sent to 'A37163A9'
+0	11:49:50.643	Notifications: 'order opened #186386066 sell 0.50 [DJI30] at 25542.78' sent to 'A37163A9'
+1	11:59:51.084	'23900967': ping failed
+1	11:59:51.085	'23900967': datacenter connecting failed [6]
+1	11:59:51.708	'23900967': connect failed [Connection échouée]
+0	12:00:44.748	'23900967': login on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	12:00:46.783	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #1 (ping: n/a)
+0	12:00:47.482	'23900967': previous successful authorization performed from 154.126.113.91
+0	12:00:57.426	'23900967': auto connecting to a better access point Access Point #6 (ping is 212.72 ms)
+0	12:00:58.264	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: 212.72 ms)
+0	12:01:00.070	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 212.72 ms)
+0	12:01:00.741	'23900967': previous successful authorization performed from 154.126.113.91
+0	12:39:46.573	'23900967': close order #186386066 sell 0.50 [DJI30] at 25542.78 sl: 0.00 tp: 0.00 at price 0.00
+0	12:39:47.697	'23900967': order #186386066 sell 0.50 [DJI30] at 25542.78 sl: 0.00 tp: 0.00 closed at price 25556.78
+0	12:39:47.697	'23900967': order buy market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	12:39:48.323	'23900967': order was opened : #186393172 buy 0.50 [DJI30] at 25556.78 sl: 0.00 tp: 0.00
+0	12:39:49.355	Notifications: 'order #186386066 sell 0.50 [DJI30] at 25542.78 closed at price 25556.78, profit: -7.00 USD' sent to 'A37163A9'
+0	12:39:50.247	Notifications: 'order opened #186393172 buy 0.50 [DJI30] at 25556.78' sent to 'A37163A9'
+0	13:25:01.617	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: 212.72 ms)
+0	13:25:04.048	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 212.72 ms)
+0	13:25:05.323	'23900967': previous successful authorization performed from 154.126.113.91
+0	13:25:23.241	'23900967': close order #186393172 buy 0.50 [DJI30] at 25556.78 sl: 0.00 tp: 0.00 at price 0.00
+0	13:25:25.448	'23900967': order #186393172 buy 0.50 [DJI30] at 25556.78 sl: 0.00 tp: 0.00 closed at price 25548.29
+0	13:25:25.448	'23900967': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	13:25:27.459	Notifications: 'order #186393172 buy 0.50 [DJI30] at 25556.78 closed at price 25548.29, profit: -4.25 USD' sent to 'A37163A9'
+0	13:25:28.347	'23900967': order was opened : #186398094 sell 0.50 [DJI30] at 25549.29 sl: 0.00 tp: 0.00
+0	13:25:29.536	Notifications: 'order opened #186398094 sell 0.50 [DJI30] at 25549.29' sent to 'A37163A9'
+0	13:25:34.744	'23900967': ping to current access point Access Point #6 is 245.42 ms
+1	13:31:46.047	'23900967': connect failed [Connection échouée]
+0	13:32:13.061	'23900967': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+1	13:32:32.855	'23900967': datacenter connecting failed [6]
+0	13:32:39.212	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: 245.42 ms)
+0	13:32:40.908	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 245.42 ms)
+0	13:32:41.581	'23900967': previous successful authorization performed from 197.149.31.188
+0	13:32:52.548	'23900967': ping to current access point Access Point #6 is n/a
+1	14:05:09.582	'23900967': datacenter connecting failed [6]
+1	14:05:09.686	'23900967': ping failed
+1	14:05:09.824	'23900967': connect failed [Connection échouée]
+0	14:05:22.164	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: n/a)
+1	14:10:54.578	'23900967': datacenter connecting failed [6]
+0	14:11:04.915	'23900967': login on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	14:11:13.879	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: n/a)
+0	14:11:14.777	'23900967': previous successful authorization performed from 197.149.31.188
+0	14:11:30.370	'23900967': ping to current access point Access Point #2 is 245.74 ms
+0	18:01:58.058	'23900967': close order #186398094 sell 0.50 [DJI30] at 25549.29 sl: 0.00 tp: 0.00 at price 0.00
+0	18:01:59.214	'23900967': order #186398094 sell 0.50 [DJI30] at 25549.29 sl: 0.00 tp: 0.00 closed at price 25837.76
+0	18:02:00.933	Notifications: 'order #186398094 sell 0.50 [DJI30] at 25549.29 closed at price 25837.76, profit: -144.24 USD' sent to 'A37163A9'
+2	18:02:10.129	Expert Admiral - Mini Terminal [DJI30],M5: removed
+2	18:02:10.145	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	18:02:10.160	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	18:02:10.191	Custom indicator CandleTimer [DJI30],M5: removed
+2	18:02:10.254	Custom indicator #Signal_Bars_v6 [DJI30],M5: removed
+2	18:02:10.285	Custom indicator TrendEnvelopes_v1 [DJI30],M5: removed
+2	18:02:10.332	Custom indicator guppy_multiple_moving_averages [DJI30],M5: removed
+2	18:02:10.394	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	18:02:10.457	Custom indicator IVT_MACD_ZERO_LAG [DJI30],M5: removed
+2	18:02:10.457	Custom indicator JoeChalhoub_FXForecasterV1 [DJI30],M5: removed
+2	18:02:10.566	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	18:02:10.644	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	18:02:10.801	Custom indicator CandleTimer [DJI30],M5: loaded successfully
+2	18:02:10.863	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	18:02:10.894	Expert Admiral - Mini Terminal [DJI30],M5: loaded successfully
+2	18:02:23.532	Expert Admiral - Mini Terminal [DJI30],M5: removed
+0	18:02:27.843	'23900967': delete pending order #185795809 buy limit 0.10 GOLD at 1765.000 sl: 1756.500 tp: 1795.700
+0	18:02:29.187	'23900967': pending order #185795809 was deleted
+0	18:02:31.234	Notifications: 'pending order #185795809 buy limit 0.10 GOLD at 1765.000 deleted' sent to 'A37163A9'
+2	18:38:30.332	Expert Admiral - Mini Terminal EURUSD,Daily: removed
+2	18:38:33.253	Custom indicator AIMS Levels V2 EURUSD,Daily: removed
+2	18:38:33.253	Custom indicator AIMS Entry Alert V1 EURUSD,Daily: removed
+2	18:38:33.253	Custom indicator CandleTimer EURUSD,Daily: removed
+2	18:38:33.284	Custom indicator #Signal_Bars_v6 EURUSD,Daily: removed
+2	18:38:33.284	Custom indicator TrendEnvelopes_v1 EURUSD,Daily: removed
+2	18:38:33.284	Custom indicator guppy_multiple_moving_averages EURUSD,Daily: removed
+2	18:38:33.284	Custom indicator AIMS AO V.2.1 EURUSD,Daily: removed
+2	18:38:33.284	Custom indicator IVT_MACD_ZERO_LAG EURUSD,Daily: removed
+2	18:38:33.284	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,Daily: removed
+2	18:38:33.284	Expert Admiral - Mini Terminal [CAC40],Daily: removed
+2	18:38:34.456	Custom indicator AIMS Levels V2 [CAC40],Daily: removed
+2	18:38:34.456	Custom indicator AIMS Entry Alert V1 [CAC40],Daily: removed
+2	18:38:34.503	Custom indicator CandleTimer [CAC40],Daily: removed
+2	18:38:34.519	Custom indicator #Signal_Bars_v6 [CAC40],Daily: removed
+2	18:38:34.534	Custom indicator TrendEnvelopes_v1 [CAC40],Daily: removed
+2	18:38:34.534	Custom indicator guppy_multiple_moving_averages [CAC40],Daily: removed
+2	18:38:34.550	Custom indicator AIMS AO V.2.1 [CAC40],Daily: removed
+2	18:38:34.565	Custom indicator IVT_MACD_ZERO_LAG [CAC40],Daily: removed
+2	18:38:34.565	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],Daily: removed
+2	18:38:34.565	Expert Admiral - Mini Terminal [DAX30],Daily: removed
+2	18:38:35.612	Custom indicator AIMS Levels V2 [DAX30],Daily: removed
+2	18:38:35.612	Custom indicator AIMS Entry Alert V1 [DAX30],Daily: removed
+2	18:38:35.612	Custom indicator CandleTimer [DAX30],Daily: removed
+2	18:38:35.612	Custom indicator #Signal_Bars_v6 [DAX30],Daily: removed
+2	18:38:35.612	Custom indicator TrendEnvelopes_v1 [DAX30],Daily: removed
+2	18:38:35.612	Custom indicator guppy_multiple_moving_averages [DAX30],Daily: removed
+2	18:38:35.627	Custom indicator AIMS AO V.2.1 [DAX30],Daily: removed
+2	18:38:35.643	Custom indicator IVT_MACD_ZERO_LAG [DAX30],Daily: removed
+2	18:38:35.643	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],Daily: removed
+2	18:38:35.659	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	18:38:35.674	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	18:38:35.674	Custom indicator CandleTimer [DJI30],M5: removed
+2	18:38:35.674	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	18:38:35.690	Expert Admiral - Mini Terminal AUDUSD,Daily: removed
+2	18:38:36.205	Custom indicator AIMS Levels V2 AUDUSD,Daily: removed
+2	18:38:36.205	Custom indicator AIMS Entry Alert V1 AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator CandleTimer AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator #Signal_Bars_v6 AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator TrendEnvelopes_v1 AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator guppy_multiple_moving_averages AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator AIMS AO V.2.1 AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,Daily: removed
+2	18:38:36.221	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,Daily: removed
+2	18:38:36.237	Expert Admiral - Mini Terminal NZDJPY,Daily: removed
+2	18:38:36.627	Custom indicator AIMS Levels V2 NZDJPY,Daily: removed
+2	18:38:36.627	Custom indicator AIMS Entry Alert V1 NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator CandleTimer NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator #Signal_Bars_v6 NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator TrendEnvelopes_v1 NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator guppy_multiple_moving_averages NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator AIMS AO V.2.1 NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,Daily: removed
+2	18:38:36.643	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,Daily: removed
+2	18:38:36.674	Expert Admiral - Mini Terminal EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator AIMS Levels V2 EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator AIMS Entry Alert V1 EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator CandleTimer EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator #Signal_Bars_v6 EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator TrendEnvelopes_v1 EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator guppy_multiple_moving_averages EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator AIMS AO V.2.1 EURNZD,Daily: removed
+2	18:38:37.111	Custom indicator IVT_MACD_ZERO_LAG EURNZD,Daily: removed
+2	18:38:37.127	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,Daily: removed
+2	18:38:37.143	Expert Admiral - Mini Terminal GOLD,Daily: removed
+2	18:38:37.362	Custom indicator AIMS Levels V2 GOLD,Daily: removed
+2	18:38:37.362	Custom indicator AIMS Entry Alert V1 GOLD,Daily: removed
+2	18:38:37.377	Custom indicator CandleTimer GOLD,Daily: removed
+2	18:38:37.377	Custom indicator #Signal_Bars_v6 GOLD,Daily: removed
+2	18:38:37.377	Custom indicator TrendEnvelopes_v1 GOLD,Daily: removed
+2	18:38:37.377	Custom indicator guppy_multiple_moving_averages GOLD,Daily: removed
+2	18:38:37.377	Custom indicator AIMS AO V.2.1 GOLD,Daily: removed
+2	18:38:37.377	Custom indicator IVT_MACD_ZERO_LAG GOLD,Daily: removed
+2	18:38:37.377	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,Daily: removed
+2	18:38:37.393	Expert Admiral - Mini Terminal GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator AIMS Levels V2 GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator AIMS Entry Alert V1 GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator CandleTimer GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator #Signal_Bars_v6 GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator TrendEnvelopes_v1 GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator guppy_multiple_moving_averages GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator AIMS AO V.2.1 GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,Daily: removed
+2	18:38:37.627	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,Daily: removed
+2	18:38:37.643	Expert Admiral - Mini Terminal USDJPY,Daily: removed
+2	18:38:37.986	Custom indicator AIMS Levels V2 USDJPY,Daily: removed
+2	18:38:37.986	Custom indicator AIMS Entry Alert V1 USDJPY,Daily: removed
+2	18:38:37.986	Custom indicator CandleTimer USDJPY,Daily: removed
+2	18:38:37.986	Custom indicator #Signal_Bars_v6 USDJPY,Daily: removed
+2	18:38:37.986	Custom indicator TrendEnvelopes_v1 USDJPY,Daily: removed
+2	18:38:37.986	Custom indicator guppy_multiple_moving_averages USDJPY,Daily: removed
+2	18:38:38.033	Custom indicator AIMS AO V.2.1 USDJPY,Daily: removed
+2	18:38:38.033	Custom indicator IVT_MACD_ZERO_LAG USDJPY,Daily: removed
+2	18:38:38.033	Custom indicator JoeChalhoub_FXForecasterV1 USDJPY,Daily: removed
+2	18:38:38.080	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	18:38:38.252	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	18:38:38.252	Expert Admiral - Mini Terminal CADJPY,Daily: removed
+2	18:38:38.377	Custom indicator AIMS Levels V2 CADJPY,Daily: removed
+2	18:38:38.377	Custom indicator AIMS Entry Alert V1 CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator CandleTimer CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator #Signal_Bars_v6 CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator TrendEnvelopes_v1 CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator guppy_multiple_moving_averages CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator AIMS AO V.2.1 CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator IVT_MACD_ZERO_LAG CADJPY,Daily: removed
+2	18:38:38.392	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,Daily: removed
+2	18:38:38.408	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	18:38:38.471	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	18:38:38.471	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	18:38:38.471	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	18:38:38.471	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	18:38:38.486	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	18:38:38.486	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	18:38:38.486	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	18:38:38.486	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	18:38:38.486	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	18:38:38.486	Expert Admiral - Mini Terminal GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator AIMS Levels V2 GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator AIMS Entry Alert V1 GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator CandleTimer GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator #Signal_Bars_v6 GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator TrendEnvelopes_v1 GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator guppy_multiple_moving_averages GBPCHF,Daily: removed
+2	18:38:38.517	Custom indicator AIMS AO V.2.1 GBPCHF,Daily: removed
+2	18:38:38.533	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,Daily: removed
+2	18:38:38.533	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,Daily: removed
+0	18:38:40.408	Admiral Markets build 1260 stopped
+0	18:40:32.024	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	18:40:32.024	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 3553 / 8014 Mb, Disk: 21 / 237 Gb, GMT+3
+0	18:40:32.024	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	18:40:34.961	Custom indicator AIMS Levels V2 EURUSD,Daily: loaded successfully
+2	18:40:35.023	Custom indicator AIMS Entry Alert V1 EURUSD,Daily: loaded successfully
+2	18:40:35.023	Custom indicator CandleTimer EURUSD,Daily: loaded successfully
+2	18:40:35.086	Custom indicator #Signal_Bars_v6 EURUSD,Daily: loaded successfully
+2	18:40:35.101	Custom indicator TrendEnvelopes_v1 EURUSD,Daily: loaded successfully
+2	18:40:35.101	Custom indicator guppy_multiple_moving_averages EURUSD,Daily: loaded successfully
+2	18:40:35.164	Custom indicator AIMS AO V.2.1 EURUSD,Daily: loaded successfully
+2	18:40:35.179	Custom indicator IVT_MACD_ZERO_LAG EURUSD,Daily: loaded successfully
+2	18:40:35.179	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,Daily: loaded successfully
+2	18:40:35.195	Expert Admiral - Mini Terminal EURUSD,Daily: loaded successfully
+2	18:40:35.382	Custom indicator AIMS Levels V2 [CAC40],Daily: loaded successfully
+2	18:40:35.445	Custom indicator AIMS Entry Alert V1 [CAC40],Daily: loaded successfully
+2	18:40:35.461	Custom indicator CandleTimer [CAC40],Daily: loaded successfully
+2	18:40:35.523	Custom indicator #Signal_Bars_v6 [CAC40],Daily: loaded successfully
+2	18:40:35.539	Custom indicator TrendEnvelopes_v1 [CAC40],Daily: loaded successfully
+2	18:40:35.539	Custom indicator guppy_multiple_moving_averages [CAC40],Daily: loaded successfully
+2	18:40:35.601	Custom indicator AIMS AO V.2.1 [CAC40],Daily: loaded successfully
+2	18:40:35.601	Custom indicator IVT_MACD_ZERO_LAG [CAC40],Daily: loaded successfully
+2	18:40:35.617	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],Daily: loaded successfully
+2	18:40:35.617	Expert Admiral - Mini Terminal [CAC40],Daily: loaded successfully
+2	18:40:35.757	Custom indicator AIMS Levels V2 [DAX30],Daily: loaded successfully
+2	18:40:35.820	Custom indicator AIMS Entry Alert V1 [DAX30],Daily: loaded successfully
+2	18:40:35.820	Custom indicator CandleTimer [DAX30],Daily: loaded successfully
+2	18:40:35.882	Custom indicator #Signal_Bars_v6 [DAX30],Daily: loaded successfully
+2	18:40:35.882	Custom indicator TrendEnvelopes_v1 [DAX30],Daily: loaded successfully
+2	18:40:35.898	Custom indicator guppy_multiple_moving_averages [DAX30],Daily: loaded successfully
+2	18:40:35.960	Custom indicator AIMS AO V.2.1 [DAX30],Daily: loaded successfully
+2	18:40:35.960	Custom indicator IVT_MACD_ZERO_LAG [DAX30],Daily: loaded successfully
+2	18:40:35.976	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],Daily: loaded successfully
+2	18:40:35.976	Expert Admiral - Mini Terminal [DAX30],Daily: loaded successfully
+2	18:40:36.132	Custom indicator AIMS Levels V2 [DJI30],M5: loaded successfully
+2	18:40:36.195	Custom indicator AIMS Entry Alert V1 [DJI30],M5: loaded successfully
+2	18:40:36.195	Custom indicator CandleTimer [DJI30],M5: loaded successfully
+2	18:40:36.257	Custom indicator AIMS AO V.2.1 [DJI30],M5: loaded successfully
+2	18:40:36.367	Custom indicator AIMS Levels V2 AUDUSD,Daily: loaded successfully
+2	18:40:36.429	Custom indicator AIMS Entry Alert V1 AUDUSD,Daily: loaded successfully
+2	18:40:36.429	Custom indicator CandleTimer AUDUSD,Daily: loaded successfully
+2	18:40:36.492	Custom indicator #Signal_Bars_v6 AUDUSD,Daily: loaded successfully
+2	18:40:36.507	Custom indicator TrendEnvelopes_v1 AUDUSD,Daily: loaded successfully
+2	18:40:36.507	Custom indicator guppy_multiple_moving_averages AUDUSD,Daily: loaded successfully
+2	18:40:36.585	Custom indicator AIMS AO V.2.1 AUDUSD,Daily: loaded successfully
+2	18:40:36.585	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,Daily: loaded successfully
+2	18:40:36.601	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,Daily: loaded successfully
+2	18:40:36.601	Expert Admiral - Mini Terminal AUDUSD,Daily: loaded successfully
+2	18:40:36.773	Custom indicator AIMS Levels V2 NZDJPY,Daily: loaded successfully
+2	18:40:36.820	Custom indicator AIMS Entry Alert V1 NZDJPY,Daily: loaded successfully
+2	18:40:36.835	Custom indicator CandleTimer NZDJPY,Daily: loaded successfully
+2	18:40:36.898	Custom indicator #Signal_Bars_v6 NZDJPY,Daily: loaded successfully
+2	18:40:36.898	Custom indicator TrendEnvelopes_v1 NZDJPY,Daily: loaded successfully
+2	18:40:36.913	Custom indicator guppy_multiple_moving_averages NZDJPY,Daily: loaded successfully
+2	18:40:36.960	Custom indicator AIMS AO V.2.1 NZDJPY,Daily: loaded successfully
+2	18:40:36.976	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,Daily: loaded successfully
+2	18:40:36.976	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,Daily: loaded successfully
+2	18:40:36.991	Expert Admiral - Mini Terminal NZDJPY,Daily: loaded successfully
+2	18:40:37.148	Custom indicator AIMS Levels V2 EURNZD,Daily: loaded successfully
+2	18:40:37.210	Custom indicator AIMS Entry Alert V1 EURNZD,Daily: loaded successfully
+2	18:40:37.226	Custom indicator CandleTimer EURNZD,Daily: loaded successfully
+2	18:40:37.288	Custom indicator #Signal_Bars_v6 EURNZD,Daily: loaded successfully
+2	18:40:37.288	Custom indicator TrendEnvelopes_v1 EURNZD,Daily: loaded successfully
+2	18:40:37.304	Custom indicator guppy_multiple_moving_averages EURNZD,Daily: loaded successfully
+2	18:40:37.351	Custom indicator AIMS AO V.2.1 EURNZD,Daily: loaded successfully
+2	18:40:37.366	Custom indicator IVT_MACD_ZERO_LAG EURNZD,Daily: loaded successfully
+2	18:40:37.366	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,Daily: loaded successfully
+2	18:40:37.382	Expert Admiral - Mini Terminal EURNZD,Daily: loaded successfully
+2	18:40:37.538	Custom indicator AIMS Levels V2 GOLD,Daily: loaded successfully
+2	18:40:37.601	Custom indicator AIMS Entry Alert V1 GOLD,Daily: loaded successfully
+2	18:40:37.616	Custom indicator CandleTimer GOLD,Daily: loaded successfully
+2	18:40:37.663	Custom indicator #Signal_Bars_v6 GOLD,Daily: loaded successfully
+2	18:40:37.679	Custom indicator TrendEnvelopes_v1 GOLD,Daily: loaded successfully
+2	18:40:37.679	Custom indicator guppy_multiple_moving_averages GOLD,Daily: loaded successfully
+2	18:40:37.741	Custom indicator AIMS AO V.2.1 GOLD,Daily: loaded successfully
+2	18:40:37.741	Custom indicator IVT_MACD_ZERO_LAG GOLD,Daily: loaded successfully
+2	18:40:37.757	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,Daily: loaded successfully
+2	18:40:37.772	Expert Admiral - Mini Terminal GOLD,Daily: loaded successfully
+2	18:40:37.913	Custom indicator AIMS Levels V2 GBPUSD,Daily: loaded successfully
+2	18:40:37.976	Custom indicator AIMS Entry Alert V1 GBPUSD,Daily: loaded successfully
+2	18:40:37.976	Custom indicator CandleTimer GBPUSD,Daily: loaded successfully
+2	18:40:38.038	Custom indicator #Signal_Bars_v6 GBPUSD,Daily: loaded successfully
+2	18:40:38.054	Custom indicator TrendEnvelopes_v1 GBPUSD,Daily: loaded successfully
+2	18:40:38.054	Custom indicator guppy_multiple_moving_averages GBPUSD,Daily: loaded successfully
+2	18:40:38.116	Custom indicator AIMS AO V.2.1 GBPUSD,Daily: loaded successfully
+2	18:40:38.116	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,Daily: loaded successfully
+2	18:40:38.132	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,Daily: loaded successfully
+2	18:40:38.132	Expert Admiral - Mini Terminal GBPUSD,Daily: loaded successfully
+2	18:40:38.304	Custom indicator AIMS Levels V2 USDJPY,Daily: loaded successfully
+2	18:40:38.366	Custom indicator AIMS Entry Alert V1 USDJPY,Daily: loaded successfully
+2	18:40:38.366	Custom indicator CandleTimer USDJPY,Daily: loaded successfully
+2	18:40:38.429	Custom indicator #Signal_Bars_v6 USDJPY,Daily: loaded successfully
+2	18:40:38.429	Custom indicator TrendEnvelopes_v1 USDJPY,Daily: loaded successfully
+2	18:40:38.429	Custom indicator guppy_multiple_moving_averages USDJPY,Daily: loaded successfully
+2	18:40:38.491	Custom indicator AIMS AO V.2.1 USDJPY,Daily: loaded successfully
+2	18:40:38.507	Custom indicator IVT_MACD_ZERO_LAG USDJPY,Daily: loaded successfully
+2	18:40:38.507	Custom indicator JoeChalhoub_FXForecasterV1 USDJPY,Daily: loaded successfully
+2	18:40:38.522	Expert Admiral - Mini Terminal USDJPY,Daily: loaded successfully
+2	18:40:38.694	Custom indicator AIMS Levels V2 GBPAUD,Daily: loaded successfully
+2	18:40:38.757	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: loaded successfully
+2	18:40:38.757	Custom indicator CandleTimer GBPAUD,Daily: loaded successfully
+2	18:40:38.819	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: loaded successfully
+2	18:40:38.819	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: loaded successfully
+2	18:40:38.835	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: loaded successfully
+2	18:40:38.897	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: loaded successfully
+2	18:40:38.897	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: loaded successfully
+2	18:40:38.913	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: loaded successfully
+2	18:40:38.913	Expert Admiral - Mini Terminal GBPAUD,Daily: loaded successfully
+2	18:40:39.085	Custom indicator AIMS Levels V2 CADJPY,Daily: loaded successfully
+2	18:40:39.147	Custom indicator AIMS Entry Alert V1 CADJPY,Daily: loaded successfully
+2	18:40:39.147	Custom indicator CandleTimer CADJPY,Daily: loaded successfully
+2	18:40:39.210	Custom indicator #Signal_Bars_v6 CADJPY,Daily: loaded successfully
+2	18:40:39.210	Custom indicator TrendEnvelopes_v1 CADJPY,Daily: loaded successfully
+2	18:40:39.225	Custom indicator guppy_multiple_moving_averages CADJPY,Daily: loaded successfully
+2	18:40:39.272	Custom indicator AIMS AO V.2.1 CADJPY,Daily: loaded successfully
+2	18:40:39.288	Custom indicator IVT_MACD_ZERO_LAG CADJPY,Daily: loaded successfully
+2	18:40:39.288	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,Daily: loaded successfully
+2	18:40:39.303	Expert Admiral - Mini Terminal CADJPY,Daily: loaded successfully
+2	18:40:39.460	Custom indicator AIMS Levels V2 GBPAUD,Daily: loaded successfully
+2	18:40:39.522	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: loaded successfully
+2	18:40:39.538	Custom indicator CandleTimer GBPAUD,Daily: loaded successfully
+2	18:40:39.585	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: loaded successfully
+2	18:40:39.600	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: loaded successfully
+2	18:40:39.600	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: loaded successfully
+2	18:40:39.663	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: loaded successfully
+2	18:40:39.663	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: loaded successfully
+2	18:40:39.678	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: loaded successfully
+2	18:40:39.694	Expert Admiral - Mini Terminal GBPAUD,Daily: loaded successfully
+2	18:40:39.850	Custom indicator AIMS Levels V2 GBPCHF,Daily: loaded successfully
+2	18:40:39.913	Custom indicator AIMS Entry Alert V1 GBPCHF,Daily: loaded successfully
+2	18:40:39.913	Custom indicator CandleTimer GBPCHF,Daily: loaded successfully
+2	18:40:39.975	Custom indicator #Signal_Bars_v6 GBPCHF,Daily: loaded successfully
+2	18:40:39.975	Custom indicator TrendEnvelopes_v1 GBPCHF,Daily: loaded successfully
+2	18:40:39.991	Custom indicator guppy_multiple_moving_averages GBPCHF,Daily: loaded successfully
+2	18:40:40.038	Custom indicator AIMS AO V.2.1 GBPCHF,Daily: loaded successfully
+2	18:40:40.053	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,Daily: loaded successfully
+2	18:40:40.053	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,Daily: loaded successfully
+2	18:40:40.069	Expert Admiral - Mini Terminal GBPCHF,Daily: loaded successfully
+0	18:40:41.694	'23900967': login on AdmiralMarkets-Demo through Access Point #2 (ping: 245.74 ms)
+0	18:40:44.754	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #2 (ping: 245.74 ms)
+0	18:40:45.649	'23900967': previous successful authorization performed from 197.149.31.188
+0	18:41:02.521	'23900967': auto connecting to a better access point Access Point #6 (ping is 219.21 ms)
+0	18:41:03.782	'23900967': login on AdmiralMarkets-Demo through Access Point #6 (ping: 219.21 ms)
+0	18:41:06.086	'23900967': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 219.21 ms)
+0	18:41:07.090	'23900967': previous successful authorization performed from 197.149.31.188
+2	18:41:46.093	Expert Admiral - Mini Terminal EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator AIMS Levels V2 EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator AIMS Entry Alert V1 EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator CandleTimer EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator #Signal_Bars_v6 EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator TrendEnvelopes_v1 EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator guppy_multiple_moving_averages EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator AIMS AO V.2.1 EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator IVT_MACD_ZERO_LAG EURUSD,Daily: removed
+2	18:41:46.140	Custom indicator JoeChalhoub_FXForecasterV1 EURUSD,Daily: removed
+2	18:41:46.156	Expert Admiral - Mini Terminal [CAC40],Daily: removed
+2	18:41:46.218	Custom indicator AIMS Levels V2 [CAC40],Daily: removed
+2	18:41:46.218	Custom indicator AIMS Entry Alert V1 [CAC40],Daily: removed
+2	18:41:46.218	Custom indicator CandleTimer [CAC40],Daily: removed
+2	18:41:46.218	Custom indicator #Signal_Bars_v6 [CAC40],Daily: removed
+2	18:41:46.234	Custom indicator TrendEnvelopes_v1 [CAC40],Daily: removed
+2	18:41:46.234	Custom indicator guppy_multiple_moving_averages [CAC40],Daily: removed
+2	18:41:46.234	Custom indicator AIMS AO V.2.1 [CAC40],Daily: removed
+2	18:41:46.234	Custom indicator IVT_MACD_ZERO_LAG [CAC40],Daily: removed
+2	18:41:46.234	Custom indicator JoeChalhoub_FXForecasterV1 [CAC40],Daily: removed
+2	18:41:46.249	Expert Admiral - Mini Terminal [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator AIMS Levels V2 [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator AIMS Entry Alert V1 [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator CandleTimer [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator #Signal_Bars_v6 [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator TrendEnvelopes_v1 [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator guppy_multiple_moving_averages [DAX30],Daily: removed
+2	18:41:46.296	Custom indicator AIMS AO V.2.1 [DAX30],Daily: removed
+2	18:41:46.312	Custom indicator IVT_MACD_ZERO_LAG [DAX30],Daily: removed
+2	18:41:46.312	Custom indicator JoeChalhoub_FXForecasterV1 [DAX30],Daily: removed
+2	18:41:46.327	Custom indicator AIMS Levels V2 [DJI30],M5: removed
+2	18:41:46.327	Custom indicator AIMS Entry Alert V1 [DJI30],M5: removed
+2	18:41:46.327	Custom indicator CandleTimer [DJI30],M5: removed
+2	18:41:46.327	Custom indicator AIMS AO V.2.1 [DJI30],M5: removed
+2	18:41:46.327	Expert Admiral - Mini Terminal AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator AIMS Levels V2 AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator AIMS Entry Alert V1 AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator CandleTimer AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator #Signal_Bars_v6 AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator TrendEnvelopes_v1 AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator guppy_multiple_moving_averages AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator AIMS AO V.2.1 AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,Daily: removed
+2	18:41:46.374	Custom indicator JoeChalhoub_FXForecasterV1 AUDUSD,Daily: removed
+2	18:41:46.390	Expert Admiral - Mini Terminal NZDJPY,Daily: removed
+2	18:41:46.421	Custom indicator AIMS Levels V2 NZDJPY,Daily: removed
+2	18:41:46.421	Custom indicator AIMS Entry Alert V1 NZDJPY,Daily: removed
+2	18:41:46.421	Custom indicator CandleTimer NZDJPY,Daily: removed
+2	18:41:46.421	Custom indicator #Signal_Bars_v6 NZDJPY,Daily: removed
+2	18:41:46.421	Custom indicator TrendEnvelopes_v1 NZDJPY,Daily: removed
+2	18:41:46.437	Custom indicator guppy_multiple_moving_averages NZDJPY,Daily: removed
+2	18:41:46.437	Custom indicator AIMS AO V.2.1 NZDJPY,Daily: removed
+2	18:41:46.437	Custom indicator IVT_MACD_ZERO_LAG NZDJPY,Daily: removed
+2	18:41:46.437	Custom indicator JoeChalhoub_FXForecasterV1 NZDJPY,Daily: removed
+2	18:41:46.437	Expert Admiral - Mini Terminal EURNZD,Daily: removed
+2	18:41:46.484	Custom indicator AIMS Levels V2 EURNZD,Daily: removed
+2	18:41:46.484	Custom indicator AIMS Entry Alert V1 EURNZD,Daily: removed
+2	18:41:46.484	Custom indicator CandleTimer EURNZD,Daily: removed
+2	18:41:46.484	Custom indicator #Signal_Bars_v6 EURNZD,Daily: removed
+2	18:41:46.484	Custom indicator TrendEnvelopes_v1 EURNZD,Daily: removed
+2	18:41:46.499	Custom indicator guppy_multiple_moving_averages EURNZD,Daily: removed
+2	18:41:46.499	Custom indicator AIMS AO V.2.1 EURNZD,Daily: removed
+2	18:41:46.499	Custom indicator IVT_MACD_ZERO_LAG EURNZD,Daily: removed
+2	18:41:46.499	Custom indicator JoeChalhoub_FXForecasterV1 EURNZD,Daily: removed
+2	18:41:46.499	Expert Admiral - Mini Terminal GOLD,Daily: removed
+2	18:41:46.546	Custom indicator AIMS Levels V2 GOLD,Daily: removed
+2	18:41:46.546	Custom indicator AIMS Entry Alert V1 GOLD,Daily: removed
+2	18:41:46.546	Custom indicator CandleTimer GOLD,Daily: removed
+2	18:41:46.546	Custom indicator #Signal_Bars_v6 GOLD,Daily: removed
+2	18:41:46.546	Custom indicator TrendEnvelopes_v1 GOLD,Daily: removed
+2	18:41:46.546	Custom indicator guppy_multiple_moving_averages GOLD,Daily: removed
+2	18:41:46.546	Custom indicator AIMS AO V.2.1 GOLD,Daily: removed
+2	18:41:46.546	Custom indicator IVT_MACD_ZERO_LAG GOLD,Daily: removed
+2	18:41:46.546	Custom indicator JoeChalhoub_FXForecasterV1 GOLD,Daily: removed
+2	18:41:46.546	Expert Admiral - Mini Terminal GBPUSD,Daily: removed
+2	18:41:46.593	Custom indicator AIMS Levels V2 GBPUSD,Daily: removed
+2	18:41:46.593	Custom indicator AIMS Entry Alert V1 GBPUSD,Daily: removed
+2	18:41:46.593	Custom indicator CandleTimer GBPUSD,Daily: removed
+2	18:41:46.593	Custom indicator #Signal_Bars_v6 GBPUSD,Daily: removed
+2	18:41:46.593	Custom indicator TrendEnvelopes_v1 GBPUSD,Daily: removed
+2	18:41:46.609	Custom indicator guppy_multiple_moving_averages GBPUSD,Daily: removed
+2	18:41:46.609	Custom indicator AIMS AO V.2.1 GBPUSD,Daily: removed
+2	18:41:46.609	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,Daily: removed
+2	18:41:46.609	Custom indicator JoeChalhoub_FXForecasterV1 GBPUSD,Daily: removed
+2	18:41:46.609	Expert Admiral - Mini Terminal USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator AIMS Levels V2 USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator AIMS Entry Alert V1 USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator CandleTimer USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator #Signal_Bars_v6 USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator TrendEnvelopes_v1 USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator guppy_multiple_moving_averages USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator AIMS AO V.2.1 USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator IVT_MACD_ZERO_LAG USDJPY,Daily: removed
+2	18:41:46.655	Custom indicator JoeChalhoub_FXForecasterV1 USDJPY,Daily: removed
+2	18:41:46.671	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	18:41:46.718	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	18:41:46.734	Expert Admiral - Mini Terminal CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator AIMS Levels V2 CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator AIMS Entry Alert V1 CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator CandleTimer CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator #Signal_Bars_v6 CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator TrendEnvelopes_v1 CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator guppy_multiple_moving_averages CADJPY,Daily: removed
+2	18:41:46.765	Custom indicator AIMS AO V.2.1 CADJPY,Daily: removed
+2	18:41:46.780	Custom indicator IVT_MACD_ZERO_LAG CADJPY,Daily: removed
+2	18:41:46.780	Custom indicator JoeChalhoub_FXForecasterV1 CADJPY,Daily: removed
+2	18:41:46.780	Expert Admiral - Mini Terminal GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator AIMS Levels V2 GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator AIMS Entry Alert V1 GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator CandleTimer GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator #Signal_Bars_v6 GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator TrendEnvelopes_v1 GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator guppy_multiple_moving_averages GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator AIMS AO V.2.1 GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,Daily: removed
+2	18:41:46.827	Custom indicator JoeChalhoub_FXForecasterV1 GBPAUD,Daily: removed
+2	18:41:46.843	Expert Admiral - Mini Terminal GBPCHF,Daily: removed
+2	18:41:46.874	Custom indicator AIMS Levels V2 GBPCHF,Daily: removed
+2	18:41:46.874	Custom indicator AIMS Entry Alert V1 GBPCHF,Daily: removed
+2	18:41:46.874	Custom indicator CandleTimer GBPCHF,Daily: removed
+2	18:41:46.874	Custom indicator #Signal_Bars_v6 GBPCHF,Daily: removed
+2	18:41:46.874	Custom indicator TrendEnvelopes_v1 GBPCHF,Daily: removed
+2	18:41:46.890	Custom indicator guppy_multiple_moving_averages GBPCHF,Daily: removed
+2	18:41:46.890	Custom indicator AIMS AO V.2.1 GBPCHF,Daily: removed
+2	18:41:46.890	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,Daily: removed
+2	18:41:46.890	Custom indicator JoeChalhoub_FXForecasterV1 GBPCHF,Daily: removed
+0	18:41:47.358	Admiral Markets build 1260 stopped

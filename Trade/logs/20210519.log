@@ -1,0 +1,350 @@
+1	10:57:38.827	MQL5.community: authorization failed
+1	10:57:40.992	MQL5.community: authorization failed
+0	10:58:09.575	'1300050632': login on FTMO-Server2 through DC 1 (ping: n/a)
+0	10:58:49.685	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: n/a)
+0	10:58:52.395	'1300050632': previous successful authorization performed from 154.126.12.242
+0	10:59:56.488	'1300050632': auto connecting to a better access point DC 4 (ping is 324.22 ms)
+1	11:00:56.967	'1300050632': connect failed [Connection échouée]
+0	11:01:03.984	'1300050632': login on FTMO-Server2 through DC 5 (ping: 309.84 ms)
+0	11:01:07.495	'1300050632': login datacenter on FTMO-Server2 through DC 5 (ping: 309.84 ms)
+0	11:01:08.787	'1300050632': previous successful authorization performed from 41.63.134.25
+1	11:10:33.182	'1300050632': ping failed
+1	11:10:33.196	'1300050632': datacenter connecting failed [6]
+0	11:10:43.273	'1300050632': login on FTMO-Server2 through DC 1 (ping: 324.74 ms)
+0	11:10:54.114	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: 324.74 ms)
+0	11:11:01.055	'1300050632': previous successful authorization performed from 41.63.134.25
+1	11:15:05.078	'1300050632': datacenter connecting failed [6]
+0	11:15:18.357	'1300050632': login on FTMO-Server2 through DC 3 (ping: 325.22 ms)
+0	11:15:20.803	'1300050632': login datacenter on FTMO-Server2 through DC 3 (ping: 325.22 ms)
+0	11:15:21.434	'1300050632': previous successful authorization performed from 41.63.134.25
+0	11:18:32.932	'1300050632': order #5030454 sell 0.01 NZDUSD at 0.72347 closed due take-profit at price 0.72028
+1	11:19:18.087	'1300050632': datacenter connecting failed [6]
+1	11:19:18.158	'1300050632': connect failed [Connection échouée]
+0	11:19:40.357	'1300050632': login on FTMO-Server2 through DC 1 (ping: n/a)
+0	11:19:46.072	'1300050632': login datacenter on FTMO-Server2 through DC 1 (ping: n/a)
+0	11:19:47.861	'1300050632': previous successful authorization performed from 41.63.134.25
+0	11:20:43.016	'1300050632': ping to current access point DC 1 is n/a
+1	11:27:14.962	'1300050632': ping failed
+1	11:27:14.978	'1300050632': datacenter connecting failed [6]
+0	11:27:17.032	'1300050632': login on FTMO-Server2 through DC 5 (ping: 249.73 ms)
+0	11:27:22.076	'1300050632': login datacenter on FTMO-Server2 through DC 5 (ping: 249.73 ms)
+0	11:27:23.222	'1300050632': previous successful authorization performed from 41.63.134.25
+1	11:31:22.951	'1300050632': ping failed
+1	11:31:22.967	'1300050632': datacenter connecting failed [6]
+1	11:32:21.322	'1300050632': connect failed [Connection échouée]
+0	11:32:33.913	'1300050632': login on FTMO-Server2 through DC 3 (ping: 306.61 ms)
+0	11:32:36.358	'1300050632': login datacenter on FTMO-Server2 through DC 3 (ping: 306.61 ms)
+0	11:32:37.219	'1300050632': previous successful authorization performed from 41.63.134.25
+0	11:43:25.447	'1300050632': close order #5085883 sell 0.08 NZDUSD at 0.72448 sl: 0.72680 tp: 0.00000 at price 0.00000
+0	11:43:26.153	'1300050632': order #5085883 sell 0.08 NZDUSD at 0.72448 sl: 0.72680 tp: 0.00000 closed at price 0.72024
+0	11:43:41.102	'1300050632': close order #5137294 sell 0.07 UK100.cash at 6951.75 sl: 7000.00 tp: 0.00 at price 0.00
+0	11:43:41.760	'1300050632': order #5137294 sell 0.07 UK100.cash at 6951.75 sl: 7000.00 tp: 0.00 closed at price 6929.20
+0	11:44:50.556	'1300050632': modify order #5100086 sell 0.10 XAUUSD at 1865.52 sl: 1875.00 tp: 1840.00 -> sl: 1865.30 tp: 1840.00
+0	11:44:51.039	'1300050632': order #5100086 sell 0.10 XAUUSD at 1865.52 was modified -> sl: 1865.30 tp: 1840.00
+1	11:45:18.531	'1300050632': ping failed
+1	11:45:18.542	'1300050632': datacenter connecting failed [6]
+0	11:45:21.173	'1300050632': login on FTMO-Server2 through DC 2 (ping: 954.40 ms)
+0	11:45:27.529	'1300050632': login datacenter on FTMO-Server2 through DC 2 (ping: 954.40 ms)
+0	11:45:33.764	'1300050632': previous successful authorization performed from 41.63.134.25
+0	11:47:10.303	'1300050632': close order #5100086 sell 0.10 XAUUSD at 1865.52 sl: 1865.30 tp: 1840.00 at price 0.00
+0	11:47:10.998	'1300050632': order #5100086 sell 0.10 XAUUSD at 1865.52 sl: 1865.30 tp: 1840.00 closed at price 1862.18
+0	11:47:27.079	'1300050632': close order #5130103 buy 0.07 USDCAD at 1.20721 sl: 1.20110 tp: 0.00000 at price 0.00000
+0	11:47:27.805	'1300050632': order #5130103 buy 0.07 USDCAD at 1.20721 sl: 1.20110 tp: 0.00000 closed at price 1.20945
+1	11:48:54.031	'1300050632': ping failed
+1	11:48:54.203	'1300050632': connect failed [Connection échouée]
+0	13:12:39.904	'1300050632': login on FTMO-Server2 through DC 2 (ping: 954.40 ms)
+0	13:12:42.150	'1300050632': login datacenter on FTMO-Server2 through DC 2 (ping: 954.40 ms)
+0	13:12:43.056	'1300050632': previous successful authorization performed from 154.126.12.41
+0	13:12:52.365	'1300050632': auto connecting to a better access point DC 4 (ping is 221.69 ms)
+1	13:12:53.243	'1300050632': connect failed [Connection échouée]
+0	13:12:59.412	'1300050632': login on FTMO-Server2 through DC 5 (ping: 208.45 ms)
+0	13:13:01.349	'1300050632': login datacenter on FTMO-Server2 through DC 5 (ping: 208.45 ms)
+0	13:13:02.241	'1300050632': previous successful authorization performed from 41.207.60.33
+1	13:51:02.254	'1300050632': datacenter connecting failed [6]
+1	13:51:02.576	'1300050632': connect failed [Connection échouée]
+1	20:31:51.462	MQL5.community: authorization failed
+0	20:32:03.389	'1300050632': login on FTMO-Server2 through DC 5 (ping: 208.45 ms)
+0	20:32:07.443	'1300050632': login datacenter on FTMO-Server2 through DC 5 (ping: 208.45 ms)
+0	20:32:09.429	'1300050632': previous successful authorization performed from 197.149.40.41
+0	20:32:43.230	'1300050632': ping to current access point DC 5 is 228.21 ms
+2	20:40:29.904	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	20:40:30.002	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	20:40:30.109	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	20:40:30.278	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	20:40:30.301	Custom indicator TrendEnvelopes_v1 EURUSD,H1: loaded successfully
+2	20:40:30.310	Custom indicator guppy_multiple_moving_averages EURUSD,H1: loaded successfully
+2	20:40:30.410	Custom indicator wedges EURUSD,H1: loaded successfully
+2	20:40:30.451	Custom indicator Admiral Pivot EURUSD,H1: loaded successfully
+2	20:40:30.529	Custom indicator AutoTrendChannel EURUSD,H1: loaded successfully
+2	20:40:30.555	Custom indicator FRZ Channel Auto Plotter EURUSD,H1: loaded successfully
+2	20:40:30.568	Custom indicator FRZ News Indicator MT4 EURUSD,H1: loaded successfully
+2	20:40:30.600	Custom indicator Forex Uranus direction EURUSD,H1: loaded successfully
+2	20:40:30.694	Custom indicator aVSA\aVSA clasters EURUSD,H1: loaded successfully
+2	20:40:30.726	Custom indicator aVSA\aVSA Golden Zone EURUSD,H1: loaded successfully
+2	20:40:30.748	Custom indicator breakout-zones\breakout-zones EURUSD,H1: loaded successfully
+2	20:40:30.777	Custom indicator breakout-zones\SL&TP Values EURUSD,H1: loaded successfully
+2	20:40:30.848	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	20:40:30.858	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	20:40:30.889	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	20:40:31.005	Custom indicator FRZ Forex Market Session Indicator EURUSD,H1: loaded successfully
+0	20:42:05.059	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	20:42:06.118	'1300050632': order was opened : #5211596 sell 0.09 XAUUSD at 1879.95 sl: 0.00 tp: 0.00
+0	20:42:49.014	'1300050632': modify order #5211596 sell 0.09 XAUUSD at 1879.95 sl: 0.00 tp: 0.00 -> sl: 18990.30 tp: 0.00
+0	20:42:49.387	'1300050632': order #5211596 sell 0.09 XAUUSD at 1879.95 was modified -> sl: 18990.30 tp: 0.00
+0	20:43:33.763	'1300050632': modify order #5211596 sell 0.09 XAUUSD at 1879.95 sl: 18990.30 tp: 0.00 -> sl: 1890.30 tp: 0.00
+0	20:43:34.201	'1300050632': order #5211596 sell 0.09 XAUUSD at 1879.95 was modified -> sl: 1890.30 tp: 0.00
+0	20:46:57.294	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	20:46:57.855	'1300050632': order was opened : #5211762 sell 0.15 US30.cash at 33784.45 sl: 0.00 tp: 0.00
+0	20:47:15.713	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 0.00 tp: 0.00 -> sl: 33867.78 tp: 0.00
+0	20:47:16.055	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33867.78 tp: 0.00
+1	20:48:24.655	'1300050632': modification of order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33867.78 tp: 0.00 -> sl: 33782.77 tp: 0.00 failed [Invalid S/L or T/P]
+0	21:04:04.413	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33867.78 tp: 0.00 -> sl: 33765.08 tp: 0.00
+0	21:04:04.798	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33765.08 tp: 0.00
+0	21:04:14.945	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33765.08 tp: 0.00 -> sl: 33740.30 tp: 0.00
+0	21:04:15.325	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33740.30 tp: 0.00
+0	21:04:24.206	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33740.30 tp: 0.00 -> sl: 33727.56 tp: 0.00
+0	21:04:24.619	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33727.56 tp: 0.00
+0	21:04:29.099	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33727.56 tp: 0.00 -> sl: 33728.27 tp: 0.00
+0	21:04:29.623	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33728.27 tp: 0.00
+0	21:04:49.012	'1300050632': modify order #5211596 sell 0.09 XAUUSD at 1879.95 sl: 1890.30 tp: 0.00 -> sl: 1877.19 tp: 0.00
+0	21:04:49.472	'1300050632': order #5211596 sell 0.09 XAUUSD at 1879.95 was modified -> sl: 1877.19 tp: 0.00
+0	21:05:12.637	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33728.27 tp: 0.00 -> sl: 33703.49 tp: 0.00
+0	21:05:13.043	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33703.49 tp: 0.00
+0	21:05:19.726	'1300050632': modify order #5211762 sell 0.15 US30.cash at 33784.45 sl: 33703.49 tp: 0.00 -> sl: 33692.88 tp: 0.00
+0	21:05:20.179	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 was modified -> sl: 33692.88 tp: 0.00
+0	21:05:28.624	'1300050632': order #5211762 sell 0.15 US30.cash at 33784.45 closed due stop-loss at price 33694.55
+0	21:05:33.866	'1300050632': close order #5211596 sell 0.09 XAUUSD at 1879.95 sl: 1877.19 tp: 0.00 at price 0.00
+0	21:05:34.541	'1300050632': order #5211596 sell 0.09 XAUUSD at 1879.95 sl: 1877.19 tp: 0.00 closed at price 1874.96
+0	21:06:40.906	'1300050632': order buy market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:06:41.463	'1300050632': order was opened : #5213974 buy 0.09 XAUUSD at 1875.11 sl: 0.00 tp: 0.00
+0	21:06:50.026	'1300050632': modify order #5213974 buy 0.09 XAUUSD at 1875.11 sl: 0.00 tp: 0.00 -> sl: 1873.56 tp: 0.00
+0	21:06:50.448	'1300050632': order #5213974 buy 0.09 XAUUSD at 1875.11 was modified -> sl: 1873.56 tp: 0.00
+0	21:07:02.896	'1300050632': modify order #5213974 buy 0.09 XAUUSD at 1875.11 sl: 1873.56 tp: 0.00 -> sl: 1873.43 tp: 0.00
+0	21:07:03.307	'1300050632': order #5213974 buy 0.09 XAUUSD at 1875.11 was modified -> sl: 1873.43 tp: 0.00
+0	21:07:19.965	'1300050632': order #5213974 buy 0.09 XAUUSD at 1875.11 closed due stop-loss at price 1873.35
+0	21:07:25.526	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:07:26.110	'1300050632': order was opened : #5214173 sell 0.09 XAUUSD at 1873.35 sl: 0.00 tp: 0.00
+0	21:07:34.435	'1300050632': modify order #5214173 sell 0.09 XAUUSD at 1873.35 sl: 0.00 tp: 0.00 -> sl: 1874.16 tp: 0.00
+0	21:07:34.785	'1300050632': order #5214173 sell 0.09 XAUUSD at 1873.35 was modified -> sl: 1874.16 tp: 0.00
+0	21:07:50.434	'1300050632': modify order #5214173 sell 0.09 XAUUSD at 1873.35 sl: 1874.16 tp: 0.00 -> sl: 1873.34 tp: 0.00
+0	21:07:50.872	'1300050632': order #5214173 sell 0.09 XAUUSD at 1873.35 was modified -> sl: 1873.34 tp: 0.00
+0	21:08:10.850	'1300050632': order sell market 0.10 US30.cash sl: 0.00 tp: 0.00
+0	21:08:11.550	'1300050632': order was opened : #5214398 sell 0.10 US30.cash at 33704.45 sl: 0.00 tp: 0.00
+0	21:08:14.742	'1300050632': order #5214173 sell 0.09 XAUUSD at 1873.35 closed due stop-loss at price 1873.33
+0	21:08:41.339	'1300050632': modify order #5214398 sell 0.10 US30.cash at 33704.45 sl: 0.00 tp: 0.00 -> sl: 33755.39 tp: 0.00
+0	21:08:41.752	'1300050632': order #5214398 sell 0.10 US30.cash at 33704.45 was modified -> sl: 33755.39 tp: 0.00
+0	21:08:51.923	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:08:52.792	'1300050632': order was opened : #5214606 sell 0.09 XAUUSD at 1872.90 sl: 0.00 tp: 0.00
+0	21:09:05.822	'1300050632': modify order #5214606 sell 0.09 XAUUSD at 1872.90 sl: 0.00 tp: 0.00 -> sl: 1875.75 tp: 0.00
+0	21:09:06.225	'1300050632': order #5214606 sell 0.09 XAUUSD at 1872.90 was modified -> sl: 1875.75 tp: 0.00
+0	21:09:37.705	'1300050632': modify order #5214606 sell 0.09 XAUUSD at 1872.90 sl: 1875.75 tp: 0.00 -> sl: 1872.84 tp: 0.00
+0	21:09:38.182	'1300050632': order #5214606 sell 0.09 XAUUSD at 1872.90 was modified -> sl: 1872.84 tp: 0.00
+0	21:10:52.307	'1300050632': modify order #5214398 sell 0.10 US30.cash at 33704.45 sl: 33755.39 tp: 0.00 -> sl: 33702.00 tp: 0.00
+0	21:10:52.737	'1300050632': order #5214398 sell 0.10 US30.cash at 33704.45 was modified -> sl: 33702.00 tp: 0.00
+0	21:11:12.820	'1300050632': order #5214398 sell 0.10 US30.cash at 33704.45 closed due stop-loss at price 33703.55
+0	21:11:30.686	'1300050632': close order #5214606 sell 0.09 XAUUSD at 1872.90 sl: 1872.84 tp: 0.00 at price 0.00
+0	21:11:31.310	'1300050632': order #5214606 sell 0.09 XAUUSD at 1872.90 sl: 1872.84 tp: 0.00 closed at price 1869.90
+0	21:11:43.760	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:11:44.438	'1300050632': order was opened : #5215188 sell 0.09 XAUUSD at 1869.24 sl: 0.00 tp: 0.00
+0	21:11:58.853	'1300050632': modify order #5215188 sell 0.09 XAUUSD at 1869.24 sl: 0.00 tp: 0.00 -> sl: 1872.47 tp: 0.00
+0	21:11:59.239	'1300050632': order #5215188 sell 0.09 XAUUSD at 1869.24 was modified -> sl: 1872.47 tp: 0.00
+0	21:12:38.220	'1300050632': modify order #5215188 sell 0.09 XAUUSD at 1869.24 sl: 1872.47 tp: 0.00 -> sl: 1869.06 tp: 0.00
+0	21:12:38.607	'1300050632': order #5215188 sell 0.09 XAUUSD at 1869.24 was modified -> sl: 1869.06 tp: 0.00
+0	21:12:56.147	'1300050632': order #5215188 sell 0.09 XAUUSD at 1869.24 closed due stop-loss at price 1869.23
+0	21:13:38.587	'1300050632': order sell market 0.10 US30.cash sl: 0.00 tp: 0.00
+0	21:13:39.268	'1300050632': order was opened : #5215494 sell 0.10 US30.cash at 33684.45 sl: 0.00 tp: 0.00
+0	21:14:00.298	'1300050632': modify order #5215494 sell 0.10 US30.cash at 33684.45 sl: 0.00 tp: 0.00 -> sl: 33712.91 tp: 0.00
+0	21:14:00.680	'1300050632': order #5215494 sell 0.10 US30.cash at 33684.45 was modified -> sl: 33712.91 tp: 0.00
+0	21:14:28.273	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:14:28.888	'1300050632': order was opened : #5215660 sell 0.09 XAUUSD at 1867.71 sl: 0.00 tp: 0.00
+0	21:14:34.221	'1300050632': modify order #5215660 sell 0.09 XAUUSD at 1867.71 sl: 0.00 tp: 0.00 -> sl: 1871.49 tp: 0.00
+0	21:14:34.706	'1300050632': order #5215660 sell 0.09 XAUUSD at 1867.71 was modified -> sl: 1871.49 tp: 0.00
+0	21:14:52.362	'1300050632': modify order #5215660 sell 0.09 XAUUSD at 1867.71 sl: 1871.49 tp: 0.00 -> sl: 1867.58 tp: 0.00
+0	21:14:52.795	'1300050632': order #5215660 sell 0.09 XAUUSD at 1867.71 was modified -> sl: 1867.58 tp: 0.00
+0	21:15:05.371	'1300050632': modify order #5215494 sell 0.10 US30.cash at 33684.45 sl: 33712.91 tp: 0.00 -> sl: 33680.85 tp: 0.00
+0	21:15:06.336	'1300050632': order #5215494 sell 0.10 US30.cash at 33684.45 was modified -> sl: 33680.85 tp: 0.00
+0	21:15:29.121	'1300050632': modify order #5215494 sell 0.10 US30.cash at 33684.45 sl: 33680.85 tp: 0.00 -> sl: 33670.99 tp: 0.00
+0	21:15:29.541	'1300050632': order #5215494 sell 0.10 US30.cash at 33684.45 was modified -> sl: 33670.99 tp: 0.00
+0	21:15:53.899	'1300050632': order #5215660 sell 0.09 XAUUSD at 1867.71 closed due stop-loss at price 1867.65
+0	21:16:14.874	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:16:15.493	'1300050632': order was opened : #5215978 sell 0.09 XAUUSD at 1867.11 sl: 0.00 tp: 0.00
+0	21:16:25.283	'1300050632': order #5215494 sell 0.10 US30.cash at 33684.45 closed due stop-loss at price 33671.55
+0	21:16:38.901	'1300050632': modify order #5215978 sell 0.09 XAUUSD at 1867.11 sl: 0.00 tp: 0.00 -> sl: 1870.65 tp: 0.00
+0	21:16:39.242	'1300050632': order #5215978 sell 0.09 XAUUSD at 1867.11 was modified -> sl: 1870.65 tp: 0.00
+0	21:16:45.886	'1300050632': order sell market 0.10 US30.cash sl: 0.00 tp: 0.00
+0	21:16:46.573	'1300050632': order was opened : #5216032 sell 0.10 US30.cash at 33649.00 sl: 0.00 tp: 0.00
+0	21:16:56.688	'1300050632': modify order #5216032 sell 0.10 US30.cash at 33649.00 sl: 0.00 tp: 0.00 -> sl: 33695.15 tp: 0.00
+0	21:16:57.139	'1300050632': order #5216032 sell 0.10 US30.cash at 33649.00 was modified -> sl: 33695.15 tp: 0.00
+0	21:19:32.758	'1300050632': order #5216032 sell 0.10 US30.cash at 33649.00 closed due stop-loss at price 33698.00
+0	21:20:01.104	'1300050632': modify order #5215978 sell 0.09 XAUUSD at 1867.11 sl: 1870.65 tp: 0.00 -> sl: 1869.88 tp: 0.00
+0	21:20:01.529	'1300050632': order #5215978 sell 0.09 XAUUSD at 1867.11 was modified -> sl: 1869.88 tp: 0.00
+0	21:20:29.633	'1300050632': order #5215978 sell 0.09 XAUUSD at 1867.11 closed due stop-loss at price 1869.88
+0	21:23:17.208	'1300050632': order sell market 0.10 US30.cash sl: 0.00 tp: 0.00
+0	21:23:17.776	'1300050632': order was opened : #5217032 sell 0.10 US30.cash at 33828.45 sl: 0.00 tp: 0.00
+0	21:23:24.568	'1300050632': modify order #5217032 sell 0.10 US30.cash at 33828.45 sl: 0.00 tp: 0.00 -> sl: 33865.62 tp: 0.00
+0	21:23:25.018	'1300050632': order #5217032 sell 0.10 US30.cash at 33828.45 was modified -> sl: 33865.62 tp: 0.00
+0	21:23:35.754	'1300050632': modify order #5217032 sell 0.10 US30.cash at 33828.45 sl: 33865.62 tp: 0.00 -> sl: 33827.82 tp: 0.00
+0	21:23:36.205	'1300050632': order #5217032 sell 0.10 US30.cash at 33828.45 was modified -> sl: 33827.82 tp: 0.00
+0	21:24:01.721	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:24:02.400	'1300050632': order was opened : #5217127 sell 0.09 XAUUSD at 1871.24 sl: 0.00 tp: 0.00
+0	21:24:06.578	'1300050632': modify order #5217127 sell 0.09 XAUUSD at 1871.24 sl: 0.00 tp: 0.00 -> sl: 1873.69 tp: 0.00
+0	21:24:06.944	'1300050632': order #5217127 sell 0.09 XAUUSD at 1871.24 was modified -> sl: 1873.69 tp: 0.00
+0	21:24:23.757	'1300050632': order #5217032 sell 0.10 US30.cash at 33828.45 closed due stop-loss at price 33828.00
+0	21:24:31.255	'1300050632': order sell market 0.10 US30.cash sl: 0.00 tp: 0.00
+0	21:24:31.892	'1300050632': order was opened : #5217201 sell 0.10 US30.cash at 33811.90 sl: 0.00 tp: 0.00
+0	21:24:42.561	'1300050632': modify order #5217201 sell 0.10 US30.cash at 33811.90 sl: 0.00 tp: 0.00 -> sl: 33864.44 tp: 0.00
+0	21:24:42.953	'1300050632': order #5217201 sell 0.10 US30.cash at 33811.90 was modified -> sl: 33864.44 tp: 0.00
+0	21:24:45.471	'1300050632': close order #5217201 sell 0.10 US30.cash at 33811.90 sl: 33864.44 tp: 0.00 at price 0.00
+0	21:24:46.065	'1300050632': order #5217201 sell 0.10 US30.cash at 33811.90 sl: 33864.44 tp: 0.00 closed at price 33807.55
+0	21:25:05.052	'1300050632': order sell market 0.10 US30.cash sl: 0.00 tp: 0.00
+0	21:25:05.657	'1300050632': order was opened : #5217316 sell 0.10 US30.cash at 33794.90 sl: 0.00 tp: 0.00
+0	21:25:36.304	'1300050632': modify order #5217316 sell 0.10 US30.cash at 33794.90 sl: 0.00 tp: 0.00 -> sl: 33842.00 tp: 0.00
+0	21:25:36.673	'1300050632': order #5217316 sell 0.10 US30.cash at 33794.90 was modified -> sl: 33842.00 tp: 0.00
+0	21:30:04.849	'1300050632': order #5217316 sell 0.10 US30.cash at 33794.90 closed due stop-loss at price 33843.55
+0	21:31:52.114	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:31:52.709	'1300050632': order was opened : #5217889 sell 0.15 US30.cash at 33836.90 sl: 0.00 tp: 0.00
+0	21:32:01.319	'1300050632': modify order #5217889 sell 0.15 US30.cash at 33836.90 sl: 0.00 tp: 0.00 -> sl: 33866.80 tp: 0.00
+0	21:32:01.705	'1300050632': order #5217889 sell 0.15 US30.cash at 33836.90 was modified -> sl: 33866.80 tp: 0.00
+0	21:32:13.328	'1300050632': modify order #5217889 sell 0.15 US30.cash at 33836.90 sl: 33866.80 tp: 0.00 -> sl: 33836.09 tp: 0.00
+0	21:32:13.747	'1300050632': order #5217889 sell 0.15 US30.cash at 33836.90 was modified -> sl: 33836.09 tp: 0.00
+0	21:33:30.149	'1300050632': modify order #5217889 sell 0.15 US30.cash at 33836.90 sl: 33836.09 tp: 0.00 -> sl: 33781.75 tp: 0.00
+0	21:33:30.573	'1300050632': order #5217889 sell 0.15 US30.cash at 33836.90 was modified -> sl: 33781.75 tp: 0.00
+0	21:33:50.800	'1300050632': modify order #5217889 sell 0.15 US30.cash at 33836.90 sl: 33781.75 tp: 0.00 -> sl: 33778.21 tp: 0.00
+0	21:33:51.261	'1300050632': order #5217889 sell 0.15 US30.cash at 33836.90 was modified -> sl: 33778.21 tp: 0.00
+0	21:33:53.361	'1300050632': order #5217889 sell 0.15 US30.cash at 33836.90 closed due stop-loss at price 33782.10
+0	21:34:11.917	'1300050632': modify order #5217127 sell 0.09 XAUUSD at 1871.24 sl: 1873.69 tp: 0.00 -> sl: 1870.92 tp: 0.00
+0	21:34:12.337	'1300050632': order #5217127 sell 0.09 XAUUSD at 1871.24 was modified -> sl: 1870.92 tp: 0.00
+0	21:34:19.376	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:34:20.128	'1300050632': order was opened : #5218171 sell 0.15 US30.cash at 33768.00 sl: 0.00 tp: 0.00
+0	21:34:26.336	'1300050632': modify order #5218171 sell 0.15 US30.cash at 33768.00 sl: 0.00 tp: 0.00 -> sl: 33768.17 tp: 0.00
+0	21:34:26.691	'1300050632': order #5218171 sell 0.15 US30.cash at 33768.00 was modified -> sl: 33768.17 tp: 0.00
+0	21:34:30.634	'1300050632': modify order #5218171 sell 0.15 US30.cash at 33768.00 sl: 33768.17 tp: 0.00 -> sl: 33766.99 tp: 0.00
+0	21:34:31.010	'1300050632': order #5218171 sell 0.15 US30.cash at 33768.00 was modified -> sl: 33766.99 tp: 0.00
+0	21:34:40.536	'1300050632': modify order #5218171 sell 0.15 US30.cash at 33768.00 sl: 33766.99 tp: 0.00 -> sl: 33762.85 tp: 0.00
+0	21:34:40.949	'1300050632': order #5218171 sell 0.15 US30.cash at 33768.00 was modified -> sl: 33762.85 tp: 0.00
+0	21:34:47.057	'1300050632': order #5218171 sell 0.15 US30.cash at 33768.00 closed due stop-loss at price 33766.55
+0	21:35:19.641	'1300050632': modify order #5217127 sell 0.09 XAUUSD at 1871.24 sl: 1870.92 tp: 0.00 -> sl: 1870.33 tp: 0.00
+0	21:35:20.054	'1300050632': order #5217127 sell 0.09 XAUUSD at 1871.24 was modified -> sl: 1870.33 tp: 0.00
+0	21:35:26.866	'1300050632': order #5217127 sell 0.09 XAUUSD at 1871.24 closed due stop-loss at price 1870.41
+0	21:36:53.063	'1300050632': order sell market 0.09 XAUUSD sl: 0.00 tp: 0.00
+0	21:36:53.663	'1300050632': order was opened : #5218371 sell 0.09 XAUUSD at 1868.74 sl: 0.00 tp: 0.00
+0	21:36:59.831	'1300050632': modify order #5218371 sell 0.09 XAUUSD at 1868.74 sl: 0.00 tp: 0.00 -> sl: 1871.03 tp: 0.00
+0	21:37:00.264	'1300050632': order #5218371 sell 0.09 XAUUSD at 1868.74 was modified -> sl: 1871.03 tp: 0.00
+0	21:37:05.510	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:37:06.123	'1300050632': order was opened : #5218386 sell 0.15 US30.cash at 33726.00 sl: 0.00 tp: 0.00
+0	21:37:17.436	'1300050632': modify order #5218386 sell 0.15 US30.cash at 33726.00 sl: 0.00 tp: 0.00 -> sl: 33790.61 tp: 0.00
+0	21:37:17.817	'1300050632': order #5218386 sell 0.15 US30.cash at 33726.00 was modified -> sl: 33790.61 tp: 0.00
+0	21:37:50.050	'1300050632': modify order #5218386 sell 0.15 US30.cash at 33726.00 sl: 33790.61 tp: 0.00 -> sl: 33725.05 tp: 0.00
+0	21:37:50.456	'1300050632': order #5218386 sell 0.15 US30.cash at 33726.00 was modified -> sl: 33725.05 tp: 0.00
+0	21:38:02.290	'1300050632': close order #5218371 sell 0.09 XAUUSD at 1868.74 sl: 1871.03 tp: 0.00 at price 0.00
+0	21:38:02.873	'1300050632': order #5218371 sell 0.09 XAUUSD at 1868.74 sl: 1871.03 tp: 0.00 closed at price 1867.91
+0	21:38:13.817	'1300050632': order #5218386 sell 0.15 US30.cash at 33726.00 closed due stop-loss at price 33725.10
+0	21:38:24.276	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:38:24.891	'1300050632': order was opened : #5218596 sell 0.15 US30.cash at 33718.45 sl: 0.00 tp: 0.00
+0	21:38:30.643	'1300050632': modify order #5218596 sell 0.15 US30.cash at 33718.45 sl: 0.00 tp: 0.00 -> sl: 33739.23 tp: 0.00
+0	21:38:31.033	'1300050632': order #5218596 sell 0.15 US30.cash at 33718.45 was modified -> sl: 33739.23 tp: 0.00
+0	21:38:48.167	'1300050632': modify order #5218596 sell 0.15 US30.cash at 33718.45 sl: 33739.23 tp: 0.00 -> sl: 33735.68 tp: 0.00
+0	21:38:48.562	'1300050632': order #5218596 sell 0.15 US30.cash at 33718.45 was modified -> sl: 33735.68 tp: 0.00
+0	21:38:52.681	'1300050632': modify order #5218596 sell 0.15 US30.cash at 33718.45 sl: 33735.68 tp: 0.00 -> sl: 33741.00 tp: 0.00
+0	21:38:53.121	'1300050632': order #5218596 sell 0.15 US30.cash at 33718.45 was modified -> sl: 33741.00 tp: 0.00
+0	21:39:19.865	'1300050632': modify order #5218596 sell 0.15 US30.cash at 33718.45 sl: 33741.00 tp: 0.00 -> sl: 33717.37 tp: 0.00
+0	21:39:20.331	'1300050632': order #5218596 sell 0.15 US30.cash at 33718.45 was modified -> sl: 33717.37 tp: 0.00
+0	21:39:27.386	'1300050632': order #5218596 sell 0.15 US30.cash at 33718.45 closed due stop-loss at price 33719.55
+0	21:39:37.784	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:39:38.456	'1300050632': order was opened : #5218743 sell 0.15 US30.cash at 33710.45 sl: 0.00 tp: 0.00
+0	21:39:43.630	'1300050632': modify order #5218743 sell 0.15 US30.cash at 33710.45 sl: 0.00 tp: 0.00 -> sl: 33712.65 tp: 0.00
+0	21:39:43.991	'1300050632': order #5218743 sell 0.15 US30.cash at 33710.45 was modified -> sl: 33712.65 tp: 0.00
+0	21:39:45.453	'1300050632': modify order #5218743 sell 0.15 US30.cash at 33710.45 sl: 33712.65 tp: 0.00 -> sl: 33709.10 tp: 0.00
+0	21:39:45.856	'1300050632': order #5218743 sell 0.15 US30.cash at 33710.45 was modified -> sl: 33709.10 tp: 0.00
+0	21:40:11.028	'1300050632': order #5218743 sell 0.15 US30.cash at 33710.45 closed due stop-loss at price 33709.55
+0	21:40:16.799	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:40:17.379	'1300050632': order was opened : #5218800 sell 0.15 US30.cash at 33707.45 sl: 0.00 tp: 0.00
+1	21:40:45.368	'1300050632': modification of order #5218800 sell 0.15 US30.cash at 33707.45 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 33705.56 failed [Invalid S/L or T/P]
+0	21:40:48.520	'1300050632': modify order #5218800 sell 0.15 US30.cash at 33707.45 sl: 0.00 tp: 0.00 -> sl: 33707.92 tp: 0.00
+0	21:40:48.875	'1300050632': order #5218800 sell 0.15 US30.cash at 33707.45 was modified -> sl: 33707.92 tp: 0.00
+0	21:40:51.316	'1300050632': modify order #5218800 sell 0.15 US30.cash at 33707.45 sl: 33707.92 tp: 0.00 -> sl: 33703.20 tp: 0.00
+0	21:40:51.777	'1300050632': order #5218800 sell 0.15 US30.cash at 33707.45 was modified -> sl: 33703.20 tp: 0.00
+0	21:41:02.042	'1300050632': order #5218800 sell 0.15 US30.cash at 33707.45 closed due stop-loss at price 33701.55
+0	21:41:25.729	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	21:41:26.251	'1300050632': order was opened : #5218899 sell 0.15 US30.cash at 33691.45 sl: 0.00 tp: 0.00
+0	21:41:49.320	'1300050632': modify order #5218899 sell 0.15 US30.cash at 33691.45 sl: 0.00 tp: 0.00 -> sl: 33729.19 tp: 0.00
+0	21:41:49.689	'1300050632': order #5218899 sell 0.15 US30.cash at 33691.45 was modified -> sl: 33729.19 tp: 0.00
+1	21:44:28.341	'1300050632': modification of order #5218899 sell 0.15 US30.cash at 33691.45 sl: 33729.19 tp: 0.00 -> sl: 33690.79 tp: 0.00 failed [Invalid S/L or T/P]
+0	21:44:46.907	'1300050632': modify order #5218899 sell 0.15 US30.cash at 33691.45 sl: 33729.19 tp: 0.00 -> sl: 33690.20 tp: 0.00
+0	21:44:47.314	'1300050632': order #5218899 sell 0.15 US30.cash at 33691.45 was modified -> sl: 33690.20 tp: 0.00
+0	21:46:29.761	'1300050632': modify order #5218899 sell 0.15 US30.cash at 33691.45 sl: 33690.20 tp: 0.00 -> sl: 33683.12 tp: 0.00
+0	21:46:30.098	'1300050632': order #5218899 sell 0.15 US30.cash at 33691.45 was modified -> sl: 33683.12 tp: 0.00
+0	21:46:38.768	'1300050632': modify order #5218899 sell 0.15 US30.cash at 33691.45 sl: 33683.12 tp: 0.00 -> sl: 33677.80 tp: 0.00
+0	21:46:39.148	'1300050632': order #5218899 sell 0.15 US30.cash at 33691.45 was modified -> sl: 33677.80 tp: 0.00
+0	21:46:55.233	'1300050632': modify order #5218899 sell 0.15 US30.cash at 33691.45 sl: 33677.80 tp: 0.00 -> sl: 33671.30 tp: 0.00
+0	21:46:55.592	'1300050632': order #5218899 sell 0.15 US30.cash at 33691.45 was modified -> sl: 33671.30 tp: 0.00
+0	21:47:03.393	'1300050632': order #5218899 sell 0.15 US30.cash at 33691.45 closed due stop-loss at price 33672.55
+0	22:00:39.224	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	22:00:39.773	'1300050632': order was opened : #5220937 sell 0.15 US30.cash at 33651.90 sl: 0.00 tp: 0.00
+0	22:00:57.273	'1300050632': modify order #5220937 sell 0.15 US30.cash at 33651.90 sl: 0.00 tp: 0.00 -> sl: 33671.04 tp: 0.00
+0	22:00:57.617	'1300050632': order #5220937 sell 0.15 US30.cash at 33651.90 was modified -> sl: 33671.04 tp: 0.00
+0	22:01:02.604	'1300050632': modify order #5220937 sell 0.15 US30.cash at 33651.90 sl: 33671.04 tp: 0.00 -> sl: 33648.05 tp: 0.00
+0	22:01:03.029	'1300050632': order #5220937 sell 0.15 US30.cash at 33651.90 was modified -> sl: 33648.05 tp: 0.00
+0	22:01:08.347	'1300050632': modify order #5220937 sell 0.15 US30.cash at 33651.90 sl: 33648.05 tp: 0.00 -> sl: 33651.10 tp: 0.00
+1	22:01:08.700	'1300050632': modification of order #5220937 sell 0.15 US30.cash at 33651.90 sl: 33648.05 tp: 0.00 -> sl: 33651.10 tp: 0.00 failed [Off quotes]
+0	22:01:08.827	'1300050632': order #5220937 sell 0.15 US30.cash at 33651.90 closed due stop-loss at price 33649.55
+0	22:01:39.788	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	22:01:40.354	'1300050632': order was opened : #5221034 sell 0.15 US30.cash at 33638.45 sl: 0.00 tp: 0.00
+0	22:01:49.988	'1300050632': modify order #5221034 sell 0.15 US30.cash at 33638.45 sl: 0.00 tp: 0.00 -> sl: 33660.24 tp: 0.00
+0	22:01:50.433	'1300050632': order #5221034 sell 0.15 US30.cash at 33638.45 was modified -> sl: 33660.24 tp: 0.00
+0	22:02:02.011	'1300050632': modify order #5221034 sell 0.15 US30.cash at 33638.45 sl: 33660.24 tp: 0.00 -> sl: 33636.61 tp: 0.00
+0	22:02:02.332	'1300050632': order #5221034 sell 0.15 US30.cash at 33638.45 was modified -> sl: 33636.61 tp: 0.00
+0	22:02:21.432	'1300050632': order #5221034 sell 0.15 US30.cash at 33638.45 closed due stop-loss at price 33635.00
+0	22:02:28.172	'1300050632': order sell market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	22:02:28.799	'1300050632': order was opened : #5221152 sell 0.15 US30.cash at 33631.45 sl: 0.00 tp: 0.00
+0	22:02:42.170	'1300050632': modify order #5221152 sell 0.15 US30.cash at 33631.45 sl: 0.00 tp: 0.00 -> sl: 33666.77 tp: 0.00
+0	22:02:42.540	'1300050632': order #5221152 sell 0.15 US30.cash at 33631.45 was modified -> sl: 33666.77 tp: 0.00
+0	22:04:42.767	'1300050632': order #5221152 sell 0.15 US30.cash at 33631.45 closed due stop-loss at price 33667.55
+0	22:06:05.111	'1300050632': order buy market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	22:06:05.714	'1300050632': order was opened : #5221478 buy 0.15 US30.cash at 33676.55 sl: 0.00 tp: 0.00
+0	22:07:02.598	'1300050632': modify order #5221478 buy 0.15 US30.cash at 33676.55 sl: 0.00 tp: 0.00 -> sl: 33673.23 tp: 0.00
+0	22:07:03.006	'1300050632': order #5221478 buy 0.15 US30.cash at 33676.55 was modified -> sl: 33673.23 tp: 0.00
+0	22:07:05.598	'1300050632': modify order #5221478 buy 0.15 US30.cash at 33676.55 sl: 33673.23 tp: 0.00 -> sl: 33679.06 tp: 0.00
+0	22:07:05.972	'1300050632': order #5221478 buy 0.15 US30.cash at 33676.55 was modified -> sl: 33679.06 tp: 0.00
+0	22:07:16.420	'1300050632': modify order #5221478 buy 0.15 US30.cash at 33676.55 sl: 33679.06 tp: 0.00 -> sl: 33695.23 tp: 0.00
+0	22:07:16.835	'1300050632': order #5221478 buy 0.15 US30.cash at 33676.55 was modified -> sl: 33695.23 tp: 0.00
+0	22:07:29.422	'1300050632': order #5221478 buy 0.15 US30.cash at 33676.55 closed due stop-loss at price 33692.45
+0	22:08:53.881	'1300050632': order buy market 0.15 US30.cash sl: 0.00 tp: 0.00
+0	22:08:54.633	'1300050632': order was opened : #5221663 buy 0.15 US30.cash at 33711.55 sl: 0.00 tp: 0.00
+0	22:09:19.261	'1300050632': modify order #5221663 buy 0.15 US30.cash at 33711.55 sl: 0.00 tp: 0.00 -> sl: 33690.70 tp: 0.00
+0	22:09:19.664	'1300050632': order #5221663 buy 0.15 US30.cash at 33711.55 was modified -> sl: 33690.70 tp: 0.00
+0	22:09:50.640	'1300050632': modify order #5221663 buy 0.15 US30.cash at 33711.55 sl: 33690.70 tp: 0.00 -> sl: 33712.69 tp: 0.00
+0	22:09:51.039	'1300050632': order #5221663 buy 0.15 US30.cash at 33711.55 was modified -> sl: 33712.69 tp: 0.00
+0	22:10:04.456	'1300050632': modify order #5221663 buy 0.15 US30.cash at 33711.55 sl: 33712.69 tp: 0.00 -> sl: 33735.98 tp: 0.00
+0	22:10:04.859	'1300050632': order #5221663 buy 0.15 US30.cash at 33711.55 was modified -> sl: 33735.98 tp: 0.00
+0	22:10:13.084	'1300050632': modify order #5221663 buy 0.15 US30.cash at 33711.55 sl: 33735.98 tp: 0.00 -> sl: 33739.21 tp: 0.00
+0	22:10:13.480	'1300050632': order #5221663 buy 0.15 US30.cash at 33711.55 was modified -> sl: 33739.21 tp: 0.00
+0	22:10:15.292	'1300050632': order #5221663 buy 0.15 US30.cash at 33711.55 closed due stop-loss at price 33738.00
+0	22:14:34.228	'1300050632': order sell market 0.05 US30.cash sl: 0.00 tp: 0.00
+0	22:14:34.818	'1300050632': order was opened : #5222045 sell 0.05 US30.cash at 33728.45 sl: 0.00 tp: 0.00
+0	22:14:54.716	'1300050632': modify order #5222045 sell 0.05 US30.cash at 33728.45 sl: 0.00 tp: 0.00 -> sl: 33757.32 tp: 0.00
+0	22:14:55.099	'1300050632': order #5222045 sell 0.05 US30.cash at 33728.45 was modified -> sl: 33757.32 tp: 0.00
+0	22:15:03.240	'1300050632': modify order #5222045 sell 0.05 US30.cash at 33728.45 sl: 33757.32 tp: 0.00 -> sl: 33759.26 tp: 0.00
+0	22:15:03.595	'1300050632': order #5222045 sell 0.05 US30.cash at 33728.45 was modified -> sl: 33759.26 tp: 0.00
+0	22:15:07.570	'1300050632': modify order #5222045 sell 0.05 US30.cash at 33728.45 sl: 33759.26 tp: 0.00 -> sl: 33761.20 tp: 0.00
+0	22:15:07.973	'1300050632': order #5222045 sell 0.05 US30.cash at 33728.45 was modified -> sl: 33761.20 tp: 0.00
+0	22:22:11.123	'1300050632': order #5222045 sell 0.05 US30.cash at 33728.45 closed due stop-loss at price 33761.55
+0	22:25:38.436	'1300050632': order sell market 0.05 US30.cash sl: 0.00 tp: 0.00
+0	22:25:38.994	'1300050632': order was opened : #5222644 sell 0.05 US30.cash at 33791.45 sl: 0.00 tp: 0.00
+0	22:25:46.662	'1300050632': modify order #5222644 sell 0.05 US30.cash at 33791.45 sl: 0.00 tp: 0.00 -> sl: 33812.30 tp: 0.00
+0	22:25:47.143	'1300050632': order #5222644 sell 0.05 US30.cash at 33791.45 was modified -> sl: 33812.30 tp: 0.00
+0	22:25:58.021	'1300050632': modify order #5222644 sell 0.05 US30.cash at 33791.45 sl: 33812.30 tp: 0.00 -> sl: 33814.89 tp: 0.00
+0	22:25:58.357	'1300050632': order #5222644 sell 0.05 US30.cash at 33791.45 was modified -> sl: 33814.89 tp: 0.00
+1	22:27:36.878	'1300050632': modification of order #5222644 sell 0.05 US30.cash at 33791.45 sl: 33814.89 tp: 0.00 -> sl: 33790.96 tp: 0.00 failed [Invalid S/L or T/P]
+0	22:27:58.675	'1300050632': order #5222644 sell 0.05 US30.cash at 33791.45 closed due stop-loss at price 33815.55
+0	22:28:50.037	'1300050632': order sell market 0.05 US30.cash sl: 0.00 tp: 0.00
+0	22:28:50.702	'1300050632': order was opened : #5222778 sell 0.05 US30.cash at 33816.45 sl: 0.00 tp: 0.00
+0	22:28:59.295	'1300050632': modify order #5222778 sell 0.05 US30.cash at 33816.45 sl: 0.00 tp: 0.00 -> sl: 33865.34 tp: 0.00
+0	22:28:59.662	'1300050632': order #5222778 sell 0.05 US30.cash at 33816.45 was modified -> sl: 33865.34 tp: 0.00
+0	22:29:20.330	'1300050632': modify order #5222778 sell 0.05 US30.cash at 33816.45 sl: 33865.34 tp: 0.00 -> sl: 33867.93 tp: 0.00
+0	22:29:20.670	'1300050632': order #5222778 sell 0.05 US30.cash at 33816.45 was modified -> sl: 33867.93 tp: 0.00
+0	22:30:37.070	'1300050632': modify order #5222778 sell 0.05 US30.cash at 33816.45 sl: 33867.93 tp: 0.00 -> sl: 33815.54 tp: 0.00
+0	22:30:37.619	'1300050632': order #5222778 sell 0.05 US30.cash at 33816.45 was modified -> sl: 33815.54 tp: 0.00
+0	22:32:55.205	'1300050632': modify order #5222778 sell 0.05 US30.cash at 33816.45 sl: 33815.54 tp: 0.00 -> sl: 33756.03 tp: 0.00
+0	22:32:55.610	'1300050632': order #5222778 sell 0.05 US30.cash at 33816.45 was modified -> sl: 33756.03 tp: 0.00
+0	22:33:31.064	'1300050632': order #5222778 sell 0.05 US30.cash at 33816.45 closed due stop-loss at price 33755.55

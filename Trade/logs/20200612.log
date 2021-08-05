@@ -1,0 +1,508 @@
+0	08:05:24.639	Admiral Markets build 1260 started (Admiral Markets Group AS)
+0	08:05:24.639	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-10510U  @ 1.80GHz, Memory: 3019 / 8014 Mb, Disk: 44 / 237 Gb, GMT+3
+0	08:05:24.639	Data Folder: C:\Users\SRIE\AppData\Roaming\MetaQuotes\Terminal\51337600F56B69473E15EAFB8A7586B4
+2	08:05:28.851	Custom indicator AIMS Levels V2 DE30,M1: loaded successfully
+2	08:05:28.932	Custom indicator AIMS Entry Alert V1 DE30,M1: loaded successfully
+2	08:05:28.941	Custom indicator CandleTimer DE30,M1: loaded successfully
+2	08:05:29.019	Custom indicator #Signal_Bars_v6 DE30,M1: loaded successfully
+2	08:05:29.100	Custom indicator AIMS AO V.2.1 DE30,M1: loaded successfully
+2	08:05:29.110	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: loaded successfully
+2	08:05:29.119	Custom indicator RSI Divergence Levels DE30,M1: loaded successfully
+2	08:05:29.137	Expert Admiral - Mini Terminal DE30,M1: loaded successfully
+2	08:05:29.290	Custom indicator AIMS Levels V2 GBPCHF,M1: loaded successfully
+2	08:05:29.365	Custom indicator AIMS Entry Alert V1 GBPCHF,M1: loaded successfully
+2	08:05:29.373	Custom indicator CandleTimer GBPCHF,M1: loaded successfully
+2	08:05:29.446	Custom indicator #Signal_Bars_v6 GBPCHF,M1: loaded successfully
+2	08:05:29.521	Custom indicator AIMS AO V.2.1 GBPCHF,M1: loaded successfully
+2	08:05:29.531	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M1: loaded successfully
+2	08:05:29.542	Custom indicator RSI Divergence Levels GBPCHF,M1: loaded successfully
+2	08:05:29.695	Custom indicator AIMS Levels V2 US30,M1: loaded successfully
+2	08:05:29.771	Custom indicator AIMS Entry Alert V1 US30,M1: loaded successfully
+2	08:05:29.779	Custom indicator CandleTimer US30,M1: loaded successfully
+2	08:05:29.852	Custom indicator #Signal_Bars_v6 US30,M1: loaded successfully
+2	08:05:29.926	Custom indicator AIMS AO V.2.1 US30,M1: loaded successfully
+2	08:05:29.934	Custom indicator IVT_MACD_ZERO_LAG US30,M1: loaded successfully
+2	08:05:29.944	Custom indicator RSI Divergence Levels US30,M1: loaded successfully
+2	08:05:30.093	Custom indicator AIMS Levels V2 FR40,M1: loaded successfully
+2	08:05:30.166	Custom indicator AIMS Entry Alert V1 FR40,M1: loaded successfully
+2	08:05:30.174	Custom indicator CandleTimer FR40,M1: loaded successfully
+2	08:05:30.247	Custom indicator #Signal_Bars_v6 FR40,M1: loaded successfully
+2	08:05:30.320	Custom indicator AIMS AO V.2.1 FR40,M1: loaded successfully
+2	08:05:30.329	Custom indicator IVT_MACD_ZERO_LAG FR40,M1: loaded successfully
+2	08:05:30.337	Custom indicator RSI Divergence Levels FR40,M1: loaded successfully
+2	08:05:30.479	Custom indicator AIMS Levels V2 USOIL,M1: loaded successfully
+2	08:05:30.556	Custom indicator AIMS Entry Alert V1 USOIL,M1: loaded successfully
+2	08:05:30.564	Custom indicator CandleTimer USOIL,M1: loaded successfully
+2	08:05:30.643	Custom indicator AIMS AO V.2.1 USOIL,M1: loaded successfully
+2	08:05:30.652	Custom indicator IVT_MACD_ZERO_LAG USOIL,M1: loaded successfully
+2	08:05:30.662	Custom indicator RSI Divergence Levels USOIL,M1: loaded successfully
+2	08:05:30.805	Custom indicator AIMS Levels V2 GBPAUD,H4: loaded successfully
+2	08:05:30.881	Custom indicator AIMS Entry Alert V1 GBPAUD,H4: loaded successfully
+2	08:05:30.889	Custom indicator CandleTimer GBPAUD,H4: loaded successfully
+2	08:05:30.962	Custom indicator #Signal_Bars_v6 GBPAUD,H4: loaded successfully
+2	08:05:31.036	Custom indicator AIMS AO V.2.1 GBPAUD,H4: loaded successfully
+2	08:05:31.045	Custom indicator IVT_MACD_ZERO_LAG GBPAUD,H4: loaded successfully
+2	08:05:31.054	Custom indicator RSI Divergence Levels GBPAUD,H4: loaded successfully
+2	08:05:31.189	Custom indicator AIMS Levels V2 EURJPY,H4: loaded successfully
+2	08:05:31.263	Custom indicator AIMS Entry Alert V1 EURJPY,H4: loaded successfully
+2	08:05:31.271	Custom indicator CandleTimer EURJPY,H4: loaded successfully
+2	08:05:31.344	Custom indicator AIMS AO V.2.1 EURJPY,H4: loaded successfully
+2	08:05:31.352	Custom indicator IVT_MACD_ZERO_LAG EURJPY,H4: loaded successfully
+2	08:05:31.361	Custom indicator RSI Divergence Levels EURJPY,H4: loaded successfully
+2	08:05:31.493	Custom indicator AIMS Levels V2 USTEC,M1: loaded successfully
+2	08:05:31.573	Custom indicator AIMS Entry Alert V1 USTEC,M1: loaded successfully
+2	08:05:31.580	Custom indicator CandleTimer USTEC,M1: loaded successfully
+2	08:05:31.655	Custom indicator #Signal_Bars_v6 USTEC,M1: loaded successfully
+2	08:05:31.726	Custom indicator AIMS AO V.2.1 USTEC,M1: loaded successfully
+2	08:05:31.734	Custom indicator IVT_MACD_ZERO_LAG USTEC,M1: loaded successfully
+2	08:05:31.743	Custom indicator RSI Divergence Levels USTEC,M1: loaded successfully
+2	08:05:31.882	Custom indicator AIMS Levels V2 EURUSD,H1: loaded successfully
+2	08:05:31.953	Custom indicator AIMS Entry Alert V1 EURUSD,H1: loaded successfully
+2	08:05:31.960	Custom indicator CandleTimer EURUSD,H1: loaded successfully
+2	08:05:32.032	Custom indicator #Signal_Bars_v6 EURUSD,H1: loaded successfully
+2	08:05:32.105	Custom indicator AIMS AO V.2.1 EURUSD,H1: loaded successfully
+2	08:05:32.113	Custom indicator IVT_MACD_ZERO_LAG EURUSD,H1: loaded successfully
+2	08:05:32.122	Custom indicator RSI Divergence Levels EURUSD,H1: loaded successfully
+2	08:05:32.215	Custom indicator WATR EURGBP,H1: loaded successfully
+2	08:05:32.223	Custom indicator Xi-VLines20v1.02 EURGBP,H1: loaded successfully
+2	08:05:32.297	Custom indicator EWPro EURGBP,H1: loaded successfully
+2	08:05:32.305	Custom indicator #RSI_CANDLE EURGBP,H1: loaded successfully
+2	08:05:32.313	Custom indicator !MoneyLine2 EURGBP,H1: loaded successfully
+2	08:05:32.385	Custom indicator #MT TrendLine EURGBP,H1: loaded successfully
+2	08:05:32.457	Custom indicator FXSmooth EURUSD EURGBP,H1: loaded successfully
+2	08:05:32.528	Custom indicator T3_CCI_ divergence_v1 EURGBP,H1: loaded successfully
+2	08:05:32.769	Custom indicator AIMS Levels V2 AUDCAD,H1: loaded successfully
+2	08:05:32.845	Custom indicator AIMS Entry Alert V1 AUDCAD,H1: loaded successfully
+2	08:05:32.853	Custom indicator CandleTimer AUDCAD,H1: loaded successfully
+2	08:05:32.928	Custom indicator #Signal_Bars_v6 AUDCAD,H1: loaded successfully
+2	08:05:33.001	Custom indicator AIMS AO V.2.1 AUDCAD,H1: loaded successfully
+2	08:05:33.010	Custom indicator IVT_MACD_ZERO_LAG AUDCAD,H1: loaded successfully
+2	08:05:33.019	Custom indicator RSI Divergence Levels AUDCAD,H1: loaded successfully
+2	08:05:33.094	Custom indicator WATR EURGBP,M5: loaded successfully
+2	08:05:33.102	Custom indicator Xi-VLines20v1.02 EURGBP,M5: loaded successfully
+2	08:05:33.177	Custom indicator EWPro EURGBP,M5: loaded successfully
+2	08:05:33.186	Custom indicator #RSI_CANDLE EURGBP,M5: loaded successfully
+2	08:05:33.194	Custom indicator !MoneyLine2 EURGBP,M5: loaded successfully
+2	08:05:33.268	Custom indicator #MT TrendLine EURGBP,M5: loaded successfully
+2	08:05:33.342	Custom indicator FXSmooth EURUSD EURGBP,M5: loaded successfully
+2	08:05:33.413	Custom indicator T3_CCI_ divergence_v1 EURGBP,M5: loaded successfully
+2	08:05:33.660	Custom indicator AIMS Levels V2 EURAUD,H4: loaded successfully
+2	08:05:33.733	Custom indicator AIMS Entry Alert V1 EURAUD,H4: loaded successfully
+2	08:05:33.740	Custom indicator CandleTimer EURAUD,H4: loaded successfully
+2	08:05:33.811	Custom indicator #Signal_Bars_v6 EURAUD,H4: loaded successfully
+2	08:05:33.883	Custom indicator AIMS AO V.2.1 EURAUD,H4: loaded successfully
+2	08:05:33.891	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H4: loaded successfully
+2	08:05:33.900	Custom indicator RSI Divergence Levels EURAUD,H4: loaded successfully
+2	08:05:34.038	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	08:05:34.108	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	08:05:34.115	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	08:05:34.186	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	08:05:34.259	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	08:05:34.267	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	08:05:34.277	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+2	08:05:34.412	Custom indicator AIMS Levels V2 AUDJPY,H4: loaded successfully
+2	08:05:34.488	Custom indicator AIMS Entry Alert V1 AUDJPY,H4: loaded successfully
+2	08:05:34.496	Custom indicator CandleTimer AUDJPY,H4: loaded successfully
+2	08:05:34.571	Custom indicator #Signal_Bars_v6 AUDJPY,H4: loaded successfully
+2	08:05:34.645	Custom indicator AIMS AO V.2.1 AUDJPY,H4: loaded successfully
+2	08:05:34.654	Custom indicator IVT_MACD_ZERO_LAG AUDJPY,H4: loaded successfully
+2	08:05:34.663	Custom indicator RSI Divergence Levels AUDJPY,H4: loaded successfully
+2	08:05:34.807	Custom indicator AIMS Levels V2 EURAUD,H1: loaded successfully
+2	08:05:34.879	Custom indicator AIMS Entry Alert V1 EURAUD,H1: loaded successfully
+2	08:05:34.886	Custom indicator CandleTimer EURAUD,H1: loaded successfully
+2	08:05:34.959	Custom indicator #Signal_Bars_v6 EURAUD,H1: loaded successfully
+2	08:05:35.043	Custom indicator AIMS AO V.2.1 EURAUD,H1: loaded successfully
+2	08:05:35.058	Custom indicator IVT_MACD_ZERO_LAG EURAUD,H1: loaded successfully
+2	08:05:35.070	Custom indicator RSI Divergence Levels EURAUD,H1: loaded successfully
+1	08:05:40.329	MQL Base: failed connect to server
+1	08:06:36.716	'14109544': connect failed [Connection échouée]
+0	08:06:39.078	MQL5.community: activated for 'mamlov', balance: 100.00 (frozen: 95.00)
+0	08:06:45.267	'14109544': login on Exness-Real4 through DC00 (ping: 260.01 ms)
+0	08:06:48.830	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 260.01 ms)
+0	08:06:49.609	'14109544': previous successful authorization performed from 220.242.139.10
+0	08:07:04.368	'14109544': close order #188399086 sell 0.10 EURUSD at 1.13505 sl: 1.14212 tp: 1.12524 at price 1.12973
+0	08:07:04.750	'14109544': order #188399086 sell 0.10 EURUSD at 1.13505 sl: 1.14212 tp: 1.12524 closed at price 1.12973
+0	08:07:18.114	'14109544': ping to current access point DC00 is 289.88 ms
+2	08:11:12.812	Custom indicator AIMS Levels V2 GBPNZD,H1: loaded successfully
+2	08:11:12.890	Custom indicator AIMS Entry Alert V1 GBPNZD,H1: loaded successfully
+2	08:11:12.898	Custom indicator CandleTimer GBPNZD,H1: loaded successfully
+2	08:11:12.978	Custom indicator #Signal_Bars_v6 GBPNZD,H1: loaded successfully
+2	08:11:13.057	Custom indicator AIMS AO V.2.1 GBPNZD,H1: loaded successfully
+2	08:11:13.068	Custom indicator IVT_MACD_ZERO_LAG GBPNZD,H1: loaded successfully
+2	08:11:13.081	Custom indicator RSI Divergence Levels GBPNZD,H1: loaded successfully
+1	08:12:39.564	'14109544': connect failed [Connection échouée]
+0	10:36:08.584	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	10:36:15.269	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	10:36:16.824	'14109544': previous successful authorization performed from 220.242.138.56
+0	10:36:54.390	'14109544': auto connecting to a better access point DC00 (ping is 213.17 ms)
+0	10:36:57.312	'14109544': login on Exness-Real4 through DC00 (ping: 213.17 ms)
+0	10:37:01.425	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 213.17 ms)
+0	10:37:02.482	'14109544': previous successful authorization performed from 197.149.37.189
+0	10:37:58.931	'8948044': login on Exness-Real6 through DC01 (ping: 216.49 ms)
+0	10:38:01.519	'8948044': old version of server
+1	10:38:01.519	'8948044': datacenter connecting failed [2]
+0	10:38:02.233	'8948044': previous successful authorization performed from 163.171.128.146
+0	10:38:47.830	'8948044': ping to current access point DC01 is 212.64 ms
+0	10:39:09.736	'14109544': login on Exness-Real4 through DC00 (ping: 213.17 ms)
+0	10:39:12.095	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 213.17 ms)
+0	10:39:13.129	'14109544': previous successful authorization performed from 220.242.139.10
+0	10:46:34.783	'8948044': login on Exness-Real6 through DC01 (ping: 212.64 ms)
+0	10:46:36.583	'8948044': old version of server
+1	10:46:36.583	'8948044': datacenter connecting failed [2]
+0	10:46:36.988	'8948044': previous successful authorization performed from 197.149.37.189
+2	10:50:05.725	Expert AL-FATIH EURUSDm,H1: loaded successfully
+2	10:50:25.986	Custom indicator super-signals_v2b EURUSDm,H1: loaded successfully
+2	10:50:26.051	Custom indicator AnggrekJingga EURUSDm,H1: loaded successfully
+2	10:50:26.113	Custom indicator BBSTOP EURUSDm,H1: loaded successfully
+2	10:50:26.331	Custom indicator Gst_Signal_3 EURUSDm,H1: loaded successfully
+2	10:50:26.399	Custom indicator VQ EURUSDm,H1: loaded successfully
+0	10:50:39.724	Virtual Hosting: 6101587 status is 'stopped'
+1	10:50:59.725	Virtual Hosting: 6101587 failed to connect to server 'MQL5 Amsterdam 01'
+0	10:50:59.726	Virtual Hosting: 6101587 prepare to transfer experts, indicators and signal
+0	10:50:59.726	Virtual Hosting: 6101587 migrate 445 symbols (4.09 Kb)
+0	10:50:59.727	Virtual Hosting: 6101587 prepare charts to synchronize...
+0	10:50:59.732	Virtual Hosting: 6101587 migrate chart "DE30,M1" (8.27 Kb archived to 2.26 Kb)
+0	10:51:00.124	Virtual Hosting: 6101587 migrate chart "EURUSDm,H1" (2.09 Kb archived to 1015 bytes)
+0	10:51:00.126	Virtual Hosting: 6101587 transferred charts size 7.76 Kb
+0	10:51:00.126	Virtual Hosting: 6101587 2 charts of 19 prepared to synchronize
+0	10:51:00.127	Virtual Hosting: 6101587 prepare expert files to synchronize...
+0	10:51:00.128	Virtual Hosting: 6101587 check for load "Indicators\CandleTimer.ex4"
+1	10:51:00.134	Virtual Hosting: 6101587 obsolete version of "CandleTimer.ex4" cannot be transferred to the hosting server, please recompile it first
+0	10:51:00.137	Virtual Hosting: 6101587 check for load "Indicators\IVT_MACD_ZERO_LAG.ex4"
+0	10:51:00.148	Virtual Hosting: 6101587 check for load "Indicators\RSI Divergence Levels.ex4"
+0	10:51:00.159	Virtual Hosting: 6101587 check for load "Experts\Admiral - Mini Terminal.ex4"
+1	10:51:00.171	Virtual Hosting: 6101587 imported DLL "user32.dll" not allowed on the hosting server
+1	10:51:00.171	Virtual Hosting: 6101587 imported DLL "FXBlue.dll" not allowed on the hosting server
+1	10:51:00.171	Virtual Hosting: 6101587 obsolete version of "Admiral - Mini Terminal.ex4" cannot be transferred to the hosting server, please recompile it first
+0	10:51:00.172	Virtual Hosting: 6101587 check for load "Experts\AL-FATIH.ex4"
+1	10:51:00.180	Virtual Hosting: 6101587 obsolete version of "AL-FATIH.ex4" cannot be transferred to the hosting server, please recompile it first
+1	10:51:00.181	Virtual Hosting: 6101587 failed to synchronize experts, recompile programs specified above
+1	10:51:00.181	Virtual Hosting: 6101587 files migration error
+0	10:51:13.853	Virtual Hosting: 6101587 status is 'stopped'
+0	10:52:24.307	Virtual Hosting: 6101587 status is 'stopped'
+1	10:52:44.307	Virtual Hosting: 6101587 failed to connect to server 'MQL5 Amsterdam 01'
+0	10:52:44.307	Virtual Hosting: 6101587 prepare to transfer experts, indicators and signal
+0	10:52:44.307	Virtual Hosting: 6101587 migrate 445 symbols (4.09 Kb)
+0	10:52:44.308	Virtual Hosting: 6101587 prepare charts to synchronize...
+0	10:52:44.311	Virtual Hosting: 6101587 migrate chart "DE30,M1" (8.27 Kb archived to 2.26 Kb)
+0	10:52:44.635	Virtual Hosting: 6101587 migrate chart "EURUSDm,H1" (2.09 Kb archived to 1015 bytes)
+0	10:52:44.637	Virtual Hosting: 6101587 transferred charts size 7.76 Kb
+0	10:52:44.637	Virtual Hosting: 6101587 2 charts of 19 prepared to synchronize
+0	10:52:44.638	Virtual Hosting: 6101587 prepare expert files to synchronize...
+0	10:52:44.638	Virtual Hosting: 6101587 check for load "Indicators\CandleTimer.ex4"
+1	10:52:44.645	Virtual Hosting: 6101587 obsolete version of "CandleTimer.ex4" cannot be transferred to the hosting server, please recompile it first
+0	10:52:44.647	Virtual Hosting: 6101587 check for load "Indicators\IVT_MACD_ZERO_LAG.ex4"
+0	10:52:44.656	Virtual Hosting: 6101587 check for load "Indicators\RSI Divergence Levels.ex4"
+0	10:52:44.666	Virtual Hosting: 6101587 check for load "Experts\Admiral - Mini Terminal.ex4"
+1	10:52:44.678	Virtual Hosting: 6101587 imported DLL "user32.dll" not allowed on the hosting server
+1	10:52:44.678	Virtual Hosting: 6101587 imported DLL "FXBlue.dll" not allowed on the hosting server
+1	10:52:44.678	Virtual Hosting: 6101587 obsolete version of "Admiral - Mini Terminal.ex4" cannot be transferred to the hosting server, please recompile it first
+0	10:52:44.679	Virtual Hosting: 6101587 check for load "Experts\AL-FATIH.ex4"
+1	10:52:44.688	Virtual Hosting: 6101587 obsolete version of "AL-FATIH.ex4" cannot be transferred to the hosting server, please recompile it first
+1	10:52:44.689	Virtual Hosting: 6101587 failed to synchronize experts, recompile programs specified above
+1	10:52:44.689	Virtual Hosting: 6101587 files migration error
+0	10:53:00.773	Virtual Hosting: 6101587 status is 'stopped'
+0	10:58:56.227	'8948044': login on Exness-Real6 through DC01 (ping: 212.64 ms)
+0	10:58:57.920	'8948044': old version of server
+1	10:58:57.920	'8948044': datacenter connecting failed [2]
+0	10:58:58.289	'8948044': previous successful authorization performed from 197.149.37.189
+0	11:02:18.482	'14109544': login on Exness-Real4 through DC06 (ping: 361.25 ms)
+0	11:02:21.332	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 361.25 ms)
+0	11:02:22.043	'14109544': previous successful authorization performed from 220.242.139.10
+0	11:18:30.088	'14109544': instant order buy 0.50 DE30 at 12024.2 sl: 0.0 tp: 0.0
+0	11:18:30.521	'14109544': requote 12020.9 / 12025.7 for open buy 0.50 DE30 at 12024.2 sl: 0.0 tp: 0.0
+0	11:18:31.847	'14109544': instant order buy 0.50 DE30 at 12025.7 sl: 0.0 tp: 0.0
+0	11:18:32.282	'14109544': order was opened : #188614105 buy 0.50 DE30 at 12025.7 sl: 0.0 tp: 0.0
+2	11:19:28.748	Custom indicator Admiral Pivot DE30,M1: loaded successfully
+0	11:24:14.015	'14109544': close order #188614105 buy 0.50 DE30 at 12025.7 sl: 0.0 tp: 0.0 at price 12026.9
+0	11:24:14.459	'14109544': order #188614105 buy 0.50 DE30 at 12025.7 sl: 0.0 tp: 0.0 closed at price 12026.9
+1	11:29:03.606	'14109544': ping failed
+1	11:29:03.608	'14109544': datacenter connecting failed [6]
+0	11:29:10.698	'14109544': login on Exness-Real4 through DC00 (ping: 213.17 ms)
+0	11:29:12.727	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 213.17 ms)
+0	11:29:14.628	'14109544': previous successful authorization performed from 197.149.37.189
+2	11:43:41.784	Custom indicator AIMS Levels V2 GBPJPY,H1: loaded successfully
+2	11:43:41.851	Custom indicator AIMS Entry Alert V1 GBPJPY,H1: loaded successfully
+2	11:43:41.858	Custom indicator CandleTimer GBPJPY,H1: loaded successfully
+2	11:43:41.924	Custom indicator #Signal_Bars_v6 GBPJPY,H1: loaded successfully
+2	11:43:41.992	Custom indicator AIMS AO V.2.1 GBPJPY,H1: loaded successfully
+2	11:43:42.001	Custom indicator IVT_MACD_ZERO_LAG GBPJPY,H1: loaded successfully
+2	11:43:42.010	Custom indicator RSI Divergence Levels GBPJPY,H1: loaded successfully
+2	11:50:51.697	Custom indicator VQ EURUSDm,H1: removed
+2	11:50:51.697	Custom indicator Gst_Signal_3 EURUSDm,H1: removed
+2	11:50:51.699	Custom indicator BBSTOP EURUSDm,H1: removed
+2	11:50:51.699	Custom indicator AnggrekJingga EURUSDm,H1: removed
+2	11:50:51.700	Custom indicator super-signals_v2b EURUSDm,H1: removed
+2	11:50:51.701	Expert AL-FATIH EURUSDm,H1: removed
+0	11:52:41.768	'14109544': instant order sell 0.50 DE30 at 12094.3 sl: 0.0 tp: 0.0
+0	11:52:42.908	'14109544': order was opened : #188618155 sell 0.50 DE30 at 12094.3 sl: 0.0 tp: 0.0
+1	11:53:38.275	'14109544': modification of order #188618155 sell 0.50 DE30 at 12094.3 sl: 0.0 tp: 0.0 -> sl: 12103.6 tp: 0.0 failed [Invalid S/L or T/P]
+0	11:53:42.112	'14109544': modify order #188618155 sell 0.50 DE30 at 12094.3 sl: 0.0 tp: 0.0 -> sl: 12114.9 tp: 0.0
+0	11:53:42.441	'14109544': order #188618155 sell 0.50 DE30 at 12094.3 was modified -> sl: 12114.9 tp: 0.0
+1	11:53:51.105	'14109544': modification of order #188618155 sell 0.50 DE30 at 12094.3 sl: 12114.9 tp: 0.0 -> sl: 12080.8 tp: 0.0 failed [Invalid S/L or T/P]
+1	11:54:14.253	'14109544': modification of order #188618155 sell 0.50 DE30 at 12094.3 sl: 12114.9 tp: 0.0 -> sl: 12089.8 tp: 0.0 failed [Invalid S/L or T/P]
+1	11:54:18.533	'14109544': modification of order #188618155 sell 0.50 DE30 at 12094.3 sl: 12114.9 tp: 0.0 -> sl: 12096.3 tp: 0.0 failed [Invalid S/L or T/P]
+0	11:56:54.647	'14109544': close order #188618155 sell 0.50 DE30 at 12094.3 sl: 12114.9 tp: 0.0 at price 12099.1
+0	11:56:54.952	'14109544': order #188618155 sell 0.50 DE30 at 12094.3 sl: 12114.9 tp: 0.0 closed at price 12099.1
+0	12:02:05.726	'14109544': instant order sell 0.50 DE30 at 12093.6 sl: 0.0 tp: 0.0
+0	12:02:06.041	'14109544': order was opened : #188619340 sell 0.50 DE30 at 12093.6 sl: 0.0 tp: 0.0
+0	12:03:50.617	'14109544': close order #188619340 sell 0.50 DE30 at 12093.6 sl: 0.0 tp: 0.0 at price 12089.4
+0	12:03:50.926	'14109544': order #188619340 sell 0.50 DE30 at 12093.6 sl: 0.0 tp: 0.0 closed at price 12089.4
+2	12:13:56.523	Custom indicator WATR EURGBP,M5: removed
+2	12:13:56.524	Custom indicator Xi-VLines20v1.02 EURGBP,M5: removed
+2	12:13:56.524	Custom indicator EWPro EURGBP,M5: removed
+2	12:13:56.526	Custom indicator #RSI_CANDLE EURGBP,M5: removed
+2	12:13:56.527	Custom indicator !MoneyLine2 EURGBP,M5: removed
+2	12:13:56.527	Custom indicator #MT TrendLine EURGBP,M5: removed
+2	12:13:56.527	Custom indicator FXSmooth EURUSD EURGBP,M5: removed
+2	12:13:56.527	Custom indicator T3_CCI_ divergence_v1 EURGBP,M5: removed
+0	12:16:42.822	Sources recompilation started
+1	12:20:51.865	'14109544': datacenter connecting failed [6]
+0	12:21:04.256	'14109544': login on Exness-Real4 through DC09 (ping: 571.84 ms)
+1	12:22:31.951	'14109544': datacenter connecting failed [6]
+0	12:22:47.649	'14109544': login on Exness-Real4 through DC05 (ping: 598.15 ms)
+0	12:23:01.039	'14109544': auto connecting to a better access point DC00 (ping is 214.34 ms)
+0	12:23:02.063	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 214.34 ms)
+0	12:23:08.441	'14109544': login on Exness-Real4 through DC00 (ping: 214.34 ms)
+0	12:23:13.000	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 214.34 ms)
+0	12:23:14.604	'14109544': previous successful authorization performed from 197.149.37.189
+1	12:25:38.079	'14109544': datacenter connecting failed [6]
+0	12:25:41.834	'14109544': login on Exness-Real4 through DC15 (ping: 651.19 ms)
+0	12:26:03.926	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 651.19 ms)
+0	12:26:06.582	'14109544': previous successful authorization performed from 220.242.138.213
+2	12:30:40.062	Expert Admiral - Mini Terminal DE30,M1: removed
+2	12:30:40.078	Custom indicator AIMS Levels V2 DE30,M1: removed
+2	12:30:40.079	Custom indicator AIMS Entry Alert V1 DE30,M1: removed
+2	12:30:40.080	Custom indicator CandleTimer DE30,M1: removed
+2	12:30:40.081	Custom indicator #Signal_Bars_v6 DE30,M1: removed
+2	12:30:40.083	Custom indicator Admiral Pivot DE30,M1: removed
+2	12:30:40.083	Custom indicator AIMS AO V.2.1 DE30,M1: removed
+2	12:30:40.084	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: removed
+2	12:30:40.085	Custom indicator RSI Divergence Levels DE30,M1: removed
+2	12:30:40.096	Custom indicator WATR DE30,M1: loaded successfully
+2	12:30:40.105	Custom indicator Xi-VLines20v1.02 DE30,M1: loaded successfully
+2	12:30:40.173	Custom indicator EWPro DE30,M1: loaded successfully
+2	12:30:40.182	Custom indicator #RSI_CANDLE DE30,M1: loaded successfully
+2	12:30:40.191	Custom indicator !MoneyLine2 DE30,M1: loaded successfully
+2	12:30:40.257	Custom indicator #MT TrendLine DE30,M1: loaded successfully
+2	12:30:40.324	Custom indicator FXSmooth EURUSD DE30,M1: loaded successfully
+2	12:30:40.391	Custom indicator T3_CCI_ divergence_v1 DE30,M1: loaded successfully
+2	12:30:57.019	Custom indicator WATR DE30,M1: removed
+2	12:30:57.021	Custom indicator Xi-VLines20v1.02 DE30,M1: removed
+2	12:30:57.021	Custom indicator EWPro DE30,M1: removed
+2	12:30:57.022	Custom indicator #RSI_CANDLE DE30,M1: removed
+2	12:30:57.023	Custom indicator !MoneyLine2 DE30,M1: removed
+2	12:30:57.023	Custom indicator #MT TrendLine DE30,M1: removed
+2	12:30:57.023	Custom indicator FXSmooth EURUSD DE30,M1: removed
+2	12:30:57.023	Custom indicator T3_CCI_ divergence_v1 DE30,M1: removed
+2	12:30:57.093	Custom indicator AIMS Levels V2 DE30,M1: loaded successfully
+2	12:30:57.492	Custom indicator AIMS Entry Alert V1 DE30,M1: loaded successfully
+2	12:30:57.502	Custom indicator CandleTimer DE30,M1: loaded successfully
+2	12:30:57.570	Custom indicator #Signal_Bars_v6 DE30,M1: loaded successfully
+2	12:30:57.637	Custom indicator AIMS AO V.2.1 DE30,M1: loaded successfully
+2	12:30:57.645	Custom indicator IVT_MACD_ZERO_LAG DE30,M1: loaded successfully
+2	12:30:57.654	Custom indicator RSI Divergence Levels DE30,M1: loaded successfully
+0	12:32:56.406	'14109544': instant order sell 0.50 DE30 at 12115.8 sl: 0.0 tp: 0.0
+0	12:32:57.131	'14109544': requote 12114.4 / 12118.6 for open sell 0.50 DE30 at 12115.8 sl: 0.0 tp: 0.0
+0	12:32:58.215	'14109544': instant order sell 0.50 DE30 at 12114.2 sl: 0.0 tp: 0.0
+0	12:32:59.371	'14109544': order was opened : #188622937 sell 0.50 DE30 at 12114.2 sl: 0.0 tp: 0.0
+2	12:33:34.358	Custom indicator Admiral Pivot DE30,M1: loaded successfully
+1	12:33:51.162	'14109544': modification of order #188622937 sell 0.50 DE30 at 12114.2 sl: 0.0 tp: 0.0 -> sl: 12138.3 tp: 0.0 failed [Invalid S/L or T/P]
+0	12:34:00.371	'14109544': modify order #188622937 sell 0.50 DE30 at 12114.2 sl: 0.0 tp: 0.0 -> sl: 12140.5 tp: 0.0
+0	12:34:02.679	'14109544': order #188622937 sell 0.50 DE30 at 12114.2 was modified -> sl: 12140.5 tp: 0.0
+0	12:34:18.415	'14109544': modify order #188622937 sell 0.50 DE30 at 12114.2 sl: 12140.5 tp: 0.0 -> sl: 12140.5 tp: 12040.3
+0	12:34:22.539	'14109544': order #188622937 sell 0.50 DE30 at 12114.2 was modified -> sl: 12140.5 tp: 12040.3
+2	12:35:22.523	Expert Admiral - Mini Terminal DE30,M1: loaded successfully
+1	12:38:18.037	'14109544': modification of order #188622937 sell 0.50 DE30 at 12114.2 sl: 12140.5 tp: 12040.3 -> sl: 12106.4 tp: 12040.3 failed [Invalid S/L or T/P]
+1	12:38:25.396	'14109544': modification of order #188622937 sell 0.50 DE30 at 12114.2 sl: 12140.5 tp: 12040.3 -> sl: 12108.2 tp: 12040.3 failed [Invalid S/L or T/P]
+0	12:40:21.837	'14109544': close order #188622937 sell 0.50 DE30 at 12114.2 sl: 12140.5 tp: 12040.3 at price 12107.1
+0	12:40:22.581	'14109544': requote 12103.9 / 12108.1 for order #188622937 sell 0.50 DE30 closing at 12107.1
+0	12:41:05.805	'14109544': close order #188622937 sell 0.50 DE30 at 12114.2 sl: 12140.5 tp: 12040.3 at price 12105.9
+0	12:41:07.218	'14109544': order #188622937 sell 0.50 DE30 at 12114.2 sl: 12140.5 tp: 12040.3 closed at price 12105.9
+0	13:31:01.266	'14109544': instant order sell 0.50 DE30 at 12110.6 sl: 0.0 tp: 0.0
+0	13:31:01.967	'14109544': order was opened : #188629560 sell 0.50 DE30 at 12110.6 sl: 0.0 tp: 0.0
+2	13:33:02.568	Custom indicator Admiral Pivot DE30,M1: loaded successfully
+0	13:33:31.529	'14109544': close order #188629560 sell 0.50 DE30 at 12110.6 sl: 0.0 tp: 0.0 at price 12079.7
+0	13:33:32.264	'14109544': order #188629560 sell 0.50 DE30 at 12110.6 sl: 0.0 tp: 0.0 closed at price 12079.7
+0	13:45:44.768	'14109544': instant order sell 0.50 DE30 at 12046.7 sl: 0.0 tp: 0.0
+0	13:45:45.549	'14109544': order was opened : #188631438 sell 0.50 DE30 at 12046.7 sl: 0.0 tp: 0.0
+0	13:46:43.962	'14109544': modify order #188631438 sell 0.50 DE30 at 12046.7 sl: 0.0 tp: 0.0 -> sl: 12159.9 tp: 0.0
+0	13:46:44.665	'14109544': order #188631438 sell 0.50 DE30 at 12046.7 was modified -> sl: 12159.9 tp: 0.0
+0	13:52:23.375	'14109544': close order #188631438 sell 0.50 DE30 at 12046.7 sl: 12159.9 tp: 0.0 at price 12065.0
+0	13:52:24.072	'14109544': order #188631438 sell 0.50 DE30 at 12046.7 sl: 12159.9 tp: 0.0 closed at price 12065.0
+2	14:01:32.257	Expert Admiral - Mini Terminal DE30,M1: removed
+2	14:24:34.711	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	14:24:34.796	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	14:24:34.808	Custom indicator CandleTimer GBPUSD,H1: loaded successfully
+2	14:24:34.899	Custom indicator #Signal_Bars_v6 GBPUSD,H1: loaded successfully
+2	14:24:34.994	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+2	14:24:35.008	Custom indicator IVT_MACD_ZERO_LAG GBPUSD,H1: loaded successfully
+2	14:24:35.021	Custom indicator RSI Divergence Levels GBPUSD,H1: loaded successfully
+0	14:34:53.122	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 651.19 ms)
+0	14:34:56.143	'14109544': login on Exness-Real4 through DC15 (ping: 651.19 ms)
+0	14:35:00.555	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 651.19 ms)
+0	14:35:02.506	'14109544': previous successful authorization performed from 197.149.37.189
+0	14:35:18.572	'14109544': auto connecting to a better access point DC00 (ping is 225.25 ms)
+0	14:35:19.279	'14109544': login on Exness-Real4 through DC00 (ping: 225.25 ms)
+0	14:35:21.683	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 225.25 ms)
+0	14:35:22.613	'14109544': previous successful authorization performed from 197.149.37.189
+0	14:42:13.199	'14109544': login on Exness-Real4 through DC06 (ping: 306.32 ms)
+0	14:42:16.777	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 306.32 ms)
+0	14:42:17.928	'14109544': previous successful authorization performed from 220.242.130.17
+2	14:47:47.252	Custom indicator AIMS Levels V2 GBPCHF,M5: removed
+2	14:47:47.258	Custom indicator AIMS Entry Alert V1 GBPCHF,M5: removed
+2	14:47:47.260	Custom indicator CandleTimer GBPCHF,M5: removed
+2	14:47:47.260	Custom indicator #Signal_Bars_v6 GBPCHF,M5: removed
+2	14:47:47.260	Custom indicator AIMS AO V.2.1 GBPCHF,M5: removed
+2	14:47:47.261	Custom indicator IVT_MACD_ZERO_LAG GBPCHF,M5: removed
+2	14:47:47.263	Custom indicator RSI Divergence Levels GBPCHF,M5: removed
+1	16:04:29.386	'14109544': ping failed
+1	16:04:29.388	'14109544': datacenter connecting failed [6]
+0	16:04:31.437	'14109544': login on Exness-Real4 through DC00 (ping: 225.25 ms)
+0	16:04:34.525	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 225.25 ms)
+0	16:04:35.452	'14109544': previous successful authorization performed from 197.149.37.189
+0	16:05:03.225	'14109544': ping to current access point DC00 is 250.86 ms
+2	16:27:46.552	Custom indicator AIMS Levels V2 AUDUSD,H1: loaded successfully
+2	16:27:46.939	Custom indicator AIMS Entry Alert V1 AUDUSD,H1: loaded successfully
+2	16:27:46.947	Custom indicator CandleTimer AUDUSD,H1: loaded successfully
+2	16:27:47.014	Custom indicator #Signal_Bars_v6 AUDUSD,H1: loaded successfully
+2	16:27:47.080	Custom indicator AIMS AO V.2.1 AUDUSD,H1: loaded successfully
+2	16:27:47.089	Custom indicator IVT_MACD_ZERO_LAG AUDUSD,H1: loaded successfully
+2	16:27:47.099	Custom indicator RSI Divergence Levels AUDUSD,H1: loaded successfully
+0	16:32:31.286	'14109544': instant order sell 0.50 DE30 at 12054.7 sl: 0.0 tp: 0.0
+0	16:32:31.944	'14109544': order was opened : #188649926 sell 0.50 DE30 at 12054.7 sl: 0.0 tp: 0.0
+1	16:33:31.214	'14109544': modification of order #188649926 sell 0.50 DE30 at 12054.7 sl: 0.0 tp: 0.0 -> sl: 12096.5 tp: 0.0 failed [Invalid S/L or T/P]
+0	16:33:34.973	'14109544': modify order #188649926 sell 0.50 DE30 at 12054.7 sl: 0.0 tp: 0.0 -> sl: 12110.1 tp: 0.0
+0	16:33:35.311	'14109544': order #188649926 sell 0.50 DE30 at 12054.7 was modified -> sl: 12110.1 tp: 0.0
+0	16:34:10.632	'14109544': close order #188649926 sell 0.50 DE30 at 12054.7 sl: 12110.1 tp: 0.0 at price 12083.2
+0	16:34:10.923	'14109544': requote 12079.7 / 12083.7 for order #188649926 sell 0.50 DE30 closing at 12083.2
+0	16:34:12.925	'14109544': close order #188649926 sell 0.50 DE30 at 12054.7 sl: 12110.1 tp: 0.0 at price 12085.0
+0	16:34:13.277	'14109544': order #188649926 sell 0.50 DE30 at 12054.7 sl: 12110.1 tp: 0.0 closed at price 12085.0
+2	16:44:07.074	Expert Admiral - Mini Terminal US30,M1: loaded successfully
+0	16:47:52.526	'14109544': instant order sell 0.50 US30 at 25869.3 sl: 0.0 tp: 0.0
+0	16:47:53.090	'14109544': order was opened : #188652713 sell 0.50 US30 at 25869.3 sl: 0.0 tp: 0.0
+0	16:49:25.605	'14109544': close order #188652713 sell 0.50 US30 at 25869.3 sl: 0.0 tp: 0.0 at price 25834.3
+0	16:49:26.340	'14109544': order #188652713 sell 0.50 US30 at 25869.3 sl: 0.0 tp: 0.0 closed at price 25834.3
+0	17:02:07.125	'14109544': instant order buy 0.50 US30 at 25912.8 sl: 0.0 tp: 0.0
+0	17:02:07.653	'14109544': requote 25901.8 / 25908.2 for open buy 0.50 US30 at 25912.8 sl: 0.0 tp: 0.0
+0	17:21:57.255	'14109544': instant order buy 0.50 DE30 at 12060.8 sl: 0.0 tp: 0.0
+0	17:21:57.830	'14109544': order was opened : #188657504 buy 0.50 DE30 at 12060.8 sl: 0.0 tp: 0.0
+0	17:22:13.702	'14109544': modify order #188657504 buy 0.50 DE30 at 12060.8 sl: 0.0 tp: 0.0 -> sl: 12030.0 tp: 0.0
+0	17:22:17.539	'14109544': order #188657504 buy 0.50 DE30 at 12060.8 was modified -> sl: 12030.0 tp: 0.0
+2	17:22:50.242	Expert Admiral - Mini Terminal DE30,M1: loaded successfully
+0	17:26:51.441	'14109544': close order #188657504 buy 0.50 DE30 at 12060.8 sl: 12030.0 tp: 0.0 at price 12038.3
+0	17:26:52.084	'14109544': order #188657504 buy 0.50 DE30 at 12060.8 sl: 12030.0 tp: 0.0 closed at price 12038.3
+0	17:26:57.469	'14109544': instant order sell 0.50 DE30 at 12037.3 sl: 0.0 tp: 0.0
+0	17:26:57.944	'14109544': order was opened : #188658021 sell 0.50 DE30 at 12037.3 sl: 0.0 tp: 0.0
+0	17:27:25.285	'14109544': modify order #188658021 sell 0.50 DE30 at 12037.3 sl: 0.0 tp: 0.0 -> sl: 12104.0 tp: 0.0
+0	17:27:25.605	'14109544': order #188658021 sell 0.50 DE30 at 12037.3 was modified -> sl: 12104.0 tp: 0.0
+0	17:27:31.285	'14109544': modify order #188658021 sell 0.50 DE30 at 12037.3 sl: 12104.0 tp: 0.0 -> sl: 12083.1 tp: 0.0
+0	17:27:31.814	'14109544': order #188658021 sell 0.50 DE30 at 12037.3 was modified -> sl: 12083.1 tp: 0.0
+0	17:28:55.809	'14109544': login on Exness-Real4 through DC06 (ping: 353.41 ms)
+0	17:29:02.449	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 250.86 ms)
+0	17:29:09.755	'14109544': login on Exness-Real4 through DC00 (ping: 250.86 ms)
+0	17:29:16.668	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 250.86 ms)
+0	17:29:17.952	'14109544': previous successful authorization performed from 197.149.37.189
+0	17:29:28.306	'14109544': ping to current access point DC00 is 250.68 ms
+1	17:29:53.379	'14109544': modification of order #188658021 sell 0.50 DE30 at 12037.3 sl: 12083.1 tp: 0.0 -> sl: 12034.6 tp: 0.0 failed [Invalid S/L or T/P]
+1	17:30:03.161	'14109544': modification of order #188658021 sell 0.50 DE30 at 12037.3 sl: 12083.1 tp: 0.0 -> sl: 12037.2 tp: 0.0 failed [Invalid S/L or T/P]
+1	17:32:28.258	'14109544': datacenter connecting failed [6]
+0	17:32:29.884	'14109544': login on Exness-Real4 through DC06 (ping: 301.58 ms)
+1	17:33:01.965	'14109544': datacenter connecting failed [6]
+0	17:33:02.904	'14109544': previous successful authorization performed from 163.171.132.139
+0	17:43:54.276	'14109544': close order #188658021 sell 0.50 DE30 at 12037.3 sl: 12083.1 tp: 0.0 at price 12034.1
+0	17:43:55.723	'14109544': order #188658021 sell 0.50 DE30 at 12037.3 sl: 12083.1 tp: 0.0 closed at price 12034.1
+0	17:46:24.646	'14109544': login on Exness-Real4 through DC09 (ping: 562.23 ms)
+0	17:46:36.638	'14109544': login on Exness-Real4 through DC06 (ping: 301.58 ms)
+0	17:47:37.708	'14109544': login datacenter on Exness-Real4
+0	17:47:46.783	HistoryCenter: synchronize 'DE301'
+0	17:47:50.654	HistoryCenter: 4207 bars imported in 'DE301'
+0	17:47:50.907	'14109544': login on Exness-Real4 through DC09 (ping: 562.23 ms)
+0	17:47:55.186	HistoryCenter: synchronize 'DE301'
+0	17:47:59.649	HistoryCenter: 2 bars imported in 'DE301'
+0	17:48:06.210	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 562.23 ms)
+0	17:48:07.543	'14109544': previous successful authorization performed from 197.149.37.189
+0	17:51:51.909	'14109544': instant order sell 0.50 DE30 at 11997.2 sl: 0.0 tp: 0.0
+0	17:51:53.555	'14109544': order was opened : #188662434 sell 0.50 DE30 at 11997.2 sl: 0.0 tp: 0.0
+0	17:52:06.125	'14109544': modify order #188662434 sell 0.50 DE30 at 11997.2 sl: 0.0 tp: 0.0 -> sl: 12036.3 tp: 0.0
+0	17:52:10.345	'14109544': order #188662434 sell 0.50 DE30 at 11997.2 was modified -> sl: 12036.3 tp: 0.0
+1	17:54:09.698	'14109544': modification of order #188662434 sell 0.50 DE30 at 11997.2 sl: 12036.3 tp: 0.0 -> sl: 11992.2 tp: 0.0 failed [Invalid S/L or T/P]
+0	17:58:03.590	'14109544': modify order #188662434 sell 0.50 DE30 at 11997.2 sl: 12036.3 tp: 0.0 -> sl: 11994.5 tp: 0.0
+0	17:58:04.326	'14109544': order #188662434 sell 0.50 DE30 at 11997.2 was modified -> sl: 11994.5 tp: 0.0
+1	17:58:37.266	'14109544': modification of order #188662434 sell 0.50 DE30 at 11997.2 sl: 11994.5 tp: 0.0 -> sl: 11959.8 tp: 0.0 failed [Invalid S/L or T/P]
+1	17:58:41.093	'14109544': modification of order #188662434 sell 0.50 DE30 at 11997.2 sl: 11994.5 tp: 0.0 -> sl: 11962.9 tp: 0.0 failed [Invalid S/L or T/P]
+0	17:58:53.378	'14109544': close order #188662434 sell 0.50 DE30 at 11997.2 sl: 11994.5 tp: 0.0 at price 11956.9
+0	17:58:56.763	'14109544': requote 11955.4 / 11959.5 for order #188662434 sell 0.50 DE30 closing at 11956.9
+1	17:59:07.623	'14109544': connect failed [Connection échouée]
+0	17:59:18.317	'14109544': login on Exness-Real4 through DC15 (ping: 636.13 ms)
+0	17:59:57.031	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 621.69 ms)
+0	18:00:04.676	'14109544': login on Exness-Real4 through DC05 (ping: 621.69 ms)
+0	18:00:10.312	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 621.69 ms)
+0	18:00:11.967	'14109544': previous successful authorization performed from 220.242.130.17
+0	18:01:08.376	'14109544': close order #188662434 sell 0.50 DE30 at 11997.2 sl: 11994.5 tp: 0.0 at price 11961.5
+0	18:01:09.051	'14109544': order #188662434 sell 0.50 DE30 at 11997.2 sl: 11994.5 tp: 0.0 closed at price 11961.5
+0	18:01:59.675	'14109544': instant order sell 0.50 DE30 at 11942.9 sl: 0.0 tp: 0.0
+0	18:02:00.958	'14109544': order was opened : #188664906 sell 0.50 DE30 at 11942.9 sl: 0.0 tp: 0.0
+0	18:02:27.743	'14109544': close order #188664906 sell 0.50 DE30 at 11942.9 sl: 0.0 tp: 0.0 at price 11938.3
+0	18:02:28.611	'14109544': requote 11936.1 / 11940.2 for order #188664906 sell 0.50 DE30 closing at 11938.3
+0	18:02:32.305	'14109544': close order #188664906 sell 0.50 DE30 at 11942.9 sl: 0.0 tp: 0.0 at price 11937.3
+0	18:02:34.545	'14109544': order #188664906 sell 0.50 DE30 at 11942.9 sl: 0.0 tp: 0.0 closed at price 11937.3
+1	18:11:31.512	'14109544': ping failed
+0	18:11:35.719	'14109544': login datacenter on Exness-Real4
+0	18:11:38.873	'14109544': login on Exness-Real4 through DC15 (ping: 636.13 ms)
+0	18:11:50.403	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 636.13 ms)
+0	18:11:51.856	'14109544': previous successful authorization performed from 197.149.37.189
+1	18:13:59.749	'14109544': datacenter connecting failed [6]
+1	18:13:59.822	'14109544': connect failed [Connection échouée]
+0	18:14:05.801	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	18:14:08.597	'14109544': login datacenter on Exness-Real4 through DC06 (ping: n/a)
+0	18:14:09.851	'14109544': previous successful authorization performed from 197.149.37.189
+0	18:14:37.649	'14109544': ping to current access point DC06 is 314.09 ms
+0	18:23:42.773	'14109544': login datacenter on Exness-Real4
+0	18:23:47.540	'14109544': login on Exness-Real4 through DC00 (ping: 286.47 ms)
+0	18:23:50.771	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 286.47 ms)
+0	18:23:52.198	'14109544': previous successful authorization performed from 154.126.11.123
+1	18:24:21.179	'14109544': datacenter connecting failed [6]
+0	18:24:25.877	'14109544': login on Exness-Real4 through DC15 (ping: 644.72 ms)
+0	18:24:31.339	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 644.72 ms)
+0	18:24:34.042	'14109544': previous successful authorization performed from 220.242.138.56
+1	18:25:47.767	'14109544': datacenter connecting failed [6]
+0	18:25:49.165	'14109544': login on Exness-Real4 through DC05 (ping: 638.83 ms)
+0	18:25:59.748	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 638.83 ms)
+0	18:26:01.651	'14109544': previous successful authorization performed from 197.149.37.189
+1	18:31:54.638	'14109544': datacenter connecting failed [6]
+0	18:31:56.035	'14109544': login on Exness-Real4 through DC05 (ping: 638.83 ms)
+0	18:32:01.087	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 638.83 ms)
+0	18:32:02.215	'14109544': previous successful authorization performed from 154.126.11.63
+1	18:36:08.765	'14109544': datacenter connecting failed [6]
+0	18:36:14.508	'14109544': login on Exness-Real4 through DC09 (ping: 674.57 ms)
+0	18:37:08.880	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 674.57 ms)
+0	18:37:11.059	'14109544': previous successful authorization performed from 197.149.37.189
+0	18:58:28.774	'14109544': login on Exness-Real4 through DC09 (ping: 674.57 ms)
+0	18:58:38.305	'14109544': login datacenter on Exness-Real4 through DC09 (ping: 674.57 ms)
+0	18:58:39.939	'14109544': previous successful authorization performed from 197.149.37.189
+1	19:40:08.929	'14109544': datacenter connecting failed [6]
+1	19:40:09.016	'14109544': connect failed [Connection échouée]
+0	19:40:15.958	'14109544': login on Exness-Real4 through DC06 (ping: n/a)
+0	19:41:19.104	'14109544': login datacenter on Exness-Real4
+0	19:41:27.650	'14109544': login on Exness-Real4 through DC15 (ping: n/a)
+0	19:41:38.597	'14109544': login datacenter on Exness-Real4 through DC15 (ping: n/a)
+0	19:41:43.931	'14109544': previous successful authorization performed from 197.149.37.189
+0	19:42:10.522	'14109544': auto connecting to a better access point DC06 (ping is 374.60 ms)
+0	19:42:12.095	'14109544': login on Exness-Real4 through DC06 (ping: 374.60 ms)
+0	19:42:30.507	'14109544': login datacenter on Exness-Real4 through DC06 (ping: 374.60 ms)
+0	19:42:33.847	'14109544': previous successful authorization performed from 197.149.37.189
+1	19:43:40.921	'14109544': datacenter connecting failed [6]
+0	19:43:46.056	'14109544': login on Exness-Real4 through DC00 (ping: 524.96 ms)
+0	19:44:45.183	'14109544': login datacenter on Exness-Real4 through DC00 (ping: 524.96 ms)
+0	19:44:47.485	'14109544': previous successful authorization performed from 197.149.37.189
+1	19:46:13.775	'14109544': datacenter connecting failed [6]
+0	19:46:16.547	'14109544': login on Exness-Real4 through DC15 (ping: 1028.04 ms)
+1	19:46:56.468	'14109544': datacenter connecting failed [6]
+0	19:47:06.166	'14109544': login on Exness-Real4 through DC15 (ping: 1028.04 ms)
+0	19:47:17.039	'14109544': login datacenter on Exness-Real4 through DC15 (ping: 1028.04 ms)
+0	19:47:23.128	'14109544': previous successful authorization performed from 197.149.37.189
+1	19:57:03.921	'14109544': datacenter connecting failed [6]
+0	19:57:06.508	'14109544': login on Exness-Real4 through DC05 (ping: 767.34 ms)
+0	19:57:13.820	'14109544': login datacenter on Exness-Real4 through DC05 (ping: 767.34 ms)
+0	19:57:16.474	'14109544': previous successful authorization performed from 197.149.37.189

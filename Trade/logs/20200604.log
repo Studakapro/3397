@@ -1,0 +1,670 @@
+1	12:36:03.064	'27123197': ping failed
+1	12:36:06.366	'27123197': connect failed [Connection échouée]
+1	12:36:09.015	MQL5.community: authorization failed
+2	12:36:42.451	Custom indicator MACD Candles v4 GBPAUD,H1: removed
+2	12:36:42.916	Custom indicator Dolly Graphics v14 GBPAUD,H1: removed
+2	12:36:43.280	Custom indicator AIMS Levels V2 GBPAUD,H1: loaded successfully
+2	12:36:43.383	Custom indicator AIMS Entry Alert V1 GBPAUD,H1: loaded successfully
+2	12:36:43.501	Custom indicator AIMS AO V.2.1 GBPAUD,H1: loaded successfully
+0	12:37:22.865	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	12:37:29.111	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	12:37:30.475	'27123197': previous successful authorization performed from 197.149.36.160
+0	12:37:53.355	'27123197': auto connecting to a better access point Access Point #5 (ping is 204.04 ms)
+0	12:37:54.178	'27123197': login on AdmiralMarkets-Live through Access Point #5 (ping: 204.04 ms)
+0	12:37:56.457	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #5 (ping: 204.04 ms)
+0	12:37:57.107	'27123197': previous successful authorization performed from 197.149.36.160
+1	12:52:26.885	'27123197': connect failed [Connection échouée]
+0	12:53:09.400	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	12:53:14.445	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	12:53:15.581	'27123197': previous successful authorization performed from 197.149.36.160
+0	12:53:40.950	'27123197': ping to current access point Access Point #8 is 585.88 ms
+1	12:57:36.265	'27123197': connect failed [Connection échouée]
+0	12:58:03.166	'27123197': login on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	12:58:05.500	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #4 (ping: n/a)
+0	12:58:06.036	'27123197': previous successful authorization performed from 197.149.36.160
+0	12:58:22.823	'27123197': ping to current access point Access Point #4 is 204.05 ms
+1	13:11:33.724	'27123197': connect failed [Connection échouée]
+0	13:12:42.716	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	13:12:48.257	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	13:12:49.815	'27123197': previous successful authorization performed from 197.149.36.160
+0	13:13:14.220	'27123197': ping to current access point Access Point #8 is 590.72 ms
+0	13:14:05.915	'23875089': login on AdmiralMarkets-Demo through Access Point #6 (ping: 207.49 ms)
+0	13:14:13.528	'23875089': login datacenter on AdmiralMarkets-Demo through Access Point #6 (ping: 207.49 ms)
+0	13:14:14.190	'23875089': previous successful authorization performed from 154.126.10.117
+0	13:14:29.097	'23875089': ping to current access point Access Point #6 is 224.62 ms
+0	13:15:38.092	'23875089': order buy market 1.00 GOLD sl: 0.000 tp: 0.000
+1	13:15:38.768	'23875089': order buy 1.00 GOLD opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+0	13:15:49.794	'23875089': order buy market 0.10 GOLD sl: 0.000 tp: 0.000
+0	13:15:50.170	'23875089': order was opened : #182055893 buy 0.10 GOLD at 1709.010 sl: 0.000 tp: 0.000
+0	13:16:14.532	'23875089': modify order #182055893 buy 0.10 GOLD at 1709.010 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 1716.876
+0	13:16:14.839	'23875089': order #182055893 buy 0.10 GOLD at 1709.010 was modified -> sl: 0.000 tp: 1716.876
+0	13:16:27.110	'23875089': modify order #182055893 buy 0.10 GOLD at 1709.010 sl: 0.000 tp: 1716.876 -> sl: 1689.194 tp: 1716.876
+0	13:16:27.406	'23875089': order #182055893 buy 0.10 GOLD at 1709.010 was modified -> sl: 1689.194 tp: 1716.876
+0	13:16:59.088	'23875089': order buy market 0.05 GOLD sl: 0.000 tp: 0.000
+0	13:16:59.484	'23875089': order was opened : #182056041 buy 0.05 GOLD at 1709.060 sl: 0.000 tp: 0.000
+0	13:17:07.299	'23875089': modify order #182055893 buy 0.10 GOLD at 1709.010 sl: 1689.194 tp: 1716.876 -> sl: 1693.239 tp: 1716.876
+0	13:17:07.588	'23875089': order #182055893 buy 0.10 GOLD at 1709.010 was modified -> sl: 1693.239 tp: 1716.876
+0	13:17:25.852	'23875089': modify order #182056041 buy 0.05 GOLD at 1709.060 sl: 0.000 tp: 0.000 -> sl: 1707.788 tp: 0.000
+0	13:17:26.173	'23875089': order #182056041 buy 0.05 GOLD at 1709.060 was modified -> sl: 1707.788 tp: 0.000
+0	13:17:42.509	'23875089': modify order #182056041 buy 0.05 GOLD at 1709.060 sl: 1707.788 tp: 0.000 -> sl: 1693.605 tp: 0.000
+0	13:17:42.931	'23875089': order #182056041 buy 0.05 GOLD at 1709.060 was modified -> sl: 1693.605 tp: 0.000
+0	13:17:47.704	'23875089': modify order #182055893 buy 0.10 GOLD at 1709.010 sl: 1693.239 tp: 1716.876 -> sl: 1693.239 tp: 1721.047
+0	13:17:48.053	'23875089': order #182055893 buy 0.10 GOLD at 1709.010 was modified -> sl: 1693.239 tp: 1721.047
+0	13:17:52.971	'23875089': close order #182056041 buy 0.05 GOLD at 1709.060 sl: 1693.605 tp: 0.000 at price 0.000
+0	13:17:53.372	'23875089': order #182056041 buy 0.05 GOLD at 1709.060 sl: 1693.605 tp: 0.000 closed at price 1708.290
+0	13:17:54.203	'23875089': close order #182055893 buy 0.10 GOLD at 1709.010 sl: 1693.239 tp: 1721.047 at price 0.000
+0	13:17:54.598	'23875089': order #182055893 buy 0.10 GOLD at 1709.010 sl: 1693.239 tp: 1721.047 closed at price 1708.290
+0	13:18:08.424	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 590.72 ms)
+0	13:18:13.513	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 590.72 ms)
+0	13:18:14.780	'27123197': previous successful authorization performed from 197.149.36.160
+0	13:18:59.449	'27123197': order buy market 0.05 GOLD sl: 0.000 tp: 0.000
+0	13:19:00.542	'27123197': order was opened : #66884322 buy 0.05 GOLD at 1709.460 sl: 0.000 tp: 0.000
+1	13:27:06.681	'27123197': datacenter connecting failed [6]
+0	13:27:08.251	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: 590.72 ms)
+0	13:27:13.081	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: 590.72 ms)
+0	13:27:14.297	'27123197': previous successful authorization performed from 197.149.36.160
+0	13:29:04.049	'27123197': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	13:29:05.045	'27123197': order was opened : #66884666 buy 0.50 [DAX30] at 12405.45 sl: 0.00 tp: 0.00
+0	13:29:11.639	'27123197': modify order #66884666 buy 0.50 [DAX30] at 12405.45 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 12420.52
+0	13:29:12.386	'27123197': order #66884666 buy 0.50 [DAX30] at 12405.45 was modified -> sl: 0.00 tp: 12420.52
+0	13:31:23.010	'27123197': modify order #66884666 buy 0.50 [DAX30] at 12405.45 sl: 0.00 tp: 12420.52 -> sl: 0.00 tp: 0.00
+0	13:31:23.938	'27123197': order #66884666 buy 0.50 [DAX30] at 12405.45 was modified -> sl: 0.00 tp: 0.00
+0	13:35:10.254	'27123197': close order #66884666 buy 0.50 [DAX30] at 12405.45 sl: 0.00 tp: 0.00 at price 0.00
+0	13:35:11.262	'27123197': order #66884666 buy 0.50 [DAX30] at 12405.45 sl: 0.00 tp: 0.00 closed at price 12409.52
+0	13:38:20.977	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	13:38:21.927	'27123197': order was opened : #66885066 sell 0.50 [DAX30] at 12398.74 sl: 0.00 tp: 0.00
+0	13:45:56.462	'27123197': close order #66885066 sell 0.50 [DAX30] at 12398.74 sl: 0.00 tp: 0.00 at price 0.00
+0	13:45:57.426	'27123197': order #66885066 sell 0.50 [DAX30] at 12398.74 sl: 0.00 tp: 0.00 closed at price 12392.42
+2	13:48:58.785	Custom indicator AIMS Levels V2 [NQ100],M1: removed
+2	13:48:58.808	Custom indicator AIMS Entry Alert V1 [NQ100],M1: removed
+2	13:48:58.809	Custom indicator AIMS AO V.2.1 [NQ100],M1: removed
+2	13:49:03.899	Custom indicator AIMS Levels V2 [NQ100],M1: loaded successfully
+2	13:49:03.985	Custom indicator AIMS Entry Alert V1 [NQ100],M1: loaded successfully
+2	13:49:04.065	Custom indicator AIMS AO V.2.1 [NQ100],M1: loaded successfully
+2	13:53:25.257	Custom indicator !!ZeusArrow-CandleTime GOLD,H1: loaded successfully
+2	14:04:11.062	Custom indicator $-ForecastCityIntradayIndicator USDCAD,H1: loaded successfully
+2	14:04:11.190	Custom indicator Entry USDCAD,H1: loaded successfully
+2	14:04:11.256	Custom indicator Trend USDCAD,H1: loaded successfully
+2	14:04:11.322	Custom indicator IVT_MACD_ZERO_LAG USDCAD,H1: loaded successfully
+2	14:18:25.084	Custom indicator FL01 EURNZD,M1: removed
+2	14:18:25.205	Custom indicator FL02 EURNZD,M1: removed
+2	14:18:25.254	Custom indicator FL02 EURNZD,M1: removed
+2	14:18:25.357	Custom indicator FL02 EURNZD,M1: removed
+2	14:18:25.423	Custom indicator FL02 EURNZD,M1: removed
+2	14:18:25.432	Custom indicator FL02 EURNZD,M1: removed
+2	14:18:25.526	Custom indicator FL02 EURNZD,M1: removed
+2	14:18:25.568	Custom indicator FL10 EURNZD,M1: removed
+2	14:18:25.692	Custom indicator FL11 EURNZD,M1: removed
+2	14:18:25.740	Custom indicator FL13 EURNZD,M1: removed
+2	14:18:25.808	Custom indicator FL14 EURNZD,M1: removed
+2	14:18:25.880	Custom indicator FL04 EURNZD,M1: removed
+2	14:18:25.974	Custom indicator FL05 EURNZD,M1: removed
+2	14:18:26.038	Custom indicator FL06 EURNZD,M1: removed
+2	14:18:26.076	Custom indicator FL07 EURNZD,M1: removed
+2	14:18:26.272	Custom indicator AIMS Levels V2 EURNZD,M1: loaded successfully
+2	14:18:26.385	Custom indicator AIMS Entry Alert V1 EURNZD,M1: loaded successfully
+2	14:18:26.453	Custom indicator AIMS AO V.2.1 EURNZD,M1: loaded successfully
+2	14:18:54.191	Custom indicator AIMS Levels V2 EURNZD,M1: removed
+2	14:18:54.191	Custom indicator AIMS Entry Alert V1 EURNZD,M1: removed
+2	14:18:54.191	Custom indicator AIMS AO V.2.1 EURNZD,M1: removed
+2	14:18:54.347	Custom indicator MACD Candles v4 EURNZD,M1: loaded successfully
+2	14:18:54.390	Custom indicator Dolly Graphics v14 EURNZD,M1: loaded successfully
+2	14:19:12.433	Custom indicator MACD Candles v4 EURNZD,H1: removed
+2	14:19:12.460	Custom indicator Dolly Graphics v14 EURNZD,H1: removed
+2	14:19:12.493	Custom indicator HeikenAshi_DM EURNZD,H1: loaded successfully
+2	14:19:12.537	Custom indicator DM_DSR EURNZD,H1: loaded successfully
+2	14:19:12.573	Custom indicator LJ_SIG EURNZD,H1: loaded successfully
+2	14:19:12.597	Custom indicator #MarketPrice _v1_4 EURNZD,H1: loaded successfully
+2	14:19:12.607	Custom indicator ABT 5M 15M\CandleCountdown EURNZD,H1: loaded successfully
+2	14:19:12.616	Custom indicator LJ_SYNERGY_ID EURNZD,H1: loaded successfully
+2	14:19:12.703	Custom indicator Traders Dynamic Index VISUAL ALERTS EURNZD,H1: loaded successfully
+2	14:19:12.730	Custom indicator DM_Volatility EURNZD,H1: loaded successfully
+2	14:19:12.755	Custom indicator DM_RangeFactor EURNZD,H1: loaded successfully
+2	14:19:12.778	Custom indicator DM_Continuation EURNZD,H1: loaded successfully
+2	14:19:12.811	Custom indicator Status Monitor V1.2 EURNZD,H1: loaded successfully
+0	14:20:51.711	'27123197': delete pending order #66802283 buy limit 0.10 GBPUSD at 1.25000 sl: 1.24540 tp: 1.25470
+0	14:20:52.430	'27123197': pending order #66802283 was deleted
+0	14:27:01.240	'27123197': modify order #66884322 buy 0.05 GOLD at 1709.460 sl: 0.000 tp: 0.000 -> sl: 1689.369 tp: 0.000
+0	14:27:02.013	'27123197': order #66884322 buy 0.05 GOLD at 1709.460 was modified -> sl: 1689.369 tp: 0.000
+0	14:40:47.254	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:40:48.420	'27123197': order was opened : #66887655 sell 0.50 [DAX30] at 12414.02 sl: 0.00 tp: 0.00
+0	14:40:53.773	'27123197': modify order #66887655 sell 0.50 [DAX30] at 12414.02 sl: 0.00 tp: 0.00 -> sl: 12429.23 tp: 0.00
+0	14:40:54.560	'27123197': order #66887655 sell 0.50 [DAX30] at 12414.02 was modified -> sl: 12429.23 tp: 0.00
+0	14:45:05.984	'27123197': order #66887655 sell 0.50 [DAX30] at 12414.02 closed due stop-loss at price 12438.99
+0	14:46:57.888	'27123197': order buy market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	14:46:58.959	'27123197': order was opened : #66888508 buy 0.50 [DAX30] at 12476.90 sl: 0.00 tp: 0.00
+0	14:52:45.286	'27123197': close order #66888508 buy 0.50 [DAX30] at 12476.90 sl: 0.00 tp: 0.00 at price 0.00
+0	14:52:46.780	'27123197': order #66888508 buy 0.50 [DAX30] at 12476.90 sl: 0.00 tp: 0.00 closed at price 12495.02
+2	14:58:23.454	Custom indicator Admiral Pivot [DAX30],M1: loaded successfully
+0	15:02:49.426	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	15:02:50.345	'27123197': order was opened : #66892383 sell 0.50 [DAX30] at 12495.31 sl: 0.00 tp: 0.00
+0	15:04:01.675	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	15:04:02.744	'27123197': order was opened : #66892604 sell 0.50 [DAX30] at 12484.32 sl: 0.00 tp: 0.00
+0	15:25:18.527	'27123197': close order #66892383 sell 0.50 [DAX30] at 12495.31 sl: 0.00 tp: 0.00 at price 0.00
+0	15:25:19.547	'27123197': order #66892383 sell 0.50 [DAX30] at 12495.31 sl: 0.00 tp: 0.00 closed at price 12458.18
+0	15:25:20.364	'27123197': close order #66892604 sell 0.50 [DAX30] at 12484.32 sl: 0.00 tp: 0.00 at price 0.00
+0	15:25:21.486	'27123197': order #66892604 sell 0.50 [DAX30] at 12484.32 sl: 0.00 tp: 0.00 closed at price 12457.44
+0	15:26:56.582	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	15:26:57.648	'27123197': order was opened : #66895116 sell 0.50 [DAX30] at 12448.06 sl: 0.00 tp: 0.00
+0	15:26:58.236	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	15:26:59.260	'27123197': order was opened : #66895119 sell 0.50 [DAX30] at 12449.06 sl: 0.00 tp: 0.00
+0	15:33:35.662	'27123197': close order #66895116 sell 0.50 [DAX30] at 12448.06 sl: 0.00 tp: 0.00 at price 0.00
+0	15:33:36.748	'27123197': order #66895116 sell 0.50 [DAX30] at 12448.06 sl: 0.00 tp: 0.00 closed at price 12417.49
+0	15:33:37.948	'27123197': close order #66895119 sell 0.50 [DAX30] at 12449.06 sl: 0.00 tp: 0.00 at price 0.00
+0	15:33:38.909	'27123197': order #66895119 sell 0.50 [DAX30] at 12449.06 sl: 0.00 tp: 0.00 closed at price 12419.48
+2	15:39:05.235	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	15:39:05.291	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	15:39:05.661	Custom indicator CandleTimer [DAX30],M1: removed
+2	15:39:05.758	Custom indicator Admiral Pivot [DAX30],M1: removed
+2	15:39:05.784	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	15:39:06.189	Custom indicator b-clock modified [DAX30],M1: loaded successfully
+2	15:39:06.311	Custom indicator AutoTrendChannel [DAX30],M1: loaded successfully
+2	15:39:06.471	Custom indicator phoenix [DAX30],M1: loaded successfully
+2	15:39:06.739	Custom indicator FuturoTI [DAX30],M1: loaded successfully
+2	15:41:15.801	Custom indicator b-clock modified [DAX30],M1: removed
+2	15:41:15.813	Custom indicator AutoTrendChannel [DAX30],M1: removed
+2	15:41:15.813	Custom indicator phoenix [DAX30],M1: removed
+2	15:41:15.872	Custom indicator FuturoTI [DAX30],M1: removed
+2	15:41:15.958	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	15:41:16.051	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	15:41:16.132	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	15:42:48.471	Custom indicator AIMS Levels V2 GOLD,H1: removed
+2	15:42:48.517	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	15:42:48.545	Custom indicator !!ZeusArrow-CandleTime GOLD,H1: removed
+2	15:42:48.551	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+2	15:44:08.589	Custom indicator AIMS Levels V2 GOLD,H4: loaded successfully
+2	15:44:08.680	Custom indicator AIMS Entry Alert V1 GOLD,H4: loaded successfully
+2	15:44:08.763	Custom indicator AIMS AO V.2.1 GOLD,H4: loaded successfully
+0	15:48:44.150	'27123197': close order #66884322 buy 0.05 GOLD at 1709.460 sl: 1689.369 tp: 0.000 at price 0.000
+0	15:48:45.109	'27123197': order #66884322 buy 0.05 GOLD at 1709.460 sl: 1689.369 tp: 0.000 closed at price 1713.970
+2	15:58:21.598	Custom indicator AIMS Levels V2 AUDNZD,H1: loaded successfully
+2	15:58:21.673	Custom indicator AIMS Entry Alert V1 AUDNZD,H1: loaded successfully
+2	15:58:21.748	Custom indicator AIMS AO V.2.1 AUDNZD,H1: loaded successfully
+0	16:08:14.412	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	16:08:15.444	'27123197': order was opened : #66900740 sell 0.50 [DAX30] at 12400.37 sl: 0.00 tp: 0.00
+0	16:08:17.283	'27123197': order sell market 0.50 [DAX30] sl: 0.00 tp: 0.00
+0	16:08:18.321	'27123197': order was opened : #66900746 sell 0.50 [DAX30] at 12399.38 sl: 0.00 tp: 0.00
+0	16:09:17.019	'27123197': close order #66900746 sell 0.50 [DAX30] at 12399.38 sl: 0.00 tp: 0.00 at price 0.00
+0	16:09:18.300	'27123197': order #66900746 sell 0.50 [DAX30] at 12399.38 sl: 0.00 tp: 0.00 closed at price 12414.64
+0	16:27:20.635	'27123197': close order #66900740 sell 0.50 [DAX30] at 12400.37 sl: 0.00 tp: 0.00 at price 0.00
+0	16:27:21.707	'27123197': order #66900740 sell 0.50 [DAX30] at 12400.37 sl: 0.00 tp: 0.00 closed at price 12410.66
+2	16:33:40.263	Custom indicator rsi chart bars EURGBP,M30: removed
+2	16:33:40.357	Custom indicator PBF_2EMA_Color EURGBP,M30: removed
+2	16:33:40.470	Custom indicator vertex_mod_3.01 alerts + arrows EURGBP,M30: removed
+2	16:33:47.154	Custom indicator AIMS Levels V2 GBPUSD,M15: removed
+2	16:33:47.238	Custom indicator AIMS Entry Alert V1 GBPUSD,M15: removed
+2	16:33:47.273	Custom indicator AIMS AO V.2.1 GBPUSD,M15: removed
+2	16:35:55.285	Custom indicator AIMS Levels V2 GOLD,H1: removed
+2	16:35:55.285	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	16:35:55.324	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+0	16:41:32.880	'27123197': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	16:41:33.731	'27123197': order was opened : #66904394 sell 0.10 [DJI30] at 26191.91 sl: 0.00 tp: 0.00
+2	16:42:19.126	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+2	16:44:47.405	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+0	16:52:08.061	'27123197': close order #66904394 sell 0.10 [DJI30] at 26191.91 sl: 0.00 tp: 0.00 at price 0.00
+0	16:52:08.916	'27123197': order #66904394 sell 0.10 [DJI30] at 26191.91 sl: 0.00 tp: 0.00 closed at price 26216.93
+0	16:52:08.916	'27123197': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	16:52:09.948	'27123197': order was opened : #66905688 buy 0.10 [DJI30] at 26215.93 sl: 0.00 tp: 0.00
+0	16:53:39.647	'27123197': close order #66905688 buy 0.10 [DJI30] at 26215.93 sl: 0.00 tp: 0.00 at price 0.00
+0	16:53:40.938	'27123197': order #66905688 buy 0.10 [DJI30] at 26215.93 sl: 0.00 tp: 0.00 closed at price 26245.28
+0	17:10:44.134	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	17:10:45.095	'27123197': order was opened : #66907855 sell 0.50 [DJI30] at 26249.86 sl: 0.00 tp: 0.00
+0	17:15:37.741	'27123197': modify order #66907855 sell 0.50 [DJI30] at 26249.86 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 26248.03
+0	17:15:38.437	'27123197': order #66907855 sell 0.50 [DJI30] at 26249.86 was modified -> sl: 0.00 tp: 26248.03
+0	17:16:01.583	'27123197': close order #66907855 sell 0.50 [DJI30] at 26249.86 sl: 0.00 tp: 26248.03 at price 0.00
+0	17:16:02.420	'27123197': order #66907855 sell 0.50 [DJI30] at 26249.86 sl: 0.00 tp: 26248.03 closed at price 26273.19
+2	17:19:14.230	Custom indicator AIMS Levels V2 GBPUSD,H1: loaded successfully
+2	17:19:14.426	Custom indicator AIMS Entry Alert V1 GBPUSD,H1: loaded successfully
+2	17:19:14.524	Custom indicator AIMS AO V.2.1 GBPUSD,H1: loaded successfully
+0	17:23:43.301	'27123197': order sell market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	17:23:44.274	'27123197': order was opened : #66909362 sell 0.10 [DAX30] at 12427.17 sl: 0.00 tp: 0.00
+2	17:24:31.984	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	17:24:51.557	Expert Admiral - Mini Terminal [DAX30],M1: loaded successfully
+0	17:30:01.022	'27123197': close order #66909362 sell 0.10 [DAX30] at 12427.17 sl: 0.00 tp: 0.00 at price 0.00
+0	17:30:02.056	'27123197': order #66909362 sell 0.10 [DAX30] at 12427.17 sl: 0.00 tp: 0.00 closed at price 12449.48
+0	17:30:02.056	'27123197': order buy market 0.10 [DAX30] sl: 0.00 tp: 0.00
+0	17:30:03.081	'27123197': order was opened : #66910232 buy 0.10 [DAX30] at 12449.23 sl: 0.00 tp: 0.00
+0	17:38:03.709	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	17:38:04.723	'27123197': order was opened : #66911601 sell 0.50 [DJI30] at 26339.38 sl: 0.00 tp: 0.00
+1	17:43:19.010	'27123197': connect failed [Connection échouée]
+0	18:03:53.018	'27123197': login on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	18:03:59.682	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #8 (ping: n/a)
+0	18:04:00.821	'27123197': previous successful authorization performed from 154.126.10.107
+0	18:04:15.164	'27123197': auto connecting to a better access point Access Point #6 (ping is 219.74 ms)
+0	18:04:16.014	'27123197': login on AdmiralMarkets-Live through Access Point #6 (ping: 219.74 ms)
+0	18:04:17.837	'27123197': login datacenter on AdmiralMarkets-Live through Access Point #6 (ping: 219.74 ms)
+0	18:04:18.366	'27123197': previous successful authorization performed from 197.149.36.160
+0	18:06:51.924	'27123197': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	18:06:52.363	'27123197': order was opened : #66915609 sell 0.10 [NQ100] at 9697.56 sl: 0.00 tp: 0.00
+0	18:10:14.928	'27123197': order sell market 1.00 [NQ100] sl: 0.00 tp: 0.00
+0	18:10:15.345	'27123197': order was opened : #66916081 sell 1.00 [NQ100] at 9687.23 sl: 0.00 tp: 0.00
+0	18:13:28.980	'27123197': close order #66916081 sell 1.00 [NQ100] at 9687.23 sl: 0.00 tp: 0.00 at price 0.00
+0	18:13:29.361	'27123197': order #66916081 sell 1.00 [NQ100] at 9687.23 sl: 0.00 tp: 0.00 closed at price 9666.33
+0	18:13:30.066	'27123197': close order #66915609 sell 0.10 [NQ100] at 9697.56 sl: 0.00 tp: 0.00 at price 0.00
+0	18:13:30.470	'27123197': order #66915609 sell 0.10 [NQ100] at 9697.56 sl: 0.00 tp: 0.00 closed at price 9666.96
+0	18:13:41.983	'27123197': order sell market 1.00 [NQ100] sl: 0.00 tp: 0.00
+0	18:13:42.401	'27123197': order was opened : #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 0.00
+0	18:14:14.742	'27123197': modify order #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 9662.46
+0	18:14:15.034	'27123197': order #66916593 sell 1.00 [NQ100] at 9663.46 was modified -> sl: 0.00 tp: 9662.46
+0	18:15:11.334	'27123197': modify order #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 9662.46 -> sl: 0.00 tp: 9661.79
+0	18:15:11.778	'27123197': order #66916593 sell 1.00 [NQ100] at 9663.46 was modified -> sl: 0.00 tp: 9661.79
+0	18:15:32.865	'27123197': modify order #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 9661.79 -> sl: 0.00 tp: 9658.68
+0	18:15:33.160	'27123197': order #66916593 sell 1.00 [NQ100] at 9663.46 was modified -> sl: 0.00 tp: 9658.68
+0	18:16:00.590	'27123197': modify order #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 9658.68 -> sl: 0.00 tp: 9655.79
+0	18:16:00.937	'27123197': order #66916593 sell 1.00 [NQ100] at 9663.46 was modified -> sl: 0.00 tp: 9655.79
+0	18:16:17.944	'27123197': close order #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 9655.79 at price 0.00
+0	18:16:18.335	'27123197': order #66916593 sell 1.00 [NQ100] at 9663.46 sl: 0.00 tp: 9655.79 closed at price 9656.92
+0	18:23:06.796	'27123197': order buy market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	18:23:07.347	'27123197': order was opened : #66917928 buy 0.10 [DJI30] at 26282.24 sl: 0.00 tp: 0.00
+0	18:28:02.329	'27123197': close order #66917928 buy 0.10 [DJI30] at 26282.24 sl: 0.00 tp: 0.00 at price 0.00
+0	18:28:03.232	'27123197': order #66917928 buy 0.10 [DJI30] at 26282.24 sl: 0.00 tp: 0.00 closed at price 26242.20
+0	18:28:03.265	'27123197': order sell market 0.10 [DJI30] sl: 0.00 tp: 0.00
+0	18:28:03.744	'27123197': order was opened : #66918429 sell 0.10 [DJI30] at 26242.70 sl: 0.00 tp: 0.00
+0	18:31:06.742	'27123197': modify order #66918429 sell 0.10 [DJI30] at 26242.70 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 26240.88
+0	18:31:07.029	'27123197': order #66918429 sell 0.10 [DJI30] at 26242.70 was modified -> sl: 0.00 tp: 26240.88
+0	18:31:23.887	'27123197': modify order #66918429 sell 0.10 [DJI30] at 26242.70 sl: 0.00 tp: 26240.88 -> sl: 0.00 tp: 26236.32
+0	18:31:24.167	'27123197': order #66918429 sell 0.10 [DJI30] at 26242.70 was modified -> sl: 0.00 tp: 26236.32
+0	18:31:44.328	'27123197': close order #66918429 sell 0.10 [DJI30] at 26242.70 sl: 0.00 tp: 26236.32 at price 0.00
+0	18:31:44.938	'27123197': order #66918429 sell 0.10 [DJI30] at 26242.70 sl: 0.00 tp: 26236.32 closed at price 26276.42
+0	18:31:44.938	'27123197': order buy market 0.10 [DJI30] sl: 26236.32 tp: 0.00
+0	18:31:45.452	'27123197': order was opened : #66918834 buy 0.10 [DJI30] at 26274.41 sl: 26236.32 tp: 0.00
+0	18:42:17.531	'27123197': close order #66918834 buy 0.10 [DJI30] at 26274.41 sl: 26236.32 tp: 0.00 at price 0.00
+0	18:42:18.220	'27123197': order #66918834 buy 0.10 [DJI30] at 26274.41 sl: 26236.32 tp: 0.00 closed at price 26271.13
+0	18:42:18.220	'27123197': order sell market 0.10 [DJI30] sl: 0.00 tp: 26236.32
+0	18:42:19.755	'27123197': order was opened : #66919635 sell 0.10 [DJI30] at 26271.63 sl: 0.00 tp: 26236.32
+0	18:42:39.971	'27123197': modify order #66919635 sell 0.10 [DJI30] at 26271.63 sl: 0.00 tp: 26236.32 -> sl: 0.00 tp: 26200.72
+0	18:42:40.465	'27123197': order #66919635 sell 0.10 [DJI30] at 26271.63 was modified -> sl: 0.00 tp: 26200.72
+0	18:46:23.770	HistoryCenter: synchronize '[DJI30]1'
+0	18:46:27.767	HistoryCenter: 42934 bars imported in '[DJI30]1'
+2	18:46:44.118	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	18:46:44.133	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	18:46:44.156	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	18:46:44.171	Custom indicator CandleTimer [DJI30],M1: removed
+2	18:46:44.171	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	18:46:44.430	Custom indicator #P4L CandleTime [DJI30],M1: loaded successfully
+2	18:46:44.444	Custom indicator TURBO PLUS+ [DJI30],M1: loaded successfully
+2	18:46:44.516	Custom indicator ALERT SIGNAL [DJI30],M1: loaded successfully
+2	18:46:44.526	Custom indicator Trend Trading\TrendTradingCloud [DJI30],M1: loaded successfully
+2	18:46:44.542	Custom indicator Admiral Donchian [DJI30],M1: loaded successfully
+2	18:46:44.583	Custom indicator Admiral High-Low [DJI30],M1: loaded successfully
+2	18:46:44.662	Custom indicator Admiral Keltner [DJI30],M1: loaded successfully
+2	18:46:44.705	Custom indicator Admiral Pivot [DJI30],M1: loaded successfully
+2	18:46:44.880	Custom indicator Admiral Symbol Info [DJI30],M1: loaded successfully
+2	18:46:44.928	Custom indicator RSI Divergence Levels [DJI30],M1: loaded successfully
+2	18:46:45.023	Custom indicator MACD_Volumes-2 [DJI30],M1: loaded successfully
+2	18:46:45.149	Custom indicator Trend Trading\CloudSignalLines [DJI30],M1: loaded successfully
+2	18:46:46.109	Custom indicator MBFX Timing [DJI30],M1: loaded successfully
+2	18:47:13.968	Custom indicator MBFX Timing [DJI30],M1: removed
+2	18:47:14.065	Custom indicator #P4L CandleTime [DJI30],M1: removed
+2	18:47:14.066	Custom indicator TURBO PLUS+ [DJI30],M1: removed
+2	18:47:14.068	Custom indicator ALERT SIGNAL [DJI30],M1: removed
+2	18:47:14.069	Custom indicator TrendTradingCloud [DJI30],M1: removed
+2	18:47:14.071	Custom indicator Admiral Donchian [DJI30],M1: removed
+2	18:47:14.072	Custom indicator Admiral High-Low [DJI30],M1: removed
+2	18:47:14.073	Custom indicator Admiral Keltner [DJI30],M1: removed
+2	18:47:14.075	Custom indicator Admiral Pivot [DJI30],M1: removed
+2	18:47:14.076	Custom indicator Admiral Symbol Info [DJI30],M1: removed
+2	18:47:14.078	Custom indicator RSI Divergence Levels [DJI30],M1: removed
+2	18:47:14.079	Custom indicator MACD_Volumes-2 [DJI30],M1: removed
+2	18:47:14.081	Custom indicator CloudSignalLines [DJI30],M1: removed
+2	18:47:14.163	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	18:47:14.239	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	18:47:14.246	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	18:47:14.311	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	18:47:14.378	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	18:55:16.514	'27123197': modify order #66919635 sell 0.10 [DJI30] at 26271.63 sl: 0.00 tp: 26200.72 -> sl: 0.00 tp: 26268.98
+0	18:55:16.794	'27123197': order #66919635 sell 0.10 [DJI30] at 26271.63 was modified -> sl: 0.00 tp: 26268.98
+0	19:02:25.251	'27123197': order #66919635 sell 0.10 [DJI30] at 26271.63 closed due take-profit at price 26268.64
+2	19:05:59.659	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	19:05:59.727	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	19:05:59.734	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	19:05:59.841	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	19:05:59.854	Expert Admiral - Mini Terminal GOLD,H1: loaded successfully
+0	19:09:41.738	'27123197': order buy market 0.05 GOLD sl: 0.000 tp: 0.000
+0	19:09:42.207	'27123197': order was opened : #66921547 buy 0.05 GOLD at 1715.360 sl: 0.000 tp: 0.000
+0	19:10:03.591	'27123197': modify order #66921547 buy 0.05 GOLD at 1715.360 sl: 0.000 tp: 0.000 -> sl: 1689.622 tp: 0.000
+0	19:10:04.032	'27123197': order #66921547 buy 0.05 GOLD at 1715.360 was modified -> sl: 1689.622 tp: 0.000
+0	19:11:42.049	'27123197': modify order #66921547 buy 0.05 GOLD at 1715.360 sl: 1689.622 tp: 0.000 -> sl: 1689.622 tp: 1746.545
+0	19:11:42.495	'27123197': order #66921547 buy 0.05 GOLD at 1715.360 was modified -> sl: 1689.622 tp: 1746.545
+2	19:12:16.482	Expert Admiral - Mini Terminal GOLD,H1: removed
+2	19:12:16.483	Custom indicator AIMS Levels V2 GOLD,H1: removed
+2	19:12:16.483	Custom indicator AIMS Entry Alert V1 GOLD,H1: removed
+2	19:12:16.484	Custom indicator CandleTimer GOLD,H1: removed
+2	19:12:16.484	Custom indicator AIMS AO V.2.1 GOLD,H1: removed
+2	19:12:16.588	Custom indicator MACD Candles v4 GOLD,H1: loaded successfully
+2	19:12:16.602	Custom indicator Dolly Graphics v14 GOLD,H1: loaded successfully
+2	19:12:32.554	Custom indicator MACD Candles v4 GOLD,H1: removed
+2	19:12:32.555	Custom indicator Dolly Graphics v14 GOLD,H1: removed
+2	19:12:32.585	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: loaded successfully
+2	19:12:32.652	Custom indicator Entry GOLD,H1: loaded successfully
+2	19:12:32.721	Custom indicator Trend GOLD,H1: loaded successfully
+2	19:12:32.738	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	19:12:59.426	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: removed
+2	19:12:59.426	Custom indicator Entry GOLD,H1: removed
+2	19:12:59.426	Custom indicator Trend GOLD,H1: removed
+2	19:12:59.427	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	19:12:59.528	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	19:12:59.595	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	19:12:59.663	Custom indicator phoenix GOLD,H1: loaded successfully
+2	19:12:59.675	Custom indicator FuturoTI GOLD,H1: loaded successfully
+2	19:13:14.684	Custom indicator b-clock modified GOLD,H1: removed
+2	19:13:14.684	Custom indicator AutoTrendChannel GOLD,H1: removed
+2	19:13:14.684	Custom indicator phoenix GOLD,H1: removed
+2	19:13:14.701	Custom indicator FuturoTI GOLD,H1: removed
+2	19:13:14.770	Custom indicator BBand Stop Alert GOLD,H1: loaded successfully
+2	19:13:14.837	Custom indicator DMark_Breakout GOLD,H1: loaded successfully
+2	19:13:35.704	Custom indicator BBand Stop Alert GOLD,H1: removed
+2	19:13:35.704	Custom indicator DMark_Breakout GOLD,H1: removed
+2	19:13:35.777	Custom indicator StochCandles GOLD,H1: loaded successfully
+2	19:13:35.842	Custom indicator PRICE GOLD,H1: loaded successfully
+2	19:13:35.907	Custom indicator ADX_MA GOLD,H1: loaded successfully
+2	19:13:35.973	Custom indicator Trend_Channel GOLD,H1: loaded successfully
+2	19:13:36.040	Custom indicator Wave Arrows GOLD,H1: loaded successfully
+2	19:13:36.125	Custom indicator SupportResistance Areas GOLD,H1: loaded successfully
+2	19:13:36.206	Custom indicator SupportResistance Levels GOLD,H1: loaded successfully
+2	19:13:36.272	Custom indicator TrendFilter2 GOLD,H1: loaded successfully
+2	19:17:22.349	Custom indicator StochCandles GOLD,H1: removed
+2	19:17:22.349	Custom indicator PRICE GOLD,H1: removed
+2	19:17:22.349	Custom indicator ADX_MA GOLD,H1: removed
+2	19:17:22.349	Custom indicator Trend_Channel GOLD,H1: removed
+2	19:17:22.349	Custom indicator Wave Arrows GOLD,H1: removed
+2	19:17:22.349	Custom indicator SupportResistance Areas GOLD,H1: removed
+2	19:17:22.349	Custom indicator SupportResistance Levels GOLD,H1: removed
+2	19:17:22.349	Custom indicator TrendFilter2 GOLD,H1: removed
+2	19:17:22.364	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: loaded successfully
+2	19:17:22.433	Custom indicator Entry GOLD,H1: loaded successfully
+2	19:17:22.510	Custom indicator Trend GOLD,H1: loaded successfully
+2	19:17:22.519	Custom indicator Admiral Pivot GOLD,H1: loaded successfully
+2	19:17:22.528	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: loaded successfully
+2	19:17:22.536	Custom indicator RSI Divergence Levels GOLD,H1: loaded successfully
+2	19:19:01.838	Custom indicator $-ForecastCityIntradayIndicator GOLD,H1: removed
+2	19:19:01.838	Custom indicator Entry GOLD,H1: removed
+2	19:19:01.838	Custom indicator Trend GOLD,H1: removed
+2	19:19:01.840	Custom indicator Admiral Pivot GOLD,H1: removed
+2	19:19:01.842	Custom indicator IVT_MACD_ZERO_LAG GOLD,H1: removed
+2	19:19:01.844	Custom indicator RSI Divergence Levels GOLD,H1: removed
+2	19:19:01.912	Custom indicator b-clock modified GOLD,H1: loaded successfully
+2	19:19:01.979	Custom indicator AutoTrendChannel GOLD,H1: loaded successfully
+2	19:19:02.044	Custom indicator phoenix GOLD,H1: loaded successfully
+2	19:19:30.578	Custom indicator b-clock modified GOLD,H1: removed
+2	19:19:30.578	Custom indicator AutoTrendChannel GOLD,H1: removed
+2	19:19:30.578	Custom indicator phoenix GOLD,H1: removed
+2	19:19:30.651	Custom indicator Time zone Trading GOLD,H1: loaded successfully
+2	19:19:30.719	Custom indicator Bars2 GOLD,H1: loaded successfully
+2	19:19:30.785	Custom indicator Pivot Lines 2 GOLD,H1: loaded successfully
+2	19:19:30.852	Custom indicator Fractals Arrows GOLD,H1: loaded successfully
+2	19:19:30.917	Custom indicator Trend_Line_MA GOLD,H1: loaded successfully
+2	19:19:30.983	Custom indicator Trend_Filter GOLD,H1: loaded successfully
+2	19:19:31.049	Custom indicator bb-squeeze GOLD,H1: loaded successfully
+2	19:21:07.900	Custom indicator Time zone Trading GOLD,H1: removed
+2	19:21:07.900	Custom indicator Bars2 GOLD,H1: removed
+2	19:21:07.900	Custom indicator Pivot Lines 2 GOLD,H1: removed
+2	19:21:07.900	Custom indicator Fractals Arrows GOLD,H1: removed
+2	19:21:07.900	Custom indicator Trend_Line_MA GOLD,H1: removed
+2	19:21:07.900	Custom indicator Trend_Filter GOLD,H1: removed
+2	19:21:07.900	Custom indicator bb-squeeze GOLD,H1: removed
+2	19:21:07.912	Custom indicator HeikenAshi_DM GOLD,H1: loaded successfully
+2	19:21:07.921	Custom indicator DM_DSR GOLD,H1: loaded successfully
+2	19:21:07.930	Custom indicator LJ_SIG GOLD,H1: loaded successfully
+2	19:21:07.941	Custom indicator #MarketPrice _v1_4 GOLD,H1: loaded successfully
+2	19:21:07.965	Custom indicator ABT 5M 15M\CandleCountdown GOLD,H1: loaded successfully
+2	19:21:07.974	Custom indicator LJ_SYNERGY_ID GOLD,H1: loaded successfully
+2	19:21:07.983	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: loaded successfully
+2	19:21:07.992	Custom indicator DM_Volatility GOLD,H1: loaded successfully
+2	19:21:08.001	Custom indicator DM_RangeFactor GOLD,H1: loaded successfully
+2	19:21:08.009	Custom indicator DM_Continuation GOLD,H1: loaded successfully
+2	19:21:08.018	Custom indicator Status Monitor V1.2 GOLD,H1: loaded successfully
+2	19:22:06.026	Custom indicator HeikenAshi_DM GOLD,H1: removed
+2	19:22:06.028	Custom indicator DM_DSR GOLD,H1: removed
+2	19:22:06.029	Custom indicator LJ_SIG GOLD,H1: removed
+2	19:22:06.030	Custom indicator #MarketPrice _v1_4 GOLD,H1: removed
+2	19:22:06.032	Custom indicator CandleCountdown GOLD,H1: removed
+2	19:22:06.033	Custom indicator LJ_SYNERGY_ID GOLD,H1: removed
+2	19:22:06.034	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: removed
+2	19:22:06.036	Custom indicator DM_Volatility GOLD,H1: removed
+2	19:22:06.037	Custom indicator DM_RangeFactor GOLD,H1: removed
+2	19:22:06.039	Custom indicator DM_Continuation GOLD,H1: removed
+2	19:22:06.040	Custom indicator Status Monitor V1.2 GOLD,H1: removed
+2	19:22:06.061	Custom indicator HeikenAshi_DM GOLD,H1: loaded successfully
+2	19:22:06.069	Custom indicator SynergyInd GOLD,H1: loaded successfully
+2	19:22:06.079	Custom indicator ABT 5M 15M\CandleCountdown GOLD,H1: loaded successfully
+2	19:22:06.087	Custom indicator Traders_Dynamic_Index GOLD,H1: loaded successfully
+2	19:22:06.095	Custom indicator Chaikin's Volatility_Kalenzo GOLD,H1: loaded successfully
+2	19:22:33.314	Custom indicator HeikenAshi_DM GOLD,H1: removed
+2	19:22:33.315	Custom indicator SynergyInd GOLD,H1: removed
+2	19:22:33.317	Custom indicator CandleCountdown GOLD,H1: removed
+2	19:22:33.319	Custom indicator Traders_Dynamic_Index GOLD,H1: removed
+2	19:22:33.321	Custom indicator Chaikin's Volatility_Kalenzo GOLD,H1: removed
+2	19:22:33.330	Custom indicator HeikenAshi_DM GOLD,H1: loaded successfully
+2	19:22:33.340	Custom indicator DM_DSR GOLD,H1: loaded successfully
+2	19:22:33.348	Custom indicator LJ_SIG GOLD,H1: loaded successfully
+2	19:22:33.358	Custom indicator #MarketPrice _v1_4 GOLD,H1: loaded successfully
+2	19:22:33.366	Custom indicator ABT 5M 15M\CandleCountdown GOLD,H1: loaded successfully
+2	19:22:33.374	Custom indicator LJ_SYNERGY_ID GOLD,H1: loaded successfully
+2	19:22:33.383	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: loaded successfully
+2	19:22:33.392	Custom indicator DM_Volatility GOLD,H1: loaded successfully
+2	19:22:33.400	Custom indicator DM_RangeFactor GOLD,H1: loaded successfully
+2	19:22:33.408	Custom indicator DM_Continuation GOLD,H1: loaded successfully
+2	19:22:33.417	Custom indicator Status Monitor V1.2 GOLD,H1: loaded successfully
+2	19:23:01.227	Custom indicator HeikenAshi_DM GOLD,H1: removed
+2	19:23:01.229	Custom indicator DM_DSR GOLD,H1: removed
+2	19:23:01.230	Custom indicator LJ_SIG GOLD,H1: removed
+2	19:23:01.232	Custom indicator #MarketPrice _v1_4 GOLD,H1: removed
+2	19:23:01.233	Custom indicator CandleCountdown GOLD,H1: removed
+2	19:23:01.234	Custom indicator LJ_SYNERGY_ID GOLD,H1: removed
+2	19:23:01.236	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: removed
+2	19:23:01.238	Custom indicator DM_Volatility GOLD,H1: removed
+2	19:23:01.239	Custom indicator DM_RangeFactor GOLD,H1: removed
+2	19:23:01.240	Custom indicator DM_Continuation GOLD,H1: removed
+2	19:23:01.242	Custom indicator Status Monitor V1.2 GOLD,H1: removed
+2	19:23:01.253	Custom indicator #LURCH_SRv5 GOLD,H1: loaded successfully
+2	19:23:01.263	Custom indicator Schaff Trend Cycle GOLD,H1: loaded successfully
+2	19:23:01.271	Custom indicator CCI GOLD,H1: loaded successfully
+2	19:23:01.279	Custom indicator Schaff Trend Cycle GOLD,H1: loaded successfully
+2	19:23:17.470	Custom indicator #LURCH_SRv5 GOLD,H1: removed
+2	19:23:17.471	Custom indicator Schaff Trend Cycle GOLD,H1: removed
+2	19:23:17.473	Custom indicator CCI GOLD,H1: removed
+2	19:23:17.474	Custom indicator Schaff Trend Cycle GOLD,H1: removed
+2	19:23:17.487	Custom indicator HeikenAshi_DM GOLD,H1: loaded successfully
+2	19:23:17.496	Custom indicator DM_DSR GOLD,H1: loaded successfully
+2	19:23:17.506	Custom indicator LJ_SIG GOLD,H1: loaded successfully
+2	19:23:17.516	Custom indicator #MarketPrice _v1_4 GOLD,H1: loaded successfully
+2	19:23:17.526	Custom indicator ABT 5M 15M\CandleCountdown GOLD,H1: loaded successfully
+2	19:23:17.535	Custom indicator LJ_SYNERGY_ID GOLD,H1: loaded successfully
+2	19:23:17.544	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: loaded successfully
+2	19:23:17.554	Custom indicator DM_Volatility GOLD,H1: loaded successfully
+2	19:23:17.563	Custom indicator DM_RangeFactor GOLD,H1: loaded successfully
+2	19:23:17.572	Custom indicator DM_Continuation GOLD,H1: loaded successfully
+2	19:23:17.581	Custom indicator Status Monitor V1.2 GOLD,H1: loaded successfully
+2	19:23:24.818	Custom indicator HeikenAshi_DM GOLD,H1: removed
+2	19:23:24.819	Custom indicator DM_DSR GOLD,H1: removed
+2	19:23:24.821	Custom indicator LJ_SIG GOLD,H1: removed
+2	19:23:24.822	Custom indicator #MarketPrice _v1_4 GOLD,H1: removed
+2	19:23:24.823	Custom indicator CandleCountdown GOLD,H1: removed
+2	19:23:24.825	Custom indicator LJ_SYNERGY_ID GOLD,H1: removed
+2	19:23:24.826	Custom indicator Traders Dynamic Index VISUAL ALERTS GOLD,H1: removed
+2	19:23:24.835	Custom indicator DM_Volatility GOLD,H1: removed
+2	19:23:24.836	Custom indicator DM_RangeFactor GOLD,H1: removed
+2	19:23:24.838	Custom indicator DM_Continuation GOLD,H1: removed
+2	19:23:24.839	Custom indicator Status Monitor V1.2 GOLD,H1: removed
+2	19:23:24.865	Custom indicator rsi chart bars GOLD,H1: loaded successfully
+2	19:23:24.874	Custom indicator sell zone fibs GOLD,H1: loaded successfully
+2	19:23:24.883	Custom indicator buy zone fibs GOLD,H1: loaded successfully
+2	19:23:24.892	Custom indicator CCI GOLD,H1: loaded successfully
+2	19:24:03.264	Custom indicator rsi chart bars GOLD,H1: removed
+2	19:24:03.265	Custom indicator sell zone fibs GOLD,H1: removed
+2	19:24:03.267	Custom indicator buy zone fibs GOLD,H1: removed
+2	19:24:03.268	Custom indicator CCI GOLD,H1: removed
+2	19:24:03.278	Custom indicator rsi chart bars GOLD,H1: loaded successfully
+2	19:24:03.349	Custom indicator PBF_2EMA_Color GOLD,H1: loaded successfully
+2	19:24:03.363	Custom indicator vertex_mod_3.01 alerts + arrows GOLD,H1: loaded successfully
+2	19:24:31.258	Custom indicator rsi chart bars GOLD,H1: removed
+2	19:24:31.258	Custom indicator PBF_2EMA_Color GOLD,H1: removed
+2	19:24:31.260	Custom indicator vertex_mod_3.01 alerts + arrows GOLD,H1: removed
+2	19:24:31.331	Custom indicator MACD Candles v4 GOLD,H1: loaded successfully
+2	19:24:43.231	Custom indicator MACD Candles v4 GOLD,H1: removed
+2	19:24:43.303	Custom indicator AIMS Levels V2 GOLD,H1: loaded successfully
+2	19:24:43.371	Custom indicator AIMS Entry Alert V1 GOLD,H1: loaded successfully
+2	19:24:43.378	Custom indicator CandleTimer GOLD,H1: loaded successfully
+2	19:24:43.446	Custom indicator AIMS AO V.2.1 GOLD,H1: loaded successfully
+2	19:24:43.461	Expert Admiral - Mini Terminal GOLD,H1: loaded successfully
+2	19:25:43.604	Expert Admiral - Mini Terminal [DAX30],M1: removed
+2	19:25:43.619	Custom indicator AIMS Levels V2 [DAX30],M1: removed
+2	19:25:43.665	Custom indicator AIMS Entry Alert V1 [DAX30],M1: removed
+2	19:25:43.667	Custom indicator CandleTimer [DAX30],M1: removed
+2	19:25:43.682	Custom indicator AIMS AO V.2.1 [DAX30],M1: removed
+2	19:25:43.778	Custom indicator AIMS Levels V2 [DAX30],M1: loaded successfully
+2	19:25:43.843	Custom indicator AIMS Entry Alert V1 [DAX30],M1: loaded successfully
+2	19:25:43.850	Custom indicator CandleTimer [DAX30],M1: loaded successfully
+2	19:25:43.916	Custom indicator AIMS AO V.2.1 [DAX30],M1: loaded successfully
+2	19:25:43.979	Expert Admiral - Mini Terminal [DAX30],M1: loaded successfully
+2	19:26:09.677	Custom indicator AIMS Levels V2 [NQ100],M1: removed
+2	19:26:09.694	Custom indicator AIMS Entry Alert V1 [NQ100],M1: removed
+2	19:26:09.724	Custom indicator AIMS AO V.2.1 [NQ100],M1: removed
+2	19:26:09.811	Custom indicator AIMS Levels V2 [NQ100],M1: loaded successfully
+2	19:26:09.876	Custom indicator AIMS Entry Alert V1 [NQ100],M1: loaded successfully
+2	19:26:09.883	Custom indicator CandleTimer [NQ100],M1: loaded successfully
+2	19:26:09.949	Custom indicator AIMS AO V.2.1 [NQ100],M1: loaded successfully
+2	19:26:09.973	Expert Admiral - Mini Terminal [NQ100],M1: loaded successfully
+0	19:28:16.677	'27123197': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	19:28:17.084	'27123197': order was opened : #66922431 sell 0.10 [NQ100] at 9666.36 sl: 0.00 tp: 0.00
+0	19:43:03.105	'27123197': close order #66922431 sell 0.10 [NQ100] at 9666.36 sl: 0.00 tp: 0.00 at price 0.00
+0	19:43:03.504	'27123197': order #66922431 sell 0.10 [NQ100] at 9666.36 sl: 0.00 tp: 0.00 closed at price 9647.92
+0	19:43:03.504	'27123197': order buy market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	19:43:03.896	'27123197': order was opened : #66923313 buy 0.10 [NQ100] at 9647.92 sl: 0.00 tp: 0.00
+0	19:45:07.029	'27123197': close order #66923313 buy 0.10 [NQ100] at 9647.92 sl: 0.00 tp: 0.00 at price 0.00
+0	19:45:07.848	'27123197': order #66923313 buy 0.10 [NQ100] at 9647.92 sl: 0.00 tp: 0.00 closed at price 9638.76
+0	19:45:07.848	'27123197': order sell market 0.10 [NQ100] sl: 0.00 tp: 0.00
+0	19:45:08.546	'27123197': order was opened : #66923386 sell 0.10 [NQ100] at 9638.76 sl: 0.00 tp: 0.00
+0	19:52:01.135	'27123197': close order #66923386 sell 0.10 [NQ100] at 9638.76 sl: 0.00 tp: 0.00 at price 0.00
+0	19:52:01.540	'27123197': order #66923386 sell 0.10 [NQ100] at 9638.76 sl: 0.00 tp: 0.00 closed at price 9643.25
+0	20:05:22.763	'27123197': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	20:05:23.376	'27123197': order was opened : #66924364 sell 1.00 [DJI30] at 26158.57 sl: 0.00 tp: 0.00
+0	20:07:07.191	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 26150.55
+0	20:07:07.474	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 0.00 tp: 26150.55
+0	20:07:48.269	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 0.00 tp: 26150.55 -> sl: 0.00 tp: 26149.38
+0	20:07:49.207	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 0.00 tp: 26149.38
+0	20:08:31.513	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 0.00 tp: 26149.38 -> sl: 0.00 tp: 26131.92
+0	20:08:33.258	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 0.00 tp: 26131.92
+2	20:08:52.475	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	20:08:52.476	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	20:08:52.476	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	20:08:52.478	Custom indicator CandleTimer [DJI30],M1: removed
+2	20:08:52.478	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	20:08:52.560	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	20:08:52.639	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	20:08:52.648	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	20:08:52.742	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	20:08:52.757	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	20:09:52.852	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 0.00 tp: 26131.92 -> sl: 26251.44 tp: 26131.92
+0	20:09:53.167	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 26251.44 tp: 26131.92
+2	20:10:00.663	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	20:10:00.681	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	20:10:00.681	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	20:10:00.683	Custom indicator CandleTimer [DJI30],M1: removed
+2	20:10:00.683	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	20:10:00.756	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	20:10:00.831	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	20:10:00.838	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	20:10:00.908	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	20:10:00.921	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+2	20:15:45.047	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	20:15:45.048	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	20:15:45.048	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	20:15:45.050	Custom indicator CandleTimer [DJI30],M1: removed
+2	20:15:45.050	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	20:15:45.127	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	20:15:45.201	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	20:15:45.209	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	20:15:45.283	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	20:15:45.297	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	20:20:58.388	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 26251.44 tp: 26131.92 -> sl: 26251.44 tp: 25750.00
+0	20:20:58.875	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 26251.44 tp: 25750.00
+2	20:23:22.722	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	20:23:22.722	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	20:23:22.723	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	20:23:22.724	Custom indicator CandleTimer [DJI30],M1: removed
+2	20:23:22.724	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	20:23:22.795	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	20:23:22.865	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	20:23:22.873	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	20:23:22.943	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	20:23:22.985	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	20:27:54.534	'27123197': close order #66921547 buy 0.05 GOLD at 1715.360 sl: 1689.622 tp: 1746.545 at price 0.000
+0	20:27:55.015	'27123197': order #66921547 buy 0.05 GOLD at 1715.360 sl: 1689.622 tp: 1746.545 closed at price 1720.190
+0	20:42:06.460	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 26251.44 tp: 25750.00 -> sl: 26266.52 tp: 25750.00
+0	20:42:06.746	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 26266.52 tp: 25750.00
+0	20:44:31.710	'27123197': modify order #66924364 sell 1.00 [DJI30] at 26158.57 sl: 26266.52 tp: 25750.00 -> sl: 26270.60 tp: 25750.00
+0	20:44:32.016	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 was modified -> sl: 26270.60 tp: 25750.00
+0	20:45:08.079	'27123197': order #66924364 sell 1.00 [DJI30] at 26158.57 closed due stop-loss at price 26270.66
+0	20:45:58.642	'27123197': order sell market 1.00 [DJI30] sl: 0.00 tp: 0.00
+0	20:45:59.188	'27123197': order was opened : #66926330 sell 1.00 [DJI30] at 26262.22 sl: 0.00 tp: 0.00
+0	21:58:15.873	'27123197': modify order #66926330 sell 1.00 [DJI30] at 26262.22 sl: 0.00 tp: 0.00 -> sl: 26270.95 tp: 0.00
+0	21:58:16.151	'27123197': order #66926330 sell 1.00 [DJI30] at 26262.22 was modified -> sl: 26270.95 tp: 0.00
+0	21:58:36.470	'27123197': modify order #66926330 sell 1.00 [DJI30] at 26262.22 sl: 26270.95 tp: 0.00 -> sl: 26181.50 tp: 0.00
+0	21:58:36.742	'27123197': order #66926330 sell 1.00 [DJI30] at 26262.22 was modified -> sl: 26181.50 tp: 0.00
+0	21:58:47.227	'27123197': order #66926330 sell 1.00 [DJI30] at 26262.22 closed due stop-loss at price 26182.27
+0	21:59:16.865	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	21:59:17.378	'27123197': order was opened : #66930346 sell 0.50 [DJI30] at 26183.74 sl: 0.00 tp: 0.00
+0	22:02:12.593	'27123197': modify order #66930346 sell 0.50 [DJI30] at 26183.74 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 26181.83
+0	22:02:12.909	'27123197': order #66930346 sell 0.50 [DJI30] at 26183.74 was modified -> sl: 0.00 tp: 26181.83
+0	22:03:01.798	'27123197': modify order #66930346 sell 0.50 [DJI30] at 26183.74 sl: 0.00 tp: 26181.83 -> sl: 0.00 tp: 26171.74
+0	22:03:02.090	'27123197': order #66930346 sell 0.50 [DJI30] at 26183.74 was modified -> sl: 0.00 tp: 26171.74
+0	22:05:05.683	'27123197': modify order #66930346 sell 0.50 [DJI30] at 26183.74 sl: 0.00 tp: 26171.74 -> sl: 0.00 tp: 26164.26
+0	22:05:05.957	'27123197': order #66930346 sell 0.50 [DJI30] at 26183.74 was modified -> sl: 0.00 tp: 26164.26
+0	22:05:33.344	'27123197': modify order #66930346 sell 0.50 [DJI30] at 26183.74 sl: 0.00 tp: 26164.26 -> sl: 0.00 tp: 26180.20
+0	22:05:33.631	'27123197': order #66930346 sell 0.50 [DJI30] at 26183.74 was modified -> sl: 0.00 tp: 26180.20
+0	22:05:38.459	'27123197': order #66930346 sell 0.50 [DJI30] at 26183.74 closed due take-profit at price 26180.03
+2	22:06:47.291	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	22:06:47.292	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	22:06:47.292	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	22:06:47.293	Custom indicator CandleTimer [DJI30],M1: removed
+2	22:06:47.293	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	22:06:47.373	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	22:06:47.441	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	22:06:47.468	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	22:06:47.534	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	22:06:47.644	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	22:07:25.680	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	22:07:26.128	'27123197': order was opened : #66930845 sell 0.50 [DJI30] at 26153.11 sl: 0.00 tp: 0.00
+0	22:07:44.211	'27123197': close order #66930845 sell 0.50 [DJI30] at 26153.11 sl: 0.00 tp: 0.00 at price 0.00
+0	22:07:45.000	'27123197': order #66930845 sell 0.50 [DJI30] at 26153.11 sl: 0.00 tp: 0.00 closed at price 26134.21
+0	22:08:53.542	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	22:08:54.134	'27123197': order was opened : #66930965 sell 0.50 [DJI30] at 26153.01 sl: 0.00 tp: 0.00
+0	22:10:02.542	'27123197': close order #66930965 sell 0.50 [DJI30] at 26153.01 sl: 0.00 tp: 0.00 at price 0.00
+0	22:10:03.040	'27123197': order #66930965 sell 0.50 [DJI30] at 26153.01 sl: 0.00 tp: 0.00 closed at price 26159.97
+0	22:11:08.334	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	22:11:08.881	'27123197': order was opened : #66931065 sell 0.50 [DJI30] at 26150.45 sl: 0.00 tp: 0.00
+0	22:15:04.929	'27123197': close order #66931065 sell 0.50 [DJI30] at 26150.45 sl: 0.00 tp: 0.00 at price 0.00
+0	22:15:05.504	'27123197': order #66931065 sell 0.50 [DJI30] at 26150.45 sl: 0.00 tp: 0.00 closed at price 26114.74
+0	22:16:33.964	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	22:16:34.569	'27123197': order was opened : #66931404 sell 0.50 [DJI30] at 26106.09 sl: 0.00 tp: 0.00
+0	23:09:13.199	'27123197': modify order #66931404 sell 0.50 [DJI30] at 26106.09 sl: 0.00 tp: 0.00 -> sl: 26305.51 tp: 0.00
+0	23:09:13.471	'27123197': order #66931404 sell 0.50 [DJI30] at 26106.09 was modified -> sl: 26305.51 tp: 0.00
+0	23:37:11.846	'27123197': order #66931404 sell 0.50 [DJI30] at 26106.09 closed due stop-loss at price 26306.26
+2	23:41:38.908	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	23:41:38.935	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	23:41:38.953	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	23:41:38.968	Custom indicator CandleTimer [DJI30],M1: removed
+2	23:41:38.986	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	23:41:39.062	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	23:41:39.129	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	23:41:39.156	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	23:41:39.270	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	23:41:39.408	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
+0	23:53:16.638	'27123197': order sell market 0.50 [DJI30] sl: 0.00 tp: 0.00
+0	23:53:17.276	'27123197': order was opened : #66934277 sell 0.50 [DJI30] at 26308.66 sl: 0.00 tp: 0.00
+0	23:53:25.647	'27123197': modify order #66934277 sell 0.50 [DJI30] at 26308.66 sl: 0.00 tp: 0.00 -> sl: 26403.83 tp: 0.00
+0	23:53:25.921	'27123197': order #66934277 sell 0.50 [DJI30] at 26308.66 was modified -> sl: 26403.83 tp: 0.00
+0	23:53:42.294	'27123197': modify order #66934277 sell 0.50 [DJI30] at 26308.66 sl: 26403.83 tp: 0.00 -> sl: 26403.83 tp: 26067.81
+0	23:53:42.563	'27123197': order #66934277 sell 0.50 [DJI30] at 26308.66 was modified -> sl: 26403.83 tp: 26067.81
+2	23:57:04.129	Expert Admiral - Mini Terminal [DJI30],M1: removed
+2	23:57:04.129	Custom indicator AIMS Levels V2 [DJI30],M1: removed
+2	23:57:04.129	Custom indicator AIMS Entry Alert V1 [DJI30],M1: removed
+2	23:57:04.131	Custom indicator CandleTimer [DJI30],M1: removed
+2	23:57:04.131	Custom indicator AIMS AO V.2.1 [DJI30],M1: removed
+2	23:57:04.222	Custom indicator AIMS Levels V2 [DJI30],M1: loaded successfully
+2	23:57:04.286	Custom indicator AIMS Entry Alert V1 [DJI30],M1: loaded successfully
+2	23:57:04.293	Custom indicator CandleTimer [DJI30],M1: loaded successfully
+2	23:57:04.358	Custom indicator AIMS AO V.2.1 [DJI30],M1: loaded successfully
+2	23:57:04.392	Expert Admiral - Mini Terminal [DJI30],M1: loaded successfully
